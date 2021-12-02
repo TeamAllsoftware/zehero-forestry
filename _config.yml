@@ -37,6 +37,18 @@ theme: minima
 include: ["_pages", "_redirects"]
 plugins:
   - jekyll-feed
+  - jekyll-get-json
+
+# API JSON
+
+jekyll_get_json:
+  - data: wiki
+    json: "https://en.wikipedia.org/w/api.php?action=query&origin=*&format=json&generator=search&gsrnamespace=0&gsrlimit=5&gsrsearch='New_England_Patriots'
+"
+    cache: true
+  - data: projects
+    json: "http://www.googleapis.com/books/v1/volumes?q=isbn"
+    cache: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
