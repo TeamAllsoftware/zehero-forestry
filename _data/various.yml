@@ -1,0 +1,85 @@
+# add this {{ site.data.various.linagora-logo }} to post linagora logo anywhere
+linagora-logo-nav: /assets/images/logo-linagora-180.png
+
+# Social networks
+linagora-corp-facebook: https://www.facebook.com/tux.linagora/
+linagora-corp-instagram: https://www.instagram.com/linagora
+linagora-corp-twitter: https://twitter.com/linagora
+linagora-corp-linkedin: https://www.linkedin.com/company/linagora/
+linagora-corp-youtube: https://www.youtube.com/user/groupelinagora
+linagora-corp-github: https://github.com/linagora
+linagora-corp-gitlab: https://gitlab.com/linagora
+
+linagora-twake-bug-report: https://github.com/Twake/Twake/labels/bug
+twake-github: https://github.com/twake
+twake-twitter:
+twake-facebook:
+twake-linkedin:
+twake-gitlab:
+
+# APP availbility
+mobile-ios:
+mobile-android:
+
+webapp-chrome:
+webapp-safari:
+webapp-edge:
+webapp-firefox:
+
+desktopapp-macos:
+desktopapp-windows:
+desktopapp-linux:
+
+# Various content internationalized
+various-text:
+  en:
+    link-to-homepage: /en/
+    read-more-text: "Read more"
+    linagora-mission: "Our mission is to invent and develop ethical and open source ‘Good’ TECH to make the world a better place by having a maximum positive impact on people, society and the planet!"
+
+  fr:
+    link-to-homepage: /fr/
+    read-more-text: "Lire davantage"
+    linagora-mission: "Inventer et développer des Logiciels Libres et Open source éthiques pour participer à changer le Monde en ayant un maximum d'impacts positifs pour l'Homme, la Société et la Planète."
+
+# Contact-form block close footer
+contact-form:
+  en:
+    headline: 'Contact-Us'
+    baseline: 'You can help us in many ways!'
+    email: 'info@linagora.com'
+    phone: '+33 (0)1 46 96 63 63'
+    phrase1: ' Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days.'
+    phrase2: 'We are open from 9am — 6pm week days.'
+    form-field-name: 'Your name'
+    form-field-email: 'Email address'
+    form-field-message: 'Message'
+    form-field-button-text: 'End enquiry'
+
+  fr:
+    headline: "Contactez-nous"
+    baseline: "Nous sommes la pour vous, n'hésitez pas à nous contacter d'une manière ou d'une autre. Ensemble participons à changer le monde!"
+    form-field-name: "Vos nom et prénom"
+    form-field-email: "Votre email"
+    form-field-message: "Message"
+    form-field-button-text: "Envoyer"
+    generic:
+      email: "info@linagora.com"
+      phone1: "+33 (0)1 46 96 63 63"
+      phrase1: "Appelez-nous ou écrivez-nous quelque soit votre sujet, nous vous répondrons le rapidement possible."
+      phrase2: "Nous sommes joignable tous les jours ouvrés de 9h à 18h"
+    press:
+      agencyname: "BS Conseil & Communication"
+      email: "presse@linagora.com"
+      name1: "Georges-Antoine Gary"
+      phone1: "06 12 13 86 88"
+      name2: "Bruno Sanvoisin"
+      phone2: "06 82 52 62 39"
+      phrase1: "Contactez Georges-Antoine et Bruno"
+      phrase2: "Ils vous communiqueront les éléments relatifs à une bonne préparation!"
+
+# url image.serv.nel to optimize image dynamically
+image-manipulate-preimgurl: 'https://images.weserv.nl/?url=https://preprod.linagora.com'
+image-manipulate-postimgurl-cover: '&w=1200'
+image-manipulate-postimgurl-freezise: '&w='
+image-manipulate-postimgurl-postlist: '&w=400&h=250&fit=cover&a='

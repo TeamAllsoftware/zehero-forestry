@@ -1,0 +1,49 @@
+col1:
+  title: "Produits & Services"
+  link:
+  - subtitle: 'Twake'
+    subhref: /fr/produits/twake/
+  - subtitle: 'LinShare'
+    subhref: /fr/produits/linshare/
+  - subtitle: 'LinTO'
+    subhref: /fr/produits/linto/
+  - subtitle: Open Source Software Assurance
+    subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+  - subtitle: 'LUX model'
+    subhref: /fr/ossa-et-support/lux-model/
+  - subtitle: "Expertise et accompagnement"
+    subhref: /fr/services-professionels/expertise-et-accompagnement/
+  - subtitle: 'Formation / Open Hackademy'
+    subhref: /fr/services-professionels/formation/
+
+col2:
+  title: "Notre communauté"
+  link:
+  - subtitle: 'Comment contribuer?'
+    subhref: /fr/communaute/comment-contribuer/
+  - subtitle: 'Code de conduite'
+    subhref: /fr/communaute/code-de-conduite/
+  - subtitle: 'Rejoignez-nous sur Github'
+    subhref: 'https://github.com/linagora'
+  - subtitle: 'Rejoignez-nous sur Gitlab'
+    subhref: 'https://gitlab.com/linagora'
+  - subtitle: 'Bug Report'
+    subhref: 'https://github.com/Twake/Twake/labels/bug'
+
+col3:
+  title: "LINAGORA"
+  link:
+  - subtitle: 'Contactez-nous <i class="icon--xs icon-Speach-Bubble"></i>'
+    subhref: /fr/contact/
+  - subtitle: Notre mission
+    subhref: /fr/a-propos/notre-mission/
+  - subtitle: Nous rejoindre
+    subhref: /fr/a-propos/nous-rejoindre/
+  - subtitle: GoodTechForGood
+    subhref: /fr/goodtechforgood/
+  - subtitle: Fantastic Enterprise
+    subhref: "https://www.fantastic-enterprise.com"
+  - subtitle: 'Relations presse'
+    subhref: /fr/relations-presse/
+  - subtitle: English
+    subhref: /en/

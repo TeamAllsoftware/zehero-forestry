@@ -1,27 +1,111 @@
-<header class="site-header">
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light bg-transparent header-light fixed-top navbar-boxed header-reverse-scroll">
+                <div class="container-fluid nav-header-container">
+                    <div class="col-5 col-lg-2 ps-lg-0 me-auto me-lg-0">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="images/global/logo-ZeHero-white.png" data-at2x="images/global/logo-ZeHero-white.png" alt="" class="default-logo">
+                            <img src="images/global/logo-ZeHero-brown.png" data-at2x="images/global/logo-ZeHero-brown.png" alt="" class="alt-logo">
+                            <img src="images/global/logo-ZeHero-black.png" data-at2x="images/global/logo-ZeHero-black.png" class="mobile-logo" alt="">
+                        </a>
+                    </div>
+                    <div class="col-auto col-lg-8 md-position-initial md-no-padding">
+                        <button class="navbar-toggler float-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                        </button>
+                        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                            <ul class="navbar-nav alt-font">
 
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </a>
-
-      <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </nav>
-
-  </div>
-
-</header>
+                                {% for item in site.data.menu.fr %}  
+                                <li class="nav-item dropdown simple-dropdown">
+                                    <a href="{{ item.url }}" class="nav-link">{{ item.title }}</a>
+                                    <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class="dropdown">
+                                            <a data-bs-toggle="dropdown" href="javascript:void(0);">About<i class="fas fa-angle-right dropdown-toggle"></i></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="about-me.html">About me</a></li>
+                                                <li><a href="about-us.html">About us</a></li>
+                                                <li><a href="our-story.html">Our story</a></li>
+                                                <li><a href="who-we-are.html">Who we are</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a data-bs-toggle="dropdown" href="javascript:void(0);">Services<i class="fas fa-angle-right dropdown-toggle"></i></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="our-services.html">Our services</a></li>
+                                                <li><a href="what-we-offers.html">What we offer</a></li>
+                                                <li><a href="our-process.html">Our process</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a data-bs-toggle="dropdown" href="javascript:void(0);">Contact<i class="fas fa-angle-right dropdown-toggle"></i></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="contact-us-simple.html">Contact simple</a></li>
+                                                <li><a href="contact-us-classic.html">Contact classic</a></li>
+                                                <li><a href="contact-us-modern.html">Contact modern</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a data-bs-toggle="dropdown" href="javascript:void(0);">Additional pages<i class="fas fa-angle-right dropdown-toggle"></i></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="our-team.html">Our team</a></li>
+                                                <li><a href="latest-news.html">Latest news</a></li>
+                                                <li><a href="pricing-packages.html">Pricing packages</a></li>
+                                                <li><a href="404.html">Error 404</a></li>
+                                                <li><a href="maintenance.html">Maintenance</a></li>
+                                                <li><a href="coming-soon.html">Coming soon</a></li>
+                                                <li><a href="coming-soon-v2.html">Coming soon - V2</a></li>
+                                                <li><a href="faq.html">FAQ's</a></li>
+                                                <li><a href="search-result.html">Search result</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                {% endfor %}
+                                <li class="nav-item dropdown megamenu">
+                                    <a href="javascript:void(0);" class="nav-link">Shop</a>
+                                    <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                                    <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
+                                        <div class="d-lg-flex justify-content-center">
+                                            <ul class="d-lg-inline-block md-margin-15px-bottom">
+                                                <li class="dropdown-header">Shop layout</li>
+                                                <li><a href="shop-wide.html">Shop wide</a></li>
+                                                <li><a href="shop-left-sidebar.html">Left sidebar</a></li>
+                                                <li><a href="shop-right-sidebar.html">Right sidebar</a></li>
+                                                <li><a href="shop-only-categories.html">Only categories</a></li>
+                                                <li><a href="single-product.html">Single product</a></li>
+                                                <li class="dropdown-header">Utility pages</li>
+                                                <li><a href="shopping-cart.html">Shopping cart</a></li>
+                                                <li><a href="checkout.html">Checkout</a></li>
+                                                <li><a href="login-register.html">Login / Register</a></li>
+                                            </ul>
+                                            <ul class="d-lg-inline-block d-none small-gap">
+                                                <li>
+                                                    <a href="index.html" class="menu-banner-image"><img src="images/menu-banner-01.jpg" alt=""/></a>
+                                                </li>
+                                            </ul>
+                                            <ul class="d-lg-inline-block d-none no-padding-right">
+                                                <li>
+                                                    <a href="index.html" class="menu-banner-image"><img src="images/menu-banner-02.jpg" alt=""/></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-auto col-lg-2 text-end hidden-xs px-lg-0">
+                        <div class="header-social-icon d-inline-block">
+                            <a href="{{ site.facebook_username }}" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                            <a href="{{ site.instagram_username }}" target="_blank"><i class="fab fa-instagram"></i></a>
+                            <a href="{{ site.linkedin_username }}" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <!-- end header -->
