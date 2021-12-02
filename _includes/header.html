@@ -2,10 +2,10 @@
             <nav class="navbar navbar-expand-lg navbar-light bg-transparent header-light fixed-top navbar-boxed header-reverse-scroll">
                 <div class="container-fluid nav-header-container">
                     <div class="col-5 col-lg-2 ps-lg-0 me-auto me-lg-0">
-                        <a class="navbar-brand" href="index.html">
-                            <img src="images/global/logo-ZeHero-white.png" data-at2x="images/global/logo-ZeHero-white.png" alt="" class="default-logo">
-                            <img src="images/global/logo-ZeHero-brown.png" data-at2x="images/global/logo-ZeHero-brown.png" alt="" class="alt-logo">
-                            <img src="images/global/logo-ZeHero-black.png" data-at2x="images/global/logo-ZeHero-black.png" class="mobile-logo" alt="">
+                        <a class="navbar-brand" href="/">
+                            <img src="/images/global/logo-ZeHero-white.png" data-at2x="/images/global/logo-ZeHero-white.png" alt="" class="default-logo">
+                            <img src="/images/global/logo-ZeHero-brown.png" data-at2x="/images/global/logo-ZeHero-brown.png" alt="" class="alt-logo">
+                            <img src="/images/global/logo-ZeHero-black.png" data-at2x="/images/global/logo-ZeHero-black.png" class="mobile-logo" alt="">
                         </a>
                     </div>
                     <div class="col-auto col-lg-8 md-position-initial md-no-padding">
@@ -20,7 +20,7 @@
 
                                 {% for item in site.data.menu.fr %}  
                                 <li class="nav-item dropdown simple-dropdown">
-                                    <a href="{{ item.url }}" class="nav-link">{{ item.title }}</a>
+                                    <a href="{{ item.subhref }}" class="nav-link">{{ item.title }}</a>
                                     <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                                     <ul class="dropdown-menu" role="menu">
                                         <li class="dropdown">
