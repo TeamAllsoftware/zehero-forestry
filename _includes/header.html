@@ -61,10 +61,13 @@
                             {% assign list_season = site.data.config.seasons %}
                             {% assign opposite_season = list_season| array_to_sentence_string: '' | remove: page.season | strip  %}
 
+                            {% assign list_language = site.data.config.languages %}
+                            {% assign opposite_language = list_language| array_to_sentence_string: '' | remove: page.language | strip  %}
+
                             <a href="/{{ language }}/{{ site.data.config.[language].season.[opposite_season]name }}"><i class="feather {{ site.data.config.[language].season.[opposite_season]icon }} {{ site.data.config.[language].season.[opposite_season]color }}"></i></a>
                             
                           
-
+                            <a href="/{{ opposite_language }}/{{ site.data.config.[opposite_language].season.[season]name }}">{{ opposite_language }}</a>
 
                             <a href="{{ site.facebook_username }}" target="_blank"><i class="fab fa-facebook-f"></i></a>
                             <a href="{{ site.instagram_username }}" target="_blank"><i class="fab fa-instagram"></i></a>

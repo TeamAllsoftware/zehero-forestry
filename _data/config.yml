@@ -1,9 +1,8 @@
 #languages
-lang_fr: fr
-lang_en: en
+languages: [fr,en]
 
 #list season
-seasons: [winter, summer]
+seasons: [winter,summer]
 
 fr:
   season:
@@ -17,8 +16,14 @@ fr:
       color: text-black
 en:
   season:
-    winter: winter
-    summer: summer
+    winter: 
+      name: winter
+      icon: icon-feather-cloud-snow
+      color: text-black
+    summer: 
+      name: summer
+      icon: icon-feather-sun
+      color: text-black
 
 #common text
 slogan:
