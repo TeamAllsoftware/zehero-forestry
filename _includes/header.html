@@ -1,8 +1,19 @@
+{% assign language = page.language %}
+{% assign season = page.season %}
+{% assign season_language = site.data.config.[language].season.[season]name %}
+{% assign menu = site.data.menu.[language] %}
+
+{% assign list_season = site.data.config.seasons %}
+{% assign opposite_season = list_season| array_to_sentence_string: '' | remove: page.season | strip  %}
+
+{% assign list_language = site.data.config.languages %}
+{% assign opposite_language = list_language| array_to_sentence_string: '' | remove: page.language | strip  %}
+
         <header>
             <nav class="navbar navbar-expand-lg navbar-light bg-transparent header-light fixed-top navbar-boxed header-reverse-scroll">
                 <div class="container-fluid nav-header-container">
                     <div class="col-5 col-lg-2 ps-lg-0 me-auto me-lg-0">
-                        <a class="navbar-brand" href="/">
+                        <a class="navbar-brand" href="/{{ page.language }}/{{ season_language }}">
                             <img src="/images/global/logo-ZeHero-white.png" data-at2x="/images/global/logo-ZeHero-white.png" alt="" class="default-logo">
                             <img src="/images/global/logo-ZeHero-brown.png" data-at2x="/images/global/logo-ZeHero-brown.png" alt="" class="alt-logo">
                             <img src="/images/global/logo-ZeHero-black.png" data-at2x="/images/global/logo-ZeHero-black.png" class="mobile-logo" alt="">
@@ -18,11 +29,6 @@
                          <!-- Start menu -->
                         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                             <ul class="navbar-nav alt-font">
-                                {% assign language = page.language %}
-                                {% assign season = page.season %}
-                                {% assign menu = site.data.menu.[language] %}
-
-                               
                                 {% for nav in menu %}
                                 {% if nav.subcategories != null %}
                                 <li class="nav-item dropdown megamenu">
@@ -37,7 +43,7 @@
                                                 {% elsif subcategory.external %}
                                                 <li><a href="{{ subcategory.external.subhref }}">{{ subcategory.external.subtitle }}</a></li>
                                                 {% else %}  
-                                                <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                                                <li><a href="/{{ language }}/{{ season_language }}/{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
                                                 {% endif %}
                                                 {% endfor %}
                                             </ul>
@@ -58,11 +64,6 @@
                     </div> 
                     <div class="col-auto col-lg-2 text-end hidden-xs px-lg-0">
                         <div class="header-social-icon d-inline-block">
-                            {% assign list_season = site.data.config.seasons %}
-                            {% assign opposite_season = list_season| array_to_sentence_string: '' | remove: page.season | strip  %}
-
-                            {% assign list_language = site.data.config.languages %}
-                            {% assign opposite_language = list_language| array_to_sentence_string: '' | remove: page.language | strip  %}
 
                             <a href="/{{ language }}/{{ site.data.config.[language].season.[opposite_season]name }}"><i class="feather {{ site.data.config.[language].season.[opposite_season]icon }} {{ site.data.config.[language].season.[opposite_season]color }}"></i></a>
                             

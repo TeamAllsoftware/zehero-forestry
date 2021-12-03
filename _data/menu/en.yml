@@ -69,6 +69,9 @@
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Liste complète des articles</span>'
       subhref: '/fr/produits/'
+    - subtitle-bold: "___"
+    - subtitle: '<span class="type--fine-print type--italic">Nous contacter</span>'
+      subhref: 'contact/'
 
 
 
