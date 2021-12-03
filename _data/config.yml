@@ -1,0 +1,14 @@
+#languages
+lang_fr: fr
+lang_en: en
+
+#seasons
+season_w: winter
+season_s: summer
+
+#common text
+slogan:
+  fr:
+    owol: "Outdoor Way Of Life"
+  en: 
+    owol: "Outdoor Way Of Life"

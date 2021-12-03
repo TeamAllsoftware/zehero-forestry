@@ -15,88 +15,45 @@
                             <span class="navbar-toggler-line"></span>
                             <span class="navbar-toggler-line"></span>
                         </button>
+                         <!-- Start menu -->
                         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                             <ul class="navbar-nav alt-font">
+                                {% assign nav_language = page.language %}
+                                {% assign menu = site.data.menu.[nav_language] %}
 
-                                {% for item in site.data.menu.fr %}  
-                                <li class="nav-item dropdown simple-dropdown">
-                                    <a href="{{ item.subhref }}" class="nav-link">{{ item.title }}</a>
-                                    <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li class="dropdown">
-                                            <a data-bs-toggle="dropdown" href="javascript:void(0);">About<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="about-me.html">About me</a></li>
-                                                <li><a href="about-us.html">About us</a></li>
-                                                <li><a href="our-story.html">Our story</a></li>
-                                                <li><a href="who-we-are.html">Who we are</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a data-bs-toggle="dropdown" href="javascript:void(0);">Services<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="our-services.html">Our services</a></li>
-                                                <li><a href="what-we-offers.html">What we offer</a></li>
-                                                <li><a href="our-process.html">Our process</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a data-bs-toggle="dropdown" href="javascript:void(0);">Contact<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="contact-us-simple.html">Contact simple</a></li>
-                                                <li><a href="contact-us-classic.html">Contact classic</a></li>
-                                                <li><a href="contact-us-modern.html">Contact modern</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a data-bs-toggle="dropdown" href="javascript:void(0);">Additional pages<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="our-team.html">Our team</a></li>
-                                                <li><a href="latest-news.html">Latest news</a></li>
-                                                <li><a href="pricing-packages.html">Pricing packages</a></li>
-                                                <li><a href="404.html">Error 404</a></li>
-                                                <li><a href="maintenance.html">Maintenance</a></li>
-                                                <li><a href="coming-soon.html">Coming soon</a></li>
-                                                <li><a href="coming-soon-v2.html">Coming soon - V2</a></li>
-                                                <li><a href="faq.html">FAQ's</a></li>
-                                                <li><a href="search-result.html">Search result</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                {% endfor %}
+                               
+                                {% for nav in menu %}
+                                {% if nav.subcategories != null %}
                                 <li class="nav-item dropdown megamenu">
-                                    <a href="javascript:void(0);" class="nav-link">Shop</a>
+                                    <a href="javascript:void(0);" class="nav-link">{{ nav.title }}</a>
                                     <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                                     <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
                                         <div class="d-lg-flex justify-content-center">
                                             <ul class="d-lg-inline-block md-margin-15px-bottom">
-                                                <li class="dropdown-header">Shop layout</li>
-                                                <li><a href="shop-wide.html">Shop wide</a></li>
-                                                <li><a href="shop-left-sidebar.html">Left sidebar</a></li>
-                                                <li><a href="shop-right-sidebar.html">Right sidebar</a></li>
-                                                <li><a href="shop-only-categories.html">Only categories</a></li>
-                                                <li><a href="single-product.html">Single product</a></li>
-                                                <li class="dropdown-header">Utility pages</li>
-                                                <li><a href="shopping-cart.html">Shopping cart</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
-                                                <li><a href="login-register.html">Login / Register</a></li>
+                                                {% for subcategory in nav.subcategories %}
+                                                {% if subcategory.subtitle-bold %}
+                                                <li class="dropdown-header">{{ subcategory.subtitle-bold }}</li>
+                                                {% elsif subcategory.external %}
+                                                <li><a href="{{ subcategory.external.subhref }}">{{ subcategory.external.subtitle }}</a></li>
+                                                {% else %}  
+                                                <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                                                {% endif %}
+                                                {% endfor %}
                                             </ul>
-                                            <ul class="d-lg-inline-block d-none small-gap">
-                                                <li>
-                                                    <a href="index.html" class="menu-banner-image"><img src="images/menu-banner-01.jpg" alt=""/></a>
-                                                </li>
-                                            </ul>
+                                            
                                             <ul class="d-lg-inline-block d-none no-padding-right">
                                                 <li>
-                                                    <a href="index.html" class="menu-banner-image"><img src="images/menu-banner-02.jpg" alt=""/></a>
+                                                    <a href="index.html" class="menu-banner-image"><img src="/images/global/menu-banner-02.jpg" alt=""/></a>
                                                 </li>
                                             </ul>
                                         </div>
                                     </div>
                                 </li>
+                                {% endif %}
+                                {% endfor %}
                             </ul>
                         </div>
+                         <!-- End menu -->
                     </div>
                     <div class="col-auto col-lg-2 text-end hidden-xs px-lg-0">
                         <div class="header-social-icon d-inline-block">
