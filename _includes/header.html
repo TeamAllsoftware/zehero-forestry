@@ -18,8 +18,9 @@
                          <!-- Start menu -->
                         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                             <ul class="navbar-nav alt-font">
-                                {% assign nav_language = page.language %}
-                                {% assign menu = site.data.menu.[nav_language] %}
+                                {% assign language = page.language %}
+                                {% assign season = page.season %}
+                                {% assign menu = site.data.menu.[language] %}
 
                                
                                 {% for nav in menu %}
@@ -54,9 +55,17 @@
                             </ul>
                         </div>
                          <!-- End menu -->
-                    </div>
+                    </div> 
                     <div class="col-auto col-lg-2 text-end hidden-xs px-lg-0">
                         <div class="header-social-icon d-inline-block">
+                            {% assign list_season = site.data.config.seasons %}
+                            {% assign opposite_season = list_season| array_to_sentence_string: '' | remove: page.season | strip  %}
+
+                            <a href="/{{ language }}/{{ site.data.config.[language].season.[opposite_season]name }}"><i class="feather {{ site.data.config.[language].season.[opposite_season]icon }} {{ site.data.config.[language].season.[opposite_season]color }}"></i></a>
+                            
+                          
+
+
                             <a href="{{ site.facebook_username }}" target="_blank"><i class="fab fa-facebook-f"></i></a>
                             <a href="{{ site.instagram_username }}" target="_blank"><i class="fab fa-instagram"></i></a>
                             <a href="{{ site.linkedin_username }}" target="_blank"><i class="fab fa-linkedin"></i></a>

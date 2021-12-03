@@ -2,9 +2,23 @@
 lang_fr: fr
 lang_en: en
 
-#seasons
-season_w: winter
-season_s: summer
+#list season
+seasons: [winter, summer]
+
+fr:
+  season:
+    winter: 
+      name: hiver
+      icon: icon-feather-cloud-snow
+      color: text-black
+    summer: 
+      name: ete
+      icon: icon-feather-sun
+      color: text-black
+en:
+  season:
+    winter: winter
+    summer: summer
 
 #common text
 slogan:
