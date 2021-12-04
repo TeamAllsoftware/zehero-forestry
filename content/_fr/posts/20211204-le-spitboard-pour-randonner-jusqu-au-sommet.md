@@ -3,7 +3,7 @@ layout: blog_post
 language: fr
 season: winter
 
-author: yannalarcon
+author: geoffreyarduini
 
 title: Le splitboard pour randonner jusqu'au sommet
 description: "Le premier article du blog pour la saison hiver afin de voir comment organiser tout cela."

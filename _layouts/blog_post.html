@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
+{% assign author = site.data.authors[page.author] %}
 <!-- start section-->
-<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url({{ page.image01_href }} );">
+<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url( {{ page.image01_href }} );">
 </section>
 <!-- end section -->
 <!-- start section-->
@@ -14,7 +14,7 @@ layout: default
                 <div class="w-1px h-90px bg-white mx-auto absolute-middle-center top-0px"></div>
                 <div class="text-uppercase text-medium font-weight-500 margin-25px-bottom alt-font"><a href="blog-grid.html" class="text-white d-inline-block">Creative</a><span class="margin-20px-lr w-1px h-10px bg-white d-inline-block"></span><a href="blog-grid.html" class="d-inline-block text-white">Freebies</a><span class="margin-20px-lr w-1px h-10px bg-white d-inline-block"></span><a href="blog-grid.html" class="d-inline-block text-white">Events</a></div>
                 <h3 class="font-weight-600 w-50 mx-auto md-w-70 xs-w-90">{{ page.title }}</h3>
-                <div class="d-inline-block text-white-transparent margin-5px-top">By <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">Shane smith</a> on <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ page.date }}</a></div>
+                <div class="d-inline-block text-white-transparent margin-5px-top">By <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ author.firstname }} {{ author.lastname }}</a> on <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ page.date | date_to_string }}</a></div>
             </div>
         </div>
     </div>
