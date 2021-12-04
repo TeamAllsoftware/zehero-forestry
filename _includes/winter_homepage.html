@@ -443,58 +443,27 @@
                 <div class="col-12 blog-content px-sm-0">
                     <ul class="blog-classic blog-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large">
                         <li class="grid-sizer"></li>
+                        
+
+                        {% assign posts = site[page.collection] | reverse %}
+                        {% for blogpost in posts %}
+                        {% if blogpost.path contains "/posts/" %}
                         <!-- start blog item -->
                         <li class="grid-item wow animate__fadeIn">
                             <div class="blog-post">
                                 <div class="blog-post-image margin-40px-bottom md-margin-35px-bottom xs-margin-25px-bottom">
-                                    <a href="blog-post-layout-01.html"><img src="/images/winter/Snowboard.jpg" alt=""/></a>
+                                    <a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}"><img src="{{ blogpost.image01_href }}" alt="{{ blogpost.image01_alt }}"/></a>
                                 </div>
                                 <div class="post-details last-paragraph-no-margin">
-                                    <a href="blog-post-layout-01.html" class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray text-neon-orange-hover d-block margin-20px-bottom xs-margin-10px-bottom">The best way to predict the future is to create it</a>
-                                    <p class="w-95">Lorem ipsum is simply dummy text printing typesetting industry lorem ipsum has dummy...</p>
+                                    <a href="blog-post-layout-01.html" class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray text-neon-orange-hover d-block margin-20px-bottom xs-margin-10px-bottom">{{ blogpost.title }}</a>
+                                    <p class="w-95">{{ blogpost.description }}</p>
                                 </div>
                             </div>
                         </li>
+                        {% endif %}
+                        {% endfor %}
                         <!-- end blog item -->
-                        <!-- start blog item -->
-                        <li class="grid-item wow animate__fadeIn" data-wow-delay="0.2s">
-                            <div class="blog-post">
-                                <div class="blog-post-image margin-40px-bottom md-margin-35px-bottom xs-margin-25px-bottom">
-                                    <a href="blog-post-layout-02.html"><img src="/images/winter/Snowboard.jpg" alt=""/></a>
-                                </div>
-                                <div class="post-details">
-                                    <a href="blog-post-layout-02.html" class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray text-neon-orange-hover d-block margin-20px-bottom xs-margin-10px-bottom">Tour packages are the easiest and most efficient</a>
-                                    <p class="w-95">Lorem ipsum is simply dummy text printing typesetting industry lorem ipsum has dummy...</p>
-                                </div>
-                            </div>
-                        </li>
-                        <!-- end blog item -->
-                        <!-- start blog item -->
-                        <li class="grid-item wow animate__fadeIn" data-wow-delay="0.4s">
-                            <div class="blog-post">
-                                <div class="blog-post-image margin-40px-bottom md-margin-35px-bottom xs-margin-25px-bottom">
-                                    <a href="blog-post-layout-03.html"><img src="/images/winter/Snowboard.jpg" alt=""/></a>
-                                </div>
-                                <div class="post-details">
-                                    <a href="blog-post-layout-03.html" class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray text-neon-orange-hover d-block margin-20px-bottom xs-margin-10px-bottom">Computers are to design as microwaves are to cooking</a>
-                                    <p class="w-95">Lorem ipsum is simply dummy text printing typesetting industry lorem ipsum has dummy...</p>
-                                </div>
-                            </div>
-                        </li>
-                        <!-- end blog item -->
-                        <!-- start blog item -->
-                        <li class="grid-item wow animate__fadeIn" data-wow-delay="0.6s">
-                            <div class="blog-post">
-                                <div class="blog-post-image margin-40px-bottom md-margin-35px-bottom xs-margin-25px-bottom">
-                                    <a href="blog-post-layout-04.html"><img src="/images/winter/Snowboard.jpg" alt=""/></a>
-                                </div>
-                                <div class="post-details">
-                                    <a href="blog-post-layout-04.html" class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray text-neon-orange-hover d-block margin-20px-bottom xs-margin-10px-bottom"> A company is only as good as the people it keeps</a>
-                                    <p class="w-95">Lorem ipsum is simply dummy text printing typesetting industry lorem ipsum has dummy...</p>
-                                </div>
-                            </div>
-                        </li>
-                        <!-- end blog item -->
+                        
                     </ul>
                 </div>
             </div>
