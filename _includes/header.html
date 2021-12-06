@@ -1,7 +1,7 @@
 {% assign language = page.language %}
 {% assign season = page.season %}
 {% assign season_language = site.data.config.[language].season.[season]name %}
-{% assign menu = site.data.menu.[language] %}
+{% assign menu = site.data.menu.[language].[season_language] %}
 
 {% assign list_season = site.data.config.seasons %}
 {% assign opposite_season = list_season| array_to_sentence_string: '' | remove: page.season | strip  %}
@@ -52,7 +52,7 @@
                                             
                                             <ul class="d-lg-inline-block d-none no-padding-right">
                                                 <li>
-                                                    <a href="index.html" class="menu-banner-image"><img src="/images/global/menu-banner-02.jpg" alt=""/></a>
+                                                    <a href="{{ nav.image-link }}" class="menu-banner-image"><img src="{{ nav.image-href }}" alt=""/></a>
                                                 </li>
                                             </ul>
                                         </div>

@@ -1,0 +1,64 @@
+-  title: 'Activités'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
+   image-link: "/fr/ete/"
+   subcategories:
+    - subtitle-bold: Nos activités
+    - subtitle: 'Randonnée '
+      subhref: /fr/produits/twake/
+    - subtitle: 'Paraprente'
+      subhref: /fr/produits/linshare/
+    - subtitle: 'VTT'
+      subhref: /fr/produits/linto/
+    - subtitle-bold: "___"
+    - subtitle: '<span class="type--fine-print type--italic">Liste complète des activités</span>'
+      subhref: '/fr/produits/'
+-  title: 'Location de matériel'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_350,w_200,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
+   image-link: "/fr/ete/"
+   subcategories:
+    - subtitle-bold: "Location de matériel"
+    - subtitle: "VTT"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Snowboard"
+      subhref: "/fr/ossa-et-support/lux-model/"
+    - subtitle: "Chaussures"
+      subhref: "/fr/ossa-et-support/lux-model/"
+-  title: 'Coaching'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
+   image-link: "/fr/ete/"
+   subcategories:
+    - subtitle-bold: "Coaching"
+    - subtitle: "Ski"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Snowboard"
+      subhref: "/fr/ossa-et-support/lux-model/"
+    - subtitle: "Chaussures"
+      subhref: "/fr/ossa-et-support/lux-model/"
+-  title: 'Spécial enfants'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822904/website/summer/daiga-ellaby-JZ51o_-UOY8-unsplash_hpu3tg.jpg'
+   image-link: "/fr/ete/"
+   subcategories:
+    - subtitle-bold: "Spécial enfants"
+    - subtitle: "Ski"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Snowboard"
+      subhref: "/fr/ossa-et-support/lux-model/"
+    - subtitle: "Chaussures"
+      subhref: "/fr/ossa-et-support/lux-model/"
+-  title: 'Blog'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822009/website/winter/Activite-hiver-raquettes_qnnyoe.webp'
+   image-link: "/fr/ete/"
+   subcategories:
+    - subtitle-bold: "A lire dans le blog"
+    - subtitle: "Article 1"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Article 2"
+      subhref: "/fr/ossa-et-support/lux-model/"
+    - subtitle: "Article 3"
+      subhref: "/fr/ossa-et-support/lux-model/"
+    - subtitle-bold: "___"
+    - subtitle: '<span class="type--fine-print type--italic">Liste complète des articles</span>'
+      subhref: '/fr/produits/'
+    - subtitle-bold: "___"
+    - subtitle: '<span class="type--fine-print type--italic">Nous contacter</span>'
+      subhref: 'contact/'
