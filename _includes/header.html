@@ -45,7 +45,7 @@
                                                 {% elsif subcategory.external %}
                                                 <li><a href="{{ subcategory.external.subhref }}">{{ subcategory.external.subtitle }}</a></li>
                                                 {% else %}  
-                                                <li><a href="/{{ language }}/{{ season_language }}/{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                                                <li><a href="/{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
                                                 {% endif %}
                                                 {% endfor %}
                                             </ul>

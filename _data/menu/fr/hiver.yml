@@ -50,8 +50,8 @@
    image-link: "/fr/ete/"
    subcategories:
     - subtitle-bold: "A lire dans le blog"
-    - subtitle: "Article 1"
-      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Le splitboard pour randonner jusqu'au sommet"
+      subhref: "fr/actualites/2021/12/04/le-spitboard-pour-randonner-jusqu-au-sommet/"
     - subtitle: "Article 2"
       subhref: "/fr/ossa-et-support/lux-model/"
     - subtitle: "Article 3"
@@ -61,4 +61,4 @@
       subhref: '/fr/produits/'
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Nous contacter</span>'
-      subhref: 'contact/'
+      subhref: '/fr/contact/'
