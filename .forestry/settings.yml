@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _fr/posts
+  path: _fr/pages/hiver
   label: Fr
   create: all
   match: "**/*"
