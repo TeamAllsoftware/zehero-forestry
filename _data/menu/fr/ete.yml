@@ -1,5 +1,5 @@
 -  title: 'Activités'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638824754/website/summer/victor-larracuente-JQfYGhUcDSg-unsplash_q4pqbc.jpg'
    image-link: "/fr/ete/"
    subcategories:
     - subtitle-bold: Nos activités
@@ -13,7 +13,7 @@
     - subtitle: '<span class="type--fine-print type--italic">Liste complète des activités</span>'
       subhref: '/fr/produits/'
 -  title: 'Location de matériel'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_350,w_200,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638824584/website/summer/chris-henry-tmTVxOjdV8I-unsplash_hd22dz.jpg'
    image-link: "/fr/ete/"
    subcategories:
     - subtitle-bold: "Location de matériel"
@@ -46,7 +46,7 @@
     - subtitle: "Chaussures"
       subhref: "/fr/ossa-et-support/lux-model/"
 -  title: 'Blog'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822009/website/winter/Activite-hiver-raquettes_qnnyoe.webp'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638824945/website/summer/daniel-gonzalez-KeiUIl9Lzo4-unsplash_rwgfrs.jpg'
    image-link: "/fr/ete/"
    subcategories:
     - subtitle-bold: "A lire dans le blog"
