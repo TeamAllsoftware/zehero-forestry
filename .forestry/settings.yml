@@ -9,7 +9,7 @@ sections:
   label: FR posts
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: _fr/pages/hiver
   label: Fr
