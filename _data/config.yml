@@ -1,3 +1,6 @@
+#Cloudinary
+cloudinary_url: "https://res.cloudinary.com/deddrj0yb/image/upload"
+
 #languages
 languages: [fr,en]
 
@@ -9,21 +12,17 @@ fr:
     winter: 
       name: hiver
       icon: icon-feather-cloud-snow
-      color: text-black
     summer: 
       name: ete
       icon: icon-feather-sun
-      color: text-black
 en:
   season:
     winter: 
       name: winter
       icon: icon-feather-cloud-snow
-      color: text-black
     summer: 
       name: summer
       icon: icon-feather-sun
-      color: text-black
 
 #common text
 slogan:
