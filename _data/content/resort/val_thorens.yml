@@ -1,0 +1,10 @@
+name: "Val-Thorens"
+
+s01:
+  image_hero: https://res.cloudinary.com/deddrj0yb/image/upload/v1638822010/website/winter/Hero-montagne_m8cx1r.webp
+  p01:
+    fr: "Choisir son magasin de location à l’"
+    en: "Choose your rental shop at "
+  p02:
+    fr: "On y va maintenant"
+    en: "Let's go now"

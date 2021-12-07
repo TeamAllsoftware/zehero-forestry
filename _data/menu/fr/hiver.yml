@@ -14,7 +14,7 @@
       subhref: '/fr/produits/'
 -  title: 'Location de matériel'
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_350,w_200,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
-   image-link: "/fr/ete/"
+   image-link: "/fr/hiver/station/alpe-d-huez"
    subcategories:
     - subtitle-bold: "Location de matériel"
     - subtitle: "Ski"
@@ -23,6 +23,12 @@
       subhref: "/fr/ossa-et-support/lux-model/"
     - subtitle: "Chaussures"
       subhref: "/fr/ossa-et-support/lux-model/"
+   subcategories2:
+    - subtitle-bold: "Dans quelle station louer ?"
+    - subtitle: "Alpe d'Huez"
+      subhref: "fr/hiver/station/alpe-d-huez"
+    - subtitle: "Val-Thorens"
+      subhref: "fr/hiver/station/val-thorens"
 -  title: 'Coaching'
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
    image-link: "/fr/ete/"

@@ -1,12 +1,14 @@
+{% assign thispage = site.data.content.winter_homepage %}
+
 <div class="main-content">
     <!-- start section -->
-    <section class="parallax p-0" data-parallax-background-ratio="0.3" style="background-image:url('{{ site.data.content.winter_homepage.s01.image_hero }}');">
-        <div class="position-absolute cover-background top-0px left-0px w-100 h-100" data-parallax-background-ratio="0.5" style="background-image: url('/images/winter/Snowboard.png');"></div>
+    <section class="parallax p-0" data-parallax-background-ratio="0.3" style="background-image:url('{{ thispage.s01.image_hero }}');">
+        <div class="position-absolute cover-background top-0px left-0px w-100 h-100" data-parallax-background-ratio="0.5" style="background-image: url('thispage.s01.image_hero');"></div>
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-5 col-md-6 col-sm-7 full-screen md-h-650px sm-h-500px d-flex flex-column justify-content-center padding-8-rem-tb">
-                    <h1 class="alt-font font-weight-600 title-large text-extra-dark-gray letter-spacing-minus-4px margin-4-half-rem-bottom sm-letter-spacing-minus-1-half xs-w-65">{{ site.data.content.winter_homepage.s01.p01.[page.language] }}</h1>
-                    <a href="contact-us-classic.html" class="btn btn-extra-large btn-expand-ltr text-extra-dark-gray btn-rounded align-self-start font-weight-600">{{ site.data.content.winter_homepage.s01.p02.[page.language] }}<span class="bg-shamrock-green"></span></a>
+                    <h1 class="alt-font font-weight-600 title-large text-extra-dark-gray letter-spacing-minus-4px margin-4-half-rem-bottom sm-letter-spacing-minus-1-half xs-w-65">{{ thispage.s01.p01.[page.language] }}</h1>
+                    <a href="contact-us-classic.html" class="btn btn-extra-large btn-expand-ltr text-extra-dark-gray btn-rounded align-self-start font-weight-600">{{ thispage.s01.p02.[page.language] }}<span class="bg-shamrock-green"></span></a>
                 </div>
             </div>
         </div>

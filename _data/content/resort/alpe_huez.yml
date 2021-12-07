@@ -1,0 +1,10 @@
+name: "Alpe d'Huez"
+
+s01:
+  image_hero: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav/v1638883537/website/winter/Station-ski_msdsrx.jpg
+  p01:
+    fr: "Choisir son magasin de location à l’"
+    en: "Choose your rental shop at "
+  p02:
+    fr: "On y va maintenant"
+    en: "Let's go now"

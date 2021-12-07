@@ -1,3 +1,5 @@
+{% assign zehero = site.data.config.zehero %}
+
 {% assign language = page.language %}
 {% assign season = page.season %}
 {% assign season_language = site.data.config.[language].season.[season]name %}
@@ -46,6 +48,18 @@
                                                 <li><a href="{{ subcategory.external.subhref }}">{{ subcategory.external.subtitle }}</a></li>
                                                 {% else %}  
                                                 <li><a href="/{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                                                {% endif %}
+                                                {% endfor %}
+                                            </ul>
+
+                                            <ul class="d-lg-inline-block md-margin-15px-bottom">
+                                                {% for subcategory2 in nav.subcategories2 %}
+                                                {% if subcategory2.subtitle-bold %}
+                                                <li class="dropdown-header">{{ subcategory2.subtitle-bold }}</li>
+                                                {% elsif subcategory2.external %}
+                                                <li><a href="{{ subcategory2.external.subhref }}">{{ subcategory2.external.subtitle }}</a></li>
+                                                {% else %}  
+                                                <li><a href="/{{ subcategory2.subhref }}">{{ subcategory2.subtitle }}</a></li>
                                                 {% endif %}
                                                 {% endfor %}
                                             </ul>
