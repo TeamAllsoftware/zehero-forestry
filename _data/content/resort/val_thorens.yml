@@ -1,10 +1,9 @@
-name: "Val-Thorens"
-
 s01:
   image_hero: https://res.cloudinary.com/deddrj0yb/image/upload/v1638822010/website/winter/Hero-montagne_m8cx1r.webp
   p01:
-    fr: "Choisir son magasin de location à l’"
+    fr: "Choisir son magasin de location à "
     en: "Choose your rental shop at "
-  p02:
-    fr: "On y va maintenant"
+s02:
+  p01:
+    fr: "Vous arrivez dans la station {{ page.resort_naming }} et vous aimeriez louer du matériel tel que des skis, des chaussures de ski, des casques pour toute votre famille ?"
     en: "Let's go now"

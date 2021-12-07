@@ -5,21 +5,21 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-xl-8 col-lg-10 text-center overlap-gap-section">
-                <div class="w-40px h-2px bg-green separator-line-vertical margin-30px-tb d-inline-block"></div>
-                <h3 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px">{{ resort.s01.p01.[page.language] }} <span class="text-green font-weight-600">{{ resort.name }}</span></h3>
+                <div class="w-40px h-2px bg-transparent-gradient-fast-blue-purple separator-line-vertical margin-30px-tb d-inline-block"></div>
+                <h3 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px">{{ resort.s01.p01.[page.language] }} <span class="text-gradient-fast-blue-purple font-weight-600">{{ page.resort_naming }}</span></h3>
             </div>
         </div>
     </div>
 </section>
 <!-- end page title -->
 <!-- start section -->
-<section class="position-relative bg-gradient-sky-blue-pink overflow-visible">
+<section class="position-relative bg-transparent-gradient-fast-blue-purple overflow-visible">
     <div class="container">
         <div class="z-index-6 overlap-section-one-fourth">
             <div class="d-flex flex-column margin-9-rem-bottom sm-margin-7-rem-bottom">
                 <div class="row">
                     <div class="col-12 col-md-12 z-index-0">
-                        <span class="text-overlap text-uppercase title-extra-large-heavy alt-font text-center d-none d-md-block font-weight-700 opacity-1 z-index-minus-1">{{ resort.name }}</span>
+                        <span class="text-overlap text-uppercase title-extra-large-heavy alt-font text-center d-none d-md-block font-weight-700 opacity-1 z-index-minus-1">{{ page.resort_naming }}</span>
                         <div class="tilt-box" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }'>
                             <img src="{{ resort.s01.image_hero }}" class="position-relative z-index-6 border-radius-6px" alt="">
                         </div>
@@ -28,60 +28,15 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <!-- start process steps item -->
-            <div class="col-12 col-md-4 col-sm-8 text-center process-step-style-04 sm-margin-6-rem-bottom wow animate__fadeIn">
-                <div class="process-step-item">
-                    <span class="process-step-item-bfr bg-white"></span>
-                    <div class="process-step-item-box">
-                        <span class="process-step-item-box-bfr bg-white opacity-2 d-none d-md-block"></span>
-                        <div class="process-step-icon">
-                            <span class="process-step-icon-bfr bg-white"></span>
-                            <span class="process-step-number text-slate-blue alt-font font-weight-500"><span class="process-step-number-bfr bg-white"></span>1</span>
-                        </div>
-                        <div class="process-content last-paragraph-no-margin">
-                            <span class="alt-font d-block font-weight-500 text-white margin-10px-bottom">Start market research</span>
-                            <p class="text-white opacity-7">Lorem ipsum is simply text of the printing and typesetting industry lorem Ipsum has been standard dummy</p>
-                        </div>                        
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-xl-7 col-lg-8 col-md-10 position-relative text-center">
+                        <h3 class="alt-font text-white font-weight-600 margin-35px-bottom">{{ resort.s02.p01.[page.language] | liquify }}</h3>
+                        <p class="text-white opacity-7 alt-font text-large w-80 mx-auto line-height-32px margin-45px-bottom sm-w-100">Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore.</p>
+                        <a href="contact-us-classic.html" class="btn btn-large btn-white btn-rounded btn-box-shadow">Get Started Now</a>
                     </div>
                 </div>
             </div>
-            <!-- end process steps item -->
-            <!-- start process steps item -->
-            <div class="col-12 col-md-4 col-sm-8 text-center process-step-style-04 sm-margin-6-rem-bottom wow animate__fadeIn" data-wow-delay="0.2s">
-                <div class="process-step-item">
-                    <span class="process-step-item-bfr bg-white"></span>
-                    <div class="process-step-item-box">
-                        <span class="process-step-item-box-bfr bg-white opacity-2 d-none d-md-block"></span>
-                        <div class="process-step-icon">
-                            <span class="process-step-icon-bfr bg-white"></span>
-                            <span class="process-step-number text-slate-blue alt-font font-weight-500"><span class="process-step-number-bfr bg-white"></span>2</span>
-                        </div>
-                        <div class="process-content last-paragraph-no-margin">
-                            <span class="alt-font d-block font-weight-500 text-white margin-10px-bottom">Discussion of the idea</span>
-                            <p class="text-white opacity-7">Lorem ipsum is simply text of the printing and typesetting industry lorem Ipsum has been standard dummy</p>
-                        </div>                        
-                    </div>
-                </div>
-            </div>
-            <!-- end process steps item -->
-            <!-- start process steps item -->
-            <div class="col-12 col-md-4 col-sm-8 text-center process-step-style-04 wow animate__fadeIn" data-wow-delay="0.4s">
-                <div class="process-step-item">
-                    <span class="process-step-item-bfr bg-white"></span>
-                    <div class="process-step-item-box">
-                        <span class="process-step-item-box-bfr bg-white opacity-2"></span>
-                        <div class="process-step-icon">
-                            <span class="process-step-icon-bfr bg-white"></span>
-                            <span class="process-step-number text-slate-blue alt-font font-weight-500"><span class="process-step-number-bfr bg-white"></span>3</span>
-                        </div>
-                        <div class="process-content last-paragraph-no-margin">
-                            <span class="alt-font d-block font-weight-500 text-white margin-10px-bottom">Production planning</span>
-                            <p class="text-white opacity-7">Lorem ipsum is simply text of the printing and typesetting industry lorem Ipsum has been standard dummy</p>
-                        </div>                        
-                    </div>
-                </div>
-            </div>
-            <!-- end process steps item -->
         </div>
     </div>
 </section>
