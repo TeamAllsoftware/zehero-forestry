@@ -5,5 +5,8 @@ s01:
     en: "Choose your rental shop at "
 s02:
   p01:
-    fr: "Vous arrivez dans la station {{ page.resort_naming }} et vous aimeriez louer du matériel tel que des skis, des chaussures de ski, des casques pour toute votre famille ?"
+    fr: "Vous arrivez à {{ page.resort_naming }} et vous souhaitez louer du matériel dans cette station."
+    en: "Let's go now"
+  p02:
+    fr: "{{ zehero }} vous conseille pour louer des skis, des chaussures de ski, des casques et beaucoup d'autres équipement pour toute votre famille"
     en: "Let's go now"

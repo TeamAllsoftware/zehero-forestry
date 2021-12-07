@@ -1,4 +1,5 @@
 {% assign resort = site.data.content.resort.[page.resort_nameid] %}
+{% assign zehero = site.data.config.zehero %}
 
 <!-- start page title -->
 <section id="about" class="overlap-height wow animate__fadeIn padding-60px-bottom parallax" data-parallax-background-ratio="0.5" style="background-image:url('https://res.cloudinary.com/deddrj0yb/image/upload/v1638888150/website/global/bg-style-004_bvgxhi.png');" >
@@ -30,9 +31,9 @@
         <div class="row justify-content-center">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-12 col-xl-7 col-lg-8 col-md-10 position-relative text-center">
+                    <div class="col-10 col-md-10 position-relative text-center">
                         <h3 class="alt-font text-white font-weight-600 margin-35px-bottom">{{ resort.s02.p01.[page.language] | liquify }}</h3>
-                        <p class="text-white opacity-7 alt-font text-large w-80 mx-auto line-height-32px margin-45px-bottom sm-w-100">Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore.</p>
+                        <p class="text-white opacity-7 alt-font text-large w-80 mx-auto line-height-32px margin-45px-bottom sm-w-100">{{ resort.s02.p02.[page.language] | liquify }}</p>
                         <a href="contact-us-classic.html" class="btn btn-large btn-white btn-rounded btn-box-shadow">Get Started Now</a>
                     </div>
                 </div>
