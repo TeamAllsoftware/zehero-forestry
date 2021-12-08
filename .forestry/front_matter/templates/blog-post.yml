@@ -5,23 +5,61 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: language
+  hidden: true
+- name: language
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - fr
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: language
-- type: text
-  name: season
+- name: season
+  type: select
+  default: winter
+  config:
+    required: true
+    options:
+    - winter
+    - summer
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: season
-- type: text
-  name: author
+- name: author
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: fr-blog-posts
+      file: 
+      path: 
   label: author
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: text
   name: description
   label: description
-- type: file
-  name: image01_href
+  config:
+    required: true
+- name: image01_href
+  type: text
+  config:
+    required: true
   label: image01_href
 - type: text
   name: image01_alt
