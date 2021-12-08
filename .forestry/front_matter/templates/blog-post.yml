@@ -66,3 +66,5 @@ fields:
 - type: text
   name: image01_alt
   label: image01_alt
+pages:
+- content/_fr/posts/ski-de-randonnee-en-isere.md
