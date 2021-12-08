@@ -7,7 +7,7 @@
         <div class="row justify-content-center">
             <div class="col-12 col-xl-8 col-lg-10 text-center overlap-gap-section">
                 <div class="w-40px h-2px bg-transparent-gradient-fast-blue-purple separator-line-vertical margin-30px-tb d-inline-block"></div>
-                <h3 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px">{{ resort.s01.p01.[page.language] }} <span class="text-gradient-fast-blue-purple font-weight-600">{{ page.resort_naming }}</span></h3>
+                <h3 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px">{{ resort.s01.p01.[page.language] }}<span class="text-gradient-fast-blue-purple font-weight-600">{{ page.resort_naming }}</span></h3>
             </div>
         </div>
     </div>
@@ -32,7 +32,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-10 col-md-10 position-relative text-center">
-                        <h3 class="alt-font text-white font-weight-600 margin-35px-bottom">{{ resort.s02.p01.[page.language] | liquify }}</h3>
+                        <h3 class="alt-font text-white font-weight-600 margin-35px-bottom">{{ resort.s02.p01.[page.language] | liquify | markdownify }}</h3>
                         <p class="text-white opacity-7 alt-font text-large w-80 mx-auto line-height-32px margin-45px-bottom sm-w-100">{{ resort.s02.p02.[page.language].text | liquify }}</p>
                         <a href="{{ resort.s02.p02.[page.language].button_link }}" class="btn btn-large btn-white btn-rounded btn-box-shadow">{{ resort.s02.p02.[page.language].button }} {{ page.resort_naming }}</a>
                     </div>

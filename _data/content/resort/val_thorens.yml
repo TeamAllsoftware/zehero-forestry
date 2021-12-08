@@ -5,7 +5,10 @@ s01:
     en: "Choose your rental shop at "
 s02:
   p01:
-    fr: "Vous arrivez à {{ page.resort_naming }} et vous souhaitez louer du matériel dans cette station."
+    fr: |-
+      Vous arrivez à {{ page.resort_naming }} et  
+      vous souhaitez louer  
+      du matériel dans cette station.
     en: "Let's go now"
   p02:
     fr:
