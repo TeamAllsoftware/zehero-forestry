@@ -1,0 +1,28 @@
+---
+label: blog post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: language
+  label: language
+- type: text
+  name: season
+  label: season
+- type: text
+  name: author
+  label: author
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image01_href
+  label: image01_href
+- type: text
+  name: image01_alt
+  label: image01_alt
