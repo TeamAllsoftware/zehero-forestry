@@ -39,11 +39,13 @@ fields:
   default: []
   config:
     required: true
-    options: []
+    options:
+    - geoffreyarduini
+    - yannalarcon
     source:
-      type: pages
-      section: fr-blog-posts
-      file: 
+      type: simple
+      section: fr
+      file: content/_fr/posts/20211204-le-spitboard-pour-randonner-jusqu-au-sommet.md
       path: 
   label: author
 - type: text
