@@ -7,6 +7,8 @@ fields:
   label: layout
   hidden: true
   default: blog_post
+  config:
+    required: true
 - name: language
   type: select
   default: []
