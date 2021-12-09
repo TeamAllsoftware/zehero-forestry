@@ -40,6 +40,8 @@ page_sections:
       * Chaussures
       * Bâtons
     url: offre1
+- template: textarea
+  textarea: C'est vraiment excellent
 
 ---
 \## La Savoie
