@@ -1,8 +1,8 @@
 ---
+layout: blog_post
 language: fr
 season: winter
 author: geoffreyarduini
-layout: ''
 title: Ski de randonnée en Isère
 description: Comme dans toute région montagneuse, il est possible d’effectuer un bon
   nombre d’activités physiques outdoor en Isère et plus particulièrement en station
