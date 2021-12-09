@@ -13,25 +13,33 @@ page_sections:
 - template: highlights
   highlights:
   - headline: Enterprise
-    url: free.com
+    url: offre3
     description: |-
-      40$
+      15€
 
-      et c'est tout
-  - headline: PRo
+      * Ski
+      * Chaussures
+      * Bâtons
+      * Peaux
+      * Crampons
+      * Balise Arva
+  - headline: Pro
     description: |-
-      5$
+      8€
 
-      encore
-
-      enore
-    url: retest2
+      * Ski
+      * Chaussures
+      * Bâtons
+      * Peaux
+    url: offre2
   - headline: Free
     description: |-
-      0$
+      0€
 
-      bla bla
-    url: test.com
+      * Ski
+      * Chaussures
+      * Bâtons
+    url: offre1
 
 ---
 \## La Savoie
