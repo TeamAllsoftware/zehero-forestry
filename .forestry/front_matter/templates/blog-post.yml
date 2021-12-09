@@ -69,6 +69,14 @@ fields:
 - type: text
   name: image01_alt
   label: image01_alt
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - highlights
+  config:
+    min: 
+    max: 
 pages:
 - content/_fr/posts/2021-10-12-ski-de-randonnee-en-savoie.md
 - content/_fr/posts/2021-12-08-ski-de-randonnee-en-isere.md
