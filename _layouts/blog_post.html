@@ -20,6 +20,16 @@ layout: default
     </div>
 </section>
 <!-- end section -->
+
+{% for block in page.page_sections %}
+  {% assign template = block.template %}
+  {% case template %}
+  {% when 'highlights' %}
+    {% include blocks_highlights.html %}
+  {% endcase %}
+{% endfor %}
+
+
 <!-- start section -->
 <section class="big-section">
     <div class="container">
