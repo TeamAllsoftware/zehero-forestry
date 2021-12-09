@@ -5,27 +5,25 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _fr/posts
-  label: FR posts
-  create: documents
+  path: content/_en/posts
+  label: EN blog Posts
+  create: all
   match: "**/*"
-  new_doc_ext: md
 - type: directory
-  path: _fr/pages/hiver
+  path: content/_fr/posts
+  label: FR blog Posts
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/_fr/pages
   label: Fr
   create: all
   match: "**/*"
 - type: directory
-  path: _en
+  path: content/_en/pages
   label: En
   create: all
   match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
-- type: jekyll-pages
-  label: Pages
-  create: all
 upload_dir: ''
 public_path: https://res.cloudinary.com/deddrj0yb/image/upload
 front_matter_path: ''

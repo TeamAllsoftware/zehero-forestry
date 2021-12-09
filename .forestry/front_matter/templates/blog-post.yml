@@ -1,4 +1,71 @@
 ---
 label: blog post
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: blog_post
+- name: language
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - fr
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: language
+- name: season
+  type: select
+  default: winter
+  config:
+    required: true
+    options:
+    - winter
+    - summer
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: season
+- name: author
+  type: select
+  default: []
+  config:
+    required: true
+    options:
+    - geoffreyarduini
+    - yannalarcon
+    source:
+      type: simple
+      section: fr
+      file: content/_fr/posts/20211204-le-spitboard-pour-randonner-jusqu-au-sommet.md
+      path: 
+  label: author
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: text
+  name: description
+  label: description
+  config:
+    required: true
+- name: image01_href
+  type: text
+  config:
+    required: true
+  label: image01_href
+- type: text
+  name: image01_alt
+  label: image01_alt
+pages:
+- content/_fr/posts/ski-de-randonnee-en-isere.md
