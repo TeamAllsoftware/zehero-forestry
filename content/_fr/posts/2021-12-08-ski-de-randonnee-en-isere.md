@@ -17,7 +17,7 @@ Le département de l'Isère se situe dans la région Auvergne-Rhône-Alpes. Son 
 
 ### Les stations de sports d'hiver en Isère
 
-En Isère se trouvent vingt-deux stations de montagnes situées entre 800 et 3 600 mètres d'altitude.\\
+En Isère se trouvent vingt-deux stations de montagnes situées entre 800 et 3 600 mètres d'altitude.
 
 Les plus connues sont l'Alpe d'Huez, Chamrousse, Les Deux Alpes, Les Sept Laux, Oz en Oisans, Villard de Lans ou encore Vaujany.
 
@@ -25,17 +25,17 @@ Les plus connues sont l'Alpe d'Huez, Chamrousse, Les Deux Alpes, Les Sept Laux, 
 
 Comme dans toute région montagneuse, il est possible d'effectuer un bon nombre d'activités physiques outdoor en Isère et plus particulièrement en station de ski. C'est pourquoi nous avons établi un top 5 des stations où vous pouvez faire le plus d'activités outdoor autre que le ski alpin et le snowboard comme des balades en raquette, du chien de traîneau, du ski de fond et encore bien d'autres activités.
 
-Ces stations sont :\\
+Ces stations sont :
 
-\* Chamrousse\\
+ Chamrousse
 
-\* Gresse en Vercors\\
+ Gresse en Vercors
 
-\* Lans en Vercors\\
+ Lans en Vercors
 
-\* Le Collet d'Allevard\\
+ Le Collet d'Allevard
 
-\* Villard de Lans
+ Villard de Lans
 
 ## Le ski de randonnée c'est quoi ?
 
@@ -47,23 +47,23 @@ L'activité nécessite un équipement différent du ski alpin, bien plus adapté
 
 Ainsi, un pack de ski de randonnée est l'équipement parfait pour être bien équipé. L'utilisation d'un bon équipement rendra votre sortie optimale !
 
-#### Le matériel :\\
+#### Le matériel :
 
-\* Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien plus souples au niveau de la cheville pour permettre le mouvement de flexion dont on nécessite pour pour monter les skis au pieds)\\
+ Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien plus souples au niveau de la cheville pour permettre le mouvement de flexion dont on nécessite pour pour monter les skis au pieds)
 
-\* Bâtons de ski spécifiques à ce type de ski (télescopiques ou monobrins)\\
+ Bâtons de ski spécifiques à ce type de ski (télescopiques ou monobrins)
 
-\* Pantalons spécifique (moins chaud et bien étanche)
+ Pantalons spécifique (moins chaud et bien étanche)
 
-#### Les accessoires :\\
+#### Les accessoires :
 
-\* Casque de ski (très important et différent de celui d'alpin avec plus d'aérations et plus léger)\\
+ Casque de ski (très important et différent de celui d'alpin avec plus d'aérations et plus léger)
 
-\* Lunette de soleil ou masque\\
+ Lunette de soleil ou masque
 
-\* Accessoires techniques type DVA (détecteur de victime en avalanche)\\
+ Accessoires techniques type DVA (détecteur de victime en avalanche)
 
-\* Matériel de sécurité : pelle, sonde...
+ Matériel de sécurité : pelle, sonde...
 
 ### Une liberté qui n'exclut aucuns risques
 
@@ -71,11 +71,11 @@ Il ne faut, tout de même, ne pas oublier que la montagne est un environnement s
 
 ### Le déroulement d'une sortie en ski de randonnée
 
-1\\. Souvent, elle commence par une marche d'approche qui emmène au départ de l'ascension où l'on peut ensuite chausser les skis.\\
+1. Souvent, elle commence par une marche d'approche qui emmène au départ de l'ascension où l'on peut ensuite chausser les skis.
 
-2\\. La deuxième étape est l'ascension de la pente en question (plusieurs techniques possibles, à savoir celle des conversions, une technique particulière qui permet de diminuer l'effort dans la pente en faisant un mouvement de rotation du ski bien particulier)\\
+2. La deuxième étape est l'ascension de la pente en question (plusieurs techniques possibles, à savoir celle des conversions, une technique particulière qui permet de diminuer l'effort dans la pente en faisant un mouvement de rotation du ski bien particulier)
 
-3\\. Troisième étape : la descente, qui demande une plus ou moins bonne technique en fonction de l'environnement dans lequel on se trouve et des conditions du jour.
+3. Troisième étape : la descente, qui demande une plus ou moins bonne technique en fonction de l'environnement dans lequel on se trouve et des conditions du jour.
 
 Le ski de randonnée demande une bonne condition physique à la montée et une technique plutôt aguerrie pour la descente. Il nécessite aussi une bonne connaissance du terrain, de la météo en montagne pour y gérer les risques associés.
 
@@ -85,36 +85,36 @@ De plus, le rythme est souvent donné par le guide qui adapte la vitesse au nive
 
 ### Les stations ou vous serez sûr de trouver du ski de randonnée encadré
 
-\* [Alpe d'Huez](fr/hiver/station/alpe-d-huez "Les locations à l'Alpe d'Huez")\\
+ [Alpe d'Huez](fr/hiver/station/alpe-d-huez "Les locations à l'Alpe d'Huez")
 
-\* Alpe du Grand Serre\\
+ Alpe du Grand Serre
 
-\* Autrans\\
+ Autrans
 
-\* Chamrousse\\
+ Chamrousse
 
-\* Col de Porte\\
+ Col de Porte
 
-\* Corrençon en Vercors\\
+ Corrençon en Vercors
 
-\* Gresse en Vercors\\
+ Gresse en Vercors
 
-\* Lans en Vercors\\
+ Lans en Vercors
 
-\* Le Collet d'Allevard\\
+ Le Collet d'Allevard
 
-\* Le Sappey en Chartreuse\\
+ Le Sappey en Chartreuse
 
-\* Les Deux Alpes\\
+ Les Deux Alpes
 
-\* Les Sept Laux\\
+ Les Sept Laux
 
-\* Méaudre\\
+ Méaudre
 
-\* Oz en Oisans\\
+ Oz en Oisans
 
-\* Vaujany\\
+ Vaujany
 
-\* Villard de Lans
+ Villard de Lans
 
 Comme vous l'aurez compris, le ski de randonnée est une approche différente mais tout aussi appréciable que le ski alpin classique alors n'attendez plus et faites vous votre propre expérience.
