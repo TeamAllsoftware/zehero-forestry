@@ -13,8 +13,7 @@ page_sections:
 - template: 3coltxtimgtxt
   captionleftcontent: Cette station est merveilleuse car elle est à la parfaite altitude.
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav/v1638883541/website/winter/Ski-marche-groupe_snuwan.jpg
-  captionrighttitle: Vive l'Isère et la Savoie pour la diversité incroyable de paysages.
-    Sans parler de la qualité de la neige.
+  captionrighttitle: 'Vive l''Isère et la Savoie pour la diversité incroyable de paysages. '
   captionrightcontent: Mais tout cela n'est rien sans les savoyards qui sont toujours
     la pour donner un coup demain.
 
