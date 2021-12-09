@@ -1,4 +1,32 @@
 ---
 label: 3colTxtImgTxt
 hide_body: true
-fields: []
+fields:
+- name: captionleftcontent
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: captionLeftContent
+- name: imagecenter
+  type: text
+  config:
+    required: true
+  label: imageCenter
+- name: captionrighttitle
+  type: text
+  config:
+    required: true
+  label: captionRightTitle
+- name: captionrightcontent
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: captionRightContent
