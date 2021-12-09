@@ -75,6 +75,7 @@ fields:
   template_types:
   - highlights
   - textarea
+  - 3coltxtimgtxt
   config:
     min: 
     max: 
