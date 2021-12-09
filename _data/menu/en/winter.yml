@@ -1,10 +1,8 @@
--  title: 'Activités'
-   image: '/assets/images/twake/Channels__Chat_.png'
-   baseline: ""
-   button-text: ""
-   button-url: ""
+-  title: 'Activities'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
+   image-link: "/fr/ete/"
    subcategories:
-    - subtitle-bold: Nos activités
+    - subtitle-bold: Our activités
     - subtitle: 'Ski '
       subhref: /fr/produits/twake/
     - subtitle: 'Snowboards'
@@ -14,50 +12,43 @@
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Liste complète des activités</span>'
       subhref: '/fr/produits/'
--  title: 'Location de matériel'
-   image: '/assets/images/ossa/ricardo-resende-PqqJ340jrow-unsplash.jpg'
-   baseline: ""
-   button-text: ""
-   button-url: ""
+-  title: 'Rentals'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
+   image-link: "/fr/ete/"
    subcategories:
     - subtitle-bold: "Location de matériel"
     - subtitle: "Ski"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
     - subtitle: "Snowboard"
       subhref: "/fr/ossa-et-support/lux-model/"
-    - subtitle: "Chaussures"
+    - subtitle: "Shoes"
       subhref: "/fr/ossa-et-support/lux-model/"
 -  title: 'Coaching'
    image: '/assets/images/ossa/ricardo-resende-PqqJ340jrow-unsplash.jpg'
-   baseline: ""
-   button-text: ""
-   button-url: ""
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
+   image-link: "/fr/ete/"
    subcategories:
     - subtitle-bold: "Coaching"
-    - subtitle: "Ski"
+    - subtitle: "Trail"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-    - subtitle: "Snowboard"
+    - subtitle: "Abs"
       subhref: "/fr/ossa-et-support/lux-model/"
     - subtitle: "Chaussures"
       subhref: "/fr/ossa-et-support/lux-model/"
--  title: 'Spécial enfants'
-   image: '/assets/images/ossa/ricardo-resende-PqqJ340jrow-unsplash.jpg'
-   baseline: ""
-   button-text: ""
-   button-url: ""
+-  title: 'Kids'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
+   image-link: "/fr/ete/"
    subcategories:
-    - subtitle-bold: "Spécial enfants"
+    - subtitle-bold: "Kids"
     - subtitle: "Ski"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
     - subtitle: "Snowboard"
       subhref: "/fr/ossa-et-support/lux-model/"
-    - subtitle: "Chaussures"
+    - subtitle: "Kindergarden"
       subhref: "/fr/ossa-et-support/lux-model/"
 -  title: 'Blog'
-   image: '/assets/images/ossa/ricardo-resende-PqqJ340jrow-unsplash.jpg'
-   baseline: ""
-   button-text: ""
-   button-url: ""
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
+   image-link: "/fr/ete/"
    subcategories:
     - subtitle-bold: "A lire dans le blog"
     - subtitle: "Article 1"
@@ -72,17 +63,3 @@
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Nous contacter</span>'
       subhref: 'contact/'
-
-
-# -  title: 'Activités'
-#    subhref: /fr/
-# -  title: 'Location de matériel'
-#    subhref: /fr/tarifs/
-# -  title: 'Coaching'
-#    subhref: /en/
-# -  title: 'Special enfants'
-#    subhref: /en/
-# -  title: 'Blog'
-#    subhref: /fr/hiver/contact
-# -  title: 'Eté'
-#    subhref: /fr/ete/

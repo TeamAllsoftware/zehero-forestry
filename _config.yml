@@ -39,6 +39,9 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
 
+gems:
+  - jekyll-liquify
+
 # API JSON
 
 jekyll_get_json:

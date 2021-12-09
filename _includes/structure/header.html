@@ -1,7 +1,9 @@
+{% assign zehero = site.data.config.zehero %}
+
 {% assign language = page.language %}
 {% assign season = page.season %}
 {% assign season_language = site.data.config.[language].season.[season]name %}
-{% assign menu = site.data.menu.[language] %}
+{% assign menu = site.data.menu.[language].[season_language] %}
 
 {% assign list_season = site.data.config.seasons %}
 {% assign opposite_season = list_season| array_to_sentence_string: '' | remove: page.season | strip  %}
@@ -12,7 +14,7 @@
 
 
         <header>
-            <nav class="navbar navbar-expand-lg navbar-light bg-transparent header-light fixed-top navbar-boxed header-reverse-scroll">
+            <nav class="navbar navbar-expand-lg {% if page.navbar %} {{page.navbar}} {% else %} navbar-light {% endif %} bg-transparent header-light fixed-top navbar-boxed header-reverse-scroll">
                 <div class="container-fluid nav-header-container">
                     <div class="col-5 col-lg-2 ps-lg-0 me-auto me-lg-0">
                         <a class="navbar-brand" href="/{{ page.language }}/{{ season_language }}">
@@ -45,14 +47,26 @@
                                                 {% elsif subcategory.external %}
                                                 <li><a href="{{ subcategory.external.subhref }}">{{ subcategory.external.subtitle }}</a></li>
                                                 {% else %}  
-                                                <li><a href="/{{ language }}/{{ season_language }}/{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                                                <li><a href="/{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                                                {% endif %}
+                                                {% endfor %}
+                                            </ul>
+
+                                            <ul class="d-lg-inline-block md-margin-15px-bottom">
+                                                {% for subcategory2 in nav.subcategories2 %}
+                                                {% if subcategory2.subtitle-bold %}
+                                                <li class="dropdown-header">{{ subcategory2.subtitle-bold }}</li>
+                                                {% elsif subcategory2.external %}
+                                                <li><a href="{{ subcategory2.external.subhref }}">{{ subcategory2.external.subtitle }}</a></li>
+                                                {% else %}  
+                                                <li><a href="/{{ subcategory2.subhref }}">{{ subcategory2.subtitle }}</a></li>
                                                 {% endif %}
                                                 {% endfor %}
                                             </ul>
                                             
                                             <ul class="d-lg-inline-block d-none no-padding-right">
                                                 <li>
-                                                    <a href="index.html" class="menu-banner-image"><img src="/images/global/menu-banner-02.jpg" alt=""/></a>
+                                                    <a href="{{ nav.image-link }}" class="menu-banner-image"><img src="{{ nav.image-href }}" alt=""/></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -67,7 +81,7 @@
                     <div class="col-auto col-lg-2 text-end hidden-xs px-lg-0">
                         <div class="header-social-icon d-inline-block">
 
-                            <a href="/{{ language }}/{{ site.data.config.[language].season.[opposite_season]name }}"><i class="feather {{ site.data.config.[language].season.[opposite_season]icon }} {{ site.data.config.[language].season.[opposite_season]color }}"></i></a>
+                            <a href="/{{ language }}/{{ site.data.config.[language].season.[opposite_season]name }}"><i class="feather {{ site.data.config.[language].season.[opposite_season]icon }}"></i></a>
                             
                           
                             <a href="/{{ opposite_language }}/{{ site.data.config.[opposite_language].season.[season]name }}">{{ opposite_language }}</a>
