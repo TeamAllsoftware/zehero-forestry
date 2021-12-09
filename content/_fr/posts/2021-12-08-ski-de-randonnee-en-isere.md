@@ -9,6 +9,14 @@ description: Comme dans toute région montagneuse, il est possible d’effectuer
   de ski.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav/v1638883533/website/winter/Ski-randonne-ascension_g8hj01.jpg
 image01_alt: Ascension d'un col à ski de randonnée
+page_sections:
+- template: 3coltxtimgtxt
+  captionleftcontent: Cette station est merveilleuse car elle est à la parfaite altitude.
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav/v1638883541/website/winter/Ski-marche-groupe_snuwan.jpg
+  captionrighttitle: Vive l'Isère et la Savoie pour la diversité incroyable de paysages.
+    Sans parler de la qualité de la neige.
+  captionrightcontent: Mais tout cela n'est rien sans les savoyards qui sont toujours
+    la pour donner un coup demain.
 
 ---
 ## L'Isère
