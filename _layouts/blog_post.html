@@ -25,7 +25,9 @@ layout: default
   {% assign template = block.template %}
   {% case template %}
   {% when 'highlights' %}
-    {% include blocks_highlights.html %}
+    {% include blocks_{{ template }}.html %}
+  {% when 'textarea' %}
+    {% include blocks_{{ template }}.html %}
   {% endcase %}
 {% endfor %}
 
