@@ -103,6 +103,21 @@ page_sections:
     Le ski de randonnée est possible à la réservation soit en passant par l’intermédiaire d’un organisme privé ou public soit en traitant directement avec un indépendant diplômé.
 
     Comme vous l’aurez compris, le ski de randonnée est une approche différente mais tout aussi appréciable que le ski alpin classique alors n’attendez plus et faites vous votre propre expérience.
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883537/website/winter/Montagne-randonnee-blizzard_imccfq.jpg
+  captionabovetitle: Physique à la montée, technique à la descente
+  title: Le ski de randonnée ne s'improvise pas, cela se prépare
+  gridline1title: Attention, ne prenez pas le ski de randonnée pour une promenade
+    au pied levé
+  gridline1content: Le ski de randonnée demande une bonne condition physique à la
+    montée et une technique plutôt aguerrie pour la descente. Il nécessite aussi une
+    bonne connaissance du terrain, de la météo en montagne pour y gérer les risques
+    associés.
+  gridline2title: Cependant, tout type de sortie reste possible
+  gridline2content: Des sorties tranquilles avec peu de dénivelé positif pour les
+    moins initiés et d’autres plus engagées pour les personnes plus aguerries. Le
+    rythme est souvent donné par le/la guide qui adapte la vitesse au niveau du groupe.
+    Le but est de combiner contemplation du paysage et effort.
 topnav_text_color: light
 
 ---
