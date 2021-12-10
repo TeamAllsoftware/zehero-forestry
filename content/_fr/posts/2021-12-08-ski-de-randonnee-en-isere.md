@@ -9,6 +9,7 @@ description: Comme dans toute région montagneuse, il est possible d’effectuer
   de ski.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav/v1638883533/website/winter/Ski-randonne-ascension_g8hj01.jpg
 image01_alt: Ascension d'un col à ski de randonnée
+topnav_color_text: white
 page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_limit,g_center,h_800,w_800/c_fill,g_center,h_545,w_475/v1638883541/website/winter/Randonne-groupe-amis_otvbvl.jpg
