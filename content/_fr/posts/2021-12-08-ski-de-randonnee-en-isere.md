@@ -11,14 +11,14 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_Top
 image01_alt: Ascension d'un col à ski de randonnée
 page_sections:
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_limit,g_center,h_500,w_500/c_fill,g_center,h_400,w_400/v1638883541/website/winter/Randonne-groupe-amis_otvbvl.jpg
-  title: Le département de l’Isère se situe dans la région Auvergne-Rhône-Alpes. Son
-    nom vient de la rivière qui la traverse.
-  content: La ville principale est Grenoble avec sa grande métropole. Étant dans les
-    Alpes, le terrain est assez montagneux. Dans ce département, il y a différents
-    massifs montagneux séparés par des vallées. La Chartreuse et les Belledonnes séparés
-    par la vallée du Grésivaudan mais aussi le massif de l’Oisans, du Valbonnais et
-    de Vercors. C’est un département très touristique, notamment l’hiver.
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_limit,g_center,h_800,w_800/c_fill,g_center,h_800,w_500/v1638883541/website/winter/Randonne-groupe-amis_otvbvl.jpg
+  title: Le département de l’Isère se situe dans la région Auvergne-Rhône-Alpes.
+  content: Son nom vient de la rivière qui la traverse. La ville principale est Grenoble
+    avec sa grande métropole. Étant dans les Alpes, le terrain est assez montagneux.
+    Dans ce département, il y a différents massifs montagneux séparés par des vallées.
+    La Chartreuse et les Belledonnes séparés par la vallée du Grésivaudan mais aussi
+    le massif de l’Oisans, du Valbonnais et de Vercors. C’est un département très
+    touristique, notamment l’hiver.
   captiontitleuppercase: L’Isère
 - template: textarea
   textarea: |-
