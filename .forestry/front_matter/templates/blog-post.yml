@@ -76,6 +76,7 @@ fields:
   - highlights
   - textarea
   - 3coltxtimgtxt
+  - 2colimgtxt
   config:
     min: 
     max: 
