@@ -118,6 +118,8 @@ page_sections:
     moins initiés et d’autres plus engagées pour les personnes plus aguerries. Le
     rythme est souvent donné par le/la guide qui adapte la vitesse au niveau du groupe.
     Le but est de combiner contemplation du paysage et effort.
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,w_800/c_crop,h_600,w_800/v1638883537/website/winter/Ski-randonnee-seul_yok2cz.jpg
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,w_800/c_crop,h_600,w_800/v1638883534/website/winter/Ski-descente-poudreuse_jkfdf6.jpg
 topnav_text_color: light
 
 ---
