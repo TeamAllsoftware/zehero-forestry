@@ -12,6 +12,15 @@ fields:
   config:
     required: true
   label: title
+- name: baseline
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: baseline
 - name: content
   type: textarea
   default: ''
