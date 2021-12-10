@@ -36,6 +36,12 @@ fields:
     min: 200
   label: gridline1content
   description: Max 300 characters
+- name: gridline1img
+  type: text
+  config:
+    required: true
+  label: gridline1img
+  description: image URL from cloudinary preset for image size 800x610
 - name: gridline2title
   type: text
   config:
@@ -53,3 +59,9 @@ fields:
     min: 200
   label: gridline2content
   description: Max 300 characters
+- name: gridline2img
+  type: text
+  config:
+    required: true
+  description: image URL from cloudinary preset for image size 800x610
+  label: gridline2img
