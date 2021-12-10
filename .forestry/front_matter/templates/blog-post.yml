@@ -90,10 +90,10 @@ fields:
   type: blocks
   label: Page Sections
   template_types:
-  - highlights
   - textarea
   - 3coltxtimgtxt
   - 2colimgtxt
+  - parlaxgridtxtimg
   config:
     min: 
     max: 
