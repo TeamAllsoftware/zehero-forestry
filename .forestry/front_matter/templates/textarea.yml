@@ -2,12 +2,17 @@
 label: Textarea
 hide_body: true
 fields:
-- name: textarea
+- name: title
+  type: text
+  config:
+    required: true
+  label: title
+- name: content
   type: textarea
   default: ''
   config:
-    required: false
+    required: true
     wysiwyg: true
     schema:
       format: markdown
-  label: Textarea
+  label: content
