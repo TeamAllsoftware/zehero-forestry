@@ -51,8 +51,6 @@ page_sections:
     4. Le Collet d'Allevard
     5. Villard de Lans
 - template: textarea
-  textarea: ''
-- template: textarea
   textarea: |-
     ## Le ski de randonnée c'est quoi ?
 
