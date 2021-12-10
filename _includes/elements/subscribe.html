@@ -6,7 +6,7 @@
                 <h4 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase d-inline-block letter-spacing-minus-1px margin-4-rem-bottom">{{ site.data.config.[page.language].newsletter.title }}</h4>
                 <!-- start newsletter form -->
                 <div class="newsletter-style-01 position-relative margin-4-rem-bottom xs-margin-2-rem-bottom">
-                    <form name="newsletter-{{ page.language }}" method="post">
+                    <form name="newsletter-{{ page.language }}"  method="POST" data-netlify="true">
                         <input class="border-radius-100px extra-large-input box-shadow-medium border-none padding-50px-left m-0 required" name="email" placeholder="{{ site.data.config.[page.language].newsletter.placeholder }}" type="email">
                         <input type="hidden" name="redirect" value="">
                         <button type="submit" class="btn btn-extra-large border-none text-slate-blue margin-20px-right submit"><i class="far fa-envelope text-gradient-light-purple-light-red left-icon"></i>{{ site.data.config.[page.language].newsletter.subscribe-btn }}</button>
