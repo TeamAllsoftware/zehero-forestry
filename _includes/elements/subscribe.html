@@ -8,9 +8,9 @@
                 <div class="newsletter-style-01 position-relative margin-4-rem-bottom xs-margin-2-rem-bottom">
                     <form name="newsletter-{{ page.language }}"  method="POST" data-netlify="true">
                         <input class="border-radius-100px extra-large-input box-shadow-medium border-none padding-50px-left m-0 required" name="email" placeholder="{{ site.data.config.[page.language].newsletter.placeholder }}" type="email">
-                        <input type="hidden" name="redirect" value="">
+                        <!-- <input type="hidden" name="redirect" value=""> -->
                         <button type="submit" class="btn btn-extra-large border-none text-slate-blue margin-20px-right submit"><i class="far fa-envelope text-gradient-light-purple-light-red left-icon"></i>{{ site.data.config.[page.language].newsletter.subscribe-btn }}</button>
-                        <div class="form-results border-radius-100px position-absolute d-none"></div>
+                        
                     </form>
                 </div>
                 <span class="text-small w-65 d-block m-auto line-height-24px md-w-75 xs-w-100">{{ site.data.config.[page.language].newsletter.privacy }}</span>
