@@ -11,7 +11,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_Top
 image01_alt: Ascension d'un col à ski de randonnée
 page_sections:
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_limit,g_center,h_800,w_800/c_fill,g_center,h_800,w_500/v1638883541/website/winter/Randonne-groupe-amis_otvbvl.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_limit,g_center,h_800,w_800/c_fill,g_center,h_545,w_475/v1638883541/website/winter/Randonne-groupe-amis_otvbvl.jpg
   title: Le département de l’Isère se situe dans la région Auvergne-Rhône-Alpes.
   content: Son nom vient de la rivière qui la traverse. La ville principale est Grenoble
     avec sa grande métropole. Étant dans les Alpes, le terrain est assez montagneux.
