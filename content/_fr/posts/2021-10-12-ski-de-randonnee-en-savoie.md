@@ -2,7 +2,7 @@
 layout: blog_post
 language: fr
 season: winter
-author: yannalarcon
+author: geoffreyarduini
 title: Ski de randonnée en Savoie
 description: La Savoie est un véritable lieu de regroupement pour les plus friands
   de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux
