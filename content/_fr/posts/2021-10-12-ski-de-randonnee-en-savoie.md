@@ -11,82 +11,57 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_Top
 image01_alt: Ski de randonnée dans les domaines de Savoie
 topnav_color_text: light
 page_sections:
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_limit,g_center,h_800,w_800/c_fill,g_center,h_545,w_475/v1638883539/website/winter/Chien-traineau-foret_h8m0bh.jpg
+  title: Département français de la région Rhône Alpes, la Savoie est très connue
+    pour ses nombreux sommets.
+  content: 'Avec le point le plus bas à Saint-Genix-sur-Guiers (208 mètres) et son
+    point culminant à 3 855 mètres pour la Grande Casse en Vanoise. La majorité de
+    ses massifs sont alpins, tels que : Le massif des bauges, de la chartreuse ou
+    encore celui du Mont Blanc. On y trouve tout de même une belle partie plus vallonnée
+    tel que le massif de la chambotte et la chaîne de l’épine.'
+  captiontitleuppercase: La Savoie
 - template: textarea
   textarea: Et je peux en ajouter un au dessus histoire d'ajouter du contenu à ma
     guise. c'est absolument génial.
-- template: highlights
-  highlights:
-  - headline: Enterprise
-    url: offre3
-    description: |-
-      15€
+  title: La Savoie
+  content: |-
+    La Savoie est un véritable lieu de regroupement pour les plus friands de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux des grands espaces et du milieu montagnard en général. La faune et la flore y sont très développées et de nombreux espaces sauvages pourront s’offrir à vous.
 
-      * Ski
-      * Chaussures
-      * Bâtons
-      * Peaux
-      * Crampons
-      * Balise Arva
-  - headline: Pro
-    description: |-
-      8€
-
-      * Ski
-      * Chaussures
-      * Bâtons
-      * Peaux
-    url: offre2
-  - headline: Free
-    description: |-
-      0€
-
-      * Ski
-      * Chaussures
-      * Bâtons
-    url: offre1
+    Pour les moins sportifs, la Savoie reste une destination intéressante. En effet, elle détient un gros passé historique et regorge de monuments historiques datant de l’âge néolithique jusqu’au XIXe siècle. Elle possède également un patrimoine architectural et culturel important, de par la diversité des civilisations qui l’occupent au cours du temps.
 - template: textarea
   textarea: C'est vraiment excellent
+  title: Les stations Savoyardes
+  content: |-
+    La Savoie est aussi très sujette à des flux de population importants avec de fortes variations saisonnières. Pendant la saison hivernale, sa population peut aller jusqu’à doubler du fait du développement des sports d’hiver avec un grand nombre de stations dont certaines ayant une renommée internationale.
+
+    La Tarentaise et la Maurienne sont les deux principales vallées à l’origine d’un gros trafic en hiver; les sports d’hiver et principalement le ski étant à l’origine de ce trafic saisonnier.
+
+    Les stations comme Courchevel, [Val thorens](fr/hiver/station/val-thorens "Voir les locations à Val-Thorens"), Val d’isère, Tignes, ont une dimension et un rayonnement international, tandis que d’autres sont plus petites et à taille humaine telles que: La Toussuire, Le Corbier ou encore Bonneval sur arc.
+- template: textarea
+  title: Le top 5 des stations hivernales pour pratiquer une activité physique hors
+    Ski Alpin
+  content: |-
+    1. **Les Saisies**: La station de ski familiale par excellence. Située à 1650 m d’altitude en Savoie Mont-Blanc entre le Beaufortain et le Val d’Arly. Une station aux valeurs de convivialité, d’authenticité, des paysages à couper le souffle et une nature préservée.
+    2. **Courchevel**: Située en Tarentaise, elle fait partie du domaine skiable des trois vallées. 6 villages reliés par des remontées mécaniques et des navettes gratuites dessinent une station unique aux univers multiples. Partout, la recherche de l’excellence et la culture du détail raisonnent.
+    3. **Les Arcs**: Pour offrir à chacun le confort, les services et le mode de vie qui lui correspondent, Les Arcs, vous propose 5 ambiances différentes au sein des 5 sites d’altitude.
+    4. **Val Cenis**: Val Cenis est une station de montagne à l’altitude parfaite pour s’oxygéner et se ressourcer dans un environnement très nature au pied du Col du Mont-Cenis. C’est aussi une destination aux multiples facettes : familiale et sportive, authentique et innovante, reposante et animée, généreuse et sincère.
+    5. **Val d’Isère**: Elle forme le domaine skiable Espace Killy avec la station voisine de Tignes. Des téléskis permettent d’accéder à des sites tels que l’abrupte face de Bellevarde et le glacier de la Grande Motte, connu pour la pratique du ski d’été. Profitez d’un immense domaine skiable et du charme d’un village savoyard typique que vous trouverez nul part ailleurs.
+- template: 3coltxtimgtxt
+  captionleftcontent: Les meilleures activités à faire en station
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/c_thumb,h_500,w_500/v1638883539/website/winter/Chien-traineau-foret_h8m0bh.jpg
+  captionrighttitle: 'Parmi toutes ces stations, de nombreuses activités hivernales
+    s’offrent à vous. '
+  captionrightcontent: |-
+    Ne pensez pas que ski et laissez vous tenter par d’autres choses tout aussi intéressantes en termes de sensation. Laissez vous guider chien de traîneau, parapente, ski joëring ou bien d’autres activités encore.
+
+    Au rendez vous, sensations fortes, loisirs, émotions, plaisirs en famille…à vous de choisir !
+topnav_text_color: light
 
 ---
-\## La Savoie
-
-Département français de la région Rhône Alpes, la Savoie est très connue pour ses nombreux sommets avec le point le plus bas à Saint-Genix-sur-Guiers (208 mètres) et son point culminant à 3 855 mètres pour la Grande Casse en Vanoise.
-
-La majorité de ses massifs sont alpins, tels que : Le massif des bauges, de la chartreuse ou encore celui du Mont Blanc. On y trouve tout de même une belle partie plus vallonnée tel que le massif de la chambotte et la chaîne de l’épine.
-
-La Savoie est un véritable lieu de regroupement pour les plus friands de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux des grands espaces et du milieu montagnard en général. La faune et la flore y sont très développées et de nombreux espaces sauvages pourront s’offrir à vous.
-
-Pour les moins sportifs, la Savoie reste une destination intéressante. En effet, elle détient un gros passé historique et regorge de monuments historiques datant de l’âge néolithique jusqu’au XIXe siècle. Elle possède également un patrimoine architectural et culturel important, de par la diversité des civilisations qui l’occupent au cours du temps.
-
-\### Les stations Savoyardes
-
-La Savoie est aussi très sujette à des flux de population importants avec de fortes variations saisonnières. Pendant la saison hivernale, sa population peut aller jusqu’à doubler du fait du développement des sports d’hiver avec un grand nombre de stations dont certaines ayant une renommée internationale.
-
-La Tarentaise et la Maurienne sont les deux principales vallées à l’origine d’un gros trafic en hiver; les sports d’hiver et principalement le ski étant à l’origine de ce trafic saisonnier.
-
-Les stations comme Courchevel, Val thorens, Val d’isère, Tignes, ont une dimension et un rayonnement international, tandis que d’autres sont plus petites et à taille humaine telles que: La Toussuire, Le Corbier ou encore Bonneval sur arc.
-
-\### Le top 5 des stations hivernales pour pratiquer une activité physique hors Ski Alpin
-
-\\* Les Saisies: La station de ski familiale par excellence. Située à 1650 m d’altitude en Savoie Mont-Blanc entre le Beaufortain et le Val d’Arly. Une station aux valeurs de convivialité, d’authenticité, des paysages à couper le souffle et une nature préservée.
-
-\\* Courchevel: Située en Tarentaise, elle fait partie du domaine skiable des trois vallées. 6 villages reliés par des remontées mécaniques et des navettes gratuites dessinent une station unique aux univers multiples. Partout, la recherche de l’excellence et la culture du détail raisonnent.
-
-\\* Les Arcs: Pour offrir à chacun le confort, les services et le mode de vie qui lui correspondent, Les Arcs, vous propose 5 ambiances différentes au sein des 5 sites d’altitude.
-
-\\* Val Cenis: Val Cenis est une station de montagne à l’altitude parfaite pour s’oxygéner et se ressourcer dans un environnement très nature au pied du Col du Mont-Cenis. C’est aussi une destination aux multiples facettes : familiale et sportive, authentique et innovante, reposante et animée, généreuse et sincère.
-
-\\* Val d’Isère: Elle forme le domaine skiable Espace Killy avec la station voisine de Tignes. Des téléskis permettent d’accéder à des sites tels que l’abrupte face de Bellevarde et le glacier de la Grande Motte, connu pour la pratique du ski d’été. Profitez d’un immense domaine skiable et du charme d’un village savoyard typique que vous trouverez nul part ailleurs.
-
-\### Les meilleures activités à faire en station
-
-Parmi toutes ces stations, de nombreuses activités hivernales s’offrent à vous. Ne pensez pas que ski et laissez vous tenter par d’autres choses tout aussi intéressantes en termes de sensation. Laissez vous guider chien de traîneau, parapente, ski joëring ou bien d’autres activités encore.  
-
-Au rendez vous, sensations fortes, loisirs, émotions, plaisirs en famille…à vous de choisir !
-
 \## Le ski de randonnée, c’est quoi ?
 
-Le ski de randonnée est une discipline sportive faisant partie de celle du ski. Elle se pratique sur des terrains enneigés en milieu le plus souvent sauvages.  
+Le ski de randonnée est une discipline sportive faisant partie de celle du ski. Elle se pratique sur des terrains enneigés en milieu le plus souvent sauvages.
 
 Très prisée par les amateurs de grands espaces, elle ne nécessite pas d’aménagements spécifiques aux domaines skiables comme la pratique du ski alpin classique.
 
@@ -96,21 +71,21 @@ L’activité nécessite un équipement différent du ski alpin, bien plus adapt
 
 Ainsi, un pack de ski de randonnée est l’équipement parfait pour être bien équipé. L’utilisation d’un bon équipement rendra votre sortie optimale !
 
-Le matériel :  
+Le matériel :
 
-\\* Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien plus souples au niveau de la cheville pour permettre le mouvement de flexion dont on nécessite pour monter les skis au pieds)  
+\\* Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien plus souples au niveau de la cheville pour permettre le mouvement de flexion dont on nécessite pour monter les skis au pieds)
 
-\\* Bâtons de ski spécifiques à ce type de ski (télescopiques ou monobrins)  
+\\* Bâtons de ski spécifiques à ce type de ski (télescopiques ou monobrins)
 
-\\* Pantalons spécifique (moins chaud et bien étanche)  
+\\* Pantalons spécifique (moins chaud et bien étanche)
 
-Les accessoires :  
+Les accessoires :
 
-\\* Casque de ski (très important et différent de celui d’alpin avec plus d’aérations et plus léger)  
+\\* Casque de ski (très important et différent de celui d’alpin avec plus d’aérations et plus léger)
 
-\\* Lunette de soleil ou masque  
+\\* Lunette de soleil ou masque
 
-\\* Accessoires techniques type DVA (détecteur de victime en avalanche)  
+\\* Accessoires techniques type DVA (détecteur de victime en avalanche)
 
 \\* Matériel de sécurité: Pelle, sonde…
 
@@ -124,7 +99,7 @@ Il ne faut tout de même pas oublier que la montagne est un environnement sauvag
 
 2\\. La deuxième étape est l’ascension de la pente en question (plusieurs techniques possibles, à savoir celle des conversions, une technique particulière qui permet de diminuer l’effort dans la pente en faisant un mouvement de rotation du ski bien particulier)
 
-3\\. Troisième étape: la descente, qui demande une plus ou moins bonne technique en fonction de l’environnement dans lequel on se trouve et des conditions du jour.  
+3\\. Troisième étape: la descente, qui demande une plus ou moins bonne technique en fonction de l’environnement dans lequel on se trouve et des conditions du jour.
 
 Le ski de randonnée demande une bonne condition physique à la montée et une technique plutôt aguerrie pour la descente. Il nécessite aussi une bonne connaissance du terrain, de la météo en montagne pour y gérer les risques associés.
 
