@@ -20,7 +20,7 @@ page_sections:
 ---
 ## L'Isère
 
-Le département de l'Isère se situe dans la région Auvergne-Rhône-Alpes. Son nom vient de la rivière qui la traverse. La ville principale est Grenoble avec sa grande métropole. Étant dans les Alpes, le terrain est assez montagneux. Dans ce département, il y a différents massifs montagneux séparés par des vallées. La Chartreuse et les Belledonnes séparés par la vallée du Grésivaudan mais aussi le massif de l'Oisans, du Valbonnais et de Vercors. C'est un département très touristique, notamment l'hiver.
+Le département de l'Isère se situe dans la région Auvergne-Rhône-Alpes. Son nom vient de la rivière qui la traverse. La ville principale est Grenoble avec sa grande métropole. Étant dans les Alpes, le terrain est assez montagneux. Dans ce département, il y a différents massifs montagneux séparés par des vallées. La Chartreuse et les Belledonnes séparés par la vallée du Grésivaudan mais aussi le massif de l'Oisans, du Valbonnais et de Vercors. C'est un département très touristique, notamment l'hiver..
 
 ### Les stations de sports d'hiver en Isère
 
