@@ -12,7 +12,7 @@ image01_alt: Ski de randonnée dans les domaines de Savoie
 topnav_color_text: light
 page_sections:
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_limit,g_center,h_800,w_800/c_fill,g_center,h_545,w_475/v1638883539/website/winter/Chien-traineau-foret_h8m0bh.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,h_545/c_crop,g_north,h_545,w_475/v1638822010/website/winter/Hero-montagne_m8cx1r.webp
   title: Département français de la région Rhône Alpes, la Savoie est très connue
     pour ses nombreux sommets.
   content: 'Avec le point le plus bas à Saint-Genix-sur-Guiers (208 mètres) et son
