@@ -9,6 +9,7 @@ description: La Savoie est un véritable lieu de regroupement pour les plus fria
   des grands espaces et du milieu montagnard en général.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav/v1638883533/website/winter/Randonne-montagne-seul_ahg2x8.jpg
 image01_alt: Ski de randonnée dans les domaines de Savoie
+topnav_color_text: light
 page_sections:
 - template: textarea
   textarea: Et je peux en ajouter un au dessus histoire d'ajouter du contenu à ma
