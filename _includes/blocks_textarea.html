@@ -1,3 +1,19 @@
-<pre>
-{{ block | inspect }}
-</pre>
+<!-- start section -->
+<section class="big-section">
+    <div class="container">
+        <div class="row justify-content-center">  
+            <div class="col-12 col-lg-10 p-sm-0">
+                <div class="row align-items-center">
+                    <div class="col-12 blog-details-text last-paragraph-no-margin " data-wow-delay="0.4s"> 
+                        {{ block.textarea | markdownify }}
+                    </div>
+                </div>
+            </div> 
+        </div>
+    </div>
+</section>
+<!-- 
+<blockquote class="alt-font border-width-4px border-color-green margin-60px-left pe-0 margin-5-half-rem-tb md-margin-40px-left sm-no-margin-left wow animate__fadeIn">
+    <p>Tomorrow is the most important thing in life. Comes into us at midnight very clean. It's perfect when it arrives and it puts itself in our hands. It hopes we've learned something from yesterday.</p>
+    <footer class="text-medium text-orange-zest d-inline-block text-uppercase">John Wayne</footer>
+</blockquote> -->
