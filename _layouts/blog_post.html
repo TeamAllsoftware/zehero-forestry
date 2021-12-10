@@ -36,3 +36,98 @@ layout: default
     {% include blocks_{{ template }}.html %}
   {% endcase %}
 {% endfor %}
+
+<!-- start section -->
+<section>
+  <div class="container">      
+      <div class="row">
+          <div class="col-12 col-lg-10 mx-auto margin-60px-bottom md-margin-30px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
+              <div class="d-block d-md-flex w-100 box-shadow-small align-items-center border-radius-5px padding-4-rem-all">
+                  <div class="w-130px text-center margin-60px-right sm-margin-auto-lr">
+                      <img src="{{ author.photo }}" class="rounded-circle w-110px" alt=""/>
+                      <a href="blog-grid.html" class="text-extra-dark-gray alt-font font-weight-500 margin-20px-top d-inline-block text-medium">{{ author.firstname }} {{ author.lastname }}</a>
+                      {{ author.position }}
+                  </div>
+                  <div class="w-75 sm-w-100 last-paragraph-no-margin text-center text-md-start">
+                      <p>{{ author.bio }}</p>
+                      <a href="blog-grid.html" class="btn btn-link btn-large text-extra-dark-gray margin-20px-top">All author posts</a>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+<!-- end section -->
+
+<!-- start section -->
+<section class="bg-light-gray">
+  <div class="container">
+      <div class="row justify-content-center">
+          <div class="col-12 col-lg-5 col-md-6 text-center margin-5-rem-bottom wow animate__fadeIn">
+              <span class="alt-font font-weight-500 text-uppercase d-inline-block">{{ site.data.config.[page.language].blog.related-posts.caption }}</span>
+              <h5 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px">{{ site.data.config.[page.language].blog.related-posts.title }}</h5>
+          </div>
+      </div>
+      <div class="row">
+          <div class="col-12 blog-content">
+              <ul class="blog-clean blog-wrapper grid grid-loading grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large">
+                  <li class="grid-sizer"></li>
+                  <!-- start blog item -->
+                  <li class="grid-item wow animate__fadeIn">
+                      <div class="blog-post text-center border-radius-6px bg-white box-shadow box-shadow-large-hover">
+                          <div class="blog-post-image bg-gradient-fast-blue-purple">
+                              <a href="blog-post-layout-01.html"><img src="https://via.placeholder.com/850x885" alt="">
+                                  <div class="blog-rounded-icon bg-white border-color-white absolute-middle-center">
+                                      <i class="feather icon-feather-arrow-right text-extra-dark-gray icon-extra-small"></i>
+                                  </div>
+                              </a>
+                          </div>
+                          <div class="post-details padding-30px-all xl-padding-25px-lr">
+                              <a href="blog-grid.html" class="post-author text-medium text-uppercase">23 February 2020</a>
+                              <a href="blog-post-layout-01.html" class="text-extra-dark-gray font-weight-500 alt-font d-block">Build perfect websites</a>
+                          </div>
+                      </div>
+                  </li>
+                  <!-- end blog item -->
+                  <!-- start blog item -->
+                  <li class="grid-item wow animate__fadeIn" data-wow-delay="0.2s">
+                      <div class="blog-post text-center border-radius-6px bg-white box-shadow box-shadow-large-hover">
+                          <div class="blog-post-image bg-gradient-fast-blue-purple">
+                              <a href="blog-post-layout-02.html"><img src="https://via.placeholder.com/850x885" alt="">
+                                  <div class="blog-rounded-icon bg-white border-color-white absolute-middle-center">
+                                      <i class="feather icon-feather-arrow-right text-extra-dark-gray icon-extra-small"></i>
+                                  </div>
+                              </a>
+                          </div>
+                          <div class="post-details padding-30px-all xl-padding-25px-lr">
+                              <a href="blog-grid.html" class="post-author text-medium text-uppercase">18 February 2020</a>
+                              <a href="blog-post-layout-02.html" class="text-extra-dark-gray font-weight-500 alt-font d-block">Beautiful layouts design</a>
+                          </div>
+                      </div>
+                  </li>
+                  <!-- end blog item -->
+                  <!-- start blog item -->
+                  <li class="grid-item wow animate__fadeIn" data-wow-delay="0.4s">
+                      <div class="blog-post text-center border-radius-6px bg-white box-shadow box-shadow-large-hover">
+                          <div class="blog-post-image bg-gradient-fast-blue-purple">
+                              <a href="blog-post-layout-03.html"><img src="https://via.placeholder.com/850x885" alt="">
+                                  <div class="blog-rounded-icon bg-white border-color-white absolute-middle-center">
+                                      <i class="feather icon-feather-arrow-right text-extra-dark-gray icon-extra-small"></i>
+                                  </div>
+                              </a>
+                          </div>
+                          <div class="post-details padding-30px-all xl-padding-25px-lr">
+                              <a href="blog-grid.html" class="post-author text-medium text-uppercase">23 January 2019</a>
+                              <a href="blog-post-layout-03.html" class="text-extra-dark-gray font-weight-500 alt-font d-block">Fashion is not something</a>
+                          </div>
+                      </div>
+                  </li>
+                  <!-- end blog item -->
+              </ul>
+          </div>
+      </div>
+  </div>
+</section>
+<!-- start section -->
+
+{% include elements/subscribe.html %}
