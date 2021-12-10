@@ -1,0 +1,67 @@
+---
+label: parlaxgridtxtimg
+hide_body: true
+fields:
+- name: parlaximg
+  type: text
+  config:
+    required: true
+  label: parlaximg
+  description: image url from Cloudinary (if you do not know what is Cloudinary, contact
+    Geoffrey)
+- name: captionabovetitle
+  type: text
+  config:
+    required: true
+  label: captionabovetitle
+- name: title
+  type: text
+  config:
+    required: true
+  label: title
+- name: gridline1title
+  type: text
+  config:
+    required: true
+  label: gridline1title
+- name: gridline1content
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: 300
+    min: 200
+  label: gridline1content
+  description: Max 300 characters
+- name: gridline1img
+  type: text
+  config:
+    required: true
+  label: gridline1img
+  description: image URL from cloudinary preset for image size 800x610
+- name: gridline2title
+  type: text
+  config:
+    required: true
+  label: gridline2title
+- name: gridline2content
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: 300
+    min: 200
+  label: gridline2content
+  description: Max 300 characters
+- name: gridline2img
+  type: text
+  config:
+    required: true
+  description: image URL from cloudinary preset for image size 800x610
+  label: gridline2img

@@ -18,6 +18,16 @@ fr:
     summer: 
       name: ete
       icon: icon-feather-sun
+  newsletter:
+    privacy: Nous nous engageons à protéger votre vie privée. Nous ne collecterons jamais d'informations vous concernant sans votre consentement explicite.
+    title: Recevez nos dernières informations outdoor
+    placeholder: Entrez votre adresse email
+    subscribe-btn: Je m'inscris
+  blog:
+    related-posts:
+      caption: Vous aimerez aussi
+      title: Dans le même univers
+
 en:
   season:
     winter: 
@@ -26,6 +36,15 @@ en:
     summer: 
       name: summer
       icon: icon-feather-sun
+  newsletter:
+    privacy: We are committed to protecting your privacy. We will never collect information about you without your explicit consent.
+    title: Get our latest outdoor updates
+    placeholder: Enter your email address
+    subscribe-btn: Subscribe
+  blog:
+    related-posts:
+      caption: You may also like
+      title: Related posts
 
 #common text
 slogan:

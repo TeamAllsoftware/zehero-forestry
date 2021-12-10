@@ -69,6 +69,34 @@ fields:
 - type: text
   name: image01_alt
   label: image01_alt
+- name: topnav_text_color
+  type: select
+  default: light
+  config:
+    required: true
+    options:
+    - light
+    - dark
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: topNav text color
+  description: top navigation menu text color must be white or black ? depends on
+    the background image tone (dark or light) or color (dark or light). If background
+    is dark and you want a white text select "dark"
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - textarea
+  - 3coltxtimgtxt
+  - 2colimgtxt
+  - parlaxgridtxtimg
+  config:
+    min: 
+    max: 
 pages:
 - content/_fr/posts/2021-10-12-ski-de-randonnee-en-savoie.md
 - content/_fr/posts/2021-12-08-ski-de-randonnee-en-isere.md
