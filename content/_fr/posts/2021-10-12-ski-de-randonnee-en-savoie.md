@@ -38,15 +38,30 @@ page_sections:
     La Tarentaise et la Maurienne sont les deux principales vallées à l’origine d’un gros trafic en hiver; les sports d’hiver et principalement le ski étant à l’origine de ce trafic saisonnier.
 
     Les stations comme Courchevel, [Val thorens](fr/hiver/station/val-thorens "Voir les locations à Val-Thorens"), Val d’isère, Tignes, ont une dimension et un rayonnement international, tandis que d’autres sont plus petites et à taille humaine telles que: La Toussuire, Le Corbier ou encore Bonneval sur arc.
-- template: textarea
+- template: liststyle01numbered
   title: Le top 5 des stations hivernales pour pratiquer une activité physique hors
     Ski Alpin
-  content: |-
-    1. **Les Saisies**: La station de ski familiale par excellence. Située à 1650 m d’altitude en Savoie Mont-Blanc entre le Beaufortain et le Val d’Arly. Une station aux valeurs de convivialité, d’authenticité, des paysages à couper le souffle et une nature préservée.
-    2. **Courchevel**: Située en Tarentaise, elle fait partie du domaine skiable des trois vallées. 6 villages reliés par des remontées mécaniques et des navettes gratuites dessinent une station unique aux univers multiples. Partout, la recherche de l’excellence et la culture du détail raisonnent.
-    3. **Les Arcs**: Pour offrir à chacun le confort, les services et le mode de vie qui lui correspondent, Les Arcs, vous propose 5 ambiances différentes au sein des 5 sites d’altitude.
-    4. **Val Cenis**: Val Cenis est une station de montagne à l’altitude parfaite pour s’oxygéner et se ressourcer dans un environnement très nature au pied du Col du Mont-Cenis. C’est aussi une destination aux multiples facettes : familiale et sportive, authentique et innovante, reposante et animée, généreuse et sincère.
-    5. **Val d’Isère**: Elle forme le domaine skiable Espace Killy avec la station voisine de Tignes. Des téléskis permettent d’accéder à des sites tels que l’abrupte face de Bellevarde et le glacier de la Grande Motte, connu pour la pratique du ski d’été. Profitez d’un immense domaine skiable et du charme d’un village savoyard typique que vous trouverez nul part ailleurs.
+  item:
+  - 'Les Saisies: La station de ski familiale par excellence. Située à 1650 m d’altitude
+    en Savoie Mont-Blanc entre le Beaufortain et le Val d’Arly. Une station aux valeurs
+    de convivialité, d’authenticité, des paysages à couper le souffle et une nature
+    préservée.'
+  - 'Courchevel: Située en Tarentaise, elle fait partie du domaine skiable des trois
+    vallées. 6 villages reliés par des remontées mécaniques et des navettes gratuites
+    dessinent une station unique aux univers multiples. Partout, la recherche de l’excellence
+    et la culture du détail raisonnent.'
+  - 'Les Arcs: Pour offrir à chacun le confort, les services et le mode de vie qui
+    lui correspondent, Les Arcs, vous propose 5 ambiances différentes au sein des
+    5 sites d’altitude.'
+  - 'Val Cenis: Val Cenis est une station de montagne à l’altitude parfaite pour s’oxygéner
+    et se ressourcer dans un environnement très nature au pied du Col du Mont-Cenis.
+    C’est aussi une destination aux multiples facettes : familiale et sportive, authentique
+    et innovante, reposante et animée, généreuse et sincère.'
+  - 'Val d’Isère: Elle forme le domaine skiable Espace Killy avec la station voisine
+    de Tignes. Des téléskis permettent d’accéder à des sites tels que l’abrupte face
+    de Bellevarde et le glacier de la Grande Motte, connu pour la pratique du ski
+    d’été. Profitez d’un immense domaine skiable et du charme d’un village savoyard
+    typique que vous trouverez nul part ailleurs.'
 - template: 3coltxtimgtxt
   captionleftcontent: Les meilleures activités à faire en station
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/c_thumb,h_500,w_500/v1638883539/website/winter/Chien-traineau-foret_h8m0bh.jpg
@@ -90,12 +105,17 @@ page_sections:
     sauvage, complexe qui peut s’avérer dangereux si l’on n’anticipe pas les risques
     probables au maximum. C’est la raison pour laquelle les équipements de sécurité
     sont primordiaux, mais le principal étant de savoir s’en servir !
-- template: textarea
+- template: liststyle01numbered
   title: Déroulement d’une sortie en ski de randonnée
-  content: |-
-    1. Souvent, elle commence par une marche d’approche qui emmène au départ de l’ascension où l’on peut ensuite chausser les skis.
-    2. La deuxième étape est l’ascension de la pente en question (plusieurs techniques possibles, à savoir celle des conversions, une technique particulière qui permet de diminuer l’effort dans la pente en faisant un mouvement de rotation du ski bien particulier)
-    3. Troisième étape: la descente, qui demande une plus ou moins bonne technique en fonction de l’environnement dans lequel on se trouve et des conditions du jour.
+  item:
+  - Souvent, elle commence par une marche d’approche qui emmène au départ de l’ascension
+    où l’on peut ensuite chausser les skis.
+  - La deuxième étape est l’ascension de la pente en question (plusieurs techniques
+    possibles, à savoir celle des conversions, une technique particulière qui permet
+    de diminuer l’effort dans la pente en faisant un mouvement de rotation du ski
+    bien particulier)
+  - 'Troisième étape: la descente, qui demande une plus ou moins bonne technique en
+    fonction de l’environnement dans lequel on se trouve et des conditions du jour.'
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883537/website/winter/Montagne-randonnee-blizzard_imccfq.jpg
   captionabovetitle: Physique à la montée, technique à la descente
