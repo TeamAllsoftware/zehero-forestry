@@ -67,15 +67,16 @@ page_sections:
     différent du ski alpin, bien plus adapté pour cette discipline : un package complet
     qui comprend plusieurs accessoires, équipement… etc.\n\nAinsi, un pack de ski
     de randonnée est l’équipement parfait pour être bien équipé. L’utilisation d’un
-    bon équipement rendra votre sortie optimale !\n\n**Le matériel** :\n\n* Chaussures
+    bon équipement rendra votre sortie optimale !\n\n#### **Le matériel** :\n\n* Chaussures
     de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien
     plus souples au niveau de la cheville pour permettre le mouvement de flexion dont
     on nécessite pour monter les skis au pieds)\n* Bâtons de ski spécifiques à ce
     type de ski (télescopiques ou monobrins)\n* Pantalons spécifique (moins chaud
-    et bien étanche)\n  {: .list-style-05}\n\n**Les accessoires** :\n\n* Casque de
-    ski (très important et différent de celui d’alpin avec plus d’aérations et plus
-    léger)\n* Lunette de soleil ou masque\n* Accessoires techniques type DVA (détecteur
-    de victime en avalanche)\n* Matériel de sécurité: Pelle, sonde…  \n  {: .list-style-05}"
+    et bien étanche)\n  {: .list-style-05}\n\n#### **Les accessoires** :\n\n* Casque
+    de ski (très important et différent de celui d’alpin avec plus d’aérations et
+    plus léger)\n* Lunette de soleil ou masque\n* Accessoires techniques type DVA
+    (détecteur de victime en avalanche)\n* Matériel de sécurité: Pelle, sonde…  \n
+    \ {: .list-style-05}"
 - template: textarea
   title: Une liberté qui n’exclut aucun risques
   content: Il ne faut tout de même pas oublier que la montagne est un environnement
