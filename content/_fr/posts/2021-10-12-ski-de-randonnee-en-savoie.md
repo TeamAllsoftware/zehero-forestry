@@ -74,6 +74,7 @@ page_sections:
     * Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien plus souples au niveau de la cheville pour permettre le mouvement de flexion dont on nécessite pour monter les skis au pieds)
     * Bâtons de ski spécifiques à ce type de ski (télescopiques ou monobrins)
     * Pantalons spécifique (moins chaud et bien étanche)
+    {: .list-style-05}
 
     **Les accessoires** :
 
