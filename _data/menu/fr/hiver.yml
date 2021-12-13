@@ -12,35 +12,55 @@
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Liste complète des activités</span>'
       subhref: '/fr/produits/'
--  title: 'Location de matériel'
+-  title: 'Conseils'
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_350,w_200,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
    image-link: "/fr/hiver/station/alpe-d-huez"
    subcategories:
-    - subtitle-bold: "Location de matériel"
+    - subtitle-bold: "Matériel"
     - subtitle: "Ski"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
     - subtitle: "Snowboard"
       subhref: "/fr/ossa-et-support/lux-model/"
     - subtitle: "Chaussures"
       subhref: "/fr/ossa-et-support/lux-model/"
+    - subtitle-bold: "Apprendre"
+    - subtitle: "Ski"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Ski de randonnée"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Snowboard"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
    subcategories2:
+    - subtitle-bold: "Entraînement / Préparation"
+    - subtitle: "Coaching privé"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Coaching collectif"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle-bold: "Outdoor à partager"
+    - subtitle: "En famille"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "En couple"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Entre amis"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Seul"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+   subcategories3:
+    - subtitle-bold: "Itinéraires"
+    - subtitle: "A la journée"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Sur 2 jours et plus"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+-  title: 'Régions'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
+   image-link: "/fr/ete/"
+   subcategories:
     - subtitle-bold: "Dans quelle station louer ?"
     - subtitle: "Alpe d'Huez"
       subhref: "fr/hiver/station/alpe-d-huez"
     - subtitle: "Val-Thorens"
       subhref: "fr/hiver/station/val-thorens"
--  title: 'Coaching'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
-   image-link: "/fr/ete/"
-   subcategories:
-    - subtitle-bold: "Coaching"
-    - subtitle: "Ski"
-      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-    - subtitle: "Snowboard"
-      subhref: "/fr/ossa-et-support/lux-model/"
-    - subtitle: "Chaussures"
-      subhref: "/fr/ossa-et-support/lux-model/"
--  title: 'Spécial enfants'
+-  title: 'Team ZE HERO'
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822904/website/summer/daiga-ellaby-JZ51o_-UOY8-unsplash_hpu3tg.jpg'
    image-link: "/fr/ete/"
    subcategories:

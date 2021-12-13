@@ -52,6 +52,7 @@
                                                 {% endfor %}
                                             </ul>
 
+                                            {% if nav.subcategories2 %}
                                             <ul class="d-lg-inline-block md-margin-15px-bottom">
                                                 {% for subcategory2 in nav.subcategories2 %}
                                                 {% if subcategory2.subtitle-bold %}
@@ -63,6 +64,20 @@
                                                 {% endif %}
                                                 {% endfor %}
                                             </ul>
+                                            {% endif %}
+                                            {% if nav.subcategories3 %}
+                                            <ul class="d-lg-inline-block md-margin-15px-bottom">
+                                                {% for subcategory3 in nav.subcategories3 %}
+                                                {% if subcategory3.subtitle-bold %}
+                                                <li class="dropdown-header">{{ subcategory3.subtitle-bold }}</li>
+                                                {% elsif subcategory3.external %}
+                                                <li><a href="{{ subcategory3.external.subhref }}">{{ subcategory3.external.subtitle }}</a></li>
+                                                {% else %}  
+                                                <li><a href="/{{ subcategory3.subhref }}">{{ subcategory3.subtitle }}</a></li>
+                                                {% endif %}
+                                                {% endfor %}
+                                            </ul>
+                                            {% endif %}
                                             
                                             <ul class="d-lg-inline-block d-none no-padding-right">
                                                 <li>
