@@ -83,6 +83,22 @@ page_sections:
     * Accessoires techniques type DVA (détecteur de victime en avalanche)
     * Matériel de sécurité: Pelle, sonde…
     {: .list-style-05}
+- template: liststyle01
+  item:
+  - Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles
+    sont bien plus souples au niveau de la cheville pour permettre le mouvement de
+    flexion dont on nécessite pour monter les skis au pieds)
+  - Bâtons de ski spécifiques à ce type de ski (télescopiques ou monobrins)
+  - Pantalons spécifique (moins chaud et bien étanche)
+  title: 'Le matériel :'
+- template: liststyle01
+  title: 'Les accessoires :'
+  item:
+  - Casque de ski (très important et différent de celui d’alpin avec plus d’aérations
+    et plus léger)
+  - Lunette de soleil ou masque
+  - Accessoires techniques type DVA (détecteur de victime en avalanche)
+  - 'Matériel de sécurité: Pelle, sonde…'
 - template: textarea
   title: Une liberté qui n’exclut aucun risques
   content: Il ne faut tout de même pas oublier que la montagne est un environnement
@@ -121,14 +137,6 @@ page_sections:
     Comme vous l’aurez compris, le ski de randonnée est une approche différente mais tout aussi appréciable que le ski alpin classique alors n’attendez plus et faites vous votre propre expérience.
   title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
     des stations
-- template: liststyle01
-  item:
-  - Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles
-    sont bien plus souples au niveau de la cheville pour permettre le mouvement de
-    flexion dont on nécessite pour monter les skis au pieds)
-  - Bâtons de ski spécifiques à ce type de ski (télescopiques ou monobrins)
-  - Pantalons spécifique (moins chaud et bien étanche)
-  title: 'Le matériel :'
 topnav_text_color: light
 
 ---
