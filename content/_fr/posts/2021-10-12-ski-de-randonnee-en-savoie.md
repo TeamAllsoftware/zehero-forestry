@@ -58,30 +58,24 @@ page_sections:
     Au rendez vous, sensations fortes, loisirs, émotions, plaisirs en famille…à vous de choisir !
 - template: textarea
   title: Le ski de randonnée, c’est quoi ?
-  content: |-
-    Le ski de randonnée est une discipline sportive faisant partie de celle du ski. Elle se pratique sur des terrains enneigés en milieu le plus souvent sauvages.
-
-    Très prisée par les amateurs de grands espaces, elle ne nécessite pas d’aménagements spécifiques aux domaines skiables comme la pratique du ski alpin classique.
-
-    Elle peut être pratiquée pour le plaisir mais il existe aussi un grand nombre de compétitions comme la Pierra Menta, une de plus réputée.
-
-    L’activité nécessite un équipement différent du ski alpin, bien plus adapté pour cette discipline : un package complet qui comprend plusieurs accessoires, équipement… etc.
-
-    Ainsi, un pack de ski de randonnée est l’équipement parfait pour être bien équipé. L’utilisation d’un bon équipement rendra votre sortie optimale !
-
-    **Le matériel** :
-
-    * Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien plus souples au niveau de la cheville pour permettre le mouvement de flexion dont on nécessite pour monter les skis au pieds)
-    * Bâtons de ski spécifiques à ce type de ski (télescopiques ou monobrins)
-    * Pantalons spécifique (moins chaud et bien étanche)
-    {: .list-style-05}
-
-    **Les accessoires** :
-
-    * Casque de ski (très important et différent de celui d’alpin avec plus d’aérations et plus léger)
-    * Lunette de soleil ou masque
-    * Accessoires techniques type DVA (détecteur de victime en avalanche)
-    * Matériel de sécurité: Pelle, sonde…
+  content: "Le ski de randonnée est une discipline sportive faisant partie de celle
+    du ski. Elle se pratique sur des terrains enneigés en milieu le plus souvent sauvages.\n\nTrès
+    prisée par les amateurs de grands espaces, elle ne nécessite pas d’aménagements
+    spécifiques aux domaines skiables comme la pratique du ski alpin classique.\n\nElle
+    peut être pratiquée pour le plaisir mais il existe aussi un grand nombre de compétitions
+    comme la Pierra Menta, une de plus réputée.\n\nL’activité nécessite un équipement
+    différent du ski alpin, bien plus adapté pour cette discipline : un package complet
+    qui comprend plusieurs accessoires, équipement… etc.\n\nAinsi, un pack de ski
+    de randonnée est l’équipement parfait pour être bien équipé. L’utilisation d’un
+    bon équipement rendra votre sortie optimale !\n\n**Le matériel** :\n\n* Chaussures
+    de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien
+    plus souples au niveau de la cheville pour permettre le mouvement de flexion dont
+    on nécessite pour monter les skis au pieds)\n* Bâtons de ski spécifiques à ce
+    type de ski (télescopiques ou monobrins)\n* Pantalons spécifique (moins chaud
+    et bien étanche)\n  {: .list-style-05}\n\n**Les accessoires** :\n\n* Casque de
+    ski (très important et différent de celui d’alpin avec plus d’aérations et plus
+    léger)\n* Lunette de soleil ou masque\n* Accessoires techniques type DVA (détecteur
+    de victime en avalanche)\n* Matériel de sécurité: Pelle, sonde…  \n  {: .list-style-05}"
 - template: textarea
   title: Une liberté qui n’exclut aucun risques
   content: Il ne faut tout de même pas oublier que la montagne est un environnement
