@@ -94,6 +94,7 @@ fields:
   - 3coltxtimgtxt
   - 2colimgtxt
   - parlaxgridtxtimg
+  - liststyle01
   config:
     min: 
     max: 
