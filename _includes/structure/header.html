@@ -18,7 +18,11 @@
                 <div class="container-fluid nav-header-container">
                     <div class="col-5 col-lg-2 ps-lg-0 me-auto me-lg-0">
                         <a class="navbar-brand" href="/{{ page.language }}/{{ season_language }}">
+                            {% if page.topnav_color_text == 'light' %}
+                            <img src="/images/global/logo-ZeHero-brown.png" data-at2x="/images/global/logo-ZeHero-brown.png" alt="" class="default-logo">
+                            {% else %}
                             <img src="/images/global/logo-ZeHero-white.png" data-at2x="/images/global/logo-ZeHero-white.png" alt="" class="default-logo">
+                            {% endif %}
                             <img src="/images/global/logo-ZeHero-brown.png" data-at2x="/images/global/logo-ZeHero-brown.png" alt="" class="alt-logo">
                             <img src="/images/global/logo-ZeHero-black.png" data-at2x="/images/global/logo-ZeHero-black.png" class="mobile-logo" alt="">
                         </a>

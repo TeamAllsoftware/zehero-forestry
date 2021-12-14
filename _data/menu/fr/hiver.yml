@@ -74,6 +74,9 @@
     - subtitle-bold: "Les athlètes"
     - subtitle: "Léo"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle-bold: "___"
+    - subtitle: '<span class="type--fine-print type--italic">Nous contacter</span>'
+      subhref: 'fr/hiver/contact'
    subcategories2:
     - subtitle-bold: "Vous, ZE HERO du jour"
     - subtitle: "Sandrine"
@@ -94,4 +97,4 @@
       subhref: '/fr/produits/'
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Nous contacter</span>'
-      subhref: '/fr/contact/'
+      subhref: 'fr/hiver/contact'

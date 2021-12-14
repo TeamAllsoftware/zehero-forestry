@@ -1,4 +1,5 @@
 {% assign thispage = site.data.content.winter_activity %}
+{% assign activities = site[page.collection] %}
 
 {% include elements/generic_variables.html %}
 
@@ -15,17 +16,11 @@
         </div>            
     </section>
     <!-- end page title -->
-
-
-    
-    
     <!-- start section -->
-    <section class="bg-light-gray">
+    <section class="bg-light-gray p-0">
         
         <div class="container-fluid padding-five-lr xl-padding-two-lr lg-padding-four-lr">
             <div class="row row-cols-1 row-cols-xl-4 row-cols-sm-2">
-
-                {% assign activities = site[page.collection] %}
                 {% for activity in activities %}
                 {% if activity.path contains "/activity/" %}
                 <!-- start services item -->
