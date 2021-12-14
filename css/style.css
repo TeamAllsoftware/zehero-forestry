@@ -799,7 +799,8 @@ input.btn:focus { border-width: 2px; }
 .btn.btn-fast-blue:hover, .btn.btn-fast-blue:focus { background: transparent; color: #0038e3; }
 /* .btn.btn-green { background: #27AE60; border-color: #27AE60; color: #ffffff; }00927a */
 .btn.btn-green { background: #3cb5a1; border-color: #3cb5a1; color: #ffffff; }
-.btn.btn-green:hover, .btn.btn-green:focus { background: transparent; color: #27AE60; }
+/* .btn.btn-green:hover, .btn.btn-green:focus { background: transparent; color: #27AE60; }3cb5a1 */
+.btn.btn-green:hover, .btn.btn-green:focus { background: transparent; color: #3cb5a1; }
 .btn.btn-olivine-green { background: #8bb867; border-color: #8bb867; color: #ffffff; }
 .btn.btn-olivine-green:hover, .btn.btn-olivine-green:focus { background: transparent; color: #8bb867; }
 .btn.btn-sky-blue { background: #2e94eb; border-color: #2e94eb; color: #ffffff; }

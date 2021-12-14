@@ -27,6 +27,8 @@ fr:
     related-posts:
       caption: Vous aimerez aussi
       title: Dans le même univers
+  activity:
+    readmore: Explorer cette activité
 
 en:
   season:
@@ -45,10 +47,12 @@ en:
     related-posts:
       caption: You may also like
       title: Related posts
+  activity:
+    readmore: Explore more
 
-#common text
-slogan:
-  fr:
-    owol: "Outdoor Way Of Life"
-  en: 
-    owol: "Outdoor Way Of Life"
+#Image resizing by cloudinary
+
+img:
+  url: https://res.cloudinary.com/deddrj0yb/image/upload/
+#activity image in list
+  activitylist: w_322,h_446,c_fill

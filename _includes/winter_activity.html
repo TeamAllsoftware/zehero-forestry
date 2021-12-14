@@ -1,5 +1,7 @@
 {% assign thispage = site.data.content.winter_activity %}
 
+{% include elements/generic_variables.html %}
+
 <div class="main-content"></div>
     <!-- start page title -->
     <section class="half-section bg-light-gray parallax" data-parallax-background-ratio="0.5" style="background-image:url('{{ thispage.s01.image_hero }}');">
@@ -30,14 +32,14 @@
                 <div class="col interactive-banners-style-11 text-center lg-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.2s">
                     <div class="interactive-banners-box">
                         <div class="interactive-banners-box-image">
-                            <img src="{{activity.image01_href}}" alt="">
+                            <img src="{{ imgsize.url }}{{ imgsize.activitylist }}{{activity.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="">
                             <div class="interactive-banners-text-overlay bg-slate-blue"></div>
                             <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
                         </div>
                         <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
                             <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ activity.title }}</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">Vitesse, calme et volupté</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-green margin-35px-top">Explore more</a>
+                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ activity.baseline }}</span>
+                            <a href="{{ activity.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.activity.readmore }}</a>
                         </div>
                     </div>
                 </div>

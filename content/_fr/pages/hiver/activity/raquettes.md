@@ -1,19 +1,19 @@
 ---
 layout: page_activity
-permalink: /fr/hiver/activite/ski-de-randonnee
+permalink: /fr/hiver/activite/raquettes
 
 language: fr
 season: winter
 topnav_color_text: light
 
-title: Ski de randonnée
+title: Raquettes
 description: La Savoie est un véritable lieu de regroupement pour les plus friands
   de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux
   des grands espaces et du milieu montagnard en général.
-baseline: Vitesse, calme et volupté
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Randonne-montagne-seul_ahg2x8.jpg
-image01_alt: Ski de randonnée dans les domaines de Savoie
-topnav_color_text: light
+baseline: Exploration, liberté et tranquilité
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Randonne-neige-seul_mxdyy6.jpg
+image01_alt: Des raquettes dans les domaines de Savoie
+
 page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,h_545/c_crop,g_north,h_545,w_475/v1638822010/website/winter/Hero-montagne_m8cx1r.webp

@@ -1,5 +1,7 @@
 {% assign thispage = site.data.content.winter_homepage %}
 
+{% include elements/generic_variables.html %}
+
 <div class="main-content">
     <!-- start section -->
     <section class="parallax p-0" data-parallax-background-ratio="0.3" style="background-image:url('{{ thispage.s01.image_hero }}');">
@@ -50,134 +52,27 @@
         </div>
         <div class="container-fluid padding-five-lr xl-padding-two-lr lg-padding-four-lr">
             <div class="row row-cols-1 row-cols-xl-4 row-cols-sm-2">
+                {% assign activities = site[page.collection] %}
+                {% for activity in activities %}
+                {% if activity.path contains "/activity/" %}
                 <!-- start services item -->
                 <div class="col interactive-banners-style-11 text-center lg-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.2s">
                     <div class="interactive-banners-box">
                         <div class="interactive-banners-box-image">
-                            <img src="/images/winter/Activite-hiver-chien-traineau.webp" alt="">
+                            <img src="{{ imgsize.url }}{{ imgsize.activitylist }}{{activity.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="">
                             <div class="interactive-banners-text-overlay bg-slate-blue"></div>
                             <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
                         </div>
                         <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Chiens de traineau</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">Vitesse, calme et volupté</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-green margin-35px-top">Explore more</a>
+                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ activity.title }}</h6>
+                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ activity.baseline }}</span>
+                            <a href="{{ activity.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.activity.readmore }}</a>
                         </div>
                     </div>
                 </div>
                 <!-- end services item -->
-                <!-- start services item -->
-                <div class="col interactive-banners-style-11 text-center lg-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.4s">
-                    <div class="interactive-banners-box">
-                        <div class="interactive-banners-box-image">
-                            <img src="/images/winter/Activite-non-ski.webp" alt="">
-                            <div class="interactive-banners-text-overlay bg-slate-blue"></div>
-                            <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
-                        </div>
-                        <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Cocooning</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">La nature prend soin de vous !</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-green margin-35px-top">Explore more</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end services item -->
-                <!-- start services item -->
-                <div class="col interactive-banners-style-11 text-center xs-margin-15px-bottom wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.6s">
-                    <div class="interactive-banners-box">
-                        <div class="interactive-banners-box-image">
-                            <img src="/images/winter/Activite-ski.webp" alt="">
-                            <div class="interactive-banners-text-overlay bg-slate-blue"></div>
-                            <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
-                        </div>
-                        <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Ski alpin</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">Perfectionnez votre technique</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-green margin-35px-top">Explore more</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end services item -->
-                <!-- start services item -->
-                <div class="col interactive-banners-style-11 text-center wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.8s">
-                    <div class="interactive-banners-box">
-                        <div class="interactive-banners-box-image">
-                            <img src="/images/winter/Activite-snowboard.webp" alt="">
-                            <div class="interactive-banners-text-overlay bg-slate-blue"></div>
-                            <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
-                        </div>
-                        <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Snowboard</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">De la poudre, de la poudre</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-green margin-35px-top">Explore more</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end services item -->
-                <!-- start services item -->
-                <div class="col interactive-banners-style-11 text-center wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.8s">
-                    <div class="interactive-banners-box">
-                        <div class="interactive-banners-box-image">
-                            <img src="/images/winter/Activité ski.webp" alt="">
-                            <div class="interactive-banners-text-overlay bg-slate-blue"></div>
-                            <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
-                        </div>
-                        <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Visitez un domaine</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">Une journée découverte</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-green margin-35px-top">Explore more</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end services item -->
-                <!-- start services item -->
-                <div class="col interactive-banners-style-11 text-center wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.8s">
-                    <div class="interactive-banners-box">
-                        <div class="interactive-banners-box-image">
-                            <img src="/images/winter/Activite-coaching-sportif.webp" alt="">
-                            <div class="interactive-banners-text-overlay bg-slate-blue"></div>
-                            <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
-                        </div>
-                        <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Coaching sportif</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">Préparation physique</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-green margin-35px-top">Explore more</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end services item -->
-                <!-- start services item -->
-                <div class="col interactive-banners-style-11 text-center wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.8s">
-                    <div class="interactive-banners-box">
-                        <div class="interactive-banners-box-image">
-                            <img src="/images/winter/Activite-hiver-enfants.webp" alt="">
-                            <div class="interactive-banners-text-overlay bg-slate-blue"></div>
-                            <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
-                        </div>
-                        <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Activités enfants</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">Glisse et boules de neige</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-green margin-35px-top">Explore more</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end services item -->
-                <!-- start services item -->
-                <div class="col interactive-banners-style-11 text-center wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.8s">
-                    <div class="interactive-banners-box">
-                        <div class="interactive-banners-box-image">
-                            <img src="/images/winter/Activite-hiver-raquettes.webp" alt="">
-                            <div class="interactive-banners-text-overlay bg-slate-blue"></div>
-                            <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
-                        </div>
-                        <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Sorties raquettes</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">Profitez de la nature</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-green margin-35px-top">Explore more</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end services item -->
+                {% endif %}
+                {% endfor %}
             </div>
         </div>
     </section>

@@ -1,17 +1,17 @@
 ---
 layout: page_activity
-permalink: /fr/hiver/activite/ski-de-randonnee
+permalink: /fr/hiver/activite/ski-alpin
 
 language: fr
 season: winter
 topnav_color_text: light
 
-title: Ski de randonnée
+title: Ski alpin
 description: La Savoie est un véritable lieu de regroupement pour les plus friands
   de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux
   des grands espaces et du milieu montagnard en général.
-baseline: Vitesse, calme et volupté
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Randonne-montagne-seul_ahg2x8.jpg
+baseline: Slalom, chasse-neige, tout schuss
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-groupe-amis_weuk4g.jpg
 image01_alt: Ski de randonnée dans les domaines de Savoie
 topnav_color_text: light
 page_sections:
