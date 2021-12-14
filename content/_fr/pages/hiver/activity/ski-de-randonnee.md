@@ -1,7 +1,11 @@
 ---
-layout: blog_post
+layout: page_activity
+permalink: /fr/hiver/activite/ski-de-randonnee
+
 language: fr
 season: winter
+topnav_color_text: light
+
 author: geoffreyarduini
 title: Ski de randonnée en Savoie
 description: La Savoie est un véritable lieu de regroupement pour les plus friands
