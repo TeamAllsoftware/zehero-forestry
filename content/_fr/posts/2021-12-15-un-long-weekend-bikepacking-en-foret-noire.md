@@ -20,6 +20,11 @@ page_sections:
   captionrighttitle: Une aventure à deux pas de chez soi
   captionrightcontent: 'Pas besoin de partir loin pour démarrer. Vous pouvez commencer
     par découvrir les alentours autour de chez vous. '
+- template: textarea
+  title: Un bon bivouac
+  content: Lorsque le temps sera venu de préparer la nuit, s'y prendre de bonne heure
 topnav_color_text: dark
+topnav_color_text_: light
+slug: 2021-12-14-un-weekend-bikepacking-en-foret-noire
 
 ---
