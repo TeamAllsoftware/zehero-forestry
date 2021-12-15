@@ -25,6 +25,6 @@ page_sections:
   content: Lorsque le temps sera venu de préparer la nuit, s'y prendre de bonne heure
 topnav_color_text: dark
 topnav_color_text_: light
-slug: 2021-12-14-un-weekend-bikepacking-en-foret-noire
+slug: un-weekend-bikepacking-en-foret-noire
 
 ---
