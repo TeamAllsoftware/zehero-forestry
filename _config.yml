@@ -96,7 +96,7 @@ defaults:
       path: "_fr/posts"
     values:
       layout: "post"
-      permalink: /fr/actualites/:year/:month/:day/:slug/
+      permalink: /fr/blog/:year/:month/:slug/
   -
     scope:
       path: ""
@@ -108,4 +108,4 @@ defaults:
       path: "_en/posts"
     values:
       layout: "post"
-      permalink: /en/post/:year/:month/:day/:slug
+      permalink: /en/blog/:year/:month/:slug
