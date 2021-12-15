@@ -69,7 +69,7 @@ fields:
 - type: text
   name: image01_alt
   label: image01_alt
-- name: topnav_text_color
+- name: topnav_color_text_
   type: select
   default: light
   config:
