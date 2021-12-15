@@ -17,5 +17,11 @@ page_sections:
 
     Avant de sauter le pas, beaucoup pense que sans matériel, aucune aventure n'est possible. A cela j'ai envie de dire que non. Une aventure peut tout à fait débuter du pas de la porte et se terminer le jour même en ayant fait une boucle. Avec un bon sac à dos, quelques affaires de pluie et un picnic, l'affaire est jouée. Pour l'itinéraire il faut laisser les spécialistes faires : Komoot, Géovélo ou Strava seront vos meilleurs alliés. Voila, vous êtes prêt.
   title: ''
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639587410/website/summer/marek-piwnicki-k5PFRWTxO8w-unsplash_kbbvam.jpg
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1639587412/website/summer/marek-piwnicki-OCHliW4m-2c-unsplash_qmgfkv.jpg
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639587425/website/summer/PXL_20211023_131531919_tpx0mx.jpg
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883627/website/summer/trail-groupe-fond_n5946o.jpg
+  title: ''
 
 ---
