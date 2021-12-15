@@ -330,7 +330,7 @@
             <div class="row margin-5-rem-bottom margin-4-half-rem-top md-margin-4-rem-bottom align-items-center">
                 <div class="col-12 col-lg-6 col-md-7 text-center text-md-start sm-margin-10px-bottom wow animate__fadeIn">
                     <h5 class="alt-font font-weight-600 text-extra-dark-gray letter-spacing-minus-1px text-uppercase margin-5px-bottom">Articles outdoor</h5>
-                    <p class="m-0 d-block">The hand picked posts for travelling enthusiasts</p>
+                    <p class="m-0 d-block">Les articles de la saison hivernale</p>
                 </div>
                 <div class="col-12 col-lg-6 col-md-5 text-center text-md-end">
                     <a href="blog-classic.html" class="btn btn-link btn-extra-large text-extra-dark-gray text-extra-dark-gray-hover">Lire tous les articles</a>
@@ -344,7 +344,7 @@
 
                         {% assign posts = site[page.collection] | reverse %}
                         {% for blogpost in posts %}
-                        {% if blogpost.path contains "/posts/" %}
+                        {% if blogpost.path contains "/posts/" and blogpost.season == "winter" %}
                         <!-- start blog item -->
                         <li class="grid-item wow animate__fadeIn">
                             <div class="blog-post">
