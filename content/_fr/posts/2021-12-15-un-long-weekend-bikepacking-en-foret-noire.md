@@ -3,7 +3,6 @@ layout: blog_post
 language: fr
 season: winter
 author: geoffreyarduini
-topnav_color_text: light
 title: Un long weekend bikepacking en foret noire
 description: Une long weekend d'automne en Forêt Noire avec un vélo, des sacoches
   et des amis
@@ -21,6 +20,6 @@ page_sections:
   captionrighttitle: Une aventure à deux pas de chez soi
   captionrightcontent: 'Pas besoin de partir loin pour démarrer. Vous pouvez commencer
     par découvrir les alentours autour de chez vous. '
-topnav_color_text_: dark
+topnav_color_text: dark
 
 ---
