@@ -65,10 +65,14 @@ fields:
   type: text
   config:
     required: true
-  label: image01_href
+  label: big and beautiful image cover
+  description: Big image hero that illustrate best your content. This image will be
+    the cover image in article list
 - type: text
   name: image01_alt
-  label: image01_alt
+  label: Image cover alternative text
+  description: Your beautiful image cover needs a text describing it.... it is SEO
+    related
 - name: topnav_color_text
   type: select
   default: light
@@ -82,7 +86,7 @@ fields:
       section: 
       file: 
       path: 
-  label: topNav text color
+  label: Menu bar text color ? white or black
   description: top navigation menu text color must be white or black ? depends on
     the background image tone (dark or light) or color (dark or light). If background
     is dark and you want a white text select "dark"
