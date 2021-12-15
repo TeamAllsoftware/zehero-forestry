@@ -4,13 +4,15 @@
    subcategories:
     - subtitle-bold: Nos activités
     - subtitle: 'Ski '
-      subhref: fr/
+      subhref: fr/hiver/activite/ski-alpin
     - subtitle: 'Ski de randonnée'
       subhref: fr/hiver/activite/ski-de-randonnee
     - subtitle: 'Snowboards'
-      subhref: fr/
+      subhref: fr/hiver/activite/snowboard
     - subtitle: 'Raquettes'
-      subhref: fr/
+      subhref: fr/hiver/activite/raquettes
+    - subtitle: 'Surf'
+      subhref: fr/hiver/activite/surf
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Liste complète des activités</span>'
       subhref: fr/hiver/activites

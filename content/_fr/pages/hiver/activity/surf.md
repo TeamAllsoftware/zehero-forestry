@@ -1,10 +1,10 @@
 ---
 layout: page_activity
-permalink: /fr/hiver/activite/raqusurfettes
+permalink: /fr/hiver/activite/surf
 
 language: fr
 season: winter
-topnav_color_text: light
+topnav_color_text: dark
 
 title: Surf
 description: Du surf et des activités aquatiques en eaux froides durant la saison d'hiver est une activité incroyable à réaliser pour se dépasser et vivre une émotion forte. 

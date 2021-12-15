@@ -2,8 +2,10 @@
 layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
+{% include elements/generic_variables.html %}
+
 <!-- start section-->
-<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url( {{ page.image01_href }} );">
+<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url( {{ imgsize.url }}{{ imgsize.blogposthero }}{{page.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }} );">
 </section>
 <!-- end section -->
 <!-- start section-->
@@ -24,20 +26,18 @@ layout: default
 {% for block in page.page_sections %}
   {% assign template = block.template %}
   {% case template %}
-  {% when 'highlights' %}
-    {% include blocks_{{ template }}.html %}
   {% when 'textarea' %}
-    {% include blocks_{{ template }}.html %}
+    {% include blocks/blocks_{{ template }}.html %}
   {% when '3coltxtimgtxt' %}
-    {% include blocks_{{ template }}.html %}
+    {% include blocks/blocks_{{ template }}.html %}
   {% when '2colimgtxt' %}
-    {% include blocks_{{ template }}.html %}
+    {% include blocks/blocks_{{ template }}.html %}
   {% when 'parlaxgridtxtimg' %}
-    {% include blocks_{{ template }}.html %}
+    {% include blocks/blocks_{{ template }}.html %}
   {% when 'liststyle01' %}
-    {% include blocks_{{ template }}.html %}
+    {% include blocks/blocks_{{ template }}.html %}
   {% when 'liststyle01numbered' %}
-    {% include blocks_{{ template }}.html %}
+    {% include blocks/blocks_{{ template }}.html %}
   {% endcase %}
 {% endfor %}
 

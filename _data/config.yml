@@ -51,8 +51,13 @@ en:
     readmore: Explore more
 
 #Image resizing by cloudinary
+# {{ imgsize.url }}{{ imgsize.[variable] }}{{[variable].image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}
 
 img:
   url: https://res.cloudinary.com/deddrj0yb/image/upload/
 #activity image in list
-  activitylist: w_322,h_446,c_fill
+  activitylist: c_fill,w_322,h_446
+#blog post thumbnail list
+  blogpostlist: c_fill,w_600,h_450
+#blog post image hero in the post
+  blogposthero: c_fill,w_1300,h_800
