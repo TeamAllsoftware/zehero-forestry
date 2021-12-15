@@ -9,6 +9,7 @@ description: Le premier article du blog pour la saison hiver afin de voir commen
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Snowboard-descente-poudreuse_xp9cqv.jpg
 image01_alt: Snowborder marchant dans la poudreuse jusqu'au sommet
 topnav_color_text: dark
+topnav_color_text_: dark
 
 ---
 ## Un titre H2
