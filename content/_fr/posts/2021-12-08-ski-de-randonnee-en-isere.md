@@ -198,7 +198,4 @@ page_sections:
     * Oz en Oisans
     * Vaujany
     * Villard de Lans
-topnav_color_text_: light
-slug: ''
-
 ---

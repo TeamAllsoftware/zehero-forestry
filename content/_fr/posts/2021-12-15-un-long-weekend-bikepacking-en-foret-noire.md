@@ -24,7 +24,4 @@ page_sections:
   title: Un bon bivouac
   content: Lorsque le temps sera venu de préparer la nuit, s'y prendre de bonne heure
 topnav_color_text: dark
-topnav_color_text_: light
-slug: un-weekend-bikepacking-en-foret-noire
-
 ---
