@@ -56,6 +56,13 @@ fields:
   label: title
   config:
     required: true
+- name: slug
+  type: text
+  config:
+    required: true
+  label: URL for this post
+  description: For blog post URL must include date and the name for the page and have
+    this structure = YYYY-MM-DD-title-of-the-post
 - type: text
   name: description
   label: description
@@ -69,7 +76,7 @@ fields:
 - type: text
   name: image01_alt
   label: image01_alt
-- name: topnav_color_text_
+- name: topnav_color_text
   type: select
   default: light
   config:
