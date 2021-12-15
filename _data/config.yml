@@ -1,6 +1,17 @@
 #generic
 zehero: "ZE HERO"
 
+#social networks
+facebook:
+  title: Facebook
+  facebook_username: https://www.facebook.com/Zehero73/
+linkedin:
+  title: Linkedin
+  linkedin_username:  https://www.linkedin.com/company/ze-hero-outdoor/
+instagram:
+  title: Instagram
+  instagram_username: https://www.instagram.com/zehero_officiel/
+
 #Cloudinary
 cloudinary_url: "https://res.cloudinary.com/deddrj0yb/image/upload"
 
@@ -11,13 +22,16 @@ languages: [fr,en]
 seasons: [winter,summer]
 
 fr:
+  changelang: Parcourir le site en français
   season:
     winter: 
       name: hiver
       icon: icon-feather-cloud-snow
+      icon-link-title: Lien vers la saison d'hiver
     summer: 
       name: ete
       icon: icon-feather-sun
+      icon-link-title: Lien vers la saison d'été
   newsletter:
     privacy: Nous nous engageons à protéger votre vie privée. Nous ne collecterons jamais d'informations vous concernant sans votre consentement explicite.
     title: Recevez nos dernières informations outdoor
@@ -29,15 +43,20 @@ fr:
       title: Dans le même univers
   activity:
     readmore: Explorer cette activité
+  contact:
+    icon-link-title: Lien vers notre page de contact
 
 en:
+  changelang: Navigate this website in english
   season:
     winter: 
       name: winter
       icon: icon-feather-cloud-snow
+      icon-link-title: Go to the winter season
     summer: 
       name: summer
       icon: icon-feather-sun
+      icon-link-title: Go to the summer season
   newsletter:
     privacy: We are committed to protecting your privacy. We will never collect information about you without your explicit consent.
     title: Get our latest outdoor updates
@@ -49,10 +68,11 @@ en:
       title: Related posts
   activity:
     readmore: Explore more
+  contact:
+    icon-link-title: Go to our contact page
 
 #Image resizing by cloudinary
 # {{ imgsize.url }}{{ imgsize.[variable] }}{{[variable].image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}
-
 img:
   url: https://res.cloudinary.com/deddrj0yb/image/upload/
 #activity image in list

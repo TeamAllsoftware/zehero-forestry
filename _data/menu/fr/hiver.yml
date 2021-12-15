@@ -1,5 +1,5 @@
 -  title: 'Activités'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
    image-link: "/fr/hiver/activites"
    subcategories:
     - subtitle-bold: Nos activités
@@ -17,7 +17,7 @@
     - subtitle: '<span class="type--fine-print type--italic">Liste complète des activités</span>'
       subhref: fr/hiver/activites
 -  title: 'Conseils'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_350,w_200,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
    image-link: "/fr/hiver/station/alpe-d-huez"
    subcategories:
     - subtitle-bold: "Matériel"
@@ -56,7 +56,7 @@
     - subtitle: "Sur 2 jours et plus"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
 -  title: 'Régions'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
    image-link: "/fr/ete/"
    subcategories:
     - subtitle-bold: "Dans quelle station louer ?"
@@ -65,7 +65,7 @@
     - subtitle: "Val-Thorens"
       subhref: "fr/hiver/station/val-thorens"
 -  title: 'Team ZE HERO'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg'
    image-link: "/fr/ete/"
    subcategories:
     - subtitle-bold: "Les coachs"
@@ -84,7 +84,7 @@
     - subtitle: "Sandrine"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
 -  title: 'Blog'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg'
    image-link: "/fr/ete/"
    subcategories:
     - subtitle-bold: "A lire dans le blog"

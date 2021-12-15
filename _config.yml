@@ -27,11 +27,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Socials
-facebook_username: https://www.facebook.com/Zehero73/
-linkedin_username:  https://www.linkedin.com/company/ze-hero-outdoor/
-instagram_username: https://www.instagram.com/zehero_officiel/
-
 # Build settings
 theme: minima
 include: ["_pages", "_redirects"]
