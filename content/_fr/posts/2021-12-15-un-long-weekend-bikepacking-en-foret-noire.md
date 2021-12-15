@@ -3,7 +3,7 @@ layout: blog_post
 language: fr
 season: winter
 author: geoffreyarduini
-topnav_text_color: light
+topnav_color_text: light
 title: 2021-12-15-Un-long-weekend-bikepacking-en-foret-noire
 description: Une long weekend d'automne en Forêt Noire avec un vélo, des sacoches
   et des amis
