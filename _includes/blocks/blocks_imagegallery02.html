@@ -1,21 +1,23 @@
 <!-- start section -->
-<section class="border-top border-width-1px border-color-medium-gray padding-ten-lr lg-no-padding-lr">
+<section class="pt-0 padding-ten-lr lg-no-padding-lr">
     <div class="container-fluid">
+        {% if block.title != '' %}
         <div class="row justify-content-center">
-            <div class="col-md-12 text-center margin-six-bottom">
-                <h6 class="alt-font text-extra-dark-gray font-weight-500">Image gallery style 02</h6>
+            <div class="col-md-12 text-center margin-four-bottom">
+                <h6 class="alt-font text-extra-dark-gray font-weight-500">{{ block.title | markdownify }}</h6>
             </div>
         </div>
+        {% endif %}
         <div class="row justify-content-center">
             <div class="col-12">
                 <ul class="portfolio-classic portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-4col md-grid-2col sm-grid-2col xs-grid-1col gutter-large text-center">
                     <li class="grid-sizer"></li>
                     <!-- start lightbox gallery item -->
                     <li class="grid-item grid-item-double wow animate__fadeIn">
-                        <a href="https://via.placeholder.com/800x794" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
+                        <a href="{{ block.image01_bigsquare }}" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
                             <div class="portfolio-box">
                                 <div class="portfolio-image bg-gradient-peacock-blue-crome-yellow">
-                                    <img src="https://via.placeholder.com/800x794" alt="" />
+                                    <img src="{{ imgsize.url }}{{ imgsize.bigsquare }}{{block.image01_bigsquare | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="" />
                                     <div class="portfolio-hover justify-content-end d-flex flex-column padding-50px-tb lg-padding-30px-tb xs-padding-15px-tb">
                                         <i class="feather icon-feather-zoom-in portfolio-plus-icon font-weight-300 text-white absolute-middle-center icon-small move-top-bottom"></i>
                                     </div>
@@ -26,10 +28,10 @@
                     <!-- end lightbox gallery item -->
                     <!-- start lightbox gallery item -->
                     <li class="grid-item grid-item-double wow animate__fadeIn">
-                        <a href="https://via.placeholder.com/800x387" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
+                        <a href="{{ block.image02_rectangle }}" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
                             <div class="portfolio-box">
                                 <div class="portfolio-image bg-gradient-peacock-blue-crome-yellow">
-                                    <img src="https://via.placeholder.com/800x387" alt="" />
+                                    <img src="{{ imgsize.url }}{{ imgsize.rectangle }}{{ block.image02_rectangle | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="" />
                                     <div class="portfolio-hover justify-content-end d-flex flex-column padding-50px-tb lg-padding-30px-tb xs-padding-15px-tb">
                                         <i class="feather icon-feather-zoom-in portfolio-plus-icon font-weight-300 text-white absolute-middle-center icon-small move-top-bottom"></i>
                                     </div>
@@ -40,10 +42,10 @@
                     <!-- end lightbox gallery item -->
                     <!-- start lightbox gallery item -->
                     <li class="grid-item wow animate__fadeIn">
-                        <a href="https://via.placeholder.com/800x794" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
+                        <a href="{{ block.image03_smallsquare }}" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
                             <div class="portfolio-box">
                                 <div class="portfolio-image bg-gradient-peacock-blue-crome-yellow">
-                                    <img src="https://via.placeholder.com/800x794" alt="" />
+                                    <img src="{{ imgsize.url }}{{ imgsize.smlsquare }}{{ block.image03_smallsquare | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="" />
                                     <div class="portfolio-hover justify-content-end d-flex flex-column padding-50px-tb lg-padding-30px-tb xs-padding-15px-tb">
                                         <i class="feather icon-feather-zoom-in portfolio-plus-icon font-weight-300 text-white absolute-middle-center icon-small move-top-bottom"></i>
                                     </div>
@@ -54,10 +56,10 @@
                     <!-- end lightbox gallery item -->
                     <!-- start lightbox gallery item -->
                     <li class="grid-item wow animate__fadeIn">
-                        <a href="https://via.placeholder.com/800x794" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
+                        <a href="{{ block.image04_smallsquare }}" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
                             <div class="portfolio-box">
                                 <div class="portfolio-image bg-gradient-peacock-blue-crome-yellow">
-                                    <img src="https://via.placeholder.com/800x794" alt="" />
+                                    <img src="{{ imgsize.url }}{{ imgsize.smlsquare }}{{ block.image04_smallsquare | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="" />
                                     <div class="portfolio-hover justify-content-end d-flex flex-column padding-50px-tb lg-padding-30px-tb xs-padding-15px-tb">
                                         <i class="feather icon-feather-zoom-in portfolio-plus-icon font-weight-300 text-white absolute-middle-center icon-small move-top-bottom"></i>
                                     </div>

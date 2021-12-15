@@ -81,3 +81,7 @@ img:
   blogpostlist: c_fill,w_600,h_450
 #blog post image hero in the post
   blogposthero: c_fill,w_1300,h_800
+#image gallery style 2
+  bigsquare: c_fill,w_800,h_803
+  rectangle: c_fill,w_800,h_387
+  smlsquare: c_fill,w_400,h_400

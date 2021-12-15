@@ -22,6 +22,6 @@ page_sections:
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1639587412/website/summer/marek-piwnicki-OCHliW4m-2c-unsplash_qmgfkv.jpg
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639587425/website/summer/PXL_20211023_131531919_tpx0mx.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883627/website/summer/trail-groupe-fond_n5946o.jpg
-  title: ''
+  title: 'Une belle galerie photos pour illustrer'
 
 ---
