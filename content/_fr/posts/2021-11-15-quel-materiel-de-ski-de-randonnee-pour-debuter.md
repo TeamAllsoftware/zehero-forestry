@@ -3,7 +3,7 @@ layout: blog_post
 language: fr
 season: winter
 author: geoffreyarduini
-topnav_color_text: light
+topnav_color_text: dark
 title: 2021-11-15-quel-materiel-de-ski-de-randonnee-pour-debuter
 post-title: Quel matériel de ski de randonnée pour débuter
 description: le test
