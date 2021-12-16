@@ -1,7 +1,7 @@
 ---
 
 ---
-    # Editing Your uBuild Site
+    # Editing a blog post
     This website uses a Hugo theme called uBuild, which was designed to use Forestry's 
     Blocks feature to create modular page layouts.
     
