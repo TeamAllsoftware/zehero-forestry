@@ -9,7 +9,7 @@ sections:
   label: Help
   read_only: true
 - type: document
-  path: data/authors.yml
+  path: _data/authors.yml
   label: Authors
 - type: heading
   label: FRENCH
