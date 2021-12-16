@@ -1,5 +1,5 @@
 ---
-label: Textarea
+label: Text paragraph with option title
 hide_body: true
 fields:
 - name: title
