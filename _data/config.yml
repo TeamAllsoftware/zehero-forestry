@@ -79,6 +79,8 @@ img:
   activitylist: c_fill,w_322,h_446
 #blog post thumbnail list
   blogpostlist: c_fill,w_600,h_450
+#blog post thumbnail list in blog homepage
+  homeblogpostlist: c_fill,w_800,h_970
 #blog post image hero in the post
   blogposthero: c_fill,w_1300,h_800
 #image gallery style 2
