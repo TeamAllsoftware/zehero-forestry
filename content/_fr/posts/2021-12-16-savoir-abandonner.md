@@ -110,9 +110,7 @@ page_sections:
 
     On m'annonce qu'il faut 12 abandons pour qu'un petit bus nous ramène. Bon je ne souhaite pas que ces 12 personnes abandonnent mais ça risque d'être long. Après une petite sieste, j'étais gelé, une constante brume se figé au ce Pico. Il y avait un parking à 2km, et la route ensuite descendait à Santana. Après 3h d'attente, 4 cafés, quelques poignet de fromage et de chips, je suis partie à pied au parking pour faire du stop et descendre à Santana.
 
-    J'ai réussi à être pris en stop jusqu'à Santana, puis pour aller à Machico j'ai pu prendre un taxi car le stop ne fonctionnait plus très bien.
-
-    Soulagement d'arriver à Machico et retrouver tous les autres qui ont pu faire une belle course.
+    J'ai réussi à être pris en stop jusqu'à Santana, puis pour aller à Machico j'ai pu prendre un taxi car le stop ne fonctionnait plus très bien.Soulagement d'arriver à Machico et retrouver tous les autres qui ont pu faire une belle course.
 
     Je me dis qu'au moins je serais le seul à bien dormir cette nuit car après 80km généralement on dort toujours très mal.
 - template: 3coltxtimgtxt
