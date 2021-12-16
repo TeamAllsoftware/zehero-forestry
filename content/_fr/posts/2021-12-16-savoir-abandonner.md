@@ -52,7 +52,7 @@ page_sections:
   content: |-
     Le réveil sonne à 4h, je suis en pleine forme. Enfin, je suis en forme, je suis surpris, car même si je suis du matin, à 4h normalement on n’est jamais d’attaque et à 200%. Un taxi me récupère et m’amène au départ des bus pour se rendre à Sao Vicente. Le trajet se passe en musique et je rêve de la course, je me plonge dans le profil du parcours. Je suis un rêveur et je vis ma course avant même d’avoir épinglé le dossard.
 
-    Arriver sur place, je suis content de sentir que mes jambes répondent bien à l’échauffement. Je suis plutôt concentré et le temps est bon. « Le temps est bon, le ciel est bleu… » et mince, ça y est j’ai cette musique dans la tête.
+    Arrivé sur place, je suis content de sentir que mes jambes répondent bien à l’échauffement. Je suis plutôt concentré et le temps est bon. « Le temps est bon, le ciel est bleu… » et mince, ça y est j’ai cette musique dans la tête.
 
     Le départ est donné et l’Allemand de chez Adidas donne directement le ton et le rythme de cette course. C’est rapide et je le laisserai faire sa course. Je me retrouve donc directement dans la position 4 dès le début. Je sais que les 30er kilomètres sont assez rapides, mais qu’il faut vraiment garder de la force pour la montée aux Picos qui sera après le 30ème kilomètre. Me voilà 4ᵉ dans une belle allure et dans une bonne forme. Ma chérie m’envoie un petit SMS pour tenir au courant des écarts devant et derrière à chaque ravito. Personne ne me fait l’assistance, alors je prends le temps de manger et de bien remplir mes flasques.
 
@@ -63,7 +63,7 @@ page_sections:
   captiontitleuppercase: La course commence à partir du 30km
   title: La longue montée au Pico
   content: |-
-    Au 30 ème kilomètre, je m'arrête environ au ravitaillement et prends le temps. C’est la partie la plus dure de la course qui va suivre. Une montée de 1400D+ sur 10,5km et le chemin est loin d’être simple. Je constate que derrière, c'est à 5 mn et devant le 3ᵉ également. Je me dis que je pourrais le rattraper après la montée.
+    Au 30 ème kilomètre, je m'arrête environ 4mn au ravitaillement et prends le temps. C’est la partie la plus dure de la course qui va suivre. Une montée de 1400D+ sur 10,5km et le chemin est loin d’être simple. Je constate que derrière, c'est à 5 mn et devant le 3ᵉ également. Je me dis que je pourrais le rattraper après la montée.
 
     J’ai à peine commencé la montée que les crampes arrivent très fortement, avec un coup de fatigue et un mal de dos. Je me dis que c’est passager et comme dans chaque ultra, on vit tous un ou des moments durs. J’avance avec les crampes, je vois mes quadriceps se contracter et je pourrais presque distinguer les fibres musculaires, les tendons tellement les crampes sont fortes. À partir de ce moment, c'est la descente aux enfers. Malgré des pauses, après avoir ralenti, je sens que ça va être compliqué.
 
@@ -72,18 +72,6 @@ page_sections:
     Je me retrouve alors 6ᵉ et je ne suis même pas le rythme des personnes du 115km. La douleur est vraiment présente, je n’ai jamais eu de telles crampes et un mal de dos pareil.
 
     Comment gérer cette situation ?
-- template: textarea
-  content: |-
-    Au 30 ème kilomètres, je m'arrête environ au ravitaillement et prend le temps. C’est la partie la plus dure de la course qui va suivre. Une montée de 1400D+ sur 10,5km et le chemin est loin d’être simple. Je constate que derrière, c'est à 5 mn et devant le 3ᵉ également. Je me dis que je pourrais le rattraper après la montée.
-
-    J’ai à peine commencé la montée que les crampes arrivent très fortement, avec un coup de fatigue et un mal de dos. Je me dis que c’est passager et comme dans chaque ultra, on vit tous un ou des moments durs. J’avance avec les crampes, je vois mes quadriceps se contracter et je pourrais presque distinguer les fibres musculaires, les tendons tellement les crampes sont fortes. À partir de ce moment, c'est la descente aux enfers. Malgré des pauses, après avoir ralenti, je sens que ça va être compliqué.
-
-    À ce moment on peut se poser beaucoup de questions et la gestion de course peut s'avérer totalement différente.
-
-    Je me retrouve alors 6ᵉ et je ne suis même pas le rythme des personnes du 115km. La douleur est vraiment présente, je n’ai jamais eu de telles crampes et un mal de dos pareil.
-
-    Comment gérer cette situation ?
-  title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639651639/website/blog/Mad%C3%A8re/IMG20211120162237_d2yqv9.jpg
   captiontitleuppercase: Abandonner
