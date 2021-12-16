@@ -10,6 +10,12 @@ description: le test
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639607264/website/winter/francois-olwage-_FljDVONT4Y-unsplash_tjqq8h.jpg
 image01_alt: ''
 page_sections:
+- template: textarea
+  content: |-
+    Vous avez décidé de vous mettre au ski de randonnée mais vous ne savez pas par où commencer ?
+
+    Le matériel peut-être ?
+  title: ''
 - template: imagegallery02
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Skieuse-soleil_jixafv.jpg
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/baton-ski-neige_zhnfhf.jpg
