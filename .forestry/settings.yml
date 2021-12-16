@@ -18,6 +18,10 @@ sections:
   label: Fr
   create: all
   match: "**/*"
+- type: document
+  path: _data/menu/fr/hiver.yml
+  label: Menu hiver
+  match: "**/*"
 - type: heading
   label: ENGLISH
 - type: directory
