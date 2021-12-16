@@ -5,7 +5,7 @@ season: summer
 author: yannalarcon
 topnav_color_text: dark
 title: 2021-12-16-savoir-abandonner
-post-title: Savoir abandonner
+post-title: Savoir abandonner lors d'un évènement important
 description: Savoir abandonner une course de trail quand rien ne va.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639653283/website/blog/Mad%C3%A8re/GOPR0108_ALTA1642458316780515_1_-min_nu1crr.jpg
 image01_alt: Course à pied, trail à Madère pour l'ultra trail MIUT
@@ -72,10 +72,8 @@ page_sections:
     Je me retrouve alors 6ᵉ et je ne suis même pas le rythme des personnes du 115km. La douleur est vraiment présente, je n’ai jamais eu de telles crampes et un mal de dos pareil.
 
     Comment gérer cette situation ?
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639651639/website/blog/Mad%C3%A8re/IMG20211120162237_d2yqv9.jpg
-  captiontitleuppercase: Abandonner
-  title: Ce n'est jamais facile de prendre la décision d'abandonner
+- template: textarea
+  title: Abandonner
   content: |-
     Qu’est-ce que je fais ? Est-ce que je vais revenir après la montée ? Est-ce que les douleurs, les crampes vont partir ? Est-ce que je finis la course sans penser au classement ? Est-ce que j’accepte de mettre 12h, 13h, 15h au lieu de 10h30 ? Doucement je sens mon mental vaciller et la course commence doucement à m’échapper. Le plaisir disparaît totalement et c’est uniquement la lutte à chaque pas.
 
@@ -84,6 +82,26 @@ page_sections:
     Vu mon état de cuisse, ma fatigue et ma difficulté à courir je sais qu’après le ravitaillement, il me reste 40km. Sur les 20 derniers kilomètres, il faut courir car c’est la partie la plus roulante. Si je continue je vais mettre 15h, je vais arriver de nuit. Dans quel état je serais ? Combien de temps après je vais mettre pour récupérer ? Est-ce que je vais prendre du plaisir à finir la course même si je zappe de ma tête la notion de performance et de résultat ?
 
     Je me suis vite dit que “Non” et que la meilleure chose à faire était de redonner mon dossard.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639651639/website/blog/Mad%C3%A8re/IMG20211120162237_d2yqv9.jpg
+  title: Ce n'est jamais facile de prendre la décision d'abandonner
+  content: Il n'est jamais facile d’abandonner, pour n’importe qui, quel que soit
+    son niveau. Quand on se sacrifie, quand on fait des concessions, quand on passe
+    10h à 20h par semaine à l’entraînement, c’est toujours dur d’abandonner. On a
+    toujours peur de ne pas assumer cette décision et de se dire plus tard qu'on aurait
+    dû continuer. On peut facilement mélanger ses propres peurs, son échec et le regard
+    des autres. On pense aux personnes qui nous suivent, à ses partenaires de vie
+    qu’on veut rendre fier, comme sa famille aussi. On pense à son entraîneur qui
+    est là chaque jour à veiller qu’on s'entraîne correctement. On pense aussi parfois
+    aux partenaires qui nous aident et nous accompagnent. Et parfois et c’est peut-être
+    le pire, aux personnes qui nous suivent via des réseaux sociaux, qu’on ne connaît
+    même pas mais qu’on ne veut pas décevoir. Lorsque j’ai rendu mon dossard, j’ai
+    pensé à moi et à rien d’autre. J’ai pensé à ma santé, ma forme et mon plaisir.
+    J’étais triste mais je n’avais aucun regret. J’ai assumé pleinement que j’aurai
+    aucun plaisir à continuer, que je m’entraîne car j’aime le trail mais que j’aime
+    faire des performances et des compétitions également. Je n’aimais pas cet échec
+    mais je le comprenais et il était justifiable.
+  captiontitleuppercase: La decision
 - template: textarea
   content: Il n'est jamais facile d’abandonner, pour n’importe qui, quel que soit
     son niveau. Quand on se sacrifie, quand on fait des concessions, quand on passe
