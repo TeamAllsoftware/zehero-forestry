@@ -13,11 +13,11 @@ page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639651639/website/blog/Mad%C3%A8re/20180430_120816_hkh386.jpg
   captiontitleuppercase: Madère
-  title: Maderia Island Ultra Trail 85km 2021
+  title: Ultra Trail de l'île de Madère 85km 2021
   content: |-
-    Avant le départ à Madère, la saison avait été vraiment superbe. Je savais que c’était la dernière de l’année, mais aussi mon dernier petit ultra avant un moment, car je serais Papa en Mai. Un nouveau Ultra où les nuits peuvent être longues, les ravitos courts, mais le chemin y est unique, magnifique, un partage en duo pour la vie.
+    Avant le départ à Madère, la saison avait été vraiment superbe. Je savais que c'était la dernière de l'année, mais aussi mon dernier petit ultra avant un moment, car je serais Papa en Mai. Un nouveau Ultra où les nuits peuvent être longues, les ravitos courts, mais le chemin y est unique, magnifique, un partage en duo pour la vie.
 
-    Madère serait la ‘der, elle avait donc un goût particulier.
+    Madère serait la 'der, elle avait donc un goût particulier.
 - template: textarea
   content: |-
     D’ailleurs, j’étais déjà venu en 2018 sur ce même format. C’étaient mes débuts sur les trails longs et finalement je m’en étais pas si mal sorti. J'ai pu finir 11 ème en 10h58. J’avais adoré cette course, ces paysages, ces chemins, sa difficulté. C’est une île incroyable avec des fleurs magnifiques, des forêts d’eucalyptus, ces Pico vertigineux. Un petit paradis qui traumatise bien les cuisses.
@@ -27,32 +27,32 @@ page_sections:
 - template: textarea
   title: Ca commence mal !
   content: |-
-    J’ai mis du temps à faire le pas du vaccin et il a fallu que je fasse ma 2e dose 10 jours avant la compétition. Je me disais “bon, j'aurai sûrement un peu mal à la tête, je vais me reposer et ça ira “. Malheureusement, je n’ai pas vécu seulement cela. Mon corps a trop réagi à la 2ᵉ dose et j’ai été cloué au lit 5 jours. Entre fièvre, courbature, fatigue et migraine, rien n’était de bon augure pour ma course. Je commençais sérieusement à douter de pouvoir y aller et de pouvoir courir là-bas. Je n'avais pas couru depuis presque 7 jours et c’est une chose que je ne supporte pas avant une course. Le fait de trop me reposer avant un départ me fatigue encore plus, j’ai besoin de tourner les jambes. Mais là, je n’avais pas le choix.
+    J'ai mis du temps à faire le pas du vaccin et il a fallu que je fasse ma 2e dose 10 jours avant la compétition. Je me disais « bon, j'aurai sûrement un peu mal à la tête, je vais me reposer et ça ira ». Malheureusement, je n'ai pas vécu cela seulement. Mon corps a trop réagi à la 2ᵉ dose et j'ai été cloué au lit 5 jours. Entre fièvre, courbature, fatigue et migraine, rien n'était de bon augure pour ma course. Je commençais à douter de pouvoir y aller et de pouvoir courir là-bas. Je n'avais pas couru depuis presque 7 jours et c'est une choisi que je ne supporte pas avant une course. Le fait de trop me reposer avant un départ me fatigue plus, j'ai besoin de tourner les jambes. Mais là, je n'avais pas le choix.
 
-    Le mercredi, je prenais l’avion depuis Nice pour atterrir à Funchal. Après 3 jours d’antibiotique, j’ai décidé d’y aller même si je savais que ça serait Rock and Roll. Je retrouverai en tout cas le team Instinct Trail avec Sean et Cédric.
+    Le mercredi, je prenais l'avion depuis Nice pour atterrir à Funchal. Après 3 jours d'antibiotique, j'ai décidé d'y aller même si je savais que ça serait Rock and Roll. Je retrouverai en tout cas le team Instinct Trail avec Sean et Cédric.
 - template: 2colimgtxt
   captiontitleuppercase: 'Post départ '
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639653283/website/blog/Mad%C3%A8re/GOPR0108_ALTA1642458316780515_1_-min_nu1crr.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639661304/website/blog/Mad%C3%A8re/GOPR0103_ALTA1642458316780515_1_eezzxk.jpg
   title: On y croit
-  content: Deux jours avant le départ, je me sentais mieux, enfin sentir c’était un
-    bien grand mot compte tenu que j’avais du mal à respirer avec cette crève. Mais
-    j’avais envie, l’excitation de la course était revenue, de voir cette île, ces
+  content: Deux jours avant le départ, je me sentais mieux, enfin sentir c'était un
+    bien grand mot compte tenu que j'avais du mal à respirer avec cette crève. Mais
+    j'avais envie, l'excitation de la course était revenue, de voir cette île, ces
     falaises imposantes, cette île verdoyante. Avec Cédric nous sommes allés trottiner
-    sur le bout Est de l’île à Ponta de Saõ Lourenço. Les jambes étaient plutôt bonnes
-    et le souffle aussi. Quel pied de pouvoir courir. Je n'étais pas à 100% mais j’étais
-    mieux. Je ne voulais plus réfléchir sur mon état, ni penser à si j’étais prêt.
+    sur le bout Est de l'île à Ponta de Saõ Lourenço. Les jambes étaient plutôt bonnes
+    et le souffle aussi. Quel pied de pouvoir courir. Je n'étais pas à 100% mais j'étais
+    mieux. Je ne voulais plus réfléchir sur mon état, ni penser à si j'étais prêt.
     Je pensais seulement à vivre le moment présent et faire ce que je peux faire,
     le reste sera du bonus.
 - template: textarea
   title: La course
   content: |-
-    Le réveil sonne à 4h, je suis en pleine forme. Enfin, je suis en forme, je suis surpris, car même si je suis du matin, à 4h normalement on n'est jamais d’attaque et à 200%. Un taxi me récupère et m’amène au départ des bus pour se rendre à Sao Vicente. Le trajet se passe en musique et je rêve de la course, je me plonge dans le profil du parcours. Je suis un rêveur et je vis ma course avant même d’avoir épinglé le dossard.
+    Le réveil sonne à 4h, je suis en pleine forme. Enfin, je suis en forme, je suis surprise, car même si je suis du matin, à 4h normalement sur n'est jamais d'attaque et à 200%. Un taxi me récupère et m'amène au départ des bus pour se rendre à Sao Vicente. Le trajet se passe en musique et je rêve de la course, je me plonge dans le profil du parcours. Je suis un rêveur et je vis ma course avant même d'avoir épinglé le dossard.
 
-    Arriver sur place, je suis content de sentir que mes jambes répondent bien à l’échauffement. Je suis plutôt concentré et le temps est bon. “Le temps est bon, le ciel est bleu…” et mince, ça y est j’ai cette musique dans la tête.
+    Arriver sur place, je suis content de sentir que mes jambes répondent bien à l'échauffement. Je suis plutôt concentré et le temps est bon. « Le temps est bon, le ciel est bleu… » et mince, ça y est j'ai cette musique dans la tête.
 
-    Le départ est donné et l’Allemand de chez Adidas donne directement le ton et le rythme de cette course. C’est rapide et je le laisserai faire sa course. Je me retrouve donc directement dans la position 4 dès le début. Je sais que les 30er kilomètres sont assez rapides, mais qu’il faut vraiment garder de la force pour la montée aux Picos qui sera après le 30ème kilomètres. Me voilà 4ᵉ dans une belle allure et dans une bonne forme. Ma chérie m’envoie un petit SMS pour tenir au courant des écarts devant et derrière à chaque ravito. Personne ne me fait l’assistance, alors je prends le temps de manger et de bien remplir mes flasques.
+    Le départ est donné et l'Allemand de chez Adidas donne directement le ton et le rythme de ce cours. C'est rapide et je le laisserai faire sa course. Je me retrouve donc directement dans la position 4 dès le début. Je sais que les 30er kilomètres sont assez rapides, mais qu'il faut vraiment garder la force pour la montée aux pics qui sera après le 30ème kilomètres. Me voilà 4ᵉ dans une belle allure et dans une bonne forme. Ma chérie m'envoie un petit SMS pour tenir au courant des écarts devant et derrière à chaque ravito. Personne ne me fait l'assistance, alors je prends le temps de manger et de bien remplir mes flasques.
 
-    Je me rappelais pas qu’il y avait autant d’escaliers, les mollets chauffent. J’ai pourtant vécu à Lyon et j’en ai passé des escaliers dans la montée de “Nicolas Delange” et “Soulary”. Ma course est bien gérée et je me sens bien. Je commence à me dire qu’au final je vais passer une belle journée.
+    Je me rappelais pas qu'il y avait autant d'escaliers, les mollets chauffent. J'ai vécu à Lyon et j'en ai passé des escaliers dans la montée de « Nicolas Delange » et « Soulary ». Ma course est bien et je me sens bien. Je commence à me dire qu'au final je vais passer une belle journée.
 - template: textarea
   content: |-
     Au 30 ème kilomètres, je m'arrête environ au ravitaillement et prend le temps. C’est la partie la plus dure de la course qui va suivre. Une montée de 1400D+ sur 10,5km et le chemin est loin d’être simple. Je constate que derrière, c'est à 5 mn et devant le 3ᵉ également. Je me dis que je pourrais le rattraper après la montée.
@@ -106,15 +106,15 @@ page_sections:
 - template: textarea
   title: Un long retour
   content: |-
-    J’ai eu un regret… Ne pas avoir abandonné au prochain ravitaillement 9km plus loin. Avoir stoppé ma course au Pico Ruivo n'était pas du tout la meilleure idée. Ce Pico n'était pas du tout bien situé pour que je puisse rentrer facilement à Machico, contrairement au Pico de Arieiro.
+    J'ai eu un regret… Ne pas avoir abandonné au prochain ravitaillement 9km plus longe. Avoir stoppé ma course au Pico Ruivo n'était pas du tout la meilleure idée. Ce Pico n'était pas du tout bien situé pour que je puisse rentrer facilement à Machico, varier au Pico de Arieiro.
 
-    On m’annonce qu’il faut 12 abandons pour qu’un petit bus nous ramène. Bon je ne souhaite pas que ces 12 personnes abandonnent mais ça risque d’être long. Après une petite sieste, j’étais gelé, une constante brume se figé au ce Pico. Il y avait un parking à 2km, et la route ensuite descendait à Santana. Après 3h d’attente, 4 cafés, quelques poignet de fromage et de chips, je suis partie à pied au parking pour faire du stop et descendre à Santana.
+    On m'annonce qu'il faut 12 abandons pour qu'un petit bus nous ramène. Bon je ne souhaite pas que ces 12 personnes abandonnent mais ça risque d'être long. Après une petite sieste, j'étais gelé, une constante brume se figé au ce Pico. Il y avait un parking à 2km, et la route ensuite descendait à Santana. Après 3h d'attente, 4 cafés, quelques poignet de fromage et de chips, je suis partie à pied au parking pour faire du stop et descendre à Santana.
 
-    J’ai réussi à être pris en stop jusqu’à Santana, puis pour aller à Machico j’ai pu prendre un taxi car le stop ne fonctionnait plus très bien.
+    J'ai réussi à être pris en stop jusqu'à Santana, puis pour aller à Machico j'ai pu prendre un taxi car le stop ne fonctionnait plus très bien.
 
-    Soulagement d’arriver à Machico et retrouver tous les autres qui ont pu faire une belle course.
+    Soulagement d'arriver à Machico et retrouver tous les autres qui ont pu faire une belle course.
 
-    Je me dis qu’au moins je serais le seul à bien dormir cette nuit car après 80km généralement on dort toujours très mal.
+    Je me dis qu'au moins je serais le seul à bien dormir cette nuit car après 80km généralement on dort toujours très mal.
 - template: 3coltxtimgtxt
   captionleftcontent: Demain je rentrerai, je m’occuperai de ma chérie enceinte.
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1639651640/website/blog/Mad%C3%A8re/IMG20211121152328_tjrevq.jpg
