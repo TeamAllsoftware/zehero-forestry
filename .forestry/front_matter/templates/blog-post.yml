@@ -105,5 +105,6 @@ fields:
     min: 
     max: 
 pages:
+- _posts/le-test.md
 - content/_fr/posts/2021-12-08-ski-de-randonnee-en-isere.md
 - content/_fr/posts/2021-12-15-un-long-weekend-bikepacking-en-foret-noire.md
