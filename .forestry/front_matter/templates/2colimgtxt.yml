@@ -1,5 +1,5 @@
 ---
-label: 2colimgtxt
+label: 2 col img + txt
 hide_body: true
 fields:
 - name: image_col_left_href
