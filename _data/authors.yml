@@ -1,20 +1,23 @@
+---
 geoffreyarduini:
-    firstname: Geoffrey
-    lastname: Arduini
-    photo: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,r_max,w_125/a_0/v1638866559/website/global/staff/20211117_capsule_photo_profil_v0.2_GA_rzdl4o.png
-    position: digital bikepacker
-    bio: "Je me déplace à vélo et je suis un grand fan de montagne, d'escalade de bloc, de photographie, de basket ball et de vélo. J'aime être avec ma famille et avoir l'opportunité de voir grandir mon fils."
-    facebook:
-    instagram: https://www.instagram.com/geoffreyarduini
-    twitter:
-    linkedin: https://www.linkedin.com/in/geoffreyarduini/
+  firstname: Geoffrey
+  lastname: Arduini
+  photo: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,r_max,w_125/a_0/v1638866559/website/global/staff/20211117_capsule_photo_profil_v0.2_GA_rzdl4o.png
+  position: digital bikepacker
+  bio: Je me déplace à vélo et je suis un grand fan de montagne, d'escalade de bloc,
+    de photographie, de basket ball et de vélo. J'aime être avec ma famille et avoir
+    l'opportunité de voir grandir mon fils.
+  facebook: 
+  instagram: https://www.instagram.com/geoffreyarduini
+  twitter: 
+  linkedin: https://www.linkedin.com/in/geoffreyarduini/
 yannalarcon:
-    firstname: Yann
-    lastname: Alarçon
-    photo: https://res.cloudinary.com/deddrj0yb/image/upload/v1638866559/website/global/staff/20211117_capsule_photo_profil_v0.2_YA_a4js7j.png
-    position: Ce que tu veux mettre ici
-    bio: "Et bien sûr tout ce que tu veux mettre la aussi comme description sur toi."
-    facebook:
-    instagram: https://www.instagram.com/geoffreyarduini
-    twitter:
-    linkedin: https://www.linkedin.com/in/geoffreyarduini/
+  firstname: Yann
+  lastname: Alarçon
+  photo: https://res.cloudinary.com/deddrj0yb/image/upload/v1638866559/website/global/staff/20211117_capsule_photo_profil_v0.2_YA_a4js7j.png
+  position: Ce que tu veux mettre ici en 2 mots
+  bio: Et bien sûr tout ce que tu veux mettre la aussi comme description sur toi.
+  facebook: 
+  instagram: https://www.instagram.com/geoffreyarduini
+  twitter: 
+  linkedin: https://www.linkedin.com/in/geoffreyarduini/
