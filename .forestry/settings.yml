@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: FR posts
-  create: all
-  templates:
-  - blog-post
 - type: heading
   label: FRENCH
 - type: directory
