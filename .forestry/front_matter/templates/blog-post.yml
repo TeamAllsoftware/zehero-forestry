@@ -53,16 +53,16 @@ fields:
   label: author
 - type: text
   name: title
-  label: title
+  label: URL for this post
   config:
     required: true
-- name: url
+  description: 'Must be at this format : YYYY-MM-DD-title-of-the-article<br>Use the
+    "dash" separator'
+- name: post-title
   type: text
   config:
     required: true
-  label: URL for this post
-  description: 'Must be at this format : YYYY-MM-DD-title-of-the-article<br><br>Use
-    the "dash" separator'
+  label: Title
 - type: text
   name: description
   label: description
