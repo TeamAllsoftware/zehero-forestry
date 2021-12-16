@@ -8,6 +8,10 @@ sections:
   path: readme-editor.md
   label: Help
   read_only: true
+- type: document
+  path: data/authors.yml
+  label: Authors
+  match: "**/*"
 - type: heading
   label: FRENCH
 - type: directory
