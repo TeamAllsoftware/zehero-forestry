@@ -4,7 +4,8 @@ language: fr
 season: winter
 author: geoffreyarduini
 topnav_color_text: dark
-title: Une journée et une nuit comme sous le pôle nord
+title: 2021-12-15-une-journee-et-une-nuit-comme-sous-le-pole-nord
+post-title: Une journée et une nuit comme sous le pôle nord
 description: Nous avons passé une journée entière à construire un igloo afin d'y passer
   la nuit. C'était incroyablement instructif, difficile et physique et merveilleux
   à la fois.

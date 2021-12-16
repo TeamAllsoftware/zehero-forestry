@@ -4,8 +4,8 @@ language: fr
 season: summer
 author: geoffreyarduini
 topnav_color_text: dark
-title: Les beaux itinéraires pour 3 jours de bikepacking
-slug: les-beaux-itineraires-pour-3-jours-de-bikepacking
+title: 2021-12-10-les-beaux-itineraires-pour-3-jours-de-bikepacking
+post-title: Les beaux itinéraires pour 3 jours de bikepacking
 description: Vous chercher les plus beaux parcours pour rouler 3 jours en toute autonomie,
   nous avons sélectionné pour vous quelques beaux tracés
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639587425/website/summer/PXL_20211023_131531919_tpx0mx.jpg

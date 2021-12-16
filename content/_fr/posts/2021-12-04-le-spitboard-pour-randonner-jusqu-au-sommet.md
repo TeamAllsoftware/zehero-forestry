@@ -3,7 +3,8 @@ layout: blog_post
 language: fr
 season: winter
 author: geoffreyarduini
-title: Le splitboard pour randonner jusqu'au sommet
+title: 2021-12-04-le-spitboard-pour-randonner-jusqu-au-sommet
+post-title: Le splitboard pour randonner jusqu'au sommet
 description: Le premier article du blog pour la saison hiver afin de voir comment
   organiser tout cela.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Snowboard-descente-poudreuse_xp9cqv.jpg
