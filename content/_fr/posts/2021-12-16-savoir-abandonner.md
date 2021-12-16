@@ -46,7 +46,7 @@ page_sections:
 - template: 3coltxtimgtxt
   captionleftcontent: Dossard 2006
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1639663459/website/blog/Mad%C3%A8re/IMG20211119104338_tf7ymf.jpg
-  captionrighttitle: Je suis annoncer parmi les favoris de cette course
+  captionrighttitle: Je suis annoncé parmi les favoris de cette course
   captionrightcontent: 'Légère pression '
 - template: textarea
   content: |-
@@ -139,6 +139,5 @@ page_sections:
     2022. '
   captionrightcontent: Je suis loin d’être le plus fort, mais je suis prêt à devenir
     meilleur.
-published: false
 
 ---
