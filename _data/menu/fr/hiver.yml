@@ -96,7 +96,7 @@
       subhref: "/fr/ossa-et-support/lux-model/"
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Liste complète des articles</span>'
-      subhref: '/fr/hiver/blog'
+      subhref: 'fr/hiver/blog'
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Nous contacter</span>'
       subhref: 'fr/hiver/contact'
