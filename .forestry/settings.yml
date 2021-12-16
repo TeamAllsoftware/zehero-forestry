@@ -7,7 +7,6 @@ sections:
 - type: jekyll-posts
   label: FR posts
   create: all
-  match: "**/*"
   templates:
   - blog-post
 - type: heading
