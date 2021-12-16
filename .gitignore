@@ -4,3 +4,4 @@ _site
 .jekyll-cache
 public/
 **/.DS_Store
+readme-editor.md
