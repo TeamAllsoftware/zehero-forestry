@@ -3,7 +3,7 @@
    image-link: "/fr/hiver/activites"
    subcategories:
     - subtitle-bold: Nos activités
-    - subtitle: 'Ski '
+    - subtitle: 'Ski alpin'
       subhref: fr/hiver/activite/ski-alpin
     - subtitle: 'Ski de randonnée'
       subhref: fr/hiver/activite/ski-de-randonnee
