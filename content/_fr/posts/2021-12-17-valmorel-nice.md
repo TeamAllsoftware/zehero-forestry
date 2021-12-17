@@ -182,6 +182,22 @@ page_sections:
     et facilement jusqu'à Larche en passant par le Col de Mallemort.   \n6h30 de course,
     j'ai le temps de mettre dans le hamac et de profiter de la fin de journée avant
     le meilleur repas de ma semaine en refuge."
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733480/website/blog/Valmorel%20-%20Nice/IMG_20200711_091853_ymrfdp.jpg
+  captionabovetitle: Mercantour j'arrive
+  title: Larche - Roya
+  gridline1title: Mélèzes et pins, ca y est je me rapproche de la mer
+  gridline1content: Après une longue partir sur une route, je longe l'Ubayette en
+    passant au Lac de Lauzanier, puis celui "de derrière la Croix et enfin le fameux
+    pas de la cavale. Me voilà dans le Mercantour. Quel pays, quel paysage, quel dépaysement,
+    paisible et non péniblement j'avance.
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733481/website/blog/Valmorel%20-%20Nice/IMG_20200711_083803_ymvbxg.jpg
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733480/website/blog/Valmorel%20-%20Nice/IMG_20200711_100559_ai0crd.jpg
+  gridline2title: 'Je franchis le camp des fourches, le lieux est magique. '
+  gridline2content: 'Après un arrêt à Bousiéyas, je repars en direction du Col de
+    la Colombière puis St Dalmas le Selvage. Cailloux et pentes raides, on bien arrivé
+    dans les Alpes Maritimes. Je commence à ressentir des petites ampoules. Arrivé
+    à Roya, petit refuge atypique, je commande un Milkshake : Royal à Roya '
 tag: tag_name
 tags: []
 
