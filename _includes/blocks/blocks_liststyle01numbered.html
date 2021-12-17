@@ -1,0 +1,25 @@
+ <!-- start section -->
+ <section class="p-0 margin-3-rem-tb">
+    <div class="container">
+
+        {% if block.title %}
+        <div class="row justify-content-center">
+            <div class="col-md-10 margin-one-bottom">
+                <h6 class="alt-font text-extra-dark-gray font-weight-500 margin-20px-bottom">{{ block.title }}</h6>
+            </div>
+        </div>
+        {% endif %}
+        <div class="row justify-content-center">
+            <div class="col-md-9">
+                <ol class="">
+                    {% for dot in block.item %}
+                    <li class="pb-4">{{ dot }}
+                    </li>
+                    {% endfor %}
+                   
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->

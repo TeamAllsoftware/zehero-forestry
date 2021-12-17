@@ -1,6 +1,6 @@
 ---
 label: blog post
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: layout
@@ -53,9 +53,16 @@ fields:
   label: author
 - type: text
   name: title
-  label: title
+  label: URL for this post
   config:
     required: true
+  description: 'Must be at this format : YYYY-MM-DD-title-of-the-article<br>Use the
+    "dash" separator'
+- name: post-title
+  type: text
+  config:
+    required: true
+  label: Title
 - type: text
   name: description
   label: description
@@ -65,11 +72,15 @@ fields:
   type: text
   config:
     required: true
-  label: image01_href
+  label: big and beautiful image cover
+  description: Big image hero that illustrate best your content. This image will be
+    the cover image in article list
 - type: text
   name: image01_alt
-  label: image01_alt
-- name: topnav_text_color
+  label: Image cover alternative text
+  description: Your beautiful image cover needs a text describing it.... it is SEO
+    related
+- name: topnav_color_text
   type: select
   default: light
   config:
@@ -82,7 +93,7 @@ fields:
       section: 
       file: 
       path: 
-  label: topNav text color
+  label: Menu bar text color ? white or black
   description: top navigation menu text color must be white or black ? depends on
     the background image tone (dark or light) or color (dark or light). If background
     is dark and you want a white text select "dark"
@@ -94,9 +105,26 @@ fields:
   - 3coltxtimgtxt
   - 2colimgtxt
   - parlaxgridtxtimg
+  - liststyle01
+  - liststyle01numbered
+  - imagegallery02
   config:
     min: 
     max: 
+- name: tags
+  type: list
+  config:
+    use_select: true
+    min: 3
+    max: 3
+    source:
+      type: documents
+      section: tags
+      file: _data/tags.yml
+      path: Tags
+  label: Tags
+  description: add 3 tags
 pages:
-- content/_fr/posts/2021-10-12-ski-de-randonnee-en-savoie.md
+- content/_fr/posts/2021-11-15-quel-materiel-de-ski-de-randonnee-pour-debuter.md
 - content/_fr/posts/2021-12-08-ski-de-randonnee-en-isere.md
+- content/_fr/posts/2021-12-15-un-long-weekend-bikepacking-en-foret-noire.md

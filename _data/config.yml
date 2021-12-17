@@ -1,6 +1,20 @@
 #generic
 zehero: "ZE HERO"
 
+#open graph
+og_url: https://preprod-zehero-202112.netlify.app
+
+#social networks
+facebook:
+  title: Facebook
+  facebook_username: https://www.facebook.com/Zehero73/
+linkedin:
+  title: Linkedin
+  linkedin_username:  https://www.linkedin.com/company/ze-hero-outdoor/
+instagram:
+  title: Instagram
+  instagram_username: https://www.instagram.com/zehero_officiel/
+
 #Cloudinary
 cloudinary_url: "https://res.cloudinary.com/deddrj0yb/image/upload"
 
@@ -11,13 +25,16 @@ languages: [fr,en]
 seasons: [winter,summer]
 
 fr:
+  changelang: Parcourir le site en français
   season:
     winter: 
       name: hiver
       icon: icon-feather-cloud-snow
+      icon-link-title: Lien vers la saison d'hiver
     summer: 
       name: ete
       icon: icon-feather-sun
+      icon-link-title: Lien vers la saison d'été
   newsletter:
     privacy: Nous nous engageons à protéger votre vie privée. Nous ne collecterons jamais d'informations vous concernant sans votre consentement explicite.
     title: Recevez nos dernières informations outdoor
@@ -27,15 +44,22 @@ fr:
     related-posts:
       caption: Vous aimerez aussi
       title: Dans le même univers
+  activity:
+    readmore: Explorer cette activité
+  contact:
+    icon-link-title: Lien vers notre page de contact
 
 en:
+  changelang: Navigate this website in english
   season:
     winter: 
       name: winter
       icon: icon-feather-cloud-snow
+      icon-link-title: Go to the winter season
     summer: 
       name: summer
       icon: icon-feather-sun
+      icon-link-title: Go to the summer season
   newsletter:
     privacy: We are committed to protecting your privacy. We will never collect information about you without your explicit consent.
     title: Get our latest outdoor updates
@@ -45,10 +69,24 @@ en:
     related-posts:
       caption: You may also like
       title: Related posts
+  activity:
+    readmore: Explore more
+  contact:
+    icon-link-title: Go to our contact page
 
-#common text
-slogan:
-  fr:
-    owol: "Outdoor Way Of Life"
-  en: 
-    owol: "Outdoor Way Of Life"
+#Image resizing by cloudinary
+# {{ imgsize.url }}{{ imgsize.[variable] }}{{[variable].image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}
+img:
+  url: https://res.cloudinary.com/deddrj0yb/image/upload/
+#activity image in list
+  activitylist: c_fill,w_322,h_446
+#blog post thumbnail list
+  blogpostlist: c_fill,w_600,h_450
+#blog post thumbnail list in blog homepage
+  homeblogpostlist: c_fill,w_800,h_970
+#blog post image hero in the post
+  blogposthero: c_fill,w_1300,h_800
+#image gallery style 2
+  bigsquare: c_fill,w_800,h_803
+  rectangle: c_fill,w_800,h_387
+  smlsquare: c_fill,w_400,h_400

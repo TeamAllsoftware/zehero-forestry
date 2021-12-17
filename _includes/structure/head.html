@@ -1,12 +1,11 @@
 <!doctype html>
 <html class="no-js" lang="en">
     <head>
-        <title>{{ page.title | liquify }}</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="author" content="ThemeZaa">
+        <meta name="author" content="ZE HERO">
         <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
-        <meta name="description" content="Litho is a clean and modern design, BootStrap 5 responsive, business and portfolio multipurpose HTML5 template with 37+ ready homepage demos.">
+       
         <!-- favicon icon -->
         <link rel="shortcut icon" href="images/favicon.png">
         <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
@@ -17,6 +16,65 @@
         <link rel="stylesheet" type="text/css" href="/css/theme-vendors.min.css">
         <link rel="stylesheet" type="text/css" href="/css/style.css" />
         <link rel="stylesheet" type="text/css" href="/css/responsive.css" />
+
+        <!-- start OPEN GRAPH -->
+        {% if page.tags %}
+        <meta name="keywords" content="{{ page.tags | sort | join: ', ' }} outdoor, aventure, activité, France, émotion, partage, dépassement de soi">
+        {% endif %}
+
+        <!-- HTML Meta Tags -->
+        {% if page.layout == "blog_post" %}
+        <title>{{ page.post-title | liquify }} - {{ site.title }}</title>
+        {% else %}
+        <title>{{ page.title | liquify }} - {{ site.title }}</title>
+        {% endif %}
+        <meta name="description" content="{{ page.description }}">
+
+
+        <!-- Facebook Meta Tags -->
+        {% if page.layout == "blog_post" %}
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+        {% else %}
+        <meta property="og:url" content="{{ site.url }}{{ page.permalink }}">
+        {% endif %}
+
+        <meta property="og:type" content="website">
+
+        {% if page.layout == "blog_post" %}
+        <meta property="og:title" content="{{ page.post-title | liquify }} - {{ site.title }}">
+        {% else %}
+        <meta property="og:title" content="{{ page.title | liquify }} - {{ site.title }}">
+        {% endif %}
+
+        <meta property="og:description" content="{{ page.description  | truncate: 155 }}">
+
+        <meta property="og:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | replace: '/', '%2F' | replace: ':', '%3A' }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}/opengraph/">
+
+
+        {% if page.author != nil %}
+        {% assign author = site.data.authors[page.author] %}
+        <meta name="author" content="{{ author.firstname }} {{ author.lastname }}">
+        {% endif %}
+        {% if page.layout == "blog_post" %}
+        <meta property="og:type" content="article" />
+        <meta property="article:published_time" content="{{ page.date-article }}T09:00:00+01:00" />
+        {% endif %}
+        <!-- Twitter Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="twitter:domain" content="{{ site.url }}/{{ page.language }}/">
+        <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+        
+        {% if page.layout == "blog_post" %}
+        <meta name="twitter:title" content="{{ page.post-title | liquify }} - {{ site.title }}">
+        {% else %}
+        <meta name="twitter:title" content="{{ page.title | liquify }} - {{ site.title }}">
+        {% endif %}
+
+        <meta name="twitter:description" content="{{ page.description  | truncate: 155 }}">
+        <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | replace: '/', '%2F' | replace: ':', '%3A' }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}/opengraph/">
+<!-- END OPEN GRAPH -->
+
+
     </head>
     <body data-mobile-nav-style="classic">
         <!-- start header -->

@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-{% assign author = site.data.authors[page.author] %}
+
+{% include elements/generic_variables.html %}
+
 <!-- start section-->
-<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url( {{ page.image01_href }} );">
+<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url( {{ imgsize.url }}{{ imgsize.blogposthero }}{{page.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }} );">
 </section>
 <!-- end section -->
 <!-- start section-->
@@ -12,8 +14,14 @@ layout: default
         <div class="row justify-content-center overlap-section z-index-0">
             <div class="col-12 col-lg-10 alt-font text-center bg-orange-zest text-white padding-7-rem-tb position-relative tilt-box" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }' style="background-image: url('https://res.cloudinary.com/deddrj0yb/image/upload/v1639064128/website/global/blog-post-layout-02-img-pattern_xxw4xt.png');">
                 <div class="w-1px h-90px bg-white mx-auto absolute-middle-center top-0px"></div>
-                <div class="text-uppercase text-medium font-weight-500 margin-25px-bottom alt-font"><a href="blog-grid.html" class="text-white d-inline-block">Creative</a><span class="margin-20px-lr w-1px h-10px bg-white d-inline-block"></span><a href="blog-grid.html" class="d-inline-block text-white">Freebies</a><span class="margin-20px-lr w-1px h-10px bg-white d-inline-block"></span><a href="blog-grid.html" class="d-inline-block text-white">Events</a></div>
-                <h3 class="font-weight-600 w-50 mx-auto md-w-70 xs-w-90">{{ page.title }}</h3>
+                <div class="text-uppercase text-medium font-weight-500 margin-25px-bottom alt-font">
+                    <a href="blog-grid.html" class="text-white d-inline-block">{{ page.tags[0] }}</a>
+                    <span class="margin-20px-lr w-1px h-10px bg-white d-inline-block"></span>
+                    <a href="blog-grid.html" class="d-inline-block text-white">{{ page.tags[1] }}</a>
+                    <span class="margin-20px-lr w-1px h-10px bg-white d-inline-block"></span>
+                    <a href="blog-grid.html" class="d-inline-block text-white">{{ page.tags[2] }}</a>
+                </div>
+                <h3 class="font-weight-600 w-50 mx-auto md-w-70 xs-w-90">{{ page.post-title }}</h3>
                 <div class="d-inline-block text-white-transparent margin-5px-top">By <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ author.firstname }} {{ author.lastname }}</a> on <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ page.date | date_to_string }}</a></div>
             </div>
         </div>
@@ -24,16 +32,20 @@ layout: default
 {% for block in page.page_sections %}
   {% assign template = block.template %}
   {% case template %}
-  {% when 'highlights' %}
-    {% include blocks_{{ template }}.html %}
   {% when 'textarea' %}
-    {% include blocks_{{ template }}.html %}
+    {% include blocks/blocks_{{ template }}.html %}
   {% when '3coltxtimgtxt' %}
-    {% include blocks_{{ template }}.html %}
+    {% include blocks/blocks_{{ template }}.html %}
   {% when '2colimgtxt' %}
-    {% include blocks_{{ template }}.html %}
+    {% include blocks/blocks_{{ template }}.html %}
   {% when 'parlaxgridtxtimg' %}
-    {% include blocks_{{ template }}.html %}
+    {% include blocks/blocks_{{ template }}.html %}
+  {% when 'liststyle01' %}
+    {% include blocks/blocks_{{ template }}.html %}
+  {% when 'liststyle01numbered' %}
+    {% include blocks/blocks_{{ template }}.html %}
+  {% when 'imagegallery02' %}
+    {% include blocks/blocks_{{ template }}.html %}
   {% endcase %}
 {% endfor %}
 
@@ -64,8 +76,8 @@ layout: default
   <div class="container">
       <div class="row justify-content-center">
           <div class="col-12 col-lg-5 col-md-6 text-center margin-5-rem-bottom wow animate__fadeIn">
-              <span class="alt-font font-weight-500 text-uppercase d-inline-block">{{ site.data.config.[page.language].blog.related-posts.caption }}</span>
-              <h5 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px">{{ site.data.config.[page.language].blog.related-posts.title }}</h5>
+              <span class="alt-font font-weight-500 text-uppercase d-inline-block">{{ site.data.config[page.language].blog.related-posts.caption }}</span>
+              <h5 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px">{{ site.data.config[page.language].blog.related-posts.title }}</h5>
           </div>
       </div>
       <div class="row">

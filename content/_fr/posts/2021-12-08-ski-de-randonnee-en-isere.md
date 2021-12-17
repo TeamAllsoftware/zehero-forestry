@@ -3,11 +3,12 @@ layout: blog_post
 language: fr
 season: winter
 author: geoffreyarduini
-title: Ski de randonnée en Isère
+title: 2021-12-08-ski-de-randonnee-en-isere
+post-title: Ski de randonnée en Isère
 description: Comme dans toute région montagneuse, il est possible d’effectuer un bon
   nombre d’activités physiques outdoor en Isère et plus particulièrement en station
   de ski.
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav/v1638883533/website/winter/Ski-randonne-ascension_g8hj01.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Ski-randonne-ascension_g8hj01.jpg
 image01_alt: Ascension d'un col à ski de randonnée
 topnav_color_text: dark
 page_sections:
@@ -198,6 +199,4 @@ page_sections:
     * Oz en Oisans
     * Vaujany
     * Villard de Lans
-topnav_text_color: light
-
 ---

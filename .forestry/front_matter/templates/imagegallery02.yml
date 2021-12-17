@@ -1,0 +1,33 @@
+---
+label: Image Gallery style 02
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: image01_bigsquare
+  type: text
+  config:
+    required: true
+  label: image 01 big square
+  description: Big squared image
+- name: image02_rectangle
+  type: text
+  config:
+    required: true
+  label: image 02 rectangle
+  description: Big rectangle image, very wide
+- name: image03_smallsquare
+  type: text
+  config:
+    required: true
+  label: image 03 small square
+  description: Small squared left image
+- name: image04_smallsquare
+  type: text
+  config:
+    required: true
+  label: image 04 Small Square
+  description: Small squared right image

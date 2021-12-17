@@ -1,58 +1,90 @@
 -  title: 'Activités'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
-   image-link: "/fr/ete/"
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
+   image-link: "/fr/hiver/activites"
    subcategories:
     - subtitle-bold: Nos activités
-    - subtitle: 'Ski '
-      subhref: /fr/produits/twake/
+    - subtitle: 'Ski alpin'
+      subhref: fr/hiver/activite/ski-alpin
+    - subtitle: 'Ski de randonnée'
+      subhref: fr/hiver/activite/ski-de-randonnee
     - subtitle: 'Snowboards'
-      subhref: /fr/produits/linshare/
+      subhref: fr/hiver/activite/snowboard
     - subtitle: 'Raquettes'
-      subhref: /fr/produits/linto/
+      subhref: fr/hiver/activite/raquettes
+    - subtitle: 'Surf'
+      subhref: fr/hiver/activite/surf
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Liste complète des activités</span>'
-      subhref: '/fr/produits/'
--  title: 'Location de matériel'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_350,w_200,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
+      subhref: fr/hiver/activites
+-  title: 'Conseils'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
    image-link: "/fr/hiver/station/alpe-d-huez"
    subcategories:
-    - subtitle-bold: "Location de matériel"
+    - subtitle-bold: "Matériel"
     - subtitle: "Ski"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
     - subtitle: "Snowboard"
       subhref: "/fr/ossa-et-support/lux-model/"
     - subtitle: "Chaussures"
       subhref: "/fr/ossa-et-support/lux-model/"
+    - subtitle-bold: "Apprendre"
+    - subtitle: "Ski"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Ski de randonnée"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Snowboard"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
    subcategories2:
+    - subtitle-bold: "Entraînement / Préparation"
+    - subtitle: "Coaching privé"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Coaching collectif"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle-bold: "Outdoor à partager"
+    - subtitle: "En famille"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "En couple"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Entre amis"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Seul"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+   subcategories3:
+    - subtitle-bold: "Itinéraires"
+    - subtitle: "A la journée"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Sur 2 jours et plus"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+-  title: 'Régions'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
+   image-link: "/fr/ete/"
+   subcategories:
     - subtitle-bold: "Dans quelle station louer ?"
     - subtitle: "Alpe d'Huez"
       subhref: "fr/hiver/station/alpe-d-huez"
     - subtitle: "Val-Thorens"
       subhref: "fr/hiver/station/val-thorens"
--  title: 'Coaching'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
+-  title: 'Team ZE HERO'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg'
    image-link: "/fr/ete/"
    subcategories:
-    - subtitle-bold: "Coaching"
-    - subtitle: "Ski"
+    - subtitle-bold: "Les coachs"
+    - subtitle: "Yann"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-    - subtitle: "Snowboard"
+    - subtitle: "Nathan"
       subhref: "/fr/ossa-et-support/lux-model/"
-    - subtitle: "Chaussures"
-      subhref: "/fr/ossa-et-support/lux-model/"
--  title: 'Spécial enfants'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638822904/website/summer/daiga-ellaby-JZ51o_-UOY8-unsplash_hpu3tg.jpg'
-   image-link: "/fr/ete/"
-   subcategories:
-    - subtitle-bold: "Spécial enfants"
-    - subtitle: "Ski"
+    - subtitle-bold: "Les athlètes"
+    - subtitle: "Léo"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-    - subtitle: "Snowboard"
-      subhref: "/fr/ossa-et-support/lux-model/"
-    - subtitle: "Chaussures"
-      subhref: "/fr/ossa-et-support/lux-model/"
+    - subtitle-bold: "___"
+    - subtitle: '<span class="type--fine-print type--italic">Nous contacter</span>'
+      subhref: 'fr/hiver/contact'
+   subcategories2:
+    - subtitle-bold: "Vous, ZE HERO du jour"
+    - subtitle: "Sandrine"
+      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
 -  title: 'Blog'
-   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/t_Thumbnail_200x300/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg'
+   image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg'
    image-link: "/fr/ete/"
    subcategories:
     - subtitle-bold: "A lire dans le blog"
@@ -64,7 +96,7 @@
       subhref: "/fr/ossa-et-support/lux-model/"
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Liste complète des articles</span>'
-      subhref: '/fr/produits/'
+      subhref: 'fr/hiver/blog'
     - subtitle-bold: "___"
     - subtitle: '<span class="type--fine-print type--italic">Nous contacter</span>'
-      subhref: '/fr/contact/'
+      subhref: 'fr/hiver/contact'

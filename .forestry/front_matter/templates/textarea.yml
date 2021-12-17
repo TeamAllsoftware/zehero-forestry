@@ -1,12 +1,13 @@
 ---
-label: Textarea
+label: Text paragraph with option title
 hide_body: true
 fields:
 - name: title
   type: text
   config:
-    required: true
+    required: false
   label: title
+  description: title is not required if you just want to add a new paragraph
 - name: content
   type: textarea
   default: ''

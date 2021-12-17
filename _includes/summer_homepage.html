@@ -1,3 +1,6 @@
+
+{% include elements/generic_variables.html %}
+
 <div class="main-content">
     <!-- start section -->
     <section class="parallax p-0" data-parallax-background-ratio="0.3" style="background-image:url('{{ site.data.content.summer_homepage.s01.image_hero }}');">
@@ -370,7 +373,7 @@
             <div class="row margin-5-rem-bottom margin-4-half-rem-top md-margin-4-rem-bottom align-items-center">
                 <div class="col-12 col-lg-6 col-md-7 text-center text-md-start sm-margin-10px-bottom wow animate__fadeIn">
                     <h5 class="alt-font font-weight-600 text-extra-dark-gray letter-spacing-minus-1px text-uppercase margin-5px-bottom">Articles outdoor</h5>
-                    <p class="m-0 d-block">The hand picked posts for travelling enthusiasts</p>
+                    <p class="m-0 d-block">Les articles de la saison estivale</p>
                 </div>
                 <div class="col-12 col-lg-6 col-md-5 text-center text-md-end">
                     <a href="blog-classic.html" class="btn btn-link btn-extra-large text-extra-dark-gray text-extra-dark-gray-hover">Lire tous les articles</a>
@@ -384,15 +387,15 @@
 
                         {% assign posts = site[page.collection] | reverse %}
                         {% for blogpost in posts %}
-                        {% if blogpost.path contains "/posts/" %}
+                        {% if blogpost.path contains "/posts/" and blogpost.season == "summer" %}
                         <!-- start blog item -->
                         <li class="grid-item wow animate__fadeIn">
                             <div class="blog-post">
                                 <div class="blog-post-image margin-40px-bottom md-margin-35px-bottom xs-margin-25px-bottom">
-                                    <a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}"><img src="{{ blogpost.image01_href }}" alt="{{ blogpost.image01_alt }}"/></a>
+                                    <a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}"><img src="{{ imgsize.url }}{{ imgsize.blogpostlist }}{{blogpost.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ blogpost.image01_alt }}"/></a> 
                                 </div>
                                 <div class="post-details last-paragraph-no-margin">
-                                    <a href="blog-post-layout-01.html" class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray text-neon-orange-hover d-block margin-20px-bottom xs-margin-10px-bottom">{{ blogpost.title }}</a>
+                                    <a href="blog-post-layout-01.html" class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray text-neon-orange-hover d-block margin-20px-bottom xs-margin-10px-bottom">{{ blogpost.post-title }}</a>
                                     <p class="w-95">{{ blogpost.description }}</p>
                                 </div>
                             </div>

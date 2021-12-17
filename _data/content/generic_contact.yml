@@ -1,4 +1,35 @@
 s01:
+  image_hero: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883535/website/winter/Telesiege-amis-groupe_owkpc2.jpg
   p01:
-    fr: Contactez-nous, nous sommes la pour vous
+    fr: Toute l'équipe ZE HERO est à votre écoute
+    en: We are at your disposal anytime to help
+  p02:
+    fr: Ce formulaire de contact est pour vous !
     en: Contact-us, we are there for you
+s02:
+  p01:
+    fr:
+      form_title: Comment pouvons-nous vous aider ?
+      form_name: Quels sont vos nom et prénom ?
+      form_email: Quel est votre email ?
+      form_phone: Quel est votre numéro de téléphone ?
+      form_message: Quel est votre message ?
+      form_submit: Envoyer le message
+    en: 
+      form_title: How can we help you today?
+      form_name: Your lastname & firstname ?
+      form_email: Your email address ?
+      form_phone: Your mobile number ?
+      form_message: Your message
+      form_submit: Submit message
+  p02:
+    fr:
+    en:
+
+s08:
+  p01:
+    fr: Merci pour votre message...
+    en: Thank you for your message...
+  p02:
+    fr: Nous revenons vers vous très très vite!
+    en: We will get back to you really soon!

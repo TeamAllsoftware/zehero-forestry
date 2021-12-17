@@ -27,11 +27,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Socials
-facebook_username: https://www.facebook.com/Zehero73/
-linkedin_username:  https://www.linkedin.com/company/ze-hero-outdoor/
-instagram_username: https://www.instagram.com/zehero_officiel/
-
 # Build settings
 theme: minima
 include: ["_pages", "_redirects"]
@@ -60,17 +55,18 @@ jekyll_get_json:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - readme-editor.md
 
 language_default: fr
 
@@ -101,7 +97,7 @@ defaults:
       path: "_fr/posts"
     values:
       layout: "post"
-      permalink: /fr/actualites/:year/:month/:day/:slug/
+      permalink: /fr/blog/:year/:month/:slug/
   -
     scope:
       path: ""
@@ -113,4 +109,4 @@ defaults:
       path: "_en/posts"
     values:
       layout: "post"
-      permalink: /en/post/:year/:month/:day/:slug
+      permalink: /en/blog/:year/:month/:slug

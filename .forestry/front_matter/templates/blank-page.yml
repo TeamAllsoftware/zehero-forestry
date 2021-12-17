@@ -1,0 +1,13 @@
+---
+label: Blank page
+hide_body: false
+fields:
+- name: tag_list
+  type: blocks
+  template_types:
+  - tags
+  config:
+    min: 
+    max: 
+  label: Tag list
+  description: add or edit tag

@@ -4,11 +4,18 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: content/_en/posts
-  label: EN blog Posts
-  create: all
-  match: "**/*"
+- type: document
+  path: readme-editor.md
+  label: Help
+  read_only: true
+- type: document
+  path: _data/authors.yml
+  label: Authors
+- type: document
+  path: _data/tags.yml
+  label: Tags
+- type: heading
+  label: FRENCH
 - type: directory
   path: content/_fr/posts
   label: FR blog Posts
@@ -17,8 +24,20 @@ sections:
   templates:
   - blog-post
 - type: directory
-  path: content/_fr/pages
-  label: Fr
+  path: content/_fr/pages/hiver/activity
+  label: Activités hiver
+  create: documents
+  match: "**/*"
+- type: directory
+  path: content/_fr/pages/hiver/resort
+  label: Resorts hiver
+  create: documents
+  match: "**/*"
+- type: heading
+  label: ENGLISH
+- type: directory
+  path: content/_en/posts
+  label: EN blog Posts
   create: all
   match: "**/*"
 - type: directory
@@ -27,7 +46,7 @@ sections:
   create: all
   match: "**/*"
 upload_dir: ''
-public_path: https://res.cloudinary.com/deddrj0yb/image/upload
+public_path: https://res.cloudinary.com/deddrj0yb/image
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"

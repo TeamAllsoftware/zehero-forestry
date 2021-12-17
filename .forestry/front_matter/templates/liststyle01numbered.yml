@@ -1,0 +1,16 @@
+---
+label: List numbered style 01
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: item
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: item
