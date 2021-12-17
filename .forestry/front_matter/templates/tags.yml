@@ -1,4 +1,10 @@
 ---
 label: Tags
 hide_body: true
-fields: []
+fields:
+- name: tag_name
+  type: text
+  config:
+    required: true
+  label: Tag name
+  description: One word
