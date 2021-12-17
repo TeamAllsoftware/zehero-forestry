@@ -271,7 +271,6 @@ page_sections:
   captionrighttitle: 360km et 20 000 D+
   captionrightcontent: "Ma plus belle expérience, mon périple.  \nIl en faut peu pour
     être heureux ou il me faut beaucoup de kilomètre pour l'être encore plus. "
-tag: tag_name
 tags:
 - trail
 - ballade
