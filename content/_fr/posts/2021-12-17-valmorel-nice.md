@@ -109,7 +109,7 @@ page_sections:
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0084_hgnwbh.jpg
 - template: textarea
   title: Méribel - Névache
-  content: Bon j’ai 60km et 3400D+ à faire aujourd’hui, ça va être une belle journée.
+  content: Bon, j’ai 60km et 3400D+ à faire aujourd’hui, ça va être une belle journée.
     Et tant mieux car il va faire beau et chaud. Après une bise à ma mère, je cours
     sur le parc naturel de Tueda. Une brume s’évapore doucement du lac, l’aube est
     là ainsi que la fraîcheur matinale. “Tôt le matin” de Gaël Faye m’accompagne dans
@@ -126,14 +126,14 @@ page_sections:
   title: ''
 - template: textarea
   content: "Là j'entame une très belle et longue descente à Modane. C’est l’heure
-    de manger : sandwich au saumon, 1 coca et 1 orangina. Une fois repartis je vais
-    suivre maintenant ce balisage Rouge et Blanc. Me voilà sur le GR5. Je passe pas
-    très loin du mont Thabor, j'avoue avoir hésité à y aller mais ce n’était pas raisonnable.
-    Quelques marmottes, des chevaux sauvages, des taureaux avec des muscles plus imposant
-    que Schwarzenegger, des lacs, cette 1er étape est magique.\n\nArrivé à Névache,
-    une bonne douche (j’ai pris la serviette S de Decathlon, autant vous dire que
-    je m’essuie avec la taille d’un mouchoir) et ce soir raclette.  \n10h de course,
-    une journée bien remplie, pas de bobos mais de beaux souvenirs."
+    de manger : sandwich au saumon, 1 coca et 1 orangina. Une fois reparti je vais
+    suivre maintenant ce balisage Rouge et Blanc. Me voilà sur le GR5. Je ne passe
+    pas très loin du mont Thabor, j'avoue avoir hésité à y aller mais ce n’était pas
+    raisonnable. Quelques marmottes, des chevaux sauvages, des taureaux avec des muscles
+    plus imposants que Schwarzenegger, des lacs, cette 1er étape est magique.\n\nArrivé
+    à Névache, une bonne douche (j’ai pris la serviette S de Decathlon, autant vous
+    dire que je m’essuie avec la taille d’un mouchoir) et ce soir raclette.  \n10h
+    de course, une journée bien remplie, pas de bobos mais de beaux souvenirs."
   title: ''
 - template: textarea
   title: Névache - Ceillac
