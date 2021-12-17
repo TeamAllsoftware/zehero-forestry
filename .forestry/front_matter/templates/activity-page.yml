@@ -111,5 +111,6 @@ fields:
     min: 
     max: 
 pages:
+- content/_fr/pages/hiver/activity/snowboard.md
 - content/_fr/pages/hiver/activity/surf.md
 - content/_fr/pages/hiver/activity/visiter-domaine.md
