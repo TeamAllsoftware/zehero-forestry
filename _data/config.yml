@@ -1,6 +1,9 @@
 #generic
 zehero: "ZE HERO"
 
+#open graph
+og_url: https://preprod-zehero-202112.netlify.app
+
 #social networks
 facebook:
   title: Facebook

@@ -48,7 +48,7 @@
 
         <meta property="og:description" content="{{ page.description  | truncate: 155 }}">
 
-        <meta property="og:image" content="https://screenshot-zehero.netlify.app/{{ site.url }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}{% if page.layout != 'blog_post' %}/{% endif %}opengraph/">
+        <meta property="og:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | replace: '/', '%2F' | replace: ':', '%3A' }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}{% if page.layout != 'blog_post' %}/{% endif %}opengraph/">
 
 
         {% if page.author != nil %}
@@ -71,7 +71,7 @@
         {% endif %}
 
         <meta name="twitter:description" content="{{ page.description  | truncate: 155 }}">
-        <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.url }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}{% if page.layout != 'blog_post' %}/{% endif %}opengraph/">
+        <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | replace: '/', '%2F' | replace: ':', '%3A' }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}{% if page.layout != 'blog_post' %}/{% endif %}opengraph/">
 <!-- END OPEN GRAPH -->
 
 
