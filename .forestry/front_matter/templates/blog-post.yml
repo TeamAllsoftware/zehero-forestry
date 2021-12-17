@@ -118,8 +118,10 @@ fields:
     min: 3
     max: 3
     source:
-      type: pages
+      type: documents
       section: tags
+      file: _data/tags.yml
+      path: Tags
   label: Tags
   description: add 3 tags
 pages:
