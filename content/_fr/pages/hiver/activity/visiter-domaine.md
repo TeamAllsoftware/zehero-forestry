@@ -1,19 +1,16 @@
 ---
 layout: page_activity
-permalink: /fr/hiver/activite/visiter-un-domaine-skiable
-
+permalink: "/fr/hiver/activite/visiter-un-domaine-skiable"
 language: fr
 season: winter
 topnav_color_text: light
-
 title: Visiter un domaine à ski
-description: La Savoie est un véritable lieu de regroupement pour les plus friands
-  de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux
-  des grands espaces et du milieu montagnard en général.
+description: Les domaines skiables au dela des pistes et des cartes, souvent méconnus,
+  les domaines peuvent être découvert ou redécouvert sous de nouveaux angles avec
+  des professionnels qui vous guideront dans des terres inconnues
 baseline: Journée découverte de domaine
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638822010/website/winter/Activite-ski_wob8vt.webp
-image01_alt: Un igloo construit de neige fraîche pour passer une nuit polaire
-
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639754128/website/winter/point-blanq-XUQ8HeivN7o-unsplash_wi47fp.jpg
+image01_alt: Les domaines skiables au dela des pistes et des cartes !
 page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,h_545/c_crop,g_north,h_545,w_475/v1638822010/website/winter/Hero-montagne_m8cx1r.webp
@@ -147,5 +144,6 @@ page_sections:
   title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
     des stations
 topnav_text_color: light
+engage: Les domaines skiables au dela des pistes et des cartes !
 
 ---

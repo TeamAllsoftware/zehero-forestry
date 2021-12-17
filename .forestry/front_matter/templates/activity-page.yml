@@ -110,3 +110,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- content/_fr/pages/hiver/activity/visiter-domaine.md
