@@ -129,5 +129,7 @@ page_sections:
     2022. '
   captionrightcontent: Je suis loin d’être le plus fort, mais je suis prêt à devenir
     meilleur.
+tag: tag_name
+tags: []
 
 ---
