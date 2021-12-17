@@ -138,9 +138,9 @@ page_sections:
 - template: textarea
   title: Névache - Ceillac
   content: Je pars vers 7h du matin, j’essaye de pas trop déjeuner sinon mon ventre
-    pas trop m’aimer. Je prends le pique-nique du refuge, sauf que c’est une salade.
-    Il fallait que j’arrive à la rentrer dans mon sac, pas évident. Le départ est
-    incroyable, le paysage est à couper le souffle. Je vais rejoindre une variante,
+    ne va pas trop m’aimer. Je prends le pique-nique du refuge, sauf que c’est une
+    salade. Il fallait que j’arrive à la rentrer dans mon sac, pas évident. Le départ
+    est incroyable, le paysage est à couper le souffle. Je vais rejoindre une variante,
     la GR5C afin de couper un peu et de prendre les crêtes de Peyrolles avant de basculer
     sur Briançon.
 - template: 2colimgtxt
@@ -276,5 +276,6 @@ tags:
 - trail
 - ballade
 - en solo
+published: false
 
 ---
