@@ -1,11 +1,9 @@
 ---
 layout: page_activity
-permalink: /fr/hiver/activite/coaching-sportif
-
+permalink: "/fr/hiver/activite/coaching-sportif"
 language: fr
 season: winter
 topnav_color_text: dark
-
 title: Coaching sportif
 description: La Savoie est un véritable lieu de regroupement pour les plus friands
   de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux
@@ -13,7 +11,6 @@ description: La Savoie est un véritable lieu de regroupement pour les plus fria
 baseline: Préparation physique
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492165/website/winter/jonathan-borba-R0y_bEUjiOM-unsplash_keynhb.jpg
 image01_alt: Un igloo construit de neige fraîche pour passer une nuit polaire
-
 page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,h_545/c_crop,g_north,h_545,w_475/v1638822010/website/winter/Hero-montagne_m8cx1r.webp
@@ -147,5 +144,6 @@ page_sections:
   title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
     des stations
 topnav_text_color: light
+engage: ''
 
 ---
