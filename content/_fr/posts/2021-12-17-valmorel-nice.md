@@ -184,6 +184,5 @@ page_sections:
     le meilleur repas de ma semaine en refuge."
 tag: tag_name
 tags: []
-published: false
 
 ---
