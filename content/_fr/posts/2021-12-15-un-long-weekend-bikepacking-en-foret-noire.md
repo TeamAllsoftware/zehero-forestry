@@ -32,7 +32,7 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639651639/website/blog/Mad%C3%A8re/IMG-20211120-WA0035_ngz8av.jpg
 topnav_color_text: dark
 tags:
-- entraînement
+- entre amis
 - bikepacking
 - ballade
 
