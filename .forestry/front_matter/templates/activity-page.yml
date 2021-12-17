@@ -1,0 +1,56 @@
+---
+label: Activity page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: language
+  label: language
+- type: text
+  name: season
+  label: season
+- type: text
+  name: topnav_color_text
+  label: topnav_color_text
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: baseline
+  label: baseline
+- type: text
+  name: engage
+  label: engage
+- type: file
+  name: image01_href
+  label: image01_href
+- type: text
+  name: image01_alt
+  label: image01_alt
+- type: field_group_list
+  name: page_sections
+  label: page_sections
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: file
+    name: image_col_left_href
+    label: image_col_left_href
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: text
+    name: captiontitleuppercase
+    label: captiontitleuppercase
