@@ -102,24 +102,6 @@ page_sections:
     faire des performances et des compétitions également. Je n’aimais pas cet échec
     mais je le comprenais et il était justifiable.
   captiontitleuppercase: La decision
-- template: textarea
-  content: Il n'est jamais facile d’abandonner, pour n’importe qui, quel que soit
-    son niveau. Quand on se sacrifie, quand on fait des concessions, quand on passe
-    10h à 20h par semaine à l’entraînement, c’est toujours dur d’abandonner. On a
-    toujours peur de ne pas assumer cette décision et de se dire plus tard qu'on aurait
-    dû continuer. On peut facilement mélanger ses propres peurs, son échec et le regard
-    des autres. On pense aux personnes qui nous suivent, à ses partenaires de vie
-    qu’on veut rendre fier, comme sa famille aussi. On pense à son entraîneur qui
-    est là chaque jour à veiller qu’on s'entraîne correctement. On pense aussi parfois
-    aux partenaires qui nous aident et nous accompagnent. Et parfois et c’est peut-être
-    le pire, aux personnes qui nous suivent via des réseaux sociaux, qu’on ne connaît
-    même pas mais qu’on ne veut pas décevoir. Lorsque j’ai rendu mon dossard, j’ai
-    pensé à moi et à rien d’autre. J’ai pensé à ma santé, ma forme et mon plaisir.
-    J’étais triste mais je n’avais aucun regret. J’ai assumé pleinement que j’aurai
-    aucun plaisir à continuer, que je m’entraîne car j’aime le trail mais que j’aime
-    faire des performances et des compétitions également. Je n’aimais pas cet échec
-    mais je le comprenais et il était justifiable.
-  title: ''
 - template: 3coltxtimgtxt
   captionleftcontent: C’était un jour sans, mais prendre la décision d’abandonner
     ce n’est pas subir, c’est décider d'arrêter et ça fait partie du trail et de l’apprentissage.
