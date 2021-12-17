@@ -211,7 +211,7 @@ page_sections:
   title: Roya - St Dalmas Valdeblore
   content: "Après une bonne nuit et après avoir discuté avec un belge me disant de
     faire attention aux patous un peu plus loin, je repris ma petite route.  \nLa
-    1er montée était magnifique, je partais rejoindre le Col de Crousette. Je crois
+    1er montée était magnifique, je partais rejoindre le Col de Crousette. Je croisa
     1, puis 2, puis 3 patous. J'avais le cœur qui tapait fort, je ressentais un peu
     de stress. Puis un patou à décider de me suivre pendant 30mn à 10cm de mes mollets
     : Patou, pas touches à mes mollets. Arrivé en haut, je voyais ce Mont Mounier,
@@ -276,6 +276,5 @@ tags:
 - trail
 - ballade
 - en solo
-published: false
 
 ---
