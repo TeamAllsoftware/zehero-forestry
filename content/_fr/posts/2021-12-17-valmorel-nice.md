@@ -107,7 +107,23 @@ page_sections:
     pour une très grosse étape. Ça me fait bizarre de me dire que je vais passer de
     Méribel à Névache.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0084_hgnwbh.jpg
+- template: textarea
+  title: Méribel - Névache
+  content: Bon j’ai 60km et 3400D+ à faire aujourd’hui, ça va être une belle journée.
+    Et tant mieux car il va faire beau et chaud. Après une bise à ma mère, je cours
+    sur le parc naturel de Tueda. Une brume s’évapore doucement du lac, l’aube est
+    là ainsi que la fraîcheur matinale. “Tôt le matin” de Gaël Faye m’accompagne dans
+    les écouteurs. Je ressens cette solitude, ce bonheur de me retrouver seul dans
+    ces montagnes avant que le soleil ne se lève. Un sentiment unique, d’avancer dans
+    une immensité et de pousser son corps dans l’effort. Les rayons de soleil commencent
+    à toucher ma peau dès que j’arrive au Glacier de Géboulaz. J’arrive alors sur
+    la variante du GR55.
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732891/website/blog/Valmorel%20-%20Nice/IMG_20200708_062512_sucbmg.jpg
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732891/website/blog/Valmorel%20-%20Nice/IMG_20200708_074553_ukfsea.jpg
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732891/website/blog/Valmorel%20-%20Nice/IMG_20200708_080500_ajocrc.jpg
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732891/website/blog/Valmorel%20-%20Nice/IMG_20200708_091605_hwnt6u.jpg
+  title: ''
 tag: tag_name
-published: false
 
 ---
