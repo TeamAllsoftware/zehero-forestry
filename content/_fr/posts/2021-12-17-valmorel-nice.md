@@ -220,18 +220,50 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733479/website/blog/Valmorel%20-%20Nice/IMG_20200712_090024_dadfq5.jpg
   captiontitleuppercase: J'étais pressé d'arriver
   title: Ma chérie et sa grand-mère m'attendait à Valdeblore
-  content: Les ampoules étaient pas jolies mais je n'y pensais pas. J'avais avec hâte
-    d'arriver, tout en savourant chaque mètres parcourus. Il faisais chaud, le parcours
-    ce jour là était plutôt roulant. Arrivé à St Sauveur sur Tinée, je me suis trempé
-    dans une fontaine tellement j'avais chaud. Je passais ensuite à Rimplas et ses
-    terres rouges. Puis j'arriverai pas le bas au village de Valdeblore. Heureux de
-    pouvoir voir ma chérie içi et de vivre se moment si fort. En plus, elle et sa
-    grand mère avait préparé le plus gros festin et le meilleur ravitaillement.
+  content: "Les ampoules étaient pas jolies mais je n'y pensais pas. J'avais avec
+    hâte d'arriver, tout en savourant chaque mètres parcourus. Il faisais chaud, le
+    parcours ce jour là était plutôt roulant. Arrivé à St Sauveur sur Tinée, je me
+    suis trempé dans une fontaine tellement j'avais chaud. Je passais ensuite à Rimplas
+    et ses terres rouges. Puis j'arriverai pas le bas au village de Valdeblore. Heureux
+    de pouvoir voir ma chérie içi et de vivre se moment si fort. En plus, elle et
+    sa grand mère avait préparé le plus gros festin et le meilleur ravitaillement.
+    \ \nUne journée de 42km et 2200 D+"
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733478/website/blog/Valmorel%20-%20Nice/IMG_20200712_092743_h5kar6.jpg
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733479/website/blog/Valmorel%20-%20Nice/IMG_20200712_101431_s4rdkj.jpg
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733478/website/blog/Valmorel%20-%20Nice/IMG_20200712_145857_fojbhf.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733478/website/blog/Valmorel%20-%20Nice/IMG_20200712_191029_ybmgfz.jpg
+  title: ''
+- template: textarea
+  title: 'La dernière : Valdeblore - Nice'
+  content: Après une belle nuit en compagnie d'Eve, je me lève pour la dernière journée
+    de cette traversée. C'est bizarre de se dire que ça va s'arrêter ensuite. Mais
+    en tout cas, ce matin je rigole moins et mes ampoules me font mal. Mes pieds se
+    sont transformer en guirlande de Noël. Je peine à courir au début mais je me force
+    car Eve et sa Grand mère me regardent partir.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733477/website/blog/Valmorel%20-%20Nice/IMG_20200713_112518_mimoua.jpg
+  captiontitleuppercase: En route pour la mer
+  title: Ca va descendre aujourd'hui et pas qu'un peu
+  content: 'Après une 1er montée au "Deux Caires", j''entame ma route en direction
+    d''Utelle. Quelques passages techniques avec pas mal de cailloux, mais c''est
+    très beau. Le sentier qui mène à Madone est génial et je profite de cette descente
+    pour m''amuser. Je remonte à Levens, où je cherche désespérément de l''eau. '
+- template: textarea
+  content: "Le temps se couvre mais je suis content car j'avais vraiment eu peur qu'il
+    fasse beaucoup trop chaud. J'ai même le droit à un peu de pluie et de jolies sons
+    d'orage ainsi qu'une couleuvre énorme. Je vois la mer et je suis ému, je pense
+    à Eve qui m'attend à la mer à Nice. Je pense à cette traversée, ce que j'ai vécu,
+    ces souvenirs. Quelle aventure, c'est unique et fort, riches en émotions.  \nJ'entame
+    la fin et j'arrive dans Nice. Je sens que je suis heureux d'arriver, de prendre
+    Eve dans mes bras. Par contre, je n'étais pas prêt à ce bruit de ville, ces voitures,
+    ce monde. Je ressens de l'irritation, trop de bruit, je suis gêné et perdu. J'étais
+    mieux dans mes montagnes.\n\nJe la vois, elle m'attend sur la Place Masséna, avec
+    un grand sourire. Elle est heureuse et moi encore plus. Heureux de la retrouver,
+    heureux car cette traversée, c'est pour la rejoindre, pour vivre avec elle.\n\nSur
+    la plage en galet, une bière, de l'Ice Tea, de l'Orangina et pleins de bonne chose
+    à manger. Tout est parfait. Je peine par contre à aller dans l'eau car j'ai vraiment
+    mal aux pieds.\n\nAprès ces 68km, voilà j'ai couru 360km."
   title: ''
 tag: tag_name
 tags:
