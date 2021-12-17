@@ -27,7 +27,7 @@ page_sections:
     L’idée fleurissait doucement.  \nLe jour du confinement, j'étais descendu à Antibes,
     je savais que j’allais déménager et vivre dans le Sud prêt de la mer. C’était
     une nouvelle page pour moi, une nouvelle vie. J’ai eu l’idée alors de venir en
-    courant de Valmorel-Nice. C’était symbolique, c’était pour moi ma façon de venir
+    courant de Valmorel à Nice. C’était symbolique, c’était pour moi ma façon de venir
     de la plus belle des manières dans ma nouvelle maison, ma nouvelle vie. C’était
     ma démarche romantique, mon aventure, mon chemin qui mène à l'amour. L’amour des
     lieux où j’ai grandi, l’amour des montagnes, l’amour du trail, l’amour de ma chérie
@@ -37,9 +37,9 @@ page_sections:
   captiontitleuppercase: Comment je vais faire cette traversée ?
   title: Autonomie ou semi-autonomie ?
   content: "Bon c’est sympa comme projet, mais comment on organise cela ? Outre l’entraînement,
-    il y a un aspect d’organisation important. Déjà deux questions :\n\n* Je le fais
-    en autonomie complète ?\n* Je le fais en semi-autonomie ?\n\nEn gros, soit je
-    partais avec ma tente et mon réchaud, soit je faisais des étapes et je dormais
+    il y a un aspect d’organisation important. Déjà deux questions : -- Je le fais
+    en autonomie complète ?\n\n\\- Je le fais en semi-autonomie ?\n\nEn gros, soit
+    je partais avec ma tente et mon réchaud, soit je faisais des étapes et je dormais
     dans des refuges le soir. Ce qui me permettait de courir en journée.  \nChoix
     pas évident, car pour le 1er, l’avantage, c'est qu’on s’arrête dormir quand on
     veut et où on veut. Le 2ᵉ choix, l’avantage, c'est que j’ai un lit, un bon repas
@@ -276,5 +276,6 @@ tags:
 - trail
 - ballade
 - en solo
+published: false
 
 ---
