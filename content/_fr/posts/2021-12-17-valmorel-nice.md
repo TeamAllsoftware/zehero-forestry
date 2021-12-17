@@ -107,6 +107,6 @@ page_sections:
     pour une très grosse étape. Ça me fait bizarre de me dire que je vais passer de
     Méribel à Névache.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0084_hgnwbh.jpg
-published: false
+tag: tag_name
 
 ---
