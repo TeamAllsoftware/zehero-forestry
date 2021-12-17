@@ -263,12 +263,19 @@ page_sections:
     heureux car cette traversée, c'est pour la rejoindre, pour vivre avec elle.\n\nSur
     la plage en galet, une bière, de l'Ice Tea, de l'Orangina et pleins de bonne chose
     à manger. Tout est parfait. Je peine par contre à aller dans l'eau car j'ai vraiment
-    mal aux pieds.\n\nAprès ces 68km, voilà j'ai couru 360km."
+    mal aux pieds."
   title: ''
+- template: 3coltxtimgtxt
+  captionleftcontent: La plus belle des récompenses et des arrivées
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733477/website/blog/Valmorel%20-%20Nice/IMG_20200713_164710_rihlqt.jpg
+  captionrighttitle: 360km et 20 000 D+
+  captionrightcontent: "Ma plus belle expérience, mon périple.  \nIl en faut peu pour
+    être heureux ou il me faut beaucoup de kilomètre pour l'être encore plus. "
 tag: tag_name
 tags:
 - trail
 - ballade
 - en solo
+published: false
 
 ---
