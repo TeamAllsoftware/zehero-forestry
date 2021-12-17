@@ -11,3 +11,5 @@ fields:
     max: 
   label: Tag list
   description: add or edit tag
+pages:
+- _data/tag.yml

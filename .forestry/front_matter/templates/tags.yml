@@ -8,5 +8,3 @@ fields:
     required: true
   label: Tag name
   description: One word
-pages:
-- _data/tag.yml
