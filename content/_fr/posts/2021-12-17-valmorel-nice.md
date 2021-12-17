@@ -213,7 +213,7 @@ page_sections:
     faire attention aux patous un peu plus loin, je repris ma petite route.  \nLa
     1er montée était magnifique, je partais rejoindre le Col de Crousette. Je croisa
     1, puis 2, puis 3 patous. J'avais le cœur qui tapait fort, je ressentais un peu
-    de stress. Puis un patou à décider de me suivre pendant 30mn à 10cm de mes mollets
+    de stress. Puis un patou à décidé de me suivre pendant 30mn à 10cm de mes mollets
     : Patou, pas touches à mes mollets. Arrivé en haut, je voyais ce Mont Mounier,
     cette ambiance assez unique."
 - template: 2colimgtxt
