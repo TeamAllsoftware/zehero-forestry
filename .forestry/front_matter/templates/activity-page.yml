@@ -37,20 +37,6 @@ fields:
       file: 
       path: 
   label: season
-- name: author
-  type: select
-  default: []
-  config:
-    required: true
-    options:
-    - geoffreyarduini
-    - yannalarcon
-    source:
-      type: simple
-      section: fr
-      file: content/_fr/posts/20211204-le-spitboard-pour-randonner-jusqu-au-sommet.md
-      path: 
-  label: author
 - type: text
   name: title
   label: URL for this post
@@ -68,6 +54,20 @@ fields:
   label: description
   config:
     required: true
+- type: text
+  name: baseline
+  label: baseline
+  description: 3 or 4 words to summarize quickly
+  config:
+    required: true
+- type: text
+  name: engage
+  label: engage
+  config:
+    required: true
+    max: 60
+    min: 40
+  description: Min 40 charcters and Max 60 characters
 - name: image01_href
   type: text
   config:
@@ -111,17 +111,3 @@ fields:
   config:
     min: 
     max: 
-- type: text
-  name: baseline
-  label: baseline
-  description: 3 or 4 words to summarize quickly
-  config:
-    required: true
-- type: text
-  name: engage
-  label: engage
-  config:
-    required: true
-    max: 60
-    min: 40
-  description: Min 40 charcters and Max 60 characters
