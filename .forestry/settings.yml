@@ -5,15 +5,15 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: _data/tags.yml
-  label: Tags
-- type: document
   path: readme-editor.md
   label: Help
   read_only: true
 - type: document
   path: _data/authors.yml
   label: Authors
+- type: document
+  path: _data/tags.yml
+  label: Tags
 - type: heading
   label: FRENCH
 - type: directory
@@ -29,13 +29,10 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
-  path: content/_fr/pages
-  label: "[test] Fr"
-  create: all
+  path: content/_fr/pages/hiver/resorts
+  label: Resorts hiver
+  create: documents
   match: "**/*"
-- type: document
-  path: _data/menu/fr/hiver.yml
-  label: "[test] Menu hiver"
 - type: heading
   label: ENGLISH
 - type: directory
