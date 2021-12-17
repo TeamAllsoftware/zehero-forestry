@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/tag.yml
   label: Tags (blog)
-  match: "**/*"
 - type: document
   path: readme-editor.md
   label: Help
