@@ -177,7 +177,7 @@ page_sections:
     foulée à côté de lui. Après une mauvaise expérience en Bolivie, j'ai toujours
     une crainte quand je cours prêt des chiens. En tout cas, j'avance correctement
     et facilement jusqu'à Larche en passant par le Col de Mallemort.  \n6h30 de course,
-    j'ai le temps de mettre dans le hamac et de profiter de la fin de journée avant
+    j'ai le temps de me mettre dans le hamac et de profiter de la fin de journée avant
     le meilleur repas de ma semaine en refuge."
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733480/website/blog/Valmorel%20-%20Nice/IMG_20200711_091853_ymrfdp.jpg
