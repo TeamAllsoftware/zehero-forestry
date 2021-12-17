@@ -135,17 +135,16 @@ page_sections:
     je m’essuie avec la taille d’un mouchoir) et ce soir raclette.  \n10h de course,
     une journée bien remplie, pas de bobos mais de beaux souvenirs."
   title: ''
-- template: 2colimgtxt
-  captiontitleuppercase: Névache - Ceillac
-  title: Aujourd’hui c’est une grosse journée, encore et oui.
+- template: textarea
+  title: Névache - Ceillac
   content: Je pars vers 7h du matin, j’essaye de pas trop déjeuner sinon mon ventre
     pas trop m’aimer. Je prends le picnique du refuge, sauf que c’est une salade.
     Il fallait que j’arrive à la rentrer dans mon sac, pas évident. Le départ est
     incroyable, le paysage est à couper le souffle. Je vais rejoindre une variante,
     la GR5C afin de couper un peu et de prendre les crêtes de Peyrolles avant de basculer
     sur Briançon.
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732890/website/blog/Valmorel%20-%20Nice/IMG_20200709_081846_awujiy.jpg
-- template: textarea
+- template: 2colimgtxt
+  title: Ma première hypo, je l'attendais
   content: "Arriver dans cette jolie ville, j’ai vraiment soif. Je sais que j’ai un
     problème avec l’orangina et que je peux en boire 2l d’une traite. Du coup j’ai
     3 canettes de sodas… Ca ballotte un peu dès que je me remet en marche. Après le
@@ -155,7 +154,8 @@ page_sections:
     me dépêcher. Finalement, le dernier petit sentier est magique et la foulée revient
     naturellement.\n\nJ’arrive à temps pour la soupe, une bière, je vais bien dormir.
     \ \n68km, 3700D+ et 10h40 de course. Demain on réduit un peu, ça me fera du bien."
-  title: ''
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732890/website/blog/Valmorel%20-%20Nice/IMG_20200709_081846_awujiy.jpg
+  captiontitleuppercase: 3 sodas et on rempart
 - template: 3coltxtimgtxt
   captionleftcontent: Ceillac - Larche
   captionrighttitle: Une journée plus courte avec 40km et 2200 D+
