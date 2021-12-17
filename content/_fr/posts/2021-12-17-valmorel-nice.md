@@ -116,8 +116,8 @@ page_sections:
     les écouteurs. Je ressens cette solitude, ce bonheur de me retrouver seul dans
     ces montagnes avant que le soleil ne se lève. Un sentiment unique, d’avancer dans
     une immensité et de pousser son corps dans l’effort. Les rayons de soleil commencent
-    à toucher ma peau dès que j’arrive au Glacier de Géboulaz. J’arrive alors sur
-    la variante du GR55.
+    à toucher ma peau dès que j’arrive au Glacier de Géboulaz. Je me trouve alors
+    sur la variante du GR55.
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732891/website/blog/Valmorel%20-%20Nice/IMG_20200708_062512_sucbmg.jpg
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732891/website/blog/Valmorel%20-%20Nice/IMG_20200708_074553_ukfsea.jpg
@@ -126,34 +126,31 @@ page_sections:
   title: ''
 - template: textarea
   content: "Là j'entame une très belle et longue descente à Modane. C’est l’heure
-    de manger : sandwich au saumon, 1 coca et 1 orangina. Une fois reparti je vais
+    de manger : sandwich au saumon, 1 coca et 1 orangina. Une fois reparti, je vais
     suivre maintenant ce balisage Rouge et Blanc. Me voilà sur le GR5. Je ne passe
     pas très loin du mont Thabor, j'avoue avoir hésité à y aller mais ce n’était pas
     raisonnable. Quelques marmottes, des chevaux sauvages, des taureaux avec des muscles
     plus imposants que Schwarzenegger, des lacs, cette 1er étape est magique.\n\nArrivé
-    à Névache, une bonne douche (j’ai pris la serviette S de Decathlon, autant vous
-    dire que je m’essuie avec la taille d’un mouchoir) et ce soir raclette.  \n10h
-    de course, une journée bien remplie, pas de bobos mais de beaux souvenirs."
+    à Névache, une bonne douche (j’ai pris la serviette microfibres S de Decathlon,
+    autant vous dire que je m’essuie avec la taille d’un mouchoir) et ce soir raclette.
+    \ \n10h de course, une journée bien remplie, pas de bobos mais de beaux souvenirs."
   title: ''
 - template: textarea
   title: Névache - Ceillac
   content: Je pars vers 7h du matin, j’essaye de pas trop déjeuner sinon mon ventre
-    pas trop m’aimer. Je prends le picnique du refuge, sauf que c’est une salade.
+    pas trop m’aimer. Je prends le pique-nique du refuge, sauf que c’est une salade.
     Il fallait que j’arrive à la rentrer dans mon sac, pas évident. Le départ est
     incroyable, le paysage est à couper le souffle. Je vais rejoindre une variante,
     la GR5C afin de couper un peu et de prendre les crêtes de Peyrolles avant de basculer
     sur Briançon.
 - template: 2colimgtxt
   title: Ma première hypo, je l'attendais
-  content: "Arriver dans cette jolie ville, j’ai vraiment soif. Je sais que j’ai un
-    problème avec l’orangina et que je peux en boire 2l d’une traite. Du coup j’ai
-    3 canettes de sodas… Ca ballotte un peu dès que je me remet en marche. Après le
-    Col des Ayes, je passe Arvieux, je remplis mes flasques, et je me dirige à Château
-    Queyras. Il me reste encore quelques kilomètres. Je subis mon 1e coup de pas bien,
-    petite hypo sympathique. Je suis même en retard pour le repas du refuge, je dois
-    me dépêcher. Finalement, le dernier petit sentier est magique et la foulée revient
-    naturellement.\n\nJ’arrive à temps pour la soupe, une bière, je vais bien dormir.
-    \ \n68km, 3700D+ et 10h40 de course. Demain on réduit un peu, ça me fera du bien."
+  content: |-
+    Arrivé dans cette jolie ville, j’ai vraiment soif. Je sais que j’ai un problème avec l’orangina et que je peux en boire 2l d’une traite. Du coup j’ai 3 canettes de sodas… Ça ballotte un peu dès que je me remets en marche. Après le Col des Ayes, je passe Arvieux, je remplis mes flasques, et je me dirige à Château Queyras. Il me reste encore quelques kilomètres. Je subis mon 1e coup de pas bien, petite hypo sympathique. Je suis même en retard pour le repas du refuge, je dois me dépêcher. Finalement, le dernier petit sentier est magique et la foulée revient naturellement.
+
+    J’arrive à temps pour la soupe, une bière, je vais bien dormir.
+
+    68km, 3700D + et 10h40 de course. Demain on réduit un peu, ça me fera du bien.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732890/website/blog/Valmorel%20-%20Nice/IMG_20200709_081846_awujiy.jpg
   captiontitleuppercase: 3 sodas et on rempart
 - template: 3coltxtimgtxt
@@ -167,8 +164,8 @@ page_sections:
 - template: textarea
   content: J'arrive ensuite au lac miroir puis au lac St Anne. Le Queyras est incroyable,
     c'est un mélange des Alpes du Nord et du Sud. Il est verdoyant et minéral, j'avoue
-    avoir eu petit coup de cœur pour ce lieux.  Au col Girardin je prend une pause,
-    je suis émue car les émotions sont fortes. Je suis là, je suis içi, courir c'est
+    avoir eu petit coup de cœur pour ce lieu.  Au col Girardin je prend une pause,
+    je suis ému car les émotions sont fortes. Je suis là, je suis içi, courir c'est
     profiter de l'instant présent et le vivre pleinement.
   title: ''
 - template: 2colimgtxt
@@ -177,9 +174,9 @@ page_sections:
   title: Marche jusqu'à Larche
   content: "J'en suis à la moitié, et j'entame la descente en passant à travers un
     imposant troupeau de mouton. J'ai toujours peur qu'un Patou n'apprécie guère ma
-    foulée à cotés de lui. Après une mauvaise expérience en Bolivie, j'ai toujours
-    une crainte quand je cours prêt des chien. En tout cas, j'avance correctement
-    et facilement jusqu'à Larche en passant par le Col de Mallemort.   \n6h30 de course,
+    foulée à côté de lui. Après une mauvaise expérience en Bolivie, j'ai toujours
+    une crainte quand je cours prêt des chiens. En tout cas, j'avance correctement
+    et facilement jusqu'à Larche en passant par le Col de Mallemort.  \n6h30 de course,
     j'ai le temps de mettre dans le hamac et de profiter de la fin de journée avant
     le meilleur repas de ma semaine en refuge."
 - template: parlaxgridtxtimg
@@ -187,29 +184,49 @@ page_sections:
   captionabovetitle: Mercantour j'arrive
   title: Larche - Roya
   gridline1title: Mélèzes et pins, ca y est je me rapproche de la mer
-  gridline1content: Après une longue partir sur une route, je longe l'Ubayette en
-    passant au Lac de Lauzanier, puis celui "de derrière la Croix et enfin le fameux
-    pas de la cavale. Me voilà dans le Mercantour. Quel pays, quel paysage, quel dépaysement,
-    paisible et non péniblement j'avance.
+  gridline1content: Après une longue partie sur une route, je longe l'Ubayette en
+    passant au Lac de Lauzanier, puis celui "de derrière la Croix" et enfin le fameux
+    "Pas de la cavale". Me voilà dans le Mercantour. Quel pays, quel paysage, quel
+    dépaysement, paisible et non péniblement j'avance.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733481/website/blog/Valmorel%20-%20Nice/IMG_20200711_083803_ymvbxg.jpg
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733480/website/blog/Valmorel%20-%20Nice/IMG_20200711_100559_ai0crd.jpg
-  gridline2title: 'Je franchis le camp des fourches, le lieux est magique. '
+  gridline2title: 'Je franchis le camp des fourches, le lieu est magique. '
   gridline2content: 'Après un arrêt à Bousiéyas, je repars en direction du Col de
-    la Colombière puis St Dalmas le Selvage. Cailloux et pentes raides, on bien arrivé
-    dans les Alpes Maritimes. Je commence à ressentir des petites ampoules. Arrivé
-    à Roya, petit refuge atypique, je commande un Milkshake : Royal à Roya '
+    la Colombière puis St Dalmas le Selvage. Cailloux et pentes raides, je suis bien
+    arrivé dans les Alpes Maritimes. Je commence à ressentir des petites ampoules.
+    Arrivé à Roya, petit refuge atypique, je commande un Milkshake : Royal à Roya '
 - template: textarea
   title: Parlons peu, parlons bouffe
   content: |-
-    Sinon j'ai mangé quoi pendant cette traversé ?
+    Sinon j'ai mangé quoi pendant cette traversée ?
 
-    Et bien pas grand chose au final. Je portais avec moi des barres comme les Lions, des barres à la cacahuète, quelques pates de fruits. Après j'ai bu des litres et des litres de sodas. A ma pause midi, je prenais minium 3 canettes : Ice Tea, Orangina et parfois coca. Dès qu'il fait chaud, je rêve d'Orangina, je peux courir plus vite si je sais que je vais en boire... Ensuite généralement je mangeais un bon sandwich pour ma pause. Dès que j'arrivais au refuge, j'hésitais entre la bière et le thé, du coup je prenais les deux. Le soir je mangeais comme deux et je passais une bonne nuit.
+    Et bien pas grand-chose au final. Je portais avec moi des barres comme les Lions, des barres à la cacahuète, quelques pâtes de fruits. Après j'ai bu des litres et des litres de sodas. À ma pause midi, je prenais minium 3 canettes : Ice Tea, Orangina et parfois coca. Dès qu'il fait chaud, je rêve d'Orangina, je peux courir plus vite si je sais que je vais en boire... Ensuite généralement je mangeais un bon sandwich pour ma pause. Dès que j'arrivais au refuge, j'hésitais entre la bière et le thé, du coup je prenais les deux. Le soir je mangeais comme deux et je passais une bonne nuit.
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639738873/website/blog/Valmorel%20-%20Nice/IMG-20200709-WA0013_fnvsaw.jpg
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733484/website/blog/Valmorel%20-%20Nice/IMG_20200710_120200_t0e1mp.jpg
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639738873/website/blog/Valmorel%20-%20Nice/IMG-20200711-WA0020_bpcsru.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639738873/website/blog/Valmorel%20-%20Nice/IMG-20200709-WA0028_qboybz.jpg
   title: ''
+- template: textarea
+  title: Roya - St Dalmas Valdeblore
+  content: "Après une bonne nuit et après avoir discuté avec un belge me disant de
+    faire attention aux patous un peu plus loin, je repris ma petite route.  \nLa
+    1er montée était magnifique, je partais rejoindre le Col de Crousette. Je crois
+    1, puis 2, puis 3 patous. J'avais le cœur qui tapait fort, je ressentais un peu
+    de stress. Puis un patou à décider de me suivre pendant 30mn à 10cm de mes mollets
+    : Patou, pas touches à mes mollets. Arrivé en haut, je voyais ce Mont Mounier,
+    cette ambiance assez unique."
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733479/website/blog/Valmorel%20-%20Nice/IMG_20200712_090024_dadfq5.jpg
+  captiontitleuppercase: J'étais pressé d'arriver
+  title: Ma chérie et sa grand-mère m'attendait à Valdeblore
+  content: Les ampoules étaient pas jolies mais je n'y pensais pas. J'avais avec hâte
+    d'arriver, tout en savourant chaque mètres parcourus. Il faisais chaud, le parcours
+    ce jour là était plutôt roulant. Arrivé à St Sauveur sur Tinée, je me suis trempé
+    dans une fontaine tellement j'avais chaud. Je passais ensuite à Rimplas et ses
+    terres rouges. Puis j'arriverai pas le bas au village de Valdeblore. Heureux de
+    pouvoir voir ma chérie içi et de vivre se moment si fort. En plus, elle et sa
+    grand mère avait préparé le plus gros festin et le meilleur ravitaillement.
 tag: tag_name
 tags:
 - trail
