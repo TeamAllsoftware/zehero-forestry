@@ -124,6 +124,40 @@ page_sections:
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732891/website/blog/Valmorel%20-%20Nice/IMG_20200708_080500_ajocrc.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732891/website/blog/Valmorel%20-%20Nice/IMG_20200708_091605_hwnt6u.jpg
   title: ''
+- template: textarea
+  content: "Là j'entame une très belle et longue descente à Modane. C’est l’heure
+    de manger : sandwich au saumon, 1 coca et 1 orangina. Une fois repartis je vais
+    suivre maintenant ce balisage Rouge et Blanc. Me voilà sur le GR5. Je passe pas
+    très loin du mont Thabor, j'avoue avoir hésité à y aller mais ce n’était pas raisonnable.
+    Quelques marmottes, des chevaux sauvages, des taureaux avec des muscles plus imposant
+    que Schwarzenegger, des lacs, cette 1er étape est magique.\n\nArrivé à Névache,
+    une bonne douche (j’ai pris la serviette S de Decathlon, autant vous dire que
+    je m’essuie avec la taille d’un mouchoir) et ce soir raclette.  \n10h de course,
+    une journée bien remplie, pas de bobos mais de beaux souvenirs."
+  title: ''
+- template: 2colimgtxt
+  captiontitleuppercase: Névache - Ceillac
+  title: Aujourd’hui c’est une grosse journée, encore et oui.
+  content: Je pars vers 7h du matin, j’essaye de pas trop déjeuner sinon mon ventre
+    pas trop m’aimer. Je prends le picnique du refuge, sauf que c’est une salade.
+    Il fallait que j’arrive à la rentrer dans mon sac, pas évident. Le départ est
+    incroyable, le paysage est à couper le souffle. Je vais rejoindre une variante,
+    la GR5C afin de couper un peu et de prendre les crêtes de Peyrolles avant de basculer
+    sur Briançon.
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732890/website/blog/Valmorel%20-%20Nice/IMG_20200709_081846_awujiy.jpg
+- template: textarea
+  content: "Arriver dans cette jolie ville, j’ai vraiment soif. Je sais que j’ai un
+    problème avec l’orangina et que je peux en boire 2l d’une traite. Du coup j’ai
+    3 canettes de sodas… Ca ballotte un peu dès que je me remet en marche. Après le
+    Col des Ayes, je passe Arvieux, je remplis mes flasques, et je me dirige à Château
+    Queyras. Il me reste encore quelques kilomètres. Je subis mon 1e coup de pas bien,
+    petite hypo sympathique. Je suis même en retard pour le repas du refuge, je dois
+    me dépêcher. Finalement, le dernier petit sentier est magique et la foulée revient
+    naturellement.\n\nJ’arrive à temps pour la soupe, une bière, je vais bien dormir.
+    \ \n68km, 3700D+ et 10h40 de course. Demain on réduit un peu, ça me fera du bien."
+  title: ''
 tag: tag_name
+tags: []
+published: false
 
 ---
