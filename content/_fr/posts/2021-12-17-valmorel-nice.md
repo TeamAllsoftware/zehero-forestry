@@ -227,6 +227,12 @@ page_sections:
     terres rouges. Puis j'arriverai pas le bas au village de Valdeblore. Heureux de
     pouvoir voir ma chérie içi et de vivre se moment si fort. En plus, elle et sa
     grand mère avait préparé le plus gros festin et le meilleur ravitaillement.
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733478/website/blog/Valmorel%20-%20Nice/IMG_20200712_092743_h5kar6.jpg
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733479/website/blog/Valmorel%20-%20Nice/IMG_20200712_101431_s4rdkj.jpg
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733478/website/blog/Valmorel%20-%20Nice/IMG_20200712_145857_fojbhf.jpg
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733478/website/blog/Valmorel%20-%20Nice/IMG_20200712_191029_ybmgfz.jpg
+  title: ''
 tag: tag_name
 tags:
 - trail
