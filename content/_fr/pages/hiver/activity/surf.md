@@ -1,17 +1,16 @@
 ---
 layout: page_activity
-permalink: /fr/hiver/activite/surf
-
+permalink: "/fr/hiver/activite/surf"
 language: fr
 season: winter
 topnav_color_text: dark
-
 title: Surf
-description: Du surf et des activités aquatiques en eaux froides durant la saison d'hiver est une activité incroyable à réaliser pour se dépasser et vivre une émotion forte. 
+description: Du surf et des activités aquatiques en eaux froides durant la saison
+  d'hiver est une activité incroyable à réaliser pour se dépasser et vivre une émotion
+  forte.
 baseline: Mindfulness, combi épaisse et eau froide
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639426220/website/winter/johannes-hohls-icTz0MbkRVU-unsplash_mgpi0a.jpg
 image01_alt: Du surf en eau froide durant l'hiver
-
 page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,h_545/c_crop,g_north,h_545,w_475/v1638822010/website/winter/Hero-montagne_m8cx1r.webp
@@ -145,5 +144,6 @@ page_sections:
   title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
     des stations
 topnav_text_color: light
+engage: ''
 
 ---
