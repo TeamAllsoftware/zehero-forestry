@@ -97,6 +97,19 @@ fields:
   description: top navigation menu text color must be white or black ? depends on
     the background image tone (dark or light) or color (dark or light). If background
     is dark and you want a white text select "dark"
+- name: tag
+  type: select
+  default: ''
+  config:
+    required: true
+    options: []
+    source:
+      type: documents
+      section: tags-blog
+      file: _data/tag.yml
+      path: 
+  label: Tag
+  description: Add 3 tags to each post
 - name: page_sections
   type: blocks
   label: Page Sections
