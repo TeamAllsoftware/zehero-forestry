@@ -220,12 +220,12 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733479/website/blog/Valmorel%20-%20Nice/IMG_20200712_090024_dadfq5.jpg
   captiontitleuppercase: J'étais pressé d'arriver
   title: Ma chérie et sa grand-mère m'attendait à Valdeblore
-  content: "Les ampoules étaient pas jolies mais je n'y pensais pas. J'avais avec
+  content: "Les ampoules n'étaient pas jolies mais je n'y pensais pas. J'avais avec
     hâte d'arriver, tout en savourant chaque mètres parcourus. Il faisais chaud, le
     parcours ce jour là était plutôt roulant. Arrivé à St Sauveur sur Tinée, je me
     suis trempé dans une fontaine tellement j'avais chaud. Je passais ensuite à Rimplas
     et ses terres rouges. Puis j'arriverai pas le bas au village de Valdeblore. Heureux
-    de pouvoir voir ma chérie içi et de vivre se moment si fort. En plus, elle et
+    de pouvoir voir ma chérie ici et de vivre se moment si fort. En plus, elle et
     sa grand mère avait préparé le plus gros festin et le meilleur ravitaillement.
     \ \nUne journée de 42km et 2200 D+"
 - template: imagegallery02
