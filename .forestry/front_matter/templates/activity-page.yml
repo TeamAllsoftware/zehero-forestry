@@ -5,6 +5,10 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: page_activity
+  config:
+    required: true
+  hidden: true
 - type: text
   name: permalink
   label: permalink
@@ -17,40 +21,36 @@ fields:
 - type: text
   name: topnav_color_text
   label: topnav_color_text
+  config:
+    required: true
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: textarea
   name: description
   label: description
+  config:
+    required: true
+  description: Description mandatory for SEO
 - type: text
   name: baseline
   label: baseline
+  description: 3 or 4 words to summarize quickly
+  config:
+    required: true
 - type: text
   name: engage
   label: engage
+  config:
+    required: true
+    max: 60
+    min: 40
+  description: Min 40 charcters and Max 60 characters
 - type: file
   name: image01_href
   label: image01_href
 - type: text
   name: image01_alt
   label: image01_alt
-- type: field_group_list
-  name: page_sections
-  label: page_sections
-  fields:
-  - type: text
-    name: template
-    label: template
-  - type: file
-    name: image_col_left_href
-    label: image_col_left_href
-  - type: text
-    name: title
-    label: title
-  - type: textarea
-    name: content
-    label: content
-  - type: text
-    name: captiontitleuppercase
-    label: captiontitleuppercase
