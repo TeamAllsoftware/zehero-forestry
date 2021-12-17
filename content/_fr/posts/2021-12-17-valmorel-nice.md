@@ -156,7 +156,34 @@ page_sections:
     naturellement.\n\nJ’arrive à temps pour la soupe, une bière, je vais bien dormir.
     \ \n68km, 3700D+ et 10h40 de course. Demain on réduit un peu, ça me fera du bien."
   title: ''
+- template: 3coltxtimgtxt
+  captionleftcontent: Ceillac - Larche
+  captionrighttitle: Une journée plus courte avec 40km et 2200 D+
+  captionrightcontent: 'Ce matin, je ressens un peu les jambes lourdes. Mais le début
+    de cette journée est magique. Je démarre par une montée dans la forêt qui longe
+    une rivière afin de rejoindre un lac. C''est assez féérique, la nature me révèle
+    sa beauté et me séduit. '
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1639735631/website/blog/Valmorel%20-%20Nice/IMG_20200710_083157_cw3pwk.jpg
+- template: textarea
+  content: J'arrive ensuite au lac miroir puis au lac St Anne. Le Queyras est incroyable,
+    c'est un mélange des Alpes du Nord et du Sud. Il est verdoyant et minéral, j'avoue
+    avoir eu petit coup de cœur pour ce lieux.  Au col Girardin je prend une pause,
+    je suis émue car les émotions sont fortes. Je suis là, je suis içi, courir c'est
+    profiter de l'instant présent et le vivre pleinement.
+  title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733484/website/blog/Valmorel%20-%20Nice/IMG_20200710_092042_e54iuk.jpg
+  captiontitleuppercase: Emotion et plaisir
+  title: Marche jusqu'à Larche
+  content: "J'en suis à la moitié, et j'entame la descente en passant à travers un
+    imposant troupeau de mouton. J'ai toujours peur qu'un Patou n'apprécie guère ma
+    foulée à cotés de lui. Après une mauvaise expérience en Bolivie, j'ai toujours
+    une crainte quand je cours prêt des chien. En tout cas, j'avance correctement
+    et facilement jusqu'à Larche en passant par le Col de Mallemort.   \n6h30 de course,
+    j'ai le temps de mettre dans le hamac et de profiter de la fin de journée avant
+    le meilleur repas de ma semaine en refuge."
 tag: tag_name
 tags: []
+published: false
 
 ---
