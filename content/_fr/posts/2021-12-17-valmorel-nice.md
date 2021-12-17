@@ -14,12 +14,12 @@ page_sections:
 - template: textarea
   title: Pourquoi est né ce projet ?
   content: "L’année 2020 fut une épreuve pour tout le monde. Nous avons tous vécu
-    une période particulière. Qu'elle se soit bien passé ou non, elle aura impacté
+    une période particulière. Qu’elle se soit bien passée ou non, elle aura impacté
     notre quotidien et notre esprit. Traileur et compétiteur, il n’y avait plus aucun
     événement possible en France. Comment garder la motivation de s’entraîner ? Où
     trouver des objectifs ?\n\nDepuis quelque temps, je voulais faire un projet perso
     qui dure quelques jours. Une aventure, une traversée, une boucle, je ne savais
-    pas encore quoi, mais je savais que je voulais courir, courir longtemps.  \nMa
+    pas encore quoi, mais je savais que je voulais courir, courir longtemps.\n\nMa
     chérie est à Antibes et moi à Valmorel, souvent les week-ends, je prenais la voiture
     pour aller la voir. Je prenais généralement la route de Napoléon, je voyais ces
     montagnes au loin et c’était magnifique. Puis un jour, je me suis rappelé que
@@ -40,10 +40,10 @@ page_sections:
     il y a un aspect d’organisation important. Déjà deux questions :\n\n* Je le fais
     en autonomie complète ?\n* Je le fais en semi-autonomie ?\n\nEn gros, soit je
     partais avec ma tente et mon réchaud, soit je faisais des étapes et je dormais
-    dans des refuges le soir. Ce qui me permettait de profiter de courir en journées.
-    \ \nChoix pas évident, car pour le 1er, l’avantage, c'est qu’on s’arrête dormir
-    quand on veut et où on veut. Le 2ᵉ choix, l’avantage, c'est que j’ai un lit, un
-    bon repas chaud et surtout un sac très léger…"
+    dans des refuges le soir. Ce qui me permettait de courir en journée.  \nChoix
+    pas évident, car pour le 1er, l’avantage, c'est qu’on s’arrête dormir quand on
+    veut et où on veut. Le 2ᵉ choix, l’avantage, c'est que j’ai un lit, un bon repas
+    chaud et surtout un sac très léger…"
 - template: textarea
   content: "Le trajet, c'est en gros 360 km et 20 000 de dénivelé positif. Si je partais
     avec ma tente, il me fallait du matériel adapté : sac, tente ultra-light, duvet,
@@ -59,7 +59,7 @@ page_sections:
     l’aide de personnes qui ont déjà fait le GR5 (vive internet). J’ai décidé de commencer
     par des grosses étapes, d’avoir quelques étapes courtes, puis une dernière étape
     longue. Finalement, tous mes stops se trouvent dans des spots magiques. Je finis
-    alors par réserver tous mes refuges et c’est une bonne chose de faîte."
+    alors par réserver tous mes refuges et c’est une bonne chose de faite."
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732892/website/blog/Valmorel%20-%20Nice/IMG_20200706_144212_aisyx0.jpg
@@ -83,8 +83,8 @@ page_sections:
   - Kway ultra light et coupe vent
   title: ''
 - template: textarea
-  content: Tout ce contenant, je l’ai mis dans un sac de compression étanche. J’ai
-    rentré tout ça dans un sac de 12L, le modèle Eklipse de la marque Instinct Trail.
+  content: Tout cela, je l’ai mis dans un sac de compression étanche. J’ai rentré
+    ensuite le tout dans un sac de 12L, le modèle Eklipse de la marque Instinct Trail.
     C’était comme une petite maison sur le dos.
   title: ''
 - template: parlaxgridtxtimg
@@ -95,7 +95,7 @@ page_sections:
     du Village La Charmette pour rejoindre Valmorel, dire au revoir à mon père. Un
     copain décide de nous accompagner une petite heure, jusqu’au col du Gollet. Merci
     Tom !
-  gridline1content: 'A partir de là, le but est de rejoindre Méribel Mottaret : 32km
+  gridline1content: 'À partir de là, le but est de rejoindre Méribel Mottaret : 32km
     et 2300D+. Il fait beau et chaud, on en profite pour parler, prendre quelques
     photos. On tombe sur une biche énorme, un joli taureau, j’ai le sourire, je me
     dis que c’est un début parfait à cette traversée. '
