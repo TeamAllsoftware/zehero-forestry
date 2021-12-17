@@ -198,7 +198,22 @@ page_sections:
     la Colombière puis St Dalmas le Selvage. Cailloux et pentes raides, on bien arrivé
     dans les Alpes Maritimes. Je commence à ressentir des petites ampoules. Arrivé
     à Roya, petit refuge atypique, je commande un Milkshake : Royal à Roya '
+- template: textarea
+  title: Parlons peu, parlons bouffe
+  content: |-
+    Sinon j'ai mangé quoi pendant cette traversé ?
+
+    Et bien pas grand chose au final. Je portais avec moi des barres comme les Lions, des barres à la cacahuète, quelques pates de fruits. Après j'ai bu des litres et des litres de sodas. A ma pause midi, je prenais minium 3 canettes : Ice Tea, Orangina et parfois coca. Dès qu'il fait chaud, je rêve d'Orangina, je peux courir plus vite si je sais que je vais en boire... Ensuite généralement je mangeais un bon sandwich pour ma pause. Dès que j'arrivais au refuge, j'hésitais entre la bière et le thé, du coup je prenais les deux. Le soir je mangeais comme deux et je passais une bonne nuit.
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639738873/website/blog/Valmorel%20-%20Nice/IMG-20200709-WA0013_fnvsaw.jpg
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733484/website/blog/Valmorel%20-%20Nice/IMG_20200710_120200_t0e1mp.jpg
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639738873/website/blog/Valmorel%20-%20Nice/IMG-20200711-WA0020_bpcsru.jpg
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639738873/website/blog/Valmorel%20-%20Nice/IMG-20200709-WA0028_qboybz.jpg
+  title: ''
 tag: tag_name
-tags: []
+tags:
+- trail
+- ballade
+- en solo
 
 ---
