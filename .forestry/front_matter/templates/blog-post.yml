@@ -111,26 +111,6 @@ fields:
   config:
     min: 
     max: 
-- name: tags
-  type: tag_list
-  default:
-  - entraînement
-  - trail
-  - compétition
-  - ski
-  - ski de randonnée
-  - surf
-  - raquettes
-  - snowboard
-  - entre amis
-  - en famille
-  - en solo
-  - vélo
-  - parapente
-  - canyoning
-  - escalade
-  label: Tags
-  description: Add 3 tags
 pages:
 - content/_fr/posts/2021-11-15-quel-materiel-de-ski-de-randonnee-pour-debuter.md
 - content/_fr/posts/2021-12-08-ski-de-randonnee-en-isere.md
