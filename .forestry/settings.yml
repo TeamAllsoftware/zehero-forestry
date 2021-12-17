@@ -5,9 +5,6 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: _data/tag.yml
-  label: Tags (blog)
-- type: document
   path: readme-editor.md
   label: Help
   read_only: true
