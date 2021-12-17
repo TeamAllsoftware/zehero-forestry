@@ -24,9 +24,9 @@
 
         <!-- HTML Meta Tags -->
         {% if page.layout == "blog_post" %}
-        <title>{{ page.post-title | liquify }}</title>
+        <title>{{ page.post-title | liquify }} - {{ site.title }}</title>
         {% else %}
-        <title>{{ page.title | liquify }}</title>
+        <title>{{ page.title | liquify }} - {{ site.title }</title>
         {% endif %}
         <meta name="description" content="{{ page.description }}">
 
@@ -41,14 +41,14 @@
         <meta property="og:type" content="website">
 
         {% if page.layout == "blog_post" %}
-        <meta property="og:title" content="{{ page.post-title | liquify }}">
+        <meta property="og:title" content="{{ page.post-title | liquify }} - {{ site.title }">
         {% else %}
-        <meta property="og:title" content="{{ page.title | liquify }}">
+        <meta property="og:title" content="{{ page.title | liquify }} - {{ site.title }">
         {% endif %}
 
         <meta property="og:description" content="{{ page.description  | truncate: 155 }}">
 
-        <meta property="og:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | replace: '/', '%2F' | replace: ':', '%3A' }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}{% if page.layout != 'blog_post' %}/{% endif %}opengraph/">
+        <meta property="og:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | replace: '/', '%2F' | replace: ':', '%3A' }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}/opengraph/">
 
 
         {% if page.author != nil %}
@@ -63,15 +63,15 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta property="twitter:domain" content="{{ site.url }}/{{ page.language }}/">
         <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
-        <meta name="twitter:title" content="{{ page.title }}">
+        
         {% if page.layout == "blog_post" %}
-        <meta name="twitter:title" content="{{ page.post-title | liquify }}">
+        <meta name="twitter:title" content="{{ page.post-title | liquify }} - {{ site.title }">
         {% else %}
-        <meta name="twitter:title" content="{{ page.title | liquify }}">
+        <meta name="twitter:title" content="{{ page.title | liquify }} - {{ site.title }">
         {% endif %}
 
         <meta name="twitter:description" content="{{ page.description  | truncate: 155 }}">
-        <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | replace: '/', '%2F' | replace: ':', '%3A' }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}{% if page.layout != 'blog_post' %}/{% endif %}opengraph/">
+        <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | replace: '/', '%2F' | replace: ':', '%3A' }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}/opengraph/">
 <!-- END OPEN GRAPH -->
 
 
