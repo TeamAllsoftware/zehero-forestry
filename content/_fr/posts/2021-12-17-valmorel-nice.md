@@ -1,0 +1,112 @@
+---
+layout: blog_post
+language: fr
+season: summer
+author: yannalarcon
+topnav_color_text: light
+title: 2021-12-17-valmorel-nice
+post-title: Valmorel - Nice, une traversée vers une nouvelle vie
+description: Partir de Valmorel et réjoindre en courant Nice par le GR5. Récit d'une
+  aventure en montagne.
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639653283/website/blog/Mad%C3%A8re/GOPR0108_ALTA1642458316780515_1_-min_nu1crr.jpg
+image01_alt: Couse à pied, montagne et lac
+page_sections:
+- template: textarea
+  title: Pourquoi est né ce projet ?
+  content: "L’année 2020 fut une épreuve pour tout le monde. Nous avons tous vécu
+    une période particulière. Qu'elle se soit bien passé ou non, elle aura impacté
+    notre quotidien et notre esprit. Traileur et compétiteur, il n’y avait plus aucun
+    événement possible en France. Comment garder la motivation de s’entraîner ? Où
+    trouver des objectifs ?\n\nDepuis quelque temps, je voulais faire un projet perso
+    qui dure quelques jours. Une aventure, une traversée, une boucle, je ne savais
+    pas encore quoi, mais je savais que je voulais courir, courir longtemps.  \nMa
+    chérie est à Antibes et moi à Valmorel, souvent les week-ends, je prenais la voiture
+    pour aller la voir. Je prenais généralement la route de Napoléon, je voyais ces
+    montagnes au loin et c’était magnifique. Puis un jour, je me suis rappelé que
+    le GR5 arrivait à Nice. Je savais qu’il ne passait pas très loin de Valmorel aussi.
+    L’idée fleurissait doucement.  \nLe jour du confinement, j'étais descendu à Antibes,
+    je savais que j’allais déménager et vivre dans le Sud prêt de la mer. C’était
+    une nouvelle page pour moi, une nouvelle vie. J’ai eu l’idée alors de venir en
+    courant de Valmorel-Nice. C’était symbolique, c’était pour moi ma façon de venir
+    de la plus belle des manières dans ma nouvelle maison, ma nouvelle vie. C’était
+    ma démarche romantique, mon aventure, mon chemin qui mène à l'amour. L’amour des
+    lieux où j’ai grandi, l’amour des montagnes, l’amour du trail, l’amour de ma chérie
+    et l’amour de ma nouvelle maison."
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638805924/website/summer/annie-spratt-kZO9xqmO_TA-unsplash_f7k1i3.jpg
+  captiontitleuppercase: Comment je vais faire cette traversée ?
+  title: Autonomie ou semi-autonomie ?
+  content: "Bon c’est sympa comme projet, mais comment on organise cela ? Outre l’entraînement,
+    il y a un aspect d’organisation important. Déjà deux questions :\n\n* Je le fais
+    en autonomie complète ?\n* Je le fais en semi-autonomie ?\n\nEn gros, soit je
+    partais avec ma tente et mon réchaud, soit je faisais des étapes et je dormais
+    dans des refuges le soir. Ce qui me permettait de profiter de courir en journées.
+    \ \nChoix pas évident, car pour le 1er, l’avantage, c'est qu’on s’arrête dormir
+    quand on veut et où on veut. Le 2ᵉ choix, l’avantage, c'est que j’ai un lit, un
+    bon repas chaud et surtout un sac très léger…"
+- template: textarea
+  content: "Le trajet, c'est en gros 360 km et 20 000 de dénivelé positif. Si je partais
+    avec ma tente, il me fallait du matériel adapté : sac, tente ultra-light, duvet,
+    réchaud…  \nFinalement, j’arrivais avec un poids de sac presque à 10kg. Si je
+    dormais dans les refuges, j’avais un sac de 5kg donc vraiment plus léger.  \nJ’ai
+    opté pour la traversée option confort. Cela me permettait d’une certaine manière
+    d’avoir des journées moins longues et de bien dormir. C’était aussi sympa de se
+    retrouver dans un refuge et rencontrer des promeneurs. L’idée d’être 100% autonome
+    me séduisait plus, mais j’ai opté pour le sac léger.\n\nJ'aurais sûrement mis
+    moins de jours si je n’avais pas dormi en refuge, mais j’ai ainsi découpé mon
+    trajet en 7 jours (assez drôle, car en voiture en passant par la Nationale je
+    mettais environ 7 heures).  \nJ’essaye alors de découper au mieux les étapes avec
+    l’aide de personnes qui ont déjà fait le GR5 (vive internet). J’ai décidé de commencer
+    par des grosses étapes, d’avoir quelques étapes courtes, puis une dernière étape
+    longue. Finalement, tous mes stops se trouvent dans des spots magiques. Je finis
+    alors par réserver tous mes refuges et c’est une bonne chose de faîte."
+  title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732892/website/blog/Valmorel%20-%20Nice/IMG_20200706_144212_aisyx0.jpg
+  captiontitleuppercase: Mon petit baluchon
+  title: Mais que prendre dans ce petit sac ?
+  content: |-
+    Que prendre quand on part pour courir 7 jours en montagne sachant que je dors en refuge ? Je ne veux pas que mon sac excède les 8kg, il faut donc se limiter au strict nécessaire.
+
+    Voilà ce qu’il y avait dans mon sac :
+- template: liststyle01
+  item:
+  - Tongs
+  - Sac à viande
+  - Chargeur téléphone / montre et frontale
+  - 3 flasques eau / Barres énergétiques
+  - Trousse de soin / Micro serviette / Frontale
+  - 1 doudoune light
+  - 1 survêtement ultra light / 1 pantalon de pluie
+  - 4 paires de chaussettes
+  - 1 Tshirt / 1 Short / 1 manche longue
+  - Kway ultra light et coupe vent
+  title: ''
+- template: textarea
+  content: Tout ce contenant, je l’ai mis dans un sac de compression étanche. J’ai
+    rentré tout ça dans un sac de 12L, le modèle Eklipse de la marque Instinct Trail.
+    C’était comme une petite maison sur le dos.
+  title: ''
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0014_d4zlv9.jpg
+  captionabovetitle: 'Valmorel - Méribel '
+  title: On quitte la maison
+  gridline1title: Il est 9h du matin, mon frère et moi partons de chez nous. On sort
+    du Village La Charmette pour rejoindre Valmorel, dire au revoir à mon père. Un
+    copain décide de nous accompagner une petite heure, jusqu’au col du Gollet. Merci
+    Tom !
+  gridline1content: 'A partir de là, le but est de rejoindre Méribel Mottaret : 32km
+    et 2300D+. Il fait beau et chaud, on en profite pour parler, prendre quelques
+    photos. On tombe sur une biche énorme, un joli taureau, j’ai le sourire, je me
+    dis que c’est un début parfait à cette traversée. '
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0018_hx9pdz.jpg
+  gridline2title: Quel plaisir de courir sur cette longue crête de “Roc de Fer” jusqu’à
+    “Le Verdet” avant de plonger sur la station de Mottaret.
+  gridline2content: Après 5h de balade, on retrouve ma mère qui nous attend en bas.
+    Ce soir je dors chez une amie à ma mère, c’est le luxe. Demain à 5h je me lève
+    pour une très grosse étape. Ça me fait bizarre de me dire que je vais passer de
+    Méribel à Névache.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0084_hgnwbh.jpg
+published: false
+
+---
