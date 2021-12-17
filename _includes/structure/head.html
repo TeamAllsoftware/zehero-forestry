@@ -26,7 +26,7 @@
         {% if page.layout == "blog_post" %}
         <title>{{ page.post-title | liquify }} - {{ site.title }}</title>
         {% else %}
-        <title>{{ page.title | liquify }} - {{ site.title }</title>
+        <title>{{ page.title | liquify }} - {{ site.title }}</title>
         {% endif %}
         <meta name="description" content="{{ page.description }}">
 
@@ -41,9 +41,9 @@
         <meta property="og:type" content="website">
 
         {% if page.layout == "blog_post" %}
-        <meta property="og:title" content="{{ page.post-title | liquify }} - {{ site.title }">
+        <meta property="og:title" content="{{ page.post-title | liquify }} - {{ site.title }}">
         {% else %}
-        <meta property="og:title" content="{{ page.title | liquify }} - {{ site.title }">
+        <meta property="og:title" content="{{ page.title | liquify }} - {{ site.title }}">
         {% endif %}
 
         <meta property="og:description" content="{{ page.description  | truncate: 155 }}">
@@ -65,9 +65,9 @@
         <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
         
         {% if page.layout == "blog_post" %}
-        <meta name="twitter:title" content="{{ page.post-title | liquify }} - {{ site.title }">
+        <meta name="twitter:title" content="{{ page.post-title | liquify }} - {{ site.title }}">
         {% else %}
-        <meta name="twitter:title" content="{{ page.title | liquify }} - {{ site.title }">
+        <meta name="twitter:title" content="{{ page.title | liquify }} - {{ site.title }}">
         {% endif %}
 
         <meta name="twitter:description" content="{{ page.description  | truncate: 155 }}">
