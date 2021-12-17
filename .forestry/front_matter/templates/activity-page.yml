@@ -37,18 +37,17 @@ fields:
       file: 
       path: 
   label: season
-- type: text
-  name: title
-  label: URL for this post
-  config:
-    required: true
-  description: 'Must be at this format : YYYY-MM-DD-title-of-the-article<br>Use the
-    "dash" separator'
-- name: post-title
+- name: title
   type: text
   config:
     required: true
   label: Title
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: URL for this page
+  description: 'Page url''s are on this model : "/fr/hiver/activite/ski-de-randonnee"'
 - type: text
   name: description
   label: description
