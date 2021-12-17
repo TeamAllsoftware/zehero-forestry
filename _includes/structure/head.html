@@ -18,7 +18,9 @@
         <link rel="stylesheet" type="text/css" href="/css/responsive.css" />
 
         <!-- start OPEN GRAPH -->
+        {% if page.tags %}
         <meta name="keywords" content="{{ page.tags | sort | join: ', ' }} outdoor, aventure, activité, France, émotion, partage, dépassement de soi">
+        {% endif %}
 
         <!-- HTML Meta Tags -->
         {% if page.layout == "blog_post" %}
@@ -46,7 +48,7 @@
 
         <meta property="og:description" content="{{ page.description  | truncate: 155 }}">
 
-        <meta property="og:image" content="https://screenshot-zehero.netlify.app/{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}/opengraph/">
+        <meta property="og:image" content="https://screenshot-zehero.netlify.app/{{ site.url }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}{% if page.layout != 'blog_post' %}/{% endif %}opengraph/">
 
 
         {% if page.author != nil %}
@@ -69,7 +71,7 @@
         {% endif %}
 
         <meta name="twitter:description" content="{{ page.description  | truncate: 155 }}">
-        <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}/opengraph/">
+        <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.url }}{{ page.url | replace: '/', '%2F' | replace: ':', '%3A' }}{% if page.layout != 'blog_post' %}/{% endif %}opengraph/">
 <!-- END OPEN GRAPH -->
 
 
