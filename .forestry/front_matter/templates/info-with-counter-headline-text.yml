@@ -3,16 +3,11 @@ label: Info with counter + headline + text
 hide_body: true
 fields:
 - name: counter
-  type: number
-  label: counter
-  description: ''
-  default: 0
-  required: true
+  type: text
   config:
-    min: 
-    max: 
-    step: 0
     required: true
+  label: counter
+  description: Add number
 - name: text_refers_to_counter
   type: text
   config:
