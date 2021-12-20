@@ -45,17 +45,17 @@ page_sections:
   captionrightcontent: 'Le snowboard n''est pas plus dur que le ski. Ses débuts ne
     sont pas évidents mais ensuite la progression va plus vite qu''en ski. '
 - template: textarea
-  content: "Tout comme le ski, le snowboard c'est physique et cette discipline demande
-    donc une bonne condition physique.   \nOn retrouve de l'agilité, du gainage, de
-    la force et de l'explosivité sur les cuisses. Mais il faut également être souple.
-    Vous ne travaillerez pas les mêmes postures, les mêmes gestes qu'en ski. Vous
-    ne travaillerez pas également les groupes musculaires en snowboard qu'en ski,
-    ce qui explique parfois qu'une pratique est plus dure alors qu'on est confirmé
-    dans l'autre.\n\nAutre différence avec le ski, ce sont les chaussures. En snowboard
-    vous aurez des boots à vos pieds. Elles seront beaucoup plus conforts et elles
-    vous permettront de marcher beaucoup plus facilement.  \nCes boots sont donc fixées
-    sur la planche grâce aux fixations. Il y en existe plusieurs types en fonction
-    également des marques."
+  content: "Le snowboard, à la différence du ski, necessite des boots pour sa pratique.
+    Elles sont beaucoup plus confortables et vous pouvez alors marchez plus facilement
+    avec. Afin de pouvoir rider et être maintenu sur la planche, les boots seront
+    fixées aux fixations du snowboard. Vous trouverez aujourd'hui différentes types
+    de fixation et aussi différentes en fonction des marques.  \n  \nLe snowboard
+    est un sport physique et il demande d'avoir une bonne condition musculaire. En
+    effet, il faudra avoir sur votre planche de la souplesse, de l'agilité, de l'impulsivité.
+    Mais également un bon renforcement musculaire au niveau des jambes, des abdominaux
+    et des lombaires.  \nLe ski et le snowboard n'utilisent pas les mêmes groupes
+    musculaires, les mêmes gestes, les mêmes techniques. C'est pour cela que vous
+    pouvez être à l'aise sur un snowboard et trouver le ski dur physiquement."
   title: ''
 topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
