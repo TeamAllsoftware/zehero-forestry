@@ -46,6 +46,5 @@ page_sections:
     sont pas évidents mais ensuite la progression va plus vite qu''en ski. '
 topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
-published: false
 
 ---
