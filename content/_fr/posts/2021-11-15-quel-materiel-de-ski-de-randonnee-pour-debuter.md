@@ -22,5 +22,8 @@ page_sections:
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Ski-masque-equipement_jppdrj.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Ski-vue-montagne-brouillard_xcslih.jpg
   title: ''
-
+tags:
+- ski de randonnée
+- conseil
+- matériel
 ---

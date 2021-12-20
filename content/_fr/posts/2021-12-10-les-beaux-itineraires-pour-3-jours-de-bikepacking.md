@@ -29,5 +29,9 @@ page_sections:
 
     Quoiqu'il en soit c'est toujours une histoire humaine à partager entre amis ou avec soi même
   title: ''
+tags:
+- ballade
+- enntre amis
+- bikepacking
 
 ---

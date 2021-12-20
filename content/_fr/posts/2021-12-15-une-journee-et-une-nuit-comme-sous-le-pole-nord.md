@@ -15,5 +15,8 @@ page_sections:
 - template: textarea
   content: Construire un igloo pour un bivouac polaire.
   title: ''
-
+tags:
+- ballade
+- en famille
+- igloo
 ---
