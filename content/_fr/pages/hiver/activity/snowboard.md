@@ -21,10 +21,11 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Snowboard-rider-debout_oecizy.jpg
   captiontitleuppercase: Les pratiques du snowboard
   title: Mets ton casque, c'est parti
-  content: "Le snowboard présente plusieurs disciplines qu'on retrouve par exemple
-    au Jeux Olympiques :\n\nHalf Pipe  \nSlopestyle  \nBordercross  \nSlalom  \nFreeride\n\nOutre
-    ces disciplines, on va donc pratiquer le snowboard et pouvoir carver sur les pistes,
-    faire quelques jumps et slider quelques rails ainsi que flotter en hors-piste."
+  content: 'Le snowboard présente plusieurs disciplines qu''on retrouve par exemple
+    au Jeux Olympiques : Half Pipe // Slopestyle // Bordercross // Slalom //Freeride.
+    Outre ces disciplines, on va donc pratiquer le snowboard et pouvoir carver sur
+    les pistes, faire quelques jumps et slider quelques rails ainsi que flotter en
+    hors-piste.'
 - template: liststyle01
   title: Dans quel sens ?
   item:
@@ -37,6 +38,12 @@ page_sections:
     sens en ski, on se retrouve en arrière. En snowboard, rider en switch c'est donc
     changer de Goofy à Regular ou inversement."
   title: ''
+- template: 3coltxtimgtxt
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883542/website/winter/Snowboard-saut-neige_t0coxa.jpg
+  captionleftcontent: La pratique du snowboard est très différente du ski
+  captionrighttitle: Le snowboardeur est un rider
+  captionrightcontent: 'Le snowboard n''est pas plus dur que le ski. Ses débuts ne
+    sont pas évidents mais ensuite la progression va plus vite qu''en ski. '
 topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
 
