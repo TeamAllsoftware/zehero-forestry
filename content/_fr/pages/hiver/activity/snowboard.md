@@ -57,13 +57,24 @@ page_sections:
     musculaires, les mêmes gestes, les mêmes techniques. C'est pour cela que vous
     pouvez être à l'aise sur un snowboard et trouver le ski dur physiquement."
   title: ''
-- template: imagegallery02
-  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Snowboard-descente-poudreuse_xp9cqv.jpg
-  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-vue-montagne_obfzrf.jpg
-  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Snowboard-freestyle-ride_luennl.jpg
-  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Snowboard-epaules_kjtsms.jpg
-  title: ''
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Snowboard-descente-poudreuse_xp9cqv.jpg
+  captionabovetitle: On a l'impression de flotter en poudreuse avec un snowboatd
+  title: Le snowboard, c'est une activité pour tous
+  gridline1content: Burton, Rome, Bataleon, Salomon, Ride et bien d'autres, ont fait
+    évolués le snowboard aujourd'hui pour offrir des planches exceptionnelles. Il
+    existe aujourd'hui une multitude de snowboard pour tous les styles. Elles sont
+    toutes performantes aux technologies avancées.
+  gridline1title: L'avancé du snowboard
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Snowboard-freestyle-ride_luennl.jpg
+  gridline2title: Soyez votre propre rider, soyez votre héro
+  gridline2content: N'ayez pas peur des débuts parfois difficile du snowboard. Vous
+    pourrez ensuite progresser et jouer avec votre planche là où vous vous sentirez
+    à l'aise. Que ce soit sur la piste, dans les snowparks ou dans les hors-pistes,
+    le snowboard n'attend que vous.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-duo-marche_vgtw6n.jpg
 topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
+published: false
 
 ---
