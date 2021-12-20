@@ -12,9 +12,32 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/webs
 image01_alt: Snowboard dans les domaines de Savoie
 page_sections:
 - template: textarea
-  content: snow
+  content: "Il se pratique sur une planche à neige appelé donc snowboard. C'est un
+    mélange du skate, du surf et du ski. Contrairement au ski, vous avez les 2 pieds
+    fixés sur la même planche.   \nCette planche présente des carres tout le long
+    du snowboard, que ce soit sur le coté droit ou gauche."
+  title: Le Snowboard
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Snowboard-rider-debout_oecizy.jpg
+  captiontitleuppercase: Les pratiques du snowboard
+  title: Mets ton casque, c'est parti
+  content: "Le snowboard présente plusieurs disciplines qu'on retrouve par exemple
+    au Jeux Olympiques :\n\nHalf Pipe  \nSlopestyle  \nBordercross  \nSlalom  \nFreeride\n\nOutre
+    ces disciplines, on va donc pratiquer le snowboard et pouvoir carver sur les pistes,
+    faire quelques jumps et slider quelques rails ainsi que flotter en hors-piste."
+- template: liststyle01
+  title: Dans quel sens ?
+  item:
+  - Regular
+  - Goofy
+- template: textarea
+  content: "Le snowboard présente donc deux sens en fonction de votre pied avant sur
+    la planche.   \nSi votre pied avant est le droit alors vous êtes Goofy.  \nSi
+    votre pied avant est le gauche alors vous êtes Régular.\n\nLorsqu'on change de
+    sens en ski, on se retrouve en arrière. En snowboard, rider en switch c'est donc
+    changer de Goofy à Regular ou inversement."
   title: ''
 topnav_text_color: light
-engage: gggggggggggggggggggggggggggggggggggggggggggggggg
+engage: Apprenez tous les secrets du snowboard et de son style
 
 ---
