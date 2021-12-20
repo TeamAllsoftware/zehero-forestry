@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+{% assign resort = site.data.content.resort.[page.resort_nameid] %}
+{% assign zehero = site.data.config.zehero %}
+
+{% include elements/generic_variables.html %}
+
+<!-- start page title -->
+<section id="about" class="overlap-height wow animate__fadeIn padding-60px-bottom parallax" data-parallax-background-ratio="0.5" style="background-image:url('{{https://res.cloudinary.com/deddrj0yb/image/upload/v1638888150/website/global/bg-style-004_bvgxhi.png}}');" >
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-xl-8 col-lg-10 text-center overlap-gap-section">
+                <div class="w-40px h-2px bg-transparent-gradient-fast-blue-purple separator-line-vertical margin-30px-tb d-inline-block"></div>
+                <h3 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px">{{ resort.s01.p01.[page.language] }}<span class="text-gradient-fast-blue-purple font-weight-600">{{ page.resort_naming }}</span></h3>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end page title -->
+<!-- start section -->
+<section class="position-relative bg-transparent-gradient-fast-blue-purple overflow-visible">
+    <div class="container">
+        <div class="z-index-6 overlap-section-one-fourth">
+            <div class="d-flex flex-column margin-9-rem-bottom sm-margin-7-rem-bottom">
+                <div class="row">
+                    <div class="col-12 col-md-12 z-index-0">
+                        <span class="text-overlap text-uppercase title-extra-large-heavy alt-font text-center d-none d-md-block font-weight-700 opacity-1 z-index-minus-1">{{ page.resort_naming }}</span>
+                        <div class="tilt-box" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }'>
+                            <img src="{{ page.image01_href }}" class="position-relative z-index-6 border-radius-6px" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-10 col-md-10 position-relative text-center">
+                        <h3 class="alt-font text-white font-weight-600 margin-35px-bottom">{{ resort.s02.p01.[page.language] | liquify | markdownify }}</h3>
+                        <p class="text-white opacity-7 alt-font text-large w-80 mx-auto line-height-32px margin-45px-bottom sm-w-100">{{ resort.s02.p02.[page.language].text | liquify }}</p>
+                        <a href="{{ resort.s02.p02.[page.language].button_link }}" class="btn btn-large btn-white btn-rounded btn-box-shadow">{{ resort.s02.p02.[page.language].button }} {{ page.resort_naming }}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->
+
+{% for block in page.page_sections %}
+  {% assign template = block.template %}
+  {% case template %}
+  {% when 'textarea' %}
+    {% include blocks/blocks_{{ template }}.html %}
+  {% when '3coltxtimgtxt' %}
+    {% include blocks/blocks_{{ template }}.html %}
+  {% when '2colimgtxt' %}
+    {% include blocks/blocks_{{ template }}.html %}
+  {% when 'parlaxgridtxtimg' %}
+    {% include blocks/blocks_{{ template }}.html %}
+  {% when 'liststyle01' %}
+    {% include blocks/blocks_{{ template }}.html %}
+  {% when 'liststyle01numbered' %}
+    {% include blocks/blocks_{{ template }}.html %}
+  {% when 'imagegallery02' %}
+    {% include blocks/blocks_{{ template }}.html %}
+  {% when 'numberinfo' %}
+    {% include blocks/blocks_{{ template }}.html %}
+  {% endcase %}
+{% endfor %}
