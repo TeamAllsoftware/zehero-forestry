@@ -108,6 +108,7 @@ fields:
   - liststyle01
   - liststyle01numbered
   - imagegallery02
+  - info-with-counter-headline-text
   config:
     min: 
     max: 
