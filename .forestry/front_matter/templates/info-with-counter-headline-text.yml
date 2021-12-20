@@ -1,4 +1,45 @@
 ---
 label: Info with counter + headline + text
 hide_body: true
-fields: []
+fields:
+- name: counter
+  type: number
+  label: counter
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 0
+    required: true
+- name: text_refers_to_counter
+  type: text
+  config:
+    required: true
+    max: 24
+    min: 20
+  label: text refers to counter
+- name: title
+  type: text
+  config:
+    required: true
+  label: title
+- name: headline
+  type: text
+  config:
+    required: true
+    max: 55
+    min: 45
+  label: headline
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: 250
+    min: 200
+  label: content
