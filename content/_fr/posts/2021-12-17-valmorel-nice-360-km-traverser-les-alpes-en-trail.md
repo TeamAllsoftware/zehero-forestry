@@ -224,7 +224,7 @@ page_sections:
     hâte d'arriver, tout en savourant chaque mètres parcourus. Il faisais chaud, le
     parcours ce jour là était plutôt roulant. Arrivé à St Sauveur sur Tinée, je me
     suis trempé dans une fontaine tellement j'avais chaud. Je passais ensuite à Rimplas
-    et ses terres rouges. Puis j'arriverai pas le bas au village de Valdeblore. Heureux
+    et ses terres rouges. Puis j'arriverai par le bas au village de Valdeblore. Heureux
     de pouvoir voir ma chérie ici et de vivre se moment si fort. En plus, elle et
     sa grand mère avait préparé le plus gros festin et le meilleur ravitaillement.
     \ \nUne journée de 42km et 2200 D+"
@@ -239,8 +239,8 @@ page_sections:
   content: Après une belle nuit en compagnie d'Eve, je me lève pour la dernière journée
     de cette traversée. C'est bizarre de se dire que ça va s'arrêter ensuite. Mais
     en tout cas, ce matin je rigole moins et mes ampoules me font mal. Mes pieds se
-    sont transformer en guirlande de Noël. Je peine à courir au début mais je me force
-    car Eve et sa Grand mère me regardent partir.
+    sont transformées en guirlande de Noël. Je peine à courir au début mais je me
+    force car Eve et sa Grand mère me regardent partir.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733477/website/blog/Valmorel%20-%20Nice/IMG_20200713_112518_mimoua.jpg
   captiontitleuppercase: En route pour la mer

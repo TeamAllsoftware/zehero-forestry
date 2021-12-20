@@ -29,7 +29,7 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
-  path: content/_fr/pages/hiver/resorts
+  path: content/_fr/pages/hiver/resort
   label: Resorts hiver
   create: documents
   match: "**/*"
