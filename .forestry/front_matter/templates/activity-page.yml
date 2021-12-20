@@ -107,7 +107,7 @@ fields:
   - liststyle01
   - liststyle01numbered
   - imagegallery02
-  - info-with-counter-headline-text
+  - numberinfo
   config:
     min: 
     max: 
