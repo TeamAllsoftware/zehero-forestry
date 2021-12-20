@@ -57,6 +57,12 @@ page_sections:
     musculaires, les mêmes gestes, les mêmes techniques. C'est pour cela que vous
     pouvez être à l'aise sur un snowboard et trouver le ski dur physiquement."
   title: ''
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Snowboard-descente-poudreuse_xp9cqv.jpg
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-vue-montagne_obfzrf.jpg
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Snowboard-freestyle-ride_luennl.jpg
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Snowboard-epaules_kjtsms.jpg
+  title: ''
 topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
 
