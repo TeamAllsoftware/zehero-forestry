@@ -28,11 +28,15 @@ sections:
   label: Activités hiver
   create: documents
   match: "**/*"
+  templates:
+  - page_activity
 - type: directory
   path: content/_fr/pages/hiver/resort
   label: Resorts hiver
   create: documents
   match: "**/*"
+  templates:
+  - layout_resort
 - type: heading
   label: ENGLISH
 - type: directory
