@@ -5,11 +5,10 @@ language: fr
 season: winter
 topnav_color_text: light
 title: Raquettes
-description: La Savoie est un véritable lieu de regroupement pour les plus friands
-  de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux
-  des grands espaces et du milieu montagnard en général.
+description: La pratique de raquette permet à tous le monde de profiter de la montagne
+  enneigée.
 baseline: Exploration, liberté et tranquilité
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Randonne-neige-seul_mxdyy6.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Raquettes-groupe-enfants_xwknbx.jpg
 image01_alt: Des raquettes dans les domaines de Savoie
 page_sections:
 - template: 2colimgtxt
