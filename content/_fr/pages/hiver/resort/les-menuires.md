@@ -21,6 +21,8 @@ page_sections:
   content: testestsetetetestestetestezstzetesttestsetestesoih oihefo eihfezoifgzo
     oihf aezoih fao ihfaziouh faz oiuhafz. oih azoifha ozifh aoifh aoi oiuh fazeioafihu.
     ho uihf iouehfafoaeziuofh aoifazeg azfgazgaz gfazgaezg
-published: true
+button_to_link_to_ze_hero_shop:
+  url_to_shop_zehero: https://fr.ze-hero.com/location-materiel?station=les-menuires&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
+  button_text: Voir les locations aux Ménuires
 
 ---
