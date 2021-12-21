@@ -3,7 +3,7 @@ layout: page_activity
 permalink: "/fr/hiver/activite/snowboard"
 language: fr
 season: winter
-topnav_color_text: dark
+topnav_color_text: light
 title: Snowboard
 description: Que ce soit dans les pentes de poudreuse, dans les snowparks ou sur les
   pistes, la pratique du snowboard est présente partout aujourd'hui.
