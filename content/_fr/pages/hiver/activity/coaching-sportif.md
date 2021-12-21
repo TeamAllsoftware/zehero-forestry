@@ -144,6 +144,6 @@ page_sections:
   title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
     des stations
 topnav_text_color: light
-engage: ''
+engage: Une préparation pour affronter toutes les situations
 
 ---
