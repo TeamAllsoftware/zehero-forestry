@@ -70,6 +70,5 @@ page_sections:
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-duo-marche_vgtw6n.jpg
 topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
-published: false
 
 ---
