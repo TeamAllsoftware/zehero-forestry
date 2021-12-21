@@ -48,6 +48,5 @@ page_sections:
   - Pantalon de ski ou de marche imperméable et chaud
 topnav_text_color: light
 engage: ''
-published: false
 
 ---
