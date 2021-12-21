@@ -74,5 +74,11 @@ page_sections:
 
     Vous pourrez également participer à des sorties de trail longue. Elles permettront de découvrir un lieu, un environnement avec un groupe.
   title: ''
+- template: 3coltxtimgtxt
+  captionleftcontent: 'Soyez le Hero, partez créer vos propres exploits '
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG20210813131314_aotkis.jpg
+  captionrighttitle: Ne courez pas après le temps, appréciez en chaque secondes
+  captionrightcontent: Quelque soit l'intensité de votre course, la durée et la difficulté,
+    nous ressentons tous le même plaisir après avoir foulé les sentiers.
 
 ---
