@@ -68,5 +68,11 @@ page_sections:
     tous les week-end. Mettre un dossard, c'est le moyen de se dépasser, de passer
     un bon moments avec ses amis, c'est participer un évènement. Les compétitions
     permettent également de mettre en place des parcours magnifiques et uniques.
+- template: textarea
+  content: |-
+    Le trail ce pratique toute l'année même l'hiver. L'encadrement en trail est idéal si vous souhaitez progresser, découvrir et partager. Un coach en trail running vous permettra d'évoluer et de progresser que ce soit en montée, en descente, sur plat. Cela pourra se travailler sur des séances dîtes spécifiques.
+
+    Vous pourrez également participer à des sorties de trail longue. Elles permettront de découvrir un lieu, un environnement avec un groupe.
+  title: ''
 
 ---
