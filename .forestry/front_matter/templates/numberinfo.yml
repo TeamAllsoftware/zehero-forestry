@@ -1,5 +1,5 @@
 ---
-label: numberinfo
+label: counter + headline + content
 hide_body: true
 fields:
 - name: counter
