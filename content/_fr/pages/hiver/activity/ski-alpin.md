@@ -51,8 +51,10 @@ page_sections:
     et vous permettre d''évoluer. '
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640090973/website/winter/nicolai-berntsen-OyP-8El8vWk-unsplash_pzgx3v.jpg
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Ski-descente_fo1bqg.jpg
-  gridline2content: ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
-  gridline2title: gg
+  gridline2content: 'Quelque soit votre station de ski, profitez de la glisse et du
+    domaine skiable et faîtes le plein de sensation. Seul ou à plusieurs, le ski alpin
+    vous permettra de vivre des moments forts en émotion. '
+  gridline2title: En famille, en couple, entre amis ou seul
 topnav_text_color: light
 engage: Visiter un domaine en dévalant chaque piste
 
