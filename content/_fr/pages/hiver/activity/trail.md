@@ -28,7 +28,10 @@ page_sections:
     jamais le même. Il y a beaucoup de facteurs qui vont altérer votre vitesse. Que
     ce soit le dénivelé, la technicité du parcours, le chemin étroit, les conditions
     météorologiques... La performance d'un marathon se justifie par le temps et c'est
-    tout. En trail, votre temps dépendra du terrain, de la météo.
+    tout. En trail, votre temps dépendra du terrain, de la météo. L'engagement en
+    trail va porter sur votre vitesse, sur la technique en descente, sur votre gestion
+    de course. Courir des heures en nature, seul ou accompagné, plonge le corps et
+    l'esprit dans un moment de pleinitude.
 - template: liststyle01
   title: Les différentes courses
   item:
@@ -53,12 +56,14 @@ page_sections:
     de vous sera apaisant.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200528_132727_fnpain.jpg
 - template: textarea
-  content: Selon les courses et les distances la pratique du trail est différente.
+  content: "Selon les courses et les distances la pratique du trail est différente.
     Plus la course est courte, plus l'engagement physique sera important. À l’inverse,
     plus la distance est longue, plus l'engagement mental sera important. Le trail,
     en plus de son aspect physiologique et physique, demandera une part très importante
     du mental, de gestion de course et d'alimentation. Ce sont autant de paramètres
-    qui rendent cette pratique encore plus intéressante et riche.
+    qui rendent cette pratique encore plus intéressante et riche.\n\nLa pratique du
+    trail comporte un équipement spécifique par ses chaussures, ses vêtements, ses
+    sac à dos d'hydratation, le port de bâtons etc. "
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200809_090044_skturv.jpg
@@ -74,5 +79,11 @@ page_sections:
 
     Vous pourrez également participer à des sorties de trail longue. Elles permettront de découvrir un lieu, un environnement avec un groupe.
   title: ''
+- template: 3coltxtimgtxt
+  captionleftcontent: 'Soyez le Hero, partez créer vos propres exploits '
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG20210813131314_aotkis.jpg
+  captionrighttitle: Ne courez pas après le temps, appréciez en chaque secondes
+  captionrightcontent: Quelque soit l'intensité de votre course, la durée et la difficulté,
+    nous ressentons tous le même plaisir après avoir foulé les sentiers.
 
 ---

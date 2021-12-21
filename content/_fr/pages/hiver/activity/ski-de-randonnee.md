@@ -1,20 +1,17 @@
 ---
 layout: page_activity
-permalink: /fr/hiver/activite/ski-de-randonnee
-
+permalink: "/fr/hiver/activite/ski-de-randonnee"
 language: fr
 season: winter
 topnav_color_text: dark
-
 title: Ski de randonnée
 description: La Savoie est un véritable lieu de regroupement pour les plus friands
   de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux
   des grands espaces et du milieu montagnard en général.
-baseline: Vitesse, calme et volupté
-engage: Profiter de la nature sans <span class="font-weight-600">la cohue des pistes</span>
+baseline: Endurance, calme et volupté
+engage: Profiter de la nature sans la cohue des pistes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Randonne-montagne-seul_ahg2x8.jpg
 image01_alt: Ski de randonnée dans les domaines de Savoie
-
 page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,h_545/c_crop,g_north,h_545,w_475/v1638822010/website/winter/Hero-montagne_m8cx1r.webp
@@ -147,4 +144,5 @@ page_sections:
     Comme vous l’aurez compris, le ski de randonnée est une approche différente mais tout aussi appréciable que le ski alpin classique alors n’attendez plus et faites vous votre propre expérience.
   title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
     des stations
+
 ---
