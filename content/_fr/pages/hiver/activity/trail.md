@@ -74,5 +74,6 @@ page_sections:
 
     Vous pourrez également participer à des sorties de trail longue. Elles permettront de découvrir un lieu, un environnement avec un groupe.
   title: ''
+published: false
 
 ---
