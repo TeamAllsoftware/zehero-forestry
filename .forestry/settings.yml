@@ -6,7 +6,8 @@ webhook_url:
 sections:
 - type: document
   path: readme-editor.md
-  label: Help
+  label: Help (updated)
+  read_only: true
 - type: document
   path: _data/authors.yml
   label: Authors
