@@ -1,0 +1,110 @@
+---
+label: Activity page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: page_activity
+  config:
+    required: true
+- name: language
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - fr
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: language
+- name: season
+  type: select
+  default: winter
+  config:
+    required: true
+    options:
+    - winter
+    - summer
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: season
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: URL for this page
+  description: 'Page url''s are on this model : "/fr/hiver/activite/ski-de-randonnee"'
+- type: text
+  name: description
+  label: description
+  config:
+    required: true
+- name: image01_href
+  type: text
+  config:
+    required: true
+  label: big and beautiful image cover
+  description: Big image hero that illustrate best your content. This image will be
+    the cover image in article list
+- type: text
+  name: image01_alt
+  label: Image cover alternative text
+  description: Your beautiful image cover needs a text describing it.... it is SEO
+    related
+- name: topnav_color_text
+  type: select
+  default: light
+  config:
+    required: true
+    options:
+    - light
+    - dark
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Menu bar text color ? white or black
+  description: top navigation menu text color must be white or black ? depends on
+    the background image tone (dark or light) or color (dark or light). If background
+    is dark and you want a white text select "dark"
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - textarea
+  - 3coltxtimgtxt
+  - 2colimgtxt
+  - parlaxgridtxtimg
+  - liststyle01
+  - liststyle01numbered
+  - imagegallery02
+  - numberinfo
+  config:
+    min: 
+    max: 
+pages:
+- content/_fr/pages/hiver/activity/chiens-traineau.md
+- content/_fr/pages/hiver/activity/coaching-sportif.md
+- content/_fr/pages/hiver/activity/construction-igloo.md
+- content/_fr/pages/hiver/activity/enfants.md
+- content/_fr/pages/hiver/activity/raquettes.md
+- content/_fr/pages/hiver/activity/ski-alpin.md
+- content/_fr/pages/hiver/activity/snowboard.md
+- content/_fr/pages/hiver/activity/surf.md
+- content/_fr/pages/hiver/activity/visiter-domaine.md
+- content/_fr/pages/hiver/resort/resort-val-thorens.html
