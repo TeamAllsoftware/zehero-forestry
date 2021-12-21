@@ -5,8 +5,7 @@ language: fr
 season: winter
 topnav_color_text: light
 title: Raquettes
-description: La pratique de raquette permet à tous le monde de profiter de la montagne
-  enneigée.
+description: Randonnez l'hiver dans les montagnes enneigées
 baseline: Exploration, liberté et tranquilité
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080084/website/winter/jacques-dillies-eL6lwLpGgnA-unsplash_qx3ylg.jpg
 image01_alt: Des raquettes dans les domaines de Savoie
