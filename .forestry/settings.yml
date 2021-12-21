@@ -29,14 +29,14 @@ sections:
   create: documents
   match: "**/*"
   templates:
-  - page_activity
+  - activity-page
 - type: directory
   path: content/_fr/pages/hiver/resort
   label: Resorts hiver
   create: documents
   match: "**/*"
   templates:
-  - layout_resort
+  - resort-page
 - type: heading
   label: ENGLISH
 - type: directory
