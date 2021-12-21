@@ -20,9 +20,20 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
   captiontitleuppercase: Apprendre le ski alpin
   title: Pour tous, dès 3ans
-  content: ski
+  content: Le ski s'apprend dès 3 ans dans les écoles de ski qui proposent la garderie
+    et l'apprentissage du ski. Vous pouvez ensuite, à tout âge, apprendre le ski que
+    ce soit en cours collectif ou en cours privé. Chaque domaine skiable sera composé
+    de piste bleu, verte, rouge et noir, qui seront donc synonyme de la difficulté
+    de la piste. Le plaisir du ski alpin va varier en fonction de votre style de ski.
+- template: liststyle01
+  item:
+  - Le ski zen pour profiter du paysage et du domaine
+  - La godille
+  - La vitesse et les sensations fortes
+  - Carver à chaque virages
+  title: ''
 topnav_text_color: light
-engage: Un texte qui engage et qui donne vie de partir sjkier
+engage: Visiter un domaine en dévalant chaque piste
 published: false
 
 ---
