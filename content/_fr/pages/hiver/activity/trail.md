@@ -52,6 +52,5 @@ page_sections:
     la demande énergétique et physique est exigeante, alors l'environnement lui autour
     de vous sera apaisant.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200528_132727_fnpain.jpg
-published: false
 
 ---
