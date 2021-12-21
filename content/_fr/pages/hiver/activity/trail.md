@@ -52,5 +52,21 @@ page_sections:
     la demande énergétique et physique est exigeante, alors l'environnement lui autour
     de vous sera apaisant.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200528_132727_fnpain.jpg
+- template: textarea
+  content: Selon les courses et les distances la pratique du trail est différente.
+    Plus la course est courte, plus l'engagement physique sera important. À l’inverse,
+    plus la distance est longue, plus l'engagement mental sera important. Le trail,
+    en plus de son aspect physiologique et physique, demandera une part très importante
+    du mental, de gestion de course et d'alimentation. Ce sont autant de paramètres
+    qui rendent cette pratique encore plus intéressante et riche.
+  title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200809_090044_skturv.jpg
+  captiontitleuppercase: Le plaisir du dossard
+  title: Courir pour se dépasser soi même
+  content: Il existe aujourd'hui énormément de course de trail, vous en trouverez
+    tous les week-end. Mettre un dossard, c'est le moyen de se dépasser, de passer
+    un bon moments avec ses amis, c'est participer un évènement. Les compétitions
+    permettent également de mettre en place des parcours magnifiques et uniques.
 
 ---
