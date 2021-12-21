@@ -12,10 +12,10 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/webs
 image01_alt: Snowboard dans les domaines de Savoie
 page_sections:
 - template: textarea
-  content: "Il se pratique sur une planche à neige appelé donc snowboard. C'est un
+  content: "Il se pratique sur une planche à neige appelée donc snowboard. C'est un
     mélange du skate, du surf et du ski. Contrairement au ski, vous avez les 2 pieds
-    fixés sur la même planche.   \nCette planche présente des carres tout le long
-    du snowboard, que ce soit sur le coté droit ou gauche."
+    fixés sur la même planche.  \nCette planche présente des carres tout le long du
+    snowboard, que ce soit sur le côté droit ou gauche."
   title: Le Snowboard
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Snowboard-rider-debout_oecizy.jpg
@@ -32,11 +32,11 @@ page_sections:
   - Regular
   - Goofy
 - template: textarea
-  content: "Le snowboard présente donc deux sens en fonction de votre pied avant sur
-    la planche.   \nSi votre pied avant est le droit alors vous êtes Goofy.  \nSi
-    votre pied avant est le gauche alors vous êtes Régular.\n\nLorsqu'on change de
-    sens en ski, on se retrouve en arrière. En snowboard, rider en switch c'est donc
-    changer de Goofy à Regular ou inversement."
+  content: "Le snowboard présente deux sens en fonction de votre pied avant sur la
+    planche.  \nSi votre pied avant est le droit alors vous êtes Goofy.  \nSi votre
+    pied avant est le gauche alors vous êtes Régular.\n\nLorsqu'on change de sens
+    en ski, on se retrouve en arrière. En snowboard, rider en switch c'est donc changer
+    de Goofy à Regular ou inversement."
   title: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883542/website/winter/Snowboard-saut-neige_t0coxa.jpg
@@ -45,18 +45,29 @@ page_sections:
   captionrightcontent: 'Le snowboard n''est pas plus dur que le ski. Ses débuts ne
     sont pas évidents mais ensuite la progression va plus vite qu''en ski. '
 - template: textarea
-  content: "Le snowboard, à la différence du ski, necessite des boots pour sa pratique.
-    Elles sont beaucoup plus confortables et vous pouvez alors marchez plus facilement
-    avec. Afin de pouvoir rider et être maintenu sur la planche, les boots seront
-    fixées aux fixations du snowboard. Vous trouverez aujourd'hui différentes types
-    de fixation et aussi différentes en fonction des marques.  \n  \nLe snowboard
-    est un sport physique et il demande d'avoir une bonne condition musculaire. En
-    effet, il faudra avoir sur votre planche de la souplesse, de l'agilité, de l'impulsivité.
-    Mais également un bon renforcement musculaire au niveau des jambes, des abdominaux
-    et des lombaires.  \nLe ski et le snowboard n'utilisent pas les mêmes groupes
-    musculaires, les mêmes gestes, les mêmes techniques. C'est pour cela que vous
-    pouvez être à l'aise sur un snowboard et trouver le ski dur physiquement."
+  content: |-
+    Le snowboard, à la différence du ski, nécessite des boots pour sa pratique. Elles sont beaucoup plus confortables et vous pouvez alors marcher plus facilement avec. Afin de pouvoir rider et être maintenu sur la planche, les boots seront fixées aux fixations du snowboard. Vous trouverez aujourd'hui différents types de fixation et aussi différentes en fonction des marques.
+
+    Le snowboard est un sport physique et il demande d'avoir une bonne condition musculaire. En effet, il faudra avoir sur votre planche de la souplesse, de l'agilité, de l'impulsivité. Mais également un bon renforcement musculaire au niveau des jambes, des abdominaux et des lombaires.
+
+    Le ski et le snowboard n'utilisent pas les mêmes groupes musculaires, les mêmes gestes, les mêmes techniques. C'est pour cela que vous pouvez être à l'aise sur un snowboard et trouver le ski dur physiquement.
   title: ''
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Snowboard-descente-poudreuse_xp9cqv.jpg
+  captionabovetitle: On a l'impression de flotter en poudreuse avec un snowboard
+  title: Le snowboard, c'est une activité pour tous
+  gridline1content: Burton, Rome, Bataleon, Salomon, Ride et bien d'autres, ont fait
+    évolués le snowboard aujourd'hui pour offrir des planches exceptionnelles. Il
+    existe aujourd'hui une multitude de snowboard pour tous les styles. Elles sont
+    toutes performantes aux technologies avancées.
+  gridline1title: L'avancé du snowboard
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Snowboard-freestyle-ride_luennl.jpg
+  gridline2title: Soyez votre propre rider, soyez Ze Hero
+  gridline2content: N'ayez pas peur des débuts parfois difficile du snowboard. Vous
+    pourrez ensuite progresser et jouer avec votre planche là où vous vous sentirez
+    à l'aise. Que ce soit sur la piste, dans les snowparks ou dans les hors-pistes,
+    le snowboard n'attend que vous.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-duo-marche_vgtw6n.jpg
 topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
 
