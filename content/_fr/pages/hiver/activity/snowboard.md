@@ -54,7 +54,7 @@ page_sections:
   title: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Snowboard-descente-poudreuse_xp9cqv.jpg
-  captionabovetitle: On a l'impression de flotter en poudreuse avec un snowboatd
+  captionabovetitle: On a l'impression de flotter en poudreuse avec un snowboard
   title: Le snowboard, c'est une activité pour tous
   gridline1content: Burton, Rome, Bataleon, Salomon, Ride et bien d'autres, ont fait
     évolués le snowboard aujourd'hui pour offrir des planches exceptionnelles. Il
