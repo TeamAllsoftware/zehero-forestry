@@ -112,6 +112,7 @@ fields:
     min: 
     max: 
 pages:
+- content/_fr/pages/hiver/activity/chiens-traineau.md
 - content/_fr/pages/hiver/activity/coaching-sportif.md
 - content/_fr/pages/hiver/activity/construction-igloo.md
 - content/_fr/pages/hiver/activity/enfants.md
