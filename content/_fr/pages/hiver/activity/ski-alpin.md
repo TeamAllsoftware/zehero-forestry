@@ -34,6 +34,5 @@ page_sections:
   title: ''
 topnav_text_color: light
 engage: Visiter un domaine en dévalant chaque piste
-published: false
 
 ---
