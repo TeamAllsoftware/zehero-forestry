@@ -47,4 +47,8 @@ block name: **2-lines-grid-txt-img**
 
 ![](https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,w_800/v1639669860/website/admin%20forestry/2-lines-grid-txt-img_h5t9fy.png)
 
+block name: **counter + headline + content**
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1640094001/website/admin%20forestry/numberInfo_bbihcs.png)
+
 This is it for now

@@ -1,12 +1,12 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: document
   path: readme-editor.md
-  label: Help
+  label: Help (updated dec. 21)
   read_only: true
 - type: document
   path: _data/authors.yml
