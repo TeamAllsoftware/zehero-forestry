@@ -2,18 +2,18 @@
 layout: default
 ---
 
-{% assign resort = site.data.content.resort.[page.resort_nameid] %}
+{% assign resort = site.data.content.resorts %}
 {% assign zehero = site.data.config.zehero %}
 
 {% include elements/generic_variables.html %}
 
 <!-- start page title -->
-<section id="about" class="overlap-height wow animate__fadeIn padding-60px-bottom parallax" data-parallax-background-ratio="0.5" style="background-image:url('{{https://res.cloudinary.com/deddrj0yb/image/upload/v1638888150/website/global/bg-style-004_bvgxhi.png}}');" >
+<section id="about" class="overlap-height wow animate__fadeIn padding-60px-bottom parallax" data-parallax-background-ratio="0.5" style="background-image:url('https://res.cloudinary.com/deddrj0yb/image/upload/v1638888150/website/global/bg-style-004_bvgxhi.png');" >
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-xl-8 col-lg-10 text-center overlap-gap-section">
                 <div class="w-40px h-2px bg-transparent-gradient-fast-blue-purple separator-line-vertical margin-30px-tb d-inline-block"></div>
-                <h3 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px">{{ resort.s01.p01.[page.language] }}<span class="text-gradient-fast-blue-purple font-weight-600">{{ page.resort_naming }}</span></h3>
+                <h3 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px">{{ page.page_title }}<span class="text-gradient-fast-blue-purple font-weight-600">{{ page.resort_naming }}</span></h3>
             </div>
         </div>
     </div>
@@ -38,9 +38,9 @@ layout: default
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-10 col-md-10 position-relative text-center">
-                        <h3 class="alt-font text-white font-weight-600 margin-35px-bottom">{{ resort.s02.p01.[page.language] | liquify | markdownify }}</h3>
-                        <p class="text-white opacity-7 alt-font text-large w-80 mx-auto line-height-32px margin-45px-bottom sm-w-100">{{ resort.s02.p02.[page.language].text | liquify }}</p>
-                        <a href="{{ resort.s02.p02.[page.language].button_link }}" class="btn btn-large btn-white btn-rounded btn-box-shadow">{{ resort.s02.p02.[page.language].button }} {{ page.resort_naming }}</a>
+                        <h3 class="alt-font text-white font-weight-600 margin-35px-bottom">Vous arrivez à {{ page.resort_naming }} et vous souhaitez louer du matériel dans cette station.</h3>
+                        <p class="text-white opacity-7 alt-font text-large w-80 mx-auto line-height-32px margin-45px-bottom sm-w-100">{{ zehero }} vous conseille pour louer des skis, des chaussures de ski, des casques et beaucoup d'autres équipements pour toute votre famille</p>
+                        <a href="" class="btn btn-large btn-white btn-rounded btn-box-shadow">{{ resort.s02.p02.fr.button }} {{ page.resort_naming }}</a>
                     </div>
                 </div>
             </div>
