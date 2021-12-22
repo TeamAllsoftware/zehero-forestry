@@ -17,6 +17,5 @@ page_sections:
 - template: textarea
   title: Un premier paragraphe pour débuter
   content: Avec du contenu svp
-published: false
 
 ---
