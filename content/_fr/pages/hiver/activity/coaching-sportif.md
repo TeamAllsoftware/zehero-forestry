@@ -58,6 +58,5 @@ page_sections:
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
 topnav_text_color: light
 engage: Une préparation pour affronter toutes les situations
-published: false
 
 ---
