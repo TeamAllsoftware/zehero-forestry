@@ -37,24 +37,18 @@ fields:
       file: 
       path: 
   label: season
-- name: page_title
-  type: text
-  config:
-    required: true
-  label: title
-  description: Title of the page
 - name: title
   type: text
   config:
     required: true
-  label: name of the resort
+  label: Title of the page
   description: Title of the resort
 - name: permalink
   type: text
   config:
     required: true
   label: URL for this page
-  description: 'Page url''s are on this model : "/fr/hiver/activite/ski-de-randonnee"'
+  description: 'Page url''s are on this model : "/fr/hiver/conseil/ski-de-randonnee"'
 - type: text
   name: description
   label: description
@@ -66,7 +60,7 @@ fields:
 - name: image01_href
   type: text
   config:
-    required: true
+    required: false
   label: big and beautiful image cover
   description: Big image hero that illustrate best your content. This image will be
     the cover image in article list
@@ -75,6 +69,8 @@ fields:
   label: Image cover alternative text
   description: Your beautiful image cover needs a text describing it.... it is SEO
     related
+  config:
+    required: false
 - name: topnav_color_text
   type: select
   default: light
