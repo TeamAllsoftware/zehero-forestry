@@ -40,7 +40,24 @@ page_sections:
   - Suivi régulier
   - Programme personnalisé
   title: ''
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/matthew-lejune-uU5Jz-b-0yI-unsplash_am2fyt.jpg
+  captionabovetitle: Etre coacher, être accompagner, se surpasser
+  title: Réussissez votre prochain objectif
+  gridline1title: Quelque soit votre sport
+  gridline1content: Le coaching vous accompagnera quelque soit vos objectifs. Certains
+    coachs seront spécialisés dans certaines disciplines tel que la course à pied,
+    la musculation, le yoga, le cross fit etc. Echangé avec lui afin de pouvoir mettre
+    en place vos attentes et objectifs.
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/annie-spratt-oQfSHQ2Uaic-unsplash_rn27lg.jpg
+  gridline2title: Coaching à distance
+  gridline2content: On retrouve également le coaching à distance, le e-coaching. Cela
+    permet d'être suivi par un coach à distance qui, par le biais d'application de
+    coaching ou d'Excel, mettra en place vos séances quotidiennes personnalisés. Le
+    coach fera des retours sur chacune de vos séances.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
 topnav_text_color: light
 engage: Une préparation pour affronter toutes les situations
+published: false
 
 ---
