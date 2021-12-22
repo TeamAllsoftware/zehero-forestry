@@ -55,7 +55,7 @@ page_sections:
     permet d'être suivi par un coach à distance qui, par le biais d'application de
     coaching ou d'Excel, mettra en place vos séances quotidiennes personnalisés. Le
     coach fera des retours sur chacune de vos séances.
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/steven-lelham-atSaEOeE8Nk-unsplash_jalgcv.jpg
 topnav_text_color: light
 engage: Une préparation pour affronter toutes les situations
 
