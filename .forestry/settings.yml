@@ -37,6 +37,13 @@ sections:
   match: "**/*"
   templates:
   - resort-page
+- type: directory
+  path: content/_fr/pages/hiver/advice
+  label: Conseil hiver
+  create: documents
+  match: "**/*"
+  templates:
+  - advice-page
 - type: heading
   label: ENGLISH
 - type: directory
