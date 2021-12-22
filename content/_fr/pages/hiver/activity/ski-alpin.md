@@ -32,6 +32,29 @@ page_sections:
   - La vitesse et les sensations fortes
   - Carver à chaque virages
   title: ''
+- template: textarea
+  content: "Le ski alpin aujourd'hui est devenu une pratique où les avancées technologiques
+    ne font qu'augmenter. La technicité du matériel permet d'avoir des chaussures
+    très performantes et confortables, d'avoir tous les types de ski pout tous les
+    niveaux. \n\nLe ski ne cesse d'évoluer et vous apporte ce à quoi vous avez besoin.
+    La plaisir de cette sensation de glisse dans de tel cadre est source de bien-être.
+    C'est un sport, une pratique où sont cadre est idyllique et paradisiaque. "
+  title: ''
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1640090973/website/winter/valentin-b-kremer-xZyeRwQGKk4-unsplash_gztr6e.jpg
+  captionabovetitle: Débuter, se perfectionner, devenir expert
+  title: Le ski ne cesse jamais d'évoluer
+  gridline1title: Cours privé ou cours collectif
+  gridline1content: 'Apprendre le ski seul est très compliqué, tout comme se perfectionner
+    seul. Il est donc important d''avoir des conseils précis par une personne référente
+    du milieu. Il pourra alors corriger votre posture, votre technique, vos appuis
+    et vous permettre d''évoluer. '
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640090973/website/winter/nicolai-berntsen-OyP-8El8vWk-unsplash_pzgx3v.jpg
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Ski-descente_fo1bqg.jpg
+  gridline2content: 'Quelque soit votre station de ski, profitez de la glisse et du
+    domaine skiable et faîtes le plein de sensation. Seul ou à plusieurs, le ski alpin
+    vous permettra de vivre des moments forts en émotion. '
+  gridline2title: En famille, en couple, entre amis ou seul
 topnav_text_color: light
 engage: Visiter un domaine en dévalant chaque piste
 
