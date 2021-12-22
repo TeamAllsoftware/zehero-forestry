@@ -55,17 +55,17 @@
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
     - subtitle: "Sur 2 jours et plus"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
--  title: 'Régions'
+-  title: 'Destinations'
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
    image-link: "/fr/ete/"
    subcategories:
-    - subtitle-bold: "Dans quelle station louer ?"
+    - subtitle-bold: "Toutes les informations sur les stations"
     - subtitle: "Alpe d'Huez"
       subhref: "fr/hiver/station/alpe-d-huez"
     - subtitle: "Val-Thorens"
       subhref: "fr/hiver/station/val-thorens"
     - subtitle: "Les Ménuires"
-      subhref: "/fr/hiver/station/les-menuires"
+      subhref: "fr/hiver/station/les-menuires"
 -  title: 'Team ZE HERO'
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg'
    image-link: "/fr/ete/"
