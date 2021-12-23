@@ -11,7 +11,7 @@
 {% assign list_language = site.data.config.languages %}
 {% assign opposite_language = list_language| array_to_sentence_string: '' | remove: page.language | strip  %}
 
-
+{% include elements/generic_variables.html %}
 
         <header>
             <nav class="navbar navbar-expand-lg navbar-{{ page.topnav_color_text }} bg-transparent header-light fixed-top navbar-boxed header-reverse-scroll">
@@ -19,12 +19,12 @@
                     <div class="col-5 col-lg-2 ps-lg-0 me-auto me-lg-0">
                         <a class="navbar-brand" href="/{{ page.language }}/{{ season_language }}">
                             {% if page.topnav_color_text == 'light' %}
-                            <img src="/images/global/logo-ZeHero-brown.png" data-at2x="/images/global/logo-ZeHero-brown.png" alt="" class="default-logo">
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="default-logo">
                             {% else %}
-                            <img src="/images/global/logo-ZeHero-white.png" data-at2x="/images/global/logo-ZeHero-white.png" alt="" class="default-logo">
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_white | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_white | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="default-logo">
                             {% endif %}
-                            <img src="/images/global/logo-ZeHero-brown.png" data-at2x="/images/global/logo-ZeHero-brown.png" alt="" class="alt-logo">
-                            <img src="/images/global/logo-ZeHero-brown.png" data-at2x="/images/global/logo-ZeHero-brown.png" class="mobile-logo" alt="">
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="alt-logo">
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="mobile-logo">
                         </a>
                     </div>
                     <div class="col-auto col-lg-7 md-position-initial md-no-padding">

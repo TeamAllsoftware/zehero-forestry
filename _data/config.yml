@@ -1,5 +1,8 @@
 #generic
 zehero: "ZE HERO"
+zehero_logo_white: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/website/logo/Sur%20fond%20colore%CC%81/logo-ze-hero-horizontal_5_hbrgzm.png
+zehero_logo_brown: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-sans-slogan_7_navyp9.png
+zehero_logo_black: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/website/logo/Sur%20fond%20fonce%CC%81/logo-ze-hero-sans-slogan_9_nj7apy.png
 
 #open graph
 og_url: https://preprod-zehero-202112.netlify.app
@@ -14,9 +17,6 @@ linkedin:
 instagram:
   title: Instagram
   instagram_username: https://www.instagram.com/zehero_officiel/
-
-#Cloudinary
-cloudinary_url: "https://res.cloudinary.com/deddrj0yb/image/upload"
 
 #languages
 languages: [fr,en]
@@ -75,9 +75,16 @@ en:
     icon-link-title: Go to our contact page
 
 #Image resizing by cloudinary
+#Cloudinary
+cloudinary_url: "https://res.cloudinary.com/deddrj0yb/image/upload"
+
 # {{ imgsize.url }}{{ imgsize.[variable] }}{{[variable].image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}
 img:
   url: https://res.cloudinary.com/deddrj0yb/image/upload/
+#logo
+  logo_header: c_fill,w_222,h_57
+  logo_headerx2: c_fill,w_444,h_114
+  logo_footer: c_fill,w_135,h_36
 #activity image in list
   activitylist: c_fill,w_322,h_446
 #blog post thumbnail list
