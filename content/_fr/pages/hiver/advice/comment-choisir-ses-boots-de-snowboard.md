@@ -56,6 +56,5 @@ page_sections:
     résistent longtemps. Ces systèmes sont souvent présents sur des boots type backcountry,
     \ free ride. Il suffit de les serrer fort de bas en haut."
   title: ''
-published: false
 
 ---
