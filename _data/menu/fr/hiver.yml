@@ -18,11 +18,11 @@
       subhref: fr/hiver/activites
 -  title: 'Conseils'
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
-   image-link: "/fr/hiver/station/alpe-d-huez"
+   image-link: "d"
    subcategories:
     - subtitle-bold: "Matériel"
-    - subtitle: "Ski"
-      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Choisir son magasin de location de ski"
+      subhref: "fr/hiver/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
     - subtitle: "Snowboard"
       subhref: "/fr/ossa-et-support/lux-model/"
     - subtitle: "Chaussures"
