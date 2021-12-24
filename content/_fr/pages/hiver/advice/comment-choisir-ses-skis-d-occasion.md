@@ -30,6 +30,5 @@ page_sections:
   - Changer sa pratique de ski
   - Renouveler sa paire de ski
   title: ''
-published: false
 
 ---
