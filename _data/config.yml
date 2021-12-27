@@ -26,6 +26,7 @@ seasons: [winter,summer]
 
 fr:
   changelang: Parcourir le site en français
+  footer_baseline: Découvrez les activités près de chez vous et profitez d’expériences inoubliables seul, entre amis ou en famille !
   season:
     winter: 
       name: hiver
@@ -51,6 +52,7 @@ fr:
 
 en:
   changelang: Navigate this website in english
+  footer_baseline: Découvrez les activités près de chez vous et profitez d’expériences inoubliables seul, entre amis ou en famille !
   season:
     winter: 
       name: winter

@@ -6,7 +6,7 @@
                     <!-- start footer column -->
                     <div class="col-12 col-lg-3 col-md-5 col-sm-6 order-sm-1 order-lg-0 md-margin-50px-bottom xs-margin-25px-bottom">
                         <a href="/{{ page.language }}/{{ season_language }}" class="footer-logo margin-20px-bottom d-block"><img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_black | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_black | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" ></a>
-                        <p class="w-80 sm-w-100 margin-20px-bottom">We create digital experiences for brands and companies by using technology.</p>
+                        <p class="w-80 sm-w-100 margin-20px-bottom">{{ site.data.config.[language].footer_baseline }}</p>
                         <div class="social-icon-style-12">
                             <ul class="extra-small-icon light">
                                 
@@ -22,39 +22,22 @@
                         </div>
                     </div>
                     <!-- end footer column -->
+                    {% assign footnav = site.data.menu_footer.[language] %}
+
+                    {% for column in footnav %}
                     <!-- start footer column -->
                     <div class="col-12 col-lg-2 col-sm-4 order-sm-3 order-lg-0 xs-margin-25px-bottom">
-                        <span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">Company</span>
+                        <a href="{{ column.title-link }}"><span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">{{ column.col }}</span></a>
                         <ul>
-                            <li><a href="about-us.html">About us</a></li>
-                            <li><a href="our-services.html">Our services</a></li>
-                            <li><a href="our-team.html">Job opportunities</a></li>
-                            <li><a href="contact-us-classic.html">Contact us</a></li>
+                            {% for item in column.link %}
+                            <li><a href="{{ item.subhref }}">{{ item.subtitle }}</a></li>
+                            {% endfor %}
                         </ul>
                     </div>
                     <!-- end footer column -->
-                    <!-- start footer column -->
-                    <div class="col-12 col-lg-2 col-sm-4 order-sm-4 order-lg-0 xs-margin-25px-bottom">
-                        <span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">Customer</span>
-                        <ul>                           
-                            <li><a href="faq.html">Client support</a></li>
-                            <li><a href="our-story.html">Company story</a></li>
-                            <li><a href="pricing-packages.html">Pricing packages</a></li>
-                            <li><a href="our-process.html">Our process</a></li>
-                        </ul>
-                    </div>
-                    <!-- end footer column -->
-                    <!-- start footer column -->
-                    <div class="col-12 col-lg-2 col-sm-4 order-sm-5 order-lg-0 xs-margin-25px-bottom">
-                        <span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">Additional</span>
-                        <ul>
-                            <li><a href="our-story.html">Our story</a></li>
-                            <li><a href="who-we-are.html">Who we are</a></li>
-                            <li><a href="our-process.html">Our process</a></li>
-                            <li><a href="latest-news.html">Latest news</a></li>
-                        </ul>
-                    </div>
-                    <!-- end footer column -->
+                    {% endfor %}
+
+                    
                     <!-- start footer column -->
                     <div class="col-12 col-lg-3 col-md-5 col-sm-6 order-sm-2 order-lg-0 md-margin-50px-bottom xs-no-margin-bottom">
                         <span class="alt-font font-weight-500 d-block text-white margin-30px-bottom xs-margin-25px-bottom">Latest blog</span>
