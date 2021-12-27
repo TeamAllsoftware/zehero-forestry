@@ -40,7 +40,7 @@
                                 {% for nav in menu %}
                                 {% if nav.subcategories != null %}
                                 <li class="nav-item dropdown megamenu">
-                                    <a href="javascript:void(0);" class="nav-link">{{ nav.title }}</a>
+                                    <a href="{{ nav.title-link }}" class="nav-link">{{ nav.title }}</a>
                                     <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                                     <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
                                         <div class="d-lg-flex justify-content-center">

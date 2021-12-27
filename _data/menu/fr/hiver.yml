@@ -1,4 +1,5 @@
 -  title: 'Activités'
+   title-link: /fr/hiver/activites
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
    image-link: "/fr/hiver/activites"
    subcategories:
@@ -17,16 +18,17 @@
     - subtitle: '<span class="type--fine-print type--italic">Liste complète des activités</span>'
       subhref: fr/hiver/activites
 -  title: 'Conseils'
+   title-link: /fr/hiver/conseils
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
    image-link: "d"
    subcategories:
     - subtitle-bold: "Matériel"
     - subtitle: "Choisir son magasin de location de ski"
       subhref: "fr/hiver/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
-    - subtitle: "Snowboard"
-      subhref: "/fr/ossa-et-support/lux-model/"
-    - subtitle: "Chaussures"
-      subhref: "/fr/ossa-et-support/lux-model/"
+    - subtitle: "Comment choisir ses skis d'occasion"
+      subhref: "fr/hiver/conseil/ski-d-occasion"
+    - subtitle: "Comment choisir ses boots de snowboard"
+      subhref: "fr/hiver/conseil/boots-snowboard"
     - subtitle-bold: "Apprendre"
     - subtitle: "Ski"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
@@ -56,6 +58,7 @@
     - subtitle: "Sur 2 jours et plus"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
 -  title: 'Destinations'
+   title-link: /fr/hiver/destinations
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
    image-link: "/fr/ete/"
    subcategories:
@@ -67,6 +70,7 @@
     - subtitle: "Les Ménuires"
       subhref: "fr/hiver/station/les-menuires"
 -  title: 'Team ZE HERO'
+   title-link: /fr/hiver/team-zehero
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg'
    image-link: "/fr/ete/"
    subcategories:
@@ -86,6 +90,7 @@
     - subtitle: "Sandrine"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"
 -  title: 'Blog'
+   title-link: /fr/hiver/blog
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg'
    image-link: "/fr/ete/"
    subcategories:
