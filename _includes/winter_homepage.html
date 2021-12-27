@@ -316,86 +316,8 @@
         </div>
     </section>
     <!-- end section -->
-    <!-- start section -->
-    <section class="cover-background overlap-height" style="background-image:url('/images/winter/Hero-montagne.webp');">
-        <div class="opacity-extra-medium bg-dark-slate-blue"></div>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12 col-xl-6 col-lg-7 col-sm-8 text-center z-index-1 overlap-gap-section wow animate__fadeIn" data-wow-delay="0.4s">
-                    <span class="line-icon-Summer icon-extra-large text-white margin-30px-bottom"></span>
-                    <h4 class="alt-font font-weight-500 text-white letter-spacing-minus-1px margin-35px-bottom xs-margin-25px-bottom">Envie d'être informé <span class="font-weight-600"> des offres <span class="text-decoration-line-bottom-thick">et des conseils</span> !</span></h4>
-                    <span class="alt-font font-weight-500 text-white text-uppercase letter-spacing-2px">La newsletter ZE HERO est pour vous.</span>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- end section -->
-    <!-- start section -->
-    <section class="overflow-visible pb-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 overlap-section wow animate__flipInX" data-wow-delay="0.2s">
-                    <div class="bg-neon-orange border-radius-6px d-flex flex-column flex-lg-row align-items-center padding-40px-tb padding-7-rem-lr lg-padding-5-rem-lr xs-padding-2-rem-lr">
-                        <h6 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px w-45 mb-lg-0 lg-w-50 md-w-100 text-center text-lg-start md-margin-30px-bottom xs-margin-20px-bottom">Inscrivez-vous pour des infos exclusives</h6>
-                        <div class="newsletter-email position-relative w-55 lg-w-50 md-w-100">
-                            <form action="email-templates/subscribe-newsletter.php" method="post">
-                                <input class="border-radius-5px large-input border-0 box-shadow-extra-large bg-white m-0 required" name="email" placeholder="Entrer votre adresse email" type="email">
-                                <input type="hidden" name="redirect" value="">
-                                <button class="btn btn-medium line-height-18px margin-10px-right border-left border-width-1px border-color-black-transparent xs-no-margin-right submit"><i class="far fa-envelope text-extra-dark-gray icon-very-small left-icon xs-no-margin-right"></i><span class="d-none d-sm-inline-block">m'inscrire</span></button>
-                                <div class="form-results border-radius-5px position-absolute d-none"></div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- end section -->
-
-    <!-- start BLOG section -->
-    <section class="p-0">
-        <div class="container">
-            <div class="row justify-content-center wow animate__fadeIn">
-                <div class="col-12 col-xl-4 col-lg-5 col-sm-6 text-center margin-3-half-rem-bottom md-margin-2-rem-bottom">
-                    <span class="alt-font font-weight-500 text-green text-extra-medium d-block margin-20px-bottom sm-margin-10px-bottom">En direct du blog</span>
-                    <h5 class="alt-font font-weight-600 text-extra-dark-gray d-inline-block letter-spacing-minus-1-half">Les derniers articles</h5>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12 blog-content sm-no-padding-lr">
-                    <ul class="blog-masonry blog-wrapper grid grid-loading grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-double-extra-large">
-                        <li class="grid-sizer"></li>
-
-                        {% assign posts = site[page.collection] | reverse %}
-                        {% for blogpost in posts %}
-                        {% if blogpost.path contains "/posts/" and blogpost.season == "winter" %}
-                        <!-- start blog item -->
-                        <li class="grid-item wow animate__fadeIn">
-                            <div class="blog-post border-radius-5px bg-white">
-                                <div class="d-flex align-items-center font-weight-500 padding-30px-lr padding-15px-tb">
-                                    <a href="blog-masonry.html" title="Lien vers l'aticle de blog {{ blogpost.title }}" class="text-small me-auto text-slate-blue text-green-hover">{{ blogpost.date | date_to_string }}</a>
-                                    
-                                </div>
-                                <div class="blog-post-image">
-                                    <a href="{{ blogpost.url }}"  title="Lien vers l'aticle de blog {{ blogpost.title }}"><img src="{{ imgsize.url }}{{ imgsize.blogpostlist }}{{blogpost.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ blogpost.image01_alt }}"></a>
-                                    <div class="alt-font blog-category"><a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}" class="text-uppercase text-green text-extra-dark-gray-hover">{{ blogpost.tags[0] }}</a></div>
-                                </div>
-                                <div class="post-details padding-3-rem-lr padding-2-half-rem-tb lg-padding-2-rem-all md-padding-2-half-rem-tb md-padding-3-rem-lr">
-                                    <a href="{{ blogpost.url }}" 
-                                     title="Lien vers l'aticle de blog {{ blogpost.title }}" class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray text-green-hover d-block margin-15px-bottom">{{ blogpost.post-title }}</a>
-                                    <p>{{ blogpost.description | truncate: 80 }}</p>
-                                </div>
-                            </div>
-                        </li>
-                        <!-- end blog item -->
-                        {% endif %}
-                        {% endfor %}
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- end BLOG section -->
+    
+    {% include section_blog.html %}
 
     <!-- start section -->
     <section class="big-section home-design-agency" style="background:url('/images/global/home-design-agency-bg-img-02.png') no-repeat center right;">
