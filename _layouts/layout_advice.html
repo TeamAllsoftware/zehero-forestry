@@ -2,9 +2,6 @@
 layout: default
 ---
 
-{% assign resort = site.data.content.resorts %}
-{% assign zehero = site.data.config.zehero %}
-
 {% include elements/generic_variables.html %}
 
 <!-- start page title -->
@@ -17,9 +14,9 @@ layout: default
           </div>
           <div class="col-xl-4 col-lg-6 text-center text-lg-end breadcrumb justify-content-center justify-content-lg-end text-small alt-font md-margin-15px-top">
               <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="#">Pages</a></li>
-                  <li>Our services</li>
+                  <li><a href="/{{ page.language }}/{{ season_language }}">Accueil</a></li>
+                  <li><a href="#">Conseils</a></li>
+                  <li>{{ page.advice_cat }}</li>
               </ul>
           </div>
       </div>

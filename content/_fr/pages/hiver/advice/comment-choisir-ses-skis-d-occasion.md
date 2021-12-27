@@ -7,6 +7,7 @@ description: Comment choisir ses skis d'occasions? Il est important de prendre e
 topnav_color_text: light
 title: Comment choisir ses skis d'occasion
 permalink: "/fr/hiver/conseil/ski-d-occasion"
+advice_cat: Matériel
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330388/website/Conseil%20Equiepement/jeremy-bezanger-jW1I1M9TdRA-unsplash_urapcp.jpg
 image01_alt: Ski de piste, ski de freeride, ski all mountain
 button_to_link_to_ze_hero_shop:

@@ -7,6 +7,7 @@ description: Comment choisir ses chaussures de snowboard ? Découvrez toutes les
 topnav_color_text: light
 title: Comment choisir ses boots de snowboard
 permalink: "/fr/hiver/conseil/boots-snowboard"
+advice_cat: Matériel
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640262657/website/Conseil%20Equiepement/robson-hatsukami-morgan-5C6veSN6hec-unsplash_e5zqqr.jpg
 image01_alt: Snowboard dans une foret enneigée
 button_to_link_to_ze_hero_shop:
@@ -22,8 +23,7 @@ page_sections:
 - template: 2colimgtxt
   captiontitleuppercase: Le Flex
   title: Souple, Intermédiaire ou rigide
-  content: |2-
-
+  content: |-
     Les **flex souples** sont souvent caractéristiques des boots d’entrée de gamme. Ce sont les premiers boots qui servent d’alternative aux chaussures de location. Elles ne sont pas très contraignantes et sont moins rigides donc moins douloureuses au début.
 
     Cependant, les snowboots avec un flex souple séduisent aussi les pratiquants adeptes du **Freestyle**. Cela leur permet d’être plus à l’aise pour enchaîner leurs figures.
