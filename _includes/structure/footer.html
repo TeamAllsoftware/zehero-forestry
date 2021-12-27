@@ -1,4 +1,6 @@
-    <!-- start footer -->
+{% assign footnav = site.data.menu_footer.[language].[season_language] %}
+
+<!-- start footer -->
     <footer class="footer-dark bg-slate-blue">
         <div class="footer-top padding-five-tb lg-padding-eight-tb md-padding-50px-tb">
             <div class="container">
@@ -22,7 +24,6 @@
                         </div>
                     </div>
                     <!-- end footer column -->
-                    {% assign footnav = site.data.menu_footer.[language] %}
 
                     {% for column in footnav %}
                     <!-- start footer column -->
