@@ -47,6 +47,8 @@ fr:
       title: Dans le même univers
   activity:
     readmore: Explorer cette activité
+  resort:
+    readmore: Visiter cette destination
   contact:
     icon-link-title: Lien vers notre page de contact
 
@@ -73,6 +75,8 @@ en:
       title: Related posts
   activity:
     readmore: Explore more
+  resort:
+    readmore: Visit this destination
   contact:
     icon-link-title: Go to our contact page
 
