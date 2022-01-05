@@ -48,9 +48,10 @@
                 <ul class="blog-masonry blog-wrapper grid grid-loading grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-double-extra-large">
                     <li class="grid-sizer"></li>
 
-                    {% assign posts = site[page.collection] | reverse %}
+                    {% assign posts = site[page.collection] | reverse | where_exp: "page" , "page.season contains season" %}
+                            
                     {% for blogpost in posts %}
-                    {% if blogpost.path contains "/posts/" and blogpost.season == "winter" %}
+                    {% if blogpost.path contains "/posts/" %}
                     <!-- start blog item -->
                     <li class="grid-item wow animate__fadeIn">
                         <div class="blog-post border-radius-5px bg-white">
@@ -59,8 +60,8 @@
                                 
                             </div>
                             <div class="blog-post-image">
-                                <a href="{{ blogpost.url }}"  title="Lien vers l'aticle de blog {{ blogpost.title }}"><img src="{{ imgsize.url }}{{ imgsize.blogpostlist }}{{blogpost.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ blogpost.image01_alt }}"></a>
-                                <div class="alt-font blog-category"><a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}" class="text-uppercase text-green text-extra-dark-gray-hover">{{ blogpost.tags[0] }}</a></div>
+                                <a href="{{ blogpost.url }}"  title="Lien vers l'aticle de blog {{ blogpost.post-title }}"><img src="{{ imgsize.url }}{{ imgsize.blogpostlist }}{{blogpost.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ blogpost.image01_alt }}"></a>
+                                <div class="alt-font blog-category"><a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.post-title }}" class="text-uppercase text-green text-extra-dark-gray-hover">{{ blogpost.tags[0] }}</a></div>
                             </div>
                             <div class="post-details padding-3-rem-lr padding-2-half-rem-tb lg-padding-2-rem-all md-padding-2-half-rem-tb md-padding-3-rem-lr">
                                 <a href="{{ blogpost.url }}" 
