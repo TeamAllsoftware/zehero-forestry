@@ -42,6 +42,10 @@ fr:
     placeholder: Entrez votre adresse email
     subscribe-btn: Je m'inscris
   blog:
+    various:
+      text001: De
+      text002: le
+      text003: Lire tous mes articles
     related-posts:
       caption: Vous aimerez aussi
       title: Dans le même univers

@@ -23,10 +23,10 @@
                     <ul class="blog-simple blog-wrapper grid grid-loading grid-3col xl-grid-2col lg-grid-2col md-grid-1col sm-grid-1col xs-grid-1col gutter-double-extra-large">
                         <li class="grid-sizer"></li>
                         <!-- start blog item -->
-                        {% assign posts = site[page.collection] | reverse %}
+                        {% assign posts = site[page.collection] | reverse | where_exp: "page" , "page.season contains season" %}
+                        
                         {% for blogpost in posts %}
-                        {% assign author = site.data.authors[blogpost.author] %}
-                        {% if blogpost.path contains "/posts/" and blogpost.season == "winter" %}
+                        {% if blogpost.path contains "/posts/" %}
                         <li class="grid-item wow animate__fadeIn">
                             <div class="blog-post box-shadow-small border-radius-6px">
                                 <div class="blog-post-image cover-background xs-h-250px" style="background-image: url('{{ imgsize.url }}{{ imgsize.homeblogpostlist }}{{blogpost.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ blogpost.image01_alt }}')">
@@ -36,7 +36,7 @@
                                     <a href="blog-grid.html" class="blog-category alt-font text-extra-dark-gray border-color-black-transparent bg-white align-self-start margin-4-half-rem-bottom xs-margin-2-half-rem-bottom">Creative</a>
                                     <a href="{{ blogpost.url }}" class="font-weight-500 text-large line-height-24px text-extra-dark-gray margin-15px-bottom xs-margin-10px-bottom">{{ blogpost.post-title }}</a>
                                     <p>{{ blogpost.description | truncate: 60  }}</p>
-                                    <a href="blog-grid.html" class="alt-font font-weight-500 text-small text-gradient-sky-blue-pink text-uppercase align-self-start">{{ author.firstname }} {{ author.lastname }}</a>
+                                    <a href="blog-grid.html" class="alt-font font-weight-500 text-small text-gradient-sky-blue-pink text-uppercase align-self-start">{{ blogauthor.firstname }} {{ blogauthor.lastname }}</a>
                                 </div>
                             </div>
                         </li>

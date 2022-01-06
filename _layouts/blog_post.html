@@ -22,7 +22,7 @@ layout: default
                     <a href="blog-grid.html" class="d-inline-block text-white">{{ page.tags[2] }}</a>
                 </div>
                 <h3 class="font-weight-600 w-50 mx-auto md-w-70 xs-w-90">{{ page.post-title }}</h3>
-                <div class="d-inline-block text-white-transparent margin-5px-top">By <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ author.firstname }} {{ author.lastname }}</a> on <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ page.date | date_to_string }}</a></div>
+                <div class="d-inline-block text-white-transparent margin-5px-top">{{ config.blog.various.text001 }} <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ author.firstname }} {{ author.lastname }}</a> {{ config.blog.various.text002 }} <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ page.date | date_to_string }}</a></div>
             </div>
         </div>
     </div>
@@ -64,7 +64,7 @@ layout: default
                   </div>
                   <div class="w-75 sm-w-100 last-paragraph-no-margin text-center text-md-start">
                       <p>{{ author.bio }}</p>
-                      <a href="blog-grid.html" class="btn btn-link btn-large text-extra-dark-gray margin-20px-top">All author posts</a>
+                      <a href="blog-grid.html" class="btn btn-link btn-large text-extra-dark-gray margin-20px-top">{{ config.blog.various.text003 }}</a>
                   </div>
               </div>
           </div>
