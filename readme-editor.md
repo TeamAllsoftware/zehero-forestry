@@ -23,15 +23,15 @@ Once you have been introduce to our system, you might want to use the block comp
 
 **The resort template was updated with introduction text to personalize each resort like this capture represent it :**
 
-![](https://res.cloudinary.com/deddrj0yb/image/upload/t_Width 900/v1641486201/website/admin%20forestry/resort-introduction-1_hcflwh.png)
+![](https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,w_800/v1641486201/website/admin%20forestry/resort-introduction-1_hcflwh.png)
 
 **In the admin resort page, look for the "introduction" block :**
 
-![](https://res.cloudinary.com/deddrj0yb/image/upload/t_Width 900/v1641486200/website/admin%20forestry/resort-introduction-3_i696c9.png)
+![](https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,w_800/v1641486200/website/admin%20forestry/resort-introduction-3_i696c9.png)
 
 **and you enter the "Introduction" block to edit :**
 
-![](https://res.cloudinary.com/deddrj0yb/image/upload/t_Width 900/v1641486200/website/admin%20forestry/resort-introduction-2_iz1pl8.png)
+![](https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,w_800/v1641486200/website/admin%20forestry/resort-introduction-2_iz1pl8.png)
 
 ## For now we use the following components
 
