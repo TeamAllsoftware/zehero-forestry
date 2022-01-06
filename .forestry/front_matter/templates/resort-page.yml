@@ -92,6 +92,34 @@ fields:
   description: top navigation menu text color must be white or black ? depends on
     the background image tone (dark or light) or color (dark or light). If background
     is dark and you want a white text select "dark"
+- name: introduction
+  type: field_group
+  config: {}
+  fields:
+  - name: you_arrive
+    type: textarea
+    default: Vous arrivez et souhaitez louer du matériel dans cette station.
+    config:
+      required: true
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: You arrive in...
+    description: Vous arrivez à NOM DE LA STATION et vous souhaitez louer du matériel
+      dans cette station.
+  - name: zehero_advice
+    type: textarea
+    default: ZE HERO vous conseille pour  les activités et la location des équipements
+      pour toute la famille
+    config:
+      required: true
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: ZE HERO advice you
+    description: ZE HERO vous conseille pour louer des skis, des chaussures de ski,
+      des casques et beaucoup d'autres équipements pour toute votre famille
+  label: Introduction
 - name: button_to_link_to_ze_hero_shop
   type: field_group
   config: {}
