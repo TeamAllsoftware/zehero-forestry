@@ -50,7 +50,7 @@
 
                     {% assign posts = site[page.collection] | reverse | where_exp: "page" , "page.season contains season" %}
                             
-                    {% for blogpost in posts %}
+                    {% for blogpost in posts limit:3 %}
                     {% if blogpost.path contains "/posts/" %}
                     <!-- start blog item -->
                     <li class="grid-item wow animate__fadeIn">

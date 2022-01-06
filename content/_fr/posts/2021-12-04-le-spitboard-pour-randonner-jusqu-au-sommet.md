@@ -13,7 +13,7 @@ topnav_color_text: light
 
 tags:
 - découverte
-- enntre amis
+- entre amis
 - splitboard
 ---
 ## Un titre H2
