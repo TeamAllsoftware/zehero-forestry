@@ -107,3 +107,5 @@ img:
   bigsquare: c_fill,w_800,h_803
   rectangle: c_fill,w_800,h_387
   smlsquare: c_fill,w_400,h_400
+#resort hero image
+  resorthero: c_fill,w_1200,h_700

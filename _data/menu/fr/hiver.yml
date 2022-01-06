@@ -62,7 +62,7 @@
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
    image-link: "/fr/ete/"
    subcategories:
-    - subtitle-bold: "Toutes les informations sur les stations"
+    - subtitle-bold: "Les stations de montagne"
     - subtitle: "Alpe d'Huez"
       subhref: "fr/hiver/station/alpe-d-huez"
     - subtitle: "Val-Thorens"
@@ -75,6 +75,10 @@
       subhref: "fr/hiver/station/val-d-isere"
     - subtitle: "Méribel"
       subhref: "fr/hiver/station/meribel"
+   subcategories2:
+    - subtitle-bold: "Les stations balnéaires"
+    - subtitle: "Antibes"
+      subhref: "fr/hiver/station/antibes"
 -  title: 'Team ZE HERO'
    title-link: /fr/hiver/team-zehero
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg'
