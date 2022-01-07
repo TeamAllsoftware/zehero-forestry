@@ -42,6 +42,11 @@ page_sections:
   captionrighttitle: Renseignez vous sur le service et la qualité de l'école de ski
   captionrightcontent: Vous pouvez également vérifier les avis sur TripAdvisor afin
     d'avoir des retours des différentes expériences des personnes.
+- template: textarea
+  title: 'Les derniers points importants '
+  content: |-
+    * Il est important de prendre en compte le point de rdv des cours de ski. Surtout si vous avez des enfants.
+    * Selon ce que vous recherchez, il est important de demander directement vos spécificités. Si vous souhaitez visiter le domaine skiable, apprendre le freestyle, sortir en hors-piste, l’école de ski aura à disposition des moniteurs spécifiques.
 published: false
 
 ---
