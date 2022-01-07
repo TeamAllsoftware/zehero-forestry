@@ -99,14 +99,15 @@ page_sections:
     hors-pistes par leurs rigidités plus souple. "
   title: ''
 - template: 3coltxtimgtxt
-  captionleftcontent: Liberté et découverte, le ski de randonnée fait place
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540483/website/winter/guillaume-marques-9HRLg-yzeq8-unsplash_ulzuqx.jpg
-  captionrighttitle: 'Parmi toutes ces stations, de nombreuses activités hivernales
-    s’offrent à vous. '
-  captionrightcontent: |-
-    Ne pensez pas que ski et laissez vous tenter par d’autres choses tout aussi intéressantes en termes de sensation. Laissez vous guider chien de traîneau, parapente, ski joëring ou bien d’autres activités encore.
-
-    Au rendez vous, sensations fortes, loisirs, émotions, plaisirs en famille…à vous de choisir !
+  captionleftcontent: Liberté et découverte, plongez dans le paradis blanc
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540484/website/winter/robson-hatsukami-morgan-bkdzvgBB7rQ-unsplash_bnafvq.jpg
+  captionrighttitle: Découvrez, progressez, dépassez-vous
+  captionrightcontent: Laissez guider par un guide afin de suivre des itinéraires
+    sûres. Il vous permettra de vous accompagner seul ou en groupe, dans les coins
+    magiques en fonction des conditions de neige et de météo. Il vous apprendra cette
+    pratique mais également les différentes notions à avoir sur la qualité de neige,
+    des différentes couches, des risques d'avalanches. Toutes ces informations essentielles,
+    vous permettrons de partager un moment riche en émotions et en apprentissage.
 - template: textarea
   title: Le ski de randonnée, c’est quoi ?
   content: |-
