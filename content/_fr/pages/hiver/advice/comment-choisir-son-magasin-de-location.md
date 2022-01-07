@@ -29,6 +29,13 @@ page_sections:
     de problèmes ou bien échange c’est toujours plus simple d’avoir un magasin ouvert
     7/7 non-stop. Pour finir, les **feedbacks** des clients du magasin  \nde location
     de ski."
+- template: textarea
+  title: Les différents éléments que vous pouvez demander
+  content: |-
+    * Les tarifs : Il existe beaucoup de remises chaque semaine car une grande concurrence existe. Notre site internet vous présente les tarifs nets après remise par semaine.
+    * Vous avez le choix entre magasin avec enseigne (sport 2000, Ski set, Intersport, Skimium, gosport …) ou bien sans enseigne : ce sont généralement des franchises, ce qui est important c’est l’équipe sur place, sauf si vous êtes attachés à une enseigne spécifique.
+    * Vous pouvez demander l’année d’achat des skis de location : ce n’est pas toujours noté sur le site.
+    * Vous pouvez demander s’il existe un atelier pour l’entretien des skis. Lorsque vous louez un ski, il est important que l’entretien du ski soit effectué après chaque sortie.
 published: false
 
 ---
