@@ -5,24 +5,22 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Ski de randonnée
-description: La Savoie est un véritable lieu de regroupement pour les plus friands
-  de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux
-  des grands espaces et du milieu montagnard en général.
-baseline: Endurance, calme et volupté
+description: Le ski de randonné
+baseline: Endurance, découverte et ascension
 engage: Profiter de la nature sans la cohue des pistes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Randonne-montagne-seul_ahg2x8.jpg
 image01_alt: Ski de randonnée dans les domaines de Savoie
 page_sections:
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,h_545/c_crop,g_north,h_545,w_475/v1638822010/website/winter/Hero-montagne_m8cx1r.webp
-  title: Département français de la région Rhône Alpes, la Savoie est très connue
-    pour ses nombreux sommets.
-  content: 'Avec le point le plus bas à Saint-Genix-sur-Guiers (208 mètres) et son
-    point culminant à 3 855 mètres pour la Grande Casse en Vanoise. La majorité de
-    ses massifs sont alpins, tels que : Le massif des bauges, de la chartreuse ou
-    encore celui du Mont Blanc. On y trouve tout de même une belle partie plus vallonnée
-    tel que le massif de la chambotte et la chaîne de l’épine.'
-  captiontitleuppercase: La Savoie
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg
+  title: La liberté de s'éloigner des pistes, de faire sa trace, de descendre des
+    pentes vierges au cœur des montagnes.
+  content: On peut enfiler les peaux de phoques pour s'éloigner des pistes et du monde,
+    aller réaliser de beaux hors-pistes, se balader en forêts, atteindre des sommets
+    ou même s'entraîner à faire du dénivelé. Il y a plusieurs raison de faire du ski
+    de randonnée. Cette pratique demande du matériel spécifique, ainsi que des connaissances
+    sur la sécurité et sur la montagne.
+  captiontitleuppercase: Le ski de randonnée
 - template: textarea
   textarea: Et je peux en ajouter un au dessus histoire d'ajouter du contenu à ma
     guise. c'est absolument génial.
