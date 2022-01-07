@@ -32,6 +32,12 @@ page_sections:
     Il faut également connaître son itinéraire afin de savoir quelle trace prendre
     et éviter de prendre des endroits trop risqués. Ensuite, il est impératif d''avoir
     sur soi, tout le matériel adéquat :'
+- template: liststyle01numbered
+  item:
+  - Sonde
+  - Pelle
+  - DVA ou Arva
+  title: ''
 - template: textarea
   textarea: C'est vraiment excellent
   title: Les stations Savoyardes
