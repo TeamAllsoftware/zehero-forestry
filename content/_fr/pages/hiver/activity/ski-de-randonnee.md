@@ -114,13 +114,13 @@ page_sections:
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/greg-rosenke-ijFOmhUCp58-unsplash_lmnims.jpg
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/jon-flobrant-wElgJTwsibs-unsplash_mo3el7.jpg
 - template: textarea
-  content: |-
-    En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité des stations puisque, comme mentionné plus haut elle ne nécessite pas de matériels tels que remontées mécaniques ou autre mais seulement d’un accompagnateur diplômés qui pourra vous faire découvrir de magnifique endroits à arpenter.
-
-    Le ski de randonnée est possible à la réservation soit en passant par l’intermédiaire d’un organisme privé ou public soit en traitant directement avec un indépendant diplômé.
-
-    Comme vous l’aurez compris, le ski de randonnée est une approche différente mais tout aussi appréciable que le ski alpin classique alors n’attendez plus et faites vous votre propre expérience.
-  title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
-    des stations
+  content: "Vous trouverez en France un choix gigantesque de randonnée à faire. Que
+    vous soyez encadré ou non, toutes les possibilités s'offrent à vous. Vous pourrez
+    alors vous échapper dans le massif de la Vanoise, dans le massif du Mont Blanc
+    mais aussi dans celui du Mercantour, dans le Jura et encore celui des Pyrénées.
+    \ \n  \nDans certaines stations, vous pourrez trouver des sentiers balisés pour
+    le ski de randonnée. Cela permet d'avoir des itinéraires faciles et agréables
+    afin de profiter sereinement de la montagne.  "
+  title: Où aller ?
 
 ---
