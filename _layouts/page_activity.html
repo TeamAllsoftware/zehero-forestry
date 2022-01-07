@@ -2,8 +2,11 @@
 layout: default
 ---
 
+{% include elements/generic_variables.html %}
+
 <!-- start hero section -->
-<section class="p-0 cover-background overlap-height" style="background-image: url('{{ page.image01_href }}');">
+{% capture download_note %}{{ page.image01_href }}{% endcapture %}
+<section class="p-0 cover-background overlap-height" style="background-image: url('{% include image.html file=download_note sizevar="genhero" width="" height="" %}');"> 
   <div class="opacity-very-light bg-dark-slate-blue"></div>
   <div class="container position-relative">
       <div class="row full-screen md-h-800px sm-h-500px">
