@@ -7,7 +7,6 @@ description: Comment choisir ses skis d'occasions? Il est important de prendre e
 topnav_color_text: light
 title: Comment choisir ses skis d'occasion
 permalink: "/fr/hiver/conseil/ski-d-occasion"
-advice_cat: Matériel
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330388/website/Conseil%20Equiepement/jeremy-bezanger-jW1I1M9TdRA-unsplash_urapcp.jpg
 image01_alt: Ski de piste, ski de freeride, ski all mountain
 button_to_link_to_ze_hero_shop:
@@ -18,18 +17,38 @@ page_sections:
   content: "Vous recherchez du matériel de **ski d’occasion** et vous ne savez pas
     comment faire pour bien les choisir ? Il y a plusieurs paramètres à prendre en
     compte lorsque vous souhaitez acheter des skis d’occasion afin d’avoir la meilleure
-    paire pour votre usage.\n\n**Pour quelles raisons cherchez- vous des skis d’occasions
-    ?  \n**Nous avons identifié 6 raisons, autre que le prix, pour lesquelles les
+    paire pour votre usage.\n\n\\**Pour quelles raisons cherchez-vous des skis d’occasions
+    ?  \n\\**Nous avons identifié 6 raisons, autre que le prix, pour lesquelles les
     skis d’occasion sont une excellente alternative au matériel neuf."
   title: ''
 - template: liststyle01numbered
   item:
   - Pour offrir
-  - Résidence secondaire
-  - Pour les enfants qui grandissent vite
-  - Skier avec des skis d'occasion pour les mauvaises conditions de neige
-  - Changer sa pratique de ski
-  - Renouveler sa paire de ski
+  - 'Résidence secondaire : cela vous permet de laisser toujours une paire de ski
+    secondaire sans avoir à la transporter avec vous'
+  - 'Pour les enfants qui grandissent vite : en effet, un enfant grandi vite et si
+    vous achetez neuf, les skis ne vous dureront pas longtemps. L''achat d''occasion
+    vous permet d''investir dans une paire moins cher mais tout aussi efficace'
+  - 'Skier avec des skis d''occasion pour les mauvaises conditions de neige : il faut
+    chaud, les cailloux commencent à sortir et vous ne voulez pas abimer vos skis
+    ? Les ski d''occasions permettent d''éviter de sortir votre beau matériel'
+  - 'Changer sa pratique de ski : si vous souhaitez pratiquer une autre discipline
+    tel que le ski de randonnée, le freeride ou autre, sans trop investir, le choix
+    de l''occasion est idéal'
+  - 'Renouveler sa paire de ski : vos skis s''abiment et vous aimerez renouveler votre
+    matériel sans trop de frais'
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330388/website/Conseil%20Equiepement/jeremy-bezanger-jW1I1M9TdRA-unsplash_urapcp.jpg
+  captiontitleuppercase: Les informations importantes du ski d'occasion
+  title: Comment bien choisir ses skis d'occasion ?
+  content: 'Tout d''abord, il est important de savoir l''origine du ski afin d''en
+    supposer son usage. Le ski d''occasion peut donc venir d''un particulier, d''un
+    professionnel ou d''un magasin de location. Si provient d''un professionnel, cela
+    peut être un moniteur, un entraîneur, un pisteur, le ski aura plus de chance d''être
+    bien entretenu. Pour un magasin de location, le ski sera entretenu après chaque
+    utilisation mais il servira généralement beaucoup. Pour un particulier, cela dépendra
+    vraiment de la personne.  '
+advice_cat: Matériel
 
 ---
