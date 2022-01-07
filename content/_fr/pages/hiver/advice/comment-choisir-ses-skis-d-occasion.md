@@ -49,6 +49,17 @@ page_sections:
     bien entretenu. Pour un magasin de location, le ski sera entretenu après chaque
     utilisation mais il servira généralement beaucoup. Pour un particulier, cela dépendra
     vraiment de la personne.  '
+- template: textarea
+  content: Il est important ensuite d'apprendre des connaissance sur la description
+    du ski, de le connaître. C'est de savoir pour quelle utilité est il destinée,
+    pour quel niveau et quel maitrise. C'est de savoir également la taille adapté
+    pour vous pour tel ou tel modèle.
+  title: Connaître le ski
+- template: textarea
+  content: Il faut ensuite savoir si le ski a été beaucoup utilisé. Vous aurez donc
+    une 1er information par son année de sorti et d'où provient le ski. Il faut alors
+    savoir alors son usage pour savoir s'il a beaucoup été utilisé et bien entretenu.
+  title: ''
 advice_cat: Matériel
 
 ---
