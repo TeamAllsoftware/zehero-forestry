@@ -75,7 +75,18 @@ page_sections:
 
     Les carres : Il faut vérifier qu’elles ne présentent aucunes bosses ou fissures afin d’avoir des carres qui restent de qualités. En effet, une carre fragile, c’est un ski qui ne tiendra pas longtemps.
   title: ''
+- template: imagegallery02
+  title: Exemple de ski d'occasion
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/speezone16R_xhbtls.jpg
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/Speed_1_ms6owp.jpg
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/Speed_2_eb5cxc.jpg
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/Speed_3_knm7j9.jpg
+- template: textarea
+  content: "N'hésitez pas à demander plus d'information sur les skis que vous désirez,
+    sur leurs états.  \nUn ski qui aura plus de 5ans sera entre guillemets en fin
+    de vie. Il perdra de sa qualité et de son efficacité. Il est plus judicieux de
+    faire un achat plus récent afin d'avoir des skis de meilleure qualité."
+  title: ''
 advice_cat: Matériel
-published: false
 
 ---
