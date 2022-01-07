@@ -49,30 +49,6 @@ page_sections:
   - Pelle
   - DVA ou Arva
   title: ''
-- template: liststyle01numbered
-  title: Le top 5 des stations hivernales pour pratiquer une activité physique hors
-    Ski Alpin
-  item:
-  - 'Les Saisies: La station de ski familiale par excellence. Située à 1650 m d’altitude
-    en Savoie Mont-Blanc entre le Beaufortain et le Val d’Arly. Une station aux valeurs
-    de convivialité, d’authenticité, des paysages à couper le souffle et une nature
-    préservée.'
-  - 'Courchevel: Située en Tarentaise, elle fait partie du domaine skiable des trois
-    vallées. 6 villages reliés par des remontées mécaniques et des navettes gratuites
-    dessinent une station unique aux univers multiples. Partout, la recherche de l’excellence
-    et la culture du détail raisonnent.'
-  - 'Les Arcs: Pour offrir à chacun le confort, les services et le mode de vie qui
-    lui correspondent, Les Arcs, vous propose 5 ambiances différentes au sein des
-    5 sites d’altitude.'
-  - 'Val Cenis: Val Cenis est une station de montagne à l’altitude parfaite pour s’oxygéner
-    et se ressourcer dans un environnement très nature au pied du Col du Mont-Cenis.
-    C’est aussi une destination aux multiples facettes : familiale et sportive, authentique
-    et innovante, reposante et animée, généreuse et sincère.'
-  - 'Val d’Isère: Elle forme le domaine skiable Espace Killy avec la station voisine
-    de Tignes. Des téléskis permettent d’accéder à des sites tels que l’abrupte face
-    de Bellevarde et le glacier de la Grande Motte, connu pour la pratique du ski
-    d’été. Profitez d’un immense domaine skiable et du charme d’un village savoyard
-    typique que vous trouverez nul part ailleurs.'
 - template: 2colimgtxt
   content: Le ski de randonnée se pratique avec du matériel différents du ski alpin
     ou freeride. Les ski de randonnée vont varier selon les pratiques. Vous trouverez
@@ -84,10 +60,10 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/amza-andrei-LiwdRhUaGZ0-unsplash_sqwdgb.jpg
   captiontitleuppercase: Léger et technique
 - template: textarea
-  content: "Certains skis sont dédiée uniquement à la pratique du ski de randonnée,
+  content: "Certains skis sont dédiés uniquement à la pratique du ski de randonnée,
     d'autres seront adaptés pour une pratique freeride et de randonnée. Mais l'idéal
     est tout de même une paire plutôt légère mais qui a une bonne tenue en hors-piste.
-    \  \nIl faut ensuite avoir les fixations adaptés à cette pratique. Comme les skis,
+    \ \nIl faut ensuite avoir les fixations adaptés à cette pratique. Comme les skis,
     il en existe plusieurs pour différentes pratiques. Certaines sont comme des fixations
     de ski classiques avec une plateforme qui permet de décoller la fixation. Ensuite,
     on retrouve celle à insert, qui permettent d'avoir des fixations plus légères
@@ -96,7 +72,7 @@ page_sections:
     très important. Il faut avoir aux pieds une chaussure qui est très confortable
     pour vous, avec un bon débattement pour la montée. Aujourd'hui, il existe des
     chaussures ultra-light mais qui seront moins adaptées pour des longues sessions
-    hors-pistes par leurs rigidités plus souple. "
+    hors-pistes par leurs rigidités plus souple."
   title: ''
 - template: 3coltxtimgtxt
   captionleftcontent: Liberté et découverte, plongez dans le paradis blanc
