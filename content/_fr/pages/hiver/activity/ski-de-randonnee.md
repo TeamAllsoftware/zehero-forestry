@@ -120,17 +120,6 @@ page_sections:
     Vous avez peut-être déjà entendu parlé de la Pierra Menta ?   \nDiscipline devenu
     aujourd'hui olympique, elle demande une très forte dépense énergétiques car elle
     très complète et physique."
-- template: liststyle01numbered
-  title: Déroulement d’une sortie en ski de randonnée
-  item:
-  - Souvent, elle commence par une marche d’approche qui emmène au départ de l’ascension
-    où l’on peut ensuite chausser les skis.
-  - La deuxième étape est l’ascension de la pente en question (plusieurs techniques
-    possibles, à savoir celle des conversions, une technique particulière qui permet
-    de diminuer l’effort dans la pente en faisant un mouvement de rotation du ski
-    bien particulier)
-  - 'Troisième étape: la descente, qui demande une plus ou moins bonne technique en
-    fonction de l’environnement dans lequel on se trouve et des conditions du jour.'
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883537/website/winter/Montagne-randonnee-blizzard_imccfq.jpg
   captionabovetitle: Physique à la montée, technique à la descente
@@ -157,6 +146,5 @@ page_sections:
     Comme vous l’aurez compris, le ski de randonnée est une approche différente mais tout aussi appréciable que le ski alpin classique alors n’attendez plus et faites vous votre propre expérience.
   title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
     des stations
-published: false
 
 ---
