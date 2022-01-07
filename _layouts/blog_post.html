@@ -5,7 +5,8 @@ layout: default
 {% include elements/generic_variables.html %}
 
 <!-- start section-->
-<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url( {{ imgsize.url }}{{ imgsize.blogposthero }}{{page.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }} );">
+{% capture download_note %}{{ page.image01_href }}{% endcapture %}
+<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url( {% include image.html file=download_note sizevar="blogposthero" width="" height="" %} );">
 </section>
 <!-- end section -->
 <!-- start section-->
@@ -64,7 +65,7 @@ layout: default
                   </div>
                   <div class="w-75 sm-w-100 last-paragraph-no-margin text-center text-md-start">
                       <p>{{ author.bio }}</p>
-                      <a href="blog-grid.html" class="btn btn-link btn-large text-extra-dark-gray margin-20px-top">{{ config.blog.various.text003 }}</a>
+                      {% comment %}<a href="blog-grid.html" class="btn btn-link btn-large text-extra-dark-gray margin-20px-top">{{ config.blog.various.text003 }}</a>{% endcomment %}
                   </div>
               </div>
           </div>

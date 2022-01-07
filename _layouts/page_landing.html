@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
+
 {% assign author = site.data.authors[page.author] %}
+{% include elements/generic_variables.html %}
+
 <!-- start section-->
-<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url( {{ page.image01_href }} );">
+{% capture download_note %}{{ page.image01_href }}{% endcapture %}
+<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url( {% include image.html file=download_note sizevar="genhero" width="" height="" %} );">
 </section>
 <!-- end section -->
 <!-- start section-->
