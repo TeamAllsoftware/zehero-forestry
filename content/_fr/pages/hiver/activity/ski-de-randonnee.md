@@ -99,8 +99,8 @@ page_sections:
     hors-pistes par leurs rigidités plus souple. "
   title: ''
 - template: 3coltxtimgtxt
-  captionleftcontent: gg
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/c_thumb,h_500,w_500/v1638883539/website/winter/Chien-traineau-foret_h8m0bh.jpg
+  captionleftcontent: Liberté et découverte, le ski de randonnée fait place
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540483/website/winter/guillaume-marques-9HRLg-yzeq8-unsplash_ulzuqx.jpg
   captionrighttitle: 'Parmi toutes ces stations, de nombreuses activités hivernales
     s’offrent à vous. '
   captionrightcontent: |-
