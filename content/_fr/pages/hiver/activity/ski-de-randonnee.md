@@ -5,41 +5,50 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Ski de randonnée
-description: La Savoie est un véritable lieu de regroupement pour les plus friands
-  de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux
-  des grands espaces et du milieu montagnard en général.
-baseline: Endurance, calme et volupté
+description: Le ski de randonné
+baseline: Endurance, découverte et ascension
 engage: Profiter de la nature sans la cohue des pistes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Randonne-montagne-seul_ahg2x8.jpg
 image01_alt: Ski de randonnée dans les domaines de Savoie
 page_sections:
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,h_545/c_crop,g_north,h_545,w_475/v1638822010/website/winter/Hero-montagne_m8cx1r.webp
-  title: Département français de la région Rhône Alpes, la Savoie est très connue
-    pour ses nombreux sommets.
-  content: 'Avec le point le plus bas à Saint-Genix-sur-Guiers (208 mètres) et son
-    point culminant à 3 855 mètres pour la Grande Casse en Vanoise. La majorité de
-    ses massifs sont alpins, tels que : Le massif des bauges, de la chartreuse ou
-    encore celui du Mont Blanc. On y trouve tout de même une belle partie plus vallonnée
-    tel que le massif de la chambotte et la chaîne de l’épine.'
-  captiontitleuppercase: La Savoie
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg
+  title: La liberté de s'éloigner des pistes, de faire sa trace, de descendre des
+    pentes vierges au cœur des montagnes.
+  content: On peut enfiler les peaux de phoques pour s'éloigner des pistes et du monde,
+    aller réaliser de beaux hors-pistes, se balader en forêts, atteindre des sommets
+    ou même s'entraîner à faire du dénivelé. Il y a plusieurs raison de faire du ski
+    de randonnée. Cette pratique demande du matériel spécifique, ainsi que des connaissances
+    sur la sécurité et sur la montagne.
+  captiontitleuppercase: Le ski de randonnée
+- template: textarea
+  content: "Le ski de randonnée reste une activité physique car la montée demande
+    une bonne condition physique. Le dénivelé positif sera exigeant pour vos jambes,
+    votre cardio ainsi que pour les bras. La technique de montée s'apprend afin d'être
+    plus efficace sur la poussée du bâton et sur les pas en fonction du degré de la
+    pente. Vous apprendrez ensuite à réaliser des conversions qui seront nécessaire
+    pour monter en zig-zag.  \nPartez atteindre les sommets afin d'avoir des points
+    de vue uniques. Respirez l'air pur, écoutez le silence, admirez la plénitude de
+    la montagne vierge et sauvage. Tracez vos propres lignes en hors-piste et profitez
+    du hors-piste pour flotter sur la neige. "
+  title: ''
 - template: textarea
   textarea: Et je peux en ajouter un au dessus histoire d'ajouter du contenu à ma
     guise. c'est absolument génial.
-  title: La Savoie
-  content: |-
-    La Savoie est un véritable lieu de regroupement pour les plus friands de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux des grands espaces et du milieu montagnard en général. La faune et la flore y sont très développées et de nombreux espaces sauvages pourront s’offrir à vous.
-
-    Pour les moins sportifs, la Savoie reste une destination intéressante. En effet, elle détient un gros passé historique et regorge de monuments historiques datant de l’âge néolithique jusqu’au XIXe siècle. Elle possède également un patrimoine architectural et culturel important, de par la diversité des civilisations qui l’occupent au cours du temps.
-- template: textarea
-  textarea: C'est vraiment excellent
-  title: Les stations Savoyardes
-  content: |-
-    La Savoie est aussi très sujette à des flux de population importants avec de fortes variations saisonnières. Pendant la saison hivernale, sa population peut aller jusqu’à doubler du fait du développement des sports d’hiver avec un grand nombre de stations dont certaines ayant une renommée internationale.
-
-    La Tarentaise et la Maurienne sont les deux principales vallées à l’origine d’un gros trafic en hiver; les sports d’hiver et principalement le ski étant à l’origine de ce trafic saisonnier.
-
-    Les stations comme Courchevel, [Val thorens](fr/hiver/station/val-thorens "Voir les locations à Val-Thorens"), Val d’isère, Tignes, ont une dimension et un rayonnement international, tandis que d’autres sont plus petites et à taille humaine telles que: La Toussuire, Le Corbier ou encore Bonneval sur arc.
+  title: Connaître la montagne et la sécurité
+  content: 'Avant tout chose, le ski de randonné est le plus souvent pratiqué en dehors
+    des pistes., donc non sécurisé. Il faut donc dans un 1er temps, connaître les
+    conditions de neige et le bulletins de risque d''avalanche (BAR). C''est la 1er
+    chose à faire avant de partir en montagne ainsi que les conditions météorologiques.
+    Il faut également connaître son itinéraire afin de savoir quelle trace prendre
+    et éviter de prendre des endroits trop risqués. Ensuite, il est impératif d''avoir
+    sur soi, tout le matériel adéquat :'
+- template: liststyle01numbered
+  item:
+  - Sonde
+  - Pelle
+  - DVA ou Arva
+  title: ''
 - template: liststyle01numbered
   title: Le top 5 des stations hivernales pour pratiquer une activité physique hors
     Ski Alpin
@@ -64,9 +73,34 @@ page_sections:
     de Bellevarde et le glacier de la Grande Motte, connu pour la pratique du ski
     d’été. Profitez d’un immense domaine skiable et du charme d’un village savoyard
     typique que vous trouverez nul part ailleurs.'
+- template: 2colimgtxt
+  content: Le ski de randonnée se pratique avec du matériel différents du ski alpin
+    ou freeride. Les ski de randonnée vont varier selon les pratiques. Vous trouverez
+    alors de skis de randonnée larges mais plus lourds qui seront parfaits pour la
+    descente mais plus difficile en montée. Mais aussi des ski plus légers qui seront
+    un bon intermédiaire pour la montée et la descente. Ainsi que des skis très légers,
+    qui seront faciles pour la montée mais moins agréables à la descente.
+  title: Le matériel du ski de randonnée
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/amza-andrei-LiwdRhUaGZ0-unsplash_sqwdgb.jpg
+  captiontitleuppercase: Léger et technique
+- template: textarea
+  content: "Certains skis sont dédiée uniquement à la pratique du ski de randonnée,
+    d'autres seront adaptés pour une pratique freeride et de randonnée. Mais l'idéal
+    est tout de même une paire plutôt légère mais qui a une bonne tenue en hors-piste.
+    \  \nIl faut ensuite avoir les fixations adaptés à cette pratique. Comme les skis,
+    il en existe plusieurs pour différentes pratiques. Certaines sont comme des fixations
+    de ski classiques avec une plateforme qui permet de décoller la fixation. Ensuite,
+    on retrouve celle à insert, qui permettent d'avoir des fixations plus légères
+    tout en étant performantes. Elles évolueront en fonction de la pratique, du poids
+    que vous voulez avoir sur vos skis.  \nLes chaussures sont ensuite un équipement
+    très important. Il faut avoir aux pieds une chaussure qui est très confortable
+    pour vous, avec un bon débattement pour la montée. Aujourd'hui, il existe des
+    chaussures ultra-light mais qui seront moins adaptées pour des longues sessions
+    hors-pistes par leurs rigidités plus souple. "
+  title: ''
 - template: 3coltxtimgtxt
-  captionleftcontent: Les meilleures activités à faire en station
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/c_thumb,h_500,w_500/v1638883539/website/winter/Chien-traineau-foret_h8m0bh.jpg
+  captionleftcontent: Liberté et découverte, le ski de randonnée fait place
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540483/website/winter/guillaume-marques-9HRLg-yzeq8-unsplash_ulzuqx.jpg
   captionrighttitle: 'Parmi toutes ces stations, de nombreuses activités hivernales
     s’offrent à vous. '
   captionrightcontent: |-
@@ -144,5 +178,6 @@ page_sections:
     Comme vous l’aurez compris, le ski de randonnée est une approche différente mais tout aussi appréciable que le ski alpin classique alors n’attendez plus et faites vous votre propre expérience.
   title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
     des stations
+published: false
 
 ---
