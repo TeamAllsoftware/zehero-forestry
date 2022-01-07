@@ -22,6 +22,17 @@ page_sections:
     sur la sécurité et sur la montagne.
   captiontitleuppercase: Le ski de randonnée
 - template: textarea
+  content: "Le ski de randonnée reste une activité physique car la montée demande
+    une bonne condition physique. Le dénivelé positif sera exigeant pour vos jambes,
+    votre cardio ainsi que pour les bras. La technique de montée s'apprend afin d'être
+    plus efficace sur la poussée du bâton et sur les pas en fonction du degré de la
+    pente. Vous apprendrez ensuite à réaliser des conversions qui seront nécessaire
+    pour monter en zig-zag.  \nPartez atteindre les sommets afin d'avoir des points
+    de vue uniques. Respirez l'air pur, écoutez le silence, admirez la plénitude de
+    la montagne vierge et sauvage. Tracez vos propres lignes en hors-piste et profitez
+    du hors-piste pour flotter sur la neige. "
+  title: ''
+- template: textarea
   textarea: Et je peux en ajouter un au dessus histoire d'ajouter du contenu à ma
     guise. c'est absolument génial.
   title: Connaître la montagne et la sécurité
@@ -38,15 +49,6 @@ page_sections:
   - Pelle
   - DVA ou Arva
   title: ''
-- template: textarea
-  textarea: C'est vraiment excellent
-  title: Les stations Savoyardes
-  content: |-
-    La Savoie est aussi très sujette à des flux de population importants avec de fortes variations saisonnières. Pendant la saison hivernale, sa population peut aller jusqu’à doubler du fait du développement des sports d’hiver avec un grand nombre de stations dont certaines ayant une renommée internationale.
-
-    La Tarentaise et la Maurienne sont les deux principales vallées à l’origine d’un gros trafic en hiver; les sports d’hiver et principalement le ski étant à l’origine de ce trafic saisonnier.
-
-    Les stations comme Courchevel, [Val thorens](fr/hiver/station/val-thorens "Voir les locations à Val-Thorens"), Val d’isère, Tignes, ont une dimension et un rayonnement international, tandis que d’autres sont plus petites et à taille humaine telles que: La Toussuire, Le Corbier ou encore Bonneval sur arc.
 - template: liststyle01numbered
   title: Le top 5 des stations hivernales pour pratiquer une activité physique hors
     Ski Alpin
@@ -71,8 +73,33 @@ page_sections:
     de Bellevarde et le glacier de la Grande Motte, connu pour la pratique du ski
     d’été. Profitez d’un immense domaine skiable et du charme d’un village savoyard
     typique que vous trouverez nul part ailleurs.'
+- template: 2colimgtxt
+  content: Le ski de randonnée se pratique avec du matériel différents du ski alpin
+    ou freeride. Les ski de randonnée vont varier selon les pratiques. Vous trouverez
+    alors de skis de randonnée larges mais plus lourds qui seront parfaits pour la
+    descente mais plus difficile en montée. Mais aussi des ski plus légers qui seront
+    un bon intermédiaire pour la montée et la descente. Ainsi que des skis très légers,
+    qui seront faciles pour la montée mais moins agréables à la descente.
+  title: Le matériel du ski de randonnée
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/amza-andrei-LiwdRhUaGZ0-unsplash_sqwdgb.jpg
+  captiontitleuppercase: Léger et technique
+- template: textarea
+  content: "Certains skis sont dédiée uniquement à la pratique du ski de randonnée,
+    d'autres seront adaptés pour une pratique freeride et de randonnée. Mais l'idéal
+    est tout de même une paire plutôt légère mais qui a une bonne tenue en hors-piste.
+    \  \nIl faut ensuite avoir les fixations adaptés à cette pratique. Comme les skis,
+    il en existe plusieurs pour différentes pratiques. Certaines sont comme des fixations
+    de ski classiques avec une plateforme qui permet de décoller la fixation. Ensuite,
+    on retrouve celle à insert, qui permettent d'avoir des fixations plus légères
+    tout en étant performantes. Elles évolueront en fonction de la pratique, du poids
+    que vous voulez avoir sur vos skis.  \nLes chaussures sont ensuite un équipement
+    très important. Il faut avoir aux pieds une chaussure qui est très confortable
+    pour vous, avec un bon débattement pour la montée. Aujourd'hui, il existe des
+    chaussures ultra-light mais qui seront moins adaptées pour des longues sessions
+    hors-pistes par leurs rigidités plus souple. "
+  title: ''
 - template: 3coltxtimgtxt
-  captionleftcontent: Les meilleures activités à faire en station
+  captionleftcontent: gg
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/c_thumb,h_500,w_500/v1638883539/website/winter/Chien-traineau-foret_h8m0bh.jpg
   captionrighttitle: 'Parmi toutes ces stations, de nombreuses activités hivernales
     s’offrent à vous. '
