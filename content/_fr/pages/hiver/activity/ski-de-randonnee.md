@@ -24,11 +24,14 @@ page_sections:
 - template: textarea
   textarea: Et je peux en ajouter un au dessus histoire d'ajouter du contenu à ma
     guise. c'est absolument génial.
-  title: La Savoie
-  content: |-
-    La Savoie est un véritable lieu de regroupement pour les plus friands de sport outdoor. Elle est un parfait terrain de jeu pour ceux qui sont amoureux des grands espaces et du milieu montagnard en général. La faune et la flore y sont très développées et de nombreux espaces sauvages pourront s’offrir à vous.
-
-    Pour les moins sportifs, la Savoie reste une destination intéressante. En effet, elle détient un gros passé historique et regorge de monuments historiques datant de l’âge néolithique jusqu’au XIXe siècle. Elle possède également un patrimoine architectural et culturel important, de par la diversité des civilisations qui l’occupent au cours du temps.
+  title: Connaître la montagne et la sécurité
+  content: 'Avant tout chose, le ski de randonné est le plus souvent pratiqué en dehors
+    des pistes., donc non sécurisé. Il faut donc dans un 1er temps, connaître les
+    conditions de neige et le bulletins de risque d''avalanche (BAR). C''est la 1er
+    chose à faire avant de partir en montagne ainsi que les conditions météorologiques.
+    Il faut également connaître son itinéraire afin de savoir quelle trace prendre
+    et éviter de prendre des endroits trop risqués. Ensuite, il est impératif d''avoir
+    sur soi, tout le matériel adéquat :'
 - template: textarea
   textarea: C'est vraiment excellent
   title: Les stations Savoyardes
@@ -142,5 +145,6 @@ page_sections:
     Comme vous l’aurez compris, le ski de randonnée est une approche différente mais tout aussi appréciable que le ski alpin classique alors n’attendez plus et faites vous votre propre expérience.
   title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
     des stations
+published: false
 
 ---
