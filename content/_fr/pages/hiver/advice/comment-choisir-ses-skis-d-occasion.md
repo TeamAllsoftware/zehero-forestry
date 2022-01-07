@@ -60,6 +60,22 @@ page_sections:
     une 1er information par son année de sorti et d'où provient le ski. Il faut alors
     savoir alors son usage pour savoir s'il a beaucoup été utilisé et bien entretenu.
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330389/website/Conseil%20Equiepement/kipras-streimikis-39-0VXkvcbw-unsplash_crjyty.jpg
+  captiontitleuppercase: Vérifier l'état du ski
+  title: Etat du Top Sheet, des carres, de la semelle et de la fixation
+  content: Afin de vérifier ces différents éléments, il est donc important, si vous
+    achetez sur internet, d'avoir un maximum de photo du ski pour vérifier que ces
+    différents éléments sont en bon états.
+- template: textarea
+  content: |-
+    Le top sheet : Vous pouvez y trouver des marques, des rayures, des trous etc… Il faut bien vérifier que celles-ci ne soient pas trop importantes, car l’eau pourrait alors s’infiltrer. Mais attention le Top Sheet peut être trompeur. Parfois certains skis vont présenter beaucoup de rayures sur le dessus alors que le ski sera en parfait état. Alors que certaines fois, vous trouverez un Top Sheet impeccable, mais le ski aura pris de l’usure sur le dessous. Cela dépend de la marque et de sa fabrication sur le Top Sheet.
+
+    La semelle : La qualité de la semelle va permettre d’avoir un bon indice du ski et de son usure. Il faut donc vérifier si elle présente des rayures, des accros, des trous. Si le trou est trop important, alors il ne faut pas prendre le ski, car il serait trop fragile et l’eau peut s’infiltrer.
+
+    Les carres : Il faut vérifier qu’elles ne présentent aucunes bosses ou fissures afin d’avoir des carres qui restent de qualités. En effet, une carre fragile, c’est un ski qui ne tiendra pas longtemps.
+  title: ''
 advice_cat: Matériel
+published: false
 
 ---
