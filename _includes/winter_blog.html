@@ -29,11 +29,14 @@
                         {% if blogpost.path contains "/posts/" %}
                         <li class="grid-item wow animate__fadeIn">
                             <div class="blog-post box-shadow-small border-radius-6px">
-                                <div class="blog-post-image cover-background xs-h-250px" style="background-image: url('{{ imgsize.url }}{{ imgsize.homeblogpostlist }}{{blogpost.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ blogpost.image01_alt }}')">
+                                {% capture download_note %}{{ blogpost.image01_href }}{% endcapture %}
+                                <div class="blog-post-image cover-background xs-h-250px" style="background-image: url('{% include image.html file=download_note sizevar="homeblogpostlist" width="" height="" %}" alt="{{ blogpost.image01_alt }}')">
                                     <a href="{{ blogpost.url }}" class="blog-post-image-overlay bg-dark-slate-blue"></a>
                                 </div>
                                 <div class="post-details bg-white padding-3-half-rem-all lg-padding-2-half-rem-all md-padding-3-half-rem-all">
-                                    <a href="{{ blogpost.url }}" class="blog-category alt-font text-extra-dark-gray border-color-black-transparent bg-white align-self-start margin-4-half-rem-bottom xs-margin-2-half-rem-bottom">Creative</a>
+                                    <a href="{{ blogpost.url }}" class="blog-category alt-font text-extra-dark-gray border-color-black-transparent bg-white align-self-start  xs-margin-2-half-rem-bottom">{{ blogpost.tags[0] }}</a>
+                                    <a href="{{ blogpost.url }}" class="blog-category alt-font text-extra-dark-gray border-color-black-transparent bg-white align-self-start  xs-margin-2-half-rem-bottom">{{ blogpost.tags[1] }}</a>
+                                    <a href="{{ blogpost.url }}" class="blog-category alt-font text-extra-dark-gray border-color-black-transparent bg-white align-self-start margin-4-half-rem-bottom xs-margin-2-half-rem-bottom">{{ blogpost.tags[2] }}</a>
                                     <a href="{{ blogpost.url }}" class="font-weight-500 text-large line-height-24px text-extra-dark-gray margin-15px-bottom xs-margin-10px-bottom">{{ blogpost.post-title }}</a>
                                     <p>{{ blogpost.description | truncate: 60  }}</p>
                                     <a href="blog-grid.html" class="alt-font font-weight-500 text-small text-gradient-sky-blue-pink text-uppercase align-self-start">{{ blogauthor.firstname }} {{ blogauthor.lastname }}</a>

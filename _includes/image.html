@@ -1,0 +1,1 @@
+{{ imgsize.url }}{% if include.sizevar != "" %}{{ imgsize.[include.sizevar] }}{% elsif include.width %}c_fill,w_{{ include.width }},h_{{ include.height}}{% endif %}{{ include.file | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}

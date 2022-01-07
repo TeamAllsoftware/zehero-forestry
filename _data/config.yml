@@ -89,8 +89,16 @@ en:
 cloudinary_url: "https://res.cloudinary.com/deddrj0yb/image/upload"
 
 # {{ imgsize.url }}{{ imgsize.[variable] }}{{[variable].image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}
+
+# {% include image.html file="" sizevar="" width="" height="" %}
+
+# {% capture download_note %}{{ activity.image01_href }}{% endcapture %}
+# <img src="{% include image.html file=download_note sizevar="activitylist" width="" height="" %}" alt="">
+
 img:
   url: https://res.cloudinary.com/deddrj0yb/image/upload/
+
+## List of sizevar variables
 #logo
   logo_header: c_fill,w_222,h_57
   logo_headerx2: c_fill,w_444,h_114
@@ -109,3 +117,5 @@ img:
   smlsquare: c_fill,w_400,h_400
 #resort hero image
   resorthero: c_fill,w_1200,h_700
+#generic
+  genhero: c_fill,w_1500,h_1200

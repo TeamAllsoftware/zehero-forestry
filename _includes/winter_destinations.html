@@ -2,7 +2,9 @@
 {% assign resorts = site[page.collection] %}
 
 {% include elements/generic_variables.html %}
-
+{% capture sizeimg %}
+    346
+{% endcapture %}
 <div class="main-content"> <!-- start section -->
     <section class="p-0" >
         <div class="container-fluid position-relative">
@@ -10,7 +12,7 @@
                 <div class="swiper-container white-move full-screen p-0 md-h-650px sm-h-500px" data-slider-options='{ "slidesPerView": 1, "loop": true, "autoplay": { "delay": 4500, "disableOnInteraction": false },  "pagination": { "el": ".swiper-pagination", "clickable": true }, "navigation": { "nextEl": ".swiper-button-next-nav", "prevEl": ".swiper-button-previous-nav" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "slide" }'>
                     <div class="swiper-wrapper">
                         <!-- start slider item -->
-                        <div class="swiper-slide cover-background" style="background-image:url('https://res.cloudinary.com/deddrj0yb/image/upload/v1640080310/website/winter/rainer-bleek-y8-GC22QyfY-unsplash_ky6gnt.jpg');">
+                        <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1640080310/website/winter/rainer-bleek-y8-GC22QyfY-unsplash_ky6gnt.jpg" sizevar="bigsquare" %}');">
                             <div class="container h-100">
                                 <div class="row justify-content-center h-100">
                                     <div class="col-12 col-xl-6 col-sm-7 d-flex flex-column justify-content-center text-center h-100">

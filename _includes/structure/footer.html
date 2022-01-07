@@ -50,7 +50,8 @@
                            
                             <li class="media d-flex">
                                 <a href="{{ blogpost.url }}"  title="Lien vers l'aticle de blog {{ blogpost.post-title }}" class="flex-shrink-0 w-75px margin-30px-right sm-margin-15px-right xs-margin-30px-right">
-                                    <img src="{{ imgsize.url }}{{ imgsize.blogpostlist }}{{blogpost.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ blogpost.image01_alt }}">
+                                    {% capture download_note %}{{ blogpost.image01_href }}{% endcapture %}
+                                    <img src="{% include image.html file=download_note sizevar="" width="95" height="75" %}" alt="{{ blogpost.image01_alt }}">
                                 </a>
                                 <div class="flex-grow-1">
                                     <a href="{{ blogpost.url }}"  title="Lien vers l'aticle de blog {{ blogpost.post-title }}">{{ blogpost.post-title }} </a>

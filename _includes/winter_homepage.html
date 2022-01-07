@@ -34,7 +34,7 @@
                 </div>
                 <div class="col-12 col-lg-4 col-md-9 padding-30px-left md-padding-15px-left text-center text-lg-start wow animate__fadeIn" data-wow-delay="0.6s">
                     <p class="w-80 margin-15px-bottom lg-w-100">Découvrez les activités près de chez vous et profitez d’expériences inoubliables seul, entre amis ou en famille !</p>
-                    <a href="about-us.html" class="btn btn-link btn-extra-large text-extra-dark-gray font-weight-600">En savoir plus</a>
+                    <a href="/fr/hiver/activites" class="btn btn-link btn-extra-large text-extra-dark-gray font-weight-600">En savoir plus</a>
                 </div>
             </div>
         </div>
@@ -53,7 +53,9 @@
                     <a href="https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasionl" title="Lien vers la boutique en ligne ZE HERO" class="btn btn-fancy btn-small btn-transparent-light-gray margin-10px-top">Jusqu'à -60% dans la boutique en ligne</a>
                 </div>
                 <div class="col-12 col-md-10 col-lg-7 offset-xl-1 wow animate__zoomIn" data-wow-delay="0.4s">
-                    <a href="https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion" title="Lien vers la boutique en ligne ZE HERO"><img src="https://res.cloudinary.com/deddrj0yb/image/upload/v1639991251/website/winter/skis-occasion_vcqy77.png" alt="Image illustrant la boutique en ligne ZE HERO" /></a>
+                    <a href="https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion" title="Lien vers la boutique en ligne ZE HERO">
+                        <img src="{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1639991251/website/winter/skis-occasion_vcqy77.png" sizevar="" width="652" height="521" %}" alt="Image illustrant la boutique en ligne ZE HERO" />
+                    </a>
                 </div>
             </div>
         </div>
@@ -78,7 +80,8 @@
                 <div class="col interactive-banners-style-11 text-center lg-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.2s">
                     <div class="interactive-banners-box">
                         <div class="interactive-banners-box-image">
-                            <img src="{{ imgsize.url }}{{ imgsize.activitylist }}{{activity.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="">
+                            {% capture download_note %}{{ activity.image01_href }}{% endcapture %}
+                            <img src="{% include image.html file=download_note sizevar="activitylist" width="" height="" %}" alt="">
                             <div class="interactive-banners-text-overlay bg-slate-blue"></div>
                             <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
                         </div>
@@ -96,164 +99,13 @@
         </div>
     </section>
     <!-- end section -->
-    {% comment %}
-    <!-- start section -->
-    <section class="big-section border-top border-color-medium-gray pb-0">
-        <div class="container">
-            <div class="row align-items-center margin-10-rem-bottom md-margin-5-rem-bottom sm-margin-4-rem-bottom">
-                <div class="col-12 col-lg-4 text-center text-lg-start md-margin-30px-bottom wow animate__fadeIn">
-                    <h4 class="alt-font font-weight-600 text-extra-dark-gray mb-0 letter-spacing-minus-1px">Des souvenirs mémorables</h4>
-                </div>
-                <div class="col-12 col-lg-8 text-center wow animate__fadeIn">
-                    <!-- start filter navigation -->
-                    <ul class="portfolio-filter grid-filter nav nav-tabs justify-content-center justify-content-lg-end border-0 text-uppercase font-weight-500 alt-font">
-                        <li class="nav active"><a data-filter="*" href="#">Tout</a></li>
-                        <li class="nav"><a data-filter=".branding" href="#">Ski</a></li>
-                        <li class="nav"><a data-filter=".graphics" href="#">Montagne</a></li>
-                        <li class="nav"><a data-filter=".logos" href="#">Foret</a></li>
-                        <li class="nav"><a data-filter=".photography" href="#">Trail</a></li>
-                    </ul>
-                    <!-- end filter navigation -->
-                </div>
-            </div>
-        </div>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-12 filter-content px-md-0 wow animate__fadeIn">
-                    <ul class="portfolio-bordered portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-2col md-grid-2col sm-grid-2col xs-grid-1col text-center">
-                        <li class="grid-sizer"></li>
-                        <!-- start portfolio item -->
-                        <li class="grid-item logos branding wow animate__fadeIn">
-                            <a href="single-project-page-01.html">
-                                <div class="portfolio-box">
-                                    <div class="portfolio-image bg-white">
-                                        <img src="/images/summer/Souvenir-montagne.webp" alt="" />
-                                        <div class="portfolio-hover bg-white justify-content-center d-flex flex-column">
-                                            <div class="scale">
-                                                <div class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px d-block text-extra-large text-uppercase">Motion</div>
-                                                <div class="text-uppercase text-medium-gray text-small alt-font d-block">Identity</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item logos graphics wow animate__fadeIn">
-                            <a href="single-project-page-02.html">
-                                <div class="portfolio-box">
-                                    <div class="portfolio-image bg-white">
-                                        <img src="/images/summer/Souvenir-montagne-800x1600.webp" alt="" />
-                                        <div class="portfolio-hover bg-white justify-content-center d-flex flex-column">
-                                            <div class="scale">
-                                                <div class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px d-block text-extra-large text-uppercase">Biolator</div>
-                                                <div class="text-uppercase text-medium-gray text-small alt-font d-block">Branding</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item photography branding wow animate__fadeIn">
-                            <a href="single-project-page-03.html">
-                                <div class="portfolio-box">
-                                    <div class="portfolio-image bg-white">
-                                        <img src="/images/summer/Souvenir-randonnee-2.webp" alt="" />
-                                        <div class="portfolio-hover bg-white justify-content-center d-flex flex-column">
-                                            <div class="scale">
-                                                <div class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px d-block text-extra-large text-uppercase">Oslands</div>
-                                                <div class="text-uppercase text-medium-gray text-small alt-font d-block">Branding</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item photography graphics wow animate__fadeIn">
-                            <a href="single-project-page-04.html">
-                                <div class="portfolio-box">
-                                    <div class="portfolio-image bg-white">
-                                        <img src="/images/summer/Souvenir-randonnee-3.webp" alt="" />
-                                        <div class="portfolio-hover bg-white justify-content-center d-flex flex-column">
-                                            <div class="scale">
-                                                <div class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px d-block text-extra-large text-uppercase">Financial</div>
-                                                <div class="text-uppercase text-medium-gray text-small alt-font d-block">Photography</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item logos graphics branding wow animate__fadeIn">
-                            <a href="single-project-page-05.html">
-                                <div class="portfolio-box">
-                                    <div class="portfolio-image bg-white">
-                                        <img src="/images/summer/Souvenir-tente.webp" alt="" />
-                                        <div class="portfolio-hover bg-white justify-content-center d-flex flex-column">
-                                            <div class="scale">
-                                                <div class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px d-block text-extra-large text-uppercase">Dupont</div>
-                                                <div class="text-uppercase text-medium-gray text-small alt-font d-block">Branding</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item logos photography wow animate__fadeIn">
-                            <a href="single-project-page-01.html">
-                                <div class="portfolio-box">
-                                    <div class="portfolio-image bg-white">
-                                        <img src="/images/summer/Souvenir-velo.webp" alt="" />
-                                        <div class="portfolio-hover bg-white justify-content-center d-flex flex-column">
-                                            <div class="scale">
-                                                <div class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px d-block text-extra-large text-uppercase">Gardner</div>
-                                                <div class="text-uppercase text-medium-gray text-small alt-font d-block">Branding</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        <li class="grid-item graphics photography branding wow animate__fadeIn">
-                            <a href="single-project-page-02.html">
-                                <div class="portfolio-box">
-                                    <div class="portfolio-image bg-white">
-                                        <img src="/images/summer/Souvenir-randonnee.webp" alt="" />
-                                        <div class="portfolio-hover bg-white justify-content-center d-flex flex-column">
-                                            <div class="scale">
-                                                <div class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px d-block text-extra-large text-uppercase">Truenorth</div>
-                                                <div class="text-uppercase text-medium-gray text-small alt-font d-block">Photography</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <!-- end portfolio item -->
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- end section -->
-    {% endcomment %}
+   
     <!-- start section -->
     <section class="">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-12 col-lg-6 position-relative text-center md-margin-30px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
-                    <img src="/images/summer/Outdoor-famille.webp" alt="" />
+                    <img src="{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1638883623/website/summer/Groupe-accolade_ctazuf.jpg" sizevar="" width="476" height="652" %}" alt="" />
                     <div class="absolute-middle-center">
                         <a href="https://www.youtube.com/watch?v=PpqRPg-S-J0" class="popup-youtube video-icon-box video-icon-large position-relative">
                             <span>

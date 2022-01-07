@@ -1,5 +1,5 @@
 <!-- start section -->
-<section class="cover-background overlap-height" style="background-image:url('/images/winter/Hero-montagne.webp');">
+<section class="cover-background overlap-height" style="background-image:url('{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1640080084/website/winter/pablo-guerrero-xglh7hBu9QU-unsplash_nvbvyf.jpg" sizevar="genhero" width="" height="" %}');">
     <div class="opacity-extra-medium bg-dark-slate-blue"></div>
     <div class="container">
         <div class="row justify-content-center">
@@ -60,7 +60,8 @@
                                 
                             </div>
                             <div class="blog-post-image">
-                                <a href="{{ blogpost.url }}"  title="Lien vers l'aticle de blog {{ blogpost.post-title }}"><img src="{{ imgsize.url }}{{ imgsize.blogpostlist }}{{blogpost.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ blogpost.image01_alt }}"></a>
+                                {% capture download_note %}{{ blogpost.image01_href }}{% endcapture %}
+                                <a href="{{ blogpost.url }}"  title="Lien vers l'aticle de blog {{ blogpost.post-title }}"><img src="{% include image.html file=download_note sizevar="blogpostlist" width="" height="" %}" alt="{{ blogpost.image01_alt }}"></a>
                                 <div class="alt-font blog-category"><a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.post-title }}" class="text-uppercase text-green text-extra-dark-gray-hover">{{ blogpost.tags[0] }}</a></div>
                             </div>
                             <div class="post-details padding-3-rem-lr padding-2-half-rem-tb lg-padding-2-rem-all md-padding-2-half-rem-tb md-padding-3-rem-lr">
