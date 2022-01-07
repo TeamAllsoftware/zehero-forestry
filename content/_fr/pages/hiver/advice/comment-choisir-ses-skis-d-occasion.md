@@ -69,11 +69,11 @@ page_sections:
     différents éléments sont en bon états.
 - template: textarea
   content: |-
-    Le top sheet : Vous pouvez y trouver des marques, des rayures, des trous etc… Il faut bien vérifier que celles-ci ne soient pas trop importantes, car l’eau pourrait alors s’infiltrer. Mais attention le Top Sheet peut être trompeur. Parfois certains skis vont présenter beaucoup de rayures sur le dessus alors que le ski sera en parfait état. Alors que certaines fois, vous trouverez un Top Sheet impeccable, mais le ski aura pris de l’usure sur le dessous. Cela dépend de la marque et de sa fabrication sur le Top Sheet.
+    Le **top sheet** : Vous pouvez y trouver des marques, des rayures, des trous etc… Il faut bien vérifier que celles-ci ne soient pas trop importantes, car l’eau pourrait alors s’infiltrer. Mais attention le Top Sheet peut être trompeur. Parfois certains skis vont présenter beaucoup de rayures sur le dessus alors que le ski sera en parfait état. Alors que certaines fois, vous trouverez un Top Sheet impeccable, mais le ski aura pris de l’usure sur le dessous. Cela dépend de la marque et de sa fabrication sur le Top Sheet.
 
-    La semelle : La qualité de la semelle va permettre d’avoir un bon indice du ski et de son usure. Il faut donc vérifier si elle présente des rayures, des accros, des trous. Si le trou est trop important, alors il ne faut pas prendre le ski, car il serait trop fragile et l’eau peut s’infiltrer.
+    La **semelle** : La qualité de la semelle va permettre d’avoir un bon indice du ski et de son usure. Il faut donc vérifier si elle présente des rayures, des accros, des trous. Si le trou est trop important, alors il ne faut pas prendre le ski, car il serait trop fragile et l’eau peut s’infiltrer.
 
-    Les carres : Il faut vérifier qu’elles ne présentent aucunes bosses ou fissures afin d’avoir des carres qui restent de qualités. En effet, une carre fragile, c’est un ski qui ne tiendra pas longtemps.
+    Les **carres** : Il faut vérifier qu’elles ne présentent aucunes bosses ou fissures afin d’avoir des carres qui restent de qualités. En effet, une carre fragile, c’est un ski qui ne tiendra pas longtemps.
   title: ''
 - template: imagegallery02
   title: Exemple de ski d'occasion
