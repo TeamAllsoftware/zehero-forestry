@@ -99,9 +99,9 @@ page_sections:
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883537/website/winter/Montagne-randonnee-blizzard_imccfq.jpg
   captionabovetitle: Physique à la montée, technique à la descente
-  title: Le ski de randonnée ne s'improvise pas, cela se prépare
-  gridline1title: Attention, ne prenez pas le ski de randonnée pour une promenade
-    au pied levé
+  title: La montagne pour vous seul
+  gridline1title: Quelque soit votre niveau, ne partez jamais sans le matériel de
+    sécurité et sans avoir vérifier les conditions
   gridline1content: Le ski de randonnée demande une bonne condition physique à la
     montée et une technique plutôt aguerrie pour la descente. Il nécessite aussi une
     bonne connaissance du terrain, de la météo en montagne pour y gérer les risques
@@ -111,8 +111,8 @@ page_sections:
     moins initiés et d’autres plus engagées pour les personnes plus aguerries. Le
     rythme est souvent donné par le/la guide qui adapte la vitesse au niveau du groupe.
     Le but est de combiner contemplation du paysage et effort.
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,w_800/c_crop,h_600,w_800/v1638883537/website/winter/Ski-randonnee-seul_yok2cz.jpg
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/c_scale,w_800/c_crop,h_600,w_800/v1638883534/website/winter/Ski-descente-poudreuse_jkfdf6.jpg
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/greg-rosenke-ijFOmhUCp58-unsplash_lmnims.jpg
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/jon-flobrant-wElgJTwsibs-unsplash_mo3el7.jpg
 - template: textarea
   content: |-
     En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité des stations puisque, comme mentionné plus haut elle ne nécessite pas de matériels tels que remontées mécaniques ou autre mais seulement d’un accompagnateur diplômés qui pourra vous faire découvrir de magnifique endroits à arpenter.
