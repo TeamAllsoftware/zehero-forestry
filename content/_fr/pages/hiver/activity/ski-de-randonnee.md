@@ -109,39 +109,17 @@ page_sections:
     des différentes couches, des risques d'avalanches. Toutes ces informations essentielles,
     vous permettrons de partager un moment riche en émotions et en apprentissage.
 - template: textarea
-  title: Le ski de randonnée, c’est quoi ?
-  content: |-
-    Le ski de randonnée est une discipline sportive faisant partie de celle du ski. Elle se pratique sur des terrains enneigés en milieu le plus souvent sauvages.
-
-    Très prisée par les amateurs de grands espaces, elle ne nécessite pas d’aménagements spécifiques aux domaines skiables comme la pratique du ski alpin classique.
-
-    Elle peut être pratiquée pour le plaisir mais il existe aussi un grand nombre de compétitions comme la Pierra Menta, une de plus réputée.
-
-    L’activité nécessite un équipement différent du ski alpin, bien plus adapté pour cette discipline : un package complet qui comprend plusieurs accessoires, équipement… etc.
-
-    Ainsi, un pack de ski de randonnée est l’équipement parfait pour être bien équipé. L’utilisation d’un bon équipement rendra votre sortie optimale !
-- template: liststyle01
-  item:
-  - Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles
-    sont bien plus souples au niveau de la cheville pour permettre le mouvement de
-    flexion dont on nécessite pour monter les skis au pieds)
-  - Bâtons de ski spécifiques à ce type de ski (télescopiques ou monobrins)
-  - Pantalons spécifique (moins chaud et bien étanche)
-  title: 'Le matériel :'
-- template: liststyle01
-  title: 'Les accessoires :'
-  item:
-  - Casque de ski (très important et différent de celui d’alpin avec plus d’aérations
-    et plus léger)
-  - Lunette de soleil ou masque
-  - Accessoires techniques type DVA (détecteur de victime en avalanche)
-  - 'Matériel de sécurité: Pelle, sonde…'
-- template: textarea
-  title: Une liberté qui n’exclut aucun risques
-  content: Il ne faut tout de même pas oublier que la montagne est un environnement
-    sauvage, complexe qui peut s’avérer dangereux si l’on n’anticipe pas les risques
-    probables au maximum. C’est la raison pour laquelle les équipements de sécurité
-    sont primordiaux, mais le principal étant de savoir s’en servir !
+  title: Plutôt freeride ou collant pipette ?
+  content: "Le ski de randonnée est aujourd'hui de plus en plus pratiqué. Vous trouverez
+    alors la pratique de la découverte des grand espace, des itinéraires plaisirs
+    afin de profiter d'une descente agréable. Mais aussi, ceux qui partiront vers
+    des sommets plus engagés, dans des pentes raides, voir plusieurs jours en dormants
+    dans des refuges. On y découvre aussi le ski de randonnée de compétition. Du matériel
+    ultra-light afin de réaliser des montées, des descentes très rapides. On y retrouve
+    parfois des montées sèches, des compétitions qui mixent montées et descentes.
+    Vous avez peut-être déjà entendu parlé de la Pierra Menta ?   \nDiscipline devenu
+    aujourd'hui olympique, elle demande une très forte dépense énergétiques car elle
+    très complète et physique."
 - template: liststyle01numbered
   title: Déroulement d’une sortie en ski de randonnée
   item:
