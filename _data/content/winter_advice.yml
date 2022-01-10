@@ -6,3 +6,34 @@ s01:
   p02:
     fr: "Nos conseils pour un hiver outdoor"
     en: "Our advices for a winter outdoor"
+s02:
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883541/website/winter/Randonne-groupe-amis_otvbvl.jpg
+  image02_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639754132/website/winter/ethan-hu-Ouhu9FOlJnY-unsplash_cgrmw5.jpg
+  p01:
+    fr: 
+      txt01: Vous prévoyez des activités en plein air mais ne savez pas par où commencer ?
+      txt02: Nous avons préparé une série de fiches conseils pour vous aidez dans votre préparation. Que ce soit pour choisir une activité et apprendre la technique, sélectionner du matériel ou vous préparer physiquement.
+    en:
+      txt01: Planning an outdoor activity but don't know where to start?
+      txt02: We have prepared a series of advice sheets to help you in your preparation. Whether it's choosing an activity and learning the technique, selecting equipment or preparing yourself physically.
+  p02:
+    fr: 
+      txt01: Des professionnels à votre service
+      txt02: Nos fiches conseils sont préparées et rédigées par des professionnels de l'activité. Notre crédo est de vous préparer au mieux pour profiter un maximum le jour de votre aventure.
+    en:
+      txt01: Professionals at your service
+      txt02: Our advice sheets are prepared and written by professionals of the activity. Our credo is to prepare you as well as possible to enjoy your adventure.
+s03:
+  image01_href:
+  p01:
+    fr:
+      txt01: Matériel
+      txt02: De nombreux conseils pour vous aider dans vos choix
+      txt03: Comment choisir ses skis d'occasion
+      txt04: "Les skis d'occasion sont une excellente alternative mais il faut savoir les choisir - [Lire notre fiche conseil sur comment choisir des skis d'occasion](/fr/hiver/conseil/ski-d-occasion){: .text-green.font-weight-500}."
+      txt05: Comment choisir ses boots de snowboard
+      txt06: "Vous souhaitez vous équiper pour la partique du snowboard ? - [Tout ce qu'il faut savoir sur les boots](/fr/hiver/conseil/boots-snowboard){: .text-green.font-weight-500}."
+      txt07: Louer des skis.. ne laissez pas le hasard choisir pour vous
+      txt08: "Dans le magasin de location vous pouvez influencer le choix pour votre matériel, mais à condition de savoir où et quoi regarder! - [Nous avons une fiche conseil pour vous](/fr/hiver/conseil/choisir-ski-location){: .text-green.font-weight-500}."
+    en:
+      txt01:

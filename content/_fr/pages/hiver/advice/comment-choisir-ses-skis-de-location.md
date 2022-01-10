@@ -76,12 +76,19 @@ page_sections:
     3 étoiles Junior. Ces skis seront alors orientés pour de la piste ou de hors-piste,
     freeride…
 - template: textarea
-  content: "Lorsque vous louez vos skis, il est donc important de bien renseigner
+  content: |-
+    "Lorsque vous louez vos skis, il est donc important de bien renseigner
     certaines informations importantes afin que le magasin de location de ski puisse
-    vous préparez le matériel en fonction de votre niveau et de votre physique :\n\n*
-    Votre type de pratique\n* Votre Taille\n* Votre Poids\n* Votre niveau\n* Votre
-    Pointure\n\n  \nVous pouvez également renseigner des informations supplémentaires
-    qui peuvent importantes. Par exemple, si vous êtes fragiles d’un genou, il est
+    vous préparez le matériel en fonction de votre niveau et de votre physique:
+    
+    * Votre type de pratique
+    * Votre Taille
+    * Votre Poids
+    * Votre niveau
+    * Votre Pointure
+    {: .bullets}
+    
+    Vous pouvez également renseigner des informations supplémentaires qui peuvent être importantes. Par exemple, si vous êtes fragiles d’un genou, il est
     important de le spécifier."
   title: Important
 

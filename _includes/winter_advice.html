@@ -21,20 +21,23 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-4 pe-lg-0 d-flex md-margin-30px-bottom">
-                    <div class="w-100 md-h-700px sm-h-550px xs-h-450px cover-background" style="background-image:url('{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1638883541/website/winter/Randonne-groupe-amis_otvbvl.jpg" sizevar="" width="400" height="500" %}');"></div>
+                    {% capture download_note %}{{ thispage.s02.image01_href }}{% endcapture %}
+                    <div class="w-100 md-h-700px sm-h-550px xs-h-450px cover-background" 
+                    style="background-image:url('{% include image.html file=download_note width="400" height="500" %}');"></div>
                 </div>
                 <div class="col-12 col-lg-4 col-md-6 ps-lg-0 d-flex sm-margin-30px-bottom">
                     <div class="justify-content-center w-100 d-flex flex-column bg-green padding-5-half-rem-lr lg-padding-3-rem-lr md-padding-4-rem-all">
-                        <span class="text-extra-large alt-font font-weight-500 text-white margin-20px-bottom d-block">We started this company 10 years ago out of a desire to design and build amazing things.</span>
-                        <p class="text-white opacity-7">Lorem ipsum is simply dummy text of the printing and typeing industry. Lorem ipsum has been the industry's standard dummy text ever since text.</p>
-                        <a href="our-services.html" class="btn btn-large btn-link text-white text-white-hover align-self-start">Company overview</a>
+                        <span class="text-extra-large alt-font font-weight-500 text-white margin-20px-bottom d-block">{{ thispage.s02.p01.[page.language].txt01 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                        <p class="text-white opacity-7">{{ thispage.s02.p01.[page.language].txt02 | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+                        
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 col-md-6">
-                    <img src="{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1639754132/website/winter/ethan-hu-Ouhu9FOlJnY-unsplash_cgrmw5.jpg" sizevar="" width="400" height="300" %}" alt="" />
+                    {% capture download_note %}{{ thispage.s02.image02_href }}{% endcapture %}
+                    <img src="{% include image.html file=download_note sizevar="" width="400" height="300" %}" alt="" />
                     <div class="bg-white padding-3-half-rem-lr padding-3-rem-tb lg-padding-2-rem-all md-padding-2-half-rem-all sm-padding-4-rem-all last-paragraph-no-margin">
-                        <span class="alt-font text-extra-dark-gray font-weight-500 margin-10px-bottom d-block">About digital agency</span>
-                        <p>Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum has been the industry's standard dummy text.</p>
+                        <span class="alt-font text-extra-dark-gray font-weight-500 margin-10px-bottom d-block">{{ thispage.s02.p02.[page.language].txt01 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                        <p>{{ thispage.s02.p02.[page.language].txt02 | markdownify | remove: '<p>' | remove: '</p>' }}</p>
                     </div>
                 </div>
             </div>
@@ -48,8 +51,8 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-12 col-xl-5 col-lg-6 col-md-10 md-margin-50px-bottom">
                     <div class="col-12 p-0 margin-3-rem-bottom wow animate__fadeIn">
-                        <span class="alt-font font-weight-500 text-green text-extra-medium d-block margin-20px-bottom sm-margin-10px-bottom">Matériel</span>
-                        <h5 class="alt-font font-weight-600 text-extra-dark-gray d-inline-block w-90 lg-w-80 sm-w-100">De nombreux conseils pour vous aider dans vos choix</h5>
+                        <span class="alt-font font-weight-500 text-green text-extra-medium d-block margin-20px-bottom sm-margin-10px-bottom">{{ thispage.s03.p01.[page.language].txt01 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                        <h5 class="alt-font font-weight-600 text-extra-dark-gray d-inline-block w-90 lg-w-80 sm-w-100">{{ thispage.s03.p01.[page.language].txt02 | markdownify | remove: '<p>' | remove: '</p>' }}</h5>
                     </div>
                     <div class="col-12 p-0">
                         <!-- start progress item -->
@@ -60,8 +63,8 @@
                                     <span class="process-step-item-box-bfr bg-medium-gray"></span>
                                 </div>
                                 <div class="process-content last-paragraph-no-margin">
-                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">Unlimited power customization</span>
-                                    <p class="w-80 xs-w-100">Lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.</p>                
+                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">{{ thispage.s03.p01.[page.language].txt03 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                                    <p class="w-80 xs-w-100">{{ thispage.s03.p01.[page.language].txt04 | markdownify | remove: '<p>' | remove: '</p>' }}</p>                
                                 </div>
                             </div>
                         </div>
@@ -74,8 +77,8 @@
                                     <span class="process-step-item-box-bfr bg-medium-gray"></span>
                                 </div>
                                 <div class="process-content last-paragraph-no-margin">
-                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">Pixel perfect design and code</span>
-                                    <p class="w-80 xs-w-100">Lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.</p>                
+                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">{{ thispage.s03.p01.[page.language].txt05 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                                    <p class="w-80 xs-w-100">{{ thispage.s03.p01.[page.language].txt06 | markdownify | remove: '<p>' | remove: '</p>' }}</p>                
                                 </div>
                             </div>
                         </div>
@@ -87,8 +90,8 @@
                                     <div class="process-step-icon text-center border-all border-color-green border-width-2px bg-green alt-font font-weight-500">3</div>
                                 </div>
                                 <div class="process-content last-paragraph-no-margin">
-                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">Beautifully handcrafted templates</span>
-                                    <p class="w-80 xs-w-100">Lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.</p>                
+                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">{{ thispage.s03.p01.[page.language].txt07 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                                    <p class="w-80 xs-w-100">{{ thispage.s03.p01.[page.language].txt08 | markdownify | remove: '<p>' | remove: '</p>' }}</p>                
                                 </div>
                             </div>
                         </div>
