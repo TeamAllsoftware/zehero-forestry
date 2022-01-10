@@ -84,6 +84,5 @@ page_sections:
     qui peuvent importantes. Par exemple, si vous êtes fragiles d’un genou, il est
     important de le spécifier."
   title: Important
-published: false
 
 ---
