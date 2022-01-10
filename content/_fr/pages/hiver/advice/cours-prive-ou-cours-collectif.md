@@ -47,6 +47,25 @@ page_sections:
   content: 'Dans ce cas là, l’enfant ou l’adulte est seul avec un moniteur qui lui
     est entièrement consacré pendant toute la durée du cours définie à l’avance en
     fonction du besoin et du niveau de “l’élève”. '
-published: false
+- template: textarea
+  title: Les avantages des cours de ski privés
+  content: |-
+    * Ce type de cours sur mesure fait en sorte que l’élève progresse plus rapidement. Puisque le moniteur lui est entièrement consacré et peut réagir bien plus facilement aux éventuelles erreurs techniques. Ce cours aura un impact plus important sur la progression.
+    * Ils sont bien souvent prescrits pour des personnes qui ont déjà un certain niveau de ski et qui veulent s’améliorer sur un aspect en particulier. Il correspond à une progression plus ciblée que le cours collectif de ski classique.
+    * Le moniteur peut également être votre guide pour la journée, vous faire découvrir le domaine skiable et ses recoins les plus beaux.
+- template: textarea
+  title: Les inconvénients des cours de ski privés
+  content: |-
+    * Cependant, la leçon privée de ski est plus chère qu’un cours collectif du fait que le moniteur soit réservé juste pour vous.
+    * C’est un cours où l’élève est tout seul. Il est donc qui est plus basé sur la progression plutôt que sur l’ambiance de groupe etc…
+- template: textarea
+  content: Votre choix dépend avant tout de votre budget mais aussi de ce que vous
+    recherchez. Si vous avez la volonté de progresser vite dans un laps de temps restreint
+    nous vous conseillons plutôt le court particulier. Si au contraire vous avez le
+    temps et que vous accordez beaucoup d’importance au social, aux nouvelles rencontres
+    et au partage avant tout, vous serez plus en accord avec un cours collectif. Dans
+    tous les cas, choisissez le cours qui vous convient et où vous vous sentirez au
+    mieux.
+  title: En résumé
 
 ---
