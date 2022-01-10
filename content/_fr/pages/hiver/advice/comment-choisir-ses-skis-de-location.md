@@ -68,6 +68,18 @@ page_sections:
     à dire que vous retrouverez des skis 2*, 3*, 4* et 5* en Freeride, Freestyle,
     Piste, All Mountain."
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812999/website/Conseil%20Equiepement/maxwell-ingham-d3Lm40Dn9rA-unsplash_rnaqaq.jpg
+  captiontitleuppercase: La location pour les enfants
+  title: Les différentes gammes de ski des baby aux ados
+  content: Pour les enfants de 3 à 5 ans, il faudra alors louer des skis “Baby”. Ce
+    sont des skis qui sont donc très courts et la semelle ne glisse pas trop vite.
+    Ces skis mesurent entre 68 centimètres et 1 mètre. Les enfants plus âgés qui débutent
+    ou qui ont déjà un petit niveau en ski, il faut alors louer des skis 2 étoiles
+    Junior. Ces skis seront parfaits pour progresser et affiner la technique. Pour
+    les enfants déjà plus avancés techniquement, vous pourrez alors choisir les skis
+    3 étoiles Junior. Ces skis seront alors orientés pour de la piste ou de hors-piste,
+    freeride…
 published: false
 
 ---
