@@ -35,6 +35,13 @@ page_sections:
     ludiques. Cela permet d''avoir un panel d''activité amusantes, fun, nouvelles
     mais aussi ludiques. Il découvrira la montagne d''une autre façon, en s''amusant
     avec ses copains. '
+- template: textarea
+  content: 'Les différentes structures qui mettent en places ses activités proposent
+    chaque jours une activité différente. Un système de garderie sera également en
+    place. Elles auront lieux généralement l''après-midi ainsi que le soir en fonction
+    de l''activité mise en place : marche en raquette dans les bois, construction
+    d''igloo la nuit...'
+  title: ''
 topnav_text_color: light
 engage: Des activités accessibles, ludiques et outdoor
 published: false
