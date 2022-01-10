@@ -21,6 +21,7 @@ page_sections:
 
     * Construction d'igloo
     * Chasse au trésor
+    * Balade en raquette
     * Bataille de boule de neige
     * Olympiades
     * Biathlon
@@ -36,11 +37,11 @@ page_sections:
     mais aussi ludiques. Il découvrira la montagne d''une autre façon, en s''amusant
     avec ses copains. '
 - template: textarea
-  content: 'Les différentes structures qui mettent en places ses activités proposent
+  content: "Les différentes structures qui mettent en places ses activités proposent
     chaque jours une activité différente. Un système de garderie sera également en
-    place. Elles auront lieux généralement l''après-midi ainsi que le soir en fonction
-    de l''activité mise en place : marche en raquette dans les bois, construction
-    d''igloo la nuit...'
+    place. Elles auront lieux généralement l'après-midi ainsi que le soir en fonction
+    de l'activité mise en place : marche en raquette dans les bois, construction d'igloo
+    la nuit...  \n  \nRetrouvez toutes les activités non ski pour vos enfants."
   title: ''
 topnav_text_color: light
 engage: Des activités accessibles, ludiques et outdoor
