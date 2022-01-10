@@ -41,6 +41,20 @@ page_sections:
     de la vitesse.  \n**Les skis 5* :** Ce sont des skis haut de gamme qui seront
     réservés pour des skieurs à l’aise sur toutes les pistes et tous les terrains.
     Ils seront destinés à des skieurs maîtrisant la vitesse, la technique et la puissance."
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812460/website/Conseil%20Equiepement/david-becker-F7SBonu15d8-unsplash_l6iunp.jpg
+  captiontitleuppercase: Une construction de ski différente
+  title: Qu'est ce que la construction d'un ski haut de gamme ?
+  content: Chacune des catégories de ski de location vont se différencier par leur
+    **construction** de ski. Les skis entrée de gamme (1 étoile et 2 étoiles) seront
+    construits en **mousse**. Les catégories plus élevées vont contenir du **bois**
+    plus noble ainsi que des matériaux de hautes **technologies**. On peut également
+    retrouver du **carbone** dans le ski. Ainsi la construction du ski va influencer
+    son **poids**, sa **rigidité**. Mais également la **maniabilité**, son **confort**
+    seront aussi influencés. Des skis présentant du **carbone** seront beaucoup plus
+    **légers**, ils absorbent également les **vibrations** mais ils seront plus rigides.
+    En fonction de leurs catégories, elles traduisent également l’accroche, la capacité
+    au ski à rester stable à une vitesse importante.
 published: false
 
 ---
