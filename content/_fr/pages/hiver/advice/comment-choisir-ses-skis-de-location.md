@@ -5,7 +5,7 @@ season: winter
 description: Comment choisir ses skis de locations ?
 topnav_color_text: light
 title: Comment choisir ses skis de location
-permalink: "/fr/hiver/conseil/choisir-ski-occasion"
+permalink: "/fr/hiver/conseil/choisir-ski-location"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Ski-masque-equipement_jppdrj.jpg
 image01_alt: Matériel de ski sur les pistes devant les montagnes
 button_to_link_to_ze_hero_shop:
