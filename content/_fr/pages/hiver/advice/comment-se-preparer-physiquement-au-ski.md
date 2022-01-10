@@ -2,29 +2,38 @@
 layout: layout_advice
 language: fr
 season: winter
-description: Comment choisir ses skis de locations ?
-topnav_color_text: light
+description: Comment se préparer avant d'arriver au ski afin d'être en forme physiquement
+  ?
+topnav_color_text: dark
 title: Comment se préparer physiquement au ski ?
-permalink: "/fr/hiver/conseil/choisir-ski-location"
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Ski-masque-equipement_jppdrj.jpg
-image01_alt: Matériel de ski sur les pistes devant les montagnes
+permalink: "/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski"
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883617/website/summer/Coach-prive-entrainement_k9n3ap.jpg
+image01_alt: Salle de sport entrainement physique et musculation
 button_to_link_to_ze_hero_shop:
   button_text: Choisir son matériel de location
   url_to_shop_zehero: https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
 page_sections:
 - template: textarea
   content: |-
-    Lorsque vous **louez** des skis, il n'est pas toujours évident de comprendre ce qui est déjà le mieux adapté pour vous, les différentes **catégories** de ski. Mais aussi savoir quel ski louer en fonction de son **niveau** et comprendre les différentes **gammes** de ski de location. Il y a un nombre important de ski et le choix n’est pas simple.
+    Vous avez réservé votre semaine à la montagne, vous avez hâte d’être sur vos skis et de profiter du domaine skiable. Prêt pour dévaler les pistes à toute vitesse, de skier des heures. Peut-être même de faire un peu de hors-piste, quelques bosses et du carving ? Le ski reste tout de même très physique, en fonction de l’intensité que l’on y met. C’est un sport qui demande un effort constant et une bonne condition physique.
 
-    Notre équipe d'experts va vous aider à comprendre et à choisir correctement votre paire de ski de location pour adulte.
-  title: Comment choisir ses skis de location ?
+    Pourquoi se préparer avant de venir :
+
+    * ne pas se faire mal
+    * renforcer son corps pour skier en toute aisance
+    * avoir la condition pour skier toute la journée, tenir le rythme et être efficace
+    * ne pas se fatiguer et profiter pleinement
+  title: Préparation physique avant d’aller au ski
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330388/website/Conseil%20Equiepement/jeremy-bezanger-jW1I1M9TdRA-unsplash_urapcp.jpg
-  captiontitleuppercase: La location de ski adultes
-  title: 'Chez Ze Hero, nous classons les skis selon différentes gammes. '
-  content: Afin de comprendre les différents niveaux de ski en location, nous avons
-    mis en place un système d'étoile qui permet de comprendre la gamme que vous souhaitez.
-    En effet, vous pourrez découvrir entre 1* et 5 à 6* selon les magasins.
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638823042/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg
+  captiontitleuppercase: Se préparer pour mieux profiter
+  title: Bien préparer son corps, c’est pouvoir skier en toute confiance et plus facilement.
+  content: "Le ski sollicite beaucoup de muscles et demande beaucoup d’énergie. N’oubliez
+    pas aussi que le froid et l’altitude vont encore plus demander de l'énergie. Être
+    prêt, c’est apprécier les journées entières à skier et garder de l’énergie pour
+    vos autres activités.  \nIl est idéal de commencer la préparation au moins 1 mois
+    avant votre venue au ski. Cela dans le but que votre corps assimile les séances
+    et qu’il y ait un réel impact musculaire."
 - template: textarea
   title: ''
   content: |-
