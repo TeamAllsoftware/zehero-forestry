@@ -63,7 +63,7 @@ page_sections:
     débutant. En effet, un débutant peut également louer un ski 3 étoiles afin d’avoir
     une progression plus importante. Il est important d’avoir un ski qui suit votre
     progression. Ainsi un ski plus haut de gamme vous apportera plus de confort et
-    vous permettra d’apprécier encore plus vos sensations de glisse.\n\n  \nDe plus,
+    vous permettra d’apprécier encore plus vos sensations de glisse.  \n  \nDe plus,
     vous retrouverez ces différentes gammes de ski en fonction de la pratique. C’est
     à dire que vous retrouverez des skis 2*, 3*, 4* et 5* en Freeride, Freestyle,
     Piste, All Mountain."
