@@ -35,6 +35,18 @@ page_sections:
     * Une émulation de groupe va permettre d'être plus motivé et de dépasser ses limites.
     * Les cours collectifs de ski sont moins chers que les leçons privées de ski.
     * Le cours collectif de ski leur permet d’évoluer dans un contexte ludique. Il permet aussi de progresser en mimant le reste du groupe. Les cours collectifs sont une excellente façon de faire découvrir le ski et de le faire aimer.
+- template: textarea
+  title: Les inconvénients des cours collectifs de ski
+  content: |-
+    * Les cours de ski collectifs peuvent cependant avoir quelques désavantages. Entre autre le fait qu’il y a énormément de fréquentation en période de vacances scolaire hivernal. Ce qui augmente le nombre de personne par groupe et diminue l’attention portée sur chaque élève. Par conséquent une progression moins efficace.
+    * De plus, chaque membre du groupe à son caractère, sa personnalité et il se peut parfois que certains ne collent pas avec d’autres.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825166/website/winter/debuter-le-ski-pour-adultes-avec-prosneige-_dou0sp.jpg
+  captiontitleuppercase: Les cours privés
+  title: Quelles sont les aspects des cours privés?
+  content: 'Dans ce cas là, l’enfant ou l’adulte est seul avec un moniteur qui lui
+    est entièrement consacré pendant toute la durée du cours définie à l’avance en
+    fonction du besoin et du niveau de “l’élève”. '
 published: false
 
 ---
