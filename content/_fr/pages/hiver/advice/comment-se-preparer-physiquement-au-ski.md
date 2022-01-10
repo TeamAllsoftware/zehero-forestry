@@ -63,30 +63,73 @@ page_sections:
     vos articulations et mettre votre cœur en mode actif."
   captiontitleuppercase: S'échauffer avant
 - template: textarea
-  content: "**Piste Bleu**\n\nOn débute avec 3 exercices pour se préparer au ski.
-    Vous retrouverez donc les Squats. La chaise, qui est un classique du renforcement
-    musculaire et surtout des exercices de musculation en ski. Et enfin un classique,
-    du gainage. On va donc cibler quadriceps et fessiers, de la résistance et ensuite
-    on cible les abdominaux et lombaires.\n\nÉchauffement de 5 mn\n\n* 3 à 6 fois
-    20 squats : [Fesses musclées: Squat](https://youtu.be/HFzk7HC3QM4 \"Squat\")\n\n
-    \    Récupération : 30 secondes entre les séries\n\n* 3 à 6 fois 30 secondes de
-    chaise [Exercices pour muscler les jambes: Wall Sit](https://youtu.be/y9v66nRKtJM)\n\n
-    \    Récupération : 30 secondes entre les séries\n\n* 3 à 6 fois 30 secondes de
-    gainage [Musculation abdos: Plank](https://youtu.be/auaPX7B2rV4)  \n    \n  Récupération
-    : 1 mn entre les séries"
-  title: Important
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812999/website/Conseil%20Equiepement/maxwell-ingham-d3Lm40Dn9rA-unsplash_rnaqaq.jpg
-  captiontitleuppercase: La location pour les enfants
-  title: Les différentes gammes de ski des baby aux ados
-  content: Pour les enfants de 3 à 5 ans, il faudra alors louer des skis “Baby”. Ce
-    sont des skis qui sont donc très courts et la semelle ne glisse pas trop vite.
-    Ces skis mesurent entre 68 centimètres et 1 mètre. Les enfants plus âgés qui débutent
-    ou qui ont déjà un petit niveau en ski, il faut alors louer des skis 2 étoiles
-    Junior. Ces skis seront parfaits pour progresser et affiner la technique. Pour
-    les enfants déjà plus avancés techniquement, vous pourrez alors choisir les skis
-    3 étoiles Junior. Ces skis seront alors orientés pour de la piste ou de hors-piste,
-    freeride…
+  content: |-
+    On débute avec 3 exercices pour se préparer au ski. Vous retrouverez donc les Squats. La chaise, qui est un classique du renforcement musculaire et surtout des exercices de musculation en ski. Et enfin un classique, du gainage. On va donc cibler quadriceps et fessiers, de la résistance et ensuite on cible les abdominaux et lombaires.
+
+    Échauffement de 5 mn
+
+    * 3 à 6 fois 20 squats : [Fesses musclées: Squat](https://youtu.be/HFzk7HC3QM4 "Squat")
+
+      Récupération : 30 secondes entre les séries
+    * 3 à 6 fois 30 secondes de chaise [Exercices pour muscler les jambes: Wall Sit](https://youtu.be/y9v66nRKtJM)
+
+      Récupération : 30 secondes entre les séries
+    * 3 à 6 fois 30 secondes de gainage [Musculation abdos: Plank](https://youtu.be/auaPX7B2rV4)
+
+      Récupération : 1 mn entre les séries
+  title: Piste Verte
+- template: textarea
+  content: "Les exercices vont commencer à s’intensifier et se durcir. On va faire
+    monter le cardio avec les Jumping Jack. On va travailler les quadriceps, les fessiers
+    et les ischio-jambiers ensuite pendant les fentes sautées. Mais également la proprioception.
+    Et on travaillera le gainage et le renforcement des deltoïdes, abdominaux, quadriceps
+    et mollets pour l’exercice de l’Ours.\n\nÉchauffement de 5 mn\n\n* 4 à 6 fois
+    30 secondes de fentes alternées (possibilité de les faire en sautant pour les
+    plus à l’aise) [Fentes avant, exercice fesses](https://youtu.be/ltoCx6E1ajU)  \n
+    \ Récupération : 30 secondes entre les séries\n* 4 à 6 fois 45 secondes position
+    de l’ours [Bear Position - DNS 11-12 Month Position](https://youtu.be/G6917KA_Ub8)\n\n
+    \ Récupération : 1 mn entre les séries\n* 4 à 6 fois 1 mn de Jumping Jack [Jumping
+    Jacks (petits sauts avec écarts des jambes)](https://youtu.be/Lgzqm0WNQ_s)\n\n
+    \ Récupération: 30 secondes entre les séries"
+  title: Piste Bleue
+- template: imagegallery02
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1641820123/website/summer/clem-onojeghuo-n6gnCa77Urc-unsplash_kjjv0z.jpg
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641820123/website/summer/clique-images-hSB2HmJYaTo-unsplash_xrnonc.jpg
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641820123/website/summer/victor-freitas-KIzBvHNe7hY-unsplash_ymvrxl.jpg
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641820123/website/summer/jonathan-borba-R0y_bEUjiOM-unsplash_pbfvvw.jpg
+  title: ''
+- template: textarea
+  content: "Sur ce 3ème bloc d’exercice, nous continuons de travailler sur la force
+    et la proprioception des jambes avec l’exercice d'élévation sur une jambe en partant
+    assis. Le retour du gainage mais cette fois, on va venir travailler les obliques.
+    Et on finit par faire monter le cardio, travailler la proprioception et l’équilibre
+    tout en travaillant les jambes avec le pas du patineur.\n\nÉchauffement de 5 mn\n\n*
+    4 à 5 fois 20 répétitions d’élévation assis sur une jambe (10 gauches puis 10
+    droites)   \n  [Squat assis à 1 jambe](https://youtu.be/pOlYU12on2c)\n\n  Récupération
+    : 30 secondes entre les séries\n* 4 à 5 fois 1’30 Gainage 3 côtés (30sec gauche
+    puis 30sec au centre puis 30sec droite)\n\n  Récupération : 1 mn\n* 4 à 5 fois
+    45 sec de patineur : [Pas du patineur](https://youtu.be/nikXgT5zaGk)\n\n  Récupération
+    : 30 seconde entre les séries"
+  title: Piste Rouge
+- template: textarea
+  content: "La piste noire est à faire après avoir réalisé déjà toutes les autres
+    séances afin d’avoir assimilé les exercices.  \nIci, nous allons travailler pendant
+    15mn dans un circuit training. Vous allez donc enchaîner plusieurs exercices à
+    la suite, sans avoir de repos et vous allez enchaîner donc plusieurs tours d’exercices.
+    Le but est de faire le maximum de tours en 15 minutes.\n\nAttention, le but est
+    d’aller vite. Mais on doit absolument rester efficace, propre et bien placé. Vous
+    devez avoir et garder une belle posture.\n\nNoter votre score la 1er fois que
+    vous le faites afin de savoir si vous le battrez la prochaine fois que vous le
+    ferez.\n\nSi vous trouvez la séance trop difficile, vous pouvez :\n\n* soit faire
+    2 fois 7mn et prendre 2mn de récupération entre\n* soit diviser par 2 le nombre
+    de répétitions\n\nAprès un échauffement de 5mn, pendant 15 mn, réalisez :\n\n*
+    10 Squats sautés\n* 10 Mountains Climbers [Exercices cardio: Mountain Climber](https://youtu.be/x-W86CmGpxA)\n*
+    10 Fentes sautée\n* 10 Jumping Jack\n* 10 Élévations du bassin [Le pont ( P4P_id_84
+    )](https://youtu.be/cvwfWt23cnI)\n* 30 secondes de gainage\n\nIl y a donc 6 exercices
+    que vous devez enchaîner pendant 15mn. Une fois le dernier exercice fait, votre
+    tour est validé. Vous devez alors faire le maximum de tours possibles pendant
+    15 mn."
+  title: La piste noire
 published: false
 
 ---
