@@ -4,7 +4,7 @@ language: fr
 season: winter
 description: Comment se préparer avant d'arriver au ski afin d'être en forme physiquement
   ?
-topnav_color_text: dark
+topnav_color_text: light
 title: Comment se préparer physiquement au ski ?
 permalink: "/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883617/website/summer/Coach-prive-entrainement_k9n3ap.jpg
