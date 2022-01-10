@@ -2,11 +2,11 @@
 layout: layout_advice
 language: fr
 season: winter
-description: Comment choisir son magasin de location
+description: Comment choisir ses skis de locations ?
 topnav_color_text: light
 title: Comment choisir ses skis de location
-permalink: "/fr/hiver/conseil/choisir-magasin-location"
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641572791/website/Conseil%20/samuel-ferrara-FGEHnEMaZnE-unsplash_hhla21.jpg
+permalink: "/fr/hiver/conseil/choisir-ski-occasion"
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Ski-masque-equipement_jppdrj.jpg
 image01_alt: Matériel de ski sur les pistes devant les montagnes
 button_to_link_to_ze_hero_shop:
   button_text: Choisir son matériel de location
@@ -14,10 +14,10 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: textarea
   content: |-
-    Choisir son magasin de location de ski, comment faire ? Vous avez réservé votre séjour en station de ski. Vous arrivez dans une station que nous ne connaissez pas.
+    Lorsque vous **louez** des skis, il n'est pas toujours évident de comprendre ce qui est déjà le mieux adapté pour vous, les différentes **catégories** de ski. Mais aussi savoir quel ski louer en fonction de son **niveau** et comprendre les différentes **gammes** de ski de location. Il y a un nombre important de ski et le choix n’est pas simple.
 
-    Vous devez louer des skis, mais quel magasin de ski de location choisir puis quel matériel de ski ?
-  title: ''
+    Notre équipe d'experts va vous aider à comprendre et à choisir correctement votre paire de ski de location pour adulte.
+  title: Comment choisir ses skis de location ?
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883535/website/winter/Ski-materiel-station_mc8zxh.jpg
   captiontitleuppercase: Les différentes astuces
