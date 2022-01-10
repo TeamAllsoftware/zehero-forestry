@@ -26,7 +26,17 @@ page_sections:
     * Biathlon
     * Luge et autre activité de glisse
     * et bien d'autres activités
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641808699/website/winter/ethan-hu-5WIqleHzOok-unsplash_elnk58.jpg
+  captiontitleuppercase: Découvrir la montagne
+  title: Des moments inoubliables et amusants pour vos enfants
+  content: 'Si votre enfant ne souhaite pas forcément apprendre le ski ou qu''en plus
+    du ski, il souhaite également s''amuser, il pourra s''inscrire dans ces activités
+    ludiques. Cela permet d''avoir un panel d''activité amusantes, fun, nouvelles
+    mais aussi ludiques. Il découvrira la montagne d''une autre façon, en s''amusant
+    avec ses copains. '
 topnav_text_color: light
 engage: Des activités accessibles, ludiques et outdoor
+published: false
 
 ---
