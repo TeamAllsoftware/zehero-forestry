@@ -28,6 +28,13 @@ page_sections:
     En fonction des écoles de ski et de leur politique interne, les cours collectifs en ski peuvent aller de 8 à 12 maximum pour une question de sécurité.
 
     Généralement, les enfants et les adultes sont classés et regroupés par groupe de niveau. En conséquence, aucun risque de se retrouver avec des personnes bien plus expérimentées ou moins évoluées que soit.
+- template: textarea
+  title: Les avantages du cours collectif
+  content: |-
+    * Le fait d’être avec d’autres skieurs de votre niveau est rassurant et permet d’améliorer le processus d’apprentissage en cours de ski collectif
+    * Une émulation de groupe va permettre d'être plus motivé et de dépasser ses limites.
+    * Les cours collectifs de ski sont moins chers que les leçons privées de ski.
+    * Le cours collectif de ski leur permet d’évoluer dans un contexte ludique. Il permet aussi de progresser en mimant le reste du groupe. Les cours collectifs sont une excellente façon de faire découvrir le ski et de le faire aimer.
 published: false
 
 ---
