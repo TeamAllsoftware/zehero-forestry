@@ -55,6 +55,19 @@ page_sections:
     **légers**, ils absorbent également les **vibrations** mais ils seront plus rigides.
     En fonction de leurs catégories, elles traduisent également l’accroche, la capacité
     au ski à rester stable à une vitesse importante.
+- template: textarea
+  content: "Un ski que vous allez louer pour débuter et progresser en début de semaine
+    peut en fin de semaine être handicapant pour vous.\n\nCe qui est important également
+    de retenir, c’est que les différentes gammes de ski ne correspondent pas à un
+    niveau précis. Un ski 2 étoiles ne sera pas forcément destiné uniquement à un
+    débutant. En effet, un débutant peut également louer un ski 3 étoiles afin d’avoir
+    une progression plus importante. Il est important d’avoir un ski qui suit votre
+    progression. Ainsi un ski plus haut de gamme vous apportera plus de confort et
+    vous permettra d’apprécier encore plus vos sensations de glisse.\n\n  \nDe plus,
+    vous retrouverez ces différentes gammes de ski en fonction de la pratique. C’est
+    à dire que vous retrouverez des skis 2*, 3*, 4* et 5* en Freeride, Freestyle,
+    Piste, All Mountain."
+  title: ''
 published: false
 
 ---
