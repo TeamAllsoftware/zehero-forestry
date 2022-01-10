@@ -43,6 +43,13 @@ page_sections:
     séjour et de ne pas vous blesser.\n\nPrenez seulement 20 à 30 minutes pour une
     séance. L'idéal est de faire 3 séances par semaine, espacées d’un jour entre.
     \ \nExemple : Lundi / Mercredi / Vendredi"
+- template: liststyle01
+  title: 'Vous retrouverez 4 séances proposées : '
+  item:
+  - Piste verte
+  - Piste bleue
+  - Piste rouge
+  - Piste noire
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812460/website/Conseil%20Equiepement/david-becker-F7SBonu15d8-unsplash_l6iunp.jpg
   captiontitleuppercase: Une construction de ski différente
