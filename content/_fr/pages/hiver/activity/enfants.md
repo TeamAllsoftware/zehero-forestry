@@ -44,6 +44,5 @@ page_sections:
   title: ''
 topnav_text_color: light
 engage: Des activités accessibles, ludiques et outdoor
-published: false
 
 ---
