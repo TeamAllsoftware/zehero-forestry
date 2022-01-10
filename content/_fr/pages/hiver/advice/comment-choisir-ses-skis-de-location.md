@@ -19,23 +19,28 @@ page_sections:
     Notre équipe d'experts va vous aider à comprendre et à choisir correctement votre paire de ski de location pour adulte.
   title: Comment choisir ses skis de location ?
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883535/website/winter/Ski-materiel-station_mc8zxh.jpg
-  captiontitleuppercase: Les différentes astuces
-  title: 3 points importants
-  content: "Il est important de vérifier et de connaître **l'emplacement** du magasin.
-    Il peut être intéressant de louer dans le magasin le plus proche de votre hébergement.
-    Il faut également vérifier les **horaires** du magasin. Certains magasins sont
-    ouverts 7j/7 en non-stop, d’autres magasins ferment durant la journée. En cas
-    de problèmes ou bien échange c’est toujours plus simple d’avoir un magasin ouvert
-    7/7 non-stop. Pour finir, les **feedbacks** des clients du magasin  \nde location
-    de ski."
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330388/website/Conseil%20Equiepement/jeremy-bezanger-jW1I1M9TdRA-unsplash_urapcp.jpg
+  captiontitleuppercase: La location de ski adultes
+  title: 'Chez Ze Hero, nous classons les skis selon différentes gammes. '
+  content: Afin de comprendre les différents niveaux de ski en location, nous avons
+    mis en place un système d'étoile qui permet de comprendre la gamme que vous souhaitez.
+    En effet, vous pourrez découvrir entre 1* et 5 à 6* selon les magasins.
 - template: textarea
-  title: Les différents éléments que vous pouvez demander
-  content: |-
-    * Les tarifs : Il existe beaucoup de remises chaque semaine car une grande concurrence existe. Notre site internet vous présente les tarifs nets après remise par semaine.
-    * Vous avez le choix entre magasin avec enseigne (sport 2000, Ski set, Intersport, Skimium, gosport …) ou bien sans enseigne : ce sont généralement des franchises, ce qui est important c’est l’équipe sur place, sauf si vous êtes attachés à une enseigne spécifique.
-    * Vous pouvez demander l’année d’achat des skis de location : ce n’est pas toujours noté sur le site.
-    * Vous pouvez demander s’il existe un atelier pour l’entretien des skis. Lorsque vous louez un ski, il est important que l’entretien du ski soit effectué après chaque sortie.
+  title: ''
+  content: "__Les skis 1*__ : Ils sont réservés pour des personnes qui n'ont jamais
+    skié et qui sont débutants. Ce sont des skis très maniables pour apprendre à skier.\n\n__Les
+    skis 2*__ : Ces skis sont réservés pour des personnes qui commencent le skieur
+    souhaitant progresser. Ce sont des skis maniables, avec une accroche limitée.\n\n__Les
+    skis 3*__ : Ils sont réservés pour des personnes qui ont débuté le ski et qui
+    souhaitent commencer à progresser Ce sont des skis maniables avec une meilleure
+    accroche par rapport à votre niveau. Ce sont des skis qui seront adaptés pour
+    progresser.\n\n__Les skis 4*__ : Ces skis sont réservés pour les personnes qui
+    ont un niveau de ski plus élevé. Ils sont donc réservés pour des skieurs à l’aise
+    sur tous les terrains et sur des pistes rouge et noir. Ce sont des ski haut de
+    gamme qui sont maniables et très rassurant afin de se faire plaisir en gardant
+    de la vitesse.  \n**Les skis 5* :** Ce sont des skis haut de gamme qui seront
+    réservés pour des skieurs à l’aise sur toutes les pistes et tous les terrains.
+    Ils seront destinés à des skieurs maîtrisant la vitesse, la technique et la puissance."
 published: false
 
 ---
