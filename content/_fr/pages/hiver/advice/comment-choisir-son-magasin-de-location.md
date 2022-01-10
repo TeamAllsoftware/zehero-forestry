@@ -5,7 +5,7 @@ season: winter
 description: Comment choisir son magasin de location
 topnav_color_text: light
 title: Comment choisir son magasin de location ?
-permalink: "/fr/hiver/conseil/choisir-magasin-location"
+permalink: "/fr/hiver/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641572791/website/Conseil%20/samuel-ferrara-FGEHnEMaZnE-unsplash_hhla21.jpg
 image01_alt: Matériel de ski sur les pistes devant les montagnes
 button_to_link_to_ze_hero_shop:
