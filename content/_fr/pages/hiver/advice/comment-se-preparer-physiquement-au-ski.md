@@ -94,7 +94,7 @@ page_sections:
   title: Piste Bleue
 - template: imagegallery02
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1641820123/website/summer/clem-onojeghuo-n6gnCa77Urc-unsplash_kjjv0z.jpg
-  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641820123/website/summer/clique-images-hSB2HmJYaTo-unsplash_xrnonc.jpg
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883617/website/summer/E-coaching_knbvly.jpg
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641820123/website/summer/victor-freitas-KIzBvHNe7hY-unsplash_ymvrxl.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641820123/website/summer/jonathan-borba-R0y_bEUjiOM-unsplash_pbfvvw.jpg
   title: ''
