@@ -50,32 +50,31 @@ page_sections:
   - Piste bleue
   - Piste rouge
   - Piste noire
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812460/website/Conseil%20Equiepement/david-becker-F7SBonu15d8-unsplash_l6iunp.jpg
-  captiontitleuppercase: Une construction de ski différente
-  title: Qu'est ce que la construction d'un ski haut de gamme ?
-  content: Chacune des catégories de ski de location vont se différencier par leur
-    construction de ski. Les skis entrée de gamme (1 étoile et 2 étoiles) seront construits
-    en mousse. Les catégories plus élevées vont contenir du bois plus noble ainsi
-    que des matériaux de hautes technologies. On peut également retrouver du carbone
-    dans le ski. Ainsi la construction du ski va influencer son poids, sa rigidité.
-    Mais également la maniabilité, son confort seront aussi influencés. Des skis présentant
-    du carbone seront beaucoup plus légers, ils absorbent également les vibrations
-    mais ils seront plus rigides. En fonction de leurs catégories, elles traduisent
-    également l’accroche, la capacité au ski à rester stable à une vitesse importante.
 - template: textarea
-  content: "Un ski que vous allez louer pour débuter et progresser en début de semaine
-    peut en fin de semaine être handicapant pour vous.\n\nCe qui est important également
-    de retenir, c’est que les différentes gammes de ski ne correspondent pas à un
-    niveau précis. Un ski 2 étoiles ne sera pas forcément destiné uniquement à un
-    débutant. En effet, un débutant peut également louer un ski 3 étoiles afin d’avoir
-    une progression plus importante. Il est important d’avoir un ski qui suit votre
-    progression. Ainsi un ski plus haut de gamme vous apportera plus de confort et
-    vous permettra d’apprécier encore plus vos sensations de glisse.  \n  \nDe plus,
-    vous retrouverez ces différentes gammes de ski en fonction de la pratique. C’est
-    à dire que vous retrouverez des skis 2*, 3*, 4* et 5* en Freeride, Freestyle,
-    Piste, All Mountain."
+  content: Le but est de jongler entre la piste bleu et rouge pendant 2 semaines.
+    Vous pourrez ensuite ajouter la piste noire à votre semaine.
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883617/website/summer/entrainement-preparation-physique-femme_cqellq.jpg
+  title: 'Avant chaque séance, il est important que vous vous échauffiez. '
+  content: "Minimum 5 mn avec des petites montées de genoux, des sauts sur place,
+    on bouge les bras, la tête et les mains. On échauffe son bassin et ses genoux.
+    \  \nPrenez 5mn pour faire un peu monter la température de votre corps, échauffer
+    vos articulations et mettre votre cœur en mode actif."
+  captiontitleuppercase: S'échauffer avant
+- template: textarea
+  content: "**Piste Bleu**\n\nOn débute avec 3 exercices pour se préparer au ski.
+    Vous retrouverez donc les Squats. La chaise, qui est un classique du renforcement
+    musculaire et surtout des exercices de musculation en ski. Et enfin un classique,
+    du gainage. On va donc cibler quadriceps et fessiers, de la résistance et ensuite
+    on cible les abdominaux et lombaires.\n\nÉchauffement de 5 mn\n\n* 3 à 6 fois
+    20 squats : [Fesses musclées: Squat](https://youtu.be/HFzk7HC3QM4 \"Squat\")\n\n
+    \    Récupération : 30 secondes entre les séries\n\n* 3 à 6 fois 30 secondes de
+    chaise [Exercices pour muscler les jambes: Wall Sit](https://youtu.be/y9v66nRKtJM)\n\n
+    \    Récupération : 30 secondes entre les séries\n\n* 3 à 6 fois 30 secondes de
+    gainage [Musculation abdos: Plank](https://youtu.be/auaPX7B2rV4)  \n    \n  Récupération
+    : 1 mn entre les séries"
+  title: Important
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812999/website/Conseil%20Equiepement/maxwell-ingham-d3Lm40Dn9rA-unsplash_rnaqaq.jpg
   captiontitleuppercase: La location pour les enfants
@@ -88,15 +87,6 @@ page_sections:
     les enfants déjà plus avancés techniquement, vous pourrez alors choisir les skis
     3 étoiles Junior. Ces skis seront alors orientés pour de la piste ou de hors-piste,
     freeride…
-- template: textarea
-  content: "Lorsque vous louez vos skis, il est donc important de bien renseigner
-    certaines informations importantes afin que le magasin de location de ski puisse
-    vous préparez le matériel en fonction de votre niveau et de votre physique :\n\n*
-    Votre type de pratique\n* Votre Taille\n* Votre Poids\n* Votre niveau\n* Votre
-    Pointure\n\n  \nVous pouvez également renseigner des informations supplémentaires
-    qui peuvent importantes. Par exemple, si vous êtes fragiles d’un genou, il est
-    important de le spécifier."
-  title: Important
 published: false
 
 ---
