@@ -42,15 +42,14 @@ page_sections:
   captiontitleuppercase: Une construction de ski différente
   title: Qu'est ce que la construction d'un ski haut de gamme ?
   content: Chacune des catégories de ski de location vont se différencier par leur
-    **construction** de ski. Les skis entrée de gamme (1 étoile et 2 étoiles) seront
-    construits en **mousse**. Les catégories plus élevées vont contenir du **bois**
-    plus noble ainsi que des matériaux de hautes **technologies**. On peut également
-    retrouver du **carbone** dans le ski. Ainsi la construction du ski va influencer
-    son **poids**, sa **rigidité**. Mais également la **maniabilité**, son **confort**
-    seront aussi influencés. Des skis présentant du **carbone** seront beaucoup plus
-    **légers**, ils absorbent également les **vibrations** mais ils seront plus rigides.
-    En fonction de leurs catégories, elles traduisent également l’accroche, la capacité
-    au ski à rester stable à une vitesse importante.
+    construction de ski. Les skis entrée de gamme (1 étoile et 2 étoiles) seront construits
+    en mousse. Les catégories plus élevées vont contenir du bois plus noble ainsi
+    que des matériaux de hautes technologies. On peut également retrouver du carbone
+    dans le ski. Ainsi la construction du ski va influencer son poids, sa rigidité.
+    Mais également la maniabilité, son confort seront aussi influencés. Des skis présentant
+    du carbone seront beaucoup plus légers, ils absorbent également les vibrations
+    mais ils seront plus rigides. En fonction de leurs catégories, elles traduisent
+    également l’accroche, la capacité au ski à rester stable à une vitesse importante.
 - template: textarea
   content: "Un ski que vous allez louer pour débuter et progresser en début de semaine
     peut en fin de semaine être handicapant pour vous.\n\nCe qui est important également
@@ -77,16 +76,13 @@ page_sections:
     3 étoiles Junior. Ces skis seront alors orientés pour de la piste ou de hors-piste,
     freeride…
 - template: textarea
-  content: |-
-    Lorsque vous louez vos skis, il est donc important de bien renseigner certaines informations importantes afin que le magasin de location de ski puisse vous préparez le matériel en fonction de votre niveau et de votre physique :
-
-    * Votre type de pratique
-    * Votre Taille
-    * Votre Poids
-    * Votre niveau
-    * Votre Pointure
-
-    Vous pouvez également renseigner des informations supplémentaires qui peuvent importantes. Par exemple, si vous êtes fragiles d’un genou, il est important de le spécifier.
+  content: "Lorsque vous louez vos skis, il est donc important de bien renseigner
+    certaines informations importantes afin que le magasin de location de ski puisse
+    vous préparez le matériel en fonction de votre niveau et de votre physique :\n\n*
+    Votre type de pratique\n* Votre Taille\n* Votre Poids\n* Votre niveau\n* Votre
+    Pointure\n\n  \nVous pouvez également renseigner des informations supplémentaires
+    qui peuvent importantes. Par exemple, si vous êtes fragiles d’un genou, il est
+    important de le spécifier."
   title: Important
 
 ---
