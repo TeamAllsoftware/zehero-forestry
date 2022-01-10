@@ -25,7 +25,16 @@ s02:
   p02:
     fr:
     en:
-
+s03:
+  p01:
+    fr:
+      txt01: Vous seriez plus à l'aise par téléphone ?
+      txt02: N'hésitez pas, appelez-nous, nous répondrons à vos questions de 9h à 18h du lundi au vendredi.
+      txt03: (+33) 4 79 22 35 27
+    en:
+      txt01: More comfortable talking with us?
+      txt02: Do not hesitate to call us. We'll answer your questions and discuss from 9am to 6pm work days.
+      txt03: (+33) 4 79 22 35 27
 s08:
   p01:
     fr: Merci pour votre message...
