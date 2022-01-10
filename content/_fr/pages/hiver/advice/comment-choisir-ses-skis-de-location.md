@@ -27,20 +27,16 @@ page_sections:
     En effet, vous pourrez découvrir entre 1* et 5 à 6* selon les magasins.
 - template: textarea
   title: ''
-  content: "__Les skis 1*__ : Ils sont réservés pour des personnes qui n'ont jamais
-    skié et qui sont débutants. Ce sont des skis très maniables pour apprendre à skier.\n\n__Les
-    skis 2*__ : Ces skis sont réservés pour des personnes qui commencent le skieur
-    souhaitant progresser. Ce sont des skis maniables, avec une accroche limitée.\n\n__Les
-    skis 3*__ : Ils sont réservés pour des personnes qui ont débuté le ski et qui
-    souhaitent commencer à progresser Ce sont des skis maniables avec une meilleure
-    accroche par rapport à votre niveau. Ce sont des skis qui seront adaptés pour
-    progresser.\n\n__Les skis 4*__ : Ces skis sont réservés pour les personnes qui
-    ont un niveau de ski plus élevé. Ils sont donc réservés pour des skieurs à l’aise
-    sur tous les terrains et sur des pistes rouge et noir. Ce sont des ski haut de
-    gamme qui sont maniables et très rassurant afin de se faire plaisir en gardant
-    de la vitesse.  \n**Les skis 5* :** Ce sont des skis haut de gamme qui seront
-    réservés pour des skieurs à l’aise sur toutes les pistes et tous les terrains.
-    Ils seront destinés à des skieurs maîtrisant la vitesse, la technique et la puissance."
+  content: |-
+    __Les skis 1*__ : Ils sont réservés pour des personnes qui n'ont jamais skié et qui sont débutants. Ce sont des skis très maniables pour apprendre à skier.
+
+    __Les skis 2*__ : Ces skis sont réservés pour des personnes qui commencent le skieur souhaitant progresser. Ce sont des skis maniables, avec une accroche limitée.
+
+    __Les skis 3*__ : Ils sont réservés pour des personnes qui ont débuté le ski et qui souhaitent commencer à progresser Ce sont des skis maniables avec une meilleure accroche par rapport à votre niveau. Ce sont des skis qui seront adaptés pour progresser.
+
+    __Les skis 4*__ : Ces skis sont réservés pour les personnes qui ont un niveau de ski plus élevé. Ils sont donc réservés pour des skieurs à l’aise sur tous les terrains et sur des pistes rouge et noir. Ce sont des ski haut de gamme qui sont maniables et très rassurant afin de se faire plaisir en gardant de la vitesse.
+
+    __Les skis 5*__ : Ce sont des skis haut de gamme qui seront réservés pour des skieurs à l’aise sur toutes les pistes et tous les terrains. Ils seront destinés à des skieurs maîtrisant la vitesse, la technique et la puissance.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812460/website/Conseil%20Equiepement/david-becker-F7SBonu15d8-unsplash_l6iunp.jpg
   captiontitleuppercase: Une construction de ski différente
