@@ -196,6 +196,7 @@
                             </div>
                         </div>
                         <!-- end progress item -->
+                        {% comment %}
                         <!-- start progress item -->
                         <div class="col-12 p-0 process-step-style-02 wow animate__fadeIn" data-wow-delay="0.4s">
                             <div class="process-step-item">
@@ -223,12 +224,13 @@
                             </div>
                         </div>
                         <!-- end progress item -->
+                        {% endcomment %}
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 offset-xl-1 wow animate__fadeInRight">
                     <div class="outside-box-right position-relative">
                         {% capture download_note %}{{ thispage.s05.image01_href }}{% endcapture %}
-                        <img src="{% include image.html file=download_note sizevar="" width="700" height="800" %}" class="overflow-hidden" alt="{{ thispage.s05.image01_alt }}" />
+                        <img src="{% include image.html file=download_note sizevar="" width="700" height="600" %}" class="overflow-hidden" alt="{{ thispage.s05.image01_alt }}" />
                     </div>
                 </div>
             </div>

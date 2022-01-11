@@ -55,12 +55,12 @@ s04:
     fr:
       txt01: Apprendre le ski, le snowboard ou autre
       txt02: Découvrir, débuter, progresser ou se perfectionner...
-      txt03: Comment choisir ses skis d'occasion
-      txt04: "Les skis d'occasion sont une excellente alternative mais il faut savoir les choisir - [Lire notre fiche conseil sur comment choisir des skis d'occasion](/fr/hiver/conseil/ski-d-occasion){: .text-green.font-weight-500}."
-      txt05: Comment choisir ses boots de snowboard
-      txt06: "Vous souhaitez vous équiper pour la partique du snowboard ? - [Tout ce qu'il faut savoir sur les boots](/fr/hiver/conseil/boots-snowboard){: .text-green.font-weight-500}."
-      txt07: Louer des skis.. ne laissez pas le hasard choisir pour vous
-      txt08: "Dans le magasin de location vous pouvez influencer le choix pour votre matériel, mais à condition de savoir où et quoi regarder! - [Nous avons une fiche conseil pour vous](/fr/hiver/conseil/choisir-ski-location){: .text-green.font-weight-500}."
+      txt03: Comment choisir son école de ski ?
+      txt04: "Toutes les écoles ne ressemblent pas... certaines sont plus familiales que d'autres - [Lire notre fiche conseil sur comment choisir son école de ski](/fr/hiver/conseil/choisir-ecole-de-ski){: .text-green.font-weight-500}."
+      txt05: Plutôt cours privé ou cours collectif ?
+      txt06: "Les 2 formules ont leurs avantages. Si vous êtes un adulte débutant, le cours privé vous aidera beaucoup - [Tout ce qu'il faut savoir sur les différences entre cours privé et collectif](/fr/hiver/conseil/cours-privé-cours-collectif){: .text-green.font-weight-500}."
+      txt07: Quels cours de ski et quel niveau choisir ?
+      txt08: "Pas simple de s'évaluer pour choisir le bon cours - [Nous avons une fiche conseil qui vous simplifie la vie ;)](/fr/hiver/conseil/cours-privé-cours-collectif){: .text-green.font-weight-500}."
     en:
       txt01: Learning
       txt02: De nombreux conseils pour vous aider dans vos choix
@@ -76,9 +76,9 @@ s05:
   p01:
     fr:
       txt01: Outdoor à partager
-      txt02: De nombreux conseils pour vous aider dans vos choix
-      txt03: Comment choisir ses skis d'occasion
-      txt04: "Les skis d'occasion sont une excellente alternative mais il faut savoir les choisir - [Lire notre fiche conseil sur comment choisir des skis d'occasion](/fr/hiver/conseil/ski-d-occasion){: .text-green.font-weight-500}."
+      txt02: Pour vivre au mieux ses activités de plein air, la préparation est importante
+      txt03: Comment se préparer physiquement au ski ?
+      txt04: "La préparation physique est essentielle pour ne pas se blesser et profiter des activités au mieux - [Lire notre fiche conseil sur comment se préparer physiquement](/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski){: .text-green.font-weight-500}."
       txt05: Comment choisir ses boots de snowboard
       txt06: "Vous souhaitez vous équiper pour la partique du snowboard ? - [Tout ce qu'il faut savoir sur les boots](/fr/hiver/conseil/boots-snowboard){: .text-green.font-weight-500}."
       txt07: Louer des skis.. ne laissez pas le hasard choisir pour vous
