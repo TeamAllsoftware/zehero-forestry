@@ -75,6 +75,23 @@ page_sections:
     va se différencier par la pratique de nouveau terrain comme le hors-piste, le
     freestyle, le slalom etc."
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825160/website/winter/cristina-munteanu-qOFS-GJme60-unsplash_lzh1qe.jpg
+  captiontitleuppercase: Choisir son niveau en snowboard
+  title: Voici les différents niveaux que l'on peut retrouver en snowboard
+  content: En snowboard, il va exister également plusieurs niveaux afin de scinder
+    l'apprentissage du snowboard. On va donc retrouver les personnes n'ayant jamais
+    pratiqué ou seulement quelques heures. On va donc apprendre à glisser droit sur
+    la planche, savoir son sens de ride. Généralement on réalise la feuille morte
+    en descendant, on va alors commencer à traversée en front et en back les pistes
+    vertes.
+- template: textarea
+  content: "Pour le niveau 2, les rideurs vont alors commencer à réaliser les virages
+    backside et frontside sur des pistes vertes voir rouge doucement. Ils vont également
+    débuter le switch, les initiation aux box.  \nLors du niveau 3, ce sont des personnes
+    qui vont pouvoir descendre des pistes rouges et de pouvoir être à l'aise dans
+    des terrains irréguliers."
+  title: ''
 published: false
 
 ---
