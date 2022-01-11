@@ -90,8 +90,11 @@ page_sections:
     backside et frontside sur des pistes vertes voir rouge doucement. Ils vont également
     débuter le switch, les initiation aux box.  \nLors du niveau 3, ce sont des personnes
     qui vont pouvoir descendre des pistes rouges et de pouvoir être à l'aise dans
-    des terrains irréguliers."
+    des terrains irréguliers.  \nPour le niveau 4, on va retrouver des personnes de
+    plus en à l'aise et efficace techniquement en snowboard. Ils vont commencer à
+    aller en hors-piste, à carver et faire également un peu de freestyle ainsi que
+    du flat.\n\nPour finir, le niveau 5 va être pour des personnes cherchant à se
+    perfectionner dans le snowboard et dans la discipline qu'il préfère faire."
   title: ''
-published: false
 
 ---
