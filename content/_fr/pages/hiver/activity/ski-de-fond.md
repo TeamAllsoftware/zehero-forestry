@@ -36,12 +36,13 @@ page_sections:
     en glissant. Bien sûr la technique demande de l'apprentissage afin de chercher
     une glisse optimale.
 - template: textarea
-  content: La deuxième discipline est le skating. Celle ci est plus complexe et technique
+  content: "La deuxième discipline est le skating. Celle ci est plus complexe et technique
     que le classique. En effet, le pas ici sera celui du patineur. Une pratique plus
     physique, plus technique mais où la recherche de vitesse sera plus importante
     qu'en classique. Son ski présente juste une semelle lisse mais sera plus rigide
-    et plus court que le ski de classique. Il s'exècrera, non pas dans les rails,
-    mais sur la piste damé.
+    et plus court que le ski de classique. Il s'exercera, non pas dans les rails,
+    mais sur la piste damé.   \nLa technique ne s'acquiert pas aussi facilement et
+    il sera plus physiquement plus difficile. "
   title: Le Skating
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/amanda-wold-kortnes-H_2uCqop6e8-unsplash_vox2y9.jpg
