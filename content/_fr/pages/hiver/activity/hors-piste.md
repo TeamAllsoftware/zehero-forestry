@@ -47,12 +47,10 @@ page_sections:
     importante, une neige de printemps, une neige parfois crouté, une neige trafollée.
     Cela va changer également en fonction du degré de la pente. '
 - template: textarea
-  content: "Le ski alpin aujourd'hui est devenu une pratique où les avancées technologiques
-    ne font qu'augmenter. La technicité du matériel permet d'avoir des chaussures
-    très performantes et confortables, d'avoir tous les types de ski pout tous les
-    niveaux. \n\nLe ski ne cesse d'évoluer et vous apporte ce à quoi vous avez besoin.
-    La plaisir de cette sensation de glisse dans de tel cadre est source de bien-être.
-    C'est un sport, une pratique où sont cadre est idyllique et paradisiaque. "
+  content: |-
+    On retrouve le ski hors piste dès qu'on s'écarte des pistes. Parfois il y a certains hors-piste qui se font facilement, par exemple sous un télésiège ou proche d'une piste, une combe qui rejoint une autre piste également. Il y a également des stations de ski qui mettent des zones spécialement dédiées au hors piste qui sont indiquées sur le plan des pistes du domaine skiable.
+
+    Sinon il faut parfois marcher après avoir pris une remontée mécanique, continuer soit à pied soit en ski de randonnée. Certains ski de freeride vont avoir une fixation de randonnée ainsi qu'une peau adaptée à leurs dimensions. Cela dans le but plutôt de faire de marche d'approche que de la randonnée pure.
   title: ''
 topnav_text_color: light
 engage: 'Explorer la montagne et ses hors pistes '
