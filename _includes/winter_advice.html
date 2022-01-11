@@ -34,7 +34,7 @@
                 </div>
                 <div class="col-12 col-lg-4 col-md-6">
                     {% capture download_note %}{{ thispage.s02.image02_href }}{% endcapture %}
-                    <img src="{% include image.html file=download_note sizevar="" width="400" height="300" %}" alt="" />
+                    <img src="{% include image.html file=download_note sizevar="" width="400" height="300" %}" alt="{{ thispage.s02.image02_alt }}" />
                     <div class="bg-white padding-3-half-rem-lr padding-3-rem-tb lg-padding-2-rem-all md-padding-2-half-rem-all sm-padding-4-rem-all last-paragraph-no-margin">
                         <span class="alt-font text-extra-dark-gray font-weight-500 margin-10px-bottom d-block">{{ thispage.s02.p02.[page.language].txt01 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                         <p>{{ thispage.s02.p02.[page.language].txt02 | markdownify | remove: '<p>' | remove: '</p>' }}</p>
@@ -100,55 +100,29 @@
                 </div>
                 <div class="col-12 col-lg-6 offset-xl-1 wow animate__fadeInRight">
                     <div class="outside-box-right position-relative">
-                        <img src="{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1638883535/website/winter/Raquettes-couple_jnidrj.jpg" sizevar="" width="700" height="800" %}" class="overflow-hidden" alt="" />
+                        {% capture download_note %}{{ thispage.s03.image01_href }}{% endcapture %}
+                        <img src="{% include image.html file=download_note sizevar="" width="700" height="900" %}" class="overflow-hidden" alt="{{ thispage.s03.image01_alt }}" />
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- end section -->
+    
     <!-- start section -->
     <section class="bg-light-gray">
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col-12 col-lg-6 position-relative z-index-1 md-margin-50px-bottom sm-margin-35px-bottom wow animate__fadeIn" data-wow-delay="0.1s">
-                    <div class="tilt-box" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }'>
-                        <img src="{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Sourire-neige_jdsltw.jpg" sizevar="" width="800" height="600" %}" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-5 offset-lg-1">
-                    <h5 class="alt-font font-weight-500 text-extra-dark-gray w-80 margin-45px-bottom letter-spacing-minus-1-half lg-w-90 md-margin-35px-bottom wow animate__fadeInRight" data-wow-delay="0.1s">Litho specializes in small <span class="font-weight-700">group vacations</span></h5>
-                    <ul class="list-style-06">
-                        <li class="margin-35px-bottom last-paragraph-no-margin md-margin-25px-bottom wow animate__fadeInRight" data-wow-delay="0.2s">
-                            <div><span class="w-25px h-25px text-center bg-green rounded-circle text-white margin-25px-right margin-5px-top d-flex flex-column"><i class="fas fa-check"></i></span></div>
-                            <div><span class="text-extra-medium text-extra-dark-gray font-weight-500 margin-5px-bottom d-block">A good traveler has no fixed plans</span>
-                                <p class="w-70 lg-w-90">Lorem ipsum dolor consectetur adipiscing do eiusmod tempor incididunt labore.</p>
-                            </div>
-                        </li>
-                        <li class="margin-35px-bottom last-paragraph-no-margin md-margin-25px-bottom wow animate__fadeInRight" data-wow-delay="0.3s">
-                            <div><span class="w-25px h-25px text-center bg-green rounded-circle text-white margin-25px-right margin-5px-top d-flex flex-column"><i class="fas fa-check"></i></span></div>
-                            <div><span class="text-extra-medium text-extra-dark-gray font-weight-500 margin-5px-bottom d-block">Places to stay around the world</span>
-                                <p class="w-70 lg-w-90">Lorem ipsum dolor consectetur adipiscing do eiusmod tempor incididunt labore.</p>
-                            </div>
-                        </li>
-                    </ul>
-                    <div class="margin-15px-top d-inline-block wow animate__fadeInRight" data-wow-delay="0.4s">
-                        <a href="#" class="btn btn-fancy btn-small btn-dark-gray margin-35px-right sm-margin-15px-right">About company</a>
-                        <a href="#" class="btn btn-link btn-extra-large text-extra-dark-gray top-minus-5px">Discover tour</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- end section -->
-    <!-- start section -->
-    <section class="">
-        <div class="container">
             <div class="row align-items-center justify-content-center">
+                <div class="col-12 col-lg-6 offset-xl-1 wow animate__fadeInRight">
+                    <div class="outside-box-left position-relative">
+                        {% capture download_note %}{{ thispage.s04.image01_href }}{% endcapture %}
+                        <img src="{% include image.html file=download_note sizevar="" width="850" height="900" %}" class="overflow-hidden" alt="{{ thispage.s04.image01_alt }}" />
+                    </div>
+                </div>
                 <div class="col-12 col-xl-5 col-lg-6 col-md-10 md-margin-50px-bottom">
                     <div class="col-12 p-0 margin-3-rem-bottom wow animate__fadeIn">
-                        <span class="alt-font font-weight-500 text-green text-extra-medium d-block margin-20px-bottom sm-margin-10px-bottom">Business process</span>
-                        <h5 class="alt-font font-weight-600 text-extra-dark-gray d-inline-block w-90 lg-w-80 sm-w-100">Understand and apply the business process</h5>
+                        <span class="alt-font font-weight-500 text-green text-extra-medium d-block margin-20px-bottom sm-margin-10px-bottom">{{ thispage.s04.p01.[page.language].txt01 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                        <h5 class="alt-font font-weight-600 text-extra-dark-gray d-inline-block w-90 lg-w-80 sm-w-100">{{ thispage.s04.p01.[page.language].txt02 | markdownify | remove: '<p>' | remove: '</p>' }}</h5>
                     </div>
                     <div class="col-12 p-0">
                         <!-- start progress item -->
@@ -159,8 +133,8 @@
                                     <span class="process-step-item-box-bfr bg-medium-gray"></span>
                                 </div>
                                 <div class="process-content last-paragraph-no-margin">
-                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">Unlimited power customization</span>
-                                    <p class="w-80 xs-w-100">Lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.</p>                
+                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">{{ thispage.s04.p01.[page.language].txt03 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                                    <p class="w-80 xs-w-100">{{ thispage.s04.p01.[page.language].txt04 | markdownify | remove: '<p>' | remove: '</p>' }}</p>                
                                 </div>
                             </div>
                         </div>
@@ -173,8 +147,8 @@
                                     <span class="process-step-item-box-bfr bg-medium-gray"></span>
                                 </div>
                                 <div class="process-content last-paragraph-no-margin">
-                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">Pixel perfect design and code</span>
-                                    <p class="w-80 xs-w-100">Lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.</p>                
+                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">{{ thispage.s04.p01.[page.language].txt05 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                                    <p class="w-80 xs-w-100">{{ thispage.s04.p01.[page.language].txt06 | markdownify | remove: '<p>' | remove: '</p>' }}</p>                
                                 </div>
                             </div>
                         </div>
@@ -186,8 +160,65 @@
                                     <div class="process-step-icon text-center border-all border-color-green border-width-2px bg-green alt-font font-weight-500">3</div>
                                 </div>
                                 <div class="process-content last-paragraph-no-margin">
-                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">Beautifully handcrafted templates</span>
-                                    <p class="w-80 xs-w-100">Lorem ipsum amet consectetur adipiscing do eiusmod tempor incididunt ut labore.</p>                
+                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">{{ thispage.s04.p01.[page.language].txt07 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                                    <p class="w-80 xs-w-100">{{ thispage.s04.p01.[page.language].txt08 | markdownify | remove: '<p>' | remove: '</p>' }}</p>                
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end progress item -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end section -->
+    <!-- start section -->
+    <section>
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-12 col-xl-5 col-lg-6 col-md-10 md-margin-50px-bottom">
+                    <div class="col-12 p-0 margin-3-rem-bottom wow animate__fadeIn">
+                        <span class="alt-font font-weight-500 text-green text-extra-medium d-block margin-20px-bottom sm-margin-10px-bottom">{{ thispage.s05.p01.[page.language].txt01 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                        <h5 class="alt-font font-weight-600 text-extra-dark-gray d-inline-block w-90 lg-w-80 sm-w-100">{{ thispage.s05.p01.[page.language].txt02 | markdownify | remove: '<p>' | remove: '</p>' }}</h5>
+                    </div>
+                    <div class="col-12 p-0">
+                        <!-- start progress item -->
+                        <div class="col-12 p-0 process-step-style-02 wow animate__fadeIn" data-wow-delay="0.2s">
+                            <div class="process-step-item">
+                                <div class="process-step-icon-wrap">
+                                    <div class="process-step-icon text-center border-all border-color-green border-width-2px bg-green alt-font font-weight-500">1</div>
+                                    <span class="process-step-item-box-bfr bg-medium-gray"></span>
+                                </div>
+                                <div class="process-content last-paragraph-no-margin">
+                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">{{ thispage.s05.p01.[page.language].txt03 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                                    <p class="w-80 xs-w-100">{{ thispage.s05.p01.[page.language].txt04 | markdownify | remove: '<p>' | remove: '</p>' }}</p>                
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end progress item -->
+                        <!-- start progress item -->
+                        <div class="col-12 p-0 process-step-style-02 wow animate__fadeIn" data-wow-delay="0.4s">
+                            <div class="process-step-item">
+                                <div class="process-step-icon-wrap">
+                                    <div class="process-step-icon text-center border-all border-color-green border-width-2px bg-green alt-font font-weight-500">2</div>
+                                    <span class="process-step-item-box-bfr bg-medium-gray"></span>
+                                </div>
+                                <div class="process-content last-paragraph-no-margin">
+                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">{{ thispage.s05.p01.[page.language].txt05 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                                    <p class="w-80 xs-w-100">{{ thispage.s05.p01.[page.language].txt06 | markdownify | remove: '<p>' | remove: '</p>' }}</p>                
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end progress item -->
+                        <!-- start progress item -->
+                        <div class="col-12 p-0 process-step-style-02 wow animate__fadeIn" data-wow-delay="0.6s">
+                            <div class="process-step-item">
+                                <div class="process-step-icon-wrap">
+                                    <div class="process-step-icon text-center border-all border-color-green border-width-2px bg-green alt-font font-weight-500">3</div>
+                                </div>
+                                <div class="process-content last-paragraph-no-margin">
+                                    <span class="alt-font d-block font-weight-500 text-extra-dark-gray margin-5px-bottom">{{ thispage.s05.p01.[page.language].txt07 | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                                    <p class="w-80 xs-w-100">{{ thispage.s05.p01.[page.language].txt08 | markdownify | remove: '<p>' | remove: '</p>' }}</p>                
                                 </div>
                             </div>
                         </div>
@@ -196,54 +227,25 @@
                 </div>
                 <div class="col-12 col-lg-6 offset-xl-1 wow animate__fadeInRight">
                     <div class="outside-box-right position-relative">
-                        <img src="{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1639492450/website/winter/pauline-bernfeld-16l2ezZQ_Yw-unsplash_vrp0nb.jpg" sizevar="" width="700" height="800" %}" class="overflow-hidden" alt="" />
+                        {% capture download_note %}{{ thispage.s05.image01_href }}{% endcapture %}
+                        <img src="{% include image.html file=download_note sizevar="" width="700" height="800" %}" class="overflow-hidden" alt="{{ thispage.s05.image01_alt }}" />
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- end section -->
-    <!-- start section -->
-    <section class="bg-light-gray ">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-12 col-lg-6 position-relative z-index-1 md-margin-50px-bottom sm-margin-35px-bottom wow animate__fadeIn" data-wow-delay="0.1s">
-                    <div class="tilt-box" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }'>
-                        <img src="{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1639492165/website/winter/jonathan-borba-R0y_bEUjiOM-unsplash_keynhb.jpg" sizevar="" width="800" height="700" %}" alt="">
-                        
-                    </div>
-                </div>
-                <div class="col-12 col-lg-5 offset-lg-1">
-                    <h5 class="alt-font font-weight-500 text-extra-dark-gray w-80 margin-45px-bottom letter-spacing-minus-1-half lg-w-90 md-margin-35px-bottom wow animate__fadeInRight" data-wow-delay="0.1s">Litho specializes in small <span class="font-weight-700">group vacations</span></h5>
-                    <ul class="list-style-06">
-                        <li class="margin-35px-bottom last-paragraph-no-margin md-margin-25px-bottom wow animate__fadeInRight" data-wow-delay="0.2s">
-                            <div><span class="w-25px h-25px text-center bg-green rounded-circle text-white margin-25px-right margin-5px-top d-flex flex-column"><i class="fas fa-check"></i></span></div>
-                            <div><span class="text-extra-medium text-extra-dark-gray font-weight-500 margin-5px-bottom d-block">A good traveler has no fixed plans</span>
-                                <p class="w-70 lg-w-90">Lorem ipsum dolor consectetur adipiscing do eiusmod tempor incididunt labore.</p>
-                            </div>
-                        </li>
-                        <li class="margin-35px-bottom last-paragraph-no-margin md-margin-25px-bottom wow animate__fadeInRight" data-wow-delay="0.3s">
-                            <div><span class="w-25px h-25px text-center bg-green rounded-circle text-white margin-25px-right margin-5px-top d-flex flex-column"><i class="fas fa-check"></i></span></div>
-                            <div><span class="text-extra-medium text-extra-dark-gray font-weight-500 margin-5px-bottom d-block">Places to stay around the world</span>
-                                <p class="w-70 lg-w-90">Lorem ipsum dolor consectetur adipiscing do eiusmod tempor incididunt labore.</p>
-                            </div>
-                        </li>
-                    </ul>
-                    <div class="margin-15px-top d-inline-block wow animate__fadeInRight" data-wow-delay="0.4s">
-                        <a href="#" class="btn btn-fancy btn-small btn-dark-gray margin-35px-right sm-margin-15px-right">About company</a>
-                        <a href="#" class="btn btn-link btn-extra-large text-extra-dark-gray top-minus-5px">Discover tour</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- end section -->
-    
 
     <!-- start section -->
-    <section class="">
+    <section class="bg-light-gray">
         
         <div class="container-fluid padding-five-lr xl-padding-two-lr lg-padding-four-lr">
+            <div class="row justify-content-center wow animate__fadeIn">
+                <div class="col-12 col-xl-4 col-lg-5 col-sm-6 text-center margin-3-half-rem-bottom md-margin-2-rem-bottom">
+                    <span class="alt-font font-weight-500 text-green text-extra-medium d-block margin-20px-bottom sm-margin-10px-bottom">{{ thispage.s06.p01.[page.language].txt01 }}</span>
+                    <h5 class="alt-font font-weight-600 text-extra-dark-gray d-inline-block letter-spacing-minus-1-half">{{ thispage.s06.p01.[page.language].txt02 }}</h5>
+                </div>
+            </div>
             <div class="row row-cols-1 row-cols-xl-4 row-cols-sm-2">
                 {% for advice in advices %}
                 {% if advice.path contains "/advice/" %}
