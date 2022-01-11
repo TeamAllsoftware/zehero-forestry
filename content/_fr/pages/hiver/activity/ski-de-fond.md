@@ -66,6 +66,16 @@ page_sections:
     et de prendre un grand bol d''air tout en se dépensant. '
   captionleftcontent: 'Plongez dans les forêts enchantées '
   captionrighttitle: Une balade physique pour un bien être total
+- template: textarea
+  title: Où en pratiquer ?
+  content: |-
+    Il existe énormément de station qui propose des parcours pour pratiquer le ski de fond. Pour ce qui est des stations plus connus et agréables pour le ski de fond en France, on peut retrouver :
+
+    * Le Jura avec la station les Rousses, Chapelle les Bois et bien d'autre. C'est le paradis du ski de fond, des kilomètres de piste entourés de sapin
+    * Autrans Méaudre dans le Vercors, elle dispose de 180km de piste
+    * La Flécaz en Savoie est un joli terrain de balade avec une vue sur le Mont Blanc
+    * Dans les Vosges, vous trouverez un grand de piste de ski de fond dans les différents domaines
+    * Les Saisies, sur son plateau elle est dotée d'une très bonne qualité de neige
 topnav_text_color: light
 engage: Explorer les forêts par des parcours vallonés
 
