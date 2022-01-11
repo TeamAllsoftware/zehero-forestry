@@ -1,30 +1,42 @@
 ---
 layout: page_activity
-permalink: "/fr/hiver/activite/ski-alpin"
+permalink: "/fr/hiver/activite/freeride"
 language: fr
 season: winter
 topnav_color_text: light
-title: Hors-piste
-description: Des pistes bleu aux pistes noir, faîtes le plein de sensation forte
-baseline: Slalom, chasse-neige, tout schuss
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-groupe-amis_weuk4g.jpg
-image01_alt: Ski de piste domaine skiable montagne
+title: Freeride
+description: Partez dans les pentes vierges, volez et flottez dans la neige fraîche,
+  partez dans les espaces loin des pistes
+baseline: Liberté, engagement et faire sa trace
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Ski-descente-poudreuse_jkfdf6.jpg
+image01_alt: Ski hors piste et freeride, descente dans de la poudreuse
 page_sections:
 - template: textarea
-  content: Le ski alpin est une discipline qui consiste à descendre les pistes de
-    ski. Le ski alpin se pratique dans le domaine skiable et sur les pistes balisées.
-    Que ce soit pour le loisir, la performance, la découverte d'un domaine ou la compétition,
-    cela demande de la technique et une bonne condition physique.
+  content: Le freeride c'est le ski hors-piste, c'est à dire que c'est une pratique
+    qui consiste à aller en dehors des pistes balisées, sécurisées. En dehors de ces
+    pistes damées, on y retrouve une autre montagne. Que ce soit juste sur le bord
+    des pistes ou beaucoup plus loin des remontées mécaniques, nous mettons nos skis
+    en freeride. Le freeride reste une discipline où sont environnement doit être
+    connu par des connaissances approfondies.
   title: ''
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
-  captiontitleuppercase: Apprendre le ski alpin
-  title: Pour tous, dès 3ans
-  content: Le ski s'apprend dès 3 ans dans les écoles de ski qui proposent la garderie
-    et l'apprentissage du ski. Vous pouvez ensuite, à tout âge, apprendre le ski que
-    ce soit en cours collectif ou en cours privé. Chaque domaine skiable sera composé
-    de piste bleu, verte, rouge et noir, qui seront donc synonyme de la difficulté
-    de la piste. Le plaisir du ski alpin va varier en fonction de votre style de ski.
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/sophie-the-laya-yogis-Yf-EC_VWYwY-unsplash_fqd8ow.jpg
+  captiontitleuppercase: Les bases du Freeride
+  title: On ne s'improvise pas Freerideur, car il y a de nombreuses notions importantes
+    à connaître
+  content: 'Le freeride implique de connaître la montagne et ses risques. Outre le
+    fait que cette discipline est également physique et demande une très bonne technique
+    de glisse, il est important d''en connaître ses aspects sécurités. '
+- template: textarea
+  content: "Dès que l'on quitte les pistes sécurisés, nous sommes face à la montagne
+    et donc à des risques plus élevés. La plus courante reste l'avalanche, mais il
+    y aussi les crevasses, les barres rocheuses, la météo qui se dégrade. Ces différents
+    paramètres sont importants à connaître avant de se lancer en hors-piste. Un guide
+    ou un moniteur peuvent vous expliquer tous ses paramètres lors d'une journée d'encadrement
+    en freeride.  \nIl est également important d'avoir systématiques sur soi le matériel
+    de sécurité :  \n\\- DVA  \n\\- Pelle  \n\\- Sonde  \nMais aussi un casque et
+    parfois des protection supplémentaires telle qu'une dorsale etc."
+  title: ''
 - template: liststyle01
   item:
   - Le ski zen pour profiter du paysage et du domaine
@@ -56,7 +68,7 @@ page_sections:
     vous permettra de vivre des moments forts en émotion. '
   gridline2title: En famille, en couple, entre amis ou seul
 topnav_text_color: light
-engage: Visiter un domaine en dévalant chaque piste
+engage: 'Explorer la montagne et ses hors pistes '
 published: false
 
 ---
