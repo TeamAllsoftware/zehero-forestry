@@ -23,32 +23,36 @@ page_sections:
     deux rails parallèles sur le coté de la piste.  "
   title: ''
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/sophie-the-laya-yogis-Yf-EC_VWYwY-unsplash_fqd8ow.jpg
-  captiontitleuppercase: Les bases du Freeride
-  title: On ne s'improvise pas Freerideur, car il y a de nombreuses notions importantes
-    à connaître
-  content: 'Le freeride implique de connaître la montagne et ses risques. Outre le
-    fait que cette discipline est également physique et demande une très bonne technique
-    de glisse, il est important d''en connaître ses aspects sécurités. '
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/thomas-dils-ZEraBEoSRSw-unsplash_bpzfga.jpg
+  captiontitleuppercase: Les différentes pratiques
+  title: Le classique
+  content: Il existe deux style différents de ski de fond. Ces deux styles demandent
+    également du matériel différents car la technique de glisse n'est pas la même.
+    On retrouve donc le Classique qui consiste à avancer dans les deux rails parallèles.
+    La glisse s'effectue par un pas alternatif (comme un pas de marche) où l'on va
+    chercher loin devant en restant dans l'axe. Il faut bien s'aider des bâtons pour
+    venir pousser. Cette activité est plus facile à apprendre que le skating. Les
+    skis présenteront des écailles ou des peaux afin d'accrocher sur la neige tout
+    en glissant. Bien sûr la technique demande de l'apprentissage afin de chercher
+    une glisse optimale.
 - template: textarea
-  content: "Dès que l'on quitte les pistes sécurisés, nous sommes face à la montagne
-    et donc à des risques plus élevés. La plus courante reste l'avalanche, mais il
-    y aussi les crevasses, les barres rocheuses, la météo qui se dégrade. Ces différents
-    paramètres sont importants à connaître avant de se lancer en hors-piste. Un guide
-    ou un moniteur peuvent vous expliquer tous ses paramètres lors d'une journée d'encadrement
-    en freeride.  \nIl est également important d'avoir systématiques sur soi le matériel
-    de sécurité :  \n\\- DVA  \n\\- Pelle  \n\\- Sonde  \nMais aussi un casque et
-    parfois des protection supplémentaires telle qu'une dorsale etc."
-  title: ''
+  content: La deuxième discipline est le skating. Celle ci est plus complexe et technique
+    que le classique. En effet, le pas ici sera celui du patineur. Une pratique plus
+    physique, plus technique mais où la recherche de vitesse sera plus importante
+    qu'en classique. Son ski présente juste une semelle lisse mais sera plus rigide
+    et plus court que le ski de classique. Il s'exècrera, non pas dans les rails,
+    mais sur la piste damé.
+  title: Le Skating
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/go-montgenevre-SRbczzaRQBc-unsplash_lkadef.jpg
-  captiontitleuppercase: La liberté
-  title: Faire sa trace sur les pentes vierges
-  content: 'Cette pratique demande déjà un niveau de ski important. La technique de
-    glisse en hors-piste est totalement différente de celle sur la piste. Cela va
-    aussi varier en fonction de la qualité de neige. On peut retrouve une poudreuse
-    importante, une neige de printemps, une neige parfois crouté, une neige trafollée.
-    Cela va changer également en fonction du degré de la pente. '
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/amanda-wold-kortnes-H_2uCqop6e8-unsplash_vox2y9.jpg
+  captiontitleuppercase: Les grand espaces pour vous
+  title: Pour tout le monde et tous les niveaux
+  content: Afin de pratiquer le ski de fond, il faut donc avoir le matériel adéquat
+    et il faut payer un forfait à l'entré des différents parcours. Dans certaines
+    station cela est gratuit mais il y aura peu de choix de parcours. Tout comme le
+    ski alpin, vous trouverez différents niveaux de parcours. En effet, il y aura
+    des bleues, des rouges et des noires. Ce sont donc la distance qui va augmenter
+    ainsi que le dénivelé ce qui accroit la difficulté du parcours.
 - template: textarea
   content: |-
     On retrouve le ski hors piste dès qu'on s'écarte des pistes. Parfois il y a certains hors-piste qui se font facilement, par exemple sous un télésiège ou proche d'une piste, une combe qui rejoint une autre piste également. Il y a également des stations de ski qui mettent des zones spécialement dédiées au hors piste qui sont indiquées sur le plan des pistes du domaine skiable.
