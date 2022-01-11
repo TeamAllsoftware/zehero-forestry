@@ -36,12 +36,13 @@ page_sections:
     en glissant. Bien sûr la technique demande de l'apprentissage afin de chercher
     une glisse optimale.
 - template: textarea
-  content: La deuxième discipline est le skating. Celle ci est plus complexe et technique
+  content: "La deuxième discipline est le skating. Celle ci est plus complexe et technique
     que le classique. En effet, le pas ici sera celui du patineur. Une pratique plus
     physique, plus technique mais où la recherche de vitesse sera plus importante
     qu'en classique. Son ski présente juste une semelle lisse mais sera plus rigide
-    et plus court que le ski de classique. Il s'exècrera, non pas dans les rails,
-    mais sur la piste damé.
+    et plus court que le ski de classique. Il s'exercera, non pas dans les rails,
+    mais sur la piste damé.   \nLa technique ne s'acquiert pas aussi facilement et
+    il sera plus physiquement plus difficile. "
   title: Le Skating
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/amanda-wold-kortnes-H_2uCqop6e8-unsplash_vox2y9.jpg
@@ -65,6 +66,16 @@ page_sections:
     et de prendre un grand bol d''air tout en se dépensant. '
   captionleftcontent: 'Plongez dans les forêts enchantées '
   captionrighttitle: Une balade physique pour un bien être total
+- template: textarea
+  title: Où en pratiquer ?
+  content: |-
+    Il existe énormément de station qui propose des parcours pour pratiquer le ski de fond. Pour ce qui est des stations plus connus et agréables pour le ski de fond en France, on peut retrouver :
+
+    * Le Jura avec la station les Rousses, Chapelle les Bois et bien d'autre. C'est le paradis du ski de fond, des kilomètres de piste entourés de sapin
+    * Autrans Méaudre dans le Vercors, elle dispose de 180km de piste
+    * La Flécaz en Savoie est un joli terrain de balade avec une vue sur le Mont Blanc
+    * Dans les Vosges, vous trouverez un grand de piste de ski de fond dans les différents domaines
+    * Les Saisies, sur son plateau elle est dotée d'une très bonne qualité de neige
 topnav_text_color: light
 engage: Explorer les forêts par des parcours vallonés
 
