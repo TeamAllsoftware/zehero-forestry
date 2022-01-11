@@ -37,13 +37,15 @@ page_sections:
     de sécurité :  \n\\- DVA  \n\\- Pelle  \n\\- Sonde  \nMais aussi un casque et
     parfois des protection supplémentaires telle qu'une dorsale etc."
   title: ''
-- template: liststyle01
-  item:
-  - Le ski zen pour profiter du paysage et du domaine
-  - La godille
-  - La vitesse et les sensations fortes
-  - Carver à chaque virages
-  title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/go-montgenevre-SRbczzaRQBc-unsplash_lkadef.jpg
+  captiontitleuppercase: La liberté
+  title: Faire sa trace et son dessin sur les pentes vierges
+  content: 'Cette pratique demande déjà un niveau de ski important. La technique de
+    glisse en hors-piste est totalement différente de celle sur la piste. Cela va
+    aussi varier en fonction de la qualité de neige. On peut retrouve une poudreuse
+    importante, une neige de printemps, une neige parfois crouté, une neige trafollée.
+    Cela va changer également en fonction du degré de la pente. '
 - template: textarea
   content: "Le ski alpin aujourd'hui est devenu une pratique où les avancées technologiques
     ne font qu'augmenter. La technicité du matériel permet d'avoir des chaussures
@@ -52,21 +54,6 @@ page_sections:
     La plaisir de cette sensation de glisse dans de tel cadre est source de bien-être.
     C'est un sport, une pratique où sont cadre est idyllique et paradisiaque. "
   title: ''
-- template: parlaxgridtxtimg
-  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1640090973/website/winter/valentin-b-kremer-xZyeRwQGKk4-unsplash_gztr6e.jpg
-  captionabovetitle: Débuter, se perfectionner, devenir expert
-  title: Le ski ne cesse jamais d'évoluer
-  gridline1title: Cours privé ou cours collectif
-  gridline1content: 'Apprendre le ski seul est très compliqué, tout comme se perfectionner
-    seul. Il est donc important d''avoir des conseils précis par une personne référente
-    du milieu. Il pourra alors corriger votre posture, votre technique, vos appuis
-    et vous permettre d''évoluer. '
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640090973/website/winter/nicolai-berntsen-OyP-8El8vWk-unsplash_pzgx3v.jpg
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Ski-descente_fo1bqg.jpg
-  gridline2content: 'Quelque soit votre station de ski, profitez de la glisse et du
-    domaine skiable et faîtes le plein de sensation. Seul ou à plusieurs, le ski alpin
-    vous permettra de vivre des moments forts en émotion. '
-  gridline2title: En famille, en couple, entre amis ou seul
 topnav_text_color: light
 engage: 'Explorer la montagne et ses hors pistes '
 published: false
