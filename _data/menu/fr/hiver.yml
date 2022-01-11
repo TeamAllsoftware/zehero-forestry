@@ -12,6 +12,8 @@
       subhref: fr/hiver/activite/snowboard
     - subtitle: 'Raquettes'
       subhref: fr/hiver/activite/raquettes
+    - subtitle: 'Freeride'
+      subhref: fr/hiver/activite/freeride
     - subtitle: 'Surf'
       subhref: fr/hiver/activite/surf
     - subtitle-bold: "___"
