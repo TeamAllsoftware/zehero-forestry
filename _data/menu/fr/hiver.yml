@@ -3,22 +3,26 @@
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
    image-link: "/fr/hiver/activites"
    subcategories:
-    - subtitle-bold: Nos activités
+    - subtitle-bold: Nos activités ski
     - subtitle: 'Ski alpin'
       subhref: fr/hiver/activite/ski-alpin
     - subtitle: 'Ski de randonnée'
       subhref: fr/hiver/activite/ski-de-randonnee
+    - subtitle: 'Ski freeride'
+      subhref: fr/hiver/activite/freeride
+    - subtitle: 'Ski de fond'
+      subhref: fr/hiver/activite/ski-de-fond
+    - subtitle-bold: "___"
+    - subtitle: '<span class="type--fine-print type--italic">Liste complète des activités</span>'
+      subhref: fr/hiver/activites
+   subcategories2:
+    - subtitle-bold: Nos autres activités
     - subtitle: 'Snowboards'
       subhref: fr/hiver/activite/snowboard
     - subtitle: 'Raquettes'
       subhref: fr/hiver/activite/raquettes
-    - subtitle: 'Freeride'
-      subhref: fr/hiver/activite/freeride
     - subtitle: 'Surf'
       subhref: fr/hiver/activite/surf
-    - subtitle-bold: "___"
-    - subtitle: '<span class="type--fine-print type--italic">Liste complète des activités</span>'
-      subhref: fr/hiver/activites
 -  title: 'Conseils'
    title-link: /fr/hiver/conseils
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
@@ -31,19 +35,20 @@
       subhref: "fr/hiver/conseil/ski-d-occasion"
     - subtitle: "Comment choisir ses boots de snowboard"
       subhref: "fr/hiver/conseil/boots-snowboard"
+
     - subtitle-bold: "Apprendre"
-    - subtitle: "Ski"
-      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-    - subtitle: "Ski de randonnée"
-      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-    - subtitle: "Snowboard"
-      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Comment choisir son école de ski ?"
+      subhref: "fr/hiver/conseil/choisir-ecole-de-ski"
+    - subtitle: "Apprendre en cours privé ou collectif ?"
+      subhref: "fr/hiver/conseil/cours-privé-cours-collectif"
+    - subtitle: "Choisir le bon niveau de cours en ski et snowboard"
+      subhref: "fr/hiver/conseil/choisir-niveau-ski-snowboard"
    subcategories2:
     - subtitle-bold: "Entraînement / Préparation"
-    - subtitle: "Coaching privé"
-      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-    - subtitle: "Coaching collectif"
-      subhref: "/fr/ossa-et-support/open-source-software-assurance/"
+    - subtitle: "Coaching privé ou collectif"
+      subhref: "fr/hiver/activite/coaching-sportif"
+    - subtitle: "Comment se préparer physiquement pour le ski"
+      subhref: "/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski"
     - subtitle-bold: "Outdoor à partager"
     - subtitle: "En famille"
       subhref: "/fr/ossa-et-support/open-source-software-assurance/"

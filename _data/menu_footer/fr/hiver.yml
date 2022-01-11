@@ -9,8 +9,10 @@
     subhref: /fr/hiver/activite/snowboard
   - subtitle: 'Raquettes'
     subhref: /fr/hiver/activite/raquettes
-  - subtitle: 'Freeride'
+  - subtitle: 'Ski freeride'
     subhref: fr/hiver/activite/freeride
+  - subtitle: 'Ski de fond'
+    subhref: fr/hiver/activite/ski-de-fond
 - col: "Conseils"
   title-link: /fr/hiver/conseils
   link:
