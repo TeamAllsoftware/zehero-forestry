@@ -55,41 +55,17 @@ page_sections:
     ainsi que le dénivelé ce qui accroit la difficulté du parcours.
 - template: textarea
   content: |-
-    On retrouve le ski hors piste dès qu'on s'écarte des pistes. Parfois il y a certains hors-piste qui se font facilement, par exemple sous un télésiège ou proche d'une piste, une combe qui rejoint une autre piste également. Il y a également des stations de ski qui mettent des zones spécialement dédiées au hors piste qui sont indiquées sur le plan des pistes du domaine skiable.
+    La pratique du ski de fond même si elle est plus facile d'accès que le ski alpin, demande tout de même une bonne technique ainsi qu'une bonne condition physique. C'est un sport très complet qui demande une forte dépense énergétique, un travail important de tout le corps, des muscles des jambes et des bras.
 
-    Sinon il faut parfois marcher après avoir pris une remontée mécanique, continuer soit à pied soit en ski de randonnée. Certains ski de freeride vont avoir une fixation de randonnée ainsi qu'une peau adaptée à leurs dimensions. Cela dans le but plutôt de faire de marche d'approche que de la randonnée pure.
-  title: ''
-- template: textarea
-  content: |-
-    Le Freeride se pratique à plusieurs afin d'avoir toujours une ou des personnes qui assurent la sécurité quand l'un part faire sa ligne. C'est partager un moment loin de la foule, dans une montagne calme et belle afin de faire le plein d'adrénaline et de sensations forte. C'est vivre un moment mort, c'est choisir où passer, analyser la trajectoire pour laisser la plus belle trace possible.
-
-    Si vous êtes un bon skieur mais que vous êtes débutant en freeride, réservez une journée découverte du freeride afin d'avoir toutes les premières connaissances de la montagne, de la sécurité, de la technique du ski.
+    Y aller avec un moniteur permet de comprendre les bases du skating ou du classique. Cela permet de comprendre comment bien glisser sans perdre trop d'énergie, de prendre plaisir à cette glisse, de découvrir les parcours adaptés à votre niveau et de passer un moment agréable seul ou accompagné.
   title: ''
 - template: 3coltxtimgtxt
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891586/website/winter/thijs-kennis-7GZjtBGnTiM-unsplash_glozjt.jpg
-  captionleftcontent: Vivre des moments uniques dans un environnement unique
-  captionrighttitle: Faîtes le plein de sensation forte
-  captionrightcontent: Le freeride, c'est découvrir la montagne sauvage, dans son
-    milieu naturel.
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
-  captiontitleuppercase: Le matériel
-  title: Un matériel spécifique pour le freeride
-  content: Si vous pratiquez le ski, il faudra alors une paire de ski dont le patin
-    sera plus important. Généralement on va retrouver des skis allant de 90mm à 110mm
-    au patin. Les skis présentent également un rocker important voir un double rocker
-    afin d'avoir une meilleure flottaison dans la neige fraîche. Il faudra également
-    un sac afin de transporter la pelle et la sonde ainsi que porter sur soi le DVA.
-- template: textarea
-  content: "Plongez dans l'univers majestueux du hors-piste, apprenez à connaitre
-    la montagne, ses pentes, sa neige et ses risques.   \nProgressez techniquement
-    grâce à un professionnel de la montagne qui sera vous montrez comment skier en
-    hors piste dans toutes les neiges et les pentes.\n\nLe freeride vous fera vivre
-    un moment inoubliable. L'implication physique et mentale est forte, à vous de
-    laisser votre trace."
-  title: ''
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/phillip-belena-eY-iYrKGOkw-unsplash_f8lv9d.jpg
+  captionrightcontent: 'Le ski de fond permet de se promener dans des grands espaces
+    et de prendre un grand bol d''air tout en se dépensant. '
+  captionleftcontent: 'Plongez dans les forêts enchantées '
+  captionrighttitle: Une balade physique pour un bien être total
 topnav_text_color: light
 engage: Explorer les forêts par des parcours vallonés
-published: false
 
 ---
