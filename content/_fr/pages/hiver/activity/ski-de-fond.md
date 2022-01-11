@@ -4,7 +4,7 @@ permalink: "/fr/hiver/activite/freeride"
 language: fr
 season: winter
 topnav_color_text: light
-title: Freeride
+title: Ski de fond
 description: Partez dans les pentes vierges, volez et flottez dans la neige fraîche,
   partez dans les espaces loin des pistes
 baseline: Liberté, engagement et faire sa trace
@@ -83,5 +83,6 @@ page_sections:
   title: ''
 topnav_text_color: light
 engage: 'Explorer la montagne et ses hors pistes '
+published: false
 
 ---
