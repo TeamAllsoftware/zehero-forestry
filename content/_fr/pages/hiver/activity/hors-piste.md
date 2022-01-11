@@ -73,8 +73,15 @@ page_sections:
     au patin. Les skis présentent également un rocker important voir un double rocker
     afin d'avoir une meilleure flottaison dans la neige fraîche. Il faudra également
     un sac afin de transporter la pelle et la sonde ainsi que porter sur soi le DVA.
+- template: textarea
+  content: "Plongez dans l'univers majestueux du hors-piste, apprenez à connaitre
+    la montagne, ses pentes, sa neige et ses risques.   \nProgressez techniquement
+    grâce à un professionnel de la montagne qui sera vous montrez comment skier en
+    hors piste dans toutes les neiges et les pentes.\n\nLe freeride vous fera vivre
+    un moment inoubliable. L'implication physique et mentale est forte, à vous de
+    laisser votre trace."
+  title: ''
 topnav_text_color: light
 engage: 'Explorer la montagne et ses hors pistes '
-published: false
 
 ---
