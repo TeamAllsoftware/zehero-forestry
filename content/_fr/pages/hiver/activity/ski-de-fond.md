@@ -1,23 +1,26 @@
 ---
 layout: page_activity
-permalink: "/fr/hiver/activite/freeride"
+permalink: "/fr/hiver/activite/ski-de-fond"
 language: fr
 season: winter
-topnav_color_text: light
+topnav_color_text: dark
 title: Ski de fond
-description: Partez dans les pentes vierges, volez et flottez dans la neige fraîche,
-  partez dans les espaces loin des pistes
-baseline: Liberté, engagement et faire sa trace
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Ski-descente-poudreuse_jkfdf6.jpg
-image01_alt: Ski hors piste et freeride, descente dans de la poudreuse
+description: Le ski de fond est la 1er discipline de ski et elle est aujourd'hui d'une
+  croissance importante et se développe.
+baseline: 'Ludique, physique, et dépaysant '
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/simon-berger--O8r5oLosYo-unsplash_b9rv7j.jpg
+image01_alt: Parcours de ski de fond dans la forêt
 page_sections:
 - template: textarea
-  content: Le freeride c'est le ski hors-piste, c'est à dire que c'est une pratique
-    qui consiste à aller en dehors des pistes balisées, sécurisées. En dehors de ces
-    pistes damées, on y retrouve une autre montagne. Que ce soit juste sur le bord
-    des pistes ou beaucoup plus loin des remontées mécaniques, nous mettons nos skis
-    en freeride. Le freeride reste une discipline où sont environnement doit être
-    connu par des connaissances approfondies.
+  content: "Le ski de fond est l'ancêtre du ski alpin. Cette discipline a pris naissance
+    dans les pays nordiques. C'était à l'époque un moyen de déplacement et c'est aujourd'hui
+    une pratique très rependue, devenue ludique, sportive et de partage.  \nLe ski
+    de fond se pratique plus facilement que le ski alpin, mais reste technique et
+    difficile selon les parcours et les pratiques. On ne retrouve donc aucunes remontées
+    mécanique pour cette discipline. On la retrouve généralement dans les stations
+    plus basses en altitude et est généralement plus à l'écart du domaine skiable.
+    \ \nLes pistes de ski de fond sont damés spécifiquement et on vont comportées
+    deux rails parallèles sur le coté de la piste.  "
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/sophie-the-laya-yogis-Yf-EC_VWYwY-unsplash_fqd8ow.jpg
@@ -82,7 +85,7 @@ page_sections:
     laisser votre trace."
   title: ''
 topnav_text_color: light
-engage: 'Explorer la montagne et ses hors pistes '
+engage: Explorer les forêts par des parcours vallonés
 published: false
 
 ---
