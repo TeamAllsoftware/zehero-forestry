@@ -40,7 +40,7 @@ page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/go-montgenevre-SRbczzaRQBc-unsplash_lkadef.jpg
   captiontitleuppercase: La liberté
-  title: Faire sa trace et son dessin sur les pentes vierges
+  title: Faire sa trace sur les pentes vierges
   content: 'Cette pratique demande déjà un niveau de ski important. La technique de
     glisse en hors-piste est totalement différente de celle sur la piste. Cela va
     aussi varier en fonction de la qualité de neige. On peut retrouve une poudreuse
