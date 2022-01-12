@@ -75,6 +75,5 @@ page_sections:
     temps un jour de soleil, vous allez vous faire très mal au yeux. De plus, vérifie
     systématiquement que votre matériel est bien réglé. C''est à dire que vos fixations
     de ski sont bien réglées à votre poids et votre niveau. '
-published: false
 
 ---
