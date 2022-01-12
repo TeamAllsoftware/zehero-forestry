@@ -1,18 +1,19 @@
 ---
 layout: default
 ---
-
+{% assign thispage = site.data.content.coach %}
 {% include elements/generic_variables.html %}
 
 <!-- start section -->
-<section class="cover-background p-0 home-freelancer overflow-visible" style="background-image:url('https://via.placeholder.com/1920x1101');">
+{% capture download_note %}{{ page.s01.image01_href }}{% endcapture %}
+<section class="cover-background p-0 home-freelancer overflow-visible" style="background-image:url('{% include image.html file=download_note sizevar="genhero" width="" height="" %}');">
     <div class="container">
         <div class="row full-screen md-h-650px sm-h-550px xs-h-450px">
-            <div class="col-12 col-md-5 col-sm-7 d-flex flex-column padding-8-rem-tb">
-                <h1 class="alt-font font-weight-600 title-extra-large-heavy text-extra-dark-gray letter-spacing-minus-10px line-height-120px mt-auto mb-0 sm-letter-spacing-minus-5px">Brian<br /> <span class="text-border text-border-width-2px title-extra-large letter-spacing-minus-6px sm-letter-spacing-minus-1-half">miller</span></h1>
-                <div class="d-flex alt-font font-weight-500 text-extra-medium text-extra-dark-gray mt-auto">
-                    <span class="flex-shrink-0 h-2px w-20px bg-extra-dark-gray align-self-center margin-15px-right"></span>
-                    <div class="flex-grow-1 letter-spacing-minus-1-half">Award winner freelancer</div>
+            <div class="col-12 col-md-7 col-sm-7 d-flex flex-column padding-8-rem-tb">
+                <h1 class="alt-font font-weight-600 title-extra-large-heavy text-green letter-spacing-minus-10px line-height-120px mt-auto mb-0 sm-letter-spacing-minus-5px">{{ page.s01.firstname }}<br /> <span class="text-border text-border-width-2px title-extra-large letter-spacing-minus-6px sm-letter-spacing-minus-1-half">{{ page.s01.lastname }}</span></h1>
+                <div class="d-flex alt-font font-weight-500 text-extra-medium text-white mt-auto">
+                    <span class="flex-shrink-0 h-2px w-20px bg-white align-self-center margin-15px-right"></span>
+                    <div class="flex-grow-1 letter-spacing-minus-1-half">{{ page.s01.coachbaseline }}</div>
                 </div>
             </div>
             <div class="col-12 position-absolute left-0px bottom-0px home-freelancer">
@@ -23,18 +24,19 @@ layout: default
 </section>
 <!-- end section -->
 <!-- start section -->
-<section class="big-section" style="background:url('images/home-freelancer-bg-img-01.png') no-repeat top 110px left;">
+{% capture download_note %}{{ page.s02.image01_href }}{% endcapture %}
+<section class="big-section" style="background:url('https://res.cloudinary.com/deddrj0yb/image/upload/v1641996813/website/global/home-freelancer-bg-img-01_ulyr3q.png') no-repeat top 110px left;">
     <div class="container">
         <div class="row align-items-center justify-content-center z-index-0 position-relative">
             <div class="col-12 col-lg-4 col-md-7 text-center text-lg-start last-paragraph-no-margin md-margin-30px-bottom xs-margin-30px-top  wow animate__fadeIn" data-wow-delay="0.2s">
-                <span class="alt-font font-weight-600 text-extra-dark-gray text-large text-uppercase d-block margin-20px-bottom">About brian miller</span>
-                <p class="text-large line-height-38px">I am a designer and frontend developer from Newyork, USA. I hold a master degree of web design from the world university.</p>
+                <span class="alt-font font-weight-600 text-extra-dark-gray text-large text-uppercase d-block margin-20px-bottom">{{ thispage.s01[page.language] }} {{ page.s01.firstname }} {{ page.s01.lastname }}</span>
+                <p class="text-large line-height-38px">{{ page.s02.about }}</p>
             </div>
-            <div class="col-12 col-lg-4 offset-lg-1 col-md-6 col-sm-4 text-center text-sm-start text-md-end padding-3-half-rem-tb ps-sm-0 tilt-box lg-padding-5-rem-tb md-padding-7-rem-tb home-freelancer-bg-img sm-no-padding-tb wow animate__zoomIn" data-wow-delay="0.4s" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }' style="background: url('images/home-freelancer-img-05.png') no-repeat;">
-                <span class="text-big alt-font font-weight-600 text-uppercase text-extra-dark-gray image-mask cover-background letter-spacing-minus-10px md-letter-spacing-minus-5px xs-letter-spacing-minus-1-half" style="background-image: url('https://via.placeholder.com/421x289')">20</span>
+            <div class="col-12 col-lg-4 offset-lg-1 col-md-6 col-sm-4 text-center text-sm-start text-md-end padding-3-half-rem-tb ps-sm-0 tilt-box lg-padding-5-rem-tb md-padding-7-rem-tb home-freelancer-bg-img sm-no-padding-tb wow animate__zoomIn" data-wow-delay="0.4s" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }' style="background: url('https://res.cloudinary.com/deddrj0yb/image/upload/v1641996813/website/global/home-freelancer-img-05_rwc8kc.png') no-repeat;">
+                <span class="text-big alt-font font-weight-600 text-uppercase text-extra-dark-gray image-mask cover-background letter-spacing-minus-10px md-letter-spacing-minus-5px xs-letter-spacing-minus-1-half" style="background-image: url('{% include image.html file=download_note sizevar="genhero" width="" height="" %}')">{{ page.s02.years_experience }}</span>
             </div>
             <div class="col-12 col-lg-3 col-md-4 col-sm-4 text-center text-sm-start wow animate__fadeInRight" data-wow-delay="0.7s">
-                <h5 class="alt-font font-weight-300 text-extra-dark-gray text-uppercase w-90 mb-0 margin-15px-left xs-no-margin-left sm-w-100">Years of <span class="font-weight-700">experience</span></h5>
+                <h5 class="alt-font font-weight-300 text-extra-dark-gray text-uppercase w-90 mb-0 margin-15px-left xs-no-margin-left sm-w-100">{{ thispage.p02[page.language].txt01 }} <span class="font-weight-700">{{ thispage.p02[page.language].txt02 }}</span></h5>
             </div>
         </div>
         <div class="row row-cols-1 row-cols-md-4 row-cols-sm-2 margin-6-half-rem-top">

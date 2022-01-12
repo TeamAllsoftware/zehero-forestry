@@ -1,0 +1,12 @@
+#Generic content of coach page
+
+p01:
+  fr: A propos de
+  en: About
+p02:
+  fr:
+    txt01: Années
+    txt02: d'expérience
+  en:
+    txt01: Years of
+    txt02: expérience
