@@ -43,6 +43,22 @@ page_sections:
     Plus.  \nBien sûr, ce sont uniquement des exemples, cela peut déprendre absolument
     de ce que vous aimez et désirez faire."
   title: ''
+- template: textarea
+  content: "Le choix de la station de ski va varier en fonction de votre pratique.
+    Tout d'abord si vous êtes un ou des passionnés de ski de fond alors aller dans
+    un station de ski alpin tel que Val Thorens, Les Arcs ou encore Tignes ne sera
+    pas l'idéal.   \nSi vous êtes en mordu de freestyle, il y a aussi certaines stations
+    qui offrent de meilleur snowpark tel que Avoriaz, Les 2 Alpes, Les Arc, Vars ou
+    encore Tignes.  \nSi c'est uniquement le freeride qui vous importe, et que vous
+    ne souhaitez pas totalement être sur les pistes, il faudra également bien choisir
+    sa station. Vous pourrez trouver des stations parfaites pour le freeride tel que
+    La Grave, Chamonix, Les Arcs, Sainte Foy en Tarentaise, Grand Tourmalet, Tignes,
+    Serre Chevalier ou alors l'Alpe d'Huez.  \nSi vous êtes un passionné des pistes
+    noires, des pistes longues et raides où vous allez chercher de la vitesse, du
+    carving et à réaliser un maximum de rotation, vous pourrez trouver les stations
+    comme : Méribel, Courchevel, Val Thorens, Tignes et Val d'Isère, Chamonix, La
+    Plagne, "
+  title: ''
 published: false
 
 ---
