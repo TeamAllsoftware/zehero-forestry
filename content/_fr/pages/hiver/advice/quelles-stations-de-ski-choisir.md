@@ -63,11 +63,24 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641996517/website/Conseil%20/yann-allegre-aUjwjVJvJrU-unsplash_z9epra.jpg
   captiontitleuppercase: Confort, Festive, Sportive ou Familiale ?
   title: Chaque station va également se caractériser selon ses offres et ses services
-  content: 'On va retrouver différents Label qui vont permettre d''apporter un élément
+  content: On va retrouver différents Label qui vont permettre d'apporter un élément
     important sur la station. Les stations de ski avec le Label Famille Plus sont
     des stations de ski qui répondent à des et exigences et des engagements strictes
-    pour les enfants. Leurs buts sont d''offre des moments inoubliables pour les familles.
-    On retrouve par exemple, '
-published: false
+    pour les enfants. Leurs buts sont d'offre des moments inoubliables pour les familles.
+    On retrouve par exemple les stations comme l'Alpe d'Huez, La Clusaz, Les Orres,
+    Méribel, Les Houches et bien d'autres encore.
+- template: textarea
+  content: "Ensuite on retrouve des stations plus sportives pour les personnes cherchant
+    des grands domaines skiables. Pour ceux qui souhaitent avoir des stations bénéficiant
+    de nombreuses pistes sont par exemples les stations des 3 Vallées, Les Arcs et
+    La Plagne, l'Espace Killy, Les portes du soleil, La Clusaz et bien d'autre  \nVous
+    pourrez ensuite faire votre choix en fonction du charme des stations, de l'architecture,
+    de la beauté du paysage. Les grosses stations de ski vont, le plus souvent, comporter
+    beaucoup d'important bâtiment, parfois même haut tel que des tours. Cela casse
+    le charme que certaines station de ski conservent. Si vous rêvez de station remplis
+    de beaux chalets, de bâtiments harmonieux, de petit cocon vous pourrez trouver
+    les stations de ski tel que Méribel, Valmorel, Mégève, La Rosière, Aussois, Saint
+    Lary, Val d'Isère, Areche-Beaufort..."
+  title: ''
 
 ---
