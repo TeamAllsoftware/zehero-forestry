@@ -11,7 +11,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/webs
 image01_alt: Montagne enneigé et avalanche avec une personne hors de l'avalanche
 page_sections:
 - template: textarea
-  title: Une journée qui démarré plutôt bien
+  title: Une journée qui démarre plutôt bien
   content: "J'étais en tournage avec le Club Med en snowboard afin de faire quelques
     vidéos en Freestyle dans la station de ski de Valmorel. On était le 23 Mars et
     la neige se transformait en neige de printemps. Dès qu'on est en hors-piste, on
