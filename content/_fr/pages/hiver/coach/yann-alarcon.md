@@ -18,4 +18,51 @@ s02:
     about: I am a designer and frontend developer from Newyork, USA. I hold a master degree of web design from the world university.
     years_experience: "10"
 
+s03:
+    txt01: Trail en montagne
+    txt02: Antibes
+    txt03: Trail, Vélo, Ski
+    txt04: Préparation physique
+
+s04:
+    image01:
+        href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+        alt: texte alternatif pour l'image
+        txt01: Titre
+        txt02: Sous-titre
+    image02:
+        href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+        alt: texte alternatif pour l'image
+        txt01: Titre
+        txt02: Sous-titre
+    image03:
+        href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+        alt: texte alternatif pour l'image
+        txt01: Titre
+        txt02: Sous-titre
+    image03:
+        href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+        alt: texte alternatif pour l'image
+        txt01: Titre
+        txt02: Sous-titre
+    image04:
+        href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+        alt: texte alternatif pour l'image
+        txt01: Titre
+        txt02: Sous-titre
+    image05:
+        href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+        alt: texte alternatif pour l'image
+        txt01: Titre
+        txt02: Sous-titre
+    image06:
+        href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+        alt: texte alternatif pour l'image
+        txt01: Titre
+        txt02: Sous-titre
+
+s05:
+    image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+    image01_alt: texte alternatif pour l'image
+    
 ---

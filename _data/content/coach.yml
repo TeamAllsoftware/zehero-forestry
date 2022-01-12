@@ -10,3 +10,26 @@ p02:
   en:
     txt01: Years of
     txt02: expérience
+p03:
+  fr:
+    txt01: Terrains favoris
+    txt02: Lieu d'opération
+    txt03: Sports pratiqués
+    txt04: Spécialité
+  en:
+    txt01: Terrains favoris
+    txt02: Lieu d'opération
+    txt03: Date of birth
+    txt04: Education
+p05:
+  fr:
+    txt01: Expertise
+    txt02: incroyable
+  en:
+    txt01: Amazing
+    txt02: expertise
+p06:
+  fr:
+    txt01: réalisations
+  en:
+    txt01: achievement
