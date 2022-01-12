@@ -61,12 +61,12 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_105259_c53ror.jpg
   captiontitleuppercase: Plus de peur que de mal
   title: On réalise que tout va très vite
-  content: Mon père à su alors sortir sans mon aide, il avait perdu ses lunettes c'est
-    tout. Après être revenue vers moi, après quelques échanges assez brefs sur ce
-    qu'il venait de se passer, il a compris une chose importante. J'avais peur, et
-    cela aurait dangereux. Il a décidé de continuer à grimper et finir cette ascension.
-    Il savait que si on avait arrêté là, j'aurai surement eu peur de remettre les
-    pieds en  hors-piste.
+  content: Mon père a alors pu sortir sans mon aide, la seule chose qu'il avait perdu
+    était ses lunettes, c'est tout. Après être revenu vers moi, après quelques échanges
+    assez brefs sur ce qu'il venait de se passer, il a compris une chose importante.
+    J'avais eu peur et cela aurait pu mal finir. Il a décidé de continuer à grimper
+    et de finir cette ascension. Il savait que si on s'était arrêté là, j'aurai sûrement
+    eu peur de remettre les pieds en hors-piste toute ma vie.
 - template: textarea
   content: "Je n'étais pas serein, je n'avais pas encore une grande expérience dans
     le hors-piste. Je connaissais les gestes importants à faire, la sécurité, mais
