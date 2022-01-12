@@ -23,13 +23,21 @@ p03:
     txt04: Education
 p05:
   fr:
-    txt01: Expertise
-    txt02: incroyable
+    txt01: Coach
+    txt02: diplomé
   en:
     txt01: Amazing
     txt02: expertise
 p06:
   fr:
     txt01: réalisations
+  en:
+    txt01: achievement
+p07:
+  fr:
+    txt01: peut vous aider dans votre progression
+    txt02: Que vous soyez débutant ou amateur, réservez un cours privé ou collectif
+    txt_button: Réserver un cours
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
   en:
     txt01: achievement

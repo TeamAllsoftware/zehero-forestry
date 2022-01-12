@@ -64,5 +64,27 @@ s04:
 s05:
     image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
     image01_alt: texte alternatif pour l'image
-    
+    expertise01:
+        title: Expertise 1
+        content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    expertise02:
+        title: Expertise 2
+        content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    expertise03:
+        title: Expertise 3
+        content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+
+s06:
+    achieve01:
+        title: Sujet 1
+        content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    achieve02:
+        title: Sujet 2
+        content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    achieve03:
+        title: Sujet 3
+        content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    achieve04:
+        title: Sujet 3
+        content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
 ---
