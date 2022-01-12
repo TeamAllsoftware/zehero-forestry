@@ -39,29 +39,6 @@
                     {% endfor %}
 
                     
-                    <!-- start footer column -->
-                    <div class="col-12 col-lg-3 col-md-5 col-sm-6 order-sm-2 order-lg-0 md-margin-50px-bottom xs-no-margin-bottom">
-                        <span class="alt-font font-weight-500 d-block text-white margin-30px-bottom xs-margin-25px-bottom">ZE HERO Blog</span>
-                        <ul>
-                            {% assign posts = site[page.collection] | reverse | where_exp: "page" , "page.season contains season" %}
-                            
-                            {% for blogpost in posts limit:2 %}
-                            {% if blogpost.path contains "/posts/" %}
-                           
-                            <li class="media d-flex">
-                                <a href="{{ blogpost.url }}"  title="Lien vers l'aticle de blog {{ blogpost.post-title }}" class="flex-shrink-0 w-75px margin-30px-right sm-margin-15px-right xs-margin-30px-right">
-                                    {% capture download_note %}{{ blogpost.image01_href }}{% endcapture %}
-                                    <img src="{% include image.html file=download_note sizevar="" width="95" height="75" %}" alt="{{ blogpost.image01_alt }}">
-                                </a>
-                                <div class="flex-grow-1">
-                                    <a href="{{ blogpost.url }}"  title="Lien vers l'aticle de blog {{ blogpost.post-title }}">{{ blogpost.post-title }} </a>
-                                </div>
-                            </li>
-                            {% endif %}
-                            {% endfor %}
-                        </ul>
-                    </div>
-                    <!-- end footer column -->
                 </div>
             </div>
         </div>

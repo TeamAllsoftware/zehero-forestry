@@ -37,3 +37,14 @@
     subhref: "fr/hiver/station/val-d-isere"
   - subtitle: "Méribel"
     subhref: "fr/hiver/station/meribel"
+- col: "e-Shop"
+  title-link: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+  link:
+  - subtitle: "Acheter des skis d'occasion"
+    subhref: "https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion"
+  - subtitle: "Louer des skis"
+    subhref: "https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion"
+  - subtitle: "Louer des chaussures"
+    subhref: "https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1"
+  - subtitle: "Louer un snowboard"
+    subhref: "https://fr.ze-hero.com/location-materiel/location-snowboard/location-snowboard-adulte"

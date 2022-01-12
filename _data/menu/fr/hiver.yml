@@ -12,9 +12,7 @@
       subhref: fr/hiver/activite/freeride
     - subtitle: 'Ski de fond'
       subhref: fr/hiver/activite/ski-de-fond
-    - subtitle-bold: "___"
-    - subtitle: '<span class="type--fine-print type--italic">Liste complète des activités</span>'
-      subhref: fr/hiver/activites
+    - txt-button: 'Toutes les activités'
    subcategories2:
     - subtitle-bold: Nos autres activités
     - subtitle: 'Snowboards'
@@ -35,7 +33,8 @@
       subhref: "fr/hiver/conseil/ski-d-occasion"
     - subtitle: "Comment choisir ses boots de snowboard"
       subhref: "fr/hiver/conseil/boots-snowboard"
-
+    - txt-button: 'Tous les conseils'
+   subcategories2:
     - subtitle-bold: "Apprendre"
     - subtitle: "Comment choisir son école de ski ?"
       subhref: "fr/hiver/conseil/choisir-ecole-de-ski"
@@ -43,7 +42,6 @@
       subhref: "fr/hiver/conseil/cours-privé-cours-collectif"
     - subtitle: "Choisir le bon niveau de cours en ski et snowboard"
       subhref: "fr/hiver/conseil/choisir-niveau-ski-snowboard"
-   subcategories2:
     - subtitle-bold: "Entraînement / Préparation"
     - subtitle: "Coaching privé ou collectif"
       subhref: "fr/hiver/activite/coaching-sportif"
@@ -82,6 +80,7 @@
       subhref: "fr/hiver/station/val-d-isere"
     - subtitle: "Méribel"
       subhref: "fr/hiver/station/meribel"
+    - txt-button: 'Toutes les destinations'
    subcategories2:
     - subtitle-bold: "Les stations balnéaires"
     - subtitle: "Antibes"
@@ -127,6 +126,7 @@
       subhref: "https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1"
     - subtitle: "Louer un snowboard"
       subhref: "https://fr.ze-hero.com/location-materiel/location-snowboard/location-snowboard-adulte"
+    - txt-button: Entrer dans le e-Shop
     
     
    
