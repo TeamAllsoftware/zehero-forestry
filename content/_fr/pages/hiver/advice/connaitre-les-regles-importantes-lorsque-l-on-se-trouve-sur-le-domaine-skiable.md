@@ -64,6 +64,16 @@ page_sections:
     éviter les pistes qui sont damés avec un treuil. Elles seront soient fermés soit
     la station met à disposition les informations concernant quelles pistes sont damés
     via un treuil. C'est un risque de danger de mort."
-published: false
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641974261/website/Conseil%20/bradley-king-3m6vbzY69s4-unsplash_jjtr1b.jpg
+  captiontitleuppercase: La montagne en sécurité
+  title: De la sécurité pour plus de plaisir
+  content: 'Il est important également d''être attentif à la météo et d''adapter son
+    matériel pour. Par exemple, si vous skier un jour blanc, donc avec beaucoup de
+    brouillard, si vous avez un masque avec un verre sombre pour le soleil, vous n''allez
+    pas voir grand chose. Et inversement, si vous skiez avec un masque de mauvais
+    temps un jour de soleil, vous allez vous faire très mal au yeux. De plus, vérifie
+    systématiquement que votre matériel est bien réglé. C''est à dire que vos fixations
+    de ski sont bien réglées à votre poids et votre niveau. '
 
 ---
