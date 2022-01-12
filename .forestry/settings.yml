@@ -44,6 +44,11 @@ sections:
   match: "**/*"
   templates:
   - advice-page
+- type: directory
+  path: content/_fr/pages/hiver/coach
+  label: Coach hiver
+  create: documents
+  match: "**/*"
 - type: heading
   label: ENGLISH
 - type: directory
