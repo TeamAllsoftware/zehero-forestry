@@ -15,15 +15,16 @@ page_sections:
   content: "J'étais en tournage avec le Club Med en snowboard afin de faire quelques
     vidéos en Freestyle dans la station de ski de Valmorel. On était le 23 Mars et
     la neige se transformait en neige de printemps. Dès qu'on est en hors-piste, on
-    peut l'appeler \"tapis-moquette\" pour sa sensation agréable.   \nOn avait décider
+    peut l'appeler \"tapis-moquette\" pour sa sensation agréable.  \nOn avait décider
     le matin après l'ouverture des remontés mécaniques d'aller faire un des sommets
     mythiques de Valmorel : Le Cheval Noir.  \nOn a pris le télésiège du Mottet et
     une fois au sommet on partirai directement en dessous du Cheval Noir. Les cameras
     man du Club Med nous avez vu à ce moment là et m'ont dit qu'ils me feraient des
-    vidéos en drone de cette petite ascension.   \nAprès une petite descente au pied
+    vidéos en drone de cette petite ascension.  \nAprès une petite descente au pied
     du Cheval noir, nous mettons les peaux. Il fait chaud alors qu'il est encore tôt
     et la neige à l'air de transformer rapidement. L'équipement est bien en place,
-    les DVA fonctionnent. On démarre par traverser la face et nous allons monter ensuite"
+    les DVA fonctionnent. On démarre par traverser la face et nous allons monter ensuite
+    par la combe pierreuse. Nous avons environ 600 de dénivelé à faire jusqu'au sommet."
 tags:
 - ballade
 - en famille
