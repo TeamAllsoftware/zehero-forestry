@@ -66,6 +66,23 @@ page_sections:
     cela aurait dangereux. Il a décidé de continuer à grimper et finir cette ascension.
     Il savait que si on avait arrêté là, j'aurai surement eu peur de remettre les
     pieds en  hors-piste.
+- template: textarea
+  content: "Je n'étais pas serein, je n'avais pas encore une grande expérience dans
+    le hors-piste. Je connaissais les gestes importants à faire, la sécurité, mais
+    je manquais de confiance.   \nAu moindre de craquement, un battement cardiaque
+    de 100 pulsion à la seconde arrivait avec une petite sueur au front. Mon père
+    me rassurait à fond pour que je sois confiant. Sur la fin de l'arête, les skis
+    était sur le dos, c'était beaucoup rapide de finir à pied."
+  title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001283/website/blog/Avalanche/FB_IMG_1521828361575_ircxpo.jpg
+  captiontitleuppercase: Son attitude m'a permis de garder confiance
+  title: Sans cela je n'aurai surement pas pu continuer
+  content: On a pu finir cette montée, et mériter du thé et des barres de céréales
+    au sommet en regardant la magnifiques vue du sommet. La descente face Sud Ouest
+    était assez gelé au départ puis on a pu faire quelques virages parfait dans une
+    neige fraîche. La descente vallait le cou mais je sentais que je n'avais plus
+    beaucoup de force et que le stress avait manger toutes mes calories.
 tags:
 - ballade
 - en famille
