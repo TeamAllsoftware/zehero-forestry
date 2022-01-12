@@ -70,10 +70,10 @@ page_sections:
 - template: textarea
   content: "Je n'étais pas serein, je n'avais pas encore une grande expérience dans
     le hors-piste. Je connaissais les gestes importants à faire, la sécurité, mais
-    je manquais de confiance.   \nAu moindre de craquement, un battement cardiaque
-    de 100 pulsion à la seconde arrivait avec une petite sueur au front. Mon père
+    je manquais de confiance.  \nAu moindre craquement, un battement cardiaque de
+    100 pulsations à la seconde arrivait avec une petite sueur au front. Mon père
     me rassurait à fond pour que je sois confiant. Sur la fin de l'arête, les skis
-    était sur le dos, c'était beaucoup rapide de finir à pied."
+    étaient sur le dos, c'était bien plus rapide de finir à pied."
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001283/website/blog/Avalanche/FB_IMG_1521828361575_ircxpo.jpg
