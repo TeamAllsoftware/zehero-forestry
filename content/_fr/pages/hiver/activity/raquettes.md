@@ -1,5 +1,5 @@
 ---
-layout: page_activity
+layout: layout_activity
 permalink: "/fr/hiver/activite/raquettes"
 language: fr
 season: winter

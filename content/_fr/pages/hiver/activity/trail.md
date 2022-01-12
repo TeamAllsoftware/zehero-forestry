@@ -1,5 +1,5 @@
 ---
-layout: page_activity
+layout: layout_activity
 language: fr
 season: winter
 topnav_color_text: dark
