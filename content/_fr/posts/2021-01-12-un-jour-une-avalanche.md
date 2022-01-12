@@ -66,7 +66,7 @@ page_sections:
     assez brefs sur ce qu'il venait de se passer, il a compris une chose importante.
     J'avais eu peur et cela aurait pu mal finir. Il a décidé de continuer à grimper
     et de finir cette ascension. Il savait que si on s'était arrêté là, j'aurai sûrement
-    eu peur de remettre les pieds en hors-piste toute ma vie.
+    eu toute ma vie peur de remettre les pieds en hors-piste.
 - template: textarea
   content: "Je n'étais pas serein, je n'avais pas encore une grande expérience dans
     le hors-piste. Je connaissais les gestes importants à faire, la sécurité, mais
