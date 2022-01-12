@@ -12,20 +12,20 @@ image01_alt: Montagne enneigé et avalanche avec une personne hors de l'avalanch
 page_sections:
 - template: textarea
   title: Une journée qui démarre plutôt bien
-  content: "J'étais en tournage avec le Club Med en snowboard afin de faire quelques
-    vidéos en Freestyle dans la station de ski de Valmorel. On était le 23 Mars et
-    la neige se transformait en neige de printemps. Dès qu'on est en hors-piste, on
-    peut l'appeler \"tapis-moquette\" pour sa sensation agréable.  \nOn avait décider
-    le matin, mon père et moi, après l'ouverture des remontés mécaniques d'aller faire
-    un des sommets mythiques de Valmorel : Le Cheval Noir.  \nOn a pris le télésiège
-    du Mottet et une fois au sommet on partirai directement en dessous du Cheval Noir
-    (2832m). Les cameras man du Club Med nous avez vu à ce moment là et m'ont dit
-    qu'ils me feraient des vidéos en drone de cette petite ascension.  \nAprès une
-    petite descente au pied du Cheval noir, nous mettons les peaux. Il fait chaud
-    alors qu'il est encore tôt et la neige à l'air de transformer rapidement. L'équipement
-    est bien en place, les DVA fonctionnent. On démarre par traverser la face et nous
-    allons monter ensuite par la combe pierreuse. Nous avons environ 600 de dénivelé
-    à faire jusqu'au sommet."
+  content: "Lors d'un tournage avec le Club Med, j'étais en snowboard afin de faire
+    quelques vidéos Freestyle dans la station de ski de Valmorel. On était le 23 Mars
+    et la neige se transformait déjà en neige de printemps. Dès qu'on est en hors-piste,
+    on peut appeler cette neige \"tapis-moquette\" pour sa sensation agréable.  \nOn
+    avait décidé le matin, mon père et moi, après l'ouverture des remontées mécaniques
+    d'aller faire un des sommets mythiques de Valmorel : Le Cheval Noir.  \nOn a pris
+    le télésiège du Mottet et une fois au sommet nous devions partir directement en
+    dessous du Cheval Noir (2832m). Les cameras man du Club Med nous ayant repéré
+    à ce moment là, ils nous ont promis des vidéos en drone de cette petite ascension.
+    \ \nAprès une petite descente au pied du Cheval noir, nous mettons les peaux.
+    Il fait chaud alors qu'il est encore tôt et la neige a l'air de transformer rapidement.
+    L'équipement est bien en place, les DVA fonctionnent. On commence par traverser
+    la face et nous allons monter ensuite par la combe pierreuse. Nous avons environ
+    600 mètres de dénivelé à faire jusqu'au sommet."
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_101548_jkimdu.jpg
   captiontitleuppercase: Une belle journée en montagne
@@ -106,5 +106,6 @@ tags:
 - ballade
 - en famille
 - ski de randonnée
+published: false
 
 ---
