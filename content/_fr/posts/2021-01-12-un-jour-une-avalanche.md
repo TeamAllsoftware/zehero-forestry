@@ -18,14 +18,14 @@ page_sections:
     peut l'appeler \"tapis-moquette\" pour sa sensation agréable.  \nOn avait décider
     le matin, mon père et moi, après l'ouverture des remontés mécaniques d'aller faire
     un des sommets mythiques de Valmorel : Le Cheval Noir.  \nOn a pris le télésiège
-    du Mottet et une fois au sommet on partirai directement en dessous du Cheval Noir.
-    Les cameras man du Club Med nous avez vu à ce moment là et m'ont dit qu'ils me
-    feraient des vidéos en drone de cette petite ascension.  \nAprès une petite descente
-    au pied du Cheval noir, nous mettons les peaux. Il fait chaud alors qu'il est
-    encore tôt et la neige à l'air de transformer rapidement. L'équipement est bien
-    en place, les DVA fonctionnent. On démarre par traverser la face et nous allons
-    monter ensuite par la combe pierreuse. Nous avons environ 600 de dénivelé à faire
-    jusqu'au sommet."
+    du Mottet et une fois au sommet on partirai directement en dessous du Cheval Noir
+    (2832m). Les cameras man du Club Med nous avez vu à ce moment là et m'ont dit
+    qu'ils me feraient des vidéos en drone de cette petite ascension.  \nAprès une
+    petite descente au pied du Cheval noir, nous mettons les peaux. Il fait chaud
+    alors qu'il est encore tôt et la neige à l'air de transformer rapidement. L'équipement
+    est bien en place, les DVA fonctionnent. On démarre par traverser la face et nous
+    allons monter ensuite par la combe pierreuse. Nous avons environ 600 de dénivelé
+    à faire jusqu'au sommet."
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_101548_jkimdu.jpg
   captiontitleuppercase: Une belle journée en montagne
@@ -83,6 +83,25 @@ page_sections:
     était assez gelé au départ puis on a pu faire quelques virages parfait dans une
     neige fraîche. La descente vallait le cou mais je sentais que je n'avais plus
     beaucoup de force et que le stress avait manger toutes mes calories.
+- template: textarea
+  content: "J'ai su plus tard, que mon père avait pris sur lui et il avait eu un contre
+    cou de cette expérience avec moi. Il a su se gérer et continuer consciemment et
+    prudemment cette fin de montée. Il le faisait pour moi comme pour lui, afin de
+    surpasser la peur que l'on venait de vivre.  \nAujourd'hui, cette expérience a
+    laisser une trace dans ma pratique du ski. Je fais beaucoup plus attention, je
+    lis attentivement les Topos, je me renseigne vraiment sur les conditions de neige,
+    sur le BRA ainsi que sur les règles à avoir en ski de randonnée. Le fait que j'ai
+    été loin de mon père et d'avoir laisser de l'espace nous a permis de ne pas se
+    retrouver dans une situation critique. Malgré que les pisteurs nous aient assurés
+    que le risque était faible, il a été présent. Il faut alors redoubler de vigilance."
+  title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_114107_nkqabg.jpg
+  captiontitleuppercase: Pourtant que la montagne est belle
+  title: Belle mais toujours dangereuse
+  content: Une expérience riche en émotions. J'ai laissé ma trace en ski, elle a laissé
+    sa trace dans mon esprit. Aujourd'hui, j'aime encore plus foulée les pentes hors-pistes,
+    mais je reste maintenant plus vigilent.
 tags:
 - ballade
 - en famille
