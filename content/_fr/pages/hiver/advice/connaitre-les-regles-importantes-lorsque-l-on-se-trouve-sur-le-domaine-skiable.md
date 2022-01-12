@@ -20,6 +20,19 @@ page_sections:
     il y a une bosse et on ne voit pas derrière, il peut y avoir des groupes d'enfants
     etc. Afin que tout le monde puisse profitez pleinement du domaine, il est important
     de skier en toute sécurité. Pour cela il existe des règles simples et importantes.
+- template: liststyle01numbered
+  item:
+  - On ne doit pas stationner dans un lieux où il y a peu de visibilité
+  - Lorsqu'on traverse une piste pour en rejoindre une autre, la personne en aval
+    doit vérifier les personnes qui descendent et les personnes en amont doit ralentir
+    avant le croisement
+  - On dépasse les personnes en laissant de l'espace, ne pas se coller pour doubler
+  - La personne au dessus d'une autre personne doit choisir elle sa trajectoire et
+    préserver la sécurité de la personne en dessous d'elle
+  - On connait ses limites et on ne s'engage pas dans des pistes qui sont au dessus
+    de nos compétences
+  - On sait maitriser sa vitesse surtout s'il y a beaucoup de monde sur les pistes
+  title: ''
 published: false
 
 ---
