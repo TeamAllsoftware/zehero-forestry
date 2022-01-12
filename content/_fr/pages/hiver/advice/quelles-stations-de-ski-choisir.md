@@ -31,6 +31,18 @@ page_sections:
     également des stations familial et d'autre plus sportive voir même plus festive.
     Certaines vont être réputées même pour leurs restaurants, leurs activités, leurs
     panoramas, leur neige, leur météo etc
+- template: textarea
+  content: "Tout d'abord, il faut prendre en considération si vous partez seul, en
+    couple, entre amis ou en famille. Cela changera en fonction car vous trouverez
+    alors des stations plus adaptées :   \n\\- Entre amis, vous allez surement vouloir
+    trouver une station sportive, qui vit également la nuit, avec un domaine incroyable...
+    \ \n\\- En couple, vous allez peut être vouloir trouver une station qui offre
+    de belle piste, de jolie panorama et une station cocooning.  \n\\- En famille
+    et si vous êtes avec vos enfants, vous allez plutôt chercher une station qui permet
+    d'avoir de nombreuses activités dédiées aux enfants. Les stations Label Famille
+    Plus.  \nBien sûr, ce sont uniquement des exemples, cela peut déprendre absolument
+    de ce que vous aimez et désirez faire."
+  title: ''
 published: false
 
 ---
