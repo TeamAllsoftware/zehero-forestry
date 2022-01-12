@@ -59,6 +59,15 @@ page_sections:
     comme : Méribel, Courchevel, Val Thorens, Tignes et Val d'Isère, Chamonix, La
     Plagne, "
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641996517/website/Conseil%20/yann-allegre-aUjwjVJvJrU-unsplash_z9epra.jpg
+  captiontitleuppercase: Confort, Festive, Sportive ou Familiale ?
+  title: Chaque station va également se caractériser selon ses offres et ses services
+  content: 'On va retrouver différents Label qui vont permettre d''apporter un élément
+    important sur la station. Les stations de ski avec le Label Famille Plus sont
+    des stations de ski qui répondent à des et exigences et des engagements strictes
+    pour les enfants. Leurs buts sont d''offre des moments inoubliables pour les familles.
+    On retrouve par exemple, '
 published: false
 
 ---
