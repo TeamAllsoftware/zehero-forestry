@@ -1,0 +1,54 @@
+---
+label: coach
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: language
+  label: language
+- type: text
+  name: season
+  label: season
+- type: text
+  name: description
+  label: description
+- type: text
+  name: topnav_color_text
+  label: topnav_color_text
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: field_group
+  name: s01
+  label: s01
+  fields:
+  - type: file
+    name: image01_href
+    label: image01_href
+  - type: text
+    name: firstname
+    label: firstname
+  - type: text
+    name: lastname
+    label: lastname
+  - type: text
+    name: coachbaseline
+    label: coachbaseline
+- type: field_group
+  name: s02
+  label: s02
+  fields:
+  - type: file
+    name: image01_href
+    label: image01_href
+  - type: textarea
+    name: about
+    label: about
+  - type: text
+    name: years_experience
+    label: years_experience
