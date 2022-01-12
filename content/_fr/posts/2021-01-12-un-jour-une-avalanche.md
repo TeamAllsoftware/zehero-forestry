@@ -30,11 +30,11 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_101548_jkimdu.jpg
   captiontitleuppercase: Une belle journée en montagne
   title: Rejoindre l'arête Sud
-  content: "Les peaux étaient déjà trempées et on bottaient tous les deux beaucoup.
-    J'ai du changer et prendre ma 2ème paire de peaux. Le but étaient ensuite d'arriver
-    sur la crète Sud du Cheval Noir. Avant cela il fallait traverser une longue partie.
-    Je faisais quelques photos et je laissais donc mon père avoir de la marge devant
-    moi et avancer.  \nCe bruit je m'en rappellerai et ça pour toujours.  "
+  content: "Les peaux étaient déjà trempées et on bottait tous les deux beaucoup.
+    J'ai dû changer et prendre ma 2ème paire de peaux. Le but était ensuite d'arriver
+    sur la crète Sud du Cheval Noir. Avant cela, il fallait traverser une longue partie.
+    Je faisais quelques photos et laissais donc une marge de distance avec mon père
+    devant moi.  \nCe bruit, je m'en rappellerais pour toujours."
 - template: textarea
   content: "Entendre le bruit d'une plaque qui part, c'est une bruit grave et lourd,
     comme un coup de tonnerre mais dans la montagne. C'était assez irréel comme moment,
