@@ -22,6 +22,8 @@ page_sections:
     de skier en toute sécurité. Pour cela il existe des règles simples et importantes.
 - template: liststyle01numbered
   item:
+  - Porter assistance à une personne qui tombe, se fait mal
+  - Si l'on doit remonter à pied la piste, la montée doit se faire par les cotés
   - On ne doit pas stationner dans un lieux où il y a peu de visibilité
   - Lorsqu'on traverse une piste pour en rejoindre une autre, la personne en aval
     doit vérifier les personnes qui descendent et les personnes en amont doit ralentir
@@ -33,6 +35,20 @@ page_sections:
     de nos compétences
   - On sait maitriser sa vitesse surtout s'il y a beaucoup de monde sur les pistes
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641974260/website/Conseil%20/kajetan-sumila-NAiuFZG0SOY-unsplash_devxpb.jpg
+  captiontitleuppercase: Des règles pour une sécurité
+  title: Soyez toujours vigilent
+  content: Même si vous profitez et vous vous amusez sur les pistes, même si vous
+    avez un contrôle et très bon niveau de pratique, le risque peut venir des autres.
+    Il est alors important de toujours avoir un œil sur les lieux critiques, sur les
+    personnes qui perdent le contrôle. Si vous êtes au Snowpark, il est important
+    d'être sûre que personne n'est derrière la bosse. Les personnes s'asseyant derrière
+    une bute prennent un risque d'avoir un accident car personne ne peut les voir
+    d'en haut.
+- template: textarea
+  title: Les règles en ski de randonnée
+  content: Outre que les rà
 published: false
 
 ---
