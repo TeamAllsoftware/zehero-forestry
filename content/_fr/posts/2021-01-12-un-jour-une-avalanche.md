@@ -16,15 +16,46 @@ page_sections:
     vidéos en Freestyle dans la station de ski de Valmorel. On était le 23 Mars et
     la neige se transformait en neige de printemps. Dès qu'on est en hors-piste, on
     peut l'appeler \"tapis-moquette\" pour sa sensation agréable.  \nOn avait décider
-    le matin après l'ouverture des remontés mécaniques d'aller faire un des sommets
-    mythiques de Valmorel : Le Cheval Noir.  \nOn a pris le télésiège du Mottet et
-    une fois au sommet on partirai directement en dessous du Cheval Noir. Les cameras
-    man du Club Med nous avez vu à ce moment là et m'ont dit qu'ils me feraient des
-    vidéos en drone de cette petite ascension.  \nAprès une petite descente au pied
-    du Cheval noir, nous mettons les peaux. Il fait chaud alors qu'il est encore tôt
-    et la neige à l'air de transformer rapidement. L'équipement est bien en place,
-    les DVA fonctionnent. On démarre par traverser la face et nous allons monter ensuite
-    par la combe pierreuse. Nous avons environ 600 de dénivelé à faire jusqu'au sommet."
+    le matin, mon père et moi, après l'ouverture des remontés mécaniques d'aller faire
+    un des sommets mythiques de Valmorel : Le Cheval Noir.  \nOn a pris le télésiège
+    du Mottet et une fois au sommet on partirai directement en dessous du Cheval Noir.
+    Les cameras man du Club Med nous avez vu à ce moment là et m'ont dit qu'ils me
+    feraient des vidéos en drone de cette petite ascension.  \nAprès une petite descente
+    au pied du Cheval noir, nous mettons les peaux. Il fait chaud alors qu'il est
+    encore tôt et la neige à l'air de transformer rapidement. L'équipement est bien
+    en place, les DVA fonctionnent. On démarre par traverser la face et nous allons
+    monter ensuite par la combe pierreuse. Nous avons environ 600 de dénivelé à faire
+    jusqu'au sommet."
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_101548_jkimdu.jpg
+  captiontitleuppercase: Une belle journée en montagne
+  title: Rejoindre l'arête Sud
+  content: "Les peaux étaient déjà trempées et on bottaient tous les deux beaucoup.
+    J'ai du changer et prendre ma 2ème paire de peaux. Le but étaient ensuite d'arriver
+    sur la crète Sud du Cheval Noir. Avant cela il fallait traverser une longue partie.
+    Je faisais quelques photos et je laissais donc mon père avoir de la marge devant
+    moi et avancer.  \nCe bruit je m'en rappellerai et ça pour toujours.  "
+- template: textarea
+  content: "Entendre le bruit d'une plaque qui part, c'est une bruit grave et lourd,
+    comme un coup de tonnerre mais dans la montagne. C'était assez irréel comme moment,
+    et jamais on n'aurai pensé qu'ici ça parte.  \nQuand j'ai commencé à visualiser
+    que ce bruit était également visuel, la réalité est revenue assez rapidement comme
+    une claque. J'ai compris qu'une plaque venait de partir au moins 50m au dessus
+    de nous. Elle était assez large mais pas trop épaisse, elle n'est pas partie vite.
+    Cela m'a permis de reculer le plus rapidement possible. Je criais sur mon père
+    en ayant peur qu'il se fasse prendre. Lui courait, essayant tant bien que mal
+    d'esquiver l'avalanche. Par chance, elle n'était pas encore très rapide, elle
+    était lourde et glissait doucement avec de la neige compact. Mon père tombât en
+    essayant de courir avec les skis.   \nA ce moment là, j'avais peur mais j'étais
+    très concentré à savoir où mon père sera trainer et embraquer avec l'avalanche.
+    Mon but était de garder mon sang froid et toute la concentration possible pour
+    dégainer et sortir mon DVA et le chercher.   \nMon père eu un bon reflexe et se
+    tourna face à l'avalanche et bloqua avec ses skis la neige. Vu que la coulé n'était
+    pas très rapide ni trop forte, elle l'emporta mais pas rapidement. Elle le traina
+    plusieurs mètre plus bas, sans l'ensevelir. Au final, il se stoppa, la neige jusqu'au
+    cou. Elle, l'avalanche avait gonflé sur son flanc gauche et était descendu bien
+    bas. "
+  title: ''
 tags:
 - ballade
 - en famille
