@@ -8,10 +8,10 @@ topnav_color_text: light
 title: Nathan Alarçon, coach préparation physique et mentale
 permalink: "/fr/hiver/coach/nathan-alarcon"
 s07:
-  txt_button: Réserver un cours
+  txt_button: https://fr.ze-hero.com/activites-Outdoor?station=Lyon&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
   txt01: vous accompagne pour tous vos défis
   txt02: 'Le sport pour tous   '
-  href_button: https://fr.ze-hero.com/activites-Outdoor?station=Lyon&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+  href_button: Réserver un cours
 s01:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062749/website/Coaching/3_toubdl.jpg
   firstname: Nathan
