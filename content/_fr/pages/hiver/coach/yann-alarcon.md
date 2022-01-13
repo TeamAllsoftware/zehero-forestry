@@ -64,10 +64,11 @@ s05:
       pied. Accompagnement en e-coaching avec planification des compétitions
   expertise02:
     title: Expertise 2
-    content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    content: Préparation physique générale avec renforcement musculaire, musculation,
+      stretching, proprioception et pliométrie
   expertise03:
     title: Expertise 3
-    content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    content: Diplôme d'accompagnateur moyenne montagne en cours
 s06:
   achieve01:
     title: Sujet 1
