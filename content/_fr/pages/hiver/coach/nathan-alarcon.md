@@ -31,34 +31,38 @@ s03:
 s04:
   image01:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062754/website/Coaching/8_pgeprx.jpg
-    alt: ''
+    alt: Coach donnant des instruction à une femme lors d'un entraînement physique
+      et de musculation
     txt01: Renforcement musculaire
     txt02: Coaching à Domicile
   image02:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062749/website/Coaching/2_wnodgf.jpg
-    alt: ''
+    alt: Coach aidant et entraînant un homme dans une salle de musculation lors d'exercices
+      de musculation avec un TRX
     txt01: Musculation
     txt02: Coaching en salle
   image03:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/11_l7a3ej.jpg
-    alt: ''
+    alt: Deux personnes dont le coach, réalisant à Lyon sur le bord de la Saône des
+      étirements sportifs
     txt01: Course à pied
     txt02: 'Coaching en extérieur '
   image04:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/9_qhdb7d.jpg
-    alt: ''
+    alt: Coach sportif regardant son ordinateur afin de planifier les entraînements
     txt01: Suivi personallisé
     txt02: E-coaching
   image05:
-    href: ''
-    alt: ''
-    txt01: ''
-    txt02: ''
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062746/website/Coaching/5_vovphc.jpg
+    alt: Coach avec une femme à domicile lors d'une séance de renforcement musculaire
+      sur un tapis avec un médecine ball
+    txt01: Le sport à domicile
+    txt02: Remise en forme et musculation
   image06:
-    href: ''
-    alt: ''
-    txt01: ''
-    txt02: ''
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062762/website/Coaching/Salle_de_sport-28_yjkjev.jpg
+    alt: Salle de musculation avec beaucoup de matériel de musculation et d'exercice
+    txt01: Salle de coaching
+    txt02: Tout le matériel pour des entraînements optimales
 s05:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062755/website/Coaching/SALLE_oxqywo.jpg
   image01_alt: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062754/website/Coaching/8_pgeprx.jpg
