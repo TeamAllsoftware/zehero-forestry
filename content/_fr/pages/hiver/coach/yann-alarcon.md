@@ -25,17 +25,18 @@ s03:
 s04:
   image01:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/G0090154_1638033833951-min_abtzoq.jpg
-    alt: ''
+    alt: Séance d'entrainement de course à pied sur piste d'athlétisme à Antibes
     txt01: Coaching Course à pied
     txt02: Séances sur Stade à Antibes
   image02:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062840/website/Coaching/G0190431_1638033833951-min_u4n7bh.jpg
-    alt: texte alternatif pour l'image
+    alt: Entrainement à Antibes au stade dans des escaliers avec préparation physique
     txt01: Préparation physique
     txt02: Travaille de renforcement musculaire
   image03:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/1_wcquwr.png
-    alt: texte alternatif pour l'image
+    alt: Coureur courant dans les montagne du Mercantour lors d'un trail à Saint Martin
+      Vésubie, l'UTCAM
     txt01: Préparation compétition de Trail
     txt02: UTCAM 2021
   image04:
@@ -45,12 +46,12 @@ s04:
     txt02: Traversée Valmorel - Nice en trail
   image05:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642063372/website/Coaching/FB_IMG_1603434965970_mkylzx.jpg
-    alt: texte alternatif pour l'image
+    alt: Coureur lors d'une course de trail dans des chemins de forêts
     txt01: Préparation de trail court
     txt02: EDF Trail Aigueblanche
   image06:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/Yann_2_qwkpvt.jpg
-    alt: texte alternatif pour l'image
+    alt: Coureur regardant debout le stade d'athlétisme du Fort Carré
     txt01: 'Accompagnement longue durée '
     txt02: E-coaching
 s05:
