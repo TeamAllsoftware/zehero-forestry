@@ -78,11 +78,11 @@ s06:
     content: Champion de France Minime Half-pipe + 6 années chez Burton France Snowboard
   achieve03:
     title: Palmarès Trail
-    content: 3ème UTBCN 21km 2021, 3ème EDF Val Cenis 80km 2021, 2ème 80km Serre Ponçons
-      2021
+    content: Membre du Team Trail Instinct
   achieve04:
     title: Palmarès Taekwondo
     content: Champion de France Juniors, Vice Champion de France Espoir, Vainqueur
       Open Suisse -58kg
+published: false
 
 ---
