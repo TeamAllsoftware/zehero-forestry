@@ -36,13 +36,13 @@ page_sections:
     en glissant. Bien sûr, la technique demande de l'apprentissage afin de chercher
     une glisse optimale.
 - template: textarea
-  content: "La deuxième discipline est le skating. Celle ci est plus complexe et technique
+  content: "La deuxième discipline est le skating. Celle-ci est plus complexe et technique
     que le classique. En effet, le pas ici sera celui du patineur. Une pratique plus
-    physique, plus technique mais où la recherche de vitesse sera plus importante
-    qu'en classique. Son ski présente juste une semelle lisse mais sera plus rigide
+    physique, plus technique, mais où la recherche de vitesse sera plus importante
+    qu'en classique. Son ski présente juste une semelle lisse, mais sera plus rigide
     et plus court que le ski de classique. Il s'exercera, non pas dans les rails,
-    mais sur la piste damé.   \nLa technique ne s'acquiert pas aussi facilement et
-    il sera plus physiquement plus difficile. "
+    mais sur la piste damé.  \nLa technique ne s'acquiert pas aussi facilement et
+    il sera plus physiquement plus difficile."
   title: Le Skating
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/amanda-wold-kortnes-H_2uCqop6e8-unsplash_vox2y9.jpg
@@ -50,10 +50,10 @@ page_sections:
   title: Pour tout le monde et tous les niveaux
   content: Afin de pratiquer le ski de fond, il faut donc avoir le matériel adéquat
     et il faut payer un forfait à l'entré des différents parcours. Dans certaines
-    station cela est gratuit mais il y aura peu de choix de parcours. Tout comme le
-    ski alpin, vous trouverez différents niveaux de parcours. En effet, il y aura
-    des bleues, des rouges et des noires. Ce sont donc la distance qui va augmenter
-    ainsi que le dénivelé ce qui accroit la difficulté du parcours.
+    stations, cela est gratuit, mais il y aura peu de choix de parcours. Tout comme
+    le ski alpin, vous trouverez différents niveaux de parcours. En effet, il y aura
+    des bleues, des rouges et des noires. Ce sont en conséquence la distance qui va
+    augmenter ainsi que le dénivelé ce qui accroit la difficulté du parcours.
 - template: textarea
   content: |-
     La pratique du ski de fond même si elle est plus facile d'accès que le ski alpin, demande tout de même une bonne technique ainsi qu'une bonne condition physique. C'est un sport très complet qui demande une forte dépense énergétique, un travail important de tout le corps, des muscles des jambes et des bras.
@@ -69,11 +69,11 @@ page_sections:
 - template: textarea
   title: Où en pratiquer ?
   content: |-
-    Il existe énormément de station qui propose des parcours pour pratiquer le ski de fond. Pour ce qui est des stations plus connus et agréables pour le ski de fond en France, on peut retrouver :
+    Il existe énormément de station qui propose des parcours pour pratiquer le ski de fond. Pour ce qui est des stations plus connues et agréables pour le ski de fond en France, on peut retrouver :
 
     * Le Jura avec la station les Rousses, Chapelle les Bois et bien d'autre. C'est le paradis du ski de fond, des kilomètres de piste entourés de sapin
-    * Autrans Méaudre dans le Vercors, elle dispose de 180km de piste
-    * La Flécaz en Savoie est un joli terrain de balade avec une vue sur le Mont Blanc
+    * Autrans Méaudre dans le Vercors, elle dispose de 180 km de piste
+    * La Féclaz en Savoie est un joli terrain de balade avec une vue sur le Mont Blanc
     * Dans les Vosges, vous trouverez un grand de piste de ski de fond dans les différents domaines
     * Les Saisies, sur son plateau elle est dotée d'une très bonne qualité de neige
 topnav_text_color: light
