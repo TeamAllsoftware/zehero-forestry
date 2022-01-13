@@ -136,155 +136,107 @@ fields:
       required: true
 - type: field_group
   name: s04
-  label: Section 4 - Gallery
   fields:
   - type: field_group
     name: image01
     label: image01
     fields:
-    - type: text
-      config:
-        required: true
+    - type: file
       name: href
       label: href
     - type: text
-      config:
-        required: true
       name: alt
       label: alt
     - type: text
-      config:
-        required: true
       name: txt01
       label: txt01
     - type: text
-      config:
-        required: true
       name: txt02
       label: txt02
   - type: field_group
     name: image02
     label: image02
     fields:
-    - type: text
-      config:
-        required: true
+    - type: file
       name: href
       label: href
     - type: text
-      config:
-        required: true
       name: alt
       label: alt
     - type: text
-      config:
-        required: true
       name: txt01
       label: txt01
     - type: text
-      config:
-        required: true
       name: txt02
       label: txt02
   - type: field_group
     name: image03
     label: image03
     fields:
-    - type: text
-      config:
-        required: true
+    - type: file
       name: href
       label: href
     - type: text
-      config:
-        required: true
       name: alt
       label: alt
     - type: text
-      config:
-        required: true
       name: txt01
       label: txt01
     - type: text
-      config:
-        required: true
       name: txt02
       label: txt02
   - type: field_group
     name: image04
     label: image04
     fields:
-    - type: text
-      config:
-        required: true
+    - type: file
       name: href
       label: href
     - type: text
-      config:
-        required: true
       name: alt
       label: alt
     - type: text
-      config:
-        required: true
       name: txt01
       label: txt01
     - type: text
-      config:
-        required: true
       name: txt02
       label: txt02
   - type: field_group
     name: image05
     label: image05
     fields:
-    - type: text
-      config:
-        required: true
+    - type: file
       name: href
       label: href
     - type: text
-      config:
-        required: true
       name: alt
       label: alt
     - type: text
-      config:
-        required: true
       name: txt01
       label: txt01
     - type: text
-      config:
-        required: true
       name: txt02
       label: txt02
   - type: field_group
     name: image06
     label: image06
     fields:
-    - type: text
-      config:
-        required: true
+    - type: file
       name: href
       label: href
     - type: text
-      config:
-        required: true
       name: alt
       label: alt
     - type: text
-      config:
-        required: true
       name: txt01
       label: txt01
     - type: text
-      config:
-        required: true
       name: txt02
       label: txt02
+  label: Section 4 - Gallery
 - type: field_group
   name: s05
-  label: Section 5 - Three assets
+  label: s05
   fields:
   - type: text
     config:
@@ -301,13 +253,9 @@ fields:
     label: expertise01
     fields:
     - type: text
-      config:
-        required: true
       name: title
       label: title
     - type: text
-      config:
-        required: true
       name: content
       label: content
   - type: field_group
@@ -315,13 +263,9 @@ fields:
     label: expertise02
     fields:
     - type: text
-      config:
-        required: true
       name: title
       label: title
     - type: text
-      config:
-        required: true
       name: content
       label: content
   - type: field_group
@@ -329,31 +273,23 @@ fields:
     label: expertise03
     fields:
     - type: text
-      config:
-        required: true
       name: title
       label: title
     - type: text
-      config:
-        required: true
       name: content
       label: content
 - type: field_group
   name: s06
-  label: Section 6 - Four various details
+  label: s06
   fields:
   - type: field_group
     name: achieve01
     label: achieve01
     fields:
     - type: text
-      config:
-        required: true
       name: title
       label: title
     - type: text
-      config:
-        required: true
       name: content
       label: content
   - type: field_group
@@ -361,13 +297,9 @@ fields:
     label: achieve02
     fields:
     - type: text
-      config:
-        required: true
       name: title
       label: title
     - type: text
-      config:
-        required: true
       name: content
       label: content
   - type: field_group
@@ -375,13 +307,9 @@ fields:
     label: achieve03
     fields:
     - type: text
-      config:
-        required: true
       name: title
       label: title
     - type: text
-      config:
-        required: true
       name: content
       label: content
   - type: field_group
@@ -389,12 +317,8 @@ fields:
     label: achieve04
     fields:
     - type: text
-      config:
-        required: true
       name: title
       label: title
     - type: text
-      config:
-        required: true
       name: content
       label: content
