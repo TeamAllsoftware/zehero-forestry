@@ -240,12 +240,12 @@ fields:
   fields:
   - type: text
     config:
-        required: true
+      required: true
     name: image01_href
     label: image01_href
   - type: text
     config:
-        required: true
+      required: true
     name: image01_alt
     label: image01_alt
   - type: field_group
