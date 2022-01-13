@@ -57,16 +57,16 @@ s05:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642063364/website/Coaching/IMG-20200521-WA0140_rr4kum.jpg
   image01_alt: texte alternatif pour l'image
   expertise01:
-    title: Expertise 1
+    title: Course à pied
     content: Spécialisé dans les entraînements de course à pied et de Trail. Accompagnement
       des séances spécifiques et d'endurance pour toutes les distances de course à
       pied. Accompagnement en e-coaching avec planification des compétitions
   expertise02:
-    title: Expertise 2
+    title: Préparation physique
     content: Préparation physique générale avec renforcement musculaire, musculation,
       stretching, proprioception et pliométrie
   expertise03:
-    title: Expertise 3
+    title: Accompagnateur
     content: Diplôme d'accompagnateur moyenne montagne en cours
 s06:
   achieve01:
