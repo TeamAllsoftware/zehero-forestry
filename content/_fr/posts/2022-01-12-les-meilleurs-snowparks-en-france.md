@@ -14,12 +14,12 @@ page_sections:
 - template: textarea
   content: "Pour tous les amateurs de Freestyle en ski ou en snowboard, ainsi que
     tous les compétiteurs, en France on ne retrouve pas systématique un snowpark dans
-    toutes les stations. Parfois, ce sont juste une petite ligne de kick pour débutant
-    avec quelques boxs, parfois on retrouve un espace totalement dédié à cet pratique.
-    \ \nMais quels sont les meilleurs snowpark de France aujourd'hui et où se situent
-    t'ils ? Y a t'il encore des Half-pipe ?  \nQue ce soit pour le bordercross, le
-    slopestyle, le JIB ainsi que le half-pipe, voici où en France on trouve les meilleurs
-    station pour enchainer les tricks.  \nDans chaque snowpark, il y aura systématiquement
+    toutes les stations. Parfois, ce sont qu'une petite ligne de kick pour débutant
+    avec quelques boxs, parfois on retrouve un espace totalement dédié à cette pratique.\n\nMais
+    quels sont les meilleurs snowparks de France aujourd’hui et où se situent-ils
+    ? Où se trouvent les Half-pipe ?  \nQue ce soit pour le boardercross, le slopestyle,
+    le JIB ainsi que le half-pipe, voici où en France on trouve les meilleures stations
+    pour enchaîner les tricks.\n\nDans chaque snowpark, il y aura systématiquement
     une zone pour les débutants et ensuite on évolue si le park le permet vers des
     modules confirmés à experts."
   title: ''
@@ -35,32 +35,26 @@ page_sections:
     une station de freestyleurs et surtout en snowboard. De vrais passionnés vont
     s''occuper des parks afin que vous puissiez profiter de lignes parfaites.'
 - template: textarea
-  content: "On retrouve ensuite Les 2 Alpes, qui été comme hiver offre un park incroyable.
-    On y retrouve énormément de modules différents pour tous les niveaux et les pratiques.
-    Il y a plusieurs zones différentes pour varier les plaisirs ainsi qu'une zone
-    dédiée au freestyle pour les enfants.\n\nLe snowpark de Méribel est aussi un incontournable
-    avec l'Element Park à Méribel pour tous les niveaux ainsi que l'Open Park à Méribel
-    Mottaret. Vous retrouverez également plusieurs bordercross. L'avantage également
-    est que vous trouvez dans le domaine des 3 vallées et vous pouvez également bénéficier
-    du Snowpark de Valthorens. Il bénéficie de deux téléskis afin d'avoir des rotations
-    plus rapide et de 7000m2 de modules.\n\nOn retrouve évidemment les stations de
-    Tignes et Val d'Isère. Terre d'accueil des X-Games, vous trouverez le DC Park
-    de Tignes. Vous trouverez deux zones, celle pour les débutants ainsi qu'une pour
-    les confirmés et les experts. \n\nLes Arc ainsi que le parc de Vars et de Chamrousse
-    sont égalements des stations qui offrent des snowparks parfaits, ludiques et pour
-    tous les niveaux. On y retrouve des lignes de kick taillées à la lame, des rails
-    et des modules originaux. \n\nPour finir on retrouve également le Snowpark d'Isola
-    2000 ainsi que celui de Saint Lary dans les Pyrénnés.  "
+  content: |-
+    On retrouve ensuite Les 2 Alpes, qui été comme hiver offrent un park incroyable. On y retrouve énormément de modules différents pour tous les niveaux et les pratiques. Il y a plusieurs zones différentes pour varier les plaisirs ainsi qu'une zone dédiée au freestyle pour les enfants.
+
+    Le snowpark de Méribel est aussi un incontournable avec l'Element Park à Méribel pour tous les niveaux ainsi que l'Open Park à Méribel Mottaret. Vous retrouverez également plusieurs bordercross. L'avantage également est que vous trouvez dans le domaine des 3 vallées et vous pouvez également bénéficier du Snowpark de Valthorens. Il bénéficie de deux téléskis afin d'avoir des rotations plus rapides et de 7000m2 de modules.
+
+    On retrouve évidemment les stations de Tignes et Val d'Isère. Terre d'accueil des X-Games, vous trouverez le DC Park de Tignes. Vous trouverez deux zones, celle pour les débutants ainsi qu'une pour les confirmés et les experts.
+
+    Les Arc ainsi que le parc de Vars et de Chamrousse sont également des stations qui offrent des snowparks parfaits, ludiques et pour tous les niveaux. On y retrouve des lignes de kick taillées à la lame, des rails et des modules originaux.
+
+    Pour finir on retrouve également le Snowpark d'Isola 2000 ainsi que celui de Saint Lary dans les Pyrénnés.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641985183/website/blog/Hiver/fred-heap-2dViAX55Q2k-unsplash_m5fo4f.jpg
   captiontitleuppercase: Les meilleurs half-pipe
   title: 'Malgré des supers snowparks, les halfs-pipes disparaissent '
-  content: Aujourd'hui en France, les half-pipe sont de moins en moins présent. En
+  content: Aujourd'hui en France, les half-pipe sont de moins en moins présents. En
     effet, l'entretien demande des formations très spécifiques pour les shapeurs et
-    coûte cher à l'entretien à la station. De ce fait, beaucoup ont disparus et cela
+    coûte cher à l'entretien à la station. De ce fait, beaucoup ont disparu et cela
     est bien triste car c'est une discipline olympique et incroyable. Heureusement,
-    en France quelques stations ont réussis à garder et à entretenir leur Half-Pipe.
+    en France quelques stations ont réussi à garder et à entretenir leur Half-Pipe.
 - template: liststyle01
   title: Les stations comportant un half-pipe
   item:
