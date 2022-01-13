@@ -30,7 +30,7 @@ s03:
     Musculaire, Musculation
 s04:
   image01:
-    href: "/./2.JPG"
+    href: ''
     alt: ''
     txt01: ''
     txt02: ''
