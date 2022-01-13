@@ -12,28 +12,28 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/webs
 image01_alt: Parcours de ski de fond dans la forêt
 page_sections:
 - template: textarea
-  content: "Le ski de fond est l'ancêtre du ski alpin. Cette discipline a pris naissance
-    dans les pays nordiques. C'était à l'époque un moyen de déplacement et c'est aujourd'hui
+  content: "Le ski de fond est l’ancêtre du ski alpin. Cette discipline a pris naissance
+    dans les pays nordiques. C’était à l’époque un moyen de déplacement et c’est aujourd’hui
     une pratique très rependue, devenue ludique, sportive et de partage.  \nLe ski
     de fond se pratique plus facilement que le ski alpin, mais reste technique et
     difficile selon les parcours et les pratiques. On ne retrouve donc aucunes remontées
-    mécanique pour cette discipline. On la retrouve généralement dans les stations
-    plus basses en altitude et est généralement plus à l'écart du domaine skiable.
-    \ \nLes pistes de ski de fond sont damés spécifiquement et on vont comportées
-    deux rails parallèles sur le coté de la piste.  "
+    mécaniques pour cette discipline. On la retrouve généralement dans les stations
+    plus basses en altitude et est généralement plus à l’écart du domaine skiable.
+    \ \nLes pistes de ski de fond sont damés spécifiquement et vont comporter deux
+    rails parallèles sur le côté de la piste."
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/thomas-dils-ZEraBEoSRSw-unsplash_bpzfga.jpg
   captiontitleuppercase: Les différentes pratiques
   title: Le classique
-  content: Il existe deux style différents de ski de fond. Ces deux styles demandent
-    également du matériel différents car la technique de glisse n'est pas la même.
+  content: Il existe deux styles différents de ski de fond. Ces deux styles demandent
+    également du matériel différent, car la technique de glisse n'est pas la même.
     On retrouve donc le Classique qui consiste à avancer dans les deux rails parallèles.
     La glisse s'effectue par un pas alternatif (comme un pas de marche) où l'on va
     chercher loin devant en restant dans l'axe. Il faut bien s'aider des bâtons pour
     venir pousser. Cette activité est plus facile à apprendre que le skating. Les
     skis présenteront des écailles ou des peaux afin d'accrocher sur la neige tout
-    en glissant. Bien sûr la technique demande de l'apprentissage afin de chercher
+    en glissant. Bien sûr, la technique demande de l'apprentissage afin de chercher
     une glisse optimale.
 - template: textarea
   content: "La deuxième discipline est le skating. Celle ci est plus complexe et technique
