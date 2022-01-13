@@ -76,7 +76,7 @@ s06:
     title: Palmarès snowboard
     content: Champion de France Minime Half-pipe + 6 années chez Burton France Snowboard
   achieve03:
-    title: Palmarès Trail
+    title: Palmarès en Trail
     content: Membre du Team Trail Instinct
   achieve04:
     title: Palmarès Taekwondo
