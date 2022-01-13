@@ -46,7 +46,7 @@
     - subtitle: "Coaching privé ou collectif"
       subhref: "fr/hiver/activite/coaching-sportif"
     - subtitle: "Comment se préparer physiquement pour le ski"
-      subhref: "/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski"
+      subhref: "fr/hiver/conseil/comment-se-préparer-physiquement-au-ski"
     # - subtitle-bold: "Outdoor à partager"
     # - subtitle: "En famille"
     #   subhref: "/fr/ossa-et-support/open-source-software-assurance/"
