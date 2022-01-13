@@ -287,12 +287,12 @@ fields:
   label: Section 5 - Three assets
   fields:
   - type: text
-      config:
+    config:
         required: true
     name: image01_href
     label: image01_href
   - type: text
-      config:
+    config:
         required: true
     name: image01_alt
     label: image01_alt
