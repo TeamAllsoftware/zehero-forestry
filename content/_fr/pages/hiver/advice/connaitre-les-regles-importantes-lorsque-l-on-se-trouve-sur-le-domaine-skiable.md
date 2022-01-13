@@ -4,7 +4,7 @@ language: fr
 season: winter
 description: Lorsque l'on se trouve sur le domaine skiable afin de skier ou de faire
   du ski de randonné, il y a des règles importantes à respecter
-topnav_color_text: dark
+topnav_color_text: light
 title: Connaître les règles importantes lorsque l'on se trouve sur le domaine skiable
 permalink: "/fr/hiver/conseil/les-regles-en-ski"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641974261/website/Conseil%20/les-anderson-R3tHkgwYaic-unsplash_n0zcsn.jpg
