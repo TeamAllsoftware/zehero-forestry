@@ -67,10 +67,10 @@ s05:
     content: BPJEPS AGFF haltérophilie et musculation
   expertise02:
     title: Ces préstations
-    content: 'Je vous propose des séances de coaching personnalisé et un accompagnement
+    content: Je vous propose des séances de coaching personnalisé et un accompagnement
       individuel à Lyon. Je suis là pour vous motiver et vous aider à atteindre un
       bien-être physique et mental à travere pratique sportive régulière et adaptée.
-      Je propose 4 formules : Coaching en salle, à domicile, en extérieur ou en groupe'
+      Coaching en salle, à domicile, en extérieur ou en groupe
   expertise03:
     title: Spécialités
     content: 'Je suis spécialisé dans la course à pied, ainsi que le renforcement
