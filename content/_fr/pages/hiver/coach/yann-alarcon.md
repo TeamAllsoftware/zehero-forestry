@@ -87,6 +87,5 @@ s07:
   txt01: vous accompagne pour votre préparation
   txt02: le physique et le mental pour continuer de progresser
   href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
-published: false
 
 ---
