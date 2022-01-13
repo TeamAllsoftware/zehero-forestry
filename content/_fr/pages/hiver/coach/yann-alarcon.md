@@ -8,7 +8,7 @@ topnav_color_text: light
 title: 
 permalink: "/fr/hiver/coach/yann-alarcon"
 s01:
-  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642063372/website/Coaching/FB_IMG_1603434965970_mkylzx.jpg
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642065243/website/Coaching/IMG_20210716_180932_893_idwzlg.jpg
   firstname: Yann
   lastname: Alarçon
   coachbaseline: Passionné de Trail et de Montagne
@@ -35,7 +35,7 @@ s04:
     txt01: Préparation physique
     txt02: Travaille de renforcement musculaire
   image03:
-    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062840/website/Coaching/spe_2_zrohc2.jpg
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/1_wcquwr.png
     alt: texte alternatif pour l'image
     txt01: Préparation compétition de Trail
     txt02: UTCAM 2021
@@ -71,16 +71,19 @@ s05:
     content: Diplôme d'accompagnateur moyenne montagne en cours
 s06:
   achieve01:
-    title: Sujet 1
-    content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    title: Diplôme
+    content: DEUG STAPS + Formation AMM en cours
   achieve02:
-    title: Sujet 2
-    content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    title: Palmarès snowboard
+    content: Champion de France Minime Half-pipe + 6 années chez Burton France Snowboard
   achieve03:
-    title: Sujet 3
-    content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    title: Palmarès Taekwondo
+    content: Champion de France Juniors, Vice Champion de France Espoir, Vainqueur
+      Open Suisse -58kg
   achieve04:
-    title: Sujet 3
-    content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    title: Palmarès Trail
+    content: 3ème UTBCN 21km 2021, 3ème EDF Val Cenis 80km 2021, 2ème 80km Serre Ponçons
+      2021
+published: false
 
 ---
