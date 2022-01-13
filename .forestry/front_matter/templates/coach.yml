@@ -37,7 +37,7 @@ fields:
   label: Season
 - name: topnav_color_text
   type: select
-  default: []
+  default: dark
   config:
     required: true
     options:
@@ -50,6 +50,7 @@ fields:
       path: 
   label: Nav Menu background color
   description: Is the Top menu background color dark or light ?
+  hidden: true
 - type: text
   name: title
   label: title
