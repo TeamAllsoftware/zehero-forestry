@@ -30,22 +30,22 @@ s03:
     à pied
 s04:
   image01:
-    href: "/./8.JPG"
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062754/website/Coaching/8_pgeprx.jpg
     alt: ''
     txt01: Renforcement musculaire
     txt02: Coaching à Domicile
   image02:
-    href: "/./2.JPG"
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062749/website/Coaching/2_wnodgf.jpg
     alt: ''
     txt01: Musculation
     txt02: Coaching en salle
   image03:
-    href: "/./11.JPG"
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/11_l7a3ej.jpg
     alt: ''
     txt01: Course à pied
     txt02: 'Coaching en extérieur '
   image04:
-    href: "/./9.JPG"
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/9_qhdb7d.jpg
     alt: ''
     txt01: Suivi personallisé
     txt02: E-coaching
