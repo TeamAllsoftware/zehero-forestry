@@ -236,7 +236,7 @@ fields:
   label: Section 4 - Gallery
 - type: field_group
   name: s05
-  label: s05
+  label: Section 5 - Three expertises
   fields:
   - type: text
     config:
@@ -280,7 +280,7 @@ fields:
       label: content
 - type: field_group
   name: s06
-  label: s06
+  label: Section 6 - Four various subjects
   fields:
   - type: field_group
     name: achieve01
