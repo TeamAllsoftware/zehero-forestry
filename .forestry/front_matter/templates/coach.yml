@@ -303,9 +303,13 @@ fields:
     - type: text
       name: title
       label: title
+      config:
+        required: true
     - type: text
       name: content
       label: content
+      config:
+        required: true
   - type: field_group
     name: expertise02
     label: expertise02
@@ -313,9 +317,13 @@ fields:
     - type: text
       name: title
       label: title
+      config:
+        required: true
     - type: text
       name: content
       label: content
+      config:
+        required: true
   - type: field_group
     name: expertise03
     label: expertise03
@@ -323,9 +331,13 @@ fields:
     - type: text
       name: title
       label: title
+      config:
+        required: true
     - type: text
       name: content
       label: content
+      config:
+        required: true
 - type: field_group
   name: s06
   label: Section 6 - Four various subjects
