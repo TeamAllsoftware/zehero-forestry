@@ -84,5 +84,6 @@ s06:
     title: Palmarès Trail
     content: 3ème UTBCN 21km 2021, 3ème EDF Val Cenis 80km 2021, 2ème 80km Serre Ponçons
       2021
+published: false
 
 ---
