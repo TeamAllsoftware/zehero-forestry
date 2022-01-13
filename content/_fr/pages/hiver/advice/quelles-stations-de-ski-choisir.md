@@ -1,10 +1,10 @@
 ---
 layout: layout_advice
-language: ''
+language: fr
 season: winter
 description: Il existe un nombre important de station de ski en France. Mais comment
   choisir laquelle vous conviendra le mieux ? Cela peut déprendre de beaucoup de critères.
-topnav_color_text: dark
+topnav_color_text: light
 title: Quelles stations de ski choisir ?
 permalink: "/fr/hiver/conseil/choisir-station-ski"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641994384/website/Conseil%20/ines-alvarez-fdez-F-gfrzSIPZo-unsplash_qkyvuy.jpg
