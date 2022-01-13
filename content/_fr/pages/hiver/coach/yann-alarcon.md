@@ -84,5 +84,6 @@ s06:
     title: Palmarès Taekwondo
     content: Champion de France Juniors, Vice Champion de France Espoir, Vainqueur
       Open Suisse -58kg
+published: false
 
 ---
