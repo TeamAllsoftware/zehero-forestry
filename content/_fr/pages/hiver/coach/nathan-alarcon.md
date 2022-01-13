@@ -63,14 +63,20 @@ s05:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062755/website/Coaching/SALLE_oxqywo.jpg
   image01_alt: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062754/website/Coaching/8_pgeprx.jpg
   expertise01:
-    title: ''
-    content: ''
+    title: Diplome
+    content: BPJEPS AGFF haltérophilie et musculation
   expertise02:
-    title: ''
-    content: ''
+    title: Ces préstations
+    content: 'Je vous propose des séances de coaching personnalisé et un accompagnement
+      individuel à Lyon. Je suis là pour vous motiver et vous aider à atteindre un
+      bien-être physique et mental à travere pratique sportive régulière et adaptée.
+      Je propose 4 formules : Coaching en salle, à domicile, en extérieur ou en groupe'
   expertise03:
-    title: ''
-    content: ''
+    title: Spécialités
+    content: 'Je suis spécialisé dans les séances de course à pied pour l''entraînement
+      et la préparation aux compétitions, ainsi que le renforcement musculaire el
+      musculation. Mais j''affectionne également la remise en forme, le sport perte
+      de poids et la gym sénior, '
 s06:
   achieve01:
     title: ''
