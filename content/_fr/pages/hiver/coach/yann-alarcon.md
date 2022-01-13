@@ -21,8 +21,8 @@ s02:
 s03:
   txt01: Trail en montagne
   txt02: Antibes
-  txt03: Trail, Vélo, Ski
-  txt04: Préparation physique
+  txt03: Trail, Vélo, Ski et Snowboard
+  txt04: Préparation physique, Course à pied
 s04:
   image01:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
@@ -79,5 +79,6 @@ s06:
   achieve04:
     title: Sujet 3
     content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+published: false
 
 ---
