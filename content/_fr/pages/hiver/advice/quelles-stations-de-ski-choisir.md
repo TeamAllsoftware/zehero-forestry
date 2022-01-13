@@ -38,12 +38,12 @@ page_sections:
     seul, en couple, entre amis ou en famille. Cela changera en fonction, car vous
     trouverez alors des stations plus adaptées :  \n\\- Entre amis, vous allez surement
     vouloir trouver une station sportive, qui vit également la nuit, avec un domaine
-    incroyable...  \n\\- En couple, vous allez peut-être désirer trouver une station
-    qui offre de belle piste, de joli panorama et une station cocooning.  \n\\- En
-    famille et si vous êtes avec vos enfants, vous allez plutôt chercher une station
-    qui permet d'avoir de nombreuses activités dédiées aux enfants. Les stations Label
-    Famille Plus.  \nBien sûr, ce sont uniquement des exemples, cela peut déprendre
-    absolument de ce que vous aimez et désirez faire."
+    incroyable, beaucoup d'activités...  \n\\- En couple, vous allez peut-être désirer
+    trouver une station qui offre de belle piste, de joli panorama et des chalets
+    cocooning.  \n\\- En famille et si vous êtes avec vos enfants, vous allez plutôt
+    chercher une station qui permet d'avoir de nombreuses activités dédiées aux enfants.
+    Les stations Label Famille Plus.  \nBien sûr, ce sont uniquement des exemples,
+    cela peut déprendre absolument de ce que vous aimez et désirez faire."
   title: ''
 - template: textarea
   content: "Le choix de la station de ski va varier en fonction de votre pratique.
