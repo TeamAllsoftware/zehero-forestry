@@ -141,7 +141,7 @@ fields:
     name: image01
     label: image01
     fields:
-    - type: file
+    - type: text
       name: href
       label: href
     - type: text
@@ -157,7 +157,7 @@ fields:
     name: image02
     label: image02
     fields:
-    - type: file
+    - type: text
       name: href
       label: href
     - type: text
@@ -173,7 +173,7 @@ fields:
     name: image03
     label: image03
     fields:
-    - type: file
+    - type: text
       name: href
       label: href
     - type: text
@@ -189,7 +189,7 @@ fields:
     name: image04
     label: image04
     fields:
-    - type: file
+    - type: text
       name: href
       label: href
     - type: text
@@ -205,7 +205,7 @@ fields:
     name: image05
     label: image05
     fields:
-    - type: file
+    - type: text
       name: href
       label: href
     - type: text
@@ -221,7 +221,7 @@ fields:
     name: image06
     label: image06
     fields:
-    - type: file
+    - type: text
       name: href
       label: href
     - type: text
