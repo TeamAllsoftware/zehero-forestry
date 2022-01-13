@@ -2,10 +2,10 @@
 layout: layout_coach
 language: fr
 season: winter
-description: Un coach pour votre préparation physique et mental, que vous soyez débutant,
-  amateur ou expert
+description: Un coach pour votre préparation physique et vos prochains défis, que
+  vous soyez débutant, amateur ou expert
 topnav_color_text: light
-title: Yann Alarçon, coach préparation physique et mentale
+title: 2022-01-13 10:09:39 +0100
 permalink: "/fr/hiver/coach/yann-alarcon"
 s01:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642063372/website/Coaching/FB_IMG_1603434965970_mkylzx.jpg
