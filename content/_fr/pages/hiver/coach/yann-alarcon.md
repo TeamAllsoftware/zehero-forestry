@@ -73,13 +73,13 @@ s06:
     title: Diplôme
     content: DEUG STAPS + Formation AMM en cours
   achieve02:
-    title: Palmarès snowboard
+    title: Snowboard
     content: Champion de France Minime Half-pipe + 6 années chez Burton France Snowboard
   achieve03:
-    title: Palmarès en Trail
+    title: Trail
     content: Membre du Team Trail Instinct
   achieve04:
-    title: Palmarès Taekwondo
+    title: Taekwondo
     content: Champion de France Juniors, Vice Champion de France Espoir, Vainqueur
       Open Suisse -58kg
 s07:
