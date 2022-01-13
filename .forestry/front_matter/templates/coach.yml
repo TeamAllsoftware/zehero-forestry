@@ -322,3 +322,34 @@ fields:
     - type: text
       name: content
       label: content
+- name: s07
+  type: field_group
+  config: {}
+  fields:
+  - name: txt01
+    type: text
+    config:
+      required: true
+      max: 40
+    label: headline
+    description: Your firstname and lastname will be added automatically to start
+      the phrase
+  - name: txt02
+    type: text
+    config:
+      required: true
+      max: 75
+      min: 20
+    label: title
+  - name: txt_button
+    type: text
+    config:
+      required: true
+    label: Text button
+    default: Réserver un cours
+  - name: href_button
+    type: text
+    config:
+      required: true
+    label: Link URL to the store
+  label: Section 7 - book a coach
