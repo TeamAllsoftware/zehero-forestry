@@ -110,6 +110,5 @@ page_sections:
     station et de votre niveau, il est aussi important de voir les activités disponibles
     gratuitement (notamment pour les enfants) et si la station met à disposition des
     zones gratuites pour les débutants."
-published: false
 
 ---
