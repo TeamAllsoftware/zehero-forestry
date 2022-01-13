@@ -81,7 +81,7 @@ fields:
     related
 - name: topnav_color_text
   type: select
-  default: light
+  default: dark
   config:
     required: true
     options:
@@ -96,6 +96,7 @@ fields:
   description: top navigation menu text color must be white or black ? depends on
     the background image tone (dark or light) or color (dark or light). If background
     is dark and you want a white text select "dark"
+  hidden: true
 - name: page_sections
   type: blocks
   label: Page Sections
