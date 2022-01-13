@@ -3,7 +3,7 @@ layout: blog_post
 language: fr
 season: summer
 author: yannalarcon
-topnav_color_text: light
+topnav_color_text: dark
 title: 2021-12-17-valmorel-nice-360-km-traverser-les-alpes-en-trail
 post-title: Valmorel - Nice, une traversée vers une nouvelle vie
 description: Partir de Valmorel et réjoindre en courant Nice par le GR5. Récit d'une

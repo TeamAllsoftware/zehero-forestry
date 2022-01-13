@@ -3,7 +3,7 @@ layout: layout_activity
 permalink: "/fr/hiver/activite/raquettes"
 language: fr
 season: winter
-topnav_color_text: light
+topnav_color_text: dark
 title: Raquettes
 description: Randonnez l'hiver dans les montagnes enneigées
 baseline: Exploration, liberté et tranquilité

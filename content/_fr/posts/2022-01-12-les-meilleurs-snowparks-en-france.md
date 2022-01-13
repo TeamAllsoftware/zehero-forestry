@@ -3,7 +3,7 @@ layout: blog_post
 language: fr
 season: winter
 author: yannalarcon
-topnav_color_text: light
+topnav_color_text: dark
 title: 2022-01-12-les-meilleurs-snowparks-en-france
 post-title: Les meilleurs snowparks de France
 description: Où trouver les meilleurs snowparks en france ? Dans quelles stations

@@ -3,7 +3,7 @@ layout: layout_activity
 permalink: "/fr/hiver/activite/ski-alpin"
 language: fr
 season: winter
-topnav_color_text: light
+topnav_color_text: dark
 title: Ski alpin
 description: Des pistes bleu aux pistes noir, faîtes le plein de sensation forte
 baseline: Slalom, chasse-neige, tout schuss

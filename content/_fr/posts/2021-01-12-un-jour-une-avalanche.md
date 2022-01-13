@@ -3,7 +3,7 @@ layout: blog_post
 language: fr
 season: winter
 author: yannalarcon
-topnav_color_text: light
+topnav_color_text: dark
 title: 2021-01-12-un-jour-une-avalanche
 post-title: Un jour, une avalanche, mon père et moi
 description: Ma 1er expérience face à une avalanche qui a embarqué mon père s'en l'ensevelir.

@@ -4,7 +4,7 @@ language: fr
 season: winter
 description: Un coach pour votre préparation physique et mental, que vous soyez débutant,
   amateur ou expert
-topnav_color_text: light
+topnav_color_text: dark
 title: Nathan Alarçon, coach préparation physique et mentale
 permalink: "/fr/hiver/coach/nathan-alarcon"
 s07:

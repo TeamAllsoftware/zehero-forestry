@@ -3,7 +3,7 @@ layout: layout_activity
 permalink: "/fr/hiver/activite/freeride"
 language: fr
 season: winter
-topnav_color_text: light
+topnav_color_text: dark
 title: Freeride
 description: Partez dans les pentes vierges, volez et flottez dans la neige fraîche,
   partez dans les espaces loin des pistes
