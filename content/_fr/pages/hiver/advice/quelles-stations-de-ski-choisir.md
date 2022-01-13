@@ -89,5 +89,6 @@ page_sections:
     offre des jours d'ensoleillement incroyables comme les stations de ski de Serre
     Chevalier ou alors l'Alpe d'Huez."
   title: Moderne, charme ou sportive ?
+published: false
 
 ---
