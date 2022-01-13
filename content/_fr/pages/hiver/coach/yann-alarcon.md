@@ -82,5 +82,6 @@ s06:
   achieve04:
     title: Sujet 3
     content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+published: false
 
 ---
