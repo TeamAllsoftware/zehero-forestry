@@ -51,7 +51,7 @@
                                                 {% elsif subcategory.external %}
                                                 <li><a href="{{ subcategory.external.subhref }}">{{ subcategory.external.subtitle }}</a></li>
                                                 {% else %}  
-                                                <li><a href="/{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                                                <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
                                                 {% endif %}
                                                 {% endfor %}
                                                 
@@ -70,7 +70,7 @@
                                                 {% elsif subcategory2.external %}
                                                 <li><a href="{{ subcategory2.external.subhref }}">{{ subcategory2.external.subtitle }}</a></li>
                                                 {% else %}  
-                                                <li><a href="/{{ subcategory2.subhref }}">{{ subcategory2.subtitle }}</a></li>
+                                                <li><a href="{{ subcategory2.subhref }}">{{ subcategory2.subtitle }}</a></li>
                                                 {% endif %}
                                                 {% endfor %}
                                             </ul>
@@ -83,7 +83,7 @@
                                                 {% elsif subcategory3.external %}
                                                 <li><a href="{{ subcategory3.external.subhref }}">{{ subcategory3.external.subtitle }}</a></li>
                                                 {% else %}  
-                                                <li><a href="/{{ subcategory3.subhref }}">{{ subcategory3.subtitle }}</a></li>
+                                                <li><a href="{{ subcategory3.subhref }}">{{ subcategory3.subtitle }}</a></li>
                                                 {% endif %}
                                                 {% endfor %}
                                             </ul>
