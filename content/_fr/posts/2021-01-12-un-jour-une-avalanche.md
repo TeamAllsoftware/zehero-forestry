@@ -36,26 +36,14 @@ page_sections:
     Je faisais quelques photos et laissais donc une marge de distance avec mon père
     devant moi.  \nCe bruit, je m'en rappellerais pour toujours."
 - template: textarea
-  content: "Entendre le bruit d'une plaque qui part, c'est un bruit grave et lourd,
-    comme un coup de tonnerre mais dans la montagne. C'était assez irréel comme moment
-    et jamais on n'aurait pu penser qu'une plaque parte à cet endroit.  \nQuand j'ai
-    commencé à visualiser que ce bruit était en fait une avalanche, la réalité m'a
-    frappé de plein fouet. J'ai compris qu'une plaque venait de partir au moins 50m
-    au dessus de nous. Elle était assez large mais pas trop épaisse, elle n'est donc
-    pas partie vite. Cela m'a permis de reculer le plus rapidement possible. Je criais
-    sur mon père en ayant peur qu'il se fasse prendre. Lui courait, essayant tant
-    bien que mal d'esquiver l'avalanche. Par chance, elle n'a pas eu le temps de prendre
-    beaucoup de vitesse, elle était lourde et glissait doucement avec de la neige
-    compacte. Mon père est tombé en essayant de courir avec les skis.  \nA ce moment
-    là, j'ai eu très peur mais j'étais très concentré sur le fait de surveiller où
-    mon père pouvait être traîné et embarqué. Mon but était de garder mon sang froid
-    et toute la concentration possible pour dégainer et sortir mon DVA et le chercher.
-    \ \nCe jour-là, mon père a eu le bon reflexe de se tourner face à l'avalanche
-    et de bloquer avec ses skis la neige. Vu que la coulée n'était pas très rapide
-    ni trop forte, elle l'emporta tout doucement. Elle le traîna plusieurs mètres
-    plus bas, sans l'ensevelir. En fin de compte, il se stoppa, la neige jusqu'au
-    cou. L'avalanche, elle, avait gonflé sur son flanc gauche et était descendue bien
-    bas."
+  content: |-
+    Entendre le bruit d'une plaque qui part, c'est un bruit grave et lourd, comme un coup de tonnerre mais dans la montagne. C'était assez irréel comme moment et jamais on n'aurait pu penser qu'une plaque parte à cet endroit.
+
+    Quand j'ai commencé à visualiser que ce bruit était en fait une avalanche, la réalité m'a frappé de plein fouet. J'ai compris qu'une plaque venait de partir au moins 50m au dessus de nous. Elle était assez large mais pas trop épaisse, elle n'est donc pas partie vite. Cela m'a permis de reculer le plus rapidement possible. Je criais sur mon père en ayant peur qu'il se fasse prendre. Lui courait, essayant tant bien que mal d'esquiver l'avalanche. Par chance, elle n'a pas eu le temps de prendre beaucoup de vitesse, elle était lourde et glissait doucement avec de la neige compacte. Mon père est tombé en essayant de courir avec les skis.
+
+    A ce moment là, j'ai eu très peur mais j'étais très concentré sur le fait de surveiller où mon père pouvait être traîné et embarqué. Mon but était de garder mon sang froid et toute la concentration possible pour dégainer et sortir mon DVA et le chercher.
+
+    Ce jour-là, mon père a eu le bon réflexe de se tourner face à l'avalanche et de bloquer avec ses skis la neige. Vu que la coulée n'était pas très rapide ni trop forte, elle l'emporta tout doucement. Elle le traîna plusieurs mètres plus bas, sans l'ensevelir. En fin de compte, il se stoppa, la neige jusqu'au cou. L'avalanche, elle, avait gonflé sur son flanc gauche et était descendue bien bas.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_105259_c53ror.jpg
@@ -79,30 +67,24 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001283/website/blog/Avalanche/FB_IMG_1521828361575_ircxpo.jpg
   captiontitleuppercase: Son attitude m'a permis de garder confiance
   title: Sans cela je n'aurai surement pas pu continuer
-  content: On a pu finir cette montée, et mériter du thé et des barres de céréales
-    au sommet en regardant la magnifiques vue du sommet. La descente face Sud Ouest
-    était assez gelé au départ puis on a pu faire quelques virages parfait dans une
-    neige fraîche. La descente vallait le cou mais je sentais que je n'avais plus
-    beaucoup de force et que le stress avait manger toutes mes calories.
+  content: On a pu finir cette montée, on a bu du thé et des barres de céréales au
+    sommet en regardant la magnifique vue du sommet. La descente face Sud était assez
+    gelée au départ puis on a pu faire quelques virages parfaits dans une neige fraîche.
+    La descente était un petit régal mais je sentais que je n'avais plus beaucoup
+    de force et que le stress avait pris toutes mes calories.
 - template: textarea
-  content: "J'ai su plus tard, que mon père avait pris sur lui et il avait eu un contre
-    cou de cette expérience avec moi. Il a su se gérer et continuer consciemment et
-    prudemment cette fin de montée. Il le faisait pour moi comme pour lui, afin de
-    surpasser la peur que l'on venait de vivre.  \nAujourd'hui, cette expérience a
-    laisser une trace dans ma pratique du ski. Je fais beaucoup plus attention, je
-    lis attentivement les Topos, je me renseigne vraiment sur les conditions de neige,
-    sur le BRA ainsi que sur les règles à avoir en ski de randonnée. Le fait que j'ai
-    été loin de mon père et d'avoir laisser de l'espace nous a permis de ne pas se
-    retrouver dans une situation critique. Malgré que les pisteurs nous aient assurés
-    que le risque était faible, il a été présent. Il faut alors redoubler de vigilance."
+  content: |-
+    J'ai su plus tard, que mon père avait pris sur lui et il avait eu un contrecoup de cette expérience avec moi. Il a su se gérer et continuer consciemment et prudemment cette fin de montée. Il le faisait pour moi comme pour lui, afin de surpasser la peur que l'on venait de vivre.
+
+    Aujourd'hui, cette expérience a laissé une trace dans ma pratique du ski. Je fais beaucoup plus attention, je lis attentivement les Topos, je me renseigne vraiment sur les conditions de neige, sur le BRA ainsi que sur les règles à avoir en ski de randonnée. Le fait que j'ai été loin de mon père et d'avoir laissé de l'espace nous a permis de ne pas se retrouver dans une situation critique. Malgré, que les pisteurs nous aient assuré que le risque était faible, il a été présent. Il faut alors redoubler de vigilance.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_114107_nkqabg.jpg
   captiontitleuppercase: Pourtant que la montagne est belle
   title: Belle mais toujours dangereuse
-  content: Une expérience riche en émotions. J'ai laissé ma trace en ski, elle a laissé
-    sa trace dans mon esprit. Aujourd'hui, j'aime encore plus foulée les pentes hors-pistes,
-    mais je reste maintenant plus vigilent.
+  content: Une expérience riche en émotions. J'ai laissé ma trace en ski, la montagne
+    a laissé sa trace dans mon esprit. Aujourd'hui, j'aime encore plus fouler les
+    pentes hors-pistes, mais je reste maintenant plus vigilent.
 tags:
 - ballade
 - en famille
