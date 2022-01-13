@@ -1,0 +1,254 @@
+---
+label: coach
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: language
+  label: language
+- type: text
+  name: season
+  label: season
+- type: text
+  name: description
+  label: description
+- type: text
+  name: topnav_color_text
+  label: topnav_color_text
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: field_group
+  name: s01
+  label: s01
+  fields:
+  - type: file
+    name: image01_href
+    label: image01_href
+  - type: text
+    name: firstname
+    label: firstname
+  - type: text
+    name: lastname
+    label: lastname
+  - type: text
+    name: coachbaseline
+    label: coachbaseline
+- type: field_group
+  name: s02
+  label: s02
+  fields:
+  - type: file
+    name: image01_href
+    label: image01_href
+  - type: textarea
+    name: about
+    label: about
+  - type: text
+    name: years_experience
+    label: years_experience
+- type: field_group
+  name: s03
+  label: s03
+  fields:
+  - type: text
+    name: txt01
+    label: txt01
+  - type: text
+    name: txt02
+    label: txt02
+  - type: text
+    name: txt03
+    label: txt03
+  - type: text
+    name: txt04
+    label: txt04
+- type: field_group
+  name: s04
+  label: s04
+  fields:
+  - type: field_group
+    name: image01
+    label: image01
+    fields:
+    - type: file
+      name: href
+      label: href
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: txt01
+      label: txt01
+    - type: text
+      name: txt02
+      label: txt02
+  - type: field_group
+    name: image02
+    label: image02
+    fields:
+    - type: file
+      name: href
+      label: href
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: txt01
+      label: txt01
+    - type: text
+      name: txt02
+      label: txt02
+  - type: field_group
+    name: image03
+    label: image03
+    fields:
+    - type: file
+      name: href
+      label: href
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: txt01
+      label: txt01
+    - type: text
+      name: txt02
+      label: txt02
+  - type: field_group
+    name: image04
+    label: image04
+    fields:
+    - type: file
+      name: href
+      label: href
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: txt01
+      label: txt01
+    - type: text
+      name: txt02
+      label: txt02
+  - type: field_group
+    name: image05
+    label: image05
+    fields:
+    - type: file
+      name: href
+      label: href
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: txt01
+      label: txt01
+    - type: text
+      name: txt02
+      label: txt02
+  - type: field_group
+    name: image06
+    label: image06
+    fields:
+    - type: file
+      name: href
+      label: href
+    - type: text
+      name: alt
+      label: alt
+    - type: text
+      name: txt01
+      label: txt01
+    - type: text
+      name: txt02
+      label: txt02
+- type: field_group
+  name: s05
+  label: s05
+  fields:
+  - type: file
+    name: image01_href
+    label: image01_href
+  - type: text
+    name: image01_alt
+    label: image01_alt
+  - type: field_group
+    name: expertise01
+    label: expertise01
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: content
+      label: content
+  - type: field_group
+    name: expertise02
+    label: expertise02
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: content
+      label: content
+  - type: field_group
+    name: expertise03
+    label: expertise03
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: content
+      label: content
+- type: field_group
+  name: s06
+  label: s06
+  fields:
+  - type: field_group
+    name: achieve01
+    label: achieve01
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: content
+      label: content
+  - type: field_group
+    name: achieve02
+    label: achieve02
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: content
+      label: content
+  - type: field_group
+    name: achieve03
+    label: achieve03
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: content
+      label: content
+  - type: field_group
+    name: achieve04
+    label: achieve04
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: content
+      label: content
