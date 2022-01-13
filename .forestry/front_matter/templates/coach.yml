@@ -144,15 +144,23 @@ fields:
     - type: text
       name: href
       label: href
+      config:
+        required: true
     - type: text
       name: alt
       label: alt
+      config:
+        required: true
     - type: text
       name: txt01
       label: txt01
+      config:
+        required: true
     - type: text
       name: txt02
       label: txt02
+      config:
+        required: true
   - type: field_group
     name: image02
     label: image02
@@ -160,15 +168,23 @@ fields:
     - type: text
       name: href
       label: href
+      config:
+        required: true
     - type: text
       name: alt
       label: alt
+      config:
+        required: true
     - type: text
       name: txt01
       label: txt01
+      config:
+        required: true
     - type: text
       name: txt02
       label: txt02
+      config:
+        required: true
   - type: field_group
     name: image03
     label: image03
@@ -176,15 +192,23 @@ fields:
     - type: text
       name: href
       label: href
+      config:
+        required: true
     - type: text
       name: alt
       label: alt
+      config:
+        required: true
     - type: text
       name: txt01
       label: txt01
+      config:
+        required: true
     - type: text
       name: txt02
       label: txt02
+      config:
+        required: true
   - type: field_group
     name: image04
     label: image04
@@ -192,15 +216,23 @@ fields:
     - type: text
       name: href
       label: href
+      config:
+        required: true
     - type: text
       name: alt
       label: alt
+      config:
+        required: true
     - type: text
       name: txt01
       label: txt01
+      config:
+        required: true
     - type: text
       name: txt02
       label: txt02
+      config:
+        required: true
   - type: field_group
     name: image05
     label: image05
@@ -208,15 +240,23 @@ fields:
     - type: text
       name: href
       label: href
+      config:
+        required: true
     - type: text
       name: alt
       label: alt
+      config:
+        required: true
     - type: text
       name: txt01
       label: txt01
+      config:
+        required: true
     - type: text
       name: txt02
       label: txt02
+      config:
+        required: true
   - type: field_group
     name: image06
     label: image06
@@ -224,15 +264,23 @@ fields:
     - type: text
       name: href
       label: href
+      config:
+        required: true
     - type: text
       name: alt
       label: alt
+      config:
+        required: true
     - type: text
       name: txt01
       label: txt01
+      config:
+        required: true
     - type: text
       name: txt02
       label: txt02
+      config:
+        required: true
   label: Section 4 - Gallery
 - type: field_group
   name: s05
