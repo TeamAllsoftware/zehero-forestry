@@ -8,7 +8,7 @@ topnav_color_text: light
 title: Yann Alarçon, coach préparation physique et mentale
 permalink: "/fr/hiver/coach/yann-alarcon"
 s01:
-  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639661304/website/blog/Mad%C3%A8re/GOPR0103_ALTA1642458316780515_1_eezzxk.jpg
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642063372/website/Coaching/FB_IMG_1603434965970_mkylzx.jpg
   firstname: Yann
   lastname: Alarçon
   coachbaseline: Passionné de Trail et de Montagne
@@ -25,35 +25,35 @@ s03:
   txt04: Préparation physique, Course à pied
 s04:
   image01:
-    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
-    alt: texte alternatif pour l'image
-    txt01: Titre
-    txt02: Sous-titre
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/G0090154_1638033833951-min_abtzoq.jpg
+    alt: ''
+    txt01: Coaching Course à pied
+    txt02: Séances sur Stade à Antibes
   image02:
-    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062840/website/Coaching/G0190431_1638033833951-min_u4n7bh.jpg
     alt: texte alternatif pour l'image
-    txt01: Titre
-    txt02: Sous-titre
+    txt01: Préparation physique
+    txt02: Travaille de renforcement musculaire
   image03:
-    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062840/website/Coaching/spe_2_zrohc2.jpg
     alt: texte alternatif pour l'image
-    txt01: Titre
-    txt02: Sous-titre
+    txt01: Préparation compétition de Trail
+    txt02: UTCAM 2021
   image04:
-    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642063372/website/Coaching/IMG_20200710_092042_1_m0joof.jpg
     alt: texte alternatif pour l'image
-    txt01: Titre
-    txt02: Sous-titre
+    txt01: Préparation d'ultra trail
+    txt02: Traversée Valmorel - Nice en trail
   image05:
-    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642063372/website/Coaching/FB_IMG_1603434965970_mkylzx.jpg
     alt: texte alternatif pour l'image
-    txt01: Titre
-    txt02: Sous-titre
+    txt01: Préparation de trail court
+    txt02: EDF Trail Aigueblanche
   image06:
-    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
+    href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/Yann_2_qwkpvt.jpg
     alt: texte alternatif pour l'image
-    txt01: Titre
-    txt02: Sous-titre
+    txt01: 'Accompagnement longue durée '
+    txt02: E-coaching
 s05:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642063364/website/Coaching/IMG-20200521-WA0140_rr4kum.jpg
   image01_alt: texte alternatif pour l'image
@@ -82,5 +82,6 @@ s06:
   achieve04:
     title: Sujet 3
     content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+published: false
 
 ---
