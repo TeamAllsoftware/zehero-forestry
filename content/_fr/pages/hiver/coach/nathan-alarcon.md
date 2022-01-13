@@ -26,8 +26,8 @@ s03:
   txt01: Parc de la tête d'Or
   txt02: Lyon
   txt03: Course à pied, Vélo, Musculation
-  txt04: Course à pied, Gym Sénior, Perte de poids ,Remise en forme, Renforcement
-    Musculaire, Musculation
+  txt04: Le renforcement musculaire, la musculation, le sport santé et  la course
+    à pied
 s04:
   image01:
     href: "/./8.JPG"
