@@ -5,7 +5,7 @@ season: winter
 description: Un coach pour votre préparation physique et vos prochains défis, que
   vous soyez débutant, amateur ou expert
 topnav_color_text: light
-title: 
+title: Yann Alarçon, coach et préparateur physique
 permalink: "/fr/hiver/coach/yann-alarcon"
 s01:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642065243/website/Coaching/IMG_20210716_180932_893_idwzlg.jpg
@@ -14,9 +14,8 @@ s01:
   coachbaseline: Passionné de Trail et de Montagne
 s02:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/Yann_3_z49tq1.jpg
-  about: |-
-    Alarcon Yann, Coach Sportif à Antibes, 28 ans , Originaire de Valmorel , ancien snowboardeur et pratiquant de sport de combat (Taekwondo) à haut niveau.  Après avoir réalisé ses études en Staps, il se spécialise dans l’entraînement. Il a été entraîneur de Taekwondo pendant 2ans au Club des Sports de Valmorel. Il a également coacher en course à pied et trail au sein d’entreprises à Lyon tel que les entreprises Aoste et Groupama par exemple. Mais il a aussi entraîné et accompagné des groupes de coureur tout au long de l’année.
-    Amoureux de la nature et de la montagne, il est spécialisé dans la course à pied et le trail.
+  about: 'Coach Sportif à Antibes, 28 ans, ancien snowboardeur et pratiquant de sport
+    de combat (Taekwondo) à haut niveau. Spécialisé dans l’entraînement. '
   years_experience: "10"
 s03:
   txt01: Trail en montagne
@@ -83,5 +82,11 @@ s06:
     title: Palmarès Taekwondo
     content: Champion de France Juniors, Vice Champion de France Espoir, Vainqueur
       Open Suisse -58kg
+s07:
+  txt_button: Réserver un cours
+  txt01: vous accompagne pour votre préparation
+  txt02: le physique et le mental pour continuer de progresser
+  href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+published: false
 
 ---
