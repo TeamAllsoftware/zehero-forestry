@@ -89,6 +89,27 @@ page_sections:
     offre des jours d'ensoleillement incroyables comme les stations de ski de Serre
     Chevalier ou alors l'Alpe d'Huez."
   title: Moderne, charme ou sportive ?
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641994384/website/Conseil%20/ines-alvarez-fdez-F-gfrzSIPZo-unsplash_qkyvuy.jpg
+  captiontitleuppercase: Les derniers points importants
+  title: Période
+  content: Il est important de choisir également sa station en fonction de la période
+    dont vous partez. Certaines stations ne sont pas forcément hautes en altitudes
+    ou ont une exposition Sud, vont avoir moins de neige en début de saison et en
+    fin de saison. Il y aura donc plus de chance que la station manque d'enneigement.
+    Il se peut alors que certaines pistes soient fermées et que la neige soit surtout
+    artificielle, s'il fait assez froid.
+- template: textarea
+  title: Budget
+  content: "Forcément, c'est un point important, car il s'agit du prix de votre séjour.
+    En fonction des infrastructures, des domaines skiables et des lieux, le prix peut
+    beaucoup évoluer. Il va surtout également beaucoup changé si vous partez pendant
+    les vacances scolaires. C'est dans ces périodes que les prix sont les plus chers.
+    Le meilleur moment pour partir reste janvier parce qu'il fait plutôt froid et
+    on trouve une neige excellente ainsi qu'un beau soleil.   \nEn fonction de la
+    station et de votre niveau, il est aussi important de voir les activités disponibles
+    gratuitement (notamment pour les enfants) et si la station met à disposition des
+    zones gratuites pour les débutants."
 published: false
 
 ---
