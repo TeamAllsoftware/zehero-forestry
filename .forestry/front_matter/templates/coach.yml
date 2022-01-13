@@ -5,72 +5,137 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: language
-  label: language
-- type: text
-  name: season
-  label: season
-- type: text
-  name: description
-  label: description
-- type: text
-  name: topnav_color_text
-  label: topnav_color_text
+  hidden: true
+  default: layout_coach
+- name: language
+  type: select
+  default: []
+  config:
+    required: true
+    options:
+    - fr
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language
+- name: season
+  type: select
+  default: []
+  config:
+    required: true
+    options:
+    - winter
+    - summer
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Season
+- name: topnav_color_text
+  type: select
+  default: []
+  config:
+    required: true
+    options:
+    - dark
+    - light
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Nav Menu background color
+  description: Is the Top menu background color dark or light ?
 - type: text
   name: title
   label: title
 - type: text
+  name: description
+  label: description
+- type: text
   name: permalink
-  label: permalink
+  label: URL of the page
+  description: 'URL should be like this: "/fr/hiver/coach/firstname-lastname"'
+  config:
+    required: true
 - type: field_group
   name: s01
-  label: s01
+  label: Section 1 - hero and title
   fields:
-  - type: file
-    name: image01_href
+  - name: image01_href
+    type: text
+    config:
+      required: true
     label: image01_href
   - type: text
     name: firstname
     label: firstname
+    config:
+      required: true
   - type: text
     name: lastname
     label: lastname
+    config:
+      required: true
   - type: text
     name: coachbaseline
     label: coachbaseline
+    config:
+      required: true
+      max: 40
+      min: 25
 - type: field_group
   name: s02
-  label: s02
+  label: Section 2 - About and Experience
   fields:
-  - type: file
-    name: image01_href
+  - name: image01_href
+    type: text
+    config:
+      required: true
     label: image01_href
   - type: textarea
     name: about
     label: about
+    config:
+      wysiwyg: false
+      required: true
+      max: 150
+      min: 120
   - type: text
     name: years_experience
     label: years_experience
+    config:
+      required: true
 - type: field_group
   name: s03
-  label: s03
+  label: Section 3 - Four details
   fields:
   - type: text
     name: txt01
-    label: txt01
+    label: Favorite terrain
+    config:
+      required: true
   - type: text
     name: txt02
-    label: txt02
+    label: Localization
+    config:
+      required: true
   - type: text
     name: txt03
-    label: txt03
+    label: Favorite sports
+    config:
+      required: true
   - type: text
     name: txt04
-    label: txt04
+    label: Professional specialities
+    config:
+      required: true
 - type: field_group
   name: s04
-  label: s04
   fields:
   - type: field_group
     name: image01
@@ -168,6 +233,7 @@ fields:
     - type: text
       name: txt02
       label: txt02
+  label: Section 4 - Gallery
 - type: field_group
   name: s05
   label: s05
