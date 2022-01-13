@@ -30,25 +30,25 @@ s03:
     Musculaire, Musculation
 s04:
   image01:
-    href: ''
+    href: "/./8.JPG"
     alt: ''
-    txt01: ''
-    txt02: ''
+    txt01: Renforcement musculaire
+    txt02: Coaching à Domicile
   image02:
-    href: ''
+    href: "/./2.JPG"
     alt: ''
-    txt01: ''
-    txt02: ''
+    txt01: Musculation
+    txt02: Coaching en salle
   image03:
-    href: ''
+    href: "/./11.JPG"
     alt: ''
-    txt01: ''
-    txt02: ''
+    txt01: Course à pied
+    txt02: 'Coaching en extérieur '
   image04:
-    href: ''
+    href: "/./9.JPG"
     alt: ''
-    txt01: ''
-    txt02: ''
+    txt01: Suivi personallisé
+    txt02: E-coaching
   image05:
     href: ''
     alt: ''
