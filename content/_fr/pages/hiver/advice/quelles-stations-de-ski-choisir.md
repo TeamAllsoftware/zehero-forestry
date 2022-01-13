@@ -44,23 +44,24 @@ page_sections:
     chercher une station qui permet d'avoir de nombreuses activités dédiées aux enfants.
     Les stations Label Famille Plus.  \nBien sûr, ce sont uniquement des exemples,
     cela peut déprendre absolument de ce que vous aimez et désirez faire."
-  title: ''
+  title: Avec qui ?
 - template: textarea
   content: "Le choix de la station de ski va varier en fonction de votre pratique.
-    Tout d'abord si vous êtes un ou des passionnés de ski de fond alors aller dans
-    un station de ski alpin tel que Val Thorens, Les Arcs ou encore Tignes ne sera
-    pas l'idéal.   \nSi vous êtes en mordu de freestyle, il y a aussi certaines stations
+    Tout d'abord, si vous êtes un ou des passionnés de ski de fond alors séjourner
+    dans une station de ski alpin tel que Val Thorens, Les Arcs ou encore Tignes ne
+    sera pas l'idéal. Il faudra plutôt cibler des stations comme Les Rousses, La Forclaz,
+    Les Saisies...  \nSi vous êtes un mordu de freestyle, il y a aussi certaines stations
     qui offrent de meilleur snowpark tel que Avoriaz, Les 2 Alpes, Les Arc, Vars ou
     encore Tignes.  \nSi c'est uniquement le freeride qui vous importe, et que vous
-    ne souhaitez pas totalement être sur les pistes, il faudra également bien choisir
-    sa station. Vous pourrez trouver des stations parfaites pour le freeride tel que
-    La Grave, Chamonix, Les Arcs, Sainte Foy en Tarentaise, Grand Tourmalet, Tignes,
+    ne souhaitez pas totalement skier sur les pistes, il faudra également bien choisir
+    sa station. Vous pourrez trouver des stations parfaites pour le freeride tels
+    que La Grave, Chamonix, Les Arcs, Sainte Foy en Tarentaise, Grand Tourmalet, Tignes,
     Serre Chevalier ou alors l'Alpe d'Huez.  \nSi vous êtes un passionné des pistes
     noires, des pistes longues et raides où vous allez chercher de la vitesse, du
     carving et à réaliser un maximum de rotation, vous pourrez trouver les stations
     comme : Méribel, Courchevel, Val Thorens, Tignes et Val d'Isère, Chamonix, La
-    Plagne, "
-  title: ''
+    Plagne, l'Alpe d'Huez avec sa piste de noir de 16 km."
+  title: Quelle pratique ?
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641996517/website/Conseil%20/yann-allegre-aUjwjVJvJrU-unsplash_z9epra.jpg
   captiontitleuppercase: Confort, Festive, Sportive ou Familiale ?
