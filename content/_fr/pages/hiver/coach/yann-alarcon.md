@@ -5,7 +5,7 @@ season: winter
 description: Un coach pour votre préparation physique et vos prochains défis, que
   vous soyez débutant, amateur ou expert
 topnav_color_text: light
-title: 2022-01-13 10:09:39 +0100
+title: 
 permalink: "/fr/hiver/coach/yann-alarcon"
 s01:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642063372/website/Coaching/FB_IMG_1603434965970_mkylzx.jpg
@@ -82,6 +82,5 @@ s06:
   achieve04:
     title: Sujet 3
     content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
-published: false
 
 ---
