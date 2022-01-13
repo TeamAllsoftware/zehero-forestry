@@ -59,7 +59,9 @@ s05:
   image01_alt: texte alternatif pour l'image
   expertise01:
     title: Expertise 1
-    content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
+    content: Spécialisé dans les entraînements de course à pied et de Trail. Accompagnement
+      des séances spécifiques et d'endurance pour toutes les distances de course à
+      pied. Accompagnement en e-coaching avec planification des compétitions
   expertise02:
     title: Expertise 2
     content: Lorem ipsum dolor consectetur adipiscing eiusmod tempor.
