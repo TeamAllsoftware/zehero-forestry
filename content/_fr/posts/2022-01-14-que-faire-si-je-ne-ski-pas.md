@@ -29,6 +29,22 @@ page_sections:
     aime la nature, les paysages blanc, l''air frais il y a bon nombre d''activité.
     Si le temps ne permet pas d''être dehors, certaines stations offres des infrastructures
     permettant de ne jamais s''ennuyer et de toujours profiter. '
+- template: textarea
+  title: Les activités de plein air
+  content: |-
+    Aujourd'hui difficile de ne pas trouver une activité à son gout parmi tout ce que les stations proposent. Vous allez trouver des activités de sensation fortes tel que :
+
+    * Le parapente, pour des panoramas magiques
+    * ULM, pour voler au dessus des montagnes enneigées
+    * De la motoneige pour des sensations fortes
+    * Conduite de rallye ou de quart sur neige
+
+    Pour des moments de liberté et de plénitude, vous pourrez faire :
+
+    * Des balades sur les chemins piétons à travers les forêts
+    * Des randonnées en raquette pour découvrir les montagne
+    * De la tyrolienne pour une glisse au dessus des pistes
+    * Des spas et massages pour des moments de bien-être
 tags:
 - entre amis
 - en famille
