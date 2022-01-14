@@ -67,6 +67,8 @@ page_sections:
     * Ski de randonnée
     * Cascade de glace
     * Plongée dans les lacs gelés
+
+    En plus de toutes ces différentes activités proposées, certaines stations vont également proposer des centres sportifs, des jeux, des trampolines. Vous trouverez également des bowlings, des cinémas ainsi que de nombreuses activité proposées par l'office du tourisme.
 tags:
 - entre amis
 - en famille
