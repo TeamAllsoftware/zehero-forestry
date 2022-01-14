@@ -12,7 +12,7 @@
       subhref: /fr/hiver/activite/freeride
     - subtitle: 'Ski de fond'
       subhref: /fr/hiver/activite/ski-de-fond
-    - txt-button: 'Toutes les activités'
+    - txt-button: Toutes les activités
    subcategories2:
     - subtitle-bold: Nos autres activités
     - subtitle: 'Snowboards'
@@ -47,21 +47,6 @@
       subhref: "/fr/hiver/activite/coaching-sportif"
     - subtitle: "Comment se préparer physiquement pour le ski"
       subhref: "/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski"
-    # - subtitle-bold: "Outdoor à partager"
-    # - subtitle: "En famille"
-    #   subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-    # - subtitle: "En couple"
-    #   subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-    # - subtitle: "Entre amis"
-    #   subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-    # - subtitle: "Seul"
-    #   subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-  #  subcategories3:
-  #   - subtitle-bold: "Itinéraires"
-  #   - subtitle: "A la journée"
-  #     subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-  #   - subtitle: "Sur 2 jours et plus"
-  #     subhref: "/fr/ossa-et-support/open-source-software-assurance/"
 -  title: 'Destinations'
    title-link: /fr/hiver/destinations
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
@@ -95,16 +80,6 @@
       subhref: /fr/hiver/coach/yann-alarcon
     - subtitle: "Nathan Alarçon"
       subhref: /fr/hiver/coach/nathan-alarcon
-    # - subtitle-bold: "Les athlètes"
-    # - subtitle: "Léo"
-    #   subhref: "/fr/ossa-et-support/open-source-software-assurance/"
-    # - subtitle-bold: "___"
-    # - subtitle: '<span class="type--fine-print type--italic">Nous contacter</span>'
-    #   subhref: 'fr/hiver/contact'
-  #  subcategories2:
-  #   - subtitle-bold: "Vous, ZE HERO du jour"
-  #   - subtitle: "Sandrine"
-  #     subhref: "/fr/ossa-et-support/open-source-software-assurance/"
 -  title: 'Blog'
    title-link: /fr/hiver/blog
    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg'

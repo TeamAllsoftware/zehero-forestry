@@ -21,7 +21,7 @@
                             {% if page.topnav_color_text == 'light' %}
                             <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="default-logo">
                             {% else %}
-                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_white | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_white | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="default-logo">
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_black | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_black | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="default-logo">
                             {% endif %}
                             <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="alt-logo">
                             <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="mobile-logo">
@@ -50,16 +50,14 @@
                                                 <li class="dropdown-header">{{ subcategory.subtitle-bold }}</li>
                                                 {% elsif subcategory.external %}
                                                 <li><a href="{{ subcategory.external.subhref }}">{{ subcategory.external.subtitle }}</a></li>
-                                                {% else %}  
+                                                {% elsif subcategory.subtitle %}  
                                                 <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
-                                                {% endif %}
-                                                {% endfor %}
-                                                
-                                                {% for subcategory in nav.subcategories %}
-                                                {% if subcategory.txt-button %}
+                                                {% elsif subcategory.txt-button %}
                                                 <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-green d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ subcategory.txt-button }}</a></span>
                                                 {% endif %}
                                                 {% endfor %}
+                                                
+                                                
                                             </ul>
 
                                             {% if nav.subcategories2 %}

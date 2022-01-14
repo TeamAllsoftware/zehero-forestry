@@ -55,6 +55,20 @@ fr:
     readmore: Visiter cette destination
   contact:
     icon-link-title: Lien vers notre page de contact
+  section-blog: 
+    winter:
+      image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080084/website/winter/pablo-guerrero-xglh7hBu9QU-unsplash_nvbvyf.jpg
+    summer:
+      image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883619/website/summer/Sommet-montagne-randonnee_nhpjve.jpg
+    txt01: Envie d'être informé
+    txt01b: des offres
+    txt01c: et des conseils
+    txt02: La newsletter ZE HERO est pour vous.
+    txt03: Inscrivez-vous pour des infos exclusives
+    txt04: m'inscrire
+    txt05: En direct du blog
+    txt06: Les derniers articles
+    txt07: Lien vers l'aticle de blog
 
 en:
   changelang: Navigate this website in english
@@ -83,6 +97,20 @@ en:
     readmore: Visit this destination
   contact:
     icon-link-title: Go to our contact page
+  section-blog: 
+    winter:
+      image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080084/website/winter/pablo-guerrero-xglh7hBu9QU-unsplash_nvbvyf.jpg
+    summer:
+      image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883619/website/summer/Sommet-montagne-randonnee_nhpjve.jpg
+    txt01: Want to know everything about
+    txt01b: our offers
+    txt01c: and advices
+    txt02: Want to stay in the loop ?
+    txt03: Subscribe to get exclusive news
+    txt04: subscribe
+    txt05: Live from the blog
+    txt06: Our latest blog posts
+    txt07: Link to blog post 
 
 #Image resizing by cloudinary
 #Cloudinary
@@ -90,10 +118,18 @@ cloudinary_url: "https://res.cloudinary.com/deddrj0yb/image/upload"
 
 # {{ imgsize.url }}{{ imgsize.[variable] }}{{[variable].image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}
 
+
+## IMAGE INCLUDE
 # {% include image.html file="" sizevar="" width="" height="" %}
 
 # {% capture download_note %}{{ activity.image01_href }}{% endcapture %}
 # <img src="{% include image.html file=download_note sizevar="activitylist" width="" height="" %}" alt="">
+
+## OPTIONS de download_note
+#  sizevar="" or width="" and height=""
+#  coloreplace="yes"  // "yes" or empty to green colorize the image
+#  gradient="grad" // "grad" to add top to bottom black->transparent gradient to image
+
 
 img:
   url: https://res.cloudinary.com/deddrj0yb/image/upload/

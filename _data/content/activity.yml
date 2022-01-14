@@ -4,8 +4,12 @@ s01:
     fr: "ZE HERO propose..."
     en: "Outdoor Way Of Life"
   p02:
-    fr: "Des activités pour l'hiver"
-    en: "Let's go now"
+    winter:
+      fr: "Des activités pour l'hiver"
+      en: "Let's go now"
+    summer:
+      fr: "Des activités pour l'été"
+      en: "Let's go now"
 s02:
   p01:
     fr: "Renversantes, euphorisantes, apaisantes."

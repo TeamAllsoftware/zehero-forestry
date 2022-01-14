@@ -1,10 +1,9 @@
 s01:
-  image_hero: "https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav/v1638805920/website/summer/greg-rosenke-FSdsaiuRNfc-unsplash_gthp1i.jpg"
+  image_hero: "https://res.cloudinary.com/deddrj0yb/image/upload/v1638805920/website/summer/greg-rosenke-FSdsaiuRNfc-unsplash_gthp1i.jpg"
   p01:
     fr: "Un style de vie outdoor"
     en: "Outdoor Way Of Life"
     color-text: text-white
-    #text-extra-dark-gray
   p02:
     fr: "On y va maintenant"
     en: "Let's go now"
