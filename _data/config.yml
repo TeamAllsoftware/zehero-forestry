@@ -118,10 +118,18 @@ cloudinary_url: "https://res.cloudinary.com/deddrj0yb/image/upload"
 
 # {{ imgsize.url }}{{ imgsize.[variable] }}{{[variable].image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}
 
+
+## IMAGE INCLUDE
 # {% include image.html file="" sizevar="" width="" height="" %}
 
 # {% capture download_note %}{{ activity.image01_href }}{% endcapture %}
 # <img src="{% include image.html file=download_note sizevar="activitylist" width="" height="" %}" alt="">
+
+## OPTIONS de download_note
+#  sizevar="" or width="" and height=""
+#  coloreplace="yes"  // "yes" or empty to green colorize the image
+#  gradient="grad" // "grad" to add top to bottom black->transparent gradient to image
+
 
 img:
   url: https://res.cloudinary.com/deddrj0yb/image/upload/

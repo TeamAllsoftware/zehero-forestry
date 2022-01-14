@@ -1,21 +1,22 @@
-
+{% assign thispage = site.data.content.summer_homepage %}
 {% include elements/generic_variables.html %}
 
 <div class="main-content">
     <!-- start section -->
-    <section class="parallax p-0" data-parallax-background-ratio="0.3" style="background-image:url('{{ site.data.content.summer_homepage.s01.image_hero }}');">
-        <div class="position-absolute cover-background top-0px left-0px w-100 h-100" data-parallax-background-ratio="0.5" style="background-image: url('/images/winter/Snowboard.png');"></div>
+    {% capture download_note %}{{ thispage.s01.image_hero }}{% endcapture %}
+    <section class="parallax p-0" data-parallax-background-ratio="0.3" style="background-image:url('{% include image.html file=download_note sizevar="genhero" width="" height="" gradient="grad" %}');">
+        
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-5 col-md-6 col-sm-7 full-screen md-h-650px sm-h-500px d-flex flex-column justify-content-center padding-8-rem-tb">
-                    <h1 class="alt-font font-weight-600 title-large {{ site.data.content.summer_homepage.s01.p01.color-text }} letter-spacing-minus-4px margin-4-half-rem-bottom sm-letter-spacing-minus-1-half xs-w-65">{{ site.data.content.summer_homepage.s01.p01.[page.language] }}</h1>
-                    <a href="contact-us-classic.html" class="btn btn-extra-large btn-expand-ltr {{ site.data.content.summer_homepage.s01.p01.color-text }} btn-rounded align-self-start font-weight-600">{{ site.data.content.summer_homepage.s01.p02.[page.language] }}<span class="bg-shamrock-green"></span></a>
+                    <h1 class="alt-font font-weight-600 title-large text-white letter-spacing-minus-4px margin-4-half-rem-bottom sm-letter-spacing-minus-1-half xs-w-65">{{ thispage.s01.p01.[page.language] }}</h1>
+                    <a href="/fr/{{ season_language }}/activites" class="btn btn-extra-large btn-expand-ltr text-white btn-rounded align-self-start font-weight-600">{{ thispage.s01.p02.[page.language] }}<span class="bg-green"></span></a>
                 </div>
             </div>
         </div>
         <div class="scroll-down-bottom">
             <a href="#about" class="section-link d-block w-2px h-35px bg-white mx-auto right-0px left-0px position-absolute">
-                <span class="scroll-down-text alt-font font-weight-600 {{ site.data.content.summer_homepage.s01.p01.color-text }} letter-spacing-minus-1-half margin-5px-bottom">scroll</span>
+                <span class="scroll-down-text alt-font font-weight-600 text-extra-dark-gray letter-spacing-minus-1-half margin-5px-bottom">scroll</span>
             </a>
         </div>
     </section>
@@ -26,14 +27,14 @@
             
             <div class="row align-items-end justify-content-center ">
                 <div class="col-12 col-lg-3 pe-lg-0 md-margin-25px-bottom sm-margin-15px-bottom text-center text-lg-start wow animate__fadeIn" data-wow-delay="0.2s">
-                    <span class="alt-font font-weight-600 title-large text-shamrock-green d-block letter-spacing-minus-5px sm-letter-spacing-minus-1-half">Hero<span class="text-extra-dark-gray">.</span></span>
+                    <span class="alt-font font-weight-600 title-large text-green d-block letter-spacing-minus-5px sm-letter-spacing-minus-1-half"> ZE HERO<span class="text-extra-dark-gray">.</span></span>
                 </div>
                 <div class="col-12 col-lg-5 col-md-10 text-lg-end md-margin-25px-bottom text-center text-lg-start wow animate__fadeIn" data-wow-delay="0.4s">
                     <h4 class="alt-font font-weight-600 text-extra-dark-gray d-block mb-0 padding-2-half-rem-right letter-spacing-minus-1px lg-no-padding-right">Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor.</h4>
                 </div>
                 <div class="col-12 col-lg-4 col-md-9 padding-30px-left md-padding-15px-left text-center text-lg-start wow animate__fadeIn" data-wow-delay="0.6s">
                     <p class="w-80 margin-15px-bottom lg-w-100">Découvrez les activités près de chez vous et profitez d’expériences inoubliables seul, entre amis ou en famille !</p>
-                    <a href="about-us.html" class="btn btn-link btn-extra-large text-extra-dark-gray font-weight-600">En savoir plus</a>
+                    <a href="/fr/{{ season_language }}/activites" class="btn btn-link btn-extra-large text-extra-dark-gray font-weight-600">En savoir plus</a>
                 </div>
             </div>
         </div>
@@ -44,89 +45,46 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-6 text-center margin-5-rem-bottom md-margin-4-rem-bottom wow animate__fadeIn">
-                    <span class="alt-font font-weight-600 text-shamrock-green text-uppercase letter-spacing-1px d-block margin-5px-bottom">ZE HERO propose...</span>
-                    <h5 class="alt-font font-weight-700 text-slate-blue letter-spacing-minus-1px text-uppercase">Des activités pour l'été</h5>
+                    <span class="alt-font font-weight-600 text-green text-uppercase letter-spacing-1px d-block margin-5px-bottom">ZE HERO propose...</span>
+                    <h5 class="alt-font font-weight-700 text-slate-blue letter-spacing-minus-1px text-uppercase">Des activités pour l'{{ season_language }}</h5>
                 </div>
             </div>
         </div>
         <div class="container-fluid padding-five-lr xl-padding-two-lr lg-padding-four-lr">
             <div class="row row-cols-1 row-cols-xl-4 row-cols-sm-2">
-                
+                {% assign activities = site[page.collection] %}
+                {% for activity in activities %}
+                {% if activity.path contains "/ete/activity/" %}
                 <!-- start services item -->
-                <div class="col interactive-banners-style-11 text-center wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.8s">
+                <div class="col interactive-banners-style-11 text-center lg-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.2s">
                     <div class="interactive-banners-box">
                         <div class="interactive-banners-box-image">
-                            <img src="/images/summer/Activite-canyoning-enfants.webp" alt="">
+                            {% capture download_note %}{{ activity.image01_href }}{% endcapture %}
+                            <img src="{% include image.html file=download_note sizevar="activitylist" width="" height="" %}" alt="">
                             <div class="interactive-banners-text-overlay bg-slate-blue"></div>
                             <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
                         </div>
                         <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Possible exercise</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">Power overwhelming</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-neon-orange margin-35px-top">Explore more</a>
+                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ activity.title }}</h6>
+                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ activity.baseline }}</span>
+                            <a href="{{ activity.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.activity.readmore }}</a>
                         </div>
                     </div>
                 </div>
                 <!-- end services item -->
-                <!-- start services item -->
-                <div class="col interactive-banners-style-11 text-center wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.8s">
-                    <div class="interactive-banners-box">
-                        <div class="interactive-banners-box-image">
-                            <img src="/images/summer/Activite-parapente.webp" alt="">
-                            <div class="interactive-banners-text-overlay bg-slate-blue"></div>
-                            <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
-                        </div>
-                        <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Possible exercise</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">Power overwhelming</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-neon-orange margin-35px-top">Explore more</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end services item -->
-                <!-- start services item -->
-                <div class="col interactive-banners-style-11 text-center wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.8s">
-                    <div class="interactive-banners-box">
-                        <div class="interactive-banners-box-image">
-                            <img src="/images/summer/Activite-randonnee-couple-montagne.webp" alt="">
-                            <div class="interactive-banners-text-overlay bg-slate-blue"></div>
-                            <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
-                        </div>
-                        <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Possible exercise</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">Power overwhelming</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-neon-orange margin-35px-top">Explore more</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end services item -->
-                <!-- start services item -->
-                <div class="col interactive-banners-style-11 text-center wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.8s">
-                    <div class="interactive-banners-box">
-                        <div class="interactive-banners-box-image">
-                            <img src="/images/summer/Activite-trail.webp" alt="">
-                            <div class="interactive-banners-text-overlay bg-slate-blue"></div>
-                            <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
-                        </div>
-                        <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                            <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">Possible exercise</h6>
-                            <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">Power overwhelming</span>
-                            <a href="#" class="btn btn-fancy btn-small btn-neon-orange margin-35px-top">Explore more</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end services item -->
+                {% endif %}
+                {% endfor %}
             </div>
         </div>
     </section>
     <!-- end section -->
-    
+   
     <!-- start section -->
     <section class="">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-12 col-lg-6 position-relative text-center md-margin-30px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
-                    <img src="/images/summer/Outdoor-famille.webp" alt="" />
+                    <img src="{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1638883623/website/summer/Groupe-accolade_ctazuf.jpg" sizevar="" width="476" height="652" %}" alt="" />
                     <div class="absolute-middle-center">
                         <a href="https://www.youtube.com/watch?v=PpqRPg-S-J0" class="popup-youtube video-icon-box video-icon-large position-relative">
                             <span>
@@ -183,14 +141,15 @@
             </div>
             <div class="row">
                 <div class="col-12 text-center margin-7-rem-top lg-margin-4-half-rem-top wow animate__fadeIn" data-wow-delay="0.6s">
-                    <span class="alt-font text-extra-dark-gray text-large">Prêt à devenir ZE HERO? <a href="#pricing" class="font-weight-600 text-decoration-line-bottom text-extra-dark-gray text-black-hover section-link">Rechercher une activité</a></span>
+                    <span class="alt-font text-extra-dark-gray text-large">Prêt à devenir ZE HERO? <a href="/fr/{{ season_language }}/activites" class="font-weight-600 text-decoration-line-bottom text-extra-dark-gray text-black-hover section-link">Rechercher une activité</a></span>
                 </div>
             </div>
         </div>
     </section>
     <!-- end section -->
+    
     {% include section_blog.html %}
 
-    {% include section_up_footer.html %} 
+    {% include section_up_footer.html %}
 </div>
 

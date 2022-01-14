@@ -1,16 +1,16 @@
 {% assign thispage = site.data.content.winter_homepage %}
-
 {% include elements/generic_variables.html %}
 
 <div class="main-content">
     <!-- start section -->
-    <section class="parallax p-0" data-parallax-background-ratio="0.3" style="background-image:url('{{ thispage.s01.image_hero }}');">
-        <div class="position-absolute cover-background top-0px left-0px w-100 h-100" data-parallax-background-ratio="0.5" style="background-image: url('thispage.s01.image_hero');"></div>
+    {% capture download_note %}{{ thispage.s01.image_hero }}{% endcapture %}
+    <section class="parallax p-0" data-parallax-background-ratio="0.3" style="background-image:url('{% include image.html file=download_note sizevar="genhero" width="" height="" gradient="grad" %}');">
+        
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-5 col-md-6 col-sm-7 full-screen md-h-650px sm-h-500px d-flex flex-column justify-content-center padding-8-rem-tb">
-                    <h1 class="alt-font font-weight-600 title-large text-extra-dark-gray letter-spacing-minus-4px margin-4-half-rem-bottom sm-letter-spacing-minus-1-half xs-w-65">{{ thispage.s01.p01.[page.language] }}</h1>
-                    <a href="/fr/hiver/activites" class="btn btn-extra-large btn-expand-ltr text-white btn-rounded align-self-start font-weight-600">{{ thispage.s01.p02.[page.language] }}<span class="bg-green"></span></a>
+                    <h1 class="alt-font font-weight-600 title-large text-white letter-spacing-minus-4px margin-4-half-rem-bottom sm-letter-spacing-minus-1-half xs-w-65">{{ thispage.s01.p01.[page.language] }}</h1>
+                    <a href="/fr/{{ season_language }}/activites" class="btn btn-extra-large btn-expand-ltr text-white btn-rounded align-self-start font-weight-600">{{ thispage.s01.p02.[page.language] }}<span class="bg-green"></span></a>
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@
                 </div>
                 <div class="col-12 col-lg-4 col-md-9 padding-30px-left md-padding-15px-left text-center text-lg-start wow animate__fadeIn" data-wow-delay="0.6s">
                     <p class="w-80 margin-15px-bottom lg-w-100">Découvrez les activités près de chez vous et profitez d’expériences inoubliables seul, entre amis ou en famille !</p>
-                    <a href="/fr/hiver/activites" class="btn btn-link btn-extra-large text-extra-dark-gray font-weight-600">En savoir plus</a>
+                    <a href="/fr/{{ season_language }}/activites" class="btn btn-link btn-extra-large text-extra-dark-gray font-weight-600">En savoir plus</a>
                 </div>
             </div>
         </div>
@@ -67,7 +67,7 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-md-6 text-center margin-5-rem-bottom md-margin-4-rem-bottom wow animate__fadeIn">
                     <span class="alt-font font-weight-600 text-green text-uppercase letter-spacing-1px d-block margin-5px-bottom">ZE HERO propose...</span>
-                    <h5 class="alt-font font-weight-700 text-slate-blue letter-spacing-minus-1px text-uppercase">Des activités pour l'hiver</h5>
+                    <h5 class="alt-font font-weight-700 text-slate-blue letter-spacing-minus-1px text-uppercase">Des activités pour l'{{ season_language }}</h5>
                 </div>
             </div>
         </div>
@@ -75,7 +75,7 @@
             <div class="row row-cols-1 row-cols-xl-4 row-cols-sm-2">
                 {% assign activities = site[page.collection] %}
                 {% for activity in activities %}
-                {% if activity.path contains "/activity/" %}
+                {% if activity.path contains "/hiver/activity/" %}
                 <!-- start services item -->
                 <div class="col interactive-banners-style-11 text-center lg-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.2s">
                     <div class="interactive-banners-box">
@@ -162,7 +162,7 @@
             </div>
             <div class="row">
                 <div class="col-12 text-center margin-7-rem-top lg-margin-4-half-rem-top wow animate__fadeIn" data-wow-delay="0.6s">
-                    <span class="alt-font text-extra-dark-gray text-large">Prêt à devenir ZE HERO? <a href="/fr/hiver/activites" class="font-weight-600 text-decoration-line-bottom text-extra-dark-gray text-black-hover section-link">Rechercher une activité</a></span>
+                    <span class="alt-font text-extra-dark-gray text-large">Prêt à devenir ZE HERO? <a href="/fr{{ season_language }}activites" class="font-weight-600 text-decoration-line-bottom text-extra-dark-gray text-black-hover section-link">Rechercher une activité</a></span>
                 </div>
             </div>
         </div>
