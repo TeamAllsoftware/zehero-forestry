@@ -1,6 +1,13 @@
 <!-- start generic variables -->
+{% assign zehero = site.data.config.zehero %}
 {% assign imgsize = site.data.config.img %}
 {% assign config = site.data.config[page.language] %}
 {% assign author = site.data.authors[page.author] %}
+{% assign blogauthor = site.data.authors[blogpost.author] %}
 {% assign activities = site[page.collection] %}
+{% assign language = page.language %}
+{% assign season = page.season %}
+{% assign season_language = site.data.config.[language].season.[season]name %}
+{% capture remcloudinaryurl %} 'https://res.cloudinary.com/deddrj0yb/image/upload' {% endcapture %}
+
 <!-- end generic variables -->

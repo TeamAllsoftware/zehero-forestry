@@ -1,0 +1,288 @@
+---
+layout: default
+---
+{% assign thispage = site.data.content.coach %}
+{% include elements/generic_variables.html %}
+
+<!-- start section -->
+{% capture download_note %}{{ page.s01.image01_href }}{% endcapture %}
+<section class="cover-background p-0 home-freelancer overflow-visible" style="background-image:url('{% include image.html file=download_note sizevar="genhero" width="" height="" gradient="grad" %}');">
+    <div class="container">
+        <div class="row full-screen md-h-650px sm-h-550px xs-h-450px">
+            <div class="col-12 col-md-7 col-sm-7 d-flex flex-column padding-8-rem-tb">
+                <h1 class="alt-font font-weight-600 title-extra-large-heavy text-green letter-spacing-minus-10px line-height-120px mt-auto mb-0 sm-letter-spacing-minus-5px">{{ page.s01.firstname }}<br /> <span class="text-border text-border-width-2px title-extra-large letter-spacing-minus-6px sm-letter-spacing-minus-1-half">{{ page.s01.lastname }}</span></h1>
+                <div class="d-flex alt-font font-weight-500 text-extra-medium text-white mt-auto">
+                    <span class="flex-shrink-0 h-2px w-20px bg-white align-self-center margin-15px-right"></span>
+                    <div class="flex-grow-1 letter-spacing-minus-1-half">{{ page.s01.coachbaseline }}</div>
+                </div>
+            </div>
+            <div class="col-12 position-absolute left-0px bottom-0px home-freelancer">
+                <a href="#expertise" class="absolute-middle-center d-flex flex-column justify-content-center text-center w-90px h-90px rounded-circle bg-white box-shadow-small mx-auto section-link xs-w-60px xs-h-60px"><i class="ti-mouse icon-extra-medium bounce text-extra-dark-gray"></i></a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->
+<!-- start section -->
+{% capture download_note %}{{ page.s02.image01_href }}{% endcapture %}
+<section class="big-section" style="background:url('https://res.cloudinary.com/deddrj0yb/image/upload/v1641996813/website/global/home-freelancer-bg-img-01_ulyr3q.png') no-repeat top 110px left;">
+    <div class="container">
+        <div class="row align-items-center justify-content-center z-index-0 position-relative">
+            <div class="col-12 col-lg-4 col-md-7 text-center text-lg-start last-paragraph-no-margin md-margin-30px-bottom xs-margin-30px-top  wow animate__fadeIn" data-wow-delay="0.2s">
+                <span class="alt-font font-weight-600 text-extra-dark-gray text-large text-uppercase d-block margin-20px-bottom">{{ thispage.p01[page.language] }} {{ page.s01.firstname }} {{ page.s01.lastname }}</span>
+                <p class="text-large line-height-38px">{{ page.s02.about }}</p>
+            </div>
+            <div class="col-12 col-lg-4 offset-lg-1 col-md-6 col-sm-4 text-center text-sm-start text-md-end padding-3-half-rem-tb ps-sm-0 tilt-box lg-padding-5-rem-tb md-padding-7-rem-tb home-freelancer-bg-img sm-no-padding-tb wow animate__zoomIn" data-wow-delay="0.4s" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }' style="background: url('https://res.cloudinary.com/deddrj0yb/image/upload/v1641996813/website/global/home-freelancer-img-05_rwc8kc.png') no-repeat;">
+                <span class="text-big alt-font font-weight-600 text-uppercase text-extra-dark-gray image-mask cover-background letter-spacing-minus-10px md-letter-spacing-minus-5px xs-letter-spacing-minus-1-half" style="background-image: url('{% include image.html file=download_note sizevar="genhero" width="" height="" %}')">{{ page.s02.years_experience }}</span>
+            </div>
+            <div class="col-12 col-lg-3 col-md-4 col-sm-4 text-center text-sm-start wow animate__fadeInRight" data-wow-delay="0.7s">
+                <h5 class="alt-font font-weight-300 text-extra-dark-gray text-uppercase w-90 mb-0 margin-15px-left xs-no-margin-left sm-w-100">{{ thispage.p02[page.language].txt01 }} <span class="font-weight-700">{{ thispage.p02[page.language].txt02 }}</span></h5>
+            </div>
+        </div>
+        <div class="row row-cols-1 row-cols-md-4 row-cols-sm-2 margin-6-half-rem-top">
+            <div class="col sm-margin-30px-bottom text-center text-sm-start wow animate__fadeIn" data-wow-delay="0.2s">
+                <span class="alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt01 }}</span>
+                <span class="alt-font font-weight-500 text-extra-dark-gray d-block">{{ page.s03.txt01 }}</span>
+            </div>
+            <div class="col sm-margin-30px-bottom text-center text-sm-start wow animate__fadeIn" data-wow-delay="0.4s">
+                <span class="alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt02 }}</span>
+                <span class="alt-font font-weight-500 text-extra-dark-gray d-block">{{ page.s03.txt02 }}</span>
+            </div>
+            <div class="col xs-margin-30px-bottom text-center text-sm-start wow animate__fadeIn" data-wow-delay="0.6s">
+                <span class="alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt03 }}</span>
+                <span class="alt-font font-weight-500 text-extra-dark-gray d-block">{{ page.s03.txt03 }}</span>
+            </div>
+            <div class="col text-center text-sm-start wow animate__fadeIn" data-wow-delay="0.8s">
+                <span class="alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt04 }}</span>
+                <span class="alt-font font-weight-500 text-extra-dark-gray d-block">{{ page.s03.txt04 }}</span>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->
+<!-- start section -->
+<section class="p-0">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 filter-content">
+                <ul class="portfolio-switch-image portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center">
+                    <li class="grid-sizer"></li>
+                    <!-- start portfolio item -->
+                    <li class="grid-item grid-item-double wow animate__fadeIn">
+                        <div class="portfolio-box">
+                            <div class="portfolio-image border-radius-4px">
+                                {% capture download_note %}{{ page.s04.image01.href }}{% endcapture %}
+                                <img src="{% include image.html file=download_note sizevar="" width="1000" height="815" %}" alt="{{ page.s04.image01.alt }}">
+                            </div>
+                            <div class="portfolio-caption padding-30px-tb lg-padding-20px-tb xs-padding-15px-tb">
+                                <span class="alt-font text-extra-dark-gray font-weight-500 text-uppercase">{{ page.s04.image01.txt01 }}</span>
+                                <span class="text-small d-block text-medium-gray text-uppercase">{{ page.s04.image01.txt02 }}</span>
+                            </div>
+                        </div>
+                    </li>
+                    <!-- end portfolio item -->
+                    <!-- start portfolio item -->
+                    <li class="grid-item photography wow animate__fadeIn" data-wow-delay="0.2s">                        
+                            <div class="portfolio-box">
+                                <div class="portfolio-image border-radius-4px">
+                                    {% capture download_note %}{{ page.s04.image02.href }}{% endcapture %}
+                                <img src="{% include image.html file=download_note sizevar="" width="800" height="650" %}" alt="{{ page.s04.image02.alt }}">
+                                </div>
+                                <div class="portfolio-caption padding-30px-tb lg-padding-20px-tb xs-padding-15px-tb">
+                                    <span class="alt-font text-extra-dark-gray font-weight-500 text-uppercase">{{ page.s04.image02.txt01 }}</span>
+                                <span class="text-small d-block text-medium-gray text-uppercase">{{ page.s04.image02.txt02 }}</span>
+                                </div>
+                            </div>
+                    </li>
+                    <!-- end portfolio item -->
+                    <!-- start portfolio item -->
+                    <li class="grid-item logos web photography wow animate__fadeIn" data-wow-delay="0.4s">
+                            <div class="portfolio-box">
+                                <div class="portfolio-image border-radius-4px">
+                                    {% capture download_note %}{{ page.s04.image03.href }}{% endcapture %}
+                                    <img src="{% include image.html file=download_note sizevar="" width="800" height="650" %}" alt="{{ page.s04.image03.alt }}">
+                                </div>
+                                <div class="portfolio-caption padding-30px-tb lg-padding-20px-tb xs-padding-15px-tb">
+                                    <span class="alt-font text-extra-dark-gray font-weight-500 text-uppercase">{{ page.s04.image03.txt01 }}</span>
+                                <span class="text-small d-block text-medium-gray text-uppercase">{{ page.s04.image03.txt02 }}</span>
+                                </div>
+                            </div>
+                    </li>
+                    <!-- end portfolio item -->
+                    <!-- start portfolio item -->
+                    <li class="grid-item grid-item-double branding photography web wow animate__fadeIn" data-wow-delay="0.6s">
+                            <div class="portfolio-box">
+                                <div class="portfolio-image border-radius-4px">
+                                    {% capture download_note %}{{ page.s04.image04.href }}{% endcapture %}
+                                    <img src="{% include image.html file=download_note sizevar="" width="1000" height="815" %}" alt="{{ page.s04.image04.alt }}">
+                                </div>
+                                <div class="portfolio-caption padding-30px-tb lg-padding-20px-tb xs-padding-15px-tb">
+                                    <span class="alt-font text-extra-dark-gray font-weight-500 text-uppercase">{{ page.s04.image04.txt01 }}</span>
+                                <span class="text-small d-block text-medium-gray text-uppercase">{{ page.s04.image04.txt02 }}</span>
+                                </div>
+                            </div>
+                    </li>
+                    <!-- end portfolio item -->
+                    <!-- start portfolio item -->
+                    <li class="grid-item photography logos wow animate__fadeIn">
+                            <div class="portfolio-box">
+                                <div class="portfolio-image border-radius-4px">
+                                    {% capture download_note %}{{ page.s04.image05.href }}{% endcapture %}
+                                    <img src="{% include image.html file=download_note sizevar="" width="800" height="650" %}" alt="{{ page.s04.image05.alt }}">
+                                </div>
+                                <div class="portfolio-caption padding-30px-tb lg-padding-20px-tb xs-padding-15px-tb">
+                                    <span class="alt-font text-extra-dark-gray font-weight-500 text-uppercase">{{ page.s04.image05.txt01 }}</span>
+                                <span class="text-small d-block text-medium-gray text-uppercase">{{ page.s04.image05.txt02 }}</span>
+                                </div>
+                            </div>
+                    </li>
+                    <!-- end portfolio item -->
+                    <!-- start portfolio item -->
+                    <li class="grid-item logos branding wow animate__fadeIn" data-wow-delay="0.2s">
+                            <div class="portfolio-box">
+                                <div class="portfolio-image border-radius-4px">
+                                    {% capture download_note %}{{ page.s04.image06.href }}{% endcapture %}
+                                    <img src="{% include image.html file=download_note sizevar="" width="800" height="650" %}" alt="{{ page.s04.image06.alt }}">
+                                </div>
+                                <div class="portfolio-caption padding-30px-tb lg-padding-20px-tb xs-padding-15px-tb">
+                                    <span class="alt-font text-extra-dark-gray font-weight-500 text-uppercase">{{ page.s04.image06.txt01 }}</span>
+                                <span class="text-small d-block text-medium-gray text-uppercase">{{ page.s04.image06.txt02 }}</span>
+                                </div>
+                            </div>
+                    </li>
+                    <!-- end portfolio item -->
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->
+<!-- start section -->
+<section class="big-section pb-0 bg-gradient-white-light-gray" id="expertise">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-12 col-xl-8 col-lg-7 d-flex flex-column flex-md-row align-self-end order-2 order-lg-0 text-center wow animate__fadeIn" data-wow-delay="0.2s">
+                {% capture download_note %}{{ page.s05.image01_href }}{% endcapture %}
+                <img class="position-relative left-minus-45px md-left-inherit" src="{% include image.html file=download_note sizevar="" width="662" height="822" %}" alt="{{ page.s05.image01_alt }}">
+            </div>
+            <div class="col-12 col-xl-4 col-lg-5 col-md-10 padding-9-rem-bottom xs-padding-6-rem-bottom order-1 order-lg-0">
+                <h1 class="alt-font font-weight-600 text-extra-dark-gray margin-6-rem-bottom letter-spacing-minus-2px wow animate__fadeInRight" data-wow-delay="0.4s"><span class="text-border text-border-color-black text-border-width-2px opacity-3">{{ thispage.p05[page.language].txt01 }}</span><br /> {{ thispage.p05[page.language].txt02 }}</h1>
+                <!-- start feature box item -->
+                <div class="feature-box feature-box-left-icon overflow-hidden margin-4-rem-bottom wow animate__fadeInRight" data-wow-delay="0.5s">
+                    <div class="feature-box-icon">
+                        <i class="line-icon-Archery-2 icon-large text-gradient-peacock-blue-crome-yellow-2"></i>
+                    </div>
+                    <div class="feature-box-content last-paragraph-no-margin">
+                        <span class="alt-font font-weight-600 text-extra-medium margin-10px-bottom d-block text-extra-dark-gray text-uppercase letter-spacing-minus-1-half">{{ page.s05.expertise01.title }}</span>
+                        <p class="text-extra-medium line-height-32px md-w-75 xs-w-100">{{ page.s05.expertise01.content }}</p>
+                    </div>
+                </div>
+                <!-- end feature box item -->
+                <!-- start feature box item -->
+                <div class="feature-box feature-box-left-icon overflow-hidden margin-4-rem-bottom wow animate__fadeInRight" data-wow-delay="0.6s">
+                    <div class="feature-box-icon">
+                        <i class="line-icon-Cursor-Click2 icon-large text-gradient-peacock-blue-crome-yellow-2"></i>
+                    </div>
+                    <div class="feature-box-content last-paragraph-no-margin">
+                        <span class="alt-font font-weight-600 text-extra-medium margin-10px-bottom d-block text-extra-dark-gray text-uppercase letter-spacing-minus-1-half">{{ page.s05.expertise02.title }}</span>
+                        <p class="text-extra-medium line-height-32px md-w-75 xs-w-100">{{ page.s05.expertise02.content }}</p>
+                    </div>
+                </div>
+                <!-- end feature box item -->
+                <!-- start feature box item -->
+                <div class="feature-box feature-box-left-icon overflow-hidden wow animate__fadeInRight" data-wow-delay="0.7s">
+                    <div class="feature-box-icon">
+                        <i class="line-icon-Video-Len2 icon-large text-gradient-peacock-blue-crome-yellow-2"></i>
+                    </div>
+                    <div class="feature-box-content last-paragraph-no-margin">
+                        <span class="alt-font font-weight-600 text-extra-medium margin-10px-bottom d-block text-extra-dark-gray text-uppercase letter-spacing-minus-1-half">{{ page.s05.expertise03.title }}</span>
+                        <p class="text-extra-medium line-height-32px md-w-75 xs-w-100">{{ page.s05.expertise03.content }}</p>
+                    </div>
+                </div>
+                <!-- end feature box item -->
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->
+<!-- start section -->
+<section class="overlap-section text-end p-0 d-none d-md-block">
+    <img src="https://res.cloudinary.com/deddrj0yb/image/upload/v1642004474/website/global/home-freelancer-img-03_tva8r7.png" alt="" />
+</section>
+<!-- end section -->
+
+<!-- start section -->
+<section class="margin-75px-top overflow-visible big-section padding-5px-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center overlap-section wow animate__flipInX">
+                <span class="alt-font font-weight-600 d-none d-md-inline-block text-gradient-peacock-blue-crome-yellow-2 title-extra-large-heavy letter-spacing-minus-10px">{{ thispage.p06[page.language].txt01 }}</span>
+            </div>
+        </div>
+        <div class="row justify-content-center margin-3-rem-tb sm-no-margin-top">
+            <!-- start fancy text box item -->
+            <div class="col-12 col-lg-6 col-md-8 col-sm-10 margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
+                <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
+                    <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
+                        <h4 class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px mb-0">{{ page.s06.achieve01.title }}</h4>
+                    </div>
+                    <div class="feature-box-content alt-font line-height-28px border-left border-color-medium-gray padding-45px-lr lg-padding-35px-lr xs-padding-20px-left xs-no-padding-right last-paragraph-no-margin">
+                        <span class="text-extra-dark-gray">{{ page.s06.achieve01.content }}</span>
+                    </div>
+                </div>
+            </div>
+            <!-- end fancy text box item -->
+            <!-- start fancy text box item -->
+            <div class="col-12 col-lg-6  col-md-8 col-sm-10 margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.4s">
+                <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
+                    <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
+                        <h4 class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px mb-0">{{ page.s06.achieve02.title }}</h4>
+                    </div>
+                    <div class="feature-box-content alt-font line-height-28px border-left border-color-medium-gray padding-45px-lr lg-padding-35px-lr xs-padding-20px-left xs-no-padding-right last-paragraph-no-margin">
+                        <span class="text-extra-dark-gray">{{ page.s06.achieve01.content }}</span>
+                    </div>
+                </div>
+            </div>
+            <!-- end fancy text box item -->
+            <!-- start fancy text box item -->
+            <div class="col-12 col-lg-6  col-md-8 col-sm-10 md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.6s">
+                <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
+                    <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
+                        <h4 class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px mb-0">{{ page.s06.achieve03.title }}</h4>
+                    </div>
+                    <div class="feature-box-content alt-font line-height-28px border-left border-color-medium-gray padding-45px-lr lg-padding-35px-lr xs-padding-20px-left xs-no-padding-right last-paragraph-no-margin">
+                        <span class="text-extra-dark-gray">{{ page.s06.achieve03.content }}</span>
+                    </div>
+                </div>
+            </div>
+            <!-- end fancy text box item -->
+            <!-- start fancy text box item -->
+            <div class="col-12 col-lg-6  col-md-8 col-sm-10 wow animate__fadeIn" data-wow-delay="0.8s">
+                <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
+                    <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
+                        <h4 class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px mb-0">{{ page.s06.achieve04.title }}</h4>
+                    </div>
+                    <div class="feature-box-content alt-font line-height-28px border-left border-color-medium-gray padding-45px-lr lg-padding-35px-lr xs-padding-20px-left xs-no-padding-right last-paragraph-no-margin">
+                        <span class="text-extra-dark-gray ">{{ page.s06.achieve04.content }}</span>
+                    </div>
+                </div>
+            </div>
+            <!-- end fancy text box item -->
+        </div>
+    </div>
+</section>
+<!-- end section -->
+
+<!-- start section -->
+<section class="big-section padding-5px-top bg-light-gray">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-xl-7 col-lg-8 col-md-10 text-center">
+                <span class="alt-font font-weight-500 text-extra-dark-gray text-uppercase letter-spacing-2px opacity-5 d-block margin-30px-bottom md-margin-20px-bottom">{{ page.s01.firstname }} {{ page.s01.lastname }} {{ page.s07.txt01 }}</span>
+                <h2 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-2px margin-50px-bottom md-margin-40px-bottom">{{ page.s07.txt02 }}</h2>
+                <a href="{{ page.s07.href_button }}" class="btn btn-fancy btn-large btn-gradient-tan-geraldine btn-round-edge-small">{{ page.s07.txt_button }}</a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->

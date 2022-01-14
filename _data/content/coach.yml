@@ -1,0 +1,35 @@
+#Generic content of coach page
+
+p01:
+  fr: A propos de
+  en: About
+p02:
+  fr:
+    txt01: Années
+    txt02: d'expérience
+  en:
+    txt01: Years of
+    txt02: expérience
+p03:
+  fr:
+    txt01: Terrains favoris
+    txt02: Lieu d'opération
+    txt03: Sports pratiqués
+    txt04: Spécialité
+  en:
+    txt01: Terrains favoris
+    txt02: Lieu d'opération
+    txt03: Date of birth
+    txt04: Education
+p05:
+  fr:
+    txt01: Coach
+    txt02: diplomé
+  en:
+    txt01: Amazing
+    txt02: expertise
+p06:
+  fr:
+    txt01: réalisations
+  en:
+    txt01: achievement

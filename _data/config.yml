@@ -1,5 +1,8 @@
 #generic
 zehero: "ZE HERO"
+zehero_logo_white: https://res.cloudinary.com/deddrj0yb/image/upload/v1641893182/website/logo/Sur%20fond%20colore%CC%81/logo-ze-hero-sans-slogan_8_xs7f9w.png
+zehero_logo_brown: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-sans-slogan_7_navyp9.png
+zehero_logo_black: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/website/logo/Sur%20fond%20fonce%CC%81/logo-ze-hero-sans-slogan_9_nj7apy.png
 
 #open graph
 og_url: https://preprod-zehero-202112.netlify.app
@@ -15,9 +18,6 @@ instagram:
   title: Instagram
   instagram_username: https://www.instagram.com/zehero_officiel/
 
-#Cloudinary
-cloudinary_url: "https://res.cloudinary.com/deddrj0yb/image/upload"
-
 #languages
 languages: [fr,en]
 
@@ -26,6 +26,7 @@ seasons: [winter,summer]
 
 fr:
   changelang: Parcourir le site en français
+  footer_baseline: Découvrez les activités près de chez vous et profitez d’expériences inoubliables seul, entre amis ou en famille !
   season:
     winter: 
       name: hiver
@@ -41,16 +42,23 @@ fr:
     placeholder: Entrez votre adresse email
     subscribe-btn: Je m'inscris
   blog:
+    various:
+      text001: De
+      text002: le
+      text003: Lire tous mes articles
     related-posts:
       caption: Vous aimerez aussi
       title: Dans le même univers
   activity:
     readmore: Explorer cette activité
+  resort:
+    readmore: Visiter cette destination
   contact:
     icon-link-title: Lien vers notre page de contact
 
 en:
   changelang: Navigate this website in english
+  footer_baseline: Découvrez les activités près de chez vous et profitez d’expériences inoubliables seul, entre amis ou en famille !
   season:
     winter: 
       name: winter
@@ -71,13 +79,30 @@ en:
       title: Related posts
   activity:
     readmore: Explore more
+  resort:
+    readmore: Visit this destination
   contact:
     icon-link-title: Go to our contact page
 
 #Image resizing by cloudinary
+#Cloudinary
+cloudinary_url: "https://res.cloudinary.com/deddrj0yb/image/upload"
+
 # {{ imgsize.url }}{{ imgsize.[variable] }}{{[variable].image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}
+
+# {% include image.html file="" sizevar="" width="" height="" %}
+
+# {% capture download_note %}{{ activity.image01_href }}{% endcapture %}
+# <img src="{% include image.html file=download_note sizevar="activitylist" width="" height="" %}" alt="">
+
 img:
   url: https://res.cloudinary.com/deddrj0yb/image/upload/
+
+## List of sizevar variables
+#logo
+  logo_header: c_fill,w_222,h_57
+  logo_headerx2: c_fill,w_444,h_114
+  logo_footer: c_fill,w_135,h_36
 #activity image in list
   activitylist: c_fill,w_322,h_446
 #blog post thumbnail list
@@ -90,3 +115,7 @@ img:
   bigsquare: c_fill,w_800,h_803
   rectangle: c_fill,w_800,h_387
   smlsquare: c_fill,w_400,h_400
+#resort hero image
+  resorthero: c_fill,w_1200,h_700
+#generic
+  genhero: c_fill,w_1500,h_1200

@@ -1,0 +1,157 @@
+---
+label: Resort page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: layout_resort
+  config:
+    required: true
+- name: language
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - fr
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: language
+- name: season
+  type: select
+  default: winter
+  config:
+    required: true
+    options:
+    - winter
+    - summer
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: season
+- name: page_title
+  type: text
+  config:
+    required: true
+  label: title
+  description: Title of the page
+- name: title
+  type: text
+  config:
+    required: true
+  label: name of the resort
+  description: Title of the resort
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: URL for this page
+  description: 'Page url''s are on this model : "/fr/hiver/activite/ski-de-randonnee"'
+- type: text
+  name: description
+  label: description
+  config:
+    required: true
+  default: Vous arrivez dans la station [nom de la station] et vous aimeriez louer
+    du matériel   tel que des skis, des chaussures de ski, des casques pour toute
+    votre famille ?
+- name: image01_href
+  type: text
+  config:
+    required: true
+  label: big and beautiful image cover
+  description: Big image hero that illustrate best your content. This image will be
+    the cover image in article list
+- type: text
+  name: image01_alt
+  label: Image cover alternative text
+  description: Your beautiful image cover needs a text describing it.... it is SEO
+    related
+- name: topnav_color_text
+  type: select
+  default: light
+  config:
+    required: true
+    options:
+    - light
+    - dark
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Menu bar text color ? white or black
+  description: top navigation menu text color must be white or black ? depends on
+    the background image tone (dark or light) or color (dark or light). If background
+    is dark and you want a white text select "dark"
+- name: introduction
+  type: field_group
+  config: {}
+  fields:
+  - name: you_arrive
+    type: textarea
+    default: Vous arrivez et souhaitez louer du matériel dans cette station.
+    config:
+      required: true
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: You arrive in...
+    description: Vous arrivez à NOM DE LA STATION et vous souhaitez louer du matériel
+      dans cette station.
+  - name: zehero_advice
+    type: textarea
+    default: ZE HERO vous conseille pour  les activités et la location des équipements
+      pour toute la famille
+    config:
+      required: true
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: ZE HERO advice you
+    description: ZE HERO vous conseille pour louer des skis, des chaussures de ski,
+      des casques et beaucoup d'autres équipements pour toute votre famille
+  label: Introduction
+- name: button_to_link_to_ze_hero_shop
+  type: field_group
+  config: {}
+  fields:
+  - name: button_text
+    type: text
+    config:
+      required: true
+    label: Button text
+  - name: url_to_shop_zehero
+    type: text
+    config:
+      required: true
+    description: Copy / Paste ZE HERO website url refering to rental in this resort
+    label: URL to link to ZE HERO
+  label: Button to link to ZE HERO shop
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - textarea
+  - 3coltxtimgtxt
+  - 2colimgtxt
+  - parlaxgridtxtimg
+  - liststyle01
+  - liststyle01numbered
+  - imagegallery02
+  - numberinfo
+  config:
+    min: 
+    max: 
+pages:
+- content/_fr/pages/hiver/resort/les-menuires.html
+- content/_fr/pages/hiver/resort/meribel.html
+- content/_fr/pages/hiver/resort/tignes.html

@@ -199,4 +199,8 @@ page_sections:
     * Oz en Oisans
     * Vaujany
     * Villard de Lans
+tags:
+- ski de randonnée
+- entre amis
+- ballade
 ---

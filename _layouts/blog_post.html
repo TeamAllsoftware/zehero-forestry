@@ -5,7 +5,8 @@ layout: default
 {% include elements/generic_variables.html %}
 
 <!-- start section-->
-<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url( {{ imgsize.url }}{{ imgsize.blogposthero }}{{page.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }} );">
+{% capture download_note %}{{ page.image01_href }}{% endcapture %}
+<section class="h-700px sm-h-400px xs-h-300px overlap-height cover-background" style="background: url( {% include image.html file=download_note sizevar="blogposthero" width="" height="" gradient="grad" %} );">
 </section>
 <!-- end section -->
 <!-- start section-->
@@ -22,7 +23,7 @@ layout: default
                     <a href="blog-grid.html" class="d-inline-block text-white">{{ page.tags[2] }}</a>
                 </div>
                 <h3 class="font-weight-600 w-50 mx-auto md-w-70 xs-w-90">{{ page.post-title }}</h3>
-                <div class="d-inline-block text-white-transparent margin-5px-top">By <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ author.firstname }} {{ author.lastname }}</a> on <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ page.date | date_to_string }}</a></div>
+                <div class="d-inline-block text-white-transparent margin-5px-top">{{ config.blog.various.text001 }} <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ author.firstname }} {{ author.lastname }}</a> {{ config.blog.various.text002 }} <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ page.date | date_to_string }}</a></div>
             </div>
         </div>
     </div>
@@ -46,6 +47,8 @@ layout: default
     {% include blocks/blocks_{{ template }}.html %}
   {% when 'imagegallery02' %}
     {% include blocks/blocks_{{ template }}.html %}
+  {% when 'numberinfo' %}
+    {% include blocks/blocks_{{ template }}.html %}
   {% endcase %}
 {% endfor %}
 
@@ -62,7 +65,7 @@ layout: default
                   </div>
                   <div class="w-75 sm-w-100 last-paragraph-no-margin text-center text-md-start">
                       <p>{{ author.bio }}</p>
-                      <a href="blog-grid.html" class="btn btn-link btn-large text-extra-dark-gray margin-20px-top">All author posts</a>
+                      {% comment %}<a href="blog-grid.html" class="btn btn-link btn-large text-extra-dark-gray margin-20px-top">{{ config.blog.various.text003 }}</a>{% endcomment %}
                   </div>
               </div>
           </div>
@@ -71,6 +74,7 @@ layout: default
 </section>
 <!-- end section -->
 
+{% comment %}
 <!-- start section -->
 <section class="bg-light-gray">
   <div class="container">
@@ -84,62 +88,36 @@ layout: default
           <div class="col-12 blog-content">
               <ul class="blog-clean blog-wrapper grid grid-loading grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large">
                   <li class="grid-sizer"></li>
+
+                    {% assign posts = site[page.collection] | reverse | where_exp: "page" , "page.season contains season" | where_exp: "page" , "page.season contains season" %}
+                        
+                    {% for blogpost in posts limit:3 %}
+                    {% if blogpost.path contains "/posts/" %}
                   <!-- start blog item -->
                   <li class="grid-item wow animate__fadeIn">
                       <div class="blog-post text-center border-radius-6px bg-white box-shadow box-shadow-large-hover">
                           <div class="blog-post-image bg-gradient-fast-blue-purple">
-                              <a href="blog-post-layout-01.html"><img src="https://via.placeholder.com/850x885" alt="">
+                              <a href="{{ blogpost.url }}"><img src="{{ imgsize.url }}{{ imgsize.homeblogpostlist }}{{blogpost.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ blogpost.image01_alt }}')">
                                   <div class="blog-rounded-icon bg-white border-color-white absolute-middle-center">
                                       <i class="feather icon-feather-arrow-right text-extra-dark-gray icon-extra-small"></i>
                                   </div>
                               </a>
                           </div>
                           <div class="post-details padding-30px-all xl-padding-25px-lr">
-                              <a href="blog-grid.html" class="post-author text-medium text-uppercase">23 February 2020</a>
-                              <a href="blog-post-layout-01.html" class="text-extra-dark-gray font-weight-500 alt-font d-block">Build perfect websites</a>
+                              <a href="{{ blogpost.url }}" class="post-author text-medium text-uppercase">{{ blogpost.date | date_to_string }}</a>
+                              <a href="{{ blogpost.url }}" class="text-extra-dark-gray font-weight-500 alt-font d-block">{{ blogpost.post-title }}</a>
                           </div>
                       </div>
                   </li>
                   <!-- end blog item -->
-                  <!-- start blog item -->
-                  <li class="grid-item wow animate__fadeIn" data-wow-delay="0.2s">
-                      <div class="blog-post text-center border-radius-6px bg-white box-shadow box-shadow-large-hover">
-                          <div class="blog-post-image bg-gradient-fast-blue-purple">
-                              <a href="blog-post-layout-02.html"><img src="https://via.placeholder.com/850x885" alt="">
-                                  <div class="blog-rounded-icon bg-white border-color-white absolute-middle-center">
-                                      <i class="feather icon-feather-arrow-right text-extra-dark-gray icon-extra-small"></i>
-                                  </div>
-                              </a>
-                          </div>
-                          <div class="post-details padding-30px-all xl-padding-25px-lr">
-                              <a href="blog-grid.html" class="post-author text-medium text-uppercase">18 February 2020</a>
-                              <a href="blog-post-layout-02.html" class="text-extra-dark-gray font-weight-500 alt-font d-block">Beautiful layouts design</a>
-                          </div>
-                      </div>
-                  </li>
-                  <!-- end blog item -->
-                  <!-- start blog item -->
-                  <li class="grid-item wow animate__fadeIn" data-wow-delay="0.4s">
-                      <div class="blog-post text-center border-radius-6px bg-white box-shadow box-shadow-large-hover">
-                          <div class="blog-post-image bg-gradient-fast-blue-purple">
-                              <a href="blog-post-layout-03.html"><img src="https://via.placeholder.com/850x885" alt="">
-                                  <div class="blog-rounded-icon bg-white border-color-white absolute-middle-center">
-                                      <i class="feather icon-feather-arrow-right text-extra-dark-gray icon-extra-small"></i>
-                                  </div>
-                              </a>
-                          </div>
-                          <div class="post-details padding-30px-all xl-padding-25px-lr">
-                              <a href="blog-grid.html" class="post-author text-medium text-uppercase">23 January 2019</a>
-                              <a href="blog-post-layout-03.html" class="text-extra-dark-gray font-weight-500 alt-font d-block">Fashion is not something</a>
-                          </div>
-                      </div>
-                  </li>
-                  <!-- end blog item -->
+                    {% endif %}
+                    {% endfor %}
               </ul>
           </div>
       </div>
   </div>
 </section>
 <!-- start section -->
+{% endcomment %}
 
 {% include elements/subscribe.html %}

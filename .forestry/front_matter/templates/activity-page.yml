@@ -6,7 +6,7 @@ fields:
   name: layout
   label: layout
   hidden: true
-  default: page_activity
+  default: layout_activity
   config:
     required: true
 - name: language
@@ -81,7 +81,7 @@ fields:
     related
 - name: topnav_color_text
   type: select
-  default: light
+  default: dark
   config:
     required: true
     options:
@@ -96,6 +96,7 @@ fields:
   description: top navigation menu text color must be white or black ? depends on
     the background image tone (dark or light) or color (dark or light). If background
     is dark and you want a white text select "dark"
+  hidden: true
 - name: page_sections
   type: blocks
   label: Page Sections
@@ -107,16 +108,18 @@ fields:
   - liststyle01
   - liststyle01numbered
   - imagegallery02
+  - numberinfo
   config:
     min: 
     max: 
 pages:
-- content/_fr/pages/hiver/activity/chiens-traineau.md
 - content/_fr/pages/hiver/activity/coaching-sportif.md
-- content/_fr/pages/hiver/activity/construction-igloo.md
 - content/_fr/pages/hiver/activity/enfants.md
+- content/_fr/pages/hiver/activity/hors-piste.md
 - content/_fr/pages/hiver/activity/raquettes.md
 - content/_fr/pages/hiver/activity/ski-alpin.md
+- content/_fr/pages/hiver/activity/ski-de-fond.md
+- content/_fr/pages/hiver/activity/ski-de-randonnee.md
 - content/_fr/pages/hiver/activity/snowboard.md
 - content/_fr/pages/hiver/activity/surf.md
-- content/_fr/pages/hiver/activity/visiter-domaine.md
+- content/_fr/pages/hiver/activity/trail.md

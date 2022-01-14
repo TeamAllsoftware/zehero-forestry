@@ -33,6 +33,7 @@ include: ["_pages", "_redirects"]
 plugins:
   - jekyll-feed
   - jekyll-get-json
+  - jekyll-sitemap
 
 gems:
   - jekyll-liquify

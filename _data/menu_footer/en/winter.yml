@@ -1,0 +1,37 @@
+- col: "Nos activités"
+  title-link: /fr/hiver/activites
+  link:
+  - subtitle: 'Ski alpin'
+    subhref: /fr/hiver/activite/ski-alpin
+  - subtitle: 'Ski de randonnée'
+    subhref: /fr/hiver/activite/ski-de-randonnee
+  - subtitle: 'Snowboards'
+    subhref: /fr/hiver/activite/snowboard
+  - subtitle: 'Raquettes'
+    subhref: /fr/hiver/activite/raquettes
+  - subtitle: 'Freeride'
+    subhref: fr/hiver/activite/freeride
+- col: "Conseils"
+  title-link: /fr/hiver/conseils
+  link:
+  - subtitle: "Choisir son magasin de location de ski"
+    subhref: "/fr/hiver/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
+  - subtitle: "Comment choisir ses skis d'occasion"
+    subhref: "/fr/hiver/conseil/ski-d-occasion"
+  - subtitle: "Comment choisir ses boots de snowboard"
+    subhref: "/fr/hiver/conseil/boots-snowboard"
+- col: "Destinations"
+  title-link: /fr/hiver/destinations
+  link:
+  - subtitle: "Alpe d'Huez"
+    subhref: "/fr/hiver/station/alpe-d-huez"
+  - subtitle: "Val-Thorens"
+    subhref: "/fr/hiver/station/val-thorens"
+  - subtitle: "Les Ménuires"
+    subhref: "/fr/hiver/station/les-menuires"
+  - subtitle: "Tignes"
+    subhref: "fr/hiver/station/tignes"
+  - subtitle: "Val d'Isère"
+    subhref: "fr/hiver/station/val-d-isere"
+  - subtitle: "Méribel"
+    subhref: "fr/hiver/station/meribel"

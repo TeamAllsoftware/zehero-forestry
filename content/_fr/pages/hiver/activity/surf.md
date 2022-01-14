@@ -1,5 +1,5 @@
 ---
-layout: page_activity
+layout: layout_activity
 permalink: "/fr/hiver/activite/surf"
 language: fr
 season: winter
@@ -145,5 +145,6 @@ page_sections:
     des stations
 topnav_text_color: light
 engage: ''
+published: false
 
 ---

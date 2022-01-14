@@ -1,0 +1,133 @@
+---
+label: Advice page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: layout_advice
+  config:
+    required: true
+- name: language
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - fr
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: language
+- name: season
+  type: select
+  default: winter
+  config:
+    required: true
+    options:
+    - winter
+    - summer
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: season
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title of the page
+  description: Title of the resort
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: URL for this page
+  description: 'Page url''s are on this model : "/fr/hiver/conseil/ski-de-randonnee"'
+- type: text
+  name: description
+  label: description
+  config:
+    required: true
+  default: Vous arrivez dans la station [nom de la station] et vous aimeriez louer
+    du matériel   tel que des skis, des chaussures de ski, des casques pour toute
+    votre famille ?
+- name: image01_href
+  type: text
+  config:
+    required: false
+  label: big and beautiful image cover
+  description: Big image hero that illustrate best your content. This image will be
+    the cover image in article list
+- type: text
+  name: image01_alt
+  label: Image cover alternative text
+  description: Your beautiful image cover needs a text describing it.... it is SEO
+    related
+  config:
+    required: false
+- name: topnav_color_text
+  type: select
+  default: light
+  config:
+    required: true
+    options:
+    - light
+    - dark
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Menu bar text color ? white or black
+  description: top navigation menu text color must be white or black ? depends on
+    the background image tone (dark or light) or color (dark or light). If background
+    is dark and you want a white text select "dark"
+  hidden: false
+- name: button_to_link_to_ze_hero_shop
+  type: field_group
+  config: {}
+  fields:
+  - name: button_text
+    type: text
+    config:
+      required: true
+    label: Button text
+  - name: url_to_shop_zehero
+    type: text
+    config:
+      required: true
+    description: Copy / Paste ZE HERO website url refering to rental in this resort
+    label: URL to link to ZE HERO
+  label: Button to link to ZE HERO shop
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - textarea
+  - 3coltxtimgtxt
+  - 2colimgtxt
+  - parlaxgridtxtimg
+  - liststyle01
+  - liststyle01numbered
+  - imagegallery02
+  - numberinfo
+  config:
+    min: 
+    max: 
+pages:
+- content/_fr/pages/hiver/advice/comment-choisir-ses-boots-de-snowboard.md
+- content/_fr/pages/hiver/advice/comment-choisir-ses-skis-d-occasion.md
+- content/_fr/pages/hiver/advice/comment-choisir-ses-skis-de-location.md
+- content/_fr/pages/hiver/advice/comment-choisir-son-ecole-de-ski.md
+- content/_fr/pages/hiver/advice/comment-choisir-son-magasin-de-location.md
+- content/_fr/pages/hiver/advice/comment-se-preparer-physiquement-au-ski.md
+- content/_fr/pages/hiver/advice/connaitre-les-regles-importantes-lorsque-l-on-se-trouve-sur-le-domaine-skiable.md
+- content/_fr/pages/hiver/advice/cours-prive-ou-cours-collectif.md
+- content/_fr/pages/hiver/advice/quelles-stations-de-ski-choisir.md
+- content/_fr/pages/hiver/advice/quels-cours-de-ski-et-quel-niveau-choisir.md

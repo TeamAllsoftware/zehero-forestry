@@ -1,0 +1,31 @@
+- col: "Nos activités"
+  title-link: /fr/ete/activites
+  link:
+  - subtitle: 'Randonnée'
+    subhref: /fr/hiver/activite/ski-alpin
+  - subtitle: 'Parapente'
+    subhref: /fr/hiver/activite/ski-de-randonnee
+  - subtitle: 'Vélo'
+    subhref: /fr/hiver/activite/snowboard
+  - subtitle: 'Canyoning'
+    subhref: /fr/hiver/activite/raquettes
+  - subtitle: 'Surf'
+    subhref: /fr/hiver/activite/surf
+- col: "Conseils"
+  title-link: /fr/ete/conseils
+  link:
+  - subtitle: "Choisir son spot de surf"
+    subhref: "/fr/hiver/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
+  - subtitle: "Comment choisir ses chaussures de trail"
+    subhref: "/fr/hiver/conseil/ski-d-occasion"
+  - subtitle: "10 spots d'escalade"
+    subhref: "/fr/hiver/conseil/boots-snowboard"
+- col: "Destinations"
+  title-link: /fr/ete/destinations
+  link:
+  - subtitle: "Biarritz"
+    subhref: "/fr/ete/station/biarritz"
+  - subtitle: "Val-Thorens"
+    subhref: "/fr/ete/station/val-thorens"
+  - subtitle: "Antibes"
+    subhref: "/fr/ete/station/antibes"

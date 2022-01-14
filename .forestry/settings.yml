@@ -1,12 +1,12 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: document
   path: readme-editor.md
-  label: Help
+  label: Help (updated 6 jan 22)
   read_only: true
 - type: document
   path: _data/authors.yml
@@ -28,9 +28,25 @@ sections:
   label: Activités hiver
   create: documents
   match: "**/*"
+  templates:
+  - activity-page
 - type: directory
   path: content/_fr/pages/hiver/resort
   label: Resorts hiver
+  create: documents
+  match: "**/*"
+  templates:
+  - resort-page
+- type: directory
+  path: content/_fr/pages/hiver/advice
+  label: Conseil hiver
+  create: documents
+  match: "**/*"
+  templates:
+  - advice-page
+- type: directory
+  path: content/_fr/pages/hiver/coach
+  label: Coach hiver
   create: documents
   match: "**/*"
 - type: heading

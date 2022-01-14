@@ -82,7 +82,7 @@ fields:
     related
 - name: topnav_color_text
   type: select
-  default: light
+  default: dark
   config:
     required: true
     options:
@@ -97,6 +97,7 @@ fields:
   description: top navigation menu text color must be white or black ? depends on
     the background image tone (dark or light) or color (dark or light). If background
     is dark and you want a white text select "dark"
+  hidden: true
 - name: page_sections
   type: blocks
   label: Page Sections
@@ -125,6 +126,5 @@ fields:
   label: Tags
   description: add 3 tags
 pages:
-- content/_fr/posts/2021-11-15-quel-materiel-de-ski-de-randonnee-pour-debuter.md
+- content/_fr/posts/2021-01-12-un-jour-une-avalanche.md
 - content/_fr/posts/2021-12-08-ski-de-randonnee-en-isere.md
-- content/_fr/posts/2021-12-15-un-long-weekend-bikepacking-en-foret-noire.md
