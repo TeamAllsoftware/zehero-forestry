@@ -10,7 +10,7 @@ post-title: Que faire en station de ski lorsque je ne fais pas de ski ou de snow
 description: Si nous ne désirons pas faire de ski, quelles sont les différentes options
   qui s'offrent à nous comme activités.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642165833/website/Conseil%20/alain-wong-f-oxr0Lk5EU-unsplash_ths7rd.jpg
-image01_alt: ''
+image01_alt: Chemin dans la forêt de sapin dans la neige
 page_sections:
 - template: textarea
   title: La montagne sans le ski ?
@@ -20,6 +20,15 @@ page_sections:
     de stations proposent diverses activités non-ski. Mais il est toujours judicieux
     de regarder sur le site de l''office du tourisme et se renseigner sur les différentes
     activités que la station propose. '
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642165834/website/Conseil%20/benjamin-zanatta-WUdA1_7Lqlw-unsplash_crfnpj.jpg
+  captiontitleuppercase: Les différentes activités en montagne l'hiver
+  title: Que faire quand on ne fais pas de ski ?
+  content: 'La montagne offre une multitude d''activité, de balade et de découverte
+    que l''on soit seul ou accompagné lorsque nous ne pratiquons pas le ski. Si on
+    aime la nature, les paysages blanc, l''air frais il y a bon nombre d''activité.
+    Si le temps ne permet pas d''être dehors, certaines stations offres des infrastructures
+    permettant de ne jamais s''ennuyer et de toujours profiter. '
 tags:
 - entre amis
 - en famille
