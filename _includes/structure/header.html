@@ -50,16 +50,14 @@
                                                 <li class="dropdown-header">{{ subcategory.subtitle-bold }}</li>
                                                 {% elsif subcategory.external %}
                                                 <li><a href="{{ subcategory.external.subhref }}">{{ subcategory.external.subtitle }}</a></li>
-                                                {% else %}  
+                                                {% elsif subcategory.subtitle %}  
                                                 <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
-                                                {% endif %}
-                                                {% endfor %}
-                                                
-                                                {% for subcategory in nav.subcategories %}
-                                                {% if subcategory.txt-button %}
+                                                {% elsif subcategory.txt-button %}
                                                 <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-green d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ subcategory.txt-button }}</a></span>
                                                 {% endif %}
                                                 {% endfor %}
+                                                
+                                                
                                             </ul>
 
                                             {% if nav.subcategories2 %}
