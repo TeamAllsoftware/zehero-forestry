@@ -83,7 +83,7 @@ s05:
 s06:
   achieve01:
     title: Compétitions
-    content: Trail, route et 400m sur piste ainsi que Taekwondo
+    content: Athlétisme et trail
   achieve02:
     title: Glisse
     content: Club de ski freestyle pendant 5ans
