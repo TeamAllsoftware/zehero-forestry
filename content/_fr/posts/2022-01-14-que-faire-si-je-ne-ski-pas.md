@@ -45,6 +45,28 @@ page_sections:
     * Des randonnées en raquette pour découvrir les montagne
     * De la tyrolienne pour une glisse au dessus des pistes
     * Des spas et massages pour des moments de bien-être
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642165833/website/Conseil%20/kajetan-sumila-Bvc_jNsFVCk-unsplash_jin4xg.jpg
+  captiontitleuppercase: Découvrir la montagne autrement
+  title: Pour des moments de rire et de partage
+  content: |-
+    Pour passer de bon moment avec sa famille ou ses amis :
+
+    * Des constructions d'igloo et bataille de boule de neige
+    * De la luge pour de la glisse fun
+    * De la patinoire
+    * Snake glisse pour rigoler sur les pistes en luge
+    * Le chien de traineau pour des moments inoubliables
+    * Pour les enfants, ils existent beaucoup d'activités amusantes que la station et les activités proposent
+- template: textarea
+  title: Pour les plus sportifs
+  content: |-
+    Si vous cherchez à faire des activités sportives :
+
+    * VTT électrique
+    * Ski de randonnée
+    * Cascade de glace
+    * Plongée dans les lacs gelés
 tags:
 - entre amis
 - en famille
