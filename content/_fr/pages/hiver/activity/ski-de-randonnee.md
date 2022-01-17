@@ -17,9 +17,9 @@ page_sections:
     pentes vierges au cœur des montagnes.
   content: On peut enfiler les peaux de phoques pour s'éloigner des pistes et du monde,
     aller réaliser de beaux hors-pistes, se balader en forêts, atteindre des sommets
-    ou même s'entraîner à faire du dénivelé. Il y a plusieurs raison de faire du ski
-    de randonnée. Cette pratique demande du matériel spécifique, ainsi que des connaissances
-    sur la sécurité et sur la montagne.
+    ou même s'entraîner à faire du dénivelé. Il y a plusieurs raisons de faire du
+    ski de randonnée. Cette pratique demande du matériel spécifique, ainsi que des
+    connaissances sur la sécurité et sur la montagne.
   captiontitleuppercase: Le ski de randonnée
 - template: textarea
   content: "Le ski de randonnée reste une activité physique car la montée demande
