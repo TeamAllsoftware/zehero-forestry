@@ -12,12 +12,12 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497764/webs
 image01_alt: Vol de parapente pendant l'hiver avec des montagnes recouvertes de neige
 page_sections:
 - template: textarea
-  content: Vivez l'unique expérience de volez au dessus du domaine skiable et des
-    sommets. Après avoir glisser sur les pistes et admirez les panoramas d'en bas,
-    vous pourrez faire un baptême de parapente l'hiver afin de découvrir les montagnes
-    d'au dessus. Vivez un moment agréable dans les airs en profitant des vues splendides
-    des montagnes et des différents sommets. Vous pourrez alors profiter d'un moment
-    de calme et d'admiration au dessus de vos amis en parapente.
+  content: Vivez l’unique expérience de voler au-dessus du domaine skiable et des
+    sommets. Après avoir glissé sur les pistes et admirez les panoramas d’en bas,
+    vous pourrez faire un baptême de parapente l’hiver afin de découvrir les montagnes
+    d’au-dessus. Vivez un moment agréable dans les airs en profitant des vues splendides
+    des montagnes et des différents sommets. Vous pourrez alors profiter d’un moment
+    de calme et d’admiration au-dessus de vos amis en parapente.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497879/website/winter/henry-perks-tkOf9gYWakA-unsplash_icnohc.jpg
@@ -29,13 +29,10 @@ page_sections:
     vous pourrez alors découvrir une nouvelle sensation de glisse et de vol ainsi
     que d'un atterrissage en douceur sur la neige.
 - template: textarea
-  content: "Les vols vont durer entre 10 et 30mn en fonction de la météo et des départs
-    donnés. Le vol biplace vous permettra d'admirez la vue, de vivre une nouvelle
-    expérience, ainsi que des sensations fortes. Les moniteurs en fonction également
-    de votre aisance peuvent vous faire tenir les commandes et réaliser des vols plus
-    sensationnelles. Vous pourrez aussi bénéficier de vidéo et de photo qui sont proposer
-    par les moniteurs de parapente.\n\nCette activité est réservé à toutes les personnes
-    de 5ans à 90ans. "
+  content: |-
+    Les vols vont durer entre 10 et 30 mn en fonction de la météo et des départs donnés. Le vol biplace vous permettra d’admirer la vue, de vivre une nouvelle expérience, ainsi que des sensations fortes. Les moniteurs en fonction ainsi de votre aisance peuvent vous faire tenir les commandes et réaliser des vols plus sensationnels. Vous pourrez aussi bénéficier de vidéo et de photo qui sont proposées par les moniteurs de parapente.
+
+    Cette activité est réservée à toutes les personnes de 5 ans à 90 ans.
   title: ''
 
 ---
