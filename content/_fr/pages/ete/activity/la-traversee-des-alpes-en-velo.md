@@ -53,6 +53,5 @@ page_sections:
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-2-GRANDS-COLS_tepatv.png
   captionrighttitle: "1"
   captionrightcontent: "1"
-published: false
 
 ---
