@@ -44,12 +44,6 @@ page_sections:
     Tarentaise, la Maurienne, les Haute Alpes, sans oublier les Alpes du Sud pour,
     finalement, traverser l’arrière pays Niçois et arriver à Nice."
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/Capture-de%CC%81cran-2021-05-20-a%CC%80-10.21.11_etjefl.png
-  captiontitleuppercase: Le trajet entier
-  title: Une traversée unique en son genre
-  content: Rouler des montagnes à la mer, plongez l'eau salé après avoir roulé plus
-    de 630km et traversée des parcs, des régions et des cols mythiques à vélo.
-- template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521345/website/V%C3%A9lo/ETAPE-1-GRANDS-COLS_aowgzr.png
   captiontitleuppercase: 'L''étape 1 '
   title: Traversée des Aravis et du Beaufortin
@@ -77,5 +71,23 @@ page_sections:
     du Galibier, le col du Lauraret et le col de l''Izoard. La pause de midi se fera
     dans la ville de Briançon. La fin du parcours se fera à Guillestre pour une étape
     de 118 kms / Dénivelé: 3423m D+'
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-4-CAYOLLE_jiy3h9.png
+  captiontitleuppercase: 'Etape 4 '
+  title: L’arrivée dans les Alpes du Sud par le Col de la Cayolle
+  content: 'Le parcours va se composer de 3 grosses montées. Vous allez donc grimper
+    le Col de Vars avant d''arriver à Barcelonnette puis le fameux col de la Cayolle
+    pour la pause midi. Ensuite vous descendrez St Martin d''Entraunes pour finir
+    dans la station de Valberg, entouré de mélèzes. Distance: 157 kms / Dénivelé:
+    3491m D+'
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/ETAPE-5-BIS_ilgp7o.png
+  captiontitleuppercase: La dernière étape
+  title: Arrière pays Niçois par le Col de Turini
+  content: La dernière étape sera une étape plus descendante que montante. Avant de
+    rejoindre la mer, vous passerez par le col de la Couillole, vous passerez dans
+    la vallée de la Tinée. Vous basculerez au col St Martin pour passer dans la vallée
+    de la Vésubie. Vous finirez par le col de Turini avant de faire une longue descente
+    ver la mer.
 
 ---
