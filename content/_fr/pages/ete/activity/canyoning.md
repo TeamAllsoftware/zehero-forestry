@@ -47,6 +47,28 @@ page_sections:
     * une combinaison spécifique isotherme et renforcée au niveau des fesses et des genoux ainsi que sur les coudes
     * un baudrier avec tout le matériel : descendeur, longe etc
     * des chaussures spéciales canyoning ou des chaussures qui présentent des crampons (types chaussures de trail)
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642516880/website/summer/pexels-julia-volk-6152738_q30qqg.jpg
+  captiontitleuppercase: Comment se déroule un activité de Canyoning
+  title: Plusieurs éléments
+  content: 'Tout d''abord, vous allez retrouver deux formules. Soit les cours collectifs
+    ou alors vous privatiser le moniteur pour vous seul ou pour un groupe de personne.
+    Selon les canyoning mais aussi des personnes et de l''évolution, la durée peut
+    être de 2h à une demi-journée et parfois à la journée entière. Cela reste tout
+    de même physique et demande beaucoup d''énergie. Les canyons, selon leurs sources,
+    leurs expositions et leurs situations géographiques peuvent être très froids parfois. '
+- template: textarea
+  content: "Il faut prévoir un maillot de bain, une serviette et donc une tenue de
+    rechange. Mais aussi, une bouteille d'eau qui peut être amener par le moniteur
+    ainsi qu'une barre énergétique. \n\nC'est une activité qui peut se faire seul
+    en se greffant à un groupe, ou avec des amis mais également avec ses enfants.
+    Ce qui permet de vivre un expérience riche en émotion en profitant de s'amuser
+    et jouer.\n\nLes canyoning ne doivent pas être réalisés sans matériel et sans
+    moniteur. Si vous tenter de réaliser le canyoning sans connaitre les règles et
+    surtout le lieu, cela peut s'avérer très dangereux où l'accès aux sauveteurs n'est
+    pas toujours simple. Le canyoning est également un lieu naturel qui bouge et se
+    transforme chaque année et en fonction des conditions météorologiques. "
+  title: ''
 published: false
 
 ---
