@@ -89,5 +89,27 @@ page_sections:
     la vallée de la Tinée. Vous basculerez au col St Martin pour passer dans la vallée
     de la Vésubie. Vous finirez par le col de Turini avant de faire une longue descente
     ver la mer.
+- template: textarea
+  content: |-
+    Ce séjour organisé vélo comprend :
+
+    ● Encadrement – Moniteurs diplômés d’État
+
+    ● Hébergement en gîte et chambres d’hôtes
+
+    ● Suivi technique et logistique (transports bagages et vélos)
+
+    ● Ravitaillements en eau et pauses salées
+
+    ● Transports Hébergements → Restaurants
+
+    ● Transfert retour – Véhicule Grand Confort
+  title: ''
+- template: imagegallery02
+  title: Quelques images de la traversée
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521348/website/V%C3%A9lo/velo-de-route-sejour_bojhe9.jpg
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-velo-de-route_yansgi.jpg
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-de-route-traversee-de-route_onnjic.jpg
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-traversee-des-alpes-nice_jyfbgw.jpg
 
 ---
