@@ -53,6 +53,32 @@ sections:
   match: "**/*"
 - type: heading
   label: French été
+- type: directory
+  path: content/_fr/pages/ete/activity
+  label: ETE Activités
+  create: documents
+  match: "**/*"
+  templates:
+  - activity-page
+- type: directory
+  path: content/_fr/pages/ete/resort
+  label: ETE Resorts
+  create: documents
+  match: "**/*"
+  templates:
+  - resort-page
+- type: directory
+  path: content/_fr/pages/ete/advice
+  label: ETE Conseils
+  create: documents
+  match: "**/*"
+  templates:
+  - advice-page
+- type: directory
+  path: content/_fr/pages/ete/coach
+  label: ETE Coachs
+  create: documents
+  match: "**/*"
 - type: heading
   label: ENGLISH
 - type: directory
