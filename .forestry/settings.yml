@@ -26,10 +26,8 @@ sections:
 - type: heading
   label: French hiver
 - type: document
-  path: data/menu/fr/hiver.yml
+  path: _data/menu/fr/hiver.yml
   label: HIVER menu header
-  match: "**/*"
-  read_only: false
 - type: directory
   path: content/_fr/pages/hiver/activity
   label: HIVER Activités
