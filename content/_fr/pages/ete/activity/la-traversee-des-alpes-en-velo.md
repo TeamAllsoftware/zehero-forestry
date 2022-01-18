@@ -108,7 +108,7 @@ page_sections:
 - template: imagegallery02
   title: Quelques images de la traversée
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521348/website/V%C3%A9lo/velo-de-route-sejour_bojhe9.jpg
-  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-velo-de-route_yansgi.jpg
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-velo-de-route-assistance_ekknlj.jpg
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-de-route-traversee-de-route_onnjic.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-traversee-des-alpes-nice_jyfbgw.jpg
 
