@@ -54,7 +54,7 @@ fields:
   config:
     required: true
   label: URL for this page
-  description: 'Page url''s are on this model : "/fr/hiver/activite/ski-de-randonnee"'
+  description: 'Page url''s are on this model : "/fr/saison ete ou hiver/activite/ski-de-randonnee"'
 - type: text
   name: description
   label: description
