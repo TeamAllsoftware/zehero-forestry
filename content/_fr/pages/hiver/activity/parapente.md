@@ -7,7 +7,7 @@ title: Parapente
 permalink: "/fr/hiver/activite/parapente"
 description: Partez vous envolez au dessus des montagnes enneigé avec un vol en parapente
 baseline: Découvrir, voler et admirer
-engage: Surplomber les montagnes l'hiver et admirez tous les sommets
+engage: Surplombez les montagnes l'hiver et admirez tous les sommets
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497764/website/winter/fpvmat-a-6AzbpH7Qg_k-unsplash_moojf5.jpg
 image01_alt: Vol de parapente pendant l'hiver avec des montagnes recouvertes de neige
 page_sections:
