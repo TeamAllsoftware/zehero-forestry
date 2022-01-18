@@ -4,7 +4,7 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Canyoning
-permalink: "/fr/ete/acticite/canyoning"
+permalink: "/fr/ete/activite/canyoning"
 description: L'activité du canyoning est une activité d'eau qui consiste à avancer
   le long d'une rivière en jouant avec les éléments de la nature.
 baseline: Sensations, émotions et ludique
