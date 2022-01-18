@@ -44,9 +44,38 @@ page_sections:
     Tarentaise, la Maurienne, les Haute Alpes, sans oublier les Alpes du Sud pour,
     finalement, traverser l’arrière pays Niçois et arriver à Nice."
 - template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/Capture-de%CC%81cran-2021-05-20-a%CC%80-10.21.11_etjefl.png
+  captiontitleuppercase: Le trajet entier
+  title: Une traversée unique en son genre
+  content: Rouler des montagnes à la mer, plongez l'eau salé après avoir roulé plus
+    de 630km et traversée des parcs, des régions et des cols mythiques à vélo.
+- template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521345/website/V%C3%A9lo/ETAPE-1-GRANDS-COLS_aowgzr.png
-  captiontitleuppercase: Létape 1
-  title: fv
-  content: 'v '
+  captiontitleuppercase: 'L''étape 1 '
+  title: Traversée des Aravis et du Beaufortin
+  content: 'Après un départ d''Annecy, vous partirez directement sur des routes de
+    montagnes à travers les Aravis en passant par le col des Aravis. Le déjeuner se
+    fera au Col des Saisies, puis vous rejoindrez Beaufort plus bas avant la dernière
+    importante ascension du Cormet de Roseland. L''arrivé se fera à Bourg St Maurice
+    pour y manger et y passer la nuit. Distance: 118 kms / Dénivelé: 3362m D+'
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-2-GRANDS-COLS_tepatv.png
+  captiontitleuppercase: Etape 2
+  title: Traversée de la Haute Tarentaise par le Col de l’Iseran
+  content: 'Après le départ de Bourg St Maurice, l''unique et très longue montée se
+    fera en direction du col de l''Iseran à 2700m d''altitude. Vous plongerez ensuite
+    dans la Haute Maurienne et déjeunerez dans le magnifique village de Bonneval sur
+    Arc. La suite du trajet sera roulante et vous terminerez à St Martin d''Arc. Distance:
+    120 kms / Dénivelé: 2679m D+'
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-3-GRANDS-COLS_v3pqyi.png
+  captiontitleuppercase: Etape 3
+  title: Col du Galibier et Col de l’Izoard au programme
+  content: 'Cette étape de vélo va s''avérer difficile. Vous allez commencer à sentir
+    les jambes lourdes et les km dans vos cuisses. De plus, cette journée comportent
+    4 cols très réputés. Vous allez donc enchainer avec le col du Télégraphe, le col
+    du Galibier, le col du Lauraret et le col de l''Izoard. La pause de midi se fera
+    dans la ville de Briançon. La fin du parcours se fera à Guillestre pour une étape
+    de 118 kms / Dénivelé: 3423m D+'
 
 ---
