@@ -29,13 +29,13 @@ page_sections:
     vous pourrez alors découvrir une nouvelle sensation de glisse et de vol ainsi
     que d'un atterrissage en douceur sur la neige.
 - template: textarea
-  content: Les vols vont durer entre 10 et 30mn en fonction de la météo et des départs
+  content: "Les vols vont durer entre 10 et 30mn en fonction de la météo et des départs
     donnés. Le vol biplace vous permettra d'admirez la vue, de vivre une nouvelle
     expérience, ainsi que des sensations fortes. Les moniteurs en fonction également
     de votre aisance peuvent vous faire tenir les commandes et réaliser des vols plus
     sensationnelles. Vous pourrez aussi bénéficier de vidéo et de photo qui sont proposer
-    par les moniteurs de parapente.
+    par les moniteurs de parapente.\n\nCette activité est réservé à toutes les personnes
+    de 5ans à 90ans. "
   title: ''
-published: false
 
 ---
