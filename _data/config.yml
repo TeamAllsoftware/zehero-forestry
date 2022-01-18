@@ -69,6 +69,8 @@ fr:
     txt05: En direct du blog
     txt06: Les derniers articles
     txt07: Lien vers l'aticle de blog
+  various:
+    readmore: Lire la suite
 
 en:
   changelang: Navigate this website in english
@@ -110,7 +112,9 @@ en:
     txt04: subscribe
     txt05: Live from the blog
     txt06: Our latest blog posts
-    txt07: Link to blog post 
+    txt07: Link to blog post
+  various:
+    readmore: Read more
 
 #Image resizing by cloudinary
 #Cloudinary

@@ -14,8 +14,8 @@ s01:
   coachbaseline: Passionné de Trail et de Montagne
 s02:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/Yann_3_z49tq1.jpg
-  about: 'Coach Sportif à Antibes, 28 ans, ancien snowboardeur et pratiquant de sport
-    de combat (Taekwondo) à haut niveau. Spécialisé dans l’entraînement. '
+  about: 'Coach Sportif à Antibes, 28 ans , Originaire de Valmorel , ancien snowboardeur et pratiquant de sport de combat (Taekwondo) à haut niveau.  Après des études en Staps, il se spécialise dans l’entraînement. Il a été entraîneur de Taekwondo pendant 2ans au Club des Sports de Valmorel et a coaché en course à pied et trail en entreprises à Lyon (Aoste et Groupama). Il entraîne et accompagne des groupes de coureur à l’année.
+Amoureux de la nature et de la montagne, il est spécialisé dans la course à pied et le trail.'
   years_experience: "10"
 s03:
   txt01: Trail en montagne

@@ -17,7 +17,7 @@ layout: default
                 </div>
             </div>
             <div class="col-12 position-absolute left-0px bottom-0px home-freelancer">
-                <a href="#expertise" class="absolute-middle-center d-flex flex-column justify-content-center text-center w-90px h-90px rounded-circle bg-white box-shadow-small mx-auto section-link xs-w-60px xs-h-60px"><i class="ti-mouse icon-extra-medium bounce text-extra-dark-gray"></i></a>
+                <a href="#about" class="absolute-middle-center d-flex flex-column justify-content-center text-center w-90px h-90px rounded-circle bg-white box-shadow-small mx-auto section-link xs-w-60px xs-h-60px"><i class="ti-mouse icon-extra-medium bounce text-extra-dark-gray"></i></a>
             </div>
         </div>
     </div>
@@ -30,7 +30,7 @@ layout: default
         <div class="row align-items-center justify-content-center z-index-0 position-relative">
             <div class="col-12 col-lg-4 col-md-7 text-center text-lg-start last-paragraph-no-margin md-margin-30px-bottom xs-margin-30px-top  wow animate__fadeIn" data-wow-delay="0.2s">
                 <span class="alt-font font-weight-600 text-extra-dark-gray text-large text-uppercase d-block margin-20px-bottom">{{ thispage.p01[page.language] }} {{ page.s01.firstname }} {{ page.s01.lastname }}</span>
-                <p class="text-large line-height-38px">{{ page.s02.about }}</p>
+                <p class="text-large line-height-38px">{{ page.s02.about | truncate:150 }} <a href="#about" class="section-link" title="">{{ config.various.readmore}}</a></p>
             </div>
             <div class="col-12 col-lg-4 offset-lg-1 col-md-6 col-sm-4 text-center text-sm-start text-md-end padding-3-half-rem-tb ps-sm-0 tilt-box lg-padding-5-rem-tb md-padding-7-rem-tb home-freelancer-bg-img sm-no-padding-tb wow animate__zoomIn" data-wow-delay="0.4s" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }' style="background: url('https://res.cloudinary.com/deddrj0yb/image/upload/v1641996813/website/global/home-freelancer-img-05_rwc8kc.png') no-repeat;">
                 <span class="text-big alt-font font-weight-600 text-uppercase text-extra-dark-gray image-mask cover-background letter-spacing-minus-10px md-letter-spacing-minus-5px xs-letter-spacing-minus-1-half" style="background-image: url('{% include image.html file=download_note sizevar="genhero" width="" height="" %}')">{{ page.s02.years_experience }}</span>
@@ -211,6 +211,83 @@ layout: default
 </section>
 <!-- end section -->
 
+ <!-- start section -->
+ <section id="about" class="p-0 lg-no-margin-top">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10"> 
+                <div class="row">
+                    <div class="col-12 margin-9-rem-top sm-margin-50px-top last-paragraph-no-margin wow animate__fadeIn">
+                        <h6 class="alt-font text-extra-dark-gray font-weight-500 margin-20px-bottom">{{ thispage.p01[page.language] }} {{ page.s01.firstname }} {{ page.s01.lastname }}</h6>
+                        <p><span class="alt-font text-large font-weight-500">{{ page.s02.about }}</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->
+<!-- start section -->
+<section id="services" class="">
+    <div class="container">
+        <div class="row row-cols-1 row-cols-lg-2 row-cols-sm-2">
+            <!-- start feature box item -->
+            <div class="col margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn">
+                <div class="feature-box bg-white box-shadow-small box-shadow-large-hover border-radius-6px padding-4-half-rem-all lg-padding-3-rem-all h-250px">
+                    <div class="feature-box-icon">
+                        <img class="margin-35px-bottom md-margin-15px-bottom sm-margin-20px-bottom" src="images/home-dentist-icon-02.svg" alt="" />
+                    </div>
+                    <div class="feature-box-content last-paragraph-no-margin">
+                        <span class="alt-font font-weight-500 text-large margin-15px-bottom d-block text-extra-dark-gray sm-margin-10px-bottom">{{ page.s06.achieve01.title }}</span>
+                        <p>{{ page.s06.achieve01.content }}</p>
+                    </div>
+                </div>
+            </div>
+            <!-- end feature box item -->
+            <!-- start feature box item -->
+            <div class="col margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
+                <div class="feature-box bg-white box-shadow-small box-shadow-large-hover border-radius-6px padding-4-half-rem-all lg-padding-3-rem-all h-250px">
+                    <div class="feature-box-icon">
+                        <img class="margin-35px-bottom md-margin-15px-bottom sm-margin-20px-bottom" src="images/home-dentist-icon-03.svg" alt="" />
+                    </div>
+                    <div class="feature-box-content last-paragraph-no-margin">
+                        <span class="alt-font font-weight-500 text-large margin-15px-bottom d-block text-extra-dark-gray sm-margin-10px-bottom">{{ page.s06.achieve02.title }}</span>
+                        <p>{{ page.s06.achieve02.content }}</p>
+                    </div>
+                </div>
+            </div>
+            <!-- end feature box item -->
+            <!-- start feature box item -->
+            <div class="col margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.4s">
+                <div class="feature-box bg-white box-shadow-small box-shadow-large-hover border-radius-6px padding-4-half-rem-all lg-padding-3-rem-all h-250px">
+                    <div class="feature-box-icon">
+                        <img class="margin-35px-bottom md-margin-15px-bottom sm-margin-20px-bottom" src="images/home-dentist-icon-04.svg" alt="" />
+                    </div>
+                    <div class="feature-box-content last-paragraph-no-margin">
+                        <span class="alt-font font-weight-500 text-large margin-15px-bottom d-block text-extra-dark-gray sm-margin-10px-bottom">{{ page.s06.achieve03.title }}</span>
+                        <p>{{ page.s06.achieve03.content }}</p>
+                    </div>
+                </div>
+            </div>
+            <!-- end feature box item -->
+            <!-- start feature box item -->
+            <div class="col wow animate__fadeIn" data-wow-delay="1s">
+                <div class="feature-box bg-white box-shadow-small box-shadow-large-hover border-radius-6px padding-4-half-rem-all lg-padding-3-rem-all h-250px">
+                    <div class="feature-box-icon">
+                        <img class="margin-35px-bottom md-margin-15px-bottom sm-margin-20px-bottom" src="images/home-dentist-icon-07.svg" alt="" />
+                    </div>
+                    <div class="feature-box-content last-paragraph-no-margin">
+                        <span class="alt-font font-weight-500 text-large margin-15px-bottom d-block text-extra-dark-gray sm-margin-10px-bottom">{{ page.s06.achieve04.title }}</span>
+                        <p>{{ page.s06.achieve04.content }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->
+
+{% comment %}
 <!-- start section -->
 <section class="margin-75px-top overflow-visible big-section padding-5px-bottom">
     <div class="container">
@@ -272,6 +349,7 @@ layout: default
     </div>
 </section>
 <!-- end section -->
+{% endcomment %}
 
 <!-- start section -->
 <section class="big-section padding-5px-top bg-light-gray">
