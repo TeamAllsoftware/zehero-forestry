@@ -111,5 +111,6 @@ page_sections:
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-velo-de-route_yansgi.jpg
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-de-route-traversee-de-route_onnjic.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-traversee-des-alpes-nice_jyfbgw.jpg
+published: false
 
 ---
