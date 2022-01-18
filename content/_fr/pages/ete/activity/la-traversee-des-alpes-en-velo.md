@@ -43,15 +43,10 @@ page_sections:
     servis ! Au départ d’Annecy vous traverserez les Aravis, le Beaufortin, la Haute
     Tarentaise, la Maurienne, les Haute Alpes, sans oublier les Alpes du Sud pour,
     finalement, traverser l’arrière pays Niçois et arriver à Nice."
-- template: 3coltxtimgtxt
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521345/website/V%C3%A9lo/ETAPE-1-GRANDS-COLS_aowgzr.png
-  captionleftcontent: Etape 1
-  captionrighttitle: "1"
-  captionrightcontent: "1"
-- template: 3coltxtimgtxt
-  captionleftcontent: Etape 2
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-2-GRANDS-COLS_tepatv.png
-  captionrighttitle: "1"
-  captionrightcontent: "1"
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521345/website/V%C3%A9lo/ETAPE-1-GRANDS-COLS_aowgzr.png
+  captiontitleuppercase: Létape 1
+  title: fv
+  content: 'v '
 
 ---
