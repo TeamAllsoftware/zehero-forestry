@@ -77,6 +77,5 @@ page_sections:
     du Galibier, le col du Lauraret et le col de l''Izoard. La pause de midi se fera
     dans la ville de Briançon. La fin du parcours se fera à Guillestre pour une étape
     de 118 kms / Dénivelé: 3423m D+'
-published: false
 
 ---
