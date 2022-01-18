@@ -24,7 +24,7 @@ sections:
   templates:
   - blog-post
 - type: heading
-  label: hiver
+  label: French hiver
 - type: directory
   path: content/_fr/pages/hiver/activity
   label: HIVER Activités
@@ -52,7 +52,7 @@ sections:
   create: documents
   match: "**/*"
 - type: heading
-  label: été
+  label: French été
 - type: heading
   label: ENGLISH
 - type: directory
