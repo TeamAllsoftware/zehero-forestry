@@ -90,6 +90,5 @@ page_sections:
     * Dans les Pyrénées pour des canyonings réputés mondialement
     * Mais aussi dans le Jura, en Savoie, en Haute Savoie...
   title: ''
-published: false
 
 ---
