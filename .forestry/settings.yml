@@ -18,37 +18,41 @@ sections:
   label: FRENCH
 - type: directory
   path: content/_fr/posts
-  label: FR blog Posts
+  label: BLOG Posts
   create: documents
   match: "**/*"
   templates:
   - blog-post
+- type: heading
+  label: hiver
 - type: directory
   path: content/_fr/pages/hiver/activity
-  label: Activités hiver
+  label: HIVER Activités
   create: documents
   match: "**/*"
   templates:
   - activity-page
 - type: directory
   path: content/_fr/pages/hiver/resort
-  label: Resorts hiver
+  label: HIVER Resorts
   create: documents
   match: "**/*"
   templates:
   - resort-page
 - type: directory
   path: content/_fr/pages/hiver/advice
-  label: Conseil hiver
+  label: HIVER Conseils
   create: documents
   match: "**/*"
   templates:
   - advice-page
 - type: directory
   path: content/_fr/pages/hiver/coach
-  label: Coach hiver
+  label: HIVER Coachs
   create: documents
   match: "**/*"
+- type: heading
+  label: été
 - type: heading
   label: ENGLISH
 - type: directory
