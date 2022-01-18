@@ -69,6 +69,27 @@ page_sections:
     pas toujours simple. Le canyoning est également un lieu naturel qui bouge et se
     transforme chaque année et en fonction des conditions météorologiques. "
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642516879/website/summer/pexels-aaron-kittredge-999093_stpngc.jpg
+  captiontitleuppercase: Où faire du canyoning
+  title: Les meilleurs spots en France
+  content: En France on va retrouver un très grand choix de canyoning dans de différentes
+    régions. On va également retrouver beaucoup de canyon pour tous les niveaux, tous
+    les gouts. Vous allez parfois avoir des canyonings magnifiques mais qui seront
+    moins techniques. Vous aurez également des canyonings moins jolies mais qui seront
+    techniques, exigeants et plus sensationnels.
+- template: textarea
+  content: |-
+    Vous allez en retrouver par exemple :
+
+    * En Corse pour des lieux magiques et des canyonings très réputés
+    * En Ardèche pour des canyons plus sauvages et préservés
+    * Dans le Verdon pour ces couleurs sublimes et de belles randonnées aquatiques
+    * Dans les Alpes Maritimes pour des canyonings mixtes
+    * Dans les Vosges pour des sensations fortes
+    * Dans les Pyrénées pour des canyonings réputés mondialement
+    * Mais aussi dans le Jura, en Savoie, en Haute Savoie...
+  title: ''
 published: false
 
 ---
