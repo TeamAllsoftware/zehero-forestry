@@ -1,79 +1,91 @@
-list:
-- top-level:
+menu:
+- top-level:  
     title: Activites
     title-link: /fr/hiver/activites
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
     image-link: "/fr/hiver/activites"
     txt-button: Toutes les activités
-  nested-list01:
+  column-01:
   - nested: Activités non ski
-    list-items:
-    - item: luge
+    menu-items:
+    - title: luge
       href: "/fr/hiver/ski-alpin"
-    - item: raquette
+    - title: raquette
       href: "/fr/hiver/ski-rando"
   - nested: Activités ski
-    list-items:
-    - item: ski alpin
+    menu-items:
+    - title: ski alpin
       href: "/fr/hiver/ski-alpin"
-    - item: ski de randonnée
+    - title: ski de randonnée
       href: "/fr/hiver/ski-rando"
-    - item: ski de freeride
+    - title: ski de freeride
       href: "/fr/hiver/ski-rando"
-  nested-list02:
+  column-02:
   - nested: Autres 2
-    list-items:
-    - item: Igloo
+    menu-items:
+    - title: Igloo
       href: "/fr/hiver/igloo"
-    - item: Découverte des bouquetins
+    - title: Découverte des bouquetins
       href: "/fr/hiver/bouquetins"
   - nested: Autres
-    list-items:
-    - item: "1"
+    menu-items:
+    - title: "1"
       href: "/fr/hiver/ski-alpin"
-    - item: "2"
+    - title: "2"
       href: "/fr/hiver/ski-rando"
-    - item: "3"
+    - title: "3"
       href: "/fr/hiver/ski-rando"
+  column-03:
 - top-level:
     title: Conseils
     title-link: /fr/hiver/conseils
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
     image-link: "/fr/hiver/conseils"
-  nested-list01:
+  column-01:
   - nested: Matériel
-    list-items:
-    - item: ski piste
+    menu-items:
+    - title: ski piste
       href: "/fr/hiver/ski-alpin"
-    - item: chaussures
+    - title: chaussures
       href: "/fr/hiver/ski-rando"
   - nested: Apprendre
-    list-items:
-    - item: le ski
+    menu-items:
+    - title: le ski
       href: "/fr/hiver/ski-alpin"
-    - item: le snow
+    - title: le snow
       href: "/fr/hiver/ski-rando"
+  column-02:
+  column-03:
 - top-level:
     title: Destinations
     title-link: /fr/hiver/destinations
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
     image-link: "/fr/ete/"
+  column-01:
+  column-02:
+  column-03:
 - top-level:
     title: Team ZE HERO
     title-link: /fr/hiver/team-zehero
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg'
     image-link: "/fr/ete/"
+  column-01:
+  column-02:
+  column-03:
 - top-level:
     title: 'e-Shop'
     title-link: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/v1639991251/website/winter/skis-occasion_vcqy77.png'
     image-link: 'https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion'
+  column-01:
+  column-02:
+  column-03:
 - top-level:
     title: 'Blog'
     title-link: /fr/hiver/blog
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg'
     image-link: '/fr/hiver/blog'
     txt-button: Entrer dans le blog
-  nested-list01:
+  column-01:
   - nested: A lire dans le blog
 

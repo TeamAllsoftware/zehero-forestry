@@ -37,7 +37,7 @@
                          <!-- Start menu -->
                         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                             <ul class="navbar-nav alt-font">
-                                {% for nav in menu.list %}
+                                {% for nav in menu.menu %}
                                 {% if nav.top-level.title != "Blog" %}
                                 <li class="nav-item dropdown megamenu">
                                     <a href="{{ nav.top-level.title-link }}" class="nav-link">{{ nav.top-level.title }}</a>
@@ -45,10 +45,10 @@
                                     <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
                                         <div class="d-lg-flex justify-content-center">
                                             <ul class="d-lg-inline-block md-margin-15px-bottom">
-                                                {% for subcategory1 in nav.nested-list01 %}
+                                                {% for subcategory1 in nav.column-01 %}
                                                 <li class="dropdown-header">{{ subcategory1.nested }}</li>
-                                                    {% for subcategory1-items in subcategory1.list-items %}
-                                                    <li><a href="{{ subcategory1-items.href }}">{{ subcategory1-items.item }}</a></li>
+                                                    {% for subcategory1-items in subcategory1.menu-items %}
+                                                    <li><a href="{{ subcategory1-items.href }}">{{ subcategory1-items.title }}</a></li>
                                                     {% endfor %}
                                                 {% endfor %}
 
@@ -57,22 +57,22 @@
                                                 {% endif %}
                                             </ul>
 
-                                            {% if nav.nested-list02 %}
+                                            {% if nav.column-02 %}
                                             <ul class="d-lg-inline-block md-margin-15px-bottom">
-                                                {% for subcategory2 in nav.nested-list02 %}
+                                                {% for subcategory2 in nav.column-02 %}
                                                 <li class="dropdown-header">{{ subcategory2.nested }}</li>
-                                                    {% for subcategory2-items in subcategory2.list-items %}
-                                                    <li><a href="{{ subcategory2-items.href }}">{{ subcategory2-items.item }}</a></li>
+                                                    {% for subcategory2-items in subcategory2.menu-items %}
+                                                    <li><a href="{{ subcategory2-items.href }}">{{ subcategory2-items.title }}</a></li>
                                                     {% endfor %}
                                                 {% endfor %}
                                             </ul>
                                             {% endif %}
-                                            {% if nav.nested-list03 %}
+                                            {% if nav.column-03 %}
                                             <ul class="d-lg-inline-block md-margin-15px-bottom">
-                                                {% for subcategory3 in nav.nested-list03 %}
+                                                {% for subcategory3 in nav.column-03 %}
                                                 <li class="dropdown-header">{{ subcategory3.nested }}</li>
-                                                    {% for subcategory3-items in subcategory3.list-items %}
-                                                    <li><a href="{{ subcategory3-items.href }}">{{ subcategory3-items.item }}</a></li>
+                                                    {% for subcategory3-items in subcategory3.menu-items %}
+                                                    <li><a href="{{ subcategory3-items.href }}">{{ subcategory3-items.title }}</a></li>
                                                     {% endfor %}
                                                 {% endfor %}
                                             </ul>
@@ -89,7 +89,7 @@
                                 {% endif %}
                                 {% endfor %}
 
-                                {% for nav in menu.list %}
+                                {% for nav in menu.menu %}
                                 {% if  nav.top-level.title == "Blog" %}
                                 <li class="nav-item dropdown megamenu">
                                     <a href="{{ nav.top-level.title-link }}" class="nav-link">{{ nav.top-level.title }}</a>
@@ -97,10 +97,10 @@
                                     <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
                                         <div class="d-lg-flex justify-content-center">
                                             <ul class="d-lg-inline-block md-margin-15px-bottom list-style-02">
-                                                {% for subcategory1 in nav.nested-list01 %}
+                                                {% for subcategory1 in nav.column-01 %}
                                                 <li class="dropdown-header">{{ subcategory1.nested }}</li>
-                                                    {% for subcategory1-items in subcategory1.list-items %}
-                                                    <li><a href="{{ subcategory1-items.href }}">{{ subcategory1-items.item }}</a></li>
+                                                    {% for subcategory1-items in subcategory1.menu-items %}
+                                                    <li><a href="{{ subcategory1-items.href }}">{{ subcategory1-items.title }}</a></li>
                                                     {% endfor %}
                                                 {% endfor %}
 
