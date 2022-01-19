@@ -1,123 +1,119 @@
+---
 menu:
-- top-level:  
+- top-level:
     title: Activites
-    title-link: /fr/hiver/activites
-    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
-    image-link: "/fr/hiver/activites"
+    title-link: "/fr/ete/activites"
+    image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592263/website/summer/eberhard-grossgasteiger-8lDkmXnKo7s-unsplash_wfd3xp.jpg
+    image-link: "/fr/ete/activites"
     txt-button: Toutes les activités
   column-01:
-  - nested: Nos activités ski
+  - nested: Herbe, cailloux, asphalte
     menu-items:
-    - title: 'Ski alpin'
-      href: /fr/hiver/activite/ski-alpin
-    - title: 'Ski de randonnée'
-      href: /fr/hiver/activite/ski-de-randonnee
-    - title: 'Ski freeride'
-      href: /fr/hiver/activite/freeride
-    - title: 'Ski de fond'
-      href: /fr/hiver/activite/ski-de-fond
+    - title: VTT
+      href: "/fr/ete/activite/vtt"
+    - title: Randonnée
+      href: "/fr/ete/activite/randonnee-montagne"
+    - title: Traversée des Alpes à vélo
+      href: "/fr/ete/activite/traversee-des-alpes-en-velo"
   column-02:
-  - nested: Nos autres activités
+  - nested: Air et eau
     menu-items:
-    - title: 'Snowboards'
-      href: /fr/hiver/activite/snowboard
-    - title: 'Raquettes'
-      href: /fr/hiver/activite/raquettes
-    - title: 'Surf'
-      href: /fr/hiver/activite/surf
+    - title: Canyoning
+      href: "/fr/ete/activite/canyoning"
+    - title: Raquettes
+      href: "/fr/ete/activite/kayak"
 - top-level:
     title: Conseils
-    title-link: /fr/hiver/conseils
-    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
-    image-link: "/fr/hiver/conseils"
-    txt-button: 'Tous les conseils'
+    title-link: "/fr/ete/conseils"
+    image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883625/website/summer/Kayak-duo_u76cpj.jpg
+    image-link: "/fr/ete/conseils"
+    txt-button: Tous les conseils
   column-01:
   - nested: Matériel
     menu-items:
-    - title: "Choisir son magasin de location de ski"
+    - title: Choisir son magasin de location de ski
       href: "/fr/hiver/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
-    - title: "Comment choisir ses skis d'occasion"
+    - title: Comment choisir ses skis d'occasion
       href: "/fr/hiver/conseil/ski-d-occasion"
-    - title: "Comment choisir ses boots de snowboard"
+    - title: Comment choisir ses boots de snowboard
       href: "/fr/hiver/conseil/boots-snowboard"
   column-02:
   - nested: Apprendre
     menu-items:
-    - title: "Comment choisir son école de ski ?"
+    - title: Comment choisir son école de ski ?
       href: "/fr/hiver/conseil/choisir-ecole-de-ski"
-    - title: "Apprendre en cours privé ou collectif ?"
+    - title: Apprendre en cours privé ou collectif ?
       href: "/fr/hiver/conseil/cours-privé-cours-collectif"
-    - title: "Choisir le bon niveau de cours en ski et snowboard"
+    - title: Choisir le bon niveau de cours en ski et snowboard
       href: "/fr/hiver/conseil/choisir-niveau-ski-snowboard"
-  - nested: "Entraînement / Préparation"
+  - nested: Entraînement / Préparation
     menu-items:
-    - title: "Coaching privé ou collectif"
+    - title: Coaching privé ou collectif
       href: "/fr/hiver/activite/coaching-sportif"
-    - title: "Comment se préparer physiquement pour le ski"
+    - title: Comment se préparer physiquement pour le ski
       href: "/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski"
 - top-level:
     title: Destinations
-    title-link: /fr/hiver/destinations
-    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
-    image-link: "/fr/ete/"
-    txt-button: 'Toutes les destinations'
+    title-link: "/fr/ete/destinations"
+    image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
+    image-link: "/fr/ete/destinations"
+    txt-button: Toutes les destinations
   column-01:
   - nested: Les stations de montagne
     menu-items:
-    - title: "Alpe d'Huez"
-      href: "/fr/hiver/station/alpe-d-huez"
-    - title: "Val-Thorens"
-      href: "/fr/hiver/station/val-thorens"
-    - title: "Les Ménuires"
-      href: "/fr/hiver/station/les-menuires"
-    - title: "Tignes"
-      href: "/fr/hiver/station/tignes"
-    - title: "Val d'Isère"
-      href: "/fr/hiver/station/val-d-isere"
-    - title: "Méribel"
-      href: "/fr/hiver/station/meribel"
+    - title: Alpe d'Huez
+      href: "/fr/ete/station/alpe-d-huez"
+    - title: Val-Thorens
+      href: "/fr/ete/station/val-thorens"
+    - title: Les Ménuires
+      href: "/fr/ete/station/les-menuires"
+    - title: Tignes
+      href: "/fr/ete/station/tignes"
+    - title: Val d'Isère
+      href: "/fr/ete/station/val-d-isere"
+    - title: Méribel
+      href: "/fr/ete/station/meribel"
   column-02:
   - nested: Les stations balnéaires
     menu-items:
-    - title: "Antibes"
-      href: "/fr/hiver/station/antibes"
+    - title: Antibes
+      href: "/fr/ete/station/antibes"
 - top-level:
     title: Team ZE HERO
-    title-link: /fr/hiver/team-zehero
-    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg'
+    title-link: "/fr/ete/team-zehero"
+    image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg
     image-link: "/fr/ete/"
   column-01:
   - nested: Les coachs
     menu-items:
-    - title: "Yann Alarçon"
+    - title: Yann Alarçon
       href: "/fr/ete/coach/yann-alarcon"
-    - title: "Nathan Alarçon"
+    - title: Nathan Alarçon
       href: "/fr/ete/coach/nathan-alarcon"
-  column-02:
+  column-02: 
 - top-level:
-    title: 'e-Shop'
+    title: e-Shop
     title-link: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
-    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/v1639991251/website/winter/skis-occasion_vcqy77.png'
-    image-link: 'https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion'
+    image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639991251/website/winter/skis-occasion_vcqy77.png
+    image-link: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
     txt-button: Entrer dans le e-Shop
   column-01:
   - nested: Acheter, louer, réserver en ligne
     menu-items:
-    - title: "Acheter des skis d'occasion"
-      href: "https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion"
-    - title: "Louer des skis"
-      href: "https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&subslug=%2Fman-skis-rental&number_rental_days=1"
-    - title: "Louer des chaussures"
-      href: "https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1"
-    - title: "Louer un snowboard"
-      href: "https://fr.ze-hero.com/location-materiel/location-snowboard/location-snowboard-adulte"
-  column-02:
+    - title: Acheter des skis d'occasion
+      href: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+    - title: Louer des skis
+      href: https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&subslug=%2Fman-skis-rental&number_rental_days=1
+    - title: Louer des chaussures
+      href: https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
+    - title: Louer un snowboard
+      href: https://fr.ze-hero.com/location-materiel/location-snowboard/location-snowboard-adulte
+  column-02: 
 - top-level:
-    title: 'Blog'
-    title-link: /fr/ete/blog
-    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg'
-    image-link: '/fr/ete/blog'
+    title: Blog
+    title-link: "/fr/ete/blog"
+    image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg
+    image-link: "/fr/ete/blog"
     txt-button: Entrer dans le blog
   column-01:
   - nested: A lire dans le blog
-
