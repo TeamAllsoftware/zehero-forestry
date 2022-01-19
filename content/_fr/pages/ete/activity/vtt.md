@@ -33,6 +33,14 @@ page_sections:
     paradis. Mais c'est également vivre des descentes à toutes vitesse, passer des
     parcours avec des virages relevé et parsemé de sauts, dans des passages techniques
     et raides. Partez, par la force de vos jambes à l'ascension de sommets accessible
-    à vélo et des descentes bordées de cailloux et d'arbres.
+    à vélo et des descentes bordées de cailloux et d'arbres. Le VTT s'est aussi une
+    superbe activité pour découvrir un lieu, une station, un parc. Vous pouvez le
+    faire en groupe afin de partager un moment encore plus agréable. Il existe aujourd'hui
+    dans beaucoup de station, différents parcours dédiés aux VTT, que ce soit pour
+    la montée comme pour la descente. Vous pouvez également prendre un guide de VTT
+    afin d'avoir une personne référente qui vous explique vraiment les différentes
+    de pédalage en montée ainsi que les techniques de descentes. Cela vous permettra
+    également d'avoir un guide pour visiter les meilleurs spots de VTT du lieu où
+    vous êtes.
 
 ---
