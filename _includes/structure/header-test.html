@@ -1,0 +1,153 @@
+{% assign zehero = site.data.config.zehero %}
+
+{% assign language = page.language %}
+{% assign season = page.season %}
+{% assign season_language = site.data.config.[language].season.[season]name %}
+{% assign menu = site.data.menu.[language].[season_language] %}
+
+{% assign list_season = site.data.config.seasons %}
+{% assign opposite_season = list_season| array_to_sentence_string: '' | remove: page.season | strip  %}
+
+{% assign list_language = site.data.config.languages %}
+{% assign opposite_language = list_language| array_to_sentence_string: '' | remove: page.language | strip  %}
+
+{% include elements/generic_variables.html %}
+
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-{{ page.topnav_color_text }} bg-transparent header-light fixed-top navbar-boxed header-reverse-scroll">
+                <div class="container-fluid nav-header-container">
+                    <div class="col-5 col-lg-2 ps-lg-0 me-auto me-lg-0">
+                        <a class="navbar-brand" href="/{{ page.language }}/{{ season_language }}">
+                            {% if page.topnav_color_text == 'light' %}
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="default-logo">
+                            {% else %}
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_black | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_black | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="default-logo">
+                            {% endif %}
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="alt-logo">
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="mobile-logo">
+                        </a>
+                    </div>
+                    <div class="col-auto col-lg-7 md-position-initial md-no-padding">
+                        <button class="navbar-toggler float-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                        </button>
+                         <!-- Start menu -->
+                        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                            <ul class="navbar-nav alt-font">
+                                {% for nav in menu.list %}
+                                
+                                <li class="nav-item dropdown megamenu">
+                                    <a href="{{ nav.top-level.href }}" class="nav-link">{{ nav.top-level.title }}</a>
+                                    <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                                    <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
+                                        <div class="d-lg-flex justify-content-center">
+                                            <ul class="d-lg-inline-block md-margin-15px-bottom">
+                                                {% for subcategory1 in nav.nested-list01 %}
+                                                <li class="dropdown-header">{{ subcategory1.nested }}</li>
+                                                    {% for subcategory1-items in subcategory1.list-items %}
+                                                    <li><a href="{{ subcategory1-items.href }}">{{ subcategory1-items.item }}</a></li>
+                                                    {% endfor %}
+                                                {% endfor %}
+                                            </ul>
+
+                                            {% if nav.nested-list02 %}
+                                            <ul class="d-lg-inline-block md-margin-15px-bottom">
+                                                {% for subcategory2 in nav.nested-list02 %}
+                                                <li class="dropdown-header">{{ subcategory2.nested }}</li>
+                                                    {% for subcategory2-items in subcategory2.list-items %}
+                                                    <li><a href="{{ subcategory2-items.href }}">{{ subcategory2-items.item }}</a></li>
+                                                    {% endfor %}
+                                                {% endfor %}
+                                            </ul>
+                                            {% endif %}
+                                            {% if nav.subcategories3 %}
+                                            <ul class="d-lg-inline-block md-margin-15px-bottom">
+                                                {% for subcategory3 in nav.subcategories3 %}
+                                                {% if subcategory3.subtitle-bold %}
+                                                <li class="dropdown-header">{{ subcategory3.subtitle-bold }}</li>
+                                                {% else %}  
+                                                <li><a href="{{ subcategory3.subhref }}">{{ subcategory3.subtitle }}</a></li>
+                                                {% endif %}
+                                                {% endfor %}
+                                            </ul>
+                                            {% endif %}
+                                            
+                                            <ul class="d-lg-inline-block d-none no-padding-right">
+                                                <li>
+                                                    <a href="{{ nav.image-link }}" class="menu-banner-image"><img src="{{ nav.image-href }}" alt=""/></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                
+                                {% endfor %}
+
+                                {% for nav in menu %}
+                                {% if  nav.title == "Blog" %}
+                                <li class="nav-item dropdown megamenu">
+                                    <a href="{{ nav.title-link }}" class="nav-link">{{ nav.title }}</a>
+                                    <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                                    <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
+                                        <div class="d-lg-flex justify-content-center">
+                                            <ul class="d-lg-inline-block md-margin-15px-bottom list-style-02">
+                                                {% for subcategory in nav.subcategories %}
+                                                {% if subcategory.subtitle-bold %}
+                                                <li class="dropdown-header">{{ subcategory.subtitle-bold }}</li>
+                                                
+                                                {% endif %}
+                                                {% endfor %}
+
+                                                {% assign posts = site[page.collection] | reverse | where_exp: "page" , "page.season contains season" %}
+                            
+                                                {% for blogpost in posts limit:8 %}
+                                                {% if blogpost.path contains "/posts/" %}
+                                                <li class=""><a href="{{ blogpost.url }}" 
+                                                    title="Lien vers l'aticle de blog {{ blogpost.title }}"><i class="feather icon-feather-arrow-right-circle text-large text-green position-relative margin-10px-right" aria-hidden="true"></i><span>{{ blogpost.post-title | truncate:60 }}</span></a></li>
+                                                {% endif %}
+                                                {% endfor %}
+
+                                                {% for subcategory in nav.subcategories %}
+                                                {% if subcategory.txt-button %}
+                                                <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-green d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ subcategory.txt-button }}</a></span>
+                                                {% endif %}
+                                                {% endfor %}
+                                            </ul>
+                                            
+                                            
+                                            <ul class="d-lg-inline-block d-none no-padding-right">
+                                                <li>
+                                                    <a href="{{ nav.image-link }}" class="menu-banner-image"><img src="{{ nav.image-href }}" alt=""/></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                {% endif %}
+                                {% endfor %}
+                            </ul>
+                        </div>
+                         <!-- End menu -->
+                    </div> 
+                    <div class="col-auto col-lg-3 text-end hidden-xs px-lg-0">
+                        <div class="header-social-icon d-inline-block">
+
+                            <a href="/{{ language }}/{{ site.data.config.[language].season.[opposite_season]name }}" title="{{ site.data.config.[language].season.[opposite_season]icon-link-title }}"><i class="feather {{ site.data.config.[language].season.[opposite_season]icon }}"></i></a>
+                          
+                            <a href="/{{ opposite_language }}/{{ site.data.config.[opposite_language].season.[season]name }}" title="{{ site.data.config.[opposite_language].changelang }}">{{ opposite_language }}</a>
+
+                            <a href="{{ site.data.config.facebook.facebook_username }}" title="{{ site.data.config.facebook.title }}" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                            <a href="{{ site.data.config.instagram.instagram_username }}" title="{{ site.data.config.instagram.title }}" target="_blank"><i class="fab fa-instagram"></i></a>
+                            <a href="{{ site.data.config.linkedin.linkedin_username }}" title="{{ site.data.config.linkedin.title }}" target="_blank"><i class="fab fa-linkedin"></i></a>
+                            {% comment %}
+                            <a href="/{{ language }}/{{ season_language }}/contact" title="{{ site.data.config.[page.language].contact.icon-link-title }}"><i class="feather icon-feather-mail"></i></a>
+                            {% endcomment %}
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <!-- end header -->

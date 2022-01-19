@@ -1,0 +1,50 @@
+list:
+ - top-level: 
+      title: Activites   
+      href: /fr/hiver/
+   nested-list01:
+    - nested: Activités ski
+      list-items:
+        - item: ski alpin
+          href: /fr/hiver/ski-alpin
+        - item: ski de randonnée
+          href: /fr/hiver/ski-rando
+        - item: ski de freeride
+          href: /fr/hiver/ski-rando
+    - nested: Activités non ski
+      list-items:
+        - item: luge
+          href: /fr/hiver/ski-alpin
+        - item: raquette
+          href: /fr/hiver/ski-rando
+   nested-list02:
+    - nested: Autres
+      list-items:
+        - item: 1
+          href: /fr/hiver/ski-alpin
+        - item: 2
+          href: /fr/hiver/ski-rando
+        - item: 3
+          href: /fr/hiver/ski-rando
+ - top-level: 
+      title: Conseils
+      href: /fr/hiver/
+   nested-list01:
+    - nested: Matériel
+      list-items:
+        - item: ski piste
+          href: /fr/hiver/ski-alpin
+        - item: chaussures
+          href: /fr/hiver/ski-rando
+    - nested: Apprendre
+      list-items:
+        - item: le ski
+          href: /fr/hiver/ski-alpin
+        - item: le snow
+          href: /fr/hiver/ski-rando
+ - top-level: 
+      title: Destinations
+      href: /fr/hiver/
+ - top-level: 
+      title: Team ZE-HERO
+      href: /fr/hiver/
