@@ -52,5 +52,21 @@ page_sections:
     d'avoir un guide, c'est de pouvoir randonnée tout en apprenant, en comprenant
     mieux la montagne sur tout son écosystème. "
   title: ''
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883628/website/summer/Paysage-montagne-randonnee_okgfs3.jpg
+  captionabovetitle: La liberté à l'état pur
+  title: Un moment d'évasion
+  gridline1title: Partez à la journée ou plusieurs jours
+  gridline1content: 'Vous pouvez partir à la journée pour une belle randonnée ou alors
+    partir plusieurs jours. Vous pourrez alors soit dormir en refuge soit bivouaquer.
+    Attention de prendre lire les règlements surtout si vous êtes dans le cœur d''un
+    parc national. '
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883623/website/summer/Tente-aventure-plein-air_ksfsyq.jpg
+  gridline2title: Partez découvrir des régions
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-henrik-pfitzenmaier-6916165_efoi8c.jpg
+  gridline2content: La randonnée se pratique toute l'année mais c'est dès que la neige
+    fondra que vous pourrez pleinement profiter des sentiers en montagne. En France,
+    on retrouve un panel incroyable de lieux, de GR, de chemin qui font le bonheur
+    de tous les amoureux de la randonnée en montagne.
 
 ---
