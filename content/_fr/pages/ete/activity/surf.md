@@ -24,6 +24,37 @@ page_sections:
     le surf demande également d'avoir des connaissances au niveau de ces éléments.
     \n\nC'est une activité de glisse qui demande une bonne conditions physique, de
     l'équilibre et ensuite de connaitre également l'environnement dans lequel on évolue."
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642605798/website/summer/victoria-palacios-scIXeTCipZA-unsplash_dhmqlq.jpg
+  captiontitleuppercase: Le surf pour tout le monde
+  title: Apprenez à surfer
+  content: Le surf s'apprend difficile seul, sans l'aide de moniteur. Tout d'abord
+    il faut bien choisir sa planche et sa taille. On ne débutera pas avec des planches
+    petites mais généralement des longues planches qui permettrons de partir plus
+    facilement sur une vague. De plus, les planches de surf seront généralement en
+    mousse pour les débutants. Ensuite il faut connaitre les spots de surf, car les
+    vagues se formes en fonction des baïns. Plus haut dans l'Atlantique, on peut retrouver
+    des vagues proches des roches, avec de fort courant. La technique de surf demande
+    d'avoir des conseils. Le take-off c'est le fait de se lever sur la planche le
+    plus rapidement et efficacement possible afin de bien glisser sur la vague.
+- template: textarea
+  content: "Vous pourrez alors faire des cours collectifs ou des cours privés. Les
+    cours collectifs seront moins chers mais le moniteurs ne sera pas 100% dédiée
+    à vous. Mais vous pourrez profiter de l'ambiance et de l'émulsion du groupe. Il
+    existe aussi beaucoup de Surf Camp qui permettent d'avoir des cours de surf en
+    proposant également le logement et la restauration.  \nLes cours de Surf peuvent
+    fluctuer en fonction des marées. Les heures de cours  changeront alors selon les
+    heures des marées.  \nEn surf, les vagues ne s'étirent pas sur tout l'océan et
+    comme évoqué plus haut, il y a des zones où les vagues se forment. De ce fait,
+    il peut y avoir beaucoup de monde au même endroit. C'est pour cela qu'il est important
+    de bien apprendre à surfer et de connaitre les règles du surf (priorité la personne
+    de notre droite).\n\nLorsque l'on débute, on va d'abord commencer par apprendre
+    à surfer les mousses, ce qui permet d'etre au bord, de ne pas s'épuiser à aller
+    au pic. Mais s'est également avoir une mousse qui permettre d'apprendre à bien
+    se levé. Une fois que ce niveau est acquis, vous commencerez à essayer de prendre
+    les vagues qui se forment plus au larges et de bien réussir son départ sur la
+    vague."
+  title: ''
 published: false
 
 ---
