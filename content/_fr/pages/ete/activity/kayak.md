@@ -23,6 +23,19 @@ page_sections:
     permet de passer dans des rapides et demandera plus de technique et de condition
     physique afin de bien gérer les cours d'eau plus rapide et puissant.
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
+  captiontitleuppercase: Plusieurs styles de Kayak
+  title: Lac, mer et rivière
+  content: Le kayak peut se pratique dans plusieurs lieux. Vous allez pouvoir faire
+    du kayak sur lac et vous pourrez alors profitez de randonner et de découvrir le
+    lac d'une autre façon. Les lacs peuvent également se trouver entourés de montagnes
+    ce qui rend la balade encore plus belle. Vous allez également avoir le Kayak sur
+    mer. La randonnée sur mer en kayak vous permettra de longer les littoraux, de
+    découvrir des petites criques, des plages secrète, de naviguer en mer et de profiter
+    de plonger et de regarder les poissons. Pour finir, vous retrouver le kayak de
+    rivière qui permet de faire des randonnée mais également d'avoir des zones plus
+    techniques et physiques avec les rapides, les petites cascades.
 published: false
 
 ---
