@@ -100,8 +100,9 @@ menu:
   column-02:
 - top-level:
     title: 'e-Shop'
+    id: eshop
     title-link: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
-    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/v1639991251/website/winter/skis-occasion_vcqy77.png'
+    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/v1642604106/website/winter/ScreenShot_Tool_-20220119155142_isdxtn.png'
     image-alt: Capture d'écran de la boutique en ligne ZE-HERO
     image-link: 'https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion'
     txt-button: Entrer dans le e-Shop
@@ -119,6 +120,7 @@ menu:
   column-02:
 - top-level:
     title: 'Blog'
+    id: blog
     title-link: /fr/hiver/blog
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg'
     image-alt: Un campeur se prépare un thé dans une cabane en montagne en lisant une carte et un guide

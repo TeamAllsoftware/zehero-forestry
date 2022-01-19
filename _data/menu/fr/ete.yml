@@ -97,10 +97,11 @@ menu:
   column-02: 
 - top-level:
     title: e-Shop
-    title-link: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
-    image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639991251/website/winter/skis-occasion_vcqy77.png
+    id: eshop
+    title-link: https://fr.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
+    image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642604271/website/summer/eshop-ze-hero-activites-ete_mhzdw2.png
     image-alt: Image illustrant la boutique en ligne ZE HERO
-    image-link: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+    image-link: https://fr.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
     txt-button: Entrer dans le e-Shop
   column-01:
   - nested: Acheter, louer, réserver en ligne
@@ -116,6 +117,7 @@ menu:
   column-02: 
 - top-level:
     title: Blog
+    id: blog
     title-link: "/fr/ete/blog"
     image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg
     image-alt: Un campeur se prépare un thé dans une cabane en montagne en lisant une carte et un guide

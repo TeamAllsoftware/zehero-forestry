@@ -38,7 +38,7 @@
                         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                             <ul class="navbar-nav alt-font">
                                 {% for nav in menu.menu %}
-                                {% if nav.top-level.title != "Blog" %}
+                                {% if nav.top-level.id != "blog" %}
                                 <li class="nav-item dropdown megamenu">
                                     <a href="{{ nav.top-level.title-link }}" class="nav-link">{{ nav.top-level.title }}</a>
                                     <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
@@ -80,8 +80,10 @@
                                             
                                             <ul class="d-lg-inline-block d-none no-padding-right">
                                                 <li>
-                                                    {% capture download_note %}{{ nav.top-level.image-href }}{% endcapture %} 
-                                                    <a href="{{ nav.top-level.image-link }}" class="menu-banner-image" title="{{ config.various.link-to }} {{ nav.top-level.title }}"><img src="{% include image.html file=download_note sizevar="" width="400" height="600" %}" alt="{{ nav.top-level.image-alt }}"/></a>
+                                                    <a href="{{ nav.top-level.image-link }}" class="menu-banner-image" title="{{ config.various.link-to }} {{ nav.top-level.title }}">
+                                                        {% capture download_note %}{{ nav.top-level.image-href }}{% endcapture %} 
+                                                        <img src="{% include image.html file=download_note sizevar="" width="400" height="600" %}" alt="{{ nav.top-level.image-alt }}"/>
+                                                    </a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -91,7 +93,7 @@
                                 {% endfor %}
 
                                 {% for nav in menu.menu %}
-                                {% if  nav.top-level.title == "Blog" %}
+                                {% if  nav.top-level.id == "blog" %}
                                 <li class="nav-item dropdown megamenu">
                                     <a href="{{ nav.top-level.title-link }}" class="nav-link">{{ nav.top-level.title }}</a>
                                     <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
