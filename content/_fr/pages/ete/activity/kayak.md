@@ -57,8 +57,8 @@ page_sections:
     pour randonner à la journée tel que les Calanques, le Cap d'Antibes et l'Esterel,
     Porquerolles et la Corse.  \nEnsuite on va retrouver le kayak sur lac avec l'incontournable
     lac de St Croix, le lac d'Annecy, le Lac de St Cassien, le lac de Serre Ponçon.
-    \  \nPour finir, vous pourrez partir sur des les rivières et faire du kayak dans
+    \ \nPour finir, vous pourrez partir sur des les rivières et faire du kayak dans
     les gorges de l'Ardeche, les gorges du Tarn, les gorges du Verdon ainsi que dans
-    la Roya Vésubie"
+    la Roya Vésubie."
 
 ---
