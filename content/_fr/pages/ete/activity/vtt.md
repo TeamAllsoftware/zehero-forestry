@@ -55,5 +55,20 @@ page_sections:
     le niveau de la descente. Vous pourrez alors retrouver du bleu, du rouge et du
     noir. Cela vous donnera une bonne indication afin de ne pas plongez dans une noire
     alors que c'est votre 1er fois en VTT. Vous risquerez de vite descendre du VTT."
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592263/website/summer/pexels-daniel-frank-10883501_bmmpot.jpg
+  captionabovetitle: Dépensez vous en vous amusant
+  title: Evasion et plaisir
+  gridline1title: Le VTT comme moment de partage
+  gridline1content: Selon vos désirs, vous pouvez faire de la randonnée plaisir ou
+    plus technique. Vous pourrez également partir à la journée afin de faire une vrai
+    visite des lieux et profiter des descentes. Si vous le souhaitez, vous pouvez
+    également faire uniquement de la descente pour des sensations fortes.
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592263/website/summer/pexels-eberhard-grossgasteiger-5274203_pvfoq7.jpg
+  gridline2title: En famille, entre amis
+  gridline2content: Le VTT est aussi une activité que se partage et vous pouvez partir
+    en groupe même si les niveaux peuvent parfois être différents. Equipez vous pour,
+    en mettant également les différentes protections dont le casque et partez rouler.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638824911/website/summer/tom-conway-dU2HDmE_tgw-unsplash_pqlalr.jpg
 
 ---
