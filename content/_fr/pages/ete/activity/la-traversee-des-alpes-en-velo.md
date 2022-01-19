@@ -13,16 +13,16 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642520843/webs
 image01_alt: Groupe de 3 personnes faisant du vélo sur une route bordée de pins
 page_sections:
 - template: textarea
-  content: "La grande traversée des Alpes en vélo est un voyage incroyable à travers
+  content: "La grande traversée des Alpes à vélo est un voyage incroyable à travers
     des paysages et des lieux uniques. Cette activité sportive permet de découvrir
     les cols mythiques, des traversées magiques et de partager des moments riches
-    en émotions et en sensation. \n\nAujourd'hui, il existe plusieurs trajets et une
-    possibilité toujours plus large d'itinéraire à vélo. Il est donc possible de faire
+    en émotions et en sensation.\n\nAujourd’hui, il existe plusieurs trajets et une
+    possibilité toujours plus large d’itinéraire à vélo. Il est donc possible de faire
     énormément de parcours plus dur, plus facile, plus long ou plus court etc.  \nLa
     traversée proposée ici chez Ze Hero est une traversée des Alpes à Vélo parcourant
-    donc environ 630km avec 15 000 D+. Cette activité est donc réservé à des pratiquants
-    de vélo qui sont entrainés et prêts physiquement à enchainer des journées de 100km
-    à 130km avec 3000/3500 de dénivelé."
+    ainsi environ 630 km avec 15 000 D+. Cette activité est alors réservée à des pratiquants
+    de vélo qui sont entrainés et prêts physiquement à enchainer des journées de 100
+    km à 130 km avec 3000/3500 de dénivelé."
   title: La grande traversée des Alpes en vélo
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521349/website/V%C3%A9lo/traversee-pre-alpes_mmfnjh.png
@@ -30,19 +30,19 @@ page_sections:
   title: Vivez une expérience inoubliable
   content: Cette traversée des Alpes à vélo est une activité vous permettant de penser
     seulement à rouler, de profiter de la vue et des personnes avec qui vous serez.
-    Toute est pris en charge, que ce soit les ravitaillements, les hôtels, la restauration,
+    Tout est pris en charge, que ce soit les ravitaillements, les hôtels, la restauration,
     vos rechanges ainsi que la récupération. Ze Hero va s'occuper de tout, et vous,
-    vous pourrez profiter pleinement d'être sur votre vélo et de vous concentrez pour
-    votre prochaines ascensions.
+    vous pourrez profiter pleinement d'être sur votre vélo et de vous concentrer pour
+    vos prochaines ascensions.
 - template: textarea
   title: Le parcours
   content: "Le parcours que nous proposons est donc de 630km avec environ 15 000 m
-    de dénivelé positif. Vous allez donc rejoindre Nice depuis la ville d'Annecy.
-    Ce trajet va se décomposer donc en 5 étapes avec 1 journée de repos, soit un total
-    de 6 jours.   \nEn résumé, si vous aimez les pentes qui s’élèvent alors vous serez
+    de dénivelé positif. Vous allez ainsi rejoindre Nice depuis la ville d'Annecy.
+    Ce trajet va se décomposer en 5 étapes avec 1 journée de repos, soit un total
+    de 6 jours.  \nEn résumé, si vous aimez les pentes qui s’élèvent alors vous serez
     servis ! Au départ d’Annecy vous traverserez les Aravis, le Beaufortin, la Haute
-    Tarentaise, la Maurienne, les Haute Alpes, sans oublier les Alpes du Sud pour,
-    finalement, traverser l’arrière pays Niçois et arriver à Nice."
+    Tarentaise, la Maurienne, les Hautes-Alpes, sans oublier les Alpes du Sud pour,
+    finalement, traverser l’arrière-pays Niçois et arriver à Nice."
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521345/website/V%C3%A9lo/ETAPE-1-GRANDS-COLS_aowgzr.png
   captiontitleuppercase: 'L''étape 1 '
@@ -66,11 +66,11 @@ page_sections:
   captiontitleuppercase: Etape 3
   title: Col du Galibier et Col de l’Izoard au programme
   content: 'Cette étape de vélo va s''avérer difficile. Vous allez commencer à sentir
-    les jambes lourdes et les km dans vos cuisses. De plus, cette journée comportent
+    les jambes lourdes et les km dans vos cuisses. De plus, cette journée comporte
     4 cols très réputés. Vous allez donc enchainer avec le col du Télégraphe, le col
     du Galibier, le col du Lauraret et le col de l''Izoard. La pause de midi se fera
     dans la ville de Briançon. La fin du parcours se fera à Guillestre pour une étape
-    de 118 kms / Dénivelé: 3423m D+'
+    de 118 km / Dénivelé: 3423m D+'
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-4-CAYOLLE_jiy3h9.png
   captiontitleuppercase: 'Etape 4 '
