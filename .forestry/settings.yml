@@ -25,6 +25,9 @@ sections:
   - blog-post
 - type: heading
   label: French hiver
+- type: document
+  path: _data/menu/fr/hiver.yml
+  label: HIVER menu header
 - type: directory
   path: content/_fr/pages/hiver/activity
   label: HIVER Activités
