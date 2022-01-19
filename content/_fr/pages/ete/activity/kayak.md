@@ -36,5 +36,29 @@ page_sections:
     de plonger et de regarder les poissons. Pour finir, vous retrouver le kayak de
     rivière qui permet de faire des randonnée mais également d'avoir des zones plus
     techniques et physiques avec les rapides, les petites cascades.
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883631/website/summer/Kayak-groupe-lac_l1awzz.jpg
+  captionabovetitle: Une randonnée rafraichissante
+  title: S'évader autrement
+  gridline1title: A plusieurs
+  gridline1content: Partez naviguer en kayak en famille, entre amis, en couple et
+    randonnez afin de découvrir les paysages. Vous pouvez soit louer votre kayak soit
+    prendre un accompagnateur qui vous fera des découvrir des lieux uniques.
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588329/website/summer/drew-dau-zMSkCFHSXTU-unsplash_tbki8m.jpg
+  gridline2title: Eau et Terre
+  gridline2content: En plus de randonner sur des zones magnifiques accessibles uniquement
+    en kayak, vous pourrez également accéder à des lieux sur terres et partir randonnée
+    à pied et profiter de pique-niquer avant de reprendre votre navigation.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588327/website/summer/art-rachen-aKqJCZSP4t4-unsplash_b1obn5.jpg
+- template: textarea
+  title: 'Les différents lieux '
+  content: "En France, il existe énormément de lieux où pratiquer le kayak. Vous allez
+    retrouver donc beaucoup de location et de randonnée sur mer avec des lieux parfaits
+    pour randonner à la journée tel que les Calanques, le Cap d'Antibes et l'Esterel,
+    Porquerolles et la Corse.  \nEnsuite on va retrouver le kayak sur lac avec l'incontournable
+    lac de St Croix, le lac d'Annecy, le Lac de St Cassien, le lac de Serre Ponçon.
+    \  \nPour finir, vous pourrez partir sur des les rivières et faire du kayak dans
+    les gorges de l'Ardeche, les gorges du Tarn, les gorges du Verdon ainsi que dans
+    la Roya Vésubie"
 
 ---
