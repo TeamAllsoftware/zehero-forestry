@@ -34,6 +34,5 @@ page_sections:
     parcours avec des virages relevé et parsemé de sauts, dans des passages techniques
     et raides. Partez, par la force de vos jambes à l'ascension de sommets accessible
     à vélo et des descentes bordées de cailloux et d'arbres.
-published: false
 
 ---
