@@ -3,7 +3,7 @@ layout: layout_activity
 language: fr
 season: summer
 topnav_color_text: dark
-title: Randonnée en montagne
+title: Randonner en montagne
 permalink: "/fr/ete/activite/randonnée-montagne"
 description: Pratiquez la randonnée en montagne ou en plaine à la découverte de la
   nature
@@ -52,5 +52,6 @@ page_sections:
     d'avoir un guide, c'est de pouvoir randonnée tout en apprenant, en comprenant
     mieux la montagne sur tout son écosystème. "
   title: ''
+published: false
 
 ---
