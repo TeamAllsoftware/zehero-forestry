@@ -68,5 +68,36 @@ page_sections:
     fondra que vous pourrez pleinement profiter des sentiers en montagne. En France,
     on retrouve un panel incroyable de lieux, de GR, de chemin qui font le bonheur
     de tous les amoureux de la randonnée en montagne.
+- template: textarea
+  content: |-
+    Partir randonner en montagne, c'est se renseigner tout d'abord sur le lieu et le parcours. Si vous savez lire une carte IGN, c'est encore mieux, car cela permet de bien se repérer en montagne et sur votre chemin. Il faut ensuite bien s'équiper pour la marche, c'est-à-dire :
+
+    * de bonnes chaussures de marche qui accrochent et qui maintiennent les chevilles (tige haute)
+    * des vêtements techniques respirants
+    * de bonnes chaussettes qui évite les frictions
+    * des vêtements chauds dans le sac parce qu'en montagne il peut faire froid très rapidement
+    * lunette et casquette
+    * crème solaire
+    * des bâtons pour ceux qui aiment s'appuyer dessus
+    * un sac à dos avec de l'eau, un piquenique, une petite trousse de secours
+
+    Cela évolue si vous partez pour une itinérance de plusieurs jours. Mais ce sont la base à avoir. Si vous êtes avec un enfant, n'oubliez pas de transporter également de l'eau pour lui.
+  title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-ian-beckley-2440078_ueovj0.jpg
+  captiontitleuppercase: Profiter de la montagne en la respectant
+  title: Où en faire ?
+  content: 'Il existe un choix énorme en France avec nos différentes montagneuses
+    tel que les Pyrénées, la Vanoise, le Jura, les Vosges, le Mercantour, les Bauges,
+    les Ecrins, le Queyras, la vallée de Chamonix et bien d''autre. On retrouve des
+    parcs bien différents avec des végétations qui changent, des lieux plus minérales
+    ou plus boisés, des lieux avec des glaciers et d''autres entourés de sapins. Vous
+    avez le choix, de plus les différents GR vous amènent à travers des lieux uniques. '
+- template: textarea
+  title: La montagne vous attend
+  content: Venez respirer l'air pur de la montagne, admirez les lacs de haute altitude,
+    regardez les chamois et leurs agilités incroyables, observez la pureté des fleurs
+    de montagne. Venez partager un moment de bien-être en marchands sur les sentiers
+    qui vous éloigne du monde et vous rapproche de la liberté.
 
 ---
