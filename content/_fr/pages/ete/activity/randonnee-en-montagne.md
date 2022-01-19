@@ -52,5 +52,6 @@ page_sections:
     d'avoir un guide, c'est de pouvoir randonnée tout en apprenant, en comprenant
     mieux la montagne sur tout son écosystème. "
   title: ''
+published: false
 
 ---
