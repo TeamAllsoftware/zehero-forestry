@@ -4,7 +4,7 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Randonner en montagne
-permalink: "/fr/ete/activite/randonnée-montagne"
+permalink: "/fr/ete/activite/randonnee-montagne"
 description: Pratiquez la randonnée en montagne ou en plaine à la découverte de la
   nature
 baseline: Découvrir, marcher et respirer
