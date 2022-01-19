@@ -1,6 +1,6 @@
 ---
 layout: layout_activity
-language: ''
+language: fr
 season: summer
 topnav_color_text: dark
 title: Kayak

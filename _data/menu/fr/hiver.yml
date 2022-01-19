@@ -3,6 +3,7 @@ menu:
     title: Activites
     title-link: /fr/hiver/activites
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg'
+    image-alt: Un skieur porte ses skis en montant une arrête pour descendre une voie en hors-piste
     image-link: "/fr/hiver/activites"
     txt-button: Toutes les activités
   column-01:
@@ -29,6 +30,7 @@ menu:
     title: Conseils
     title-link: /fr/hiver/conseils
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400,x_1360,y_515/v1638822422/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg'
+    image-alt: Un rack de télécabine rempli de ski
     image-link: "/fr/hiver/conseils"
     txt-button: 'Tous les conseils'
   column-01:
@@ -58,8 +60,9 @@ menu:
 - top-level:
     title: Destinations
     title-link: /fr/hiver/destinations
-    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822851/website/summer/clique-images-hSB2HmJYaTo-unsplash_fd9n1t.jpg'
-    image-link: "/fr/ete/"
+    image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg'
+    image-alt: Un skieur fait une randonnée en forêt enneigée
+    image-link: "/fr/hiver/"
     txt-button: 'Toutes les destinations'
   column-01:
   - nested: Les stations de montagne
@@ -83,8 +86,9 @@ menu:
       href: "/fr/hiver/station/antibes"
 - top-level:
     title: Team ZE HERO
-    title-link: /fr/hiver/team-zehero
+    title-link: /fr/ete/
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg'
+    image-alt: Une femme grimpe une voie d'escalade indoor
     image-link: "/fr/ete/"
   column-01:
   - nested: Les coachs
@@ -98,6 +102,7 @@ menu:
     title: 'e-Shop'
     title-link: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/v1639991251/website/winter/skis-occasion_vcqy77.png'
+    image-alt: Capture d'écran de la boutique en ligne ZE-HERO
     image-link: 'https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion'
     txt-button: Entrer dans le e-Shop
   column-01:
@@ -116,6 +121,7 @@ menu:
     title: 'Blog'
     title-link: /fr/hiver/blog
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg'
+    image-alt: Un campeur se prépare un thé dans une cabane en montagne en lisant une carte et un guide
     image-link: '/fr/hiver/blog'
     txt-button: Entrer dans le blog
   column-01:

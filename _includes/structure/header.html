@@ -80,7 +80,8 @@
                                             
                                             <ul class="d-lg-inline-block d-none no-padding-right">
                                                 <li>
-                                                    <a href="{{ nav.top-level.image-link }}" class="menu-banner-image"><img src="{{ nav.top-level.image-href }}" alt=""/></a>
+                                                    {% capture download_note %}{{ nav.top-level.image-href }}{% endcapture %} 
+                                                    <a href="{{ nav.top-level.image-link }}" class="menu-banner-image" title="{{ config.various.link-to }} {{ nav.top-level.title }}"><img src="{% include image.html file=download_note sizevar="" width="400" height="600" %}" alt="{{ nav.top-level.image-alt }}"/></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -123,7 +124,8 @@
                                             
                                             <ul class="d-lg-inline-block d-none no-padding-right">
                                                 <li>
-                                                    <a href="{{ nav.top-level.image-link }}" class="menu-banner-image"><img src="{{ nav.top-level.image-href }}" alt=""/></a>
+                                                    {% capture download_note %}{{ nav.top-level.image-href }}{% endcapture %} 
+                                                    <a href="{{ nav.top-level.image-link }}" class="menu-banner-image" title="{{ config.various.link-to }} {{ nav.top-level.title }}"><img src="{% include image.html file=download_note sizevar="" width="400" height="600" %}" alt="{{ nav.top-level.image-alt }}"/></a>
                                                 </li>
                                             </ul>
                                         </div>
