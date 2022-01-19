@@ -36,6 +36,5 @@ page_sections:
     de plonger et de regarder les poissons. Pour finir, vous retrouver le kayak de
     rivière qui permet de faire des randonnée mais également d'avoir des zones plus
     techniques et physiques avec les rapides, les petites cascades.
-published: false
 
 ---
