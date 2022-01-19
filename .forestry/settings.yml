@@ -56,6 +56,10 @@ sections:
   match: "**/*"
 - type: heading
   label: French été
+- type: document
+  path: _data/menu/fr/ete.yml
+  label: ETE menu header
+  match: "**/*"
 - type: directory
   path: content/_fr/pages/ete/activity
   label: ETE Activités
