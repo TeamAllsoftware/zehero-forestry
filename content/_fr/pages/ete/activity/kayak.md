@@ -60,6 +60,5 @@ page_sections:
     \  \nPour finir, vous pourrez partir sur des les rivières et faire du kayak dans
     les gorges de l'Ardeche, les gorges du Tarn, les gorges du Verdon ainsi que dans
     la Roya Vésubie"
-published: false
 
 ---
