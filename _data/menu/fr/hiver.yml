@@ -25,7 +25,6 @@ menu:
       href: /fr/hiver/activite/raquettes
     - title: 'Surf'
       href: /fr/hiver/activite/surf
-  column-03:
 - top-level:
     title: Conseils
     title-link: /fr/hiver/conseils
@@ -56,7 +55,6 @@ menu:
       href: "/fr/hiver/activite/coaching-sportif"
     - title: "Comment se préparer physiquement pour le ski"
       href: "/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski"
-  column-03:
 - top-level:
     title: Destinations
     title-link: /fr/hiver/destinations
@@ -83,7 +81,6 @@ menu:
     menu-items:
     - title: "Antibes"
       href: "/fr/hiver/station/antibes"
-  column-03:
 - top-level:
     title: Team ZE HERO
     title-link: /fr/hiver/team-zehero
@@ -97,7 +94,6 @@ menu:
     - title: "Nathan Alarçon"
       href: "/fr/hiver/coach/nathan-alarcon"
   column-02:
-  column-03:
 - top-level:
     title: 'e-Shop'
     title-link: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
@@ -116,7 +112,6 @@ menu:
     - title: "Louer un snowboard"
       href: "https://fr.ze-hero.com/location-materiel/location-snowboard/location-snowboard-adulte"
   column-02:
-  column-03:
 - top-level:
     title: 'Blog'
     title-link: /fr/hiver/blog
