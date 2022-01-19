@@ -37,29 +37,39 @@
                          <!-- Start menu -->
                         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                             <ul class="navbar-nav alt-font">
-                                {% for nav in menu.list %}
-                                
+                                {% for nav in menu %}
+                                {% if nav.subcategories != null and nav.title != "Blog" %}
                                 <li class="nav-item dropdown megamenu">
-                                    <a href="{{ nav.top-level.href }}" class="nav-link">{{ nav.top-level.title }}</a>
+                                    <a href="{{ nav.title-link }}" class="nav-link">{{ nav.title }}</a>
                                     <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                                     <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
                                         <div class="d-lg-flex justify-content-center">
                                             <ul class="d-lg-inline-block md-margin-15px-bottom">
-                                                {% for subcategory1 in nav.nested-list01 %}
-                                                <li class="dropdown-header">{{ subcategory1.nested }}</li>
-                                                    {% for subcategory1-items in subcategory1.list-items %}
-                                                    <li><a href="{{ subcategory1-items.href }}">{{ subcategory1-items.item }}</a></li>
-                                                    {% endfor %}
+                                                {% for subcategory in nav.subcategories %}
+                                                {% if subcategory.subtitle-bold %}
+                                                <li class="dropdown-header">{{ subcategory.subtitle-bold }}</li>
+                                                {% elsif subcategory.external %}
+                                                <li><a href="{{ subcategory.external.subhref }}">{{ subcategory.external.subtitle }}</a></li>
+                                                {% elsif subcategory.subtitle %}  
+                                                <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                                                {% elsif subcategory.txt-button %}
+                                                <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-green d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ subcategory.txt-button }}</a></span>
+                                                {% endif %}
                                                 {% endfor %}
+                                                
+                                                
                                             </ul>
 
-                                            {% if nav.nested-list02 %}
+                                            {% if nav.subcategories2 %}
                                             <ul class="d-lg-inline-block md-margin-15px-bottom">
-                                                {% for subcategory2 in nav.nested-list02 %}
-                                                <li class="dropdown-header">{{ subcategory2.nested }}</li>
-                                                    {% for subcategory2-items in subcategory2.list-items %}
-                                                    <li><a href="{{ subcategory2-items.href }}">{{ subcategory2-items.item }}</a></li>
-                                                    {% endfor %}
+                                                {% for subcategory2 in nav.subcategories2 %}
+                                                {% if subcategory2.subtitle-bold %}
+                                                <li class="dropdown-header">{{ subcategory2.subtitle-bold }}</li>
+                                                {% elsif subcategory2.external %}
+                                                <li><a href="{{ subcategory2.external.subhref }}">{{ subcategory2.external.subtitle }}</a></li>
+                                                {% else %}  
+                                                <li><a href="{{ subcategory2.subhref }}">{{ subcategory2.subtitle }}</a></li>
+                                                {% endif %}
                                                 {% endfor %}
                                             </ul>
                                             {% endif %}
@@ -68,6 +78,8 @@
                                                 {% for subcategory3 in nav.subcategories3 %}
                                                 {% if subcategory3.subtitle-bold %}
                                                 <li class="dropdown-header">{{ subcategory3.subtitle-bold }}</li>
+                                                {% elsif subcategory3.external %}
+                                                <li><a href="{{ subcategory3.external.subhref }}">{{ subcategory3.external.subtitle }}</a></li>
                                                 {% else %}  
                                                 <li><a href="{{ subcategory3.subhref }}">{{ subcategory3.subtitle }}</a></li>
                                                 {% endif %}
@@ -83,7 +95,7 @@
                                         </div>
                                     </div>
                                 </li>
-                                
+                                {% endif %}
                                 {% endfor %}
 
                                 {% for nav in menu %}

@@ -37,59 +37,50 @@
                          <!-- Start menu -->
                         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                             <ul class="navbar-nav alt-font">
-                                {% for nav in menu %}
-                                {% if nav.subcategories != null and nav.title != "Blog" %}
+                                {% for nav in menu.list %}
+                                {% if nav.top-level.title != "Blog" %}
                                 <li class="nav-item dropdown megamenu">
-                                    <a href="{{ nav.title-link }}" class="nav-link">{{ nav.title }}</a>
+                                    <a href="{{ nav.top-level.title-link }}" class="nav-link">{{ nav.top-level.title }}</a>
                                     <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                                     <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
                                         <div class="d-lg-flex justify-content-center">
                                             <ul class="d-lg-inline-block md-margin-15px-bottom">
-                                                {% for subcategory in nav.subcategories %}
-                                                {% if subcategory.subtitle-bold %}
-                                                <li class="dropdown-header">{{ subcategory.subtitle-bold }}</li>
-                                                {% elsif subcategory.external %}
-                                                <li><a href="{{ subcategory.external.subhref }}">{{ subcategory.external.subtitle }}</a></li>
-                                                {% elsif subcategory.subtitle %}  
-                                                <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
-                                                {% elsif subcategory.txt-button %}
-                                                <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-green d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ subcategory.txt-button }}</a></span>
-                                                {% endif %}
+                                                {% for subcategory1 in nav.nested-list01 %}
+                                                <li class="dropdown-header">{{ subcategory1.nested }}</li>
+                                                    {% for subcategory1-items in subcategory1.list-items %}
+                                                    <li><a href="{{ subcategory1-items.href }}">{{ subcategory1-items.item }}</a></li>
+                                                    {% endfor %}
                                                 {% endfor %}
-                                                
-                                                
+
+                                                {% if nav.top-level.txt-button %}
+                                                <span><a href="{{ nav.top-level.title-link }}" class="margin-25px-top btn btn-medium btn-green d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ nav.top-level.txt-button }}</a></span>
+                                                {% endif %}
                                             </ul>
 
-                                            {% if nav.subcategories2 %}
+                                            {% if nav.nested-list02 %}
                                             <ul class="d-lg-inline-block md-margin-15px-bottom">
-                                                {% for subcategory2 in nav.subcategories2 %}
-                                                {% if subcategory2.subtitle-bold %}
-                                                <li class="dropdown-header">{{ subcategory2.subtitle-bold }}</li>
-                                                {% elsif subcategory2.external %}
-                                                <li><a href="{{ subcategory2.external.subhref }}">{{ subcategory2.external.subtitle }}</a></li>
-                                                {% else %}  
-                                                <li><a href="{{ subcategory2.subhref }}">{{ subcategory2.subtitle }}</a></li>
-                                                {% endif %}
+                                                {% for subcategory2 in nav.nested-list02 %}
+                                                <li class="dropdown-header">{{ subcategory2.nested }}</li>
+                                                    {% for subcategory2-items in subcategory2.list-items %}
+                                                    <li><a href="{{ subcategory2-items.href }}">{{ subcategory2-items.item }}</a></li>
+                                                    {% endfor %}
                                                 {% endfor %}
                                             </ul>
                                             {% endif %}
-                                            {% if nav.subcategories3 %}
+                                            {% if nav.nested-list03 %}
                                             <ul class="d-lg-inline-block md-margin-15px-bottom">
-                                                {% for subcategory3 in nav.subcategories3 %}
-                                                {% if subcategory3.subtitle-bold %}
-                                                <li class="dropdown-header">{{ subcategory3.subtitle-bold }}</li>
-                                                {% elsif subcategory3.external %}
-                                                <li><a href="{{ subcategory3.external.subhref }}">{{ subcategory3.external.subtitle }}</a></li>
-                                                {% else %}  
-                                                <li><a href="{{ subcategory3.subhref }}">{{ subcategory3.subtitle }}</a></li>
-                                                {% endif %}
+                                                {% for subcategory3 in nav.nested-list03 %}
+                                                <li class="dropdown-header">{{ subcategory3.nested }}</li>
+                                                    {% for subcategory3-items in subcategory3.list-items %}
+                                                    <li><a href="{{ subcategory3-items.href }}">{{ subcategory3-items.item }}</a></li>
+                                                    {% endfor %}
                                                 {% endfor %}
                                             </ul>
                                             {% endif %}
                                             
                                             <ul class="d-lg-inline-block d-none no-padding-right">
                                                 <li>
-                                                    <a href="{{ nav.image-link }}" class="menu-banner-image"><img src="{{ nav.image-href }}" alt=""/></a>
+                                                    <a href="{{ nav.top-level.image-link }}" class="menu-banner-image"><img src="{{ nav.top-level.image-href }}" alt=""/></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -98,41 +89,41 @@
                                 {% endif %}
                                 {% endfor %}
 
-                                {% for nav in menu %}
-                                {% if  nav.title == "Blog" %}
+                                {% for nav in menu.list %}
+                                {% if  nav.top-level.title == "Blog" %}
                                 <li class="nav-item dropdown megamenu">
-                                    <a href="{{ nav.title-link }}" class="nav-link">{{ nav.title }}</a>
+                                    <a href="{{ nav.top-level.title-link }}" class="nav-link">{{ nav.top-level.title }}</a>
                                     <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                                     <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
                                         <div class="d-lg-flex justify-content-center">
                                             <ul class="d-lg-inline-block md-margin-15px-bottom list-style-02">
-                                                {% for subcategory in nav.subcategories %}
-                                                {% if subcategory.subtitle-bold %}
-                                                <li class="dropdown-header">{{ subcategory.subtitle-bold }}</li>
-                                                
-                                                {% endif %}
+                                                {% for subcategory1 in nav.nested-list01 %}
+                                                <li class="dropdown-header">{{ subcategory1.nested }}</li>
+                                                    {% for subcategory1-items in subcategory1.list-items %}
+                                                    <li><a href="{{ subcategory1-items.href }}">{{ subcategory1-items.item }}</a></li>
+                                                    {% endfor %}
                                                 {% endfor %}
 
                                                 {% assign posts = site[page.collection] | reverse | where_exp: "page" , "page.season contains season" %}
                             
-                                                {% for blogpost in posts limit:8 %}
+                                                {% for blogpost in posts limit:6 %}
                                                 {% if blogpost.path contains "/posts/" %}
                                                 <li class=""><a href="{{ blogpost.url }}" 
                                                     title="Lien vers l'aticle de blog {{ blogpost.title }}"><i class="feather icon-feather-arrow-right-circle text-large text-green position-relative margin-10px-right" aria-hidden="true"></i><span>{{ blogpost.post-title | truncate:60 }}</span></a></li>
                                                 {% endif %}
                                                 {% endfor %}
 
-                                                {% for subcategory in nav.subcategories %}
-                                                {% if subcategory.txt-button %}
-                                                <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-green d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ subcategory.txt-button }}</a></span>
+                                                
+                                                {% if nav.top-level.txt-button %}
+                                                <span><a href="{{ nav.top-level.title-link }}" class="margin-25px-top btn btn-medium btn-green d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ nav.top-level.txt-button }}</a></span>
                                                 {% endif %}
-                                                {% endfor %}
+                                               
                                             </ul>
                                             
                                             
                                             <ul class="d-lg-inline-block d-none no-padding-right">
                                                 <li>
-                                                    <a href="{{ nav.image-link }}" class="menu-banner-image"><img src="{{ nav.image-href }}" alt=""/></a>
+                                                    <a href="{{ nav.top-level.image-link }}" class="menu-banner-image"><img src="{{ nav.top-level.image-href }}" alt=""/></a>
                                                 </li>
                                             </ul>
                                         </div>
