@@ -4,7 +4,7 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: VTT
-permalink: "/fr/hiver/activite/vtt"
+permalink: "/fr/ete/activite/vtt"
 description: La pratique du VTT permet de faire le plein de sensation, de se dépenser
   physiquement, et de découvrir des lieux et une nature magnifique.
 baseline: Vitesse, sensation et physique
@@ -34,5 +34,6 @@ page_sections:
     parcours avec des virages relevé et parsemé de sauts, dans des passages techniques
     et raides. Partez, par la force de vos jambes à l'ascension de sommets accessible
     à vélo et des descentes bordées de cailloux et d'arbres.
+published: false
 
 ---
