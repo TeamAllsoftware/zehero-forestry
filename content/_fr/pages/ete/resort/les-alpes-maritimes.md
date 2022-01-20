@@ -32,6 +32,24 @@ page_sections:
     Valberg, St Etienne de Tinée, St Martin de Vésubie...   \nUne région qui a beaucoup
     a offrir et dont vous ne pourrez vous ennuyer. "
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642687610/website/summer/romain-gal-0W-fADtvFuk-unsplash_h5vu9x.jpg
+  captiontitleuppercase: 'La mer '
+  title: Le littoral des Alpes Maritimes
+  content: 'Il y a énormément de petit coin de paradis le long du littoral qui longe
+    toute les Alpes Maritimes. On peut y faire des randonnées, du trail et de la course
+    à pied. L''automne et l''hiver, on y peut faire également un peu du surf sur la
+    méditerranée, dans certaines secteurs. Vous avez également de magnifiques balades
+    et randonnée en kayak de mer et en paddle. On peut bien-sûr plonger et aller observer
+    les poissons. On retrouve également les sports d''eau et de glisse comme le kite,
+    le Foil, le E-foil et le wakeboard. Toutes les stations balnéaires offrent différentes
+    activités. '
+- template: textarea
+  content: 'Vous y retrouverez des villages colorés et typique comme Menton ou Eze.
+    Vous pourrez randonnée ou courir sur les sentiers du littoral de Saint Jean Cap
+    Ferrat, le Cap d''Antibes. Vous retrouverez un choix variés d''activités sensationnels,
+    de découvertes, ludiques et sportive que ce soit sur terre ou sur mer sur le littoral. '
+  title: ''
 published: false
 
 ---
