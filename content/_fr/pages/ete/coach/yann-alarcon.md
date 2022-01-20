@@ -1,12 +1,12 @@
 ---
 layout: layout_coach
 language: fr
-season: winter
+season: summer
 description: Un coach pour votre préparation physique et vos prochains défis, que
   vous soyez débutant, amateur ou expert
 topnav_color_text: dark
 title: Yann Alarçon, coach et préparateur physique
-permalink: "/fr/hiver/coach/yann-alarcon"
+permalink: "/fr/ete/coach/yann-alarcon"
 s01:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642065243/website/Coaching/IMG_20210716_180932_893_idwzlg.jpg
   firstname: Yann

@@ -18,35 +18,71 @@ sections:
   label: FRENCH
 - type: directory
   path: content/_fr/posts
-  label: FR blog Posts
+  label: BLOG Posts
   create: documents
   match: "**/*"
   templates:
   - blog-post
+- type: heading
+  label: French hiver
+- type: document
+  path: _data/menu/fr/hiver.yml
+  label: HIVER menu header
 - type: directory
   path: content/_fr/pages/hiver/activity
-  label: Activités hiver
+  label: HIVER Activités
   create: documents
   match: "**/*"
   templates:
   - activity-page
 - type: directory
   path: content/_fr/pages/hiver/resort
-  label: Resorts hiver
+  label: HIVER Resorts
   create: documents
   match: "**/*"
   templates:
   - resort-page
 - type: directory
   path: content/_fr/pages/hiver/advice
-  label: Conseil hiver
+  label: HIVER Conseils
   create: documents
   match: "**/*"
   templates:
   - advice-page
 - type: directory
   path: content/_fr/pages/hiver/coach
-  label: Coach hiver
+  label: HIVER Coachs
+  create: documents
+  match: "**/*"
+- type: heading
+  label: French été
+- type: document
+  path: _data/menu/fr/ete.yml
+  label: ETE menu header
+- type: directory
+  path: content/_fr/pages/ete/activity
+  label: ETE Activités
+  create: documents
+  match: "**/*"
+  templates:
+  - activity-page
+- type: directory
+  path: content/_fr/pages/ete/resort
+  label: ETE Resorts
+  create: documents
+  match: "**/*"
+  templates:
+  - resort-page
+- type: directory
+  path: content/_fr/pages/ete/advice
+  label: ETE Conseils
+  create: documents
+  match: "**/*"
+  templates:
+  - advice-page
+- type: directory
+  path: content/_fr/pages/ete/coach
+  label: ETE Coachs
   create: documents
   match: "**/*"
 - type: heading

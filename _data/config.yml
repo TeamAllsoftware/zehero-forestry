@@ -69,6 +69,9 @@ fr:
     txt05: En direct du blog
     txt06: Les derniers articles
     txt07: Lien vers l'aticle de blog
+  various:
+    readmore: Lire la suite
+    link-to: Lien vers la page
 
 en:
   changelang: Navigate this website in english
@@ -110,7 +113,10 @@ en:
     txt04: subscribe
     txt05: Live from the blog
     txt06: Our latest blog posts
-    txt07: Link to blog post 
+    txt07: Link to blog post
+  various:
+    readmore: Read more
+    link-to: Lien vers la page
 
 #Image resizing by cloudinary
 #Cloudinary
@@ -122,7 +128,7 @@ cloudinary_url: "https://res.cloudinary.com/deddrj0yb/image/upload"
 ## IMAGE INCLUDE
 # {% include image.html file="" sizevar="" width="" height="" %}
 
-# {% capture download_note %}{{ activity.image01_href }}{% endcapture %}
+# {% capture download_note %}{{ activity.image01_href }}{% endcapture %} 
 # <img src="{% include image.html file=download_note sizevar="activitylist" width="" height="" %}" alt="">
 
 ## OPTIONS de download_note

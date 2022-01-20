@@ -113,9 +113,18 @@ fields:
     min: 
     max: 
 pages:
+- content/_fr/pages/ete/activity/canyoning.md
+- content/_fr/pages/ete/activity/kayak.md
+- content/_fr/pages/ete/activity/la-traversee-des-alpes-en-velo.md
+- content/_fr/pages/ete/activity/randonnee-en-montagne.md
+- content/_fr/pages/ete/activity/surf.md
+- content/_fr/pages/ete/activity/trail-running.md
+- content/_fr/pages/ete/activity/velo-de-route.md
+- content/_fr/pages/ete/activity/vtt.md
 - content/_fr/pages/hiver/activity/coaching-sportif.md
 - content/_fr/pages/hiver/activity/enfants.md
 - content/_fr/pages/hiver/activity/hors-piste.md
+- content/_fr/pages/hiver/activity/parapente.md
 - content/_fr/pages/hiver/activity/raquettes.md
 - content/_fr/pages/hiver/activity/ski-alpin.md
 - content/_fr/pages/hiver/activity/ski-de-fond.md
