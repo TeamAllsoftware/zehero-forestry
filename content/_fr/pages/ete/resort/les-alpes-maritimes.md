@@ -87,6 +87,28 @@ page_sections:
 - template: textarea
   title: Le Mercantour
   content: Le massif du Mercantour est un parc national préservé et très sauvage.
+    Composée d'une chaine montagneuse minérale, abrupte, sauvage entre sapin et mélèze,
+    il offre des activités dans des décors féériques. Plongez dans un décors d'une
+    montagne avec une forte richesse biologique et au patrimoine exceptionnel. Avec
+    les stations tel que Isola 2000, Auron et Valberg vous pourrez bénéficier d'activité
+    tel que le trail, la randonnée, le VTT, et le VTT électrique ainsi que bien d'autres.
+    Vous pourrez explorez les nombreux sommets de ce parc, partir à la recherche des
+    bouquetins, des chamois et des fleurs de montagne.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642673635/website/summer/hugo-vidal-OlB2K5n92KQ-unsplash_n0wlqf.jpg
+  captiontitleuppercase: Un massif d'exception
+  title: 'Majestueux '
+  content: Contrairement au parc de la Vanoise, qui parfois est équipé de nombreuses
+    remontées mécaniques, le parc du Mercantour garde son charme sauvage et reste
+    très préservé. C'est alors le bonheur pour les randonneurs et les traileurs. Entre
+    le GR5, le GR 52, la GTM, ses sommets tel que le Gélas ou encore le Ténibre, vous
+    y retrouverez également des refuges de qualités.
+- template: textarea
+  title: Trouvez votre activité
+  content: 'Vous l''avez compris, les Alpes Maritimes est une région où l''activité
+    Outdoor prône. Le paradis également de pouvoir être en montagne et de randonnée
+    entouré de sommets puis 1h/1h30 plus tard, vous voilà les pieds dans la mer à
+    profiter d''une vue infinie, d''un soleil, de palmiers et d''odeur de pins. '
 published: false
 
 ---
