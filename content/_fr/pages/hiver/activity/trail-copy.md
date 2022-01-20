@@ -1,10 +1,10 @@
 ---
 layout: layout_activity
 language: fr
-season: winter
+season: summer
 topnav_color_text: dark
 title: Trail-(copy)
-permalink: "/fr/hiver/activite/trail"
+permalink: "/fr/ete/activite/trail"
 description: Le trail est une activité de pleine air, parfois seul mais où les émotions
   se partagent
 baseline: Liberté, inspiration et dépassement
