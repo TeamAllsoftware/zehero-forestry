@@ -82,6 +82,10 @@ page_sections:
     à des sorties de trail longues. Elles permettront de découvrir un lieu, un environnement
     avec un groupe."
   title: Etre encadré
-published: false
+- template: 3coltxtimgtxt
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg
+  captionleftcontent: Soyez le Hero, courez et découvrez de nouveau horizon
+  captionrighttitle: Ne courez pas après le temps, appréciez en chaque secondes
+  captionrightcontent: Quelque soit le niveau, le plaisir de courir reste le même
 
 ---
