@@ -45,11 +45,45 @@ page_sections:
     le Foil, le E-foil et le wakeboard. Toutes les stations balnéaires offrent différentes
     activités. '
 - template: textarea
-  content: 'Vous y retrouverez des villages colorés et typique comme Menton ou Eze.
+  content: Vous y retrouverez des villages colorées et typiques comme Menton ou Eze.
     Vous pourrez randonnée ou courir sur les sentiers du littoral de Saint Jean Cap
-    Ferrat, le Cap d''Antibes. Vous retrouverez un choix variés d''activités sensationnels,
-    de découvertes, ludiques et sportive que ce soit sur terre ou sur mer sur le littoral. '
+    Ferrat, le Cap d'Antibes. Vous retrouverez un choix varié d'activités sensationnelles,
+    de découvertes, ludiques et sportifs que ce soit sur terre ou sur mer sur le littoral.
+    A la frontière du Var et des Alpes-Maritimes se trouve le Dramont où vous pourrez
+    grimper une variété de voies une roche rouge dos à la mer pour une vue unique
+    et incroyable.
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642673633/website/summer/niklas-ohlrogge-wtgjxJCZM3A-unsplash_qdfybq.jpg
+  captiontitleuppercase: Les Préalpes d'Azur
+  title: A l'intérieur des terres
+  content: 'Les Préalpes d''Azur est un parc naturel, avec des sommets à environ 1800m
+    d''altitude avec une vue sur la mer. Entre la vallée l''Esteron, du Loup et les
+    plateau de Grasse et de Vence, vous retrouverez un espace naturel incroyable.
+    Vous retrouverez des lieux uniques tel que Gourdon, les villages perchés dans
+    la vallée de l''Estéron, le village de St Jeannet sous le fameux baou de St Jeannet,
+    la montagne de St Vallier de Thier ou encore la station de ski de Gréolières les
+    neige et son sommet "Le Cheiron". '
+- template: textarea
+  title: Les activités dans les Préalpes d'Azur
+  content: On retrouve énormément de sentiers balisés pour randonner à pied, en course
+    à pied et en VTT. Il existe des itinéraires de plusieurs jours tel que la Maralpine.
+    C'est un lieux également de parapente avec des vols depuis Gourdon, Saint Vallier
+    de Thiey ou encore Gréolières. On y retrouve également de l'escalade avec énormément
+    de voix au Baou de St Jeannet, dans les gorges de la Tinée, vers Levens et bien
+    d'autres. Vous pourrez également explorer ce territoire en vélo de route avec
+    un parcours de plusieurs jours en faisant le tour des Préalpes d'Azur.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883620/website/summer/Canyoning-activite-famille_ov6myx.jpg
+  captiontitleuppercase: Une région de canyoning
+  title: Canyoning et rafting
+  content: Les Alpes Maritimes regorgent de lieux parfaits pour le canyoning. Entre
+    l'Estéron, le Var, la Roya, la Vésubie, la Bévéra, il existe un choix énorme pour
+    tous les niveaux et tous les gouts. Vous trouverez alors des canyonings pour tous
+    les niveaux dans des décors exceptionnels tel que les gorges de Cians. On y retrouve
+    des parcours variés, des descente en rappel vertigineuses, des sauts et des toboggans.
+    La vallée de la Roya permet également de faire du Rafting ainsi que de l'hydrospeed.
+    Partagez ces activités pour des moments de sensations fortes.
 published: false
 
 ---
