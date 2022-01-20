@@ -55,6 +55,5 @@ page_sections:
     les vagues qui se forment plus au larges et de bien réussir son départ sur la
     vague."
   title: ''
-published: false
 
 ---
