@@ -67,7 +67,12 @@ page_sections:
 - template: textarea
   title: Les activités dans les Préalpes d'Azur
   content: On retrouve énormément de sentiers balisés pour randonner à pied, en course
-    à pied et en VTT. Il existe des itinéraires de plusieurs jours tel que la Maralpine
+    à pied et en VTT. Il existe des itinéraires de plusieurs jours tel que la Maralpine.
+    C'est un lieux également de parapente avec des vols depuis Gourdon, Saint Vallier
+    de Thiey ou encore Gréolières. On y retrouve également de l'escalade avec énormément
+    de voix au Baou de St Jeannet, dans les gorges de la Tinée, vers Levens et bien
+    d'autres. Vous pourrez également explorer ce territoire en vélo de route avec
+    un parcours de plusieurs jours en faisant le tour des Préalpes d'Azur.
 published: false
 
 ---
