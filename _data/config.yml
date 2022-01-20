@@ -88,7 +88,7 @@ fr:
       btn_href_title: Lien vers la page du e-shop
     summer:
       btn_text: e-Shop
-      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
       btn_href_title: Lien vers la page du e-shop
 
 en:
@@ -151,7 +151,7 @@ en:
       btn_href_title: Link to the e-shop page
     summer:
       btn_text: e-Shop
-      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
       btn_href_title: Link to the e-shop page
 
 #Image resizing by cloudinary
