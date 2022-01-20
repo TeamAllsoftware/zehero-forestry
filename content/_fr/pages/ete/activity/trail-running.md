@@ -44,6 +44,28 @@ page_sections:
   - Trail Court < 30km
   - Trail Long < 80km
   - Ultra Trail > 100km
+- template: parlaxgridtxtimg
+  captionabovetitle: Une paire de chaussure et en route
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883629/website/summer/Trail-foret-seul_ofxowi.jpg
+  title: Courir plus haut, plus loin
+  gridline1title: Repousser vos limites
+  gridline1content: La pratique du trail reste simple, mais elle demande certaines
+    spécificités. Au-delà de l'entraînement, il faut également prendre en compte sa
+    gestion de course, la technique de course, la nutrition et surtout toute la partie
+    mentale. S'entraîner avec un groupe, un coach permet de progresser.
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200528_132727_fnpain.jpg
+  gridline2title: Pour tout le monde
+  gridline2content: Hormis les différences de niveau physique, le trail est une activité
+    pour tout le monde. On court seul mais on partage l'aventure en groupe, ce qui
+    rend le moment plus riche. Quelque soit votre niveau, les parcours sont adaptés
+    et il y en a pour tous les goûts.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG20210813131314_aotkis.jpg
+- template: textarea
+  content: |-
+    En fonction des parcours et des distances, la pratique du trail sera différente. Lorsque le parcours sera plus court, l'engagement physique sera alors plus important. Inversement, lorsque le parcours sera plus long, on retrouvera un aspect plus important de gestion, mentale, physique et nutritionnel. Tous ces paramètres rendent l'activité plus riche et intéressante.
+
+    La pratique du trail comporte un équipement spécifique par ses chaussures de trail, ses vêtements techniques et légers, ses sacs à dos d'hydratation, le port de bâtons pour ceux qui le souhaitent etc.
+  title: ''
 published: false
 
 ---
