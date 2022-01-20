@@ -29,6 +29,21 @@ page_sections:
     d'engagement physique et musculaire. C'est une activité qui permet de découvrir
     des lieux, en allant vite et s'amusant avec le terrain, seul ou à plusieurs. Courir
     des heures en nature, plonge le corps et l'esprit dans un moment de plénitude.
+- template: textarea
+  title: Pour le plaisir et aussi la compétition
+  content: Le trail, c'est une activité que l'on fait pour le plaisir, pour soi, pour
+    son bien-être physique et mental. Mais aussi pour le partager en groupe, avec
+    des amis lors de sorties longues. C'est également la compétition afin d'essayer
+    de se dépasser soi-même avec l'émulsion des participants et parfois des parcours
+    uniques et magnifique. La compétition en trail est un moyen de fixer ses propres
+    objectifs.
+- template: liststyle01
+  title: Les différentes courses
+  item:
+  - 'Kilomètre Verticaux '
+  - Trail Court < 30km
+  - Trail Long < 80km
+  - Ultra Trail > 100km
 published: false
 
 ---
