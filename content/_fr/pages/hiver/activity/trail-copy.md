@@ -3,7 +3,7 @@ layout: layout_activity
 language: fr
 season: summer
 topnav_color_text: dark
-title: Trail-(copy)
+title: Trail
 permalink: "/fr/ete/activite/trail"
 description: Le trail est une activité de pleine air, parfois seul mais où les émotions
   se partagent
@@ -85,6 +85,5 @@ page_sections:
   captionrighttitle: Ne courez pas après le temps, appréciez en chaque secondes
   captionrightcontent: Quelque soit l'intensité de votre course, la durée et la difficulté,
     nous ressentons tous le même plaisir après avoir foulé les sentiers.
-published: false
 
 ---
