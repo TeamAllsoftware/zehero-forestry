@@ -84,6 +84,9 @@ page_sections:
     des parcours variés, des descente en rappel vertigineuses, des sauts et des toboggans.
     La vallée de la Roya permet également de faire du Rafting ainsi que de l'hydrospeed.
     Partagez ces activités pour des moments de sensations fortes.
+- template: textarea
+  title: Le Mercantour
+  content: Le massif du Mercantour est un parc national préservé et très sauvage.
 published: false
 
 ---
