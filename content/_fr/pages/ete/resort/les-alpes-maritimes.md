@@ -4,7 +4,7 @@ language: fr
 season: summer
 description: Les Alpes Maritimes sont une région paradisiaque pour les activités outdoor.
   Entre mer, montagne, falaise, route et rivière, il y a le choix.
-topnav_color_text: dark
+topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités dans les Alpes Maritimes.
   zehero_advice: ZE HERO vous conseille pour  les activités et la location des équipements
