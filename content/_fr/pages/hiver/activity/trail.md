@@ -22,14 +22,14 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640069842/website/summer/IMG_20210716_180932_893_spbn5s.jpg
   captiontitleuppercase: 'S''évader '
   title: Le trail, c'est lier l'engagement et le bien être
-  content: A la différence de la course à pied sur route, en trail le rythme n'est
+  content: À la différence de la course à pied sur route, en trail le rythme n'est
     jamais le même. Il y a beaucoup de facteurs qui vont altérer votre vitesse. Que
     ce soit le dénivelé, la technicité du parcours, le chemin étroit, les conditions
     météorologiques... La performance d'un marathon se justifie par le temps et c'est
     tout. En trail, votre temps dépendra du terrain, de la météo. L'engagement en
     trail va porter sur votre vitesse, sur la technique en descente, sur votre gestion
     de course. Courir des heures en nature, seul ou accompagné, plonge le corps et
-    l'esprit dans un moment de pleinitude.
+    l'esprit dans un moment de plénitude.
 - template: liststyle01
   title: Les différentes courses
   item:
