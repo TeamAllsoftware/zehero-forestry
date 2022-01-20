@@ -72,6 +72,10 @@ fr:
   various:
     readmore: Lire la suite
     link-to: Lien vers la page
+  top-menu:
+      btn_text: e-Shop
+      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href_title: Lien vers la page du e-shop
 
 en:
   changelang: Navigate this website in english
