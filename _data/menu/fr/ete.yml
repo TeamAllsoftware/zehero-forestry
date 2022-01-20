@@ -10,15 +10,19 @@ menu:
   column-01:
   - nested: Herbe, cailloux, asphalte
     menu-items:
+    - title: Trail running
+      href: "/fr/ete/activite/trail-running"
     - title: VTT
       href: "/fr/ete/activite/vtt"
-    - title: Randonnée
+    - title: Randonnée en montagne
       href: "/fr/ete/activite/randonnee-montagne"
     - title: Traversée des Alpes à vélo
       href: "/fr/ete/activite/traversee-des-alpes-en-velo"
   column-02:
   - nested: Air et eau
     menu-items:
+    - title: Surf
+      href: "/fr/ete/activite/surf"
     - title: Canyoning
       href: "/fr/ete/activite/canyoning"
     - title: Kayak
@@ -120,7 +124,8 @@ menu:
     id: blog
     title-link: "/fr/ete/blog"
     image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg
-    image-alt: Un campeur se prépare un thé dans une cabane en montagne en lisant une carte et un guide
+    image-alt: Un campeur se prépare un thé dans une cabane en montagne en lisant
+      une carte et un guide
     image-link: "/fr/ete/blog"
     txt-button: Entrer dans le blog
   column-01:
