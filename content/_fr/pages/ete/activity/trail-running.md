@@ -74,6 +74,14 @@ page_sections:
     un dossard, c''est aussi partager un bon moment avec ses amis, c''est se dépasser
     et aller chercher ses objectifs, c''est participer à un évènement avec une bonne
     ambiance. '
+- template: textarea
+  content: "Si vous souhaitez progresser, comprendre les clés de l'entrainement et
+    de la préparation, avoir un entraîneur est alors idéale. L'encadrement en trail
+    permet également de découvrir des lieux et de partager ses séances en groupe.
+    Il vous permettra d'évoluer et de progresser. \n\nVous pourrez également participer
+    à des sorties de trail longues. Elles permettront de découvrir un lieu, un environnement
+    avec un groupe."
+  title: Etre encadré
 published: false
 
 ---
