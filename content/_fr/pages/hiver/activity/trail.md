@@ -54,14 +54,10 @@ page_sections:
     de vous sera apaisant.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200528_132727_fnpain.jpg
 - template: textarea
-  content: "Selon les courses et les distances la pratique du trail est différente.
-    Plus la course est courte, plus l'engagement physique sera important. À l’inverse,
-    plus la distance est longue, plus l'engagement mental sera important. Le trail,
-    en plus de son aspect physiologique et physique, demandera une part très importante
-    du mental, de gestion de course et d'alimentation. Ce sont autant de paramètres
-    qui rendent cette pratique encore plus intéressante et riche.\n\nLa pratique du
-    trail comporte un équipement spécifique par ses chaussures, ses vêtements, ses
-    sac à dos d'hydratation, le port de bâtons etc. "
+  content: |-
+    Selon les courses et les distances la pratique du trail est différente. Plus la course est courte, plus l'engagement physique sera important. À l’inverse, plus la distance est longue, plus l'engagement mental sera important. Le trail, en plus de son aspect physiologique et physique, demandera une part très importante du mental, de gestion de course et d'alimentation. Ce sont autant de paramètres qui rendent cette pratique encore plus intéressante et riche.
+
+    La pratique du trail comporte un équipement spécifique par ses chaussures, ses vêtements, ses sacs à dos d'hydratation, le port de bâtons etc.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200809_090044_skturv.jpg
