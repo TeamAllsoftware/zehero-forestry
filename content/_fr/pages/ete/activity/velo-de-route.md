@@ -37,6 +37,5 @@ page_sections:
     Hormis en hiver où cette activité est moins pratiqué, le vélo de route se fait partout en France et quasiment toute l'année. Bien-sûr si vous désirez absolument réaliser des cols routiers, il faudra se rapprocher des montagnes, sinon il y aura de magnifiques routes à travers les campagnes, les forêts, le littoral et bien d'autre.
 
     La technique à vélo s'apprend afin de monter efficacement et de moins s'épuiser mais également gérer ses pauses et son ravitaillement. L'avantage de vélo de route en groupe est que vous pouvez échanger et partager un bon moment. L'émulsion d'un groupe va permettre de vous motiver également et d'être tiré par les autres mais également de moins de se fatiguer lorsque vous prenez l'aspiration.
-published: false
 
 ---
