@@ -49,12 +49,11 @@ page_sections:
     il peut y avoir beaucoup de monde au même endroit. C'est pour cela qu'il est important
     de bien apprendre à surfer et de connaitre les règles du surf (priorité la personne
     de notre droite).\n\nLorsque l'on débute, on va d'abord commencer par apprendre
-    à surfer les mousses, ce qui permet d'etre au bord, de ne pas s'épuiser à aller
+    à surfer les mousses, ce qui permet d'être au bord, de ne pas s'épuiser à aller
     au pic. Mais s'est également avoir une mousse qui permettre d'apprendre à bien
     se levé. Une fois que ce niveau est acquis, vous commencerez à essayer de prendre
     les vagues qui se forment plus au larges et de bien réussir son départ sur la
     vague."
   title: ''
-published: false
 
 ---
