@@ -66,6 +66,14 @@ page_sections:
 
     La pratique du trail comporte un équipement spécifique par ses chaussures de trail, ses vêtements techniques et légers, ses sacs à dos d'hydratation, le port de bâtons pour ceux qui le souhaitent etc.
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200809_090044_skturv.jpg
+  captiontitleuppercase: Le plaisir d'épingler le dossard
+  title: Se dépasser soi même en courant
+  content: 'Aujourd''hui, on retrouve énormément de course, tous les week-ends. Avoir
+    un dossard, c''est aussi partager un bon moment avec ses amis, c''est se dépasser
+    et aller chercher ses objectifs, c''est participer à un évènement avec une bonne
+    ambiance. '
 published: false
 
 ---
