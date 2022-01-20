@@ -71,16 +71,18 @@ page_sections:
     en mettant également les différentes protections dont le casque et partez rouler.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638824911/website/summer/tom-conway-dU2HDmE_tgw-unsplash_pqlalr.jpg
 - template: textarea
-  content: "Si vous souhaitez découvrir des lieux par des grande balades, le VTT est
-    l'activité parfaite. Si vous désirez travailler vos jambes, votre cardio tout
-    en aimant la vitesse, et les sensations fortes alors le VTT est la discipline
-    parfaite.\n\nLe VTT se pratique partout, mais si vous désirez aller dans les coins
-    en France où la pratique est importante, où le lieu permet des balades incroyables.
-    Beaucoup de station un panel de parcours avec des supers aménagements, tel que
-    :\n\n* Les Saisies avec la piste \"les Bikettes\"\n* La Clusaz et sa piste \"La
-    trace du Bélier\"\n* La Grave \n* Méribel avec la Corbassière\n* et bien d'autres\n\nMais
-    vous allez également retrouver des parcours sublimes dans les Cévennes, dans l'Esterel
-    et vers le Roquebrune, dans le Mercantour, dans le Jura..."
+  content: |-
+    Si vous souhaitez découvrir des lieux par des grande balades, le VTT est l'activité parfaite. Si vous désirez travailler vos jambes, votre cardio tout en aimant la vitesse, et les sensations fortes alors le VTT est la discipline parfaite.
+
+    Le VTT se pratique partout, mais si vous désirez aller dans les coins en France où la pratique est importante, où le lieu permet des balades incroyables. Beaucoup de station un panel de parcours avec des supers aménagements, tel que :
+
+    * Les Saisies avec la piste "les Bikettes"
+    * La Clusaz et sa piste "La trace du Bélier"
+    * La Grave
+    * Méribel avec la Corbassière
+    * et bien d'autres
+
+    Mais vous allez également retrouver des parcours sublimes dans les Cévennes, dans l'Esterel et vers le Roquebrune, dans le Mercantour, dans le Jura...
   title: Où en faire ?
 
 ---

@@ -13,25 +13,23 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883629/webs
 image01_alt: Course à pied en fôret
 page_sections:
 - template: textarea
-  content: "Le trail signifie \"sentier\" en anglais. C'est ce petit chemin en forêt,
-    en montagne ou dans la jungle qui monte et qui descend, qui tourne et vivote.
-    Ce petit chemin parfois technique, raide, lisse ou rempli de cailloux ou de racine.\n\nLe
-    trail est une pratique sportive de course à pied en nature et quelques fois urbain.
-    Quelque soit la course, il présentera du dénivelé. C'est à dire que vous trouverez
-    des montée et des descentes. "
+  content: |-
+    Le trail signifie "sentier" en anglais. C'est ce petit chemin en forêt, en montagne ou dans la jungle qui monte et qui descend, qui tourne et vivote. Ce petit chemin parfois technique, raide, lisse ou rempli de cailloux ou de racine.
+
+    Le trail est une pratique sportive de course à pied en nature et quelques fois urbain. Quelle que soit la course, il présentera du dénivelé. C'est-à-dire que vous trouverez des montées et des descentes.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640069842/website/summer/IMG_20210716_180932_893_spbn5s.jpg
   captiontitleuppercase: 'S''évader '
   title: Le trail, c'est lier l'engagement et le bien être
-  content: A la différence de la course à pied sur route, en trail le rythme n'est
+  content: À la différence de la course à pied sur route, en trail le rythme n'est
     jamais le même. Il y a beaucoup de facteurs qui vont altérer votre vitesse. Que
     ce soit le dénivelé, la technicité du parcours, le chemin étroit, les conditions
     météorologiques... La performance d'un marathon se justifie par le temps et c'est
     tout. En trail, votre temps dépendra du terrain, de la météo. L'engagement en
     trail va porter sur votre vitesse, sur la technique en descente, sur votre gestion
     de course. Courir des heures en nature, seul ou accompagné, plonge le corps et
-    l'esprit dans un moment de pleinitude.
+    l'esprit dans un moment de plénitude.
 - template: liststyle01
   title: Les différentes courses
   item:
@@ -56,14 +54,10 @@ page_sections:
     de vous sera apaisant.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200528_132727_fnpain.jpg
 - template: textarea
-  content: "Selon les courses et les distances la pratique du trail est différente.
-    Plus la course est courte, plus l'engagement physique sera important. À l’inverse,
-    plus la distance est longue, plus l'engagement mental sera important. Le trail,
-    en plus de son aspect physiologique et physique, demandera une part très importante
-    du mental, de gestion de course et d'alimentation. Ce sont autant de paramètres
-    qui rendent cette pratique encore plus intéressante et riche.\n\nLa pratique du
-    trail comporte un équipement spécifique par ses chaussures, ses vêtements, ses
-    sac à dos d'hydratation, le port de bâtons etc. "
+  content: |-
+    Selon les courses et les distances la pratique du trail est différente. Plus la course est courte, plus l'engagement physique sera important. À l’inverse, plus la distance est longue, plus l'engagement mental sera important. Le trail, en plus de son aspect physiologique et physique, demandera une part très importante du mental, de gestion de course et d'alimentation. Ce sont autant de paramètres qui rendent cette pratique encore plus intéressante et riche.
+
+    La pratique du trail comporte un équipement spécifique par ses chaussures, ses vêtements, ses sacs à dos d'hydratation, le port de bâtons etc.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200809_090044_skturv.jpg
