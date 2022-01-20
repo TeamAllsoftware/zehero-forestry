@@ -73,6 +73,20 @@ fr:
     readmore: Lire la suite
     link-to: Lien vers la page
   top-menu:
+    winter:
+      btn_text: e-Shop
+      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href_title: Lien vers la page du e-shop
+    summer:
+      btn_text: e-Shop
+      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href_title: Lien vers la page du e-shop
+  modal-eshop-menu:
+    winter:
+      btn_text: e-Shop
+      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href_title: Lien vers la page du e-shop
+    summer:
       btn_text: e-Shop
       btn_href: https://fr.ze-hero.com/achat-occasion/
       btn_href_title: Lien vers la page du e-shop
@@ -120,7 +134,25 @@ en:
     txt07: Link to blog post
   various:
     readmore: Read more
-    link-to: Lien vers la page
+    link-to: Link to the page
+  top-menu:
+    winter:
+      btn_text: e-Shop
+      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href_title: Link to the e-shop page
+    summer:
+      btn_text: e-Shop
+      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href_title: Link to the e-shop page
+  modal-eshop-menu:
+    winter:
+      btn_text: e-Shop
+      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href_title: Link to the e-shop page
+    summer:
+      btn_text: e-Shop
+      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href_title: Link to the e-shop page
 
 #Image resizing by cloudinary
 #Cloudinary

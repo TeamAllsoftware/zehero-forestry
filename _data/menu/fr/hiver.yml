@@ -62,7 +62,7 @@ menu:
 - top-level:
     title: Destinations
     id: 03
-    title-link: /fr/hiver/destinations
+    title-link: "#"
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg'
     image-alt: Un skieur fait une randonnée en forêt enneigée
     image-link: "/fr/hiver/"
@@ -90,10 +90,10 @@ menu:
 - top-level:
     title: Team ZE HERO
     id: 04
-    title-link: /fr/ete/
+    title-link: "#"
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg'
     image-alt: Une femme grimpe une voie d'escalade indoor
-    image-link: "/fr/ete/"
+    image-link: "#"
   column-01:
   - nested: Les coachs
     menu-items:
