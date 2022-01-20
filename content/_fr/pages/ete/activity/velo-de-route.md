@@ -7,7 +7,7 @@ title: Vélo de route
 permalink: "/fr/ete/activite/velo-de-route"
 description: A l'assaut des cols mythiques en France, de se balader sur les routes
   et de voir du pays grâce à son vélo.
-baseline: Explorer, rouler et grimer
+baseline: Explorer, rouler et grimper
 engage: Explorez de nouveaux horizons et grimpez les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883618/website/summer/velo-duo-descente-col_bqhfjm.jpg
 image01_alt: 'Deux cycliste faisant du vélo de route dans une descente d''une route
