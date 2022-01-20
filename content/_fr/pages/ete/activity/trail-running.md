@@ -19,6 +19,16 @@ page_sections:
 
     Le trail est une pratique sportive de course à pied qui se trouve en nature et quelques fois dans la ville (urbain trail). Quelle que soit le parcours, il présentera du dénivelé. C'est-à-dire que vous trouverez des montées et des descentes, ce que l'on nomme le D+.
   title: Le trail running
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200627_075555_ocn4rk.jpg
+  captiontitleuppercase: Partir s'évader
+  title: Bien être, engagement et découverte
+  content: La randonnée en montagne s'en approche absolument, sauf qu'on sera plus
+    minimaliste en Trail. On va aller plus vite, en étant plus léger en équipement.
+    Le trail combine l'amour de la nature, des panoramas, des sentiers avec le plaisir
+    d'engagement physique et musculaire. C'est une activité qui permet de découvrir
+    des lieux, en allant vite et s'amusant avec le terrain, seul ou à plusieurs. Courir
+    des heures en nature, plonge le corps et l'esprit dans un moment de plénitude.
 published: false
 
 ---
