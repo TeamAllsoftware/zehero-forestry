@@ -73,6 +73,17 @@ page_sections:
     de voix au Baou de St Jeannet, dans les gorges de la Tinée, vers Levens et bien
     d'autres. Vous pourrez également explorer ce territoire en vélo de route avec
     un parcours de plusieurs jours en faisant le tour des Préalpes d'Azur.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883620/website/summer/Canyoning-activite-famille_ov6myx.jpg
+  captiontitleuppercase: Une région de canyoning
+  title: Canyoning et rafting
+  content: Les Alpes Maritimes regorgent de lieux parfaits pour le canyoning. Entre
+    l'Estéron, le Var, la Roya, la Vésubie, la Bévéra, il existe un choix énorme pour
+    tous les niveaux et tous les gouts. Vous trouverez alors des canyonings pour tous
+    les niveaux dans des décors exceptionnels tel que les gorges de Cians. On y retrouve
+    des parcours variés, des descente en rappel vertigineuses, des sauts et des toboggans.
+    La vallée de la Roya permet également de faire du Rafting ainsi que de l'hydrospeed.
+    Partagez ces activités pour des moments de sensations fortes.
 published: false
 
 ---
