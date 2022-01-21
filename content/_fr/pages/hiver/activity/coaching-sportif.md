@@ -56,6 +56,12 @@ page_sections:
     coaching ou d'Excel, mettra en place vos séances quotidiennes personnalisés. Le
     coach fera des retours sur chacune de vos séances.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/steven-lelham-atSaEOeE8Nk-unsplash_jalgcv.jpg
+- template: cta
+  intro: Réservez dès séance de coaching
+  headline: Cours privés ou collectifs sont disponibles
+  button:
+    text_button: Réserver maintenant >
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
 topnav_text_color: light
 engage: Une préparation pour affronter toutes les situations
 
