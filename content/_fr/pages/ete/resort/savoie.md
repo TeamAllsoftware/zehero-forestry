@@ -6,11 +6,11 @@ description: La Savoie est un département composée d'une chaine montagneuse in
   ainsi que des lacs.
 topnav_color_text: light
 introduction:
-  you_arrive: Vous arrivez et souhaitez louer du matériel dans cette station.
-  zehero_advice: ZE HERO vous conseille pour  les activités et la location des équipements
-    pour toute la famille
-page_title: Savoie
-title: Savoie
+  you_arrive: Découvrez toutes les activités et les différentes locations en Savoie
+  zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
+    pour toute la famille.
+page_title: La Savoie
+title: La Savoie
 permalink: "/fr/ete/station/savoie"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749757/website/summer/mercvrie-YlWgxkbP_pY-unsplash_yves5y.jpg
 image01_alt: Vue sur le lac du bourget
