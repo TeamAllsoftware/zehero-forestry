@@ -122,5 +122,11 @@ page_sections:
     le ski de randonnée. Cela permet d'avoir des itinéraires faciles et agréables
     afin de profiter sereinement de la montagne.  "
   title: Où aller ?
+- template: cta
+  intro: Réservez dès vos activités de ski de randonnée
+  headline: Cours privés ou collectifs, enfant et adultes sont disponibles
+  button:
+    text_button: Réserver maintenant >
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
 
 ---
