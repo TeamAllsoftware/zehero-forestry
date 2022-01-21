@@ -117,6 +117,7 @@ fields:
   - liststyle01numbered
   - imagegallery02
   - numberinfo
+  - cta
   config:
     min: 
     max: 
