@@ -81,6 +81,12 @@ page_sections:
     un moment inoubliable. L'implication physique et mentale est forte, à vous de
     laisser votre trace."
   title: ''
+- template: cta
+  button:
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
+    text_button: Réserver maintenant >
+  intro: Réservez dès maintenant vos activités hors piste
+  headline: Cours privés ou collectifs, enfants et adultes sont disponibles
 topnav_text_color: light
 engage: 'Explorer la montagne et ses hors pistes '
 
