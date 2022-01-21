@@ -59,8 +59,8 @@ page_sections:
     Tignes sont bien connus pour leurs parcours de VTT.   \nVous pourrez également
     faire de l'escalade en falaises avec des voix dans la Maurienne ainsi que prêt
     de Chambery et dans les Bauges.  \nQuoi de mieux que de découvrir les montagnes
-    et sommets au dessus. Partez voler en parapente en vivant une expérience incroyable
-    avec des vues sur tous les sommets, les couleurs de l'été."
-published: false
+    et les sommets en étant au dessus d'elles. Partez voler en parapente en vivant
+    une expérience incroyable avec des vues sur tous les sommets, les couleurs de
+    l'été."
 
 ---
