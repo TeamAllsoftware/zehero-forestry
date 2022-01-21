@@ -61,6 +61,12 @@ page_sections:
     liée à l'effort. La raquette est une activité parfaite pour passer un moment agréable
     seul, en famille, en couple ou entre amis. Que ce soit sous les rayons du soleil
     ou sous la neige, la montagne se découvre à tout temps.
+- template: cta
+  intro: Réservez vos balades en raquettes
+  headline: Randonnées enfants et adultes sont disponibles
+  button:
+    text_button: Réserver maintenant >
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
 topnav_text_color: light
 engage: Les domaines skiables au dela des pistes et des cartes !
 
