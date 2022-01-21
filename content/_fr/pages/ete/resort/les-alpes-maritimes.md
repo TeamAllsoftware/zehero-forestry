@@ -7,8 +7,8 @@ description: Les Alpes Maritimes sont une région paradisiaque pour les activit�
 topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités dans les Alpes Maritimes.
-  zehero_advice: ZE HERO vous conseille pour  les activités et la location des équipements
-    pour toute la famille
+  zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
+    pour toute la famille.
 page_title: Alpes Maritimes
 title: Les Alpes Maritimes
 permalink: "/fr/ete/station/alpes-maritimes"
