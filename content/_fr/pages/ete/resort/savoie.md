@@ -34,7 +34,7 @@ page_sections:
     Savogia et enfin Savoie."
   title: La Savoie
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749757/website/summer/tim-arnold-ewZe5ZRZVVg-unsplash_jk5nkf.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749751/website/summer/mac-bart-du-Jpr2srDU-unsplash_jbha8f.jpg
   captiontitleuppercase: Le paradis des montagnes
   title: Les activités en montagne
   content: Ses nombreuses stations sont également très dynamiques l'été et proposent
