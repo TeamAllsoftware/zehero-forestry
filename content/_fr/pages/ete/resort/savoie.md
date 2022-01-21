@@ -33,6 +33,18 @@ page_sections:
     pays couvert de sapins. Le nom aurait ensuite dérivé en Sabaudia, Sabogla, Saboia,
     Savogia et enfin Savoie."
   title: La Savoie
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749757/website/summer/tim-arnold-ewZe5ZRZVVg-unsplash_jk5nkf.jpg
+  captiontitleuppercase: Le paradis des montagnes
+  title: Les activités en montagne
+  content: Ses nombreuses stations sont également très dynamiques l'été et proposent
+    énormément d'activité. Chaque station peut avoir sa particularité mais vous allez
+    bien-sûr retrouver la randonnée. En Savoie, il y a des randonnées absolument pour
+    tout le monde et partout. Entre le parc de la Vanoise, le massif des Bauges et
+    la Chartreuse vous pourrez en prendre plein les yeux. Vous trouverez dans chaque
+    station des randonnées proposées par les offices de tourisme mais également par
+    des accompagnateurs de moyenne montagne. Ils vous feront découvrir les secrets
+    des montagnes, sa faune et sa flore, ses sommets et ses panoramas.
 published: false
 
 ---
