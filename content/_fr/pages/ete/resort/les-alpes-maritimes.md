@@ -11,7 +11,7 @@ introduction:
     pour toute la famille.
 page_title: Alpes Maritimes
 title: Les Alpes Maritimes
-permalink: "/fr/ete/station/alpes-maritimes"
+permalink: "/fr/ete/destination/alpes-maritimes"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642673632/website/summer/fabien-bazanegue-Q4OpZgSqm2I-unsplash_vseflx.jpg
 image01_alt: 'Paysage des Préalpes avec des moutons '
 button_to_link_to_ze_hero_shop:

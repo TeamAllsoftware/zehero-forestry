@@ -11,7 +11,7 @@ introduction:
     pour toute la famille.
 page_title: La Savoie
 title: La Savoie
-permalink: "/fr/ete/station/savoie"
+permalink: "/fr/ete/destination/savoie"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749757/website/summer/mercvrie-YlWgxkbP_pY-unsplash_yves5y.jpg
 image01_alt: Vue sur le lac du bourget
 button_to_link_to_ze_hero_shop:

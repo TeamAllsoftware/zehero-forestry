@@ -66,27 +66,26 @@ menu:
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg'
     image-alt: Un skieur fait une randonnée en forêt enneigée
     image-link: "/fr/hiver/"
-    txt-button: 'Toutes les destinations'
   column-01:
   - nested: Les stations de montagne
     menu-items:
     - title: "Alpe d'Huez"
-      href: "/fr/hiver/station/alpe-d-huez"
+      href: "/fr/hiver/destination/alpe-d-huez"
     - title: "Val-Thorens"
-      href: "/fr/hiver/station/val-thorens"
+      href: "/fr/hiver/destination/val-thorens"
     - title: "Les Ménuires"
-      href: "/fr/hiver/station/les-menuires"
+      href: "/fr/hiver/destination/les-menuires"
     - title: "Tignes"
-      href: "/fr/hiver/station/tignes"
+      href: "/fr/hiver/destination/tignes"
     - title: "Val d'Isère"
-      href: "/fr/hiver/station/val-d-isere"
+      href: "/fr/hiver/destination/val-d-isere"
     - title: "Méribel"
-      href: "/fr/hiver/station/meribel"
+      href: "/fr/hiver/destination/meribel"
   column-02:
   - nested: Les stations balnéaires
     menu-items:
     - title: "Antibes"
-      href: "/fr/hiver/station/antibes"
+      href: "/fr/hiver/destination/antibes"
 - top-level:
     title: Team ZE HERO
     id: 04
