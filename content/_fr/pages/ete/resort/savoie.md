@@ -37,13 +37,30 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749751/website/summer/mac-bart-du-Jpr2srDU-unsplash_jbha8f.jpg
   captiontitleuppercase: Le paradis des montagnes
   title: Les activités en montagne
-  content: Ses nombreuses stations sont également très dynamiques l'été et proposent
-    énormément d'activité. Chaque station peut avoir sa particularité mais vous allez
+  content: 'Ses nombreuses stations sont également très dynamiques l''été et proposent
+    énormément d''activité. Chaque station peut avoir sa particularité mais vous allez
     bien-sûr retrouver la randonnée. En Savoie, il y a des randonnées absolument pour
     tout le monde et partout. Entre le parc de la Vanoise, le massif des Bauges et
     la Chartreuse vous pourrez en prendre plein les yeux. Vous trouverez dans chaque
     station des randonnées proposées par les offices de tourisme mais également par
     des accompagnateurs de moyenne montagne. Ils vous feront découvrir les secrets
-    des montagnes, sa faune et sa flore, ses sommets et ses panoramas.
+    des montagnes, sa faune et sa flore, ses sommets et ses panoramas. La Savoie offre
+    de magnifique randonnées pour tous les amoureux de la nature et de la montagne.
+    Que ce soit en marchant ou en courant, vous pourrez découvrir les merveilles des
+    ses lieux. Partez explorer les montagnes en courant ou en marchant. '
+- template: textarea
+  title: La montagne et ses activités
+  content: "Autre que la randonnée et le trail, en Savoie et dans les stations on
+    y retrouve beaucoup d'activité. Les remontés mécaniques tournent l'été afin de
+    faire profiter au promeneurs des panoramas d'altitudes. Mais c'est aussi pour
+    monter son VTT et réaliser des descentes dans les parcours taillés spécialement.
+    Partez rouler et découvrez la montagne en VTT et en VTT électrique et faite le
+    plein de sensation forte lors des descentes. Les stations comme Les Arcs, Méribel,
+    Tignes sont bien connus pour leurs parcours de VTT.   \nVous pourrez également
+    faire de l'escalade en falaises avec des voix dans la Maurienne ainsi que prêt
+    de Chambery et dans les Bauges.  \nQuoi de mieux que de découvrir les montagnes
+    et sommets au dessus. Partez voler en parapente en vivant une expérience incroyable
+    avec des vues sur tous les sommets, les couleurs de l'été."
+published: false
 
 ---
