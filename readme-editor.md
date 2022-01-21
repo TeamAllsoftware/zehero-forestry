@@ -19,6 +19,8 @@ Once you have been introduce to our system, you might want to use the block comp
 
 ## LASTEST UPDATES
 
+#### update 21.01.2022 : Add a new component: cta
+
 #### update 06.01.2022 : Resort template
 
 **The resort template was updated with introduction text to personalize each resort like this capture represent it :**
@@ -66,5 +68,9 @@ block name: **2-lines-grid-txt-img**
 block name: **counter + headline + content**
 
 ![](https://res.cloudinary.com/deddrj0yb/image/upload/v1640094001/website/admin%20forestry/numberInfo_bbihcs.png)
+
+block name: **cta** (= Call To Action) means, un block to add a button
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1642758086/website/admin%20forestry/cta-block_xk4oqk.png)
 
 This is it for now
