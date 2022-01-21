@@ -45,6 +45,5 @@ page_sections:
     station des randonnées proposées par les offices de tourisme mais également par
     des accompagnateurs de moyenne montagne. Ils vous feront découvrir les secrets
     des montagnes, sa faune et sa flore, ses sommets et ses panoramas.
-published: false
 
 ---
