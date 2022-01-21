@@ -4,5 +4,12 @@ s01:
     fr: "Un style de vie outdoor"
     en: "Outdoor Way Of Life"
   p02:
-    fr: "On y va maintenant"
-    en: "Let's go now"
+    fr: 
+      txt01: "Acheter des skis d'occasion"
+      href01: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+      href_title_01: Lien vers la page de la boutique en ligne qui vend des skis d'occasion
+    en: 
+      txt01: "Let's go now"
+      href: 
+      txt02: 
+      href02: 

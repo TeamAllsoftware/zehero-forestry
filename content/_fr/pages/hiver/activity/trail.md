@@ -71,7 +71,7 @@ page_sections:
   content: |-
     Le trail ce pratique toute l'année même l'hiver. L'encadrement en trail est idéal si vous souhaitez progresser, découvrir et partager. Un coach en trail running vous permettra d'évoluer et de progresser que ce soit en montée, en descente, sur plat. Cela pourra se travailler sur des séances dîtes spécifiques.
 
-    Vous pourrez également participer à des sorties de trail longue. Elles permettront de découvrir un lieu, un environnement avec un groupe.
+    Vous pourrez également participer à des sorties de trail longues. Elles permettront de découvrir un lieu, un environnement avec un groupe.
   title: ''
 - template: 3coltxtimgtxt
   captionleftcontent: 'Soyez le Hero, partez créer vos propres exploits '
@@ -79,5 +79,11 @@ page_sections:
   captionrighttitle: Ne courez pas après le temps, appréciez en chaque secondes
   captionrightcontent: Quelque soit l'intensité de votre course, la durée et la difficulté,
     nous ressentons tous le même plaisir après avoir foulé les sentiers.
+- template: cta
+  button:
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    text_button: Réservez maintenant >
+  intro: Réservez dès maintenant vos sorties de trail
+  headline: Cours privés ou collectifs sont disponibles
 
 ---

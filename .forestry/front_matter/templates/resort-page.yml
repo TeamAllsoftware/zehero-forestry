@@ -152,7 +152,9 @@ fields:
     min: 
     max: 
 pages:
+- content/_fr/pages/ete/resort/la-loire-atlanrique.md
 - content/_fr/pages/ete/resort/les-alpes-maritimes.md
+- content/_fr/pages/ete/resort/savoie.md
 - content/_fr/pages/hiver/resort/les-menuires.html
 - content/_fr/pages/hiver/resort/meribel.html
 - content/_fr/pages/hiver/resort/tignes.html

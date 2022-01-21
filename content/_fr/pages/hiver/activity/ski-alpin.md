@@ -55,6 +55,12 @@ page_sections:
     domaine skiable et faîtes le plein de sensation. Seul ou à plusieurs, le ski alpin
     vous permettra de vivre des moments forts en émotion. '
   gridline2title: En famille, en couple, entre amis ou seul
+- template: cta
+  button:
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
+    text_button: Réserver maintenant >
+  intro: Réservez dès maintenant vos activités ski
+  headline: Cours privés ou collectifs, enfant et adultes sont disponibles
 topnav_text_color: light
 engage: Visiter un domaine en dévalant chaque piste
 

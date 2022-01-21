@@ -68,6 +68,12 @@ page_sections:
     à l'aise. Que ce soit sur la piste, dans les snowparks ou dans les hors-pistes,
     le snowboard n'attend que vous.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-duo-marche_vgtw6n.jpg
+- template: cta
+  intro: Réservez dès maintenant vos activités snowboard
+  headline: Cours privés ou collectifs, enfant et adultes sont disponibles
+  button:
+    text_button: Réserver maintenant >
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
 topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
 

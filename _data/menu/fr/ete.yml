@@ -2,7 +2,7 @@
 menu:
 - top-level:
     title: Activites
-    id: 01
+    id: "1"
     title-link: "/fr/ete/activites"
     image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592263/website/summer/eberhard-grossgasteiger-8lDkmXnKo7s-unsplash_wfd3xp.jpg
     image-alt: Un VTT stationné en haut de la montagne prêt à faire une descente
@@ -30,7 +30,7 @@ menu:
       href: "/fr/ete/activite/kayak"
 - top-level:
     title: Conseils
-    id: 02
+    id: "2"
     title-link: "/fr/ete/conseils"
     image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883625/website/summer/Kayak-duo_u76cpj.jpg
     image-alt: Un groupe de kayak descend une rivière sauvage
@@ -62,35 +62,43 @@ menu:
       href: "/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski"
 - top-level:
     title: Destinations
-    id: 03
+    id: "3"
     title-link: "/fr/ete/destinations"
     image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
     image-alt: Les Gorges du Verdon avec des kayaks et canoés
     image-link: "/fr/ete/destinations"
-    txt-button: Toutes les destinations
   column-01:
   - nested: Les stations de montagne
     menu-items:
     - title: Alpe d'Huez
-      href: "/fr/ete/station/alpe-d-huez"
+      href: "/fr/ete/destination/alpe-d-huez"
     - title: Val-Thorens
-      href: "/fr/ete/station/val-thorens"
+      href: "/fr/ete/destination/val-thorens"
     - title: Les Ménuires
-      href: "/fr/ete/station/les-menuires"
+      href: "/fr/ete/destination/les-menuires"
     - title: Tignes
-      href: "/fr/ete/station/tignes"
+      href: "/fr/ete/destination/tignes"
     - title: Val d'Isère
-      href: "/fr/ete/station/val-d-isere"
+      href: "/fr/ete/destination/val-d-isere"
     - title: Méribel
-      href: "/fr/ete/station/meribel"
+      href: "/fr/ete/destination/meribel"
   column-02:
   - nested: Les stations balnéaires
     menu-items:
     - title: Antibes
-      href: "/fr/ete/station/antibes"
+      href: "/fr/ete/destination/antibes"
+  column-03:
+  - nested: Les régions
+    menu-items:
+    - title: Loire Atlantique
+      href: /fr/ete/destination/loire-atlantique
+    - title: Les Alpes Maritimes
+      href: "/fr/ete/destination/alpes-maritimes"
+    - title: Savoie
+      href: "/fr/ete/destination/savoie"
 - top-level:
     title: Team ZE HERO
-    id: 04
+    id: "4"
     title-link: "/fr/ete/team-zehero"
     image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg
     image-alt: Une femme grimpe une voie d'escalade indoor
