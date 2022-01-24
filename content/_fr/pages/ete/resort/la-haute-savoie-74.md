@@ -37,6 +37,24 @@ page_sections:
     aux activités nautiques, la superbe ville d’Annecy, surnommée la Venise des Alpes
     ou encore les délicieuses spécialités savoyardes, autant d’atouts qui font de
     la Haute-Savoie une destination privilégiée.
+- template: textarea
+  title: Les activités en Haute Savoie
+  content: "Vous ne pourrez vous ennuyer en Haute-Savoie. Ce département est un paradis
+    d'activité Outdoor, de sport sensationnel, de découverte, d'expérience nouvelle
+    de voyage à travers la nature et des lieux d'exceptions. Que vous soyez seul,
+    entre amis, en famille, en couple, vous trouverez votre activité quelque soit
+    vos gouts et votre niveau.  \nVous pourrez alors partir randonner en montagne
+    avec un accompagnateur qui vous fera découvrir les merveilles du massif du Mont-Blanc,
+    de la réserve des Aiguilles Rouges, du massif des Aravis, du Chablais ainsi que
+    les Portes du Soleil. Vous pourrez également profitez du lac d'Annecy et de vous
+    balader entre le Semnoz, la Tournette ou encore le Mont Veyrier.  \nVous retrouvez
+    d'innombrables sommets et de randonnée à la journée ou des treks de plusieurs
+    jours avec des sommets mythiques et des randonnées incroyables. Partez sous les
+    glaciers du Mont Blanc, observez les bouquetins et le marmottes ainsi que la richesse
+    de la biodiversité de ces différents massifs Si vous désirez marcher ou courir,
+    vous trouverez votre bonheur.  \nC'est aussi une destination mondialement connue
+    pour la pratique du trail avec notamment l'UTMB et d'autres courses dans tout
+    le département. Une terre de coureur et de randonneur."
 published: false
 
 ---
