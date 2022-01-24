@@ -38,14 +38,9 @@ page_sections:
     d’améliorer la proprioception dans des terrains plus techniques. Lors des montées,
     il est important que vous commenciez par marché. En trail, vous marcherez beaucoup
     en montée, votre corps doit s’habituer à cet effort difficile.
-- template: textarea
-  content: "**Entraînements** : Commencez par 2 sorties par semaine par des tours
-    de 40mn max.  \nAprès deux semaines, vous pourrez commencez le dénivelé et faire
-    des entraînements avec fractionné et intensité."
-  title: Les débuts
 - template: numberinfo
   counter: "2"
-  text_refers_to_counter: Entraînement par semaine
+  text_refers_to_counter: 'séances par semaine '
   title: Débuter
   content: 'Commencez par 2 sorties par semaine par des tours de 40mn max. Après deux
     semaines, vous pourrez commencez le dénivelé et faire des entraînements avec fractionné
@@ -65,5 +60,13 @@ page_sections:
     des formats courts. L’idéal est donc de marcher de manière rapide en montée et
     de courir sur le plat et en descente. Le but est d’essayer de garder sa fréquence
     cardiaque plutôt basse.
+- template: numberinfo
+  counter: "1"
+  text_refers_to_counter: 'sortie avec du D+    '
+  title: Progresser
+  headline: 1 sortie D+ par semaine (+ 1 à 2 autres entraînements)
+  content: 'Réalisez ces 3 sorties sur 2 semaines. Puis ensuite vous pourrez commencer
+    à réaliser des sorties avec plus de dénivelé et du travail en côte). Débutez par
+    des sorties de 1h/1h30 et ensuite poussez jusqu’à 2h max.                       '
 
 ---
