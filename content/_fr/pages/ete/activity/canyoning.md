@@ -87,5 +87,11 @@ page_sections:
     * Dans les Pyrénées pour des canyonings réputés mondialement
     * Mais aussi dans le Jura, en Savoie, en Haute-Savoie...
   title: ''
+- template: cta
+  intro: Réservez dès maintenant vos activités canyoning
+  headline: Activités enfants et adultes sont disponibles
+  button:
+    text_button: Réserver maintenant >
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
 
 ---
