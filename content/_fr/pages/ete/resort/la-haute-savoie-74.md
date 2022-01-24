@@ -55,6 +55,29 @@ page_sections:
     vous trouverez votre bonheur.  \nC'est aussi une destination mondialement connue
     pour la pratique du trail avec notamment l'UTMB et d'autres courses dans tout
     le département. Une terre de coureur et de randonneur."
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643015412/website/summer/aurelien-krier-pwyueOgekMM-unsplash_fofpwu.jpg
+  captiontitleuppercase: Volez, roulez, grimpez
+  title: Le bonheur des aventuriers
+  content: Autre que la marche, en Haute Savoie vous trouverez également énormément
+    de zones pour faire du parapente. Volez au dessus du lac d'Annecy ou encore face
+    au Mont Blanc. Bien sûr c'est également un département idéale pour la pratique
+    du VTT. Vous trouverez des stations tels que Avoriaz, Morzine, les Gets, La Clusaz
+    qui offriront des pistes parfaites pour tous les niveaux. Partez également grimper
+    des voies dans des lieux uniques. Vous trouverez un panel de lieu parfait pour
+    pratiquer l'escalade.
+- template: textarea
+  title: Mais encore
+  content: "Ce n'est pas tout ! Les autres activités en Haute-Savoie sont encore nombreuses,
+    avec encore le Canyoning et le Rafting. Avec le canyon de la Balme, de la Pointe
+    Percé, d'Andon ou encore de Montmin, vous trouverez votre bonheur. Vous pourrez
+    également pratiquez le paddle, le kayak en navigant sur le lac d'Annecy ou encore
+    le Lac Léman.  \nPrenez votre vélo de route, sillonner les routes et partez à
+    l'assaut du col des Glières, du Semnoz, des Araviz ou encore de la Colombière.\n\nEvidement,
+    la Haute-Savoie regroupe énormément d'activité d'alpinisme entre les courses incroyables
+    à faire dans le massif du Mont-Blanc.\n\nN'attendez plus et venez profiter d'un
+    séjour unique dans le département de la Haute-Savoie et vivez des expériences
+    et de nouvelles aventures avec Ze Hero."
 published: false
 
 ---
