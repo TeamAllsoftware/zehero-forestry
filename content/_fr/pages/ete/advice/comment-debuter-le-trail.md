@@ -68,5 +68,53 @@ page_sections:
   content: 'Réalisez ces 3 sorties sur 2 semaines. Puis ensuite vous pourrez commencer
     à réaliser des sorties avec plus de dénivelé et du travail en côte). Débutez par
     des sorties de 1h/1h30 et ensuite poussez jusqu’à 2h max.                       '
+- template: textarea
+  title: Rythme d’entraînement
+  content: "Votre rythme d’entraînement va dépendre de votre base de course à pied.
+    Cela sera différent si vous ne courez quasiment jamais ou si vous avez une base
+    d’endurance et musculaire. Dans tous les cas, on ne doit pas sauter les étapes.\n\n*
+    Commencez donc par des footings de 40/45mn sur des terrains faciles et vallonnés.
+    Environ 2 fois par semaine sur 2 semaines.\n* Ajoutez à cela une sortie avec du
+    dénivelé puis ajoutez progressivement plus de dénivelé au fil des semaines. Ne
+    pas dépasser au départ plus de 3 entraînements sur les 4 premières semaines.\n*
+    Plan idéal : 1 footing 45mn vallonnée // 1 entraînement fractionné type 10*(30/30)
+    // 1 sortie dénivelé 1h30/2h\n\nNe commencez pas dans des terrains trop techniques
+    et accidentés.  \nSi vous pouvez avoir 3 entraînements/semaine c’est idéal pour
+    progresser. Plus vous avancez dans les semaines, plus vous augmenterez le dénivelé.
+    Pensez aussi à intégrer des séances de vitesse en fractionné (se référer au texte
+    comment faire du fractionné).  \nIl est aussi efficace de placer des entraînements
+    par la suite de Up/Down. C’est un entraînement qui consiste à faire sur une même
+    côte des allers/retours à différentes allures afin de travailler son efficacité
+    en côte et en descente."
+- template: textarea
+  title: Faire de la Préparation Physique Générale
+  content: "En trail, il est important d’avoir des muscles solides au niveau des jambes,
+    du ventre et du dos. Des séances de circuit training sont parfaites pour progresser
+    et permettre d’avoir des séances plus ludiques et diversifiantes.\n\nExemple de
+    séance :  \nAprès un échauffement de 20mn de course à pied, réaliser :\n\n* 20
+    squat sautés\n* 1mn de gainage de face\n* 20 fentes alternées sautées\n* 30sec
+    de gainage droit\n* 30sec de gainage gauche\n* 1mn de chaise\n* 1mn de mountains
+    climbers\n* 1mn élévation sur la pointe des pieds\n* 10 burpees\n\nVous pouvez
+    faire ce tour 2 à 3 fois.\n\nComme vous le voyez, vous pouvez donc travailler
+    par des exercices comme du gainage, des pompes, des squats et fentes, des jumpings
+    jack, de la chaise… Vous travaillerez votre renforcement musculaire, votre proprioception
+    et votre explosivité.  \nPensez également aux exercices sur banc, qui sont très
+    efficaces."
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg
+  captiontitleuppercase: Bien s'équiper, bien s'alimenter
+  title: Les différentes notions
+  content: Vous pouvez regardez nos autres articles qui expliquent “comment bien s’équiper
+    en trail” et “comment choisir ses chaussures de trail”. En ce qui concerne l'alimentation,
+    lors de chaque sortie en trail, il est primordial de savoir gérer son alimentation
+    et son hydratation. L’objectif est d’emporter sur soi assez d’eau pour toute la
+    durée de votre entraînement. Essayez de boire des petites gorgées toutes les 15mn.
+    Il est conseillé de ne pas boire trop rapidement et en trop grande quantité. Vous
+    risqueriez d’avoir mal au ventre en courant et vous aurez encore soif. Pour ce
+    qui est de l’alimentation, commencez avec des barres céréales et des compotes.
+    Commencez à vous alimenter avec des choses que vous aimez et qui sont faciles
+    à manger. Débuter le trail et manger directement des gels peut être un peu désagréable.
+    Vous pouvez vous alimenter toutes les 30mn à 1h afin de garder un taux d’énergie
+    idéal.
 
 ---
