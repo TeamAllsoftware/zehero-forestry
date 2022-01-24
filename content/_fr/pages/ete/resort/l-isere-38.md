@@ -45,11 +45,28 @@ page_sections:
     et la flore de ces massifs Isérois. Vous trouverez de nombreux sommets, des lacs
     de montagnes ainsi que la fameuse barre des Ecrins.
 - template: textarea
-  content: 'L''Isère est composée de nombreuse stations réputés comme Les 2 Alpes,
-    l''Alpe Huez, l''Oisans, les 7 Laux, Chamrousse, Villard de Lans, le Collet d''Allevard
-    et bien d''autre encore. Vous pourrez bénéficier des nombreuse infrastructures
-    et des services '
+  content: |-
+    L'Isère est composée de nombreuses stations réputées comme Les 2 Alpes, l'Alpe Huez, l'Oisans, les 7 Laux, Chamrousse, Villard de Lans, le Collet d'Allevard et bien d'autre encore. Vous pourrez bénéficier des diverses infrastructures et activités quelles proposent. Autre que la randonnée, vous pourrez pratiquer également le trail-running. Certaines stations mettent à disposition des parcours balisés ou à télécharger sur votre montre GPS.
+
+    Autre que la randonnée et la course à pied, vous pourrez aussi l'été sur le glacier des 2 Alpes pratiquer le ski et le snowboard. Profitez de faire quelque virages sous un beau soleil ou d'aller faire quelques sauts dans le snowpark.
+
+    Mais c'est également une pratique de VTT incontesté dans les différentes stations et dans les différents massifs de l'Isère. Des parcours et des itinéraires raviront tout le monde, les débutants comme les confirmés comme ceux qui souhaitent faire uniquement de la descente ou de longue randonnée.
   title: ''
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643020862/website/summer/thomas-marchand-QrvWVfYhsCk-unsplash_oceuju.jpg
+  captionabovetitle: S'évader et respirer
+  title: A pied, à vélo, dans les airs
+  gridline1title: Les lacs
+  gridline1content: L'Isère s'est aussi de nombreux lacs dont vous pourrez pratiquer
+    le kayak, le paddle. On retrouve par exemple le lac du Paladru, le lac de Laffrey,
+    le lac de Monteynard. C'est aussi un département destiné à la pratique du canyoning,
+    du rafting, du kayak, de l'hydrospeed.
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643020863/website/summer/la-coccinelle-UR3sS74PJhc-unsplash_hn3kgj.jpg
+  gridline2title: 'Roulez '
+  gridline2content: Partez en vélo de route à l'assaut de la montée de l'Alpe d'Huez,
+    franchissez le col du Granier, le col de Chamrousse, le col de Porte. Explorez
+    les campagnes Iséroises en famille et découvrez ce département.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643035410/website/summer/mercvrie-Zq0eVWKQqIo-unsplash_heonqb.jpg
 published: false
 
 ---
