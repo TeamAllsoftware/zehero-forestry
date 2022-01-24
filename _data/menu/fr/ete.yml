@@ -49,7 +49,7 @@ menu:
   - nested: Apprendre
     menu-items:
     - title: Débuter le Trail running
-      href: http://www.ze-hero.com/fr/ete/conseil/comment-debuter-trail
+      href: https://preprod-zehero-202112.netlify.app/fr/ete/conseil/comment-debuter-trail
   - nested: Entraînement / Préparation
     menu-items:
     - title: Coaching privé ou collectif
