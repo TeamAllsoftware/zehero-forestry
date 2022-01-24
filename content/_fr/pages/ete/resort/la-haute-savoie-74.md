@@ -78,6 +78,5 @@ page_sections:
     à faire dans le massif du Mont-Blanc.\n\nN'attendez plus et venez profiter d'un
     séjour unique dans le département de la Haute-Savoie et vivez des expériences
     et de nouvelles aventures avec Ze Hero."
-published: false
 
 ---
