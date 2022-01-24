@@ -7,7 +7,7 @@ title: Parapente
 permalink: "/fr/ete/activite/parapente"
 description: Parapente
 baseline: Voler, admirer et profiter
-engage: Partez découvrir les montagnes en volant au dessus d'elles
+engage: Survolez les montagnes et découvrez les sommets
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/juliette-g-bmBLu_oAEj8-unsplash_ozjgu4.jpg
 image01_alt: Un parapentiste allant décoller avec son parapente avec un coucher de
   soleil
