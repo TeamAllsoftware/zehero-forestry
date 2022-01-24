@@ -31,6 +31,19 @@ page_sections:
     avec de nombreux site historique. Séjournez en Isère, c'est profiter que vous
     soyez entre amis, en famille ou même seul, de découvrir un nature incroyable,
     d'expérience unique et de réaliser de multiples activités.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643020862/website/summer/thomas-marchand-QrvWVfYhsCk-unsplash_oceuju.jpg
+  captiontitleuppercase: Des parc et réserves naturelles
+  title: Un paradis en Montagne
+  content: L'Isère est entouré de 4 massifs qui sont le Vercors, la Chartreuse, Belledonne
+    et l'Oisans. On y retrouve également le parc national des Ecrins. Ce sont tous
+    ces parcs et massifs qui composent le département de l'Isère. Ressourcez vous
+    dans ces grands espaces naturels et évadez vous par cet environnement grandiose,
+    préservé et majestueux. Vous pourrez alors partir randonner des heures, à la journée
+    ou même plusieurs jours. Profitez d'un accompagnateur de moyenne montagne qui
+    vous révèlera tous les secrets de la montagne, vous fera découvrir toute la faune
+    et la flore de ces massifs Isérois. Vous trouverez de nombreux sommets, des lacs
+    de montagnes ainsi que la fameuse barre des Ecrins.
 published: false
 
 ---
