@@ -45,6 +45,21 @@ page_sections:
     sensations encore plus fortes.  \nLors de l'atterrissage, il faudra alors se mettre
     en position debout et courir avec le moniteur et de bien tenir sur vos jambes
     pour atterrir en toute douceur."
-published: false
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/pablo-heimplatz-R4679uf28lY-unsplash_ysyjkx.jpg
+  captionabovetitle: Pour tout le monde
+  title: Vivez l'expérience d'en haut
+  gridline1title: Pour qui ?
+  gridline1content: Le parapente et el baptême en biplace, est une activité pour tout
+    le monde. Dès 5ans et jusqu'à environ 100 kg, vous pourrez profiter de cette activité
+    de pleine air. Vous pourrez trouver des vols biplaces de randonnée, de sensation,
+    de découverte et bien d'autre.
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010435/website/summer/franck-belin-NZHouAGfeds-unsplash_kapfoo.jpg
+  gridline2title: Où voler ?
+  gridline2content: La plupart des vols de parapente vont se trouver en montagne.
+    Dans la région Rhône Alpes, il y a énormément de spots pour voler tout comme dans
+    les Pyrénées. Bien sûr, vous en trouverez également vers la Côte d'Azur, dans
+    le centre et même en Bretagne.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/nicolas-lafargue-BgFhs1MIHXM-unsplash_axpexv.jpg
 
 ---
