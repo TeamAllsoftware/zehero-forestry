@@ -44,6 +44,12 @@ page_sections:
     vous révèlera tous les secrets de la montagne, vous fera découvrir toute la faune
     et la flore de ces massifs Isérois. Vous trouverez de nombreux sommets, des lacs
     de montagnes ainsi que la fameuse barre des Ecrins.
+- template: textarea
+  content: 'L''Isère est composée de nombreuse stations réputés comme Les 2 Alpes,
+    l''Alpe Huez, l''Oisans, les 7 Laux, Chamrousse, Villard de Lans, le Collet d''Allevard
+    et bien d''autre encore. Vous pourrez bénéficier des nombreuse infrastructures
+    et des services '
+  title: ''
 published: false
 
 ---
