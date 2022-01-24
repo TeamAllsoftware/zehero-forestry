@@ -38,6 +38,33 @@ page_sections:
     d’améliorer la proprioception dans des terrains plus techniques. Lors des montées,
     il est important que vous commenciez par marché. En trail, vous marcherez beaucoup
     en montée, votre corps doit s’habituer à cet effort difficile.
+- template: textarea
+  content: "**Entraînements** : Commencez par 2 sorties par semaine par des tours
+    de 40mn max.  \nAprès deux semaines, vous pourrez commencez le dénivelé et faire
+    des entraînements avec fractionné et intensité."
+  title: Les débuts
+- template: numberinfo
+  counter: "2"
+  text_refers_to_counter: Entraînement par semaine
+  title: Débuter
+  content: 'Commencez par 2 sorties par semaine par des tours de 40mn max. Après deux
+    semaines, vous pourrez commencez le dénivelé et faire des entraînements avec fractionné
+    et intensité.                                      '
+  headline: '2 entraînements de 40mn                               '
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643040082/website/summer/IMG_20200707_120911_g5vjmz.jpg
+  captiontitleuppercase: Marcher
+  title: Marcher en montée
+  content: Après plusieurs sorties, vous pourrez donc commencer à faire une sortie
+    avec un peu de dénivelé tel qu’un parcours de 10km avec 200/300 mètres de dénivelé.
+    Penser à marcher en montée, plutôt rapidement et en gardant un rythme constant.
+    En descente, pensez à gainer votre corps, à être relâché et concentré. Ne courez
+    pas à toute vitesse lors des premières sorties en descente, vous risqueriez d’avoir
+    de bonnes courbatures aux quadriceps. Il est donc important de commencer progressivement
+    vos sorties trail et ne pas faire des sorties avec trop de dénivelé, même sur
+    des formats courts. L’idéal est donc de marcher de manière rapide en montée et
+    de courir sur le plat et en descente. Le but est d’essayer de garder sa fréquence
+    cardiaque plutôt basse.
 published: false
 
 ---
