@@ -7,10 +7,10 @@
         <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
        
         <!-- favicon icon -->
-        <link rel="shortcut icon" href="images/favicon.png">
-        <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
         <!-- style sheets and font icons  -->
         <link rel="stylesheet" type="text/css" href="/css/font-icons.min.css">
         <link rel="stylesheet" type="text/css" href="/css/theme-vendors.min.css">
@@ -21,7 +21,6 @@
         {% if page.tags %}
         <meta name="keywords" content="{{ page.tags | sort | join: ', ' }} outdoor, aventure, activité, France, émotion, partage, dépassement de soi">
         {% endif %}
-
         <!-- HTML Meta Tags -->
         {% if page.layout == "blog_post" %}
         <title>{{ page.post-title | liquify }} - {{ site.title }}</title>
@@ -29,28 +28,20 @@
         <title>{{ page.title | liquify }} - {{ site.title }}</title>
         {% endif %}
         <meta name="description" content="{{ page.description }}">
-
-
         <!-- Facebook Meta Tags -->
         {% if page.layout == "blog_post" %}
         <meta property="og:url" content="{{ site.url }}{{ page.url }}">
         {% else %}
         <meta property="og:url" content="{{ site.url }}{{ page.permalink }}">
         {% endif %}
-
         <meta property="og:type" content="website">
-
         {% if page.layout == "blog_post" %}
         <meta property="og:title" content="{{ page.post-title | liquify }} - {{ site.title }}">
         {% else %}
         <meta property="og:title" content="{{ page.title | liquify }} - {{ site.title }}">
         {% endif %}
-
         <meta property="og:description" content="{{ page.description  | truncate: 155 }}">
-
         <meta property="og:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | url_encode }}{{ page.url | url_encode }}/opengraph/1:1/smaller">
-
-
         {% if page.author != nil %}
         {% assign author = site.data.authors[page.author] %}
         <meta name="author" content="{{ author.firstname }} {{ author.lastname }}">
@@ -63,18 +54,14 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta property="twitter:domain" content="{{ site.url }}/{{ page.language }}/">
         <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
-        
         {% if page.layout == "blog_post" %}
         <meta name="twitter:title" content="{{ page.post-title | liquify }} - {{ site.title }}">
         {% else %}
         <meta name="twitter:title" content="{{ page.title | liquify }} - {{ site.title }}">
         {% endif %}
-
         <meta name="twitter:description" content="{{ page.description  | truncate: 155 }}">
         <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | url_encode }}{{ page.url | url_encode }}/opengraph/1:1/smaller">
 <!-- END OPEN GRAPH -->
-
-
     </head>
     <body data-mobile-nav-style="classic">
         <!-- start header -->

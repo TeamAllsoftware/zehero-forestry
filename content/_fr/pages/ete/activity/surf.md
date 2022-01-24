@@ -84,5 +84,11 @@ page_sections:
     pour des vagues pas très grandes mais pour réaliser un panel de figure.\n* **Guns**
     sont des planches concues surtout pour des vagues grosses et grandes. Elles sont
     donc dédiées aux surfeurs expérimentés. "
+- template: cta
+  button:
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    text_button: Réserver maintenant >
+  intro: Réservez dès maintenant vos activités surf
+  headline: Cours privés ou collectifs, enfants et adultes sont disponibles
 
 ---

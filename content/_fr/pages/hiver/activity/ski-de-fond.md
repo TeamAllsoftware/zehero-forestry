@@ -76,6 +76,12 @@ page_sections:
     * La Féclaz en Savoie est un joli terrain de balade avec une vue sur le Mont Blanc
     * Dans les Vosges, vous trouverez un grand de piste de ski de fond dans les différents domaines
     * Les Saisies, sur son plateau elle est dotée d'une très bonne qualité de neige
+- template: cta
+  intro: Réservez vos activités ski de fond
+  headline: Cours privés ou collectifs, enfant et adultes sont disponibles
+  button:
+    text_button: Réserver maintenant >
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski+de+fond&start-date=
 topnav_text_color: light
 engage: Explorer les forêts par des parcours vallonés
 

@@ -123,7 +123,7 @@ page_sections:
     afin de profiter sereinement de la montagne.  "
   title: Où aller ?
 - template: cta
-  intro: Réservez dès vos activités de ski de randonnée
+  intro: Réservez vos activités de ski de randonnée
   headline: Cours privés ou collectifs, enfant et adultes sont disponibles
   button:
     text_button: Réserver maintenant >

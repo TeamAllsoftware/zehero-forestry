@@ -87,5 +87,11 @@ page_sections:
   captionleftcontent: Soyez le Hero, courez et découvrez de nouveau horizon
   captionrighttitle: Ne courez pas après le temps, appréciez en chaque secondes
   captionrightcontent: Quelque soit le niveau, le plaisir de courir reste le même
+- template: cta
+  intro: Réservez dès maintenant vos sorties trail
+  headline: Cours privés ou collectifs sont disponibles
+  button:
+    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    text_button: Réserver maintenant >
 
 ---
