@@ -94,5 +94,6 @@ page_sections:
     l’eau, l’alimentation, une veste, votre téléphone mais aussi des bâtons. Elles
     sont bien ajustées au corps afin de ne pas avoir de mouvement lorsque vous courrez."
   title: Sacs de portage et ceintures
+published: false
 
 ---
