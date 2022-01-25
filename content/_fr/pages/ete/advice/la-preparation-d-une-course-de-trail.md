@@ -36,7 +36,7 @@ page_sections:
   content: "Le nombre d’entraînement par semaine est de 2 minimum mais si l’on veut
     vraiment progresser il faudrait en avoir 3.  \nMaintenant peu importe votre lieu
     de vie, on peut préparer quand même un trail même si vous ne vivez pas en montagne.
-    Néanmoins, les séances seront forcément adaptées.  \nLes différentes séances que
+    Néanmoins, les séances seront forcément adaptées.\n\nLes différentes séances que
     nous trouveront aussi sont :\n\n* des footings : il faut les faire cool, pas à
     un rythme fort\n* du fractionné : séances avec des changements d’allures sur une
     période donnée afin d’augmenter votre vitesse aérobie\n* des séances de côte :
@@ -48,10 +48,18 @@ page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643107336/website/Conseil%20Equiepement/runner-5589149_1920_ettz2o.jpg
   captiontitleuppercase: Un plan d'entraînement sur 8 semaines
-  title: La semaine 1
-  content: 'Jour 1 : Footing 45mn // Jour 2 : 1H avec 2 fois (4 fois 30”/30”) Récup
-    2mn entre (enchainement de 30 secondes rapide/ 30 secondes lent) //  Jour 3 :
-    Footing 1h'
+  title: Préparation pour votre 1er trail
+  content: Nous allons décomposé en 8 semaines d'entraînement votre préparation à
+    un 1er trail. Nous resterons tout le long sur une base de 3 entraînements par
+    semaine. Cela permet de bien récupérer et de pouvoir commencer à progresser et
+    à vous améliorer. Essayer de mettre l'entraînement 3 de chaque semaine plutôt
+    le week-end afin d'avoir le temps.
+- template: textarea
+  content: |-
+    1. Footing 45mn
+    2. 1H avec 2 fois (4 fois 30”/30”) Recup 2mn entre ( enchainement de 30 secondes rapide/ 30 secondes lent)
+    3. Footing 1h
+  title: Semaine 1
 - template: textarea
   content: |-
     1. Footing 45mn
@@ -70,5 +78,51 @@ page_sections:
     2. 20mn échauffement // sur une pente raide faire 6 à 8 fois (10 squat au début / 30seconde en montée / 10 squat au sommet / descente rapide en bas/ Récup 40sec en bas)
     3. 1h15 avec 3 fois 5mn d’accélération à placer quand vous voulez
   title: Semaine 4
+- template: textarea
+  content: |-
+    1. Footing 45mn
+    2. Footing 1h30
+  title: Semaine 5
+- template: textarea
+  content: |-
+    1. Variations d’allures : 1h avec 2 fois 10mn vite
+    2. 20mn échauffement // 40mn Up/Down (vous trouvez une monté raide de 100 D+, vous montez et descendez sans arrêt pendant 40mn) en alternant 1 montée en marche rapide et 1 montée en courant plus vite // 15mn retour
+    3. 2h30 de course avec dénivelé
+  title: Semaine 6
+- template: textarea
+  content: |-
+    1. Footing 45mn
+    2. Footing 1h
+    3. Sortie 2h avec dénivelé
+  title: Semaine 7
+- template: textarea
+  content: |-
+    1. 45mn de course
+    2. Veille de course : footing de 20mn
+    3. COURSE
+  title: Semaine 8
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643107336/website/Conseil%20Equiepement/pexels-pixabay-221210_s94tzt.jpg
+  captiontitleuppercase: Bien récupérer
+  title: Le repos et les étirements
+  content: Le repos est très important avant la course. Il faut donc bien dormir et
+    avoir un sommeil récupérateur. En ce qui concerne les étirements, prenez le temps
+    d’en faire les jours où vous ne courrez pas. Prenez donc 15mn de temps, et étirez
+    vous, relâchez vous et respirez. Il est important d’étirer toute la chaîne musculaire
+    des jambes (mollets, quadriceps, ischios, adducteurs, fessiers) mais aussi le
+    dos, le cou et les bras. Toutefois, ne faîtes pas d’étirements après une séance
+    intense en course à pied car on risque d’abîmer le muscles puisque l’on a tiré
+    et cassé ses fibres musculaires.
+- template: textarea
+  title: L’alimentation pour préparer une course de Trail
+  content: "En ce qui concerne l’alimentation, ne changez pas vos habitudes 1 semaine
+    avant la course. Adapter un régime sain et équilibré. Se remplir le ventre de
+    pâte la veille n’est pas forcément idéal non plus mais seulement un plat de glucide
+    facile à digérer.  \nEnfin, buvez énormément, et variez les eaux minérales.\n\nConcernant
+    l’alimentation pendant la course. N’attendais pas le jour de la compétition pour
+    essayer une barre énergétique, un gel ou une boisson. Vous pouvez avoir de mauvaises
+    surprises. Tester ces choses pendant vos entraînements. Vous verrez ce que vous
+    aimez manger, ce qui vous fait du bien, que vous arrivez à mâcher. Et aussi si
+    cela ne vous fait pas mal au ventre."
 
 ---
