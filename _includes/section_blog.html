@@ -24,9 +24,7 @@
                     <div class="newsletter-email position-relative w-55 lg-w-50 md-w-100">
                         <form name="newsletter-{{ page.language }}"  method="POST" data-netlify="true">
                             <input class="border-radius-5px large-input border-0 box-shadow-extra-large bg-white m-0 required" name="email" placeholder="Entrer votre adresse email" type="email">
-                            <!-- <input type="hidden" name="redirect" value=""> -->
-                            <button  type="submit" class="btn btn-medium line-height-18px margin-10px-right border-left border-width-1px border-color-black-transparent xs-no-margin-right submit"><i class="far fa-envelope text-extra-dark-gray icon-very-small left-icon xs-no-margin-right"></i><span class="d-none d-sm-inline-block">{{ site.data.config.[page.language].section-blog.txt04 }}</span></button>
-                            <div class="form-results border-radius-5px position-absolute d-none"></div>
+                            <button type="submit" class="btn btn-medium line-height-18px margin-10px-right border-left border-width-1px border-color-black-transparent xs-no-margin-right"><i class="far fa-envelope text-extra-dark-gray icon-very-small left-icon xs-no-margin-right"></i><span class="d-none d-sm-inline-block">{{ site.data.config.[page.language].section-blog.txt04 }}</span></button>    
                         </form>
                     </div>
                 </div>
