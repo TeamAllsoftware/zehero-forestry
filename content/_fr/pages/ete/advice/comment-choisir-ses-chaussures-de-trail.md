@@ -54,9 +54,30 @@ page_sections:
     surprise sur les passages techniques.
 - template: textarea
   content: |-
-    Si vous courez un terrain plutôt forêt, sec et polyvalent, une chaussure plus souple sera idéale. Il ne sera pas nécessaire d’avoir des crampons importants dessus. Afin de garder le maximum d’efficacité, prenez donc une chaussure plutôt légère et souple.
+    Si vous courez un terrain plutôt forêt, sec et polyvalent, une chaussure plus souple sera idéale. Il ne sera pas nécessaire d’avoir des crampons importants dessus. Afin de garder le maximum d’efficacité, prenez donc une chaussure plutôt légère et souple. Si vous courez dans la neige, il faudra surtout chercher une chaussure avec des crampons beaucoup plus grands, plutôt imperméables accompagnés de guêtres.
 
-     Si vous courez dans la neige, il faudra surtout chercher une chaussure avec des crampons beaucoup plus grands, plutôt imperméables accompagnés de guêtres.
+    La forme des crampons a une importance dans le bon maintien et dans l’accroche de la chaussure sur le terrain. Ils sont généralement placés avec la pointe vers l’avant pour l’avant du pied et inversement pour l’arrière. Lorsque les formes de crampons changent, c’est aussi pour améliorer la qualité de l’accroche. Cela est surtout fait pour améliorer l’accroche dans des terrains techniques lorsqu’il y a des appuis fuyant et des changements de direction. La gomme du crampon a aussi son importance. Une gomme plus tendre permettra d’avoir une meilleure tenue sur des parties glissantes et lisses, et une gomme dure aura une meilleure dans des terrains plutôt mou.
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111395/website/Conseil%20Equiepement/IMG_20200809_084058_jdej19.jpg
+  title: La distance
+  captiontitleuppercase: Le choix en fonction des kilomètres
+  content: Les chaussures ne sont pas toutes adaptées pour certaines distances. Des
+    chaussures d’Ultra-Trail ne seront pas aussi dynamiques, aussi explosives et réactives
+    que des chaussures pour des formats courts. Prenez bien le temps de regarder ce
+    à quoi la chaussure est destinée en termes de distance. Pour des courses courtes,
+    on va privilégier la vitesse, l’explosivité, le dynamisme. Donc on va choisir
+    une chaussure plutôt légère et réactive, afin de garder le maximum d’efficacité.
+    Pour des courses de moyenne distance, on va chercher une chaussure plutôt polyvalente.
+    Pour les Ultra-Trails on va surtout privilégier une chaussure avec beaucoup de
+    maintien et de protection, mais aussi une chaussure robuste
+- template: textarea
+  title: Le niveau
+  content: |-
+    Le choix d’une chaussure ne sera pas identique en fonction de votre niveau. Si vous débutez le Trail, il ne faut pas chercher à prendre une chaussure qui demande beaucoup d’énergie et qui soit rigide.
+
+    * Si vous débutez, cherchez une chaussure plutôt légère et souple avec de l’amortie et surtout du confort.
+    * Si vous êtes confirmé, vous pouvez avoir une chaussure plus rigide, plus technique, plus renforcée.
+published: false
 
 ---
