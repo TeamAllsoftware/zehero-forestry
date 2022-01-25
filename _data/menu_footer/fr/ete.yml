@@ -1,52 +1,45 @@
-- col: "Nos activités"
-  title-link: /fr/ete/activites
-  link:
-  - subtitle: Trail running
-    subhref: "/fr/ete/activite/trail-running"
-  - subtitle: VTT
-    subhref: "/fr/ete/activite/vtt"
-  - subtitle: Randonnée en montagne
-    subhref: "/fr/ete/activite/randonnee-montagne"
-  - subtitle: Traversée des Alpes à vélo
-    subhref: "/fr/ete/activite/traversee-des-alpes-en-velo"
-  - subtitle: Surf
-    subhref: "/fr/ete/activite/surf"
-  - subtitle: Canyoning
-    subhref: "/fr/ete/activite/canyoning"
-  - subtitle: Kayak
-    subhref: "/fr/ete/activite/kayak"
-- col: "Conseils"
-  title-link: /fr/ete/conseils
-  link:
-  - subtitle: "Choisir son magasin de location de ski"
-    subhref: "/fr/ete/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
-  - subtitle: "Comment choisir ses skis d'occasion"
-    subhref: "/fr/ete/conseil/ski-d-occasion"
-  - subtitle: "Comment choisir ses boots de snowboard"
-    subhref: "/fr/ete/conseil/boots-snowboard"
-- col: "Destinations"
-  title-link: /fr/ete/destinations
-  link:
-  - subtitle: "Alpe d'Huez"
-    subhref: "/fr/ete/station/alpe-d-huez"
-  - subtitle: "Val-Thorens"
-    subhref: "/fr/ete/station/val-thorens"
-  - subtitle: "Les Ménuires"
-    subhref: "/fr/ete/station/les-menuires"
-  - subtitle: "Tignes"
-    subhref: "fr/ete/station/tignes"
-  - subtitle: "Val d'Isère"
-    subhref: "fr/ete/station/val-d-isere"
-  - subtitle: "Méribel"
-    subhref: "fr/ete/station/meribel"
-- col: "e-Shop"
-  title-link: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
-  link:
-  - subtitle: "Acheter des skis d'occasion"
-    subhref: "https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion"
-  - subtitle: "Louer des skis"
-    subhref: "https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&subslug=%2Fman-skis-rental&number_rental_days=1"
-  - subtitle: "Louer des chaussures"
-    subhref: "https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1"
-  - subtitle: "Louer un snowboard"
-    subhref: "https://fr.ze-hero.com/location-materiel/location-snowboard/location-snowboard-adulte"
+columns:
+  - col: "Nos activités"
+    title-link: /fr/ete/activites
+    link:
+    - subtitle: Trail running
+      subhref: "/fr/ete/activite/trail-running"
+    - subtitle: VTT
+      subhref: "/fr/ete/activite/vtt"
+    - subtitle: Randonnée en montagne
+      subhref: "/fr/ete/activite/randonnee-montagne"
+    - subtitle: Traversée des Alpes à vélo
+      subhref: "/fr/ete/activite/traversee-des-alpes-en-velo"
+    - subtitle: Surf
+      subhref: "/fr/ete/activite/surf"
+    - subtitle: Canyoning
+      subhref: "/fr/ete/activite/canyoning"
+    - subtitle: Kayak
+      subhref: "/fr/ete/activite/kayak"
+  - col: "Conseils"
+    title-link: /fr/ete/conseils
+    link:
+    - subtitle: "Choisir son magasin de location de ski"
+      subhref: "/fr/ete/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
+    - subtitle: "Comment choisir ses skis d'occasion"
+      subhref: "/fr/ete/conseil/ski-d-occasion"
+    - subtitle: "Comment choisir ses boots de snowboard"
+      subhref: "/fr/ete/conseil/boots-snowboard"
+  - col: "Destinations"
+    title-link: /fr/ete/destinations
+    link:
+    - subtitle: "Alpe d'Huez"
+      subhref: "/fr/ete/station/alpe-d-huez"
+    - subtitle: "Val-Thorens"
+      subhref: "/fr/ete/station/val-thorens"
+    - subtitle: "Les Ménuires"
+      subhref: "/fr/ete/station/les-menuires"
+    - subtitle: "Tignes"
+      subhref: "fr/ete/station/tignes"
+    - subtitle: "Val d'Isère"
+      subhref: "fr/ete/station/val-d-isere"
+    - subtitle: "Méribel"
+      subhref: "fr/ete/station/meribel"
+
+payment-title: Modes de paiement
+payment-txt01: Les paiements sont sécurisés par 3D Secure de Monetico Crédit Mutuel
