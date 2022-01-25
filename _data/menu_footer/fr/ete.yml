@@ -1,18 +1,20 @@
 - col: "Nos activités"
   title-link: /fr/ete/activites
   link:
-  - subtitle: 'Ski alpin'
-    subhref: /fr/ete/activite/ski-alpin
-  - subtitle: 'Ski de randonnée'
-    subhref: /fr/ete/activite/ski-de-randonnee
-  - subtitle: 'Snowboards'
-    subhref: /fr/ete/activite/snowboard
-  - subtitle: 'Raquettes'
-    subhref: /fr/ete/activite/raquettes
-  - subtitle: 'Ski freeride'
-    subhref: fr/ete/activite/freeride
-  - subtitle: 'Ski de fond'
-    subhref: fr/ete/activite/ski-de-fond
+  - subtitle: Trail running
+    subhref: "/fr/ete/activite/trail-running"
+  - subtitle: VTT
+    subhref: "/fr/ete/activite/vtt"
+  - subtitle: Randonnée en montagne
+    subhref: "/fr/ete/activite/randonnee-montagne"
+  - subtitle: Traversée des Alpes à vélo
+    subhref: "/fr/ete/activite/traversee-des-alpes-en-velo"
+  - subtitle: Surf
+    subhref: "/fr/ete/activite/surf"
+  - subtitle: Canyoning
+    subhref: "/fr/ete/activite/canyoning"
+  - subtitle: Kayak
+    subhref: "/fr/ete/activite/kayak"
 - col: "Conseils"
   title-link: /fr/ete/conseils
   link:
