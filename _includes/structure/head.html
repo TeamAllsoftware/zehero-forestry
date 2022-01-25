@@ -23,9 +23,9 @@
         {% endif %}
         <!-- HTML Meta Tags -->
         {% if page.layout == "blog_post" %}
-        <title>{{ page.post-title | liquify }} - {{ site.title }}</title>
+        <title>{{ page.post-title | liquify }} | {{ site.title }}</title>
         {% else %}
-        <title>{{ page.title | liquify }} - {{ site.title }}</title>
+        <title>{{ page.title | liquify }} | {{ site.title }}</title>
         {% endif %}
         <meta name="description" content="{{ page.description }}">
         <!-- Facebook Meta Tags -->
