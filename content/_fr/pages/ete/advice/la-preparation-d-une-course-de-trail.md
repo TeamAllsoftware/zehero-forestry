@@ -70,6 +70,5 @@ page_sections:
     2. 20mn échauffement // sur une pente raide faire 6 à 8 fois (10 squat au début / 30seconde en montée / 10 squat au sommet / descente rapide en bas/ Récup 40sec en bas)
     3. 1h15 avec 3 fois 5mn d’accélération à placer quand vous voulez
   title: Semaine 4
-published: false
 
 ---
