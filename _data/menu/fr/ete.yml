@@ -39,12 +39,10 @@ menu:
   column-01:
   - nested: Matériel
     menu-items:
-    - title: Choisir son magasin de location de ski
-      href: "/fr/hiver/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
-    - title: Comment choisir ses skis d'occasion
-      href: "/fr/hiver/conseil/ski-d-occasion"
-    - title: Comment choisir ses boots de snowboard
-      href: "/fr/hiver/conseil/boots-snowboard"
+    - title: Comment bien s'équiper en trail ?
+      href: https://preprod-zehero-202112.netlify.app/fr/ete/conseil/equipement-trail
+    - title: Comment choisir ses chaussures de trail ?
+      href: https://preprod-zehero-202112.netlify.app/fr/ete/conseil/chaussures-trail
   column-02:
   - nested: Apprendre
     menu-items:
@@ -52,10 +50,10 @@ menu:
       href: https://preprod-zehero-202112.netlify.app/fr/ete/conseil/comment-debuter-trail
   - nested: Entraînement / Préparation
     menu-items:
+    - title: Comment se préparer à un 1er trail ?
+      href: https://preprod-zehero-202112.netlify.app/fr/ete/conseil/preparation-course-trail
     - title: Coaching privé ou collectif
       href: "/fr/hiver/activite/coaching-sportif"
-    - title: Comment se préparer physiquement pour le ski
-      href: "/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski"
 - top-level:
     title: Destinations
     id: "3"
