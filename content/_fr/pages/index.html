@@ -1,11 +1,74 @@
 ---
 layout: default
-title: Le e-shop des activités de plein air en couple, en famille ou entre amis.
-description: ZE HERO, c'est une boutique en ligne pour commander des activités de plein air, louer ou acheter du matériel; et un site web avec des conseils et des articles de blog pour s'inspirer et progresser dans sa pratique.
+title: ZE HERO vous conseille pour la saison d'été et la saison d'hiver, à vous de choisir
+description: ZE HERO est la boutique en ligne été / hiver pour commander vos activités de plein air, louer ou acheter du matériel; et un site web avec des conseils et des articles de blog pour s'inspirer.
 
 permalink: /fr/
 language: fr
 season: winter
 topnav_color_text: light
-redirect_to: /fr/hiver/
 ---
+{% include elements/generic_variables.html %}
+<!-- start page title -->
+<section class="half-section bg-light-gray parallax" data-parallax-background-ratio="0.5" style="background-image:url('https://res.cloudinary.com/deddrj0yb/image/upload/v1638888152/website/global/bg-style-020_fhjltk.jpg');">
+    <div class="container">
+        <div class="row align-items-stretch justify-content-center extra-small-screen">
+            <div class="col-12 col-xl-6 col-lg-7 col-md-8 page-title-extra-small text-center d-flex justify-content-center flex-column">
+                <h1 class="alt-font text-gradient-sky-blue-pink margin-15px-bottom d-inline-block">Choisissez votre saison</h1>
+                <h2 class="text-extra-dark-gray alt-font font-weight-500 letter-spacing-minus-1px line-height-50 sm-line-height-45 xs-line-height-30 no-margin-bottom">Hiver ou été ?</h2>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end page title -->
+<!-- start section -->
+<section class="bg-light-gray pt-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 filter-content">
+                <ul class="portfolio-classic portfolio-wrapper grid grid-loading grid-2col xl-grid-2col lg-grid-2col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center">
+                    <li class="grid-sizer"></li>
+                    <!-- start portfolio item -->
+                    <li class="grid-item wow animate__fadeIn">
+                        <div class="portfolio-box border-radius-6px box-shadow-large">
+                            <div class="portfolio-image bg-gradient-fast-blue-purple">
+                                <img src="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | url_encode }}%2Ffr%2Fhiver/opengraph/1:1/smaller" width="800" height="650" alt="Image représentant le site en saison hiver" />
+                                <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
+                                    <div class="portfolio-icon">
+                                        
+                                        <a href="/fr/hiver/" title="Lien vers la saison d'hiver" class="text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-link icon-very-small" aria-hidden="true"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio-caption bg-white padding-30px-tb md-padding-20px-tb">
+                                <a href="/fr/hiver/" title="Lien vers la saison d'hiver"><span class="alt-font text-extra-dark-gray font-weight-500">Hiver</span></a>
+                                
+                            </div>
+                        </div>
+                    </li>
+                    <!-- end portfolio item -->
+                    <!-- start portfolio item -->
+                    <li class="grid-item logos wow animate__fadeIn" data-wow-delay="0.2s">
+                        <div class="portfolio-box border-radius-6px box-shadow-large">
+                            <div class="portfolio-image bg-gradient-fast-blue-purple">
+                                <img src="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | url_encode }}%2Ffr%2Fete/opengraph/1:1/smaller" width="800" height="650" alt="Image représentant le site en saison ete" />
+                                <div class="portfolio-hover align-items-center justify-content-center d-flex h-100">
+                                    <div class="portfolio-icon">
+                                        
+                                        <a href="/fr/ete/" title="Lien vers la saison d'été" class="text-slate-blue text-slate-blue-hover rounded-circle bg-white"><i class="fas fa-link icon-very-small" aria-hidden="true"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="portfolio-caption bg-white padding-30px-tb md-padding-20px-tb">
+                                <a href="/fr/ete/" title="Lien vers la saison d'été"><span class="alt-font text-extra-dark-gray font-weight-500">Eté</span></a>
+                                
+                            </div>
+                        </div>
+                    </li>
+                    <!-- end portfolio item -->
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->
