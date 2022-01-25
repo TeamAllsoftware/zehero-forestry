@@ -127,5 +127,17 @@ page_sections:
     Leki. Ils vous aideront dans les montées raides et longues, à condition de bien
     savoir les utiliser. Ils peuvent être aussi utilisés en descente afin de vous
     aider et de soulager vos articulations.
+- template: textarea
+  title: Les plus
+  content: Il est important de garder dans son sac à dos une couverture de survie,
+    très légère elle ne prend pas de place mais peut sauver une vie. Les frontales
+    vous seront utiles lors de vos courses nocturnes ou très matinales. Une carte
+    IGN peut être indispensable pour construire votre itinéraire ou retrouver votre
+    chemin. Il est important de garder à l’esprit qu’avec l’altitude le vent peut
+    être très froid et peut faire baisser très rapidement les températures. Un coupe
+    vent ou une petite veste sont toujours à avoir dans le sac. Accordez beaucoup
+    d’importance à l’hydratation. Vous pouvez vous retrouver en sortie sans trouver
+    de point d’eau pendant très longtemps. Alors même si cela rajoute un peu de poids,
+    n’hésitez pas à toujours prévoir une flasque en plus.
 
 ---
