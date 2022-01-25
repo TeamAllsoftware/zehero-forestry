@@ -127,6 +127,5 @@ page_sections:
     Leki. Ils vous aideront dans les montées raides et longues, à condition de bien
     savoir les utiliser. Ils peuvent être aussi utilisés en descente afin de vous
     aider et de soulager vos articulations.
-published: false
 
 ---
