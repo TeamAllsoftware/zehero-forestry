@@ -98,6 +98,35 @@ page_sections:
     l’eau, l’alimentation, une veste, votre téléphone mais aussi des bâtons. Elles
     sont bien ajustées au corps afin de ne pas avoir de mouvement lorsque vous courrez."
   title: Sacs de portage et ceintures
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883623/website/summer/Trail-groupe-foret_pdh70t.jpg
+  captiontitleuppercase: Casquette, Bonnet, Buff, Lunettes
+  title: Sur la tête
+  content: La casquette est un accessoire indispensable lors de vos sorties Trail,
+    surtout l’été. Vous pourrez être amené à courir en plein soleil pendant des heures
+    et le soleil peut causer des dégâts si vous n’êtes pas protégé. S’il fait froid,
+    avoir sur soi un petit bonnet technique ou un buff permet d’avoir le cou et les
+    oreilles au chaud. Les lunettes de soleil sont aussi très importantes pour vos
+    yeux surtout en altitude.
+- template: textarea
+  content: 'Aujourd’hui on retrouve énormément de montre de sport, de montre GPS et
+    de montre connectée. Ce n’est pas un outil obligatoire mais il permet d’avoir
+    différents indicateurs importants. Vous trouverez des montres vous affichant les
+    indicateurs les plus basiques : les kilomètres, le temps et la vitesse. Certaines
+    sont dotées en plus d’un altimètre et d’un baromètre. Pour les montres les plus
+    poussées, vous retrouverez une cartographie où vous pourrez mettre des traces
+    et des itinéraires à suivre.'
+  title: Montres GPS
+- template: textarea
+  title: Les bâtons
+  content: Les bâtons sont aujourd’hui très présents dans le Trail. Ce n’est pas uniquement
+    pour les marcheurs et les randonneurs. En trail, ils peuvent vous alléger de 20%
+    lors de votre effort en montée. La plupart des modèles sont aujourd’hui très légers
+    et se plient en 3 brins pour que vous puissiez les ranger très facilement dans
+    votre sac ou votre ceinture. Il existe ceux à lanière simple ou avec le système
+    Leki. Ils vous aideront dans les montées raides et longues, à condition de bien
+    savoir les utiliser. Ils peuvent être aussi utilisés en descente afin de vous
+    aider et de soulager vos articulations.
 published: false
 
 ---
