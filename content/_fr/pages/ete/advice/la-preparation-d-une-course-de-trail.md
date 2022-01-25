@@ -49,9 +49,8 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643107336/website/Conseil%20Equiepement/runner-5589149_1920_ettz2o.jpg
   captiontitleuppercase: Un plan d'entraînement sur 8 semaines
   title: La semaine 1
-  content: |-
-    1. Footing 45mn
-    2. 1H avec 2 fois (4 fois 30”/30”) Recup 2mn entre ( enchainement de 30 secondes rapide/ 30 secondes lent)
-    3. Footing 1h
+  content: 'Jour 1 : Footing 45mn // Jour 2 : 1H avec 2 fois (4 fois 30”/30”) Récup
+    2mn entre (enchainement de 30 secondes rapide/ 30 secondes lent) //  Jour 3 :
+    Footing 1h'
 
 ---
