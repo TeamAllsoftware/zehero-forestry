@@ -53,6 +53,5 @@ page_sections:
     1. Footing 45mn
     2. 1H avec 2 fois (4 fois 30”/30”) Recup 2mn entre ( enchainement de 30 secondes rapide/ 30 secondes lent)
     3. Footing 1h
-published: false
 
 ---
