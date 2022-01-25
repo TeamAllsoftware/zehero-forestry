@@ -14,12 +14,16 @@ button_to_link_to_ze_hero_shop:
   button_text: Trouver votre séance de Trail
   url_to_shop_zehero: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 page_sections:
-- template: textarea
-  content: |-
-    La course à pied est un sport où l’équipement porté reste simple : un short, un t-shirt et une paire de chaussures. Le trail quant à lui nécessite un équipement plus poussé. La météo ne s’adapte pas à nous, c’est donc à nous de de s’adapter à elle afin d’être bien équipé.
-
-    On dit qu’il n’y a pas de mauvais temps, que des mauvais habits.
-  title: L'équipement en trail running
+- template: 2colimgtxt
+  content: 'La course à pied est un sport où l’équipement porté reste simple : un
+    short, un t-shirt et une paire de chaussures. Le trail quant à lui nécessite un
+    équipement plus poussé. La météo ne s’adapte pas à nous, c’est donc à nous de
+    de s’adapter à elle afin d’être bien équipé. Il nécessite également plus d''équipement
+    lorsque nous allons partir longtemps en montagne où nous courons alors en total
+    autonomie. On dit qu’il n’y a pas de mauvais temps, que des mauvais habits.'
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643040082/website/summer/IMG_20200725_103745_svblrc.jpg
+  captiontitleuppercase: L'équipement en trail running
+  title: Simple mais technique
 - template: liststyle01
   title: 'Notre équipement sera différent selon :'
   item:
