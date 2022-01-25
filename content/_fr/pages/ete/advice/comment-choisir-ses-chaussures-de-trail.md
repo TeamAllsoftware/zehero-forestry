@@ -58,6 +58,5 @@ page_sections:
 
      Si vous courez dans la neige, il faudra surtout chercher une chaussure avec des crampons beaucoup plus grands, plutôt imperméables accompagnés de guêtres.
   title: ''
-published: false
 
 ---
