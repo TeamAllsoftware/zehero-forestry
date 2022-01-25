@@ -48,12 +48,8 @@ menu:
   column-02:
   - nested: Apprendre
     menu-items:
-    - title: Comment choisir son école de ski ?
-      href: "/fr/hiver/conseil/choisir-ecole-de-ski"
-    - title: Apprendre en cours privé ou collectif ?
-      href: "/fr/hiver/conseil/cours-privé-cours-collectif"
-    - title: Choisir le bon niveau de cours en ski et snowboard
-      href: "/fr/hiver/conseil/choisir-niveau-ski-snowboard"
+    - title: Débuter le Trail running
+      href: https://preprod-zehero-202112.netlify.app/fr/ete/conseil/comment-debuter-trail
   - nested: Entraînement / Préparation
     menu-items:
     - title: Coaching privé ou collectif
@@ -91,7 +87,7 @@ menu:
   - nested: Les régions
     menu-items:
     - title: Loire Atlantique
-      href: /fr/ete/destination/loire-atlantique
+      href: "/fr/ete/destination/loire-atlantique"
     - title: Les Alpes Maritimes
       href: "/fr/ete/destination/alpes-maritimes"
     - title: Savoie
