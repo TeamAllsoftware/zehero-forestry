@@ -178,22 +178,22 @@ img:
 
 ## List of sizevar variables
 #logo
-  logo_header: c_fill,w_222,h_57
-  logo_headerx2: c_fill,w_444,h_114
-  logo_footer: c_fill,w_135,h_36
+  logo_header: c_fill,w_222,h_57/f_auto
+  logo_headerx2: c_fill,w_444,h_114/f_auto
+  logo_footer: c_fill,w_135,h_36/f_auto
 #activity image in list
-  activitylist: c_fill,w_322,h_446
+  activitylist: c_fill,w_322,h_446/f_auto
 #blog post thumbnail list
-  blogpostlist: c_fill,w_600,h_450
+  blogpostlist: c_fill,w_600,h_450/f_auto
 #blog post thumbnail list in blog homepage
-  homeblogpostlist: c_fill,w_800,h_970
+  homeblogpostlist: c_fill,w_800,h_970/f_auto
 #blog post image hero in the post
-  blogposthero: c_fill,w_1300,h_800
+  blogposthero: c_fill,w_1300,h_800/f_auto
 #image gallery style 2
-  bigsquare: c_fill,w_800,h_803
-  rectangle: c_fill,w_800,h_387
-  smlsquare: c_fill,w_400,h_400
+  bigsquare: c_fill,w_800,h_803/f_auto
+  rectangle: c_fill,w_800,h_387/f_auto
+  smlsquare: c_fill,w_400,h_400/f_auto
 #resort hero image
-  resorthero: c_fill,w_1200,h_700
+  resorthero: c_fill,w_1200,h_700/f_auto
 #generic
-  genhero: c_fill,w_1500,h_1200
+  genhero: c_fill,w_1500,h_1200/f_auto
