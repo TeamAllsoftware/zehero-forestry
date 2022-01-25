@@ -52,5 +52,24 @@ page_sections:
   content: 'Jour 1 : Footing 45mn // Jour 2 : 1H avec 2 fois (4 fois 30”/30”) Récup
     2mn entre (enchainement de 30 secondes rapide/ 30 secondes lent) //  Jour 3 :
     Footing 1h'
+- template: textarea
+  content: |-
+    1. Footing 45mn
+    2. 20mn échauffement // sur une cote légèrement raide faire 2 fois (5 fois 30 secondes de montée rapide // Récupérer en redescendant au point de départ) Récupe 2mn entre // puis 15mn de footing cool après
+    3. Sortie de 1h15 vallonnée
+  title: Semaine 2
+- template: textarea
+  content: |-
+    1. 20mn échauffement // accélérations sur 1mn / 2mn / 3mn / 4mn / 3mn / 2mn / 1mn avec comme récupération 1mn / 1mn / 2mn / 2mn / 1 mn // Retour 15mn cool. Le but est de varier vos allures sur les minutes d’efforts. L’accélération sur les 4mn est moins importante que sur celle de 2mn
+    2. Footing 45mn
+    3. 2h parcours avec dénivelé en marchant dans les pentes de façon actif
+  title: Semaine 3
+- template: textarea
+  content: |-
+    1. Footing 1h
+    2. 20mn échauffement // sur une pente raide faire 6 à 8 fois (10 squat au début / 30seconde en montée / 10 squat au sommet / descente rapide en bas/ Récup 40sec en bas)
+    3. 1h15 avec 3 fois 5mn d’accélération à placer quand vous voulez
+  title: Semaine 4
+published: false
 
 ---
