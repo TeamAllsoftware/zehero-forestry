@@ -78,6 +78,5 @@ page_sections:
 
     * Si vous débutez, cherchez une chaussure plutôt légère et souple avec de l’amortie et surtout du confort.
     * Si vous êtes confirmé, vous pouvez avoir une chaussure plus rigide, plus technique, plus renforcée.
-published: false
 
 ---
