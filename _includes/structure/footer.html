@@ -40,7 +40,7 @@
                     </div>
                     <!-- end footer column -->
 
-                    {% for column in footnav %}
+                    {% for column in footnav.columns %}
                     <!-- start footer column -->
                     <div class="col-12 col-lg-2 col-sm-4 order-sm-3 order-lg-0 xs-margin-25px-bottom">
                         <a href="{{ column.title-link }}"><span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">{{ column.col }}</span></a>
@@ -53,7 +53,13 @@
                     <!-- end footer column -->
                     {% endfor %}
 
-                    
+                    <!-- start footer column -->
+                    <div class="col-12 col-lg-2 col-sm-4 order-sm-3 order-lg-0 xs-margin-25px-bottom">
+                        <a href="{{ column.title-link }}"><span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">{{ site.data.menu_footer.[language].[season_language].payment-title }}</span></a>
+                        <p>{{ site.data.menu_footer.[language].[season_language].payment-txt01 }}</p>
+                        <img src="{% include image.html file="https://res.cloudinary.com/deddrj0yb/image/upload/v1643140492/website/global/payment-cards_pcyzaq.png" sizevar="" width="100" height="100" %}" alt="Image paiement card" />
+                    </div>
+
                 </div>
             </div>
         </div>
