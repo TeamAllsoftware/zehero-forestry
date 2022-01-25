@@ -124,5 +124,44 @@ page_sections:
     surprises. Tester ces choses pendant vos entraînements. Vous verrez ce que vous
     aimez manger, ce qui vous fait du bien, que vous arrivez à mâcher. Et aussi si
     cela ne vous fait pas mal au ventre."
+- template: 2colimgtxt
+  captiontitleuppercase: Le jour de la compétition
+  title: Jour J
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643109225/website/summer/1_uga5co.png
+  content: Il est important d’avoir le temps de digérer avant votre course. On recommande
+    normalement environ 3h de digestion avant le départ de la course, en fonction
+    de ce que vous mangez. Ne prenez pas un énorme petit déjeuner et évitez les aliments
+    lourds à digérer tel que des viennoiseries. Trente minutes avant le départ, échauffez-vous
+    pendant 15/20mn. Allez faire un petit footing d’environ 8/10mn afin d’échauffer
+    vos muscles et votre cœur. Vous pouvez ensuite faire quelques gammes athlétiques
+    (montée de genoux, talons fesse, pas chassé) et faire quelques accélérations rapides
+    et courtes afin de passer ce second souffle. Partir sans échauffement sur la ligne
+    de départ risque de vous fatiguer très rapidement, de ne pas être bien et potentiellement
+    d’avoir des crampes. Prenez le matériel obligatoire que la course demande et ayez
+    bien 2 flasques d’eau de 500ml ainsi que de quoi manger pendant la course. Mettez
+    les aliments dans des endroits faciles à prendre.
+- template: textarea
+  title: Le départ
+  content: Ne partez pas trop vite et ne vous faites pas embarquer par l’effet aspirateur
+    de la foule. Très souvent, beaucoup de personnes partent trop vite, et le payent
+    ensuite. Prenez le temps d’être dans votre bulle. Il est judicieux que vous connaissiez
+    le profil du parcours de la course afin de savoir comment la gérer. Chaque profil
+    de course demande une gestion différente. En fonction de vos qualités (si vous
+    êtes plutôt grimpeur, descendeur, rapide sur plat…), vous saurez quand être le
+    plus efficace sur ce parcours. Lors des 1er Trails, les repères ne sont pas toujours
+    évidents à savoir sur la gestion de notre effort. Basez-vous sur vos sensations,
+    sur les entraînements réalisés avant la course afin de savoir comment gérer votre
+    vitesse. Un départ trop rapide peut causer des crampes, en plus d’une déshydratation.
+- template: textarea
+  title: L’alimentation et l’hydratation
+  content: "Pendant l’effort, buvez un peu de façon régulière.. Boire 500ml d’un coup
+    ne sera pas idéal pour votre ventre et ne vous hydratera pas mieux non plus. Idéalement
+    il faut boire 500ml à 700ml par heure s’il fait chaud. Attention de ne pas trop
+    boire car cela peut être dangereux.  \nEssayez de vous alimenter après 30mn d’effort,
+    sans prendre un aliment trop sucré dès le départ.  \nPrenez le temps de remplir
+    vos flasques pendant les ravitaillements et de vous alimenter un peu.\n\nLors
+    de vos entraînements en sortie longue, vous avez pu constater votre vitesse. Cela
+    vous aidera à prévoir environ votre temps pour votre course."
+published: false
 
 ---
