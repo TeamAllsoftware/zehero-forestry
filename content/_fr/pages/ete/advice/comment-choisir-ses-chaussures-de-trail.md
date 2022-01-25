@@ -117,6 +117,5 @@ page_sections:
     de foulée en regardant l’usure de vos chaussures.  \nCertaines marques proposent
     des modèles adaptés pour ces différents types de foulées."
   title: Supination/Neutre/Pronation
-published: false
 
 ---
