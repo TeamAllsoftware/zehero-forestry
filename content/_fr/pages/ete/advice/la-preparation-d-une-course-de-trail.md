@@ -162,6 +162,5 @@ page_sections:
     vos flasques pendant les ravitaillements et de vous alimenter un peu.\n\nLors
     de vos entraînements en sortie longue, vous avez pu constater votre vitesse. Cela
     vous aidera à prévoir environ votre temps pour votre course."
-published: false
 
 ---
