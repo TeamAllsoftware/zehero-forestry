@@ -37,4 +37,6 @@ page_sections:
     * Vous pouvez demander l’année d’achat des skis de location : ce n’est pas toujours noté sur le site.
     * Vous pouvez demander s’il existe un atelier pour l’entretien des skis. Lorsque vous louez un ski, il est important que l’entretien du ski soit effectué après chaque sortie.
 
+redirect_from:
+  - /info-choisir-magasin-location-ski/
 ---

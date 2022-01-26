@@ -61,4 +61,6 @@ page_sections:
     les gorges de l'Ardeche, les gorges du Tarn, les gorges du Verdon ainsi que dans
     la Roya Vésubie."
 
+redirect_from:
+  - /info-kayak-savoie-haute-savoie/
 ---

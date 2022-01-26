@@ -117,4 +117,11 @@ page_sections:
     Vous pouvez vous alimenter toutes les 30mn à 1h afin de garder un taux d’énergie
     idéal.
 
+redirect_from:
+  - /info-comment-debuter-le-trail/
+  - /info-trail-progresser-montee-descente/ 
+  - /info-faire-du-fractionne-en-trail/
+  - /info-course-trail/
+  - /info-sortie-trail-groupe/
+  - /info-trail-groupe-antibes/
 ---

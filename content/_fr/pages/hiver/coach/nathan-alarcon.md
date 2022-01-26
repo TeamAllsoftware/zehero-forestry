@@ -94,4 +94,6 @@ s06:
     title: Course à Obstacles
     content: Plusieurs Spartan Race France
 
+redirect_from:
+  - /info-coach-sportif-lyon-nathan-alarcon/
 ---

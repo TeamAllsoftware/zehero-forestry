@@ -140,4 +140,6 @@ page_sections:
     de point d’eau pendant très longtemps. Alors même si cela rajoute un peu de poids,
     n’hésitez pas à toujours prévoir une flasque en plus.
 
+redirect_from:
+  - /info-equipement-trail/
 ---

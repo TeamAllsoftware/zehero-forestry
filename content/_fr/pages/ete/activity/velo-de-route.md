@@ -61,4 +61,6 @@ page_sections:
     de réaliser des ascensions. Parfois, cela vous permet également d'avoir un ravitaillement,
     un suivi en voiture lorsque vous partez pour plusieurs jours.
 
+redirect_from:
+  - /info-velo-savoie-haute-savoie/
 ---

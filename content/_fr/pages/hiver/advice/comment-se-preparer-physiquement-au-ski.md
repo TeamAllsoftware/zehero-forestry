@@ -131,4 +131,6 @@ page_sections:
     15 mn."
   title: La piste noire
 
+redirect_from:
+  - /info-conseils-preparation-physique-ski/
 ---
