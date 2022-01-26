@@ -37,16 +37,16 @@ fields:
   - name: text_button
     type: text
     config:
-      required: true
+      required: false
     label: Text on the button
   - name: href_button
     type: text
     config:
-      required: true
+      required: false
     label: url for this button
   - name: alt_button
     type: text
     config:
-      required: true
+      required: false
     label: alternative text for this link
   label: button
