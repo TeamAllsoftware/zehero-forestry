@@ -4,7 +4,7 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Paddle
-permalink: "/fr/eteactivite/paddle"
+permalink: "/fr/ete/activite/paddle"
 description: Partir naviguer en paddle sur un lac, sur la mer ou sur l'océan pour
   quelques heures, yoga, randonner ou surfer
 baseline: Balade, randonné et glisse
