@@ -104,22 +104,22 @@ menu:
 - top-level:
     title: 'e-Shop'
     id: eshop
-    title-link: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+    title-link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/v1642604106/website/winter/ScreenShot_Tool_-20220119155142_isdxtn.png'
     image-alt: Capture d'écran de la boutique en ligne ZE-HERO
-    image-link: 'https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion'
+    image-link: 'https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion'
     txt-button: Entrer dans le e-Shop
   column-01:
   - nested: Acheter, louer, réserver en ligne
     menu-items:
     - title: "Acheter des skis d'occasion"
-      href: "https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion"
+      href: "https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion"
     - title: "Louer des skis"
-      href: "https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&subslug=%2Fman-skis-rental&number_rental_days=1"
+      href: "https://shop.ze-hero.com/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&subslug=%2Fman-skis-rental&number_rental_days=1"
     - title: "Louer des chaussures"
-      href: "https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1"
+      href: "https://shop.ze-hero.com/location-materiel?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1"
     - title: "Louer un snowboard"
-      href: "https://fr.ze-hero.com/location-materiel/location-snowboard/location-snowboard-adulte"
+      href: "https://shop.ze-hero.com/location-materiel/location-snowboard/location-snowboard-adulte"
   column-02:
 - top-level:
     title: 'Blog'
