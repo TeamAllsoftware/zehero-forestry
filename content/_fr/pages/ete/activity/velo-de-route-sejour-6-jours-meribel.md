@@ -34,13 +34,11 @@ page_sections:
     alt_button: ''
   captiontitleuppercase: Toutes les étapes
 - template: textarea
-  title: Les différents parcours
-  content: "Nous vous proposons 6 journées de vélo de route à Méribel et dans son
-    secteur. Chaque journées est indépendante de l'ensemble du séjour. Vous pouvez
-    donc réserver les journées qui vous intéressent le plus.\n\nLe prix des sorties
-    vélo journée comprend :  \n\\- Encadrement – Moniteurs diplômés d’État   \n\\-
-    Ravitaillement en eau lors des étapes  \n\\- Suivi technique et logistique (transports
-    bagages et vélos)"
+  title: Le séjour
+  content: "Le prix du séjour vélo comprend\n\n● Encadrement – Moniteurs diplômés
+    d’État  \n● Suivi technique et logistique (transports bagages et vélos)  \n● Ravitaillement
+    en eau lors des étapes  \n● Dernière journée (repas, baignade Lac d’Annecy et
+    retour navette sur Méribel)"
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189945/website/V%C3%A9lo/collage1_fmakyp.png
   captiontitleuppercase: Journée 1
