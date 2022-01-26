@@ -75,5 +75,6 @@ page_sections:
     Ponçons.  \nOn retrouve aujourd'hui des compétitions de paddle sur les rivières,
     les lacs et la mer en été comme hiver.\n\nÉvadez vous en paddle, musclez-vous,
     aérez-vous, randonnez et profitez."
+published: false
 
 ---
