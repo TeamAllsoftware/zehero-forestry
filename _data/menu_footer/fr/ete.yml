@@ -35,11 +35,11 @@ columns:
     - subtitle: "Les Ménuires"
       subhref: "/fr/ete/destination/les-menuires"
     - subtitle: "Tignes"
-      subhref: "fr/ete/destination/tignes"
+      subhref: "/fr/ete/destination/tignes"
     - subtitle: "Val d'Isère"
-      subhref: "fr/ete/destination/val-d-isere"
+      subhref: "/fr/ete/destination/val-d-isere"
     - subtitle: "Méribel"
-      subhref: "fr/ete/destination/meribel"
+      subhref: "/fr/ete/destination/meribel"
 
 payment-title: Modes de paiement
 payment-txt01: Les paiements sont sécurisés par 3D Secure de Monetico Crédit Mutuel
