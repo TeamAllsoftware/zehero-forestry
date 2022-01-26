@@ -51,6 +51,8 @@ fr:
       title: Dans le même univers
   activity:
     readmore: Explorer cette activité
+  advice:
+    readmore: Lire ce conseil
   resort:
     readmore: Visiter cette destination
   contact:
@@ -114,6 +116,8 @@ en:
       title: Related posts
   activity:
     readmore: Explore more
+  advice:
+    readmore: Read this advice
   resort:
     readmore: Visit this destination
   contact:
