@@ -30,3 +30,23 @@ fields:
     schema:
       format: markdown
   label: content
+- name: button
+  type: field_group
+  config: {}
+  fields:
+  - name: text_button
+    type: text
+    config:
+      required: true
+    label: Text on the button
+  - name: href_button
+    type: text
+    config:
+      required: true
+    label: url for this button
+  - name: alt_button
+    type: text
+    config:
+      required: true
+    label: alternative text for this link
+  label: button
