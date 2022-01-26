@@ -41,14 +41,32 @@ fields:
   type: text
   config:
     required: true
-  label: title
-  description: Title of the page
+  label: Headline of the page
+  description: Name of the resort
+- name: baseline
+  type: text
+  config:
+    required: true
+  label: Baseline of the page
+  description: 20 characters to introduce the destination
+- name: resort_nameid
+  type: text
+  config:
+    required: true
+  label: Resort id
+  description: 'Name of the resort in lowercase and underscore (ex: alpe_huez)'
+- name: resort_naming
+  type: text
+  config:
+    required: true
+  label: Resort name
+  description: 'Same as Resort id (ex: alpe_huez) but readable (ex: l'Alpe d'huez)'
 - name: title
   type: text
   config:
     required: true
-  label: name of the resort
-  description: Title of the resort
+  label: Title of the page
+  description: Title of the page with the resort in the text and max 65 characters
 - name: permalink
   type: text
   config:
