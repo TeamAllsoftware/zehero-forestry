@@ -4,7 +4,7 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Paddle
-permalink: "/fr/eteactivite/paddle"
+permalink: "/fr/ete/activite/paddle"
 description: Partir naviguer en paddle sur un lac, sur la mer ou sur l'océan pour
   quelques heures, yoga, randonner ou surfer
 baseline: Balade, randonné et glisse
@@ -50,7 +50,7 @@ page_sections:
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/reynzo-u5vx3Ke0_RM-unsplash_korw9x.jpg
   captionabovetitle: La polyvalence sur eau
-  title: Un bien-être important
+  title: Bien être
   gridline1title: Quelle paddle pour vous ?
   gridline1content: Les paddles longs et larges seront pour les personnes souhaitant
     faire du yoga, se promener à plusieurs dessus, ceux qui cherchent un paddle faciles
@@ -62,7 +62,7 @@ page_sections:
     une planche plus performante. Mais son inconvénient est le transport. Alors le
     paddle gonflable se met dans un grand sac à dos avec la pompe et la pagaie et
     vous pourrez le transporter partout et avoir un paddle de qualité.
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121214/website/summer/jonas-allert-a__vIBFY3vA-unsplash_v6e8nh.jpg
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/tower-paddle-boards-u-l-P4agRpk-unsplash_v7mozk.jpg
 - template: textarea
   title: Les lieux
   content: "Si vous partez sur la côte Atlantique, vous pourrez alors faire deux types
@@ -75,6 +75,5 @@ page_sections:
     Ponçons.  \nOn retrouve aujourd'hui des compétitions de paddle sur les rivières,
     les lacs et la mer en été comme hiver.\n\nÉvadez vous en paddle, musclez-vous,
     aérez-vous, randonnez et profitez."
-published: false
 
 ---
