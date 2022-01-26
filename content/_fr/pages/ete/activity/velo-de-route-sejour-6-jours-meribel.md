@@ -3,7 +3,7 @@ layout: layout_activity
 language: fr
 season: summer
 topnav_color_text: dark
-title: Vélo de route - Sorties journées - Méribel
+title: Vélo de route - Séjour 6 jours - Méribel
 permalink: "/fr/ete/activite/velo-de-route-journees-meribel"
 description: Chez Ze Hero, nous avons créer des sorties vélo journée en parallèle
   du stage vélo de route de 6 jours dans le but de progresser et découvrir nos différentes
@@ -124,5 +124,6 @@ page_sections:
 
     Néanmoins, vous pourrez également prendre un hébergement autre. Nous sommes alors là pour vous conseiller si vous souhaitez des appartements ou des prestations hôtelières précises.
   title: 'Hébergement '
+published: false
 
 ---
