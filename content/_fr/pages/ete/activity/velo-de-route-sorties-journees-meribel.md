@@ -107,16 +107,22 @@ page_sections:
   content: |-
     Vous ne pouvez pas participer aux six jours de stage , pas d’inquiétude, il est possible de réserver les étapes à la carte afin de profiter de sorties vélo journée. Choisissez parmi les six étapes et leurs variantes et optez pour une sortie vélo journée aux alentours de Méribel.
 
-    #### Organisation :
+    ##### Organisation :
 
     Tous nos stages sont encadrés et accompagnés par des passionnés diplômés d’état. Premièrement, nous nous occupons de vos transferts sur certaines étapes en véhicule. Ensuite, les suivis techniques et logistiques complets sont également réalisés chaque jour par nos véhicules. Enfin, les ravitaillements sont prévus sur chacun des parcours avec des paniers repas préparés le matin de chaque sortie, un entretien technique des vélos les soirs suivant les besoins de chacun, un briefing de chaque sortie la veille mais aussi un coaching individualisés suivant les attentes et progressions de chacun.
 
-    #### Déroulement des sorties Vélo Journée :
+    ##### Déroulement des sorties Vélo Journée :
 
     La première sortie du dimanche après-midi va, tout d’abord, nous permettre de nous connaître, de discuter des différentes attentes mais aussi des options qui s’offrent à nous sur la semaine en fonction des niveaux relevés et des conditions météorologiques.
 
     En revanche, pas de stress sur les niveaux, nous vous demandons simplement une expérience de vélo de route avec un peu de dénivelé et, également, d’arriver avec un foncier suffisant pour tenir physiquement sur 6 jours. Par exemple, nous recommandons un minimum de 1000 kms dans les jambes et 10.000 m de dénivelé avant de nous rejoindre. Lors de la première journée, nous verrons toutefois si il y a de grosses différences de niveaux et si nous devrons adapter les groupes et les sorties.
 
     Ensuite, nous vous garantissons les plus beaux paysages possibles et une belle ambiance pour que votre séjour soit le meilleur possible. Au programme des stages autour du lac d’Annecy, du Cormet de Roseland, Col du petit Saint Bernard, Col de la Madeleine… Des déjeuners tous ensemble avec des points de vue à couper le souffle. Suivant les sorties, vous aurez également des options bis plus ou moins difficiles afin d’être en phase avec vos attentes.
+- template: textarea
+  content: |-
+    En ce qui concerne les hébergements possibles, nous proposons des chambres en chalet de standing : tarif à la chambre (1 à 2 personnes) avec des prix intéressants en période estivale notamment. Finalement, notre objectif est de passer un maximum de temps ensemble. C’est pour cela que nous souhaitons que nous puissions prendre les repas du soir ensemble et, ainsi, que nos discussions tournent autour de notre passion mais pas seulement.
+
+    Néanmoins, vous pourrez également prendre un hébergement autre. Nous sommes alors là pour vous conseiller si vous souhaitez des appartements ou des prestations hôtelières précises.
+  title: 'Hébergement '
 
 ---
