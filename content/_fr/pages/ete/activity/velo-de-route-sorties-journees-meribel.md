@@ -4,7 +4,7 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Vélo de route - Sorties journées - Méribel
-permalink: "/fr/ete/activite/vélo-de-route-journées-méribel"
+permalink: "/fr/ete/activite/velo-de-route-journees-meribel"
 description: Chez Ze Hero, nous avons créer des sorties vélo journée en parallèle
   du stage vélo de route de 6 jours dans le but de progresser et découvrir nos différentes
   vallées et lacs. Entourés de nos belles montagnes savoyardes et des routes emblématiques
