@@ -48,4 +48,6 @@ page_sections:
     * Il est important de prendre en compte le point de rdv des cours de ski. Surtout si vous avez des enfants.
     * Selon ce que vous recherchez, il est important de demander directement vos spécificités. Si vous souhaitez visiter le domaine skiable, apprendre le freestyle, sortir en hors-piste, l’école de ski aura à disposition des moniteurs spécifiques.
 
+redirect_from:
+  - /info-choisir-ecole-ski/
 ---

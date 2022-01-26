@@ -163,4 +163,8 @@ page_sections:
     de vos entraînements en sortie longue, vous avez pu constater votre vitesse. Cela
     vous aidera à prévoir environ votre temps pour votre course."
 
+redirect_from:
+  - /info-preparation-course-trail/
+  - /info-coaching-trail/coaching-trail-antibes/
+  - /info-coaching-trail/
 ---

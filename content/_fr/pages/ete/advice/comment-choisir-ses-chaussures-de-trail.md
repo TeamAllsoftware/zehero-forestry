@@ -118,4 +118,6 @@ page_sections:
     des modèles adaptés pour ces différents types de foulées."
   title: Supination/Neutre/Pronation
 
+redirect_from:
+  - /info-chaussures-trail/
 ---

@@ -125,4 +125,6 @@ page_sections:
     Néanmoins, vous pourrez également prendre un hébergement autre. Nous sommes alors là pour vous conseiller si vous souhaitez des appartements ou des prestations hôtelières précises.
   title: 'Hébergement '
 
+redirect_from:
+  - /info-velo-albertville/
 ---

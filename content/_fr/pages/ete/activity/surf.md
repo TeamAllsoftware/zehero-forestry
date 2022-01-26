@@ -91,4 +91,7 @@ page_sections:
   intro: Réservez dès maintenant vos activités surf
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
 
+redirect_from:
+  - /info-surf-loire-atlantique/
+  - /info-surf-biarritz/
 ---

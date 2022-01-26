@@ -94,4 +94,10 @@ page_sections:
     href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     text_button: Réserver maintenant >
 
+redirect_from:
+  - /info-itineraire-trail-alpes-maritimes/
+  - /info-trail-progresser-montee-descente/
+  - /info-faire-du-fractionne-en-trail/
+  - /info-course-trail/
+
 ---
