@@ -38,5 +38,5 @@ page_sections:
     * Vous pouvez demander s’il existe un atelier pour l’entretien des skis. Lorsque vous louez un ski, il est important que l’entretien du ski soit effectué après chaque sortie.
 
 redirect_from:
-  - /info-choisir-magasin-location-ski/
+  - /fr/choisir-magasin-location-ski/
 ---

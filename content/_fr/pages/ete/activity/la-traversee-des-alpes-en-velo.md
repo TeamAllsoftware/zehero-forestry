@@ -137,5 +137,5 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-traversee-des-alpes-nice_jyfbgw.jpg
 
 redirect_from:
-  - /info-velo-gravel-corsica-gravel-tour/
+  - /fr/velo-gravel-corsica-gravel-tour/
 ---

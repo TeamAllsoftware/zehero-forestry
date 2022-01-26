@@ -49,5 +49,5 @@ page_sections:
     * Selon ce que vous recherchez, il est important de demander directement vos spécificités. Si vous souhaitez visiter le domaine skiable, apprendre le freestyle, sortir en hors-piste, l’école de ski aura à disposition des moniteurs spécifiques.
 
 redirect_from:
-  - /info-choisir-ecole-ski/
+  - /fr/choisir-ecole-ski/
 ---

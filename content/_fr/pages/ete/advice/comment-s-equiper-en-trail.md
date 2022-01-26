@@ -141,5 +141,5 @@ page_sections:
     n’hésitez pas à toujours prévoir une flasque en plus.
 
 redirect_from:
-  - /info-equipement-trail/
+  - /fr/equipement-trail/
 ---

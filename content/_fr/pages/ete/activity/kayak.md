@@ -62,5 +62,5 @@ page_sections:
     la Roya Vésubie."
 
 redirect_from:
-  - /info-kayak-savoie-haute-savoie/
+  - /fr/kayak-savoie-haute-savoie/
 ---

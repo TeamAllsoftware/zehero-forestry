@@ -118,10 +118,10 @@ page_sections:
     idéal.
 
 redirect_from:
-  - /info-comment-debuter-le-trail/
-  - /info-trail-progresser-montee-descente/ 
-  - /info-faire-du-fractionne-en-trail/
-  - /info-course-trail/
-  - /info-sortie-trail-groupe/
-  - /info-trail-groupe-antibes/
+  - /fr/comment-debuter-le-trail/
+  - /fr/trail-progresser-montee-descente/ 
+  - /fr/faire-du-fractionne-en-trail/
+  - /fr/course-trail/
+  - /fr/sortie-trail-groupe/
+  - /fr/trail-groupe-antibes/
 ---

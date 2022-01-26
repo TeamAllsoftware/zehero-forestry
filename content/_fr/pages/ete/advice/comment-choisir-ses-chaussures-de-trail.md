@@ -119,5 +119,5 @@ page_sections:
   title: Supination/Neutre/Pronation
 
 redirect_from:
-  - /info-chaussures-trail/
+  - /fr/chaussures-trail/
 ---

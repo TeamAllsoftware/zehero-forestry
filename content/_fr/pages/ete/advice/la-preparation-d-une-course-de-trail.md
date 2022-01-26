@@ -164,7 +164,7 @@ page_sections:
     vous aidera à prévoir environ votre temps pour votre course."
 
 redirect_from:
-  - /info-preparation-course-trail/
-  - /info-coaching-trail/coaching-trail-antibes/
-  - /info-coaching-trail/
+  - /fr/preparation-course-trail/
+  - /fr/coaching-trail/coaching-trail-antibes/
+  - /fr/coaching-trail/
 ---

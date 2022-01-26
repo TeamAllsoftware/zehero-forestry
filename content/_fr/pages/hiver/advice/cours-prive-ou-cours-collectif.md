@@ -69,8 +69,8 @@ page_sections:
   title: En résumé
 
 redirect_from:
-  - /info-coaching-sportif/coaching-prive/
-  - /info-coaching-sportif/coaching-prive/coaching-prive-antibes/
-  - /info-coaching-sportif/coaching-prive/coaching-prive-lyon/
-  - /info-coaching-sportif/coaching-prive/e-coaching/
+  - /fr/coaching-sportif/coaching-prive/
+  - /fr/coaching-sportif/coaching-prive/coaching-prive-antibes/
+  - /fr/coaching-sportif/coaching-prive/coaching-prive-lyon/
+  - /fr/coaching-sportif/coaching-prive/e-coaching/
 ---

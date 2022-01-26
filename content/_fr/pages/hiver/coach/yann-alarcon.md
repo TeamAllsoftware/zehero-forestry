@@ -90,5 +90,5 @@ s07:
   href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
 
 redirect_from:
-  - /info-coach-sportif-trail-yann-alarcon/
+  - /fr/coach-sportif-trail-yann-alarcon/
 ---
