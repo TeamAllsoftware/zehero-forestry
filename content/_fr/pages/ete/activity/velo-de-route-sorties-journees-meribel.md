@@ -118,6 +118,5 @@ page_sections:
     En revanche, pas de stress sur les niveaux, nous vous demandons simplement une expérience de vélo de route avec un peu de dénivelé et, également, d’arriver avec un foncier suffisant pour tenir physiquement sur 6 jours. Par exemple, nous recommandons un minimum de 1000 kms dans les jambes et 10.000 m de dénivelé avant de nous rejoindre. Lors de la première journée, nous verrons toutefois si il y a de grosses différences de niveaux et si nous devrons adapter les groupes et les sorties.
 
     Ensuite, nous vous garantissons les plus beaux paysages possibles et une belle ambiance pour que votre séjour soit le meilleur possible. Au programme des stages autour du lac d’Annecy, du Cormet de Roseland, Col du petit Saint Bernard, Col de la Madeleine… Des déjeuners tous ensemble avec des points de vue à couper le souffle. Suivant les sorties, vous aurez également des options bis plus ou moins difficiles afin d’être en phase avec vos attentes.
-published: false
 
 ---
