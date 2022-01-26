@@ -27,17 +27,17 @@ columns:
     title-link: /fr/hiver/destinations
     link:
     - subtitle: "Alpe d'Huez"
-      subhref: "/fr/hiver/station/alpe-d-huez"
+      subhref: "/fr/hiver/destination/alpe-d-huez"
     - subtitle: "Val-Thorens"
-      subhref: "/fr/hiver/station/val-thorens"
+      subhref: "/fr/hiver/destination/val-thorens"
     - subtitle: "Les Ménuires"
-      subhref: "/fr/hiver/station/les-menuires"
+      subhref: "/fr/hiver/destination/les-menuires"
     - subtitle: "Tignes"
-      subhref: "fr/hiver/station/tignes"
+      subhref: "/fr/hiver/destination/tignes"
     - subtitle: "Val d'Isère"
-      subhref: "fr/hiver/station/val-d-isere"
+      subhref: "/fr/hiver/destination/val-d-isere"
     - subtitle: "Méribel"
-      subhref: "fr/hiver/station/meribel"
+      subhref: "/fr/hiver/destination/meribel"
  
 payment-title: Modes de paiement
 payment-txt01: Les paiements sont sécurisés par 3D Secure de Monetico Crédit Mutuel

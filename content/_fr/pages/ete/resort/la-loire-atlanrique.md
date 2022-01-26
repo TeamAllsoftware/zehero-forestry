@@ -10,7 +10,7 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 page_title: La Loire Atlantique
-title: La Loire Atlanrique
+title: La Loire Atlantique
 permalink: "/fr/ete/destination/loire-atlantique"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642758793/website/summer/lechat-valentin-Ho17T_ZBJ5k-unsplash_xcbczl.jpg
 image01_alt: Surfeur en train de surfer une vague en bretagne sur une Longboard
@@ -41,5 +41,9 @@ page_sections:
     s’est imposé à nous comme une évidence.
   captiontitleuppercase: 'Dépayssement '
   title: Plaisir et détente
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
