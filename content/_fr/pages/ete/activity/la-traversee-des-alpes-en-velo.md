@@ -57,9 +57,9 @@ page_sections:
     importante ascension du Cormet de Roseland. L''arrivé se fera à Bourg St Maurice
     pour y manger et y passer la nuit. Distance: 118 kms / Dénivelé: 3362m D+'
   button:
-    text_button: test
-    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
-    alt_button: lien vers la boutique
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-2-GRANDS-COLS_tepatv.png
   captiontitleuppercase: Etape 2

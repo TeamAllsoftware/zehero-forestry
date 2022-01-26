@@ -10,7 +10,7 @@
                         <h5 class="alt-font text-extra-dark-gray margin-35px-bottom font-weight-500 xs-margin-25px-bottom">{{ block.title }}</h5>
                         <p>{{ block.content }}</p>
 
-                        {% if block.button %}
+                        {% if block.button.text_button != '' %}
                         <span><a href="{{ block.button.href_button }}" class="margin-25px-top btn btn-medium btn-green d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr" title="{{ block.button.alt_button }}">{{ block.button.text_button }}</a></span>
                         {% endif %}
                     </div>
