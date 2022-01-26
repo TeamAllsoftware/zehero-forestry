@@ -47,5 +47,34 @@ page_sections:
     paddle ou simplement aller louer des paddle.\n\nQuoi de mieux que d'être au soleil,
     à ramer et en profitant de la nature et des panoramas. Faite de votre entraînements
     une pratique ludique, agréable et magnifique à la fois."
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/reynzo-u5vx3Ke0_RM-unsplash_korw9x.jpg
+  captionabovetitle: La polyvalence sur eau
+  title: Un bien-être important
+  gridline1title: Quelle paddle pour vous ?
+  gridline1content: Les paddles longs et larges seront pour les personnes souhaitant
+    faire du yoga, se promener à plusieurs dessus, ceux qui cherchent un paddle faciles
+    et stables. Un paddle au boit pointu, plus fin mais long sera pour des randonnées
+    longues et de la vitesse. Un paddle petit sera parfait pour le surf.
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121216/website/summer/daniel-frank-ipombqoEXpE-unsplash_i5tdyz.jpg
+  gridline2title: Rigide ou gonflable
+  gridline2content: Le paddle rigide sera beaucoup plus résistant et permettra d'avoir
+    une planche plus performante. Mais son inconvénient est le transport. Alors le
+    paddle gonflable se met dans un grand sac à dos avec la pompe et la pagaie et
+    vous pourrez le transporter partout et avoir un paddle de qualité.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121214/website/summer/jonas-allert-a__vIBFY3vA-unsplash_v6e8nh.jpg
+- template: textarea
+  title: Les lieux
+  content: "Si vous partez sur la côte Atlantique, vous pourrez alors faire deux types
+    de paddle. Vous irez donc surfer les vagues, cela vous demandera une bonne maitrise
+    de la planche. Ensuite, vous pourrez également faire des traversées dans l'océan
+    et jouer et avec la houle pour avancer plus vite.  \nDe l'autre côté, vous pourrez
+    faire de belles balades, découvrir les calanques ou la Côte d'Azur, tout réaliser
+    des challenges de traverser.  \nTous les lacs sont des lieux propices à la pratique
+    du paddle comme le lac d'Annecy, de St Cassien, de St Croix ou encore de Serre
+    Ponçons.  \nOn retrouve aujourd'hui des compétitions de paddle sur les rivières,
+    les lacs et la mer en été comme hiver.\n\nÉvadez vous en paddle, musclez-vous,
+    aérez-vous, randonnez et profitez."
+published: false
 
 ---
