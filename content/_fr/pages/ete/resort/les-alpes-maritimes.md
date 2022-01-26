@@ -10,7 +10,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille.
 page_title: Alpes Maritimes
-title: Les Alpes Maritimes
+resort_nameid: alpes-maritimes
+resort_naming: Les Alpes Maritimes
+title: Les Alpes Maritimes et ses activités outdoor pour la saison d'été
 permalink: "/fr/ete/destination/alpes-maritimes"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642673632/website/summer/fabien-bazanegue-Q4OpZgSqm2I-unsplash_vseflx.jpg
 image01_alt: 'Paysage des Préalpes avec des moutons '

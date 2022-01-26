@@ -62,10 +62,10 @@ menu:
 - top-level:
     title: Destinations
     id: 03
-    title-link: "#"
+    title-link: "/fr/hiver/destinations/"
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg'
     image-alt: Un skieur fait une randonnée en forêt enneigée
-    image-link: "/fr/hiver/"
+    image-link: "/fr/hiver/destinations/"
   column-01:
   - nested: Les stations de montagne
     menu-items:
