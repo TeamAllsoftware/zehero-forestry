@@ -19,27 +19,27 @@ columns:
   - col: "Conseils"
     title-link: /fr/ete/conseils
     link:
-    - subtitle: "Choisir son magasin de location de ski"
-      subhref: "/fr/ete/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
-    - subtitle: "Comment choisir ses skis d'occasion"
-      subhref: "/fr/ete/conseil/ski-d-occasion"
-    - subtitle: "Comment choisir ses boots de snowboard"
-      subhref: "/fr/ete/conseil/boots-snowboard"
+    - subtitle: Comment bien s'équiper en trail ?
+      subhref: https://www.ze-hero.com/fr/ete/conseil/equipement-trail
+    - subtitle: Comment choisir ses chaussures de trail ?
+      subhref: https://www.ze-hero.com/fr/ete/conseil/chaussures-trail
+    - subtitle: Débuter le Trail running
+      subhref: https://www.ze-hero.com/fr/ete/conseil/comment-debuter-trail
   - col: "Destinations"
     title-link: /fr/ete/destinations
     link:
     - subtitle: "Alpe d'Huez"
-      subhref: "/fr/ete/station/alpe-d-huez"
+      subhref: "/fr/ete/destination/alpe-d-huez"
     - subtitle: "Val-Thorens"
-      subhref: "/fr/ete/station/val-thorens"
+      subhref: "/fr/ete/destination/val-thorens"
     - subtitle: "Les Ménuires"
-      subhref: "/fr/ete/station/les-menuires"
+      subhref: "/fr/ete/destination/les-menuires"
     - subtitle: "Tignes"
-      subhref: "fr/ete/station/tignes"
+      subhref: "fr/ete/destination/tignes"
     - subtitle: "Val d'Isère"
-      subhref: "fr/ete/station/val-d-isere"
+      subhref: "fr/ete/destination/val-d-isere"
     - subtitle: "Méribel"
-      subhref: "fr/ete/station/meribel"
+      subhref: "fr/ete/destination/meribel"
 
 payment-title: Modes de paiement
 payment-txt01: Les paiements sont sécurisés par 3D Secure de Monetico Crédit Mutuel
