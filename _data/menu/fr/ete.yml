@@ -11,6 +11,8 @@ menu:
   column-01:
   - nested: Herbe, cailloux, asphalte
     menu-items:
+    - title: Vélo de route
+      href: https://www.ze-hero.com/fr/ete/activite/velo-de-route
     - title: Trail running
       href: "/fr/ete/activite/trail-running"
     - title: VTT
