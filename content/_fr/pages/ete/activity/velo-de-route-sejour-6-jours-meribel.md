@@ -44,13 +44,13 @@ page_sections:
   captiontitleuppercase: Journée 1
   title: Vallées de Méribel et Courchevel
   button:
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13298-decouverte-des-vallees-de-meribel-et-courchevel-activite-ze-hero
-    text_button: Réservez
+    href_button: ''
+    text_button: ''
     alt_button: " "
   content: 'Cette 1er étape est au départ de Méribel. Vous descendrez à Moutiers afin
     de remontez en direction de Bozel puis du Praz afin de rejoindre Méribel. Une
     boucle de 48kms / Dénivelé: 1330m D+. Visualisation des niveaux et lancement de
-    la semaine. 60€'
+    la semaine. '
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage2_ilhebt.png
   captiontitleuppercase: Journée 2
@@ -58,10 +58,10 @@ page_sections:
   content: 'La 2ème journée est une journée plus difficile. Au départ d''Aime, vous
     grimperez le fameux Col du Petit St Bernard après être passé par Bourg St Maurice.
     La pause déjeuner se fera à la Rosière avant de revenir sur Aime.  Distance: 84kms
-    / Dénivelé: 2059m D+ (Transfert Méribel-Aime) 100€'
+    / Dénivelé: 2059m D+ (Transfert Méribel-Aime) '
   button:
-    text_button: 'Réservez '
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13292-col-du-petit-saint-bernard-activite-ze-hero
+    text_button: ''
+    href_button: ''
     alt_button: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage3_vnw1tf.png
@@ -71,10 +71,10 @@ page_sections:
     tour de France, frontière entre la Tarentaise et la Maurienne. Après un départ
     de Moutiers, vous rejoindrez ce col et déjeunerez directement sur place. Vous
     repartirez sur Moutiers, avant de remontez sur Méribel. Une journée difficile
-    avec 99kms / Dénivelé: 3100m D+. 100€'
+    avec 99kms / Dénivelé: 3100m D+'
   button:
-    text_button: Réservez
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13297-col-de-la-madeleine-activite-ze-hero
+    text_button: ''
+    href_button: ''
     alt_button: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage4_vbcw2p.png
@@ -82,10 +82,10 @@ page_sections:
   title: Col de la Loze par Méribel
   content: 'Une étape plus courte mais intense avec l’ascension phare du dernier Tour
     de France – Le Col de la Loze versant Méribel en partant de Bride les Bains:  Distance:
-    47kms / Dénivelé: 1989m D+:  40€'
+    47kms / Dénivelé: 1989m D+'
   button:
-    text_button: Réservez
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13293-col-de-la-loze-par-meribel-activite-ze-hero
+    text_button: ''
+    href_button: ''
     alt_button: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage5_ul9hd3.png
@@ -94,10 +94,10 @@ page_sections:
   content: 'Une journée plus longue avec un départ à Albertville en direction du Beaufortin
     et du Cormet de Roselend, une montée de 1800D+. Après une pause à Bourg St Maurice,
     il aura une dernière montée pour finir à Moutiers. Distance: 97kms / Dénivelé:
-    2483m D+ : 100€'
+    2483m D+ '
   button:
-    text_button: Réservez
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13295-cormet-de-roseland-activite-ze-hero
+    text_button: ''
+    href_button: ''
     alt_button: ''
 - template: 2colimgtxt
   title: Annecy par les cols
@@ -108,21 +108,19 @@ page_sections:
     prendrez la direction de Faverges pour rejoindre le Col de la Forclaz qui sera
     plutôt raide mais la vue en vaut le coup. Vous redescendrez pour finir sur la
     plage d''Angon. Déjeuner inclus + détente et baignade l’après-midi. Distance:
-    91kms / Dénivelé: 1503m D+ : 150€'
+    91kms / Dénivelé: 1503m D+ '
   button:
-    text_button: Réservez
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/12411-journee-velo-de-route-annecy-ses-lacs-et-ses-montagnes-repas-et-apres-midi-lac-compris-activite-ze-hero
+    text_button: ''
+    href_button: ''
     alt_button: ''
 - template: textarea
   title: Infos pratiques
   content: |-
-    Vous ne pouvez pas participer aux six jours de stage , pas d’inquiétude, il est possible de réserver les étapes à la carte afin de profiter de sorties vélo journée. Choisissez parmi les six étapes et leurs variantes et optez pour une sortie vélo journée aux alentours de Méribel.
-
     ##### Organisation :
 
     Tous nos stages sont encadrés et accompagnés par des passionnés diplômés d’état. Premièrement, nous nous occupons de vos transferts sur certaines étapes en véhicule. Ensuite, les suivis techniques et logistiques complets sont également réalisés chaque jour par nos véhicules. Enfin, les ravitaillements sont prévus sur chacun des parcours avec des paniers repas préparés le matin de chaque sortie, un entretien technique des vélos les soirs suivant les besoins de chacun, un briefing de chaque sortie la veille mais aussi un coaching individualisés suivant les attentes et progressions de chacun.
 
-    ##### Déroulement des sorties Vélo Journée :
+    ##### Déroulement du séjour :
 
     La première sortie du dimanche après-midi va, tout d’abord, nous permettre de nous connaître, de discuter des différentes attentes mais aussi des options qui s’offrent à nous sur la semaine en fonction des niveaux relevés et des conditions météorologiques.
 
@@ -135,6 +133,12 @@ page_sections:
 
     Néanmoins, vous pourrez également prendre un hébergement autre. Nous sommes alors là pour vous conseiller si vous souhaitez des appartements ou des prestations hôtelières précises.
   title: 'Hébergement '
+- template: cta
+  intro: Réservez dès maintenant votre séjour vélo
+  headline: Séjours de 6 jours de vélo de route à Méribel et en Savoie
+  button:
+    text_button: Réserver maintenant >
+    href_button: https://shop.ze-hero.com/sejour/sejour-velo-route/13306-sejour-meribel-en-velo-6-jours-activite-ze-hero
 published: false
 
 ---
