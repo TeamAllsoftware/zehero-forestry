@@ -11,7 +11,7 @@ description: Chez Ze Hero, nous avons créer des sorties vélo journée en paral
   qui caractérisent notre secteur.
 baseline: Roulez et grimpez à Méribel
 engage: Six étapes de sortie vélo journée aux alentours de Méribel.
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189283/website/summer/sortie-velo-meribel-300x300_kae6m4.png
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883631/website/summer/Velo-col-vue-montagne_lpnkfv.jpg
 image01_alt: Deux cycliste faisant du vélo à Méribel
 page_sections:
 - template: textarea
@@ -39,6 +39,42 @@ page_sections:
   content: 'Cette 1er étape est au départ de Méribel. Vous descendrez à Moutiers afin
     de remontez en direction de Bozel puis du Praz afin de rejoindre Méribel. Une
     boucle de 48kms / Dénivelé: 1330m D+. Visualisation des niveaux et lancement de
-    la semaine'
+    la semaine. 60€'
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage2_ilhebt.png
+  captiontitleuppercase: Journée 2
+  title: Col du petit Saint Bernard
+  content: 'La 2ème journée est une journée plus difficile. Au départ d''Aime, vous
+    grimperez le fameux Col du Petit St Bernard après être passé par Bourg St Maurice.
+    La pause déjeuner se fera à la Rosière avant de revenir sur Aime.  Distance: 84kms
+    / Dénivelé: 2059m D+ (Transfert Méribel-Aime) 100€'
+  button:
+    text_button: 'Réservez '
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13292-col-du-petit-saint-bernard-activite-ze-hero
+    alt_button: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage3_vnw1tf.png
+  title: Col de la Madeleine
+  captiontitleuppercase: Journée 3
+  content: 'Partez grimper le fameux Col de la Madelaine, l’un des cols connus du
+    tour de France, frontière entre la Tarentaise et la Maurienne. Après un départ
+    de Moutiers, vous rejoindrez ce col et déjeunerez directement sur place. Vous
+    repartirez sur Moutiers, avant de remontez sur Méribel. Une journée difficile
+    avec 99kms / Dénivelé: 3100m D+. 100€'
+  button:
+    text_button: Réservez
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13297-col-de-la-madeleine-activite-ze-hero
+    alt_button: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage4_vbcw2p.png
+  captiontitleuppercase: Journée 4
+  title: Col de la Loze par Méribel
+  content: 'Une étape plus courte mais intense avec l’ascension phare du dernier Tour
+    de France – Le Col de la Loze versant Méribel en partant de Bride les Bains:  Distance:
+    47kms / Dénivelé: 1989m D+:  40€'
+  button:
+    text_button: Réservez
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13293-col-de-la-loze-par-meribel-activite-ze-hero
+    alt_button: ''
 
 ---
