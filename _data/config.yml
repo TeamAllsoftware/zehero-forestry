@@ -26,7 +26,7 @@ seasons: [winter,summer]
 
 fr:
   changelang: Parcourir le site en français
-  footer_baseline: Découvrez les activités près de chez vous et profitez d’expériences inoubliables seul, entre amis ou en famille !
+  footer_baseline: Être le héro de son temps libre. Ressentir cette fierté intense, le sentiment de partage, la satisfaction personnelle, le plaisir et le dépassement lors de vos activités Outdoor
   season:
     winter: 
       name: hiver
@@ -75,25 +75,25 @@ fr:
   top-menu:
     winter:
       btn_text: e-Shop
-      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/achat-occasion/
       btn_href_title: Lien vers la page du e-shop
     summer:
       btn_text: e-Shop
-      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/achat-occasion/
       btn_href_title: Lien vers la page du e-shop
   modal-eshop-menu:
     winter:
       btn_text: e-Shop
-      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/achat-occasion/
       btn_href_title: Lien vers la page du e-shop
     summer:
       btn_text: e-Shop
-      btn_href: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+      btn_href: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
       btn_href_title: Lien vers la page du e-shop
 
 en:
   changelang: Navigate this website in english
-  footer_baseline: Découvrez les activités près de chez vous et profitez d’expériences inoubliables seul, entre amis ou en famille !
+  footer_baseline: Be the hero of your free time. Feel the intense pride, the feeling of sharing, the personal satisfaction, the fun and the challenge during your outdoor activities
   season:
     winter: 
       name: winter
@@ -138,20 +138,20 @@ en:
   top-menu:
     winter:
       btn_text: e-Shop
-      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/achat-occasion/
       btn_href_title: Link to the e-shop page
     summer:
       btn_text: e-Shop
-      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/achat-occasion/
       btn_href_title: Link to the e-shop page
   modal-eshop-menu:
     winter:
       btn_text: e-Shop
-      btn_href: https://fr.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/achat-occasion/
       btn_href_title: Link to the e-shop page
     summer:
       btn_text: e-Shop
-      btn_href: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+      btn_href: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
       btn_href_title: Link to the e-shop page
 
 #Image resizing by cloudinary
