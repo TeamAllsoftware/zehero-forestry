@@ -40,6 +40,5 @@ page_sections:
     de remontez en direction de Bozel puis du Praz afin de rejoindre Méribel. Une
     boucle de 48kms / Dénivelé: 1330m D+. Visualisation des niveaux et lancement de
     la semaine'
-published: false
 
 ---
