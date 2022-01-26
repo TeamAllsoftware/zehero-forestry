@@ -4,22 +4,35 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Vélo de route - Séjour 6 jours - Méribel
-permalink: "/fr/ete/activite/velo-de-route-journees-meribel"
-description: Chez Ze Hero, nous avons créer des sorties vélo journée en parallèle
-  du stage vélo de route de 6 jours dans le but de progresser et découvrir nos différentes
-  vallées et lacs. Entourés de nos belles montagnes savoyardes et des routes emblématiques
-  qui caractérisent notre secteur.
-baseline: Roulez et grimpez à Méribel
-engage: Six étapes de sortie vélo journée aux alentours de Méribel.
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883631/website/summer/Velo-col-vue-montagne_lpnkfv.jpg
-image01_alt: Deux cycliste faisant du vélo à Méribel
+permalink: "/fr/ete/activite/velo-de-route-sejour-6-jours-meribel"
+description: Chez Ze Hero, avec l’appui de Prosneige, nous avons créer ce séjour vélo
+  de découverte et progression en altitude. Venez ainsi découvrir nos différentes
+  vallées et lacs entourés de nos belles montagnes.
+baseline: Un séjour sportif
+engage: Un séjour de 6 journées de vélo aux alentours de Méribel.
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643194410/website/V%C3%A9lo/sejour-velo-six-jours-meribel_qa2r7m.png
+image01_alt: Plusieurs cyclistes faisant du vélo à Méribel
 page_sections:
 - template: textarea
-  title: 'Vélo de route - 6 sorties journée - Méribel '
-  content: |-
-    Chez Ze Hero, nous avons créer des sorties vélo journée dans le but de progresser et découvrir les différentes vallées et lacs à Méribel. Entourés des belles montagnes savoyardes et des routes emblématiques qui caractérisent le secteur de Méribel. Nous tenons à offrir la possibilité à chacun de se mesurer à quelques-uns des plus beaux cols des derniers Tours de France. Sans oublier le col devenu mythique : Le col de La Loze et ses passages à plus de 20% de pente.
-
-    Nous sommes conscients que que 6 jours de vélo ne peuvent convenir à tous pour diverses raisons. Néanmoins, vous restez passionné de vélo et peut être que vous aimeriez vous joindre à nous pour une ou plusieurs sorties vélo journée. C’est la raison pour laquelle nous proposons des options à la journée, avec ou sans location de matériel.
+  title: 'Vélo de route - Séjour de 6 journées - Méribel '
+  content: 'Chez Ze Hero, avec l’appui de Prosneige, nous avons créer ce séjour vélo
+    de découverte et progression en altitude. Venez ainsi découvrir nos différentes
+    vallées et lacs entourés de nos belles montagnes. Vous pourrez également vous
+    mesurer à quelques-uns des plus beaux cols des derniers Tours de France. Par ailleurs,
+    pour ceux qui le souhaitent, vous pourrez vous challenger avec notre col devenu
+    mythique : Le col de La Loze et ses passages à plus de 20% de pente.'
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643194501/website/V%C3%A9lo/parcours-etoile_ubxtjh.png
+  title: 6 jours de vélo
+  content: Ce stage de 6 jours de vélo à Méribel, c'est un total de 466km avec 12
+    464 de dénivelé. Vous retrouverez alors des journées plus sportives que d'autres
+    avec des ascensions raides et difficiles. Vous plongerez dans les décors montagneux,
+    minéral pour finir les pieds dans le lac d'Annecy.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+  captiontitleuppercase: Toutes les étapes
 - template: textarea
   title: Les différents parcours
   content: "Nous vous proposons 6 journées de vélo de route à Méribel et dans son
