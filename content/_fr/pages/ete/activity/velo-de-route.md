@@ -62,5 +62,5 @@ page_sections:
     un suivi en voiture lorsque vous partez pour plusieurs jours.
 
 redirect_from:
-  - /info-velo-savoie-haute-savoie/
+  - /fr/velo-savoie-haute-savoie/
 ---

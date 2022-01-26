@@ -95,5 +95,5 @@ s06:
     content: Plusieurs Spartan Race France
 
 redirect_from:
-  - /info-coach-sportif-lyon-nathan-alarcon/
+  - /fr/coach-sportif-lyon-nathan-alarcon/
 ---

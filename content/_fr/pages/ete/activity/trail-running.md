@@ -95,9 +95,9 @@ page_sections:
     text_button: Réserver maintenant >
 
 redirect_from:
-  - /info-itineraire-trail-alpes-maritimes/
-  - /info-trail-progresser-montee-descente/
-  - /info-faire-du-fractionne-en-trail/
-  - /info-course-trail/
+  - /fr/itineraire-trail-alpes-maritimes/
+  - /fr/trail-progresser-montee-descente/
+  - /fr/faire-du-fractionne-en-trail/
+  - /fr/course-trail/
 
 ---

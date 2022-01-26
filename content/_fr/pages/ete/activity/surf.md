@@ -92,6 +92,6 @@ page_sections:
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
 
 redirect_from:
-  - /info-surf-loire-atlantique/
-  - /info-surf-biarritz/
+  - /fr/surf-loire-atlantique/
+  - /fr/surf-biarritz/
 ---

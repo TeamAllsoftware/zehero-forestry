@@ -126,5 +126,5 @@ page_sections:
   title: 'Hébergement '
 
 redirect_from:
-  - /info-velo-albertville/
+  - /fr/velo-albertville/
 ---

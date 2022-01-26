@@ -130,7 +130,7 @@ page_sections:
     href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
 
 redirect_from:
-  - /info-ski-randonnee-isere/
-  - /info-ski-randonnee-savoie/
-  - /info-ski-randonnee-haute-savoie/
+  - /fr/ski-randonnee-isere/
+  - /fr/ski-randonnee-savoie/
+  - /fr/ski-randonnee-haute-savoie/
 ---
