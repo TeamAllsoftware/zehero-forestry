@@ -139,6 +139,5 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/sejour/sejour-velo-route/13306-sejour-meribel-en-velo-6-jours-activite-ze-hero
-published: false
 
 ---
