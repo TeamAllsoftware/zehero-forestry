@@ -83,6 +83,7 @@
                             </div>
                         </div>
                         <!-- end progress item -->
+                        {% comment %}
                         <!-- start progress item -->
                         <div class="col-12 p-0 process-step-style-02 wow animate__fadeIn" data-wow-delay="0.6s">
                             <div class="process-step-item">
@@ -96,12 +97,13 @@
                             </div>
                         </div>
                         <!-- end progress item -->
+                        {% endcomment %}
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 offset-xl-1 wow animate__fadeInRight">
                     <div class="outside-box-right position-relative">
                         {% capture download_note %}{{ thispage.s03.image01_href }}{% endcapture %}
-                        <img src="{% include image.html file=download_note sizevar="" width="700" height="900" %}" class="overflow-hidden" alt="{{ thispage.s03.image01_alt }}" />
+                        <img src="{% include image.html file=download_note sizevar="" width="700" height="800" %}" class="overflow-hidden" alt="{{ thispage.s03.image01_alt }}" />
                     </div>
                 </div>
             </div>
@@ -153,6 +155,7 @@
                             </div>
                         </div>
                         <!-- end progress item -->
+                        {% comment %}
                         <!-- start progress item -->
                         <div class="col-12 p-0 process-step-style-02 wow animate__fadeIn" data-wow-delay="0.6s">
                             <div class="process-step-item">
@@ -166,6 +169,7 @@
                             </div>
                         </div>
                         <!-- end progress item -->
+                        {% endcomment %}
                     </div>
                 </div>
             </div>
@@ -250,7 +254,7 @@
             </div>
             <div class="row row-cols-1 row-cols-xl-4 row-cols-sm-2">
                 {% for advice in advices %}
-                {% if advice.path contains "/advice/" %}
+                {% if advice.path contains "/ete/advice/" %}
                 <!-- start services item -->
                 <div class="col interactive-banners-style-11 text-center lg-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.2s">
                     <div class="interactive-banners-box">
@@ -263,7 +267,7 @@
                         <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
                             <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ advice.title }}</h6>
                             <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ advice.baseline }}</span>
-                            <a href="{{ advice.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.activity.readmore }}</a>
+                            <a href="{{ advice.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.advice.readmore }}</a>
                         </div>
                     </div>
                 </div>

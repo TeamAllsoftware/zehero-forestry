@@ -250,7 +250,7 @@
             </div>
             <div class="row row-cols-1 row-cols-xl-4 row-cols-sm-2">
                 {% for advice in advices %}
-                {% if advice.path contains "/advice/" %}
+                {% if advice.path contains "/hiver/advice/" %}
                 <!-- start services item -->
                 <div class="col interactive-banners-style-11 text-center lg-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.2s">
                     <div class="interactive-banners-box">
@@ -263,7 +263,7 @@
                         <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
                             <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ advice.title }}</h6>
                             <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ advice.baseline }}</span>
-                            <a href="{{ advice.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.activity.readmore }}</a>
+                            <a href="{{ advice.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.advice.readmore }}</a>
                         </div>
                     </div>
                 </div>

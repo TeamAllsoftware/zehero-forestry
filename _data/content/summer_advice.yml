@@ -8,10 +8,10 @@ s01:
     fr: "Nos conseils pour un été outdoor"
     en: "Our advices for a summer outdoor"
 s02:
-  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641897777/website/winter/alice-donovan-rouse-z9F_yK4Nmf8-unsplash_ch8aeh.jpg
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883619/website/summer/Activite-groupe-amis_xxcdut.jpg
   image01_alt: Photo représentant de l'équipement d'activité outdoor
-  image02_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825166/website/winter/debuter-le-ski-pour-adultes-avec-prosneige-_dou0sp.jpg
-  image02_alt: Un moniteur de ski enseigne les bases du ski à un adulte débutant
+  image02_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/hanif-mahmad-CbMLzxrvwcg-unsplash_ugwttz.jpg
+  image02_alt: Un amateur est heureux d'apprendre le paddle avec son instructeur
   p01:
     fr: 
       txt01: Vous prévoyez des activités en plein air mais ne savez pas par où commencer ?
@@ -27,18 +27,16 @@ s02:
       txt01: Professionals at your service
       txt02: Our advice sheets are prepared and written by professionals of the activity. Our credo is to prepare you as well as possible to enjoy your adventure.
 s03:
-  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638823072/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg
-  image01_alt: Photos de skis à l'extérieur d'une télécabine
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111394/website/Conseil%20Equiepement/IMG_20200608_193006_btxb0l.jpg
+  image01_alt: Une paire de chaussures de trail regarde l'horizon depuis l'arrière pays niçois
   p01:
     fr:
-      txt01: Matériel de sports d'hiver
-      txt02: De précieux conseils pour vous aider dans vos choix de ski, de snowboard...
-      txt03: Comment choisir ses skis d'occasion
-      txt04: "Les skis d'occasion sont une excellente alternative mais il faut savoir les choisir - [Lire notre fiche conseil sur comment choisir des skis d'occasion](/fr/hiver/conseil/ski-d-occasion){: .text-green.font-weight-500}."
-      txt05: Comment choisir ses boots de snowboard
-      txt06: "Vous souhaitez vous équiper pour la partique du snowboard ? - [Tout ce qu'il faut savoir sur les boots](/fr/hiver/conseil/boots-snowboard){: .text-green.font-weight-500}."
-      txt07: Louer des skis.. ne laissez pas le hasard choisir pour vous
-      txt08: "Dans le magasin de location vous pouvez influencer le choix pour votre matériel, mais à condition de savoir où et quoi regarder! - [Nous avons une fiche conseil pour vous](/fr/hiver/conseil/choisir-ski-location){: .text-green.font-weight-500}."
+      txt01: Matériel de sports pour les beaux jours
+      txt02: De précieux conseils pour vous aider dans vos choix de randonnée, de surf, de trail...
+      txt03: Comment bien s'équiper en trail ?
+      txt04: "Le trail est très technique, il nécessite un équipement poussé afin d'alier légéreté et performance - [Lire notre fiche conseil sur comment bien s'équiper en trail](/fr/ete/conseil/equipement-trail){: .text-green.font-weight-500}."
+      txt05: Comment choisir ses chaussures de Trail ?
+      txt06: "Choisir ses chaussures de Trail n’est pas évident avec ce grand choix. Yann, notre spéialiste trail vous dit tout dans cette fiche conseil  - [Tout ce qu'il faut savoir sur les chaussures de trail](/fr/ete/conseil/chaussures-trail){: .text-green.font-weight-500}."
     en:
       txt01: Gear
       txt02: De nombreux conseils pour vous aider dans vos choix
@@ -46,21 +44,17 @@ s03:
       txt04: "Les skis d'occasion sont une excellente alternative mais il faut savoir les choisir - [Lire notre fiche conseil sur comment choisir des skis d'occasion](/fr/hiver/conseil/ski-d-occasion){: .text-green.font-weight-500}."
       txt05: Comment choisir ses boots de snowboard
       txt06: "Vous souhaitez vous équiper pour la partique du snowboard ? - [Tout ce qu'il faut savoir sur les boots](/fr/hiver/conseil/boots-snowboard){: .text-green.font-weight-500}."
-      txt07: Louer des skis.. ne laissez pas le hasard choisir pour vous
-      txt08: "Dans le magasin de location vous pouvez influencer le choix pour votre matériel, mais à condition de savoir où et quoi regarder! - [Nous avons une fiche conseil pour vous](/fr/hiver/conseil/choisir-ski-location){: .text-green.font-weight-500}." 
 s04:
-  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641898596/website/winter/slide-4-prosneige-cours-location-ecole-ski-snowboard_mezbdr.jpg
-  image01_alt: Ecole de ski Prosneige enseignant le snowboard et le ski
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111394/website/Conseil%20Equiepement/IMG20210424154703_01_fatprs.jpg
+  image01_alt: Yann Alarçon court en descente dans la montagne. Yann est un expert en course de trail
   p01:
     fr:
-      txt01: Apprendre le ski, le snowboard ou autre
-      txt02: Découvrir, débuter, progresser ou se perfectionner...
-      txt03: Comment choisir son école de ski ?
-      txt04: "Toutes les écoles ne ressemblent pas... certaines sont plus familiales que d'autres - [Lire notre fiche conseil sur comment choisir son école de ski](/fr/hiver/conseil/choisir-ecole-de-ski){: .text-green.font-weight-500}."
-      txt05: Plutôt cours privé ou cours collectif ?
-      txt06: "Les 2 formules ont leurs avantages. Si vous êtes un adulte débutant, le cours privé vous aidera beaucoup - [Tout ce qu'il faut savoir sur les différences entre cours privé et collectif](/fr/hiver/conseil/cours-privé-cours-collectif){: .text-green.font-weight-500}."
-      txt07: Quels cours de ski et quel niveau choisir ?
-      txt08: "Pas simple de s'évaluer pour choisir le bon cours - [Nous avons une fiche conseil qui vous simplifie la vie ;)](/fr/hiver/conseil/choisir-niveau-ski-snowboard){: .text-green.font-weight-500}."
+      txt01: Apprendre, s'améliorer pour prendre plus de plaisir
+      txt02: Découvrir, débuter ou se perfectionner en trail
+      txt03: Débuter le trail
+      txt04: "Si vous n’êtes pas un habitué de la course de pied, allez-y de manière très progressive, Yann vous dit tout pour vous lancer dans le trail - [Lire notre fiche conseil sur comment débuter le trail](/fr/ete/conseil/comment-debuter-trail){: .text-green.font-weight-500}."
+      txt05: La préparation d’une course de Trail
+      txt06: "Yann vous a concocté une préparation minutieuse pour votre 1er trail - [Tout ce qu'il faut savoir sur la préparation d’une course de Trail](/fr/ete/conseil/preparation-course-trail){: .text-green.font-weight-500}."
     en:
       txt01: Learning
       txt02: De nombreux conseils pour vous aider dans vos choix
@@ -68,30 +62,20 @@ s04:
       txt04: "Les skis d'occasion sont une excellente alternative mais il faut savoir les choisir - [Lire notre fiche conseil sur comment choisir des skis d'occasion](/fr/hiver/conseil/ski-d-occasion){: .text-green.font-weight-500}."
       txt05: Comment choisir ses boots de snowboard
       txt06: "Vous souhaitez vous équiper pour la partique du snowboard ? - [Tout ce qu'il faut savoir sur les boots](/fr/hiver/conseil/boots-snowboard){: .text-green.font-weight-500}."
-      txt07: Louer des skis.. ne laissez pas le hasard choisir pour vous
-      txt08: "Dans le magasin de location vous pouvez influencer le choix pour votre matériel, mais à condition de savoir où et quoi regarder! - [Nous avons une fiche conseil pour vous](/fr/hiver/conseil/choisir-ski-location){: .text-green.font-weight-500}."
 s05:
-  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639754132/website/winter/ethan-hu-Ouhu9FOlJnY-unsplash_cgrmw5.jpg
-  image01_alt: le partage des sports et activités outdoor en famille et entre amis
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883624/website/summer/coaching-groupe-sport_c4axh7.jpg
+  image01_alt: le partage des sports et activités outdoor en famille et entre amis, faire du sport en groupe
   p01:
     fr:
       txt01: Outdoor à partager
       txt02: Pour vivre au mieux ses activités de plein air, la préparation est importante
-      txt03: Comment se préparer physiquement au ski ?
-      txt04: "La préparation physique est essentielle pour ne pas se blesser et profiter des activités au mieux - [Lire notre fiche conseil sur comment se préparer physiquement](/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski){: .text-green.font-weight-500}."
-      txt05: Comment choisir ses boots de snowboard
-      txt06: "Vous souhaitez vous équiper pour la partique du snowboard ? - [Tout ce qu'il faut savoir sur les boots](/fr/hiver/conseil/boots-snowboard){: .text-green.font-weight-500}."
-      txt07: Louer des skis.. ne laissez pas le hasard choisir pour vous
-      txt08: "Dans le magasin de location vous pouvez influencer le choix pour votre matériel, mais à condition de savoir où et quoi regarder! - [Nous avons une fiche conseil pour vous](/fr/hiver/conseil/choisir-ski-location){: .text-green.font-weight-500}."
+      txt03: Comment se préparer physiquement ?
+      txt04: "La préparation physique est essentielle pour ne pas se blesser et profiter des activités au mieux. Pour cela, un coach peut vous aider dans les postures, dans les excercices de renforcement et dans la récupération - [Lire notre fiche conseil sur comment se préparer physiquement](/fr/ete/activite/coaching-sportif){: .text-green.font-weight-500}."
     en:
       txt01: Outdoor to share
       txt02: De nombreux conseils pour vous aider dans vos choix
       txt03: Comment choisir ses skis d'occasion
-      txt04: "Les skis d'occasion sont une excellente alternative mais il faut savoir les choisir - [Lire notre fiche conseil sur comment choisir des skis d'occasion](/fr/hiver/conseil/ski-d-occasion){: .text-green.font-weight-500}."
-      txt05: Comment choisir ses boots de snowboard
-      txt06: "Vous souhaitez vous équiper pour la partique du snowboard ? - [Tout ce qu'il faut savoir sur les boots](/fr/hiver/conseil/boots-snowboard){: .text-green.font-weight-500}."
-      txt07: Louer des skis.. ne laissez pas le hasard choisir pour vous
-      txt08: "Dans le magasin de location vous pouvez influencer le choix pour votre matériel, mais à condition de savoir où et quoi regarder! - [Nous avons une fiche conseil pour vous](/fr/hiver/conseil/choisir-ski-location){: .text-green.font-weight-500}." 
+      txt04: "Les skis d'occasion sont une excellente alternative mais il faut savoir les choisir - [Lire notre fiche conseil sur comment choisir des skis d'occasion](/fr/hiver/conseil/ski-d-occasion){: .text-green.font-weight-500}." 
 s06:
   p01:
     fr:

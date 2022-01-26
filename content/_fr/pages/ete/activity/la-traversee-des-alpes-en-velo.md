@@ -34,6 +34,10 @@ page_sections:
     vos rechanges ainsi que la récupération. Ze Hero va s'occuper de tout, et vous,
     vous pourrez profiter pleinement d'être sur votre vélo et de vous concentrer pour
     vos prochaines ascensions.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Le parcours
   content: "Le parcours que nous proposons est donc de 630km avec environ 15 000 m
@@ -52,6 +56,10 @@ page_sections:
     fera au Col des Saisies, puis vous rejoindrez Beaufort plus bas avant la dernière
     importante ascension du Cormet de Roseland. L''arrivé se fera à Bourg St Maurice
     pour y manger et y passer la nuit. Distance: 118 kms / Dénivelé: 3362m D+'
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-2-GRANDS-COLS_tepatv.png
   captiontitleuppercase: Etape 2
@@ -61,6 +69,10 @@ page_sections:
     dans la Haute Maurienne et déjeunerez dans le magnifique village de Bonneval sur
     Arc. La suite du trajet sera roulante et vous terminerez à St Martin d''Arc. Distance:
     120 kms / Dénivelé: 2679m D+'
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-3-GRANDS-COLS_v3pqyi.png
   captiontitleuppercase: Etape 3
@@ -71,6 +83,10 @@ page_sections:
     du Galibier, le col du Lauraret et le col de l''Izoard. La pause de midi se fera
     dans la ville de Briançon. La fin du parcours se fera à Guillestre pour une étape
     de 118 km / Dénivelé: 3423m D+'
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-4-CAYOLLE_jiy3h9.png
   captiontitleuppercase: 'Etape 4 '
@@ -80,6 +96,10 @@ page_sections:
     pour la pause midi. Ensuite vous descendrez St Martin d''Entraunes pour finir
     dans la station de Valberg, entouré de mélèzes. Distance: 157 kms / Dénivelé:
     3491m D+'
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/ETAPE-5-BIS_ilgp7o.png
   captiontitleuppercase: La dernière étape
@@ -89,6 +109,10 @@ page_sections:
     la vallée de la Tinée. Vous basculerez au col St Martin pour passer dans la vallée
     de la Vésubie. Vous finirez par le col de Turini avant de faire une longue descente
     ver la mer.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     Ce séjour organisé vélo comprend :
