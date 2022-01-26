@@ -40,18 +40,18 @@ menu:
   - nested: Matériel
     menu-items:
     - title: Comment bien s'équiper en trail ?
-      href: https://preprod-zehero-202112.netlify.app/fr/ete/conseil/equipement-trail
+      href: https://www.ze-hero.com/fr/ete/conseil/equipement-trail
     - title: Comment choisir ses chaussures de trail ?
-      href: https://preprod-zehero-202112.netlify.app/fr/ete/conseil/chaussures-trail
+      href: https://www.ze-hero.com/fr/ete/conseil/chaussures-trail
   column-02:
   - nested: Apprendre
     menu-items:
     - title: Débuter le Trail running
-      href: https://preprod-zehero-202112.netlify.app/fr/ete/conseil/comment-debuter-trail
+      href: https://www.ze-hero.com/fr/ete/conseil/comment-debuter-trail
   - nested: Entraînement / Préparation
     menu-items:
     - title: Comment se préparer à un 1er trail ?
-      href: https://preprod-zehero-202112.netlify.app/fr/ete/conseil/preparation-course-trail
+      href: https://www.ze-hero.com/fr/ete/conseil/preparation-course-trail
     - title: Coaching privé ou collectif
       href: "/fr/hiver/activite/coaching-sportif"
 - top-level:
@@ -108,22 +108,22 @@ menu:
 - top-level:
     title: e-Shop
     id: eshop
-    title-link: https://fr.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
+    title-link: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
     image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642604271/website/summer/eshop-ze-hero-activites-ete_mhzdw2.png
     image-alt: Image illustrant la boutique en ligne ZE HERO
-    image-link: https://fr.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
+    image-link: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
     txt-button: Entrer dans le e-Shop
   column-01:
   - nested: Acheter, louer, réserver en ligne
     menu-items:
-    - title: Acheter des skis d'occasion
-      href: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
-    - title: Louer des skis
-      href: https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&subslug=%2Fman-skis-rental&number_rental_days=1
-    - title: Louer des chaussures
-      href: https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
-    - title: Louer un snowboard
-      href: https://fr.ze-hero.com/location-materiel/location-snowboard/location-snowboard-adulte
+    # - title: Acheter des skis d'occasion
+    #   href: https://fr.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+    # - title: Louer des skis
+    #   href: https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&subslug=%2Fman-skis-rental&number_rental_days=1
+    # - title: Louer des chaussures
+    #   href: https://fr.ze-hero.com/location-materiel?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
+    # - title: Louer un snowboard
+    #   href: https://fr.ze-hero.com/location-materiel/location-snowboard/location-snowboard-adulte
   column-02: 
 - top-level:
     title: Blog
