@@ -66,6 +66,7 @@ menu:
     image-href: 'https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg'
     image-alt: Un skieur fait une randonnée en forêt enneigée
     image-link: "/fr/hiver/destinations/"
+    txt-button: Toutes les destinations
   column-01:
   - nested: Les stations de montagne
     menu-items:
