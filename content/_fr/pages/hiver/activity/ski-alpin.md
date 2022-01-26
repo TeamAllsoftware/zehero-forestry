@@ -25,6 +25,10 @@ page_sections:
     ce soit en cours collectif ou en cours privé. Chaque domaine skiable sera composé
     de piste bleu, verte, rouge et noir, qui seront donc synonyme de la difficulté
     de la piste. Le plaisir du ski alpin va varier en fonction de votre style de ski.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: liststyle01
   item:
   - Le ski zen pour profiter du paysage et du domaine
@@ -60,7 +64,7 @@ page_sections:
     href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
     text_button: Réserver maintenant >
   intro: Réservez dès maintenant vos activités ski
-  headline: Cours privés ou collectifs, enfant et adultes sont disponibles
+  headline: Cours privés ou collectifs, enfants et adultes sont disponibles
 topnav_text_color: light
 engage: Visiter un domaine en dévalant chaque piste
 
