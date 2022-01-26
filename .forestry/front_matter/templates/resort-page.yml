@@ -37,6 +37,13 @@ fields:
       file: 
       path: 
   label: season
+- name: title
+  type: text
+  config:
+    required: true
+    max: 65
+  label: Title of the page
+  description: Title of the page with the resort in the text and max 65 characters
 - name: page_title
   type: text
   config:
@@ -47,6 +54,7 @@ fields:
   type: text
   config:
     required: true
+    max: 20
   label: Baseline of the page
   description: 20 characters to introduce the destination
 - name: resort_nameid
@@ -60,13 +68,7 @@ fields:
   config:
     required: true
   label: Resort name
-  description: 'Same as Resort id (ex: alpe_huez) but readable (ex: l'Alpe d'huez)'
-- name: title
-  type: text
-  config:
-    required: true
-  label: Title of the page
-  description: Title of the page with the resort in the text and max 65 characters
+  description: 'Same as Resort id (ex: alpe_huez) but readable (ex: l''Alpe d''huez)'
 - name: permalink
   type: text
   config:
