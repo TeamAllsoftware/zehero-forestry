@@ -86,7 +86,7 @@
                     <div class="interactive-banners-box">
                         <div class="interactive-banners-box-image">
                             {% capture download_note %}{{ activity.image01_href }}{% endcapture %}
-                            <img loading="lazy" src="{% include image.html file=download_note sizevar="activitylist" width="" height="" %}" alt="">
+                            <img loading="lazy" src="{% include image.html file=download_note sizevar="activitylist" width="" height="" %}" alt="Image {{ activity.title }} ">
                             <div class="interactive-banners-text-overlay bg-slate-blue"></div>
                             <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
                         </div>
