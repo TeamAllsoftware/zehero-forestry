@@ -22,6 +22,23 @@ page_sections:
     de choix variés, d'une nature d'exception qui vous permettra de profiter  pleinement
     lors de vos sorties sur chacun des parcours. De la mer à la montagne, il n'y a
     qu'un sentier dans les Alpes maritimes"
+- template: 2colimgtxt
+  title: Itinéraire Trail Le Petit Tour de Théoule
+  captiontitleuppercase: BLEU
+  content: "* Distance : 9,4km\n* Niveau: Débutant\n* Dénivelé : 404 m\n* Temps estimé
+    : 1h30 à 1h50\n\nUn tour parfait pour débuter le trail et surtout faire une magnifique
+    balade.  \nLe départ se fait du port de Théoule.\n\nLa plus grosse difficulté
+    du parcours est dès le début. Une montée raide de 2,5 km qui vous amènera au Rochers
+    des Monges. Une magnifique vue vous attend.\n\nEnsuite vous descendrez légèrement
+    jusqu’au col du Trayas, puis jusqu’au col de Théoule. Une montée plus régulière
+    vous amènera vers une petite descente jusqu’à la statue Notre dame d’Afrique.\n\nIl
+    faudra remonter une dernière fois une petit côte avant de finir par 3,4km dans
+    une descente joueuse. Vous finirez à longer la mer sur la promenade André Pradayrol."
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643297487/website/summer/le-tour-de-theoule-1_fnw307.png
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
