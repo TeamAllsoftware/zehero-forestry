@@ -25,7 +25,7 @@ page_sections:
 - template: 2colimgtxt
   title: Itinéraire Trail Le Petit Tour de Théoule
   captiontitleuppercase: BLEU
-  content: "* Distance : 9,4km\n* Niveau: Débutant\n* Dénivelé : 404 m\n* Temps estimé
+  content: "Distance : 9,4km // Niveau: Débutant // Dénivelé : 404 m // Temps estimé
     : 1h30 à 1h50\n\nUn tour parfait pour débuter le trail et surtout faire une magnifique
     balade.  \nLe départ se fait du port de Théoule.\n\nLa plus grosse difficulté
     du parcours est dès le début. Une montée raide de 2,5 km qui vous amènera au Rochers
@@ -35,6 +35,28 @@ page_sections:
     faudra remonter une dernière fois une petit côte avant de finir par 3,4km dans
     une descente joueuse. Vous finirez à longer la mer sur la promenade André Pradayrol."
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643297487/website/summer/le-tour-de-theoule-1_fnw307.png
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643297752/website/summer/les-balcons-dazur-1_kpdbil.png
+  captiontitleuppercase: ROUGE
+  content: |-
+    Distance : 22,3km // Dénivelé : 985m // Niveau : Avancé // Temps estimé :3h à  4H
+
+    Un parcours qui se dit “intermédiaire” par sa distance mais aussi par sa technicité. Quelques sentiers seront difficiles par le nombreuse pierres.
+
+    Le départ se fait d’un grand parking, au bout de la grande rue de Théoule.
+
+    Vous rejoindrez le col de Théoule progressivement, puis le col de Trayas. Vous aurez une petite portion roulante et agréable avant d’arriver à la monter des “Sommets des grosse grues”. Une montée difficile et raide, mais qui offre un beau panorama en haut. Vous descendrez légèrement une pente technique avant de remonter au “Sommet de la petit Grue”.
+
+    Vous rejoindrez ensuite le col de Notre Dame.
+
+    Sur un sentier balcon magnifique vous irez jusqu’à la Dent de l’Ours. Un petit aller/retour au sommet de la patte d’ours puis vous aurez une longue descente technique vers un petit lac. De là se tiendra la dernière difficulté, afin de revenir sur le col de Notre Dame.
+
+    Vous rejoindrez le col de Trayas par un sentier 4*4 facile à courir. En direction du Collet Autel avec une descente raide et en zig zag, vous retourner par un chemin balcon au col de Théoule. Vous rentrerez par le chemin du début au parking
+  title: "#### Trail Les Balcons d’Azur"
   button:
     text_button: ''
     href_button: ''
