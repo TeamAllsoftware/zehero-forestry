@@ -20,11 +20,11 @@ columns:
     title-link: /fr/ete/conseils
     link:
     - subtitle: Comment bien s'équiper en trail ?
-      subhref: https://www.ze-hero.com/fr/ete/conseil/equipement-trail
+      subhref: /fr/ete/conseil/equipement-trail
     - subtitle: Comment choisir ses chaussures de trail ?
-      subhref: https://www.ze-hero.com/fr/ete/conseil/chaussures-trail
+      subhref: /fr/ete/conseil/chaussures-trail
     - subtitle: Débuter le Trail running
-      subhref: https://www.ze-hero.com/fr/ete/conseil/comment-debuter-trail
+      subhref: /fr/ete/conseil/comment-debuter-trail
   - col: "Destinations"
     title-link: /fr/ete/destinations
     link:

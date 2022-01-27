@@ -56,7 +56,7 @@
                     <li class="grid-item wow animate__fadeIn">
                         <div class="blog-post border-radius-5px bg-white">
                             <div class="d-flex align-items-center font-weight-500 padding-30px-lr padding-15px-tb">
-                                <a href="blog-masonry.html" title="Lien vers l'aticle de blog {{ blogpost.title }}" class="text-small me-auto text-slate-blue text-green-hover">{{ blogpost.date | date_to_string }}</a>
+                                <a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}" class="text-small me-auto text-slate-blue text-green-hover">{{ blogpost.date | date_to_string }}</a>
                                 
                             </div>
                             <div class="blog-post-image">

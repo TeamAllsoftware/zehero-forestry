@@ -23,7 +23,7 @@ layout: default
                     <a href="blog-grid.html" class="d-inline-block text-white">{{ page.tags[2] }}</a>
                 </div>
                 <h3 class="font-weight-600 w-50 mx-auto md-w-70 xs-w-90">{{ page.post-title }}</h3>
-                <div class="d-inline-block text-white-transparent margin-5px-top">{{ config.blog.various.text001 }} <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ author.firstname }} {{ author.lastname }}</a> {{ config.blog.various.text002 }} <a href="blog-grid.html" class="d-inline-block text-white-transparent text-white-hover">{{ page.date | date_to_string }}</a></div>
+                <div class="d-inline-block text-white-transparent margin-5px-top">{{ config.blog.various.text001 }} {{ author.firstname }} {{ author.lastname }} {{ config.blog.various.text002 }} {{ page.date | date_to_string }}</div>
             </div>
         </div>
     </div>

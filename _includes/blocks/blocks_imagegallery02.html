@@ -17,7 +17,8 @@
                         <a href="{{ block.image01_bigsquare }}" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
                             <div class="portfolio-box">
                                 <div class="portfolio-image bg-gradient-peacock-blue-crome-yellow">
-                                    <img src="{{ imgsize.url }}{{ imgsize.bigsquare }}{{block.image01_bigsquare | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="" />
+                                    {% capture download_note %}{{ block.image01_bigsquare }}{% endcapture %}
+                                    <img src="{% include image.html file=download_note sizevar="bigsquare" %}" alt="" />
                                     <div class="portfolio-hover justify-content-end d-flex flex-column padding-50px-tb lg-padding-30px-tb xs-padding-15px-tb">
                                         <i class="feather icon-feather-zoom-in portfolio-plus-icon font-weight-300 text-white absolute-middle-center icon-small move-top-bottom"></i>
                                     </div>
@@ -31,7 +32,8 @@
                         <a href="{{ block.image02_rectangle }}" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
                             <div class="portfolio-box">
                                 <div class="portfolio-image bg-gradient-peacock-blue-crome-yellow">
-                                    <img src="{{ imgsize.url }}{{ imgsize.rectangle }}{{ block.image02_rectangle | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="" />
+                                    {% capture download_note %}{{ block.image02_rectangle }}{% endcapture %}
+                                    <img src="{% include image.html file=download_note sizevar="rectangle" %}" alt="" />
                                     <div class="portfolio-hover justify-content-end d-flex flex-column padding-50px-tb lg-padding-30px-tb xs-padding-15px-tb">
                                         <i class="feather icon-feather-zoom-in portfolio-plus-icon font-weight-300 text-white absolute-middle-center icon-small move-top-bottom"></i>
                                     </div>
@@ -45,7 +47,8 @@
                         <a href="{{ block.image03_smallsquare }}" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
                             <div class="portfolio-box">
                                 <div class="portfolio-image bg-gradient-peacock-blue-crome-yellow">
-                                    <img src="{{ imgsize.url }}{{ imgsize.smlsquare }}{{ block.image03_smallsquare | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="" />
+                                    {% capture download_note %}{{ block.image03_smallsquare }}{% endcapture %}
+                                    <img src="{% include image.html file=download_note sizevar="smlsquare" %}" alt="" />
                                     <div class="portfolio-hover justify-content-end d-flex flex-column padding-50px-tb lg-padding-30px-tb xs-padding-15px-tb">
                                         <i class="feather icon-feather-zoom-in portfolio-plus-icon font-weight-300 text-white absolute-middle-center icon-small move-top-bottom"></i>
                                     </div>
@@ -59,7 +62,8 @@
                         <a href="{{ block.image04_smallsquare }}" title="Lightbox gallery image title..." data-group="lightbox-gallery-2" class="lightbox-group-gallery-item">
                             <div class="portfolio-box">
                                 <div class="portfolio-image bg-gradient-peacock-blue-crome-yellow">
-                                    <img src="{{ imgsize.url }}{{ imgsize.smlsquare }}{{ block.image04_smallsquare | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="" />
+                                    {% capture download_note %}{{ block.image04_smallsquare }}{% endcapture %}
+                                    <img src="{% include image.html file=download_note sizevar="smlsquare" %}" alt="" />
                                     <div class="portfolio-hover justify-content-end d-flex flex-column padding-50px-tb lg-padding-30px-tb xs-padding-15px-tb">
                                         <i class="feather icon-feather-zoom-in portfolio-plus-icon font-weight-300 text-white absolute-middle-center icon-small move-top-bottom"></i>
                                     </div>
