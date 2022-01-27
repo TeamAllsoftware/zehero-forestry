@@ -108,6 +108,5 @@ page_sections:
   captionrighttitle: A partir de 990€
   captionrightcontent: Laissez vous portez et concentrez vous sur votre vélo à profiter
     du moment.
-published: false
 
 ---
