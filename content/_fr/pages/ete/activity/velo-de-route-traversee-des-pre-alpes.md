@@ -11,7 +11,7 @@ description: 'La traversée des pré-alpes en vélo : Que ce soit de par la beau
   tel que le Mont Ventoux.'
 baseline: Traversée des Pré-Alpes
 engage: Traversez les Pré-Alpes en vélo d'une durée 6 jours
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643283553/website/V%C3%A9lo/adrien-delforge-P3fHc5zSy8Q-unsplash_hp9obv.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521349/website/V%C3%A9lo/traversee-pre-alpes_mmfnjh.png
 image01_alt: Route du mont ventoux en vélo
 page_sections:
 - template: textarea
@@ -31,7 +31,7 @@ page_sections:
     \ \n● Transfert retour – Véhicule Grand Confort"
   title: 'Ce séjour vélo dans les Alpes comprend '
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643284747/website/V%C3%A9lo/collage1_6_bmsif0.png
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292603/website/V%C3%A9lo/collage1_6_yhynog.png
   captiontitleuppercase: Journée 1
   title: Traversée du massif de la Chartreuse
   content: 'Après un départ de Chambéry, la 1er ascension sera le col du Granier,
@@ -43,8 +43,7 @@ page_sections:
     href_button: ''
     alt_button: ''
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643284748/website/V%C3%A9lo/collage1_7_jigamo.pngbar
-    s
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292603/website/V%C3%A9lo/collage1_7_lpos0k.png
   title: Traversée du massif du Vercors
   captiontitleuppercase: Journée 2
   content: 'Cette étape sera la plus dure avec 123 kms et 3315 de dénivelé. La traversée
@@ -59,7 +58,7 @@ page_sections:
 - template: 2colimgtxt
   captiontitleuppercase: Journée 3
   title: L’approche vers le Mythe
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643284747/website/V%C3%A9lo/collage1_8_k88crj.png
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292604/website/V%C3%A9lo/collage1_8_j4f7dp.png
   content: 'Une journée longue en terme de kilomètres mais plus roulante : 115 kms
     / Dénivelé: 1321m D+. Après l''ascension du col de Prémol, vous déjeunerez  à
     Rémuzat. Une fois passée le col d''Ey vous terminerez cette journée à Malaucène.'
@@ -70,7 +69,7 @@ page_sections:
 - template: 2colimgtxt
   title: La mythique ascension du Mont Ventoux
   captiontitleuppercase: Journée 4
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643284747/website/V%C3%A9lo/collage1_9_kyby6j.png
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292604/website/V%C3%A9lo/collage1_9_mnftcd.png
   content: 'Cette étape c''est l''ascension du mythique Mont Ventoux, cette terre
     lunaire et ce col difficile où parfois les conditions y sont dures. Une fois arrivé
     au sommet, vous rejoindrez Sault vous la pause repas avant de repartir jusqu''à
@@ -104,7 +103,7 @@ page_sections:
     href_button: ''
     alt_button: ''
 - template: 3coltxtimgtxt
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521349/website/V%C3%A9lo/traversee-pre-alpes_mmfnjh.png
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292454/website/V%C3%A9lo/adrien-delforge-P3fHc5zSy8Q-unsplash_hariws.jpg
   captionleftcontent: Un séjour en vélo à travers des paysages sauvages et montagneux
   captionrighttitle: A partir de 990€
   captionrightcontent: Laissez vous portez et concentrez vous sur votre vélo à profiter
