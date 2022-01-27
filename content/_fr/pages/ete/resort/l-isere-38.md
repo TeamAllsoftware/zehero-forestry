@@ -11,7 +11,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 page_title: L'Isère
-title: L'Isère (38)
+resort_nameid: isere
+resort_naming: L'Isère
+title: L'Isère (38) et ses activités outdoor pour la saison d'été
 permalink: "/fr/ete/destination/isere"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643020863/website/summer/tristan-boucher-vAYnXGhpI54-unsplash_pw94ay.jpg
 image01_alt: Une très belle vue d'un décor de montagne en Isère et dans le massif

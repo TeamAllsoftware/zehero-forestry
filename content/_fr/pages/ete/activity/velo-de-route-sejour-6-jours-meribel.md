@@ -10,7 +10,7 @@ description: Chez Ze Hero, avec l’appui de Prosneige, nous avons créer ce sé
   vallées et lacs entourés de nos belles montagnes.
 baseline: Un séjour sportif
 engage: Un séjour de 6 journées de vélo aux alentours de Méribel.
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642671861/website/summer/viktor-bystrov-Gi0OMNguFaw-unsplash_mekt50.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269873/website/M%C3%A9ribel/51382970215_d27314dc26_k_omvvhh.jpg
 image01_alt: Plusieurs cyclistes faisant du vélo à Méribel
 page_sections:
 - template: textarea

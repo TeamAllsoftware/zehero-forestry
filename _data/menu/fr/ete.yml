@@ -67,6 +67,7 @@ menu:
     image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
     image-alt: Les Gorges du Verdon avec des kayaks et canoés
     image-link: "/fr/ete/destinations"
+    txt-button: Toutes les destinations
   column-01:
   - nested: Les stations de montagne
     menu-items:
