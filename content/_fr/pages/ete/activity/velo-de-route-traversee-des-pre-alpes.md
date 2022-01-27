@@ -79,6 +79,30 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2colimgtxt
+  title: Traversée des gorges du Verdon
+  captiontitleuppercase: Journée 5
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643284747/website/V%C3%A9lo/collage1_10_px8xyx.png
+  content: 'Découvrez l''incroyable lac de St Croix du Verdon. Après une 1er partie
+    vallonée, vous prendrez pause à St Clair. Vous grimperez ensuite le col de l''Olivier
+    et d''Ayen avant de finir dans le village de Castellane. Distance: 124 kms / Dénivelé:
+    2228m D+'
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  title: L’arrière pays Niçois = Les pieds dans l’eau
+  captiontitleuppercase: Journée 6
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643291133/website/V%C3%A9lo/collage1_11_erizzg.png
+  content: 'Cette dernière journée de vélo vous amène à Coursegoule, petit village
+    de l''arrière pays niçois pause une pause sandwich. Après un passage dans le village
+    de St Jeannet, vous terminerez votre périple à Cagnes sur Mer. Distance: 103 kms
+    / Dénivelé: 1446m D+'
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
