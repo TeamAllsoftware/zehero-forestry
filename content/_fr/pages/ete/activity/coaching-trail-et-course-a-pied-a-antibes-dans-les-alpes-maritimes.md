@@ -3,7 +3,7 @@ layout: layout_activity
 language: fr
 season: summer
 topnav_color_text: dark
-title: Coaching Trail et course à pied à Antibes dans les Alpes Maritimes
+title: Coaching Trail et course à pied Antibes et Alpes Maritimes
 permalink: "/fr/ete/activite/coaching-course-a-pied-trail-antibes-alpes-maritimes"
 description: Si vous pratiquez la course à pied sur route, le trail running et que
   vous désirez trouver un groupe d’entraînement encadré par un coach, vous trouverez
