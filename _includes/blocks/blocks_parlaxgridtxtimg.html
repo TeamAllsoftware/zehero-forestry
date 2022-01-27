@@ -20,7 +20,7 @@
                 <div class="row m-lg-0">
                     <div class="col-12 col-md-6 order-2 order-md-1 bg-light-cream text-center padding-6-half-rem-all lg-padding-4-rem-all last-paragraph-no-margin wow animate__fadeIn" data-wow-delay="0.2s">
                         <h6 class="alt-font text-extra-dark-gray font-weight-500 d-inline-block">{{ block.gridline1title }}</h6>
-                        <p>{{ block.gridline1content }}</p>
+                        <p>{{ block.gridline1content | markdownify }}</p>
                     </div>
                     {% capture download_note %}{{ block.gridline1img }}{% endcapture %}
                     <div class="col-12 col-md-6 order-1 order-md-2 hover-option-6 cover-background sm-h-300px wow animate__fadeIn" data-wow-delay="0.4s" style="background-image: url('{% include image.html file=download_note sizevar="" width="700" %}')"></div>
@@ -30,7 +30,7 @@
                     <div class="col-12 col-md-6 hover-option-6 cover-background sm-h-300px wow animate__fadeIn" data-wow-delay="0.8s" style="background-image: url('{% include image.html file=download_note sizevar="" width="700" %}')"></div>
                     <div class="col-12 col-md-6 bg-light-cream text-center padding-6-half-rem-all lg-padding-4-rem-all last-paragraph-no-margin wow animate__fadeIn" data-wow-delay="0.6s">
                         <h6 class="alt-font text-extra-dark-gray font-weight-500 d-inline-block">{{ block.gridline2title }}</h6>
-                        <p>{{ block.gridline2content }}</p>
+                        <p>{{ block.gridline2content | markdownify }}</p>
                     </div>
                 </div>
             </div>
