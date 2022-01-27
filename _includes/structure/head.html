@@ -61,7 +61,7 @@
         {% endif %}
         <meta name="twitter:description" content="{{ page.description  | truncate: 155 }}">
         <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | url_encode }}{{ page.url | url_encode }}/opengraph/1:1/smaller">
-<!-- END OPEN GRAPH -->
+        <!-- END OPEN GRAPH -->
         
         {% if jekyll.environment == 'production' %}
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -75,6 +75,15 @@
         </script>
         {% endif %}
 
+        {% if jekyll.environment == 'development' %}
+        <meta name='robots' content='noindex,follow' />
+        <!-- include the widget -->
+        <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        {% endif %}
+
     </head>
     <body data-mobile-nav-style="classic">
+        {% if jekyll.environment == 'development' %}
+        <div data-netlify-identity-button>Login with Netlify Identity</div>
+        {% endif %}
         <!-- start header -->
