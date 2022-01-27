@@ -11,7 +11,7 @@ description: 'La traversée des pré-alpes en vélo : Que ce soit de par la beau
   tel que le Mont Ventoux.'
 baseline: Traversée des Pré-Alpes
 engage: Traversez les Pré-Alpes en vélo d'une durée 6 jours
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521349/website/V%C3%A9lo/traversee-pre-alpes_mmfnjh.png
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292454/website/V%C3%A9lo/adrien-delforge-P3fHc5zSy8Q-unsplash_hariws.jpg
 image01_alt: Route du mont ventoux en vélo
 page_sections:
 - template: textarea
@@ -81,7 +81,7 @@ page_sections:
 - template: 2colimgtxt
   title: Traversée des gorges du Verdon
   captiontitleuppercase: Journée 5
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643284747/website/V%C3%A9lo/collage1_10_px8xyx.png
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292604/website/V%C3%A9lo/collage1_10_nccyyy.png
   content: 'Découvrez l''incroyable lac de St Croix du Verdon. Après une 1er partie
     vallonée, vous prendrez pause à St Clair. Vous grimperez ensuite le col de l''Olivier
     et d''Ayen avant de finir dans le village de Castellane. Distance: 124 kms / Dénivelé:
@@ -93,7 +93,7 @@ page_sections:
 - template: 2colimgtxt
   title: L’arrière pays Niçois = Les pieds dans l’eau
   captiontitleuppercase: Journée 6
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643291133/website/V%C3%A9lo/collage1_11_erizzg.png
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292604/website/V%C3%A9lo/collage1_11_w1w0ye.png
   content: 'Cette dernière journée de vélo vous amène à Coursegoule, petit village
     de l''arrière pays niçois pause une pause sandwich. Après un passage dans le village
     de St Jeannet, vous terminerez votre périple à Cagnes sur Mer. Distance: 103 kms
@@ -103,10 +103,11 @@ page_sections:
     href_button: ''
     alt_button: ''
 - template: 3coltxtimgtxt
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292454/website/V%C3%A9lo/adrien-delforge-P3fHc5zSy8Q-unsplash_hariws.jpg
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521349/website/V%C3%A9lo/traversee-pre-alpes_mmfnjh.png
   captionleftcontent: Un séjour en vélo à travers des paysages sauvages et montagneux
   captionrighttitle: A partir de 990€
   captionrightcontent: Laissez vous portez et concentrez vous sur votre vélo à profiter
     du moment.
+published: false
 
 ---
