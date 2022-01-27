@@ -1,5 +1,6 @@
 <!-- start parallax section -->
-<section class="parallax overlap-height pb-md-0" data-parallax-background-ratio="0.5" style="background-image: url('{{ block.parlaximg }}');">
+{% capture download_note %}{{ block.parlaximg }}{% endcapture %}
+<section class="parallax overlap-height pb-md-0" data-parallax-background-ratio="0.5" style="background-image: url('{% include image.html file=download_note sizevar="" width="1500" %}');">
     <div class="opacity-very-light bg-extra-dark-gray"></div>
     <div class="container">
         <div class="row justify-content-center">
@@ -21,10 +22,12 @@
                         <h6 class="alt-font text-extra-dark-gray font-weight-500 d-inline-block">{{ block.gridline1title }}</h6>
                         <p>{{ block.gridline1content }}</p>
                     </div>
-                    <div class="col-12 col-md-6 order-1 order-md-2 hover-option-6 cover-background sm-h-300px wow animate__fadeIn" data-wow-delay="0.4s" style="background-image: url('{{ block.gridline1img }}')"></div>
+                    {% capture download_note %}{{ block.gridline1img }}{% endcapture %}
+                    <div class="col-12 col-md-6 order-1 order-md-2 hover-option-6 cover-background sm-h-300px wow animate__fadeIn" data-wow-delay="0.4s" style="background-image: url('{% include image.html file=download_note sizevar="" width="700" %}')"></div>
                 </div>
                 <div class="row m-lg-0">
-                    <div class="col-12 col-md-6 hover-option-6 cover-background sm-h-300px wow animate__fadeIn" data-wow-delay="0.8s" style="background-image: url('{{ block.gridline2img }}')"></div>
+                    {% capture download_note %}{{ block.gridline2img }}{% endcapture %}
+                    <div class="col-12 col-md-6 hover-option-6 cover-background sm-h-300px wow animate__fadeIn" data-wow-delay="0.8s" style="background-image: url('{% include image.html file=download_note sizevar="" width="700" %}')"></div>
                     <div class="col-12 col-md-6 bg-light-cream text-center padding-6-half-rem-all lg-padding-4-rem-all last-paragraph-no-margin wow animate__fadeIn" data-wow-delay="0.6s">
                         <h6 class="alt-font text-extra-dark-gray font-weight-500 d-inline-block">{{ block.gridline2title }}</h6>
                         <p>{{ block.gridline2content }}</p>
