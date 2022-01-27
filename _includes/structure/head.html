@@ -77,13 +77,8 @@
 
         {% if jekyll.environment == 'development' %}
         <meta name='robots' content='noindex,follow' />
-        <!-- include the widget -->
-        <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         {% endif %}
 
     </head>
     <body data-mobile-nav-style="classic">
-        {% if jekyll.environment == 'development' %}
-        <div data-netlify-identity-button>Login with Netlify Identity</div>
-        {% endif %}
         <!-- start header -->
