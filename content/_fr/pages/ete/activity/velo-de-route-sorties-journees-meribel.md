@@ -11,7 +11,7 @@ description: Chez Ze Hero, nous avons créer des sorties vélo journée en paral
   qui caractérisent notre secteur.
 baseline: Roulez et grimpez à Méribel
 engage: Six étapes de sortie vélo journée aux alentours de Méribel.
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883631/website/summer/Velo-col-vue-montagne_lpnkfv.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51412717941_e81ab34149_k_svjq0r.jpg
 image01_alt: Deux cycliste faisant du vélo à Méribel
 page_sections:
 - template: textarea
@@ -124,7 +124,7 @@ page_sections:
 
     Néanmoins, vous pourrez également prendre un hébergement autre. Nous sommes alors là pour vous conseiller si vous souhaitez des appartements ou des prestations hôtelières précises.
   title: 'Hébergement '
-
 redirect_from:
-  - /fr/velo-albertville/
+- "/fr/velo-albertville/"
+
 ---
