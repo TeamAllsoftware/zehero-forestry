@@ -45,14 +45,14 @@
                     <div class="interactive-banners-box">
                         <div class="interactive-banners-box-image">
                             {% capture download_note %}{{ resort.image01_href }}{% endcapture %}
-                            <img src="{% include image.html file=download_note sizevar="activitylist" width="" height="" %}" alt="image représentant l'activité {{ activity.title }}">
+                            <img src="{% include image.html file=download_note sizevar="activitylist" width="" height="" %}" alt="image représentant la destination {{ resort.title }}">
                             <div class="interactive-banners-text-overlay bg-slate-blue"></div>
                             <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
                         </div>
                         <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
                             <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ resort.resort_naming }}</h6>
                             <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ resort.baseline }}</span>
-                            <a href="{{ activity.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.activity.readmore }}</a>
+                            <a href="{{ resort.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.resort.readmore }}</a>
                         </div>
                     </div>
                 </div>
