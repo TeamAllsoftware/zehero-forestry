@@ -61,7 +61,7 @@
         {% endif %}
         <meta name="twitter:description" content="{{ page.description  | truncate: 155 }}">
         <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | url_encode }}{{ page.url | url_encode }}/opengraph/1:1/smaller">
-<!-- END OPEN GRAPH -->
+        <!-- END OPEN GRAPH -->
         
         {% if jekyll.environment == 'production' %}
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -73,6 +73,10 @@
 
         gtag('config', 'G-18RR6RPDCL');
         </script>
+        {% endif %}
+
+        {% if jekyll.environment == 'development' %}
+        <meta name='robots' content='noindex,follow' />
         {% endif %}
 
     </head>
