@@ -82,6 +82,5 @@ page_sections:
     Si vous préparez des compétitions, des objectifs de temps et de distance. Si vous voulez établir un calendrier annuel de vos compétitions de trail ou de course à pied, il est alors important **d’échanger** avec le coach. Cela déjà dans le but du travail à effectuer sur les séances de course à pied proposées, mais aussi afin d’avoir une **planification** cohérente.
 
     N’hésitez pas à **contacter** le coach afin d’échanger avec lui sur vos compétences, vos désirs, vos faiblesses. Il pourra également mettre en place, pendant les cours, une **attention** particulière à ces différents aspects.
-published: false
 
 ---
