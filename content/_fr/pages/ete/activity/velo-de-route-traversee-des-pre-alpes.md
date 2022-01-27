@@ -24,6 +24,61 @@ page_sections:
 
     Au départ de **Chambéry** vous traverserez la **Chartreuse**, le **Vercors**, les **Monts du Vaucluse** avec le **Ventoux**, sans oublier les **gorges du Verdon** pour, finalement, traverser l**‘arrière pays Niçois** et arriver à **Nice.**
   title: La traversée des Pré-Alpes
+- template: textarea
+  content: "● Encadrement – Moniteurs diplômés d’État  \n● Hébergement en gîte et
+    chambres d’hôtes  \n● Suivi technique et logistique (transports bagages et vélos)
+    \ \n● Ravitaillements en eau et pauses salées  \n● Transports Hébergements → Restaurants
+    \ \n● Transfert retour – Véhicule Grand Confort"
+  title: 'Ce séjour vélo dans les Alpes comprend '
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643284747/website/V%C3%A9lo/collage1_6_bmsif0.png
+  captiontitleuppercase: Journée 1
+  title: Traversée du massif de la Chartreuse
+  content: 'Après un départ de Chambéry, la 1er ascension sera le col du Granier,
+    puis le petit col de la placette à la fin du parcours. Vous terminerez cette 1er
+    étape à Tullin. Une 1er journée de 76 kms / Dénivelé: 1380m D+ qui vous mettre
+    en jambes.'
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643284748/website/V%C3%A9lo/collage1_7_jigamo.pngbar
+    s
+  title: Traversée du massif du Vercors
+  captiontitleuppercase: Journée 2
+  content: 'Cette étape sera la plus dure avec 123 kms et 3315 de dénivelé. La traversée
+    du massif du Vercors se fera avec l''ascension de Malleval en Vercors. La pause
+    repas se fera à St Jean en Royans. De là, une grosse difficulté vous attend :
+    le col de la machine puis le col de chaud clapier. Vous finirez cette étape à
+    Die avec une bonne "Clairette de Die" comme récompense.'
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  captiontitleuppercase: Journée 3
+  title: L’approche vers le Mythe
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643284747/website/V%C3%A9lo/collage1_8_k88crj.png
+  content: 'Une journée longue en terme de kilomètres mais plus roulante : 115 kms
+    / Dénivelé: 1321m D+. Après l''ascension du col de Prémol, vous déjeunerez  à
+    Rémuzat. Une fois passée le col d''Ey vous terminerez cette journée à Malaucène.'
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  title: La mythique ascension du Mont Ventoux
+  captiontitleuppercase: Journée 4
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643284747/website/V%C3%A9lo/collage1_9_kyby6j.png
+  content: 'Cette étape c''est l''ascension du mythique Mont Ventoux, cette terre
+    lunaire et ce col difficile où parfois les conditions y sont dures. Une fois arrivé
+    au sommet, vous rejoindrez Sault vous la pause repas avant de repartir jusqu''à
+    Manosque. Distance: 117 kms / Dénivelé: 2551m D+'
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
