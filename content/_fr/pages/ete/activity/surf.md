@@ -1,7 +1,7 @@
 ---
 layout: layout_activity
 language: fr
-season: winter
+season: summer
 topnav_color_text: dark
 title: Surf
 permalink: "/fr/ete/activite/surf"
@@ -37,6 +37,10 @@ page_sections:
     des vagues proches des roches, avec de fort courant. La technique de surf demande
     d'avoir des conseils. Le take-off c'est le fait de se lever sur la planche le
     plus rapidement et efficacement possible afin de bien glisser sur la vague.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Vous pourrez alors faire des cours collectifs ou des cours privés. Les
     cours collectifs seront moins chers, mais le moniteur ne sera pas 100% dédiée
@@ -90,8 +94,8 @@ page_sections:
     text_button: Réserver maintenant >
   intro: Réservez dès maintenant vos activités surf
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
-
 redirect_from:
-  - /fr/surf-loire-atlantique/
-  - /fr/surf-biarritz/
+- "/fr/surf-loire-atlantique/"
+- "/fr/surf-biarritz/"
+
 ---
