@@ -12,10 +12,19 @@
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
         <link rel="manifest" href="/site.webmanifest">
         <!-- style sheets and font icons  -->
+        <link rel="preload" as="style" href="/css/font-icons.min.css">
+        <link rel="preload" as="style"  href="/css/theme-vendors.min.css">
+        <link rel="preload" as="style"  href="/css/style.css" />
+        <link rel="preload" as="style"  href="/css/responsive.css" />
+        
         <link rel="stylesheet" type="text/css" href="/css/font-icons.min.css">
         <link rel="stylesheet" type="text/css" href="/css/theme-vendors.min.css">
         <link rel="stylesheet" type="text/css" href="/css/style.css" />
         <link rel="stylesheet" type="text/css" href="/css/responsive.css" />
+
+        <link rel="preload" as="script" href="/js/jquery.min.js">
+        <link rel="preload" as="script" href="/js/theme-vendors.min.js">
+        <link rel="preload" as="script" href="/js/main.js">
 
         <!-- start OPEN GRAPH -->
         {% if page.tags %}
@@ -64,15 +73,64 @@
         <!-- END OPEN GRAPH -->
         
         {% if jekyll.environment == 'production' %}
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-18RR6RPDCL"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+        <!-- TARTE AU CITRON cookie management -->
+        <script type="text/javascript" src="/js/tarteaucitron/tarteaucitron.js"></script>
+        <script type="text/javascript">
+            tarteaucitron.init({
+            "privacyUrl": "", /* Privacy policy url */
 
-        gtag('config', 'G-18RR6RPDCL');
+            "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+            "cookieName": "tarteaucitron", /* Cookie name */
+        
+            "orientation": "bottom", /* Banner position (top - bottom) */
+        
+            "groupServices": false, /* Group services by category */
+                            
+            "showAlertSmall": false, /* Show the small banner on bottom right */
+            "cookieslist": false, /* Show the cookie list */
+                            
+            "closePopup": false, /* Show a close X on the banner */
+
+            "showIcon": false, /* Show cookie icon to manage cookies */
+            //"iconSrc": "", /* Optionnal: URL or base64 encoded image */
+            "iconPosition": "BottomRight", /* BottomRight, BottomLeft, TopRight and TopLeft */
+
+            "adblocker": false, /* Show a Warning if an adblocker is detected */
+                            
+            "DenyAllCta" : true, /* Show the deny all button */
+            "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+            "highPrivacy": true, /* HIGHLY RECOMMANDED Disable auto consent */
+                            
+            "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+            "removeCredit": false, /* Remove credit link */
+            "moreInfoLink": true, /* Show more info link */
+
+            "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+            "useExternalJs": false, /* If false, the tarteaucitron.js file will be loaded */
+
+            //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
+                            
+            "readmoreLink": "", /* Change the default readmore link */
+
+            "mandatory": true, /* Show a message about mandatory cookies */
+            });
         </script>
+        <!-- fin de TARTE AU CITRON -->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script type="text/javascript">
+            tarteaucitron.user.gtagUa = 'G-18RR6RPDCL';
+            // tarteaucitron.user.gtagCrossdomain = ['example.com', 'example2.com'];
+            tarteaucitron.user.gtagMore = function () { /* add here your optionnal gtag() */ };
+            (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
+            </script>
+        <!-- end of Google Analytics -->
+        <!-- Facebook PIXEL -->
+        <script type="text/javascript">
+            tarteaucitron.user.facebookpixelId = 'YOUR-ID'; tarteaucitron.user.facebookpixelMore = function () { /* add here your optionnal facebook pixel function */ };
+            (tarteaucitron.job = tarteaucitron.job || []).push('facebookpixel');
+        </script>
+        <!-- end Facebook PIXEL -->
         {% endif %}
 
         {% if jekyll.environment == 'development' %}
