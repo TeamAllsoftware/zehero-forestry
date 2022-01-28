@@ -86,5 +86,6 @@ page_sections:
     href_button: ''
     alt_button: ''
   title: Trail de Gourdon
+published: false
 
 ---
