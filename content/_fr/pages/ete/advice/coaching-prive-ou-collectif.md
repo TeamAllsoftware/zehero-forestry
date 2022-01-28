@@ -34,6 +34,40 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  title: Quelques conseils
+  content: |-
+    Chaque coach peut avoir sa spécialité et va permettre d’avoir des connaissances plus importantes dans un ou plusieurs domaines. Il est important alors de signaler auprès du coach vos attentes. Renseignez, vous aussi, directement sur la présentation d’un coach pour savoir ses spécialités.
+
+    Le coach privé va pouvoir venir directement chez vous ou dans un lieu qui vous convient. Le lieu s’adapte aussi en fonction des exercices à faire en extérieur.
+- template: 2colimgtxt
+  content: |-
+    On peut retrouver par exemple des spécialités comme :
+
+    * la course à pied et trail
+    * la remise en forme
+    * la musculation
+    * la préparation physique général
+    * la perte de poids
+    * les sports de combat
+    * étirement et yoga
+    * le renforcement musculaire
+    * etc
+
+    Choisir son coach sportif, c’est choisir comment atteindre votre objectif.
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641820123/website/summer/clem-onojeghuo-n6gnCa77Urc-unsplash_kjjv0z.jpg
+  captiontitleuppercase: Selon ses envies et objectifs
+  title: Les différentes spécialités
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  content: |-
+    Quel que soit votre ou vos objectifs, le coach sera là pour vous y emmener, vous accompagner. De plus, il amène le matériel adéquat pour chaque séance. En plus de son expertise professionnelle, il sera motivant pour vos séances. Il apportera également ses connaissances complémentaires sur la nutrition, la récupération…
+
+    N’hésitez plus si vous désirez une séance adaptée à vous, à vos besoins pour progresser.
+  title: Les objectifs
 published: false
 
 ---
