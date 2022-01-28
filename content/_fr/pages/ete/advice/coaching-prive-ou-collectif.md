@@ -68,5 +68,19 @@ page_sections:
 
     N’hésitez plus si vous désirez une séance adaptée à vous, à vos besoins pour progresser.
   title: Les objectifs
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883624/website/summer/coaching-groupe-sport_c4axh7.jpg
+  captiontitleuppercase: Emulsion d'un groupe
+  title: Coaching en groupe
+  content: Le coaching en groupe permet d’avoir l’émulsion des personnes qui vont
+    s’entraîner avec vous. Motivation et entraide seront présent lors de chaque séance.
+    Ce type de coaching permet de partager ces séances avec un groupe et de pouvoir
+    échanger, se dépasser également. C’est alors plus ludique, on peut créer des duels,
+    on sort de sa zone de confort, tout le monde s’encourage. Par rapport au coaching
+    privé, c’est un cours plus économique.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
