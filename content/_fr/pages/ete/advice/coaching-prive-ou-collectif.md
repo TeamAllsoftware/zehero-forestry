@@ -82,5 +82,17 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  content: Lors d'une séance de coaching en groupe, généralement les thèmes de séances
+    seront alors imposées par le coach. Vous participerez à des entraînements de groupe
+    qui vont être orientés sur différentes disciplines, différentes formes d'entrainements.
+    Si vous participez des entraînements de course à pied en groupe, ainsi le coach
+    organisera des séances spécifiques suivant les semaines. Il faudra donc s'adapter
+    au groupe. L'avantage, c'est que vous retrouvez plusieurs personnes, on peut alors
+    échanger et passer un bon moment. On va être tiré, motivé par le groupe et cela
+    peut être absolument bénéfique. Selon les sports et les séances, il est parfois
+    préférable de s'entrainer avec d'autres personnes afin de se surpasser et de se
+    donner encore plus.
+  title: ''
 
 ---
