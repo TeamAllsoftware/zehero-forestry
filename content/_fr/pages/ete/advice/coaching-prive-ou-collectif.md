@@ -68,6 +68,5 @@ page_sections:
 
     N’hésitez plus si vous désirez une séance adaptée à vous, à vos besoins pour progresser.
   title: Les objectifs
-published: false
 
 ---
