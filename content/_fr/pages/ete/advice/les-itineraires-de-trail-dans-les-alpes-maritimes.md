@@ -159,5 +159,115 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2colimgtxt
+  content: |-
+    * Distance : 11,5km
+    * Dénivelé : 907m
+    * Niveau : Intermédiaire
+    * Temps estimé : 1h45 à 2h20
+
+    Le départ se fait d’un parking situé au bout du village lorsque vous l’avez traversé en direction de Thorenc, il y a même une fontaine d’eau.
+
+    De là vous allez directement emprunter un chemin raide, et technique. Vous passerez au début devant de magnifiques ruines.
+
+    Après 3km vous tournerez à droite, dans la foret et suivrez la crête jusqu’au sommet. Cette 2eme partie sera moins raide que la 1er. Vous trouverez une antenne une fois au sommet.
+
+    Maintenant demi tour dans cette descente technique et joueuse !
+  title: Le KV du Cheiron
+  captiontitleuppercase: VERT
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643354284/website/summer/le-kv-du-cheiron-1_kayf5z.png
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  content: |-
+    * Distance : 11.2km
+    * Dénivelé : 508m
+    * Niveau : Débutant/Intermédiaire
+    * Temps estimé : 1h30
+
+    Découvrez le Baou de St Jeannet ainsi que celui de la Gaude.
+
+    Vous partirez pour une 1er montée de 2,90km avec 390m de dénivelé jusqu’au baou de la Gaude. Une montée assez raide et technique.
+
+    Vous ferez ensuite un Aller/Retour au sommet de ce baou pour repartir sur des sentiers vallonnés et rapides.
+
+    Arrivée à Jas Jausserand, vous tournerez totalement à gauche pour revenir en direction du Baou de St Jeannet.
+
+    Vous ferez ensuite un petit Aller/Retour au sommet de ce Baou, avant d’entamer la descente technique. Vous prendrez à droite au panneau 85 pour rejoindre le 84 et retournez sur le chemin du départ.
+  captiontitleuppercase: VERT
+  title: Trail Les 2 Baous
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643354379/website/summer/trace-Saint-Jeannet_w0bksq.png
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  content: |-
+    * Distance : 18,6km
+    * Dénivelé : 1195m
+    * Niveau : Intermédiaire
+    * Temps estimé : 3h / 3h30
+
+    Le départ se fait au grand espace “St Bernard les Grands Prés”. Vous prendrez donc au panneau d’indication 261 et vous suivrez ce chemin en direction du Mont Ferion par le Col du Dragon.
+
+    Après 1,9km vous prendrez au panneau 266 à gauche et vous avancerez sur une légère crête. Vous arriverez au Col du Dragon après 4,60km et 574 D+. Une dernière montée raide et technique, mais rapide, vous amènera au pied du Mont Ferion, qui se trouve sur votre droite.
+
+    À gauche au panneau 273, vous continuerez votre chemin vers le Col St-Michel. La 1er partie de la descente est très raide avec beaucoup de cailloux. Vous suivrez une piste 4*4 descendant jusqu’au kilomètre 8,5 avant de prendre totalement à gauche au panneau 460. Au panneau 458, vous commencez la 2ème montée.
+
+    Juste après au panneau 457, vous prendrez à gauche en direction du Col de Fount Blanca. Vous descendrez une portion raide en direction de Levens. Dès lors que vous retrouverez la route principale, vous prendrez à droite avant de retrouver le point de départ.
+  title: La boucle de Levens
+  captiontitleuppercase: ROUGE
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643354473/website/summer/trace-levens_qklnfj.png
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  content: |-
+    * Distance : 18,6km
+    * Dénivelé : 1195m
+    * Niveau : Expert
+    * Temps estimé : 3h / 3h30
+
+    Une petite boucle pour son kilométrage mais très dur pour son ratio dénivelé. C’est aussi un parcours technique qui demande une belle condition physique.
+
+    Au départ de Saint Jean La Rivière, vous débuterez le parcours en prenant la direction d’Utelle par un chemin qui coupera la route et montera très fort. Arrivé à Utelle après 3,7km et 520D+, vous continuerez cette longue montée en suivant le GR5 en direction du Brec d’Utelle.
+
+    Au km 9 bout de cette longue montée dans les cailloux, vous ferez un A/R au sommet du Brec d’Utelle. Vous finirez donc cette montée de 9km avec 1250D+. Vous descendrez jusqu’à l’indication 154, afin de prendre à droite et de suivre le GR 510 : une descente de 8km avec 1200D- plutôt technique qui demandera de la vigilance.
+
+    Arrivé au Village du Figuret, la grosse difficulté sera cette montée de plus de 700D+ pour 2,5km. Vous continuez à monter sur le GR 510 jusqu’au Suquet et au panneau 128, vous quitterez le GR en prenant à droite.
+
+    La montée se finira au Col St Pierre et vous finirez par 5km de descente jusqu’au départ.
+  captiontitleuppercase: NOIR
+  title: Le Tour d’Utelle
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643354553/website/summer/trace-utelle_1_luwkib.png
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  content: |-
+    * Distance : 12.1km
+    * Dénivelé : 670m
+    * Niveau : Intermédiaire
+    * Temps estimé : 2h
+
+    Le Mont Vial est situé à 1514m d’altitude et offre un magnifique panorama sur la mer et les montagnes. Un parcours qui reste court mais technique.
+
+    Le sommet du Vial est directement indiqué dans le village. Vous suivrez un chemin très beau qui montera en balcon jusqu’au Col du Serse.
+
+    De là, vous prendrez à droite afin de finir l’ascension et d’arriver au sommet : une montée de 5,1km et 650D+. Vous longerez la route en descente jusqu’au panneau d’indication 283 et continuerez tout droit le long des crêtes.
+
+    Arrivé au panneau 282, vous prendrez totalement à gauche pour faire demi-tour en prenant la direction “Les Chabanes”. Le chemin est à l’ombre et reste technique. Vous passerez ensuite dans le Village “Tourette-du-Chateau” et vous continuerez en prenant la direction de “Revest les Roches”.
+  captiontitleuppercase: VERT
+  title: Le Mont Vial
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643354628/website/summer/mont-vial-1_kfjqo7.png
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+published: false
 
 ---
