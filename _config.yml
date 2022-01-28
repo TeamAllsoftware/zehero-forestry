@@ -85,10 +85,16 @@ defaults:
       layout: "page"
   -
     scope:
-      path: "_fr/posts"
+      path: "_fr/posts/ete"
     values:
       layout: "post"
-      permalink: /fr/blog/:year/:month/:slug/
+      permalink: /fr/ete/blog/:year/:month/:slug/
+  -
+    scope:
+      path: "_fr/posts/hiver"
+    values:
+      layout: "post"
+      permalink: /fr/hiver/blog/:year/:month/:slug/
   -
     scope:
       path: ""

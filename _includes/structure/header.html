@@ -111,8 +111,8 @@
                             
                                                 {% for blogpost in posts limit:6 %}
                                                 {% if blogpost.path contains "/posts/" %}
-                                                <li class=""><a href="{{ blogpost.url }}" 
-                                                    title="Lien vers l'aticle de blog {{ blogpost.title }}"><i class="feather icon-feather-arrow-right-circle text-large text-green position-relative margin-10px-right" aria-hidden="true"></i><span>{{ blogpost.post-title | truncate:60 }}</span></a></li>
+                                                <li class=""><a href="/{{ language }}/{{ blogpost.url | remove: '/fr/' }}" 
+                                                    title="Lien vers l'aticle de blog {{ blogpost.post-title }}"><i class="feather icon-feather-arrow-right-circle text-large text-green position-relative margin-10px-right" aria-hidden="true"></i><span>{{ blogpost.post-title | truncate:60 }}</span></a></li>
                                                 {% endif %}
                                                 {% endfor %}
 
