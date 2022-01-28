@@ -67,5 +67,25 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643352682/website/summer/le-trail-de-gordon-1_af2yrh.png
+  captiontitleuppercase: VERT
+  content: |-
+    * Distance : 14km
+    * Dénivelé : 823m
+    * Niveau : Intermédiaire
+    * Temps estimé : 1h45 à 2h20
+
+    Le départ se fait de Bar sur loup au chemin de Bessurane.
+
+    Vous avancerez dans les bois de Gourdon sur une portion de 2km plate. Pour rejoindre ensuite le chemin du paradis, une montée raide jusqu’à Gourdon.
+
+    Vous continuerez l’ascension jusqu’au plateau de Calvillore, par un sentier en zig zag. Vous descendrez sur Gourdon puis emprunterez de nouveau le Chemin du Paradis jusqu’à Pont du loup afin de finir par un plat montant jusqu’à Bar sur Loup.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+  title: Trail de Gourdon
+published: false
 
 ---
