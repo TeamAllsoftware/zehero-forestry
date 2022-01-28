@@ -40,10 +40,21 @@ page_sections:
     href_button: ''
     alt_button: ''
 - template: 2colimgtxt
-  content: |-
-    Distance : 22,3km // Dénivelé : 985m // Niveau : Avancé // Temps estimé :3h à  4H. Un parcours qui se dit “intermédiaire” par sa distance mais aussi par sa technicité. Quelques sentiers seront difficiles par le nombreuse pierres. Le départ se fait d’un grand parking, au bout de la grande rue de Théoule.
-
-    Vous rejoindrez le col de Théoule progressivement, puis le col de Trayas. Vous aurez une petite portion roulante et agréable avant d’arriver à la monter des “Sommets des grosse grues”. Une montée difficile et raide, mais qui offre un beau panorama en haut. Vous descendrez légèrement une pente technique avant de remonter au “Sommet de la petit Grue”. Vous rejoindrez ensuite le col de Notre Dame. Sur un sentier balcon, vous irez jusqu’à la Dent de l’Ours. Un petit aller/retour au sommet de la patte d’ours puis vous aurez une longue descente technique vers un petit lac. De là se tiendra la dernière difficulté, afin de revenir sur le col de Notre Dame. Vous rejoindrez le col de Trayas par un sentier 4*4 facile à courir. En direction du Collet Autel avec une descente raide et en zig zag, vous retourner par un chemin balcon au col de Théoule. Vous rentrerez par le chemin du début au parking
+  content: "Distance : 22,3km // Dénivelé : 985m // Niveau : Avancé // Temps estimé
+    :3h à  4H. \n\nUn parcours qui se dit “intermédiaire” par sa distance mais aussi
+    par sa technicité. Quelques sentiers seront difficiles par le nombreuse pierres.
+    Le départ se fait d’un grand parking, au bout de la grande rue de Théoule.\n\nVous
+    rejoindrez le col de Théoule progressivement, puis le col de Trayas. Vous aurez
+    une petite portion roulante et agréable avant d’arriver à la monter des “Sommets
+    des grosse grues”. Une montée difficile et raide, mais qui offre un beau panorama
+    en haut. Vous descendrez légèrement une pente technique avant de remonter au “Sommet
+    de la petit Grue”. Vous rejoindrez ensuite le col de Notre Dame. Sur un sentier
+    balcon, vous irez jusqu’à la Dent de l’Ours. Un petit aller/retour au sommet de
+    la patte d’ours puis vous aurez une longue descente technique vers un petit lac.
+    De là se tiendra la dernière difficulté, afin de revenir sur le col de Notre Dame.
+    \n\nVous rejoindrez le col de Trayas par un sentier 4*4 facile à courir. En direction
+    du Collet Autel avec une descente raide et en zig zag, vous retourner par un chemin
+    balcon au col de Théoule. Vous rentrerez par le chemin du début au parking"
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643297752/website/summer/les-balcons-dazur-1_kpdbil.png
   captiontitleuppercase: Rouge
   title: Les Balcons d'Azur
@@ -86,5 +97,27 @@ page_sections:
     href_button: ''
     alt_button: ''
   title: Trail de Gourdon
+- template: 2colimgtxt
+  content: |-
+    * Distance : 24,2km
+    * Dénivelé : 900m
+    * Niveau : Intermédiaire
+    * Temps estimé : 3h30 à 4h
+
+    Le départ se fait du grand parking en bas de Gourdon. Directement au départ, vous prenez sur la route à droite et vous allez suivre le GR 51 en direction du col de Cavillore. De là vous entamez une montée raide et technique sur 2km avec 300 D+. Une fois sur le plateau, vous allez avoir une petite portion plate en suivant toujours le GR 51. Une fois arrivé au panneau d’indication 163, vous prenez à gauche.
+
+    Vous allez monter et suivre une crête à travers parfois la forêt. Vous passerez au Colle de Rougiès et vous finirez cette ascension de 7km et 600D+. Une petite descente vous amènera à l’Observatoire de la Côte d’Azur. Au panneau 49, vous irez donc sur la gauche en rejoignant le panneau 189 afin de trouver le GR4. De là, une belle descente technique vous amène quasiment jusqu’à Cipières.
+
+    C’est une fois que vous arrivez au panneau 160, que vous prenez totalement à gauche pour retrouver le GR 51 et remontez vers le plateau de Cavillore. La montée se fera sur des petits singles et sera plutôt douce, 6km et 300 D+. Une fois en haut, vous retrouverez le même chemin qu’au départ sur le plateau. Mais cette fois ci vous irez jusqu’au panneau 11 et continuerez tout droit afin de prendre les lacets qui vous amène à Gourdon.
+
+    Une belle balade avec une vue sur Caussols, le Cheiron et la mer. Un parcours technique qui peut se faire rapidement.
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643353060/website/summer/map-trail-gourdon_gxchlh.png
+  captiontitleuppercase: ROUGE
+  title: Trail de Gourdon à Cipières
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+published: false
 
 ---
