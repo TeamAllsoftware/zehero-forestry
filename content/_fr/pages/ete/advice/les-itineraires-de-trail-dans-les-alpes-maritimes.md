@@ -117,5 +117,47 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2colimgtxt
+  content: |-
+    * Distance : 14,8km
+    * Dénivelé : 971m
+    * Niveau : Intermédiaire
+    * Temps estimé : 2h à 2h30
+
+    Le départ se fait sur un grand parking dans le magnifique village de Tourrettes sur Loup.
+
+    Ce parcours n’est pas très long mais son ratio km/D+ est important, donc il reste relativement raide et dur. Il est très typé comme Course de montagne.
+
+    Vous commencerez directement avec une montée raide sur bitume avant de rejoindre un chemin et de continuer vers le 1er sommet: le pic de Tourrettes.
+
+    Ensuite vous descendez légèrement afin de remonter sur le 2ème sommet : le Pic de Courmettes. La descente jusqu’à Tourrettes sera technique.
+  title: Trail des Pics
+  captiontitleuppercase: Vert
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643353728/website/summer/le-trail-des-pics-2_ran3pi.png
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  content: |-
+    * Distance : 26.2km
+    * Dénivelé : 1440m
+    * Niveau : Intermédiaire
+    * Temps estimé : 3h40 à 4h10
+
+    Après un départ sur le grand parking, vous prendrez donc la direction du Puy de Naouri. Les 4 premiers kilomètres seront raides avec 630m de dénivelé.
+
+    Vous arriverez au panneau d’indication 175 et vous aurez une partie plus roulante et plate. Vous rejoindrez le GR 51 au km 6 afin de rejoindre Saint Barnabé.
+
+    Au km 10, lors de l’indication numéro 255, vous prendrez à droite afin d’entamer une descente technique jusqu’à Courmes. Vous pourrez remplir vos flasques. Vous continuerez sur le GR51 un petit kilomètre avant de tourner à droite au panneau 252.
+
+    Ce petit chemin est un raccourci du GR 51. Au panneau 254, vous prendrez ce chemin très raide qui vous amènera au Puy de tourrettes : une montée de 6km avec 700d+. Vous continuerez en direction du Pic de courmettes avant d’entamer la descente bien joueuse de 6km.
+  title: Trail Le Tour de Tourrettes-sur-Loup
+  captiontitleuppercase: Rouge
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643353784/website/summer/trace-tourrette-sur-loup_bob5zt.png
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
