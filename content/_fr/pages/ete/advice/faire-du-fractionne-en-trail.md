@@ -30,7 +30,7 @@ page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643381204/website/Conseil%20/malik-skydsgaard-xlubUawuzrE-unsplash_xclglv.jpg
   title: Qu’est ce que le fractionné ?
-  captiontitleuppercase: Quand les entrainements sont durs
+  captiontitleuppercase: Des entraînements intenses
   content: |-
     C’est une méthode d’entraînement qui consiste à alterner des phases de course rapides, voire très rapides avec des phases de course de récupération où la vitesse sera plus lente. Le but principal est donc de travailler à une allure intense plus longtemps que si vous étiez à une allure continue.
 
@@ -47,19 +47,19 @@ page_sections:
     séances doivent se faire sur plat si l’on veut travailler sa VMA. Cependant, réaliser
     certaines de ces séances dans des chemins vallonnés, en bosse ou alors sur route
     ascensionnelle peut aussi être intéressant. En effet, cela se montre particulièrement
-    efficace si l’on prépare certaines courses de trail avec des profils particuliers.\n\n#####
-    **Le fractionné court :**\n\nIl se caractérise principalement par la fameuse séance
+    efficace si l’on prépare certaines courses de trail avec des profils particuliers.\n\n######
+    Le fractionné court :\n\nIl se caractérise principalement par la fameuse séance
     de 30/30 : 30 secondes rapide / 30 secondes lent (récupération). On peut répéter
     cela de 8 à 20 fois. On peut aussi la réaliser en deux blocs: 2 fois (8 fois 30/30)
     avec une récup d’1mn entre la série. Il faut faire attention à ne pas partir trop
-    vite pour ne pas fatiguer trop vite.\n\n##### **La VMA Moyenne et Longue :**\n\nPour
-    travailler sa VMA moyenne, les efforts seront d’environ moins de 2mn.   \n_“ Exemple
+    vite pour ne pas fatiguer trop vite.\n\n###### La VMA Moyenne et Longue :\n\nPour
+    travailler sa VMA moyenne, les efforts seront d’environ moins de 2mn.  \n_“ Exemple
     : 10 x (1mn/1mn de recup) ou 8 à 10 x (1mn30/1mn de recup) ou encore 10 x (400m/1mn30
     de récup). Le but étant de le faire à 95% de sa VMA.”_\n\nPour la VMA longue les
     efforts iront jusqu’à 3mn et les récupérations seront toujours inférieures au
     temps d’effort.  \n_“Exemple : 6 x (3mn/1mn30 recup) ou en pyramidal 4 x (1mn/2mn/3mn)
-    avec 1mn de recup entre chaque série et 2mn entre chaque session.”_\n\n##### **Le
-    seuil :**\n\nLe seuil est un type de fractionné beaucoup plus long que les autres
+    avec 1mn de recup entre chaque série et 2mn entre chaque session.”_\n\n######
+    Le seuil :\n\nLe seuil est un type de fractionné beaucoup plus long que les autres
     fractionnés. On retrouve le seuil court et long.\n\nLe seuil court consiste à
     réaliser un effort d’environ 5mn jusqu’à 10/15mn. La récupération reste courte
     entre chaque série, environ 2mn à 3mn. Ici, vous améliorerez votre fréquence cardiaque
@@ -68,7 +68,7 @@ page_sections:
     20mn d’effort. Vous serez à environ 80% 85% de votre FCM.\n\nLe seuil est représentatif
     de l’allure pour des 10km jusqu’au semi-marathon.  \n_“Exemple : 2 x (10mn vite/10mn
     plus vite enchaîné) Récup 2mn entre la série ou 3 x (10mn vite//5mn très vite
-    enchaîné) Récup 2mn entre les séries”_\n\n##### **Le Fartleck :**\n\nOn l’appelle
+    enchaîné) Récup 2mn entre les séries”_\n\n###### Le Fartleck :\n\nOn l’appelle
     le jeu suédois.\n\nGénéralement on travaille ce type de séance en nature, sur
     des terrains plutôt vallonnés et variés. Le principe du Fartleck est de varier
     vos allures soit à l’envie (en termes d’intensité et/ou de temps), soit en codifiant
