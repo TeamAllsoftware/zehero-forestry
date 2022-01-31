@@ -22,6 +22,10 @@ page_sections:
     encore celui du Mont Blanc. On y trouve tout de même une belle partie plus vallonnée
     tel que le massif de la chambotte et la chaîne de l’épine.'
   captiontitleuppercase: La Savoie
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   textarea: Et je peux en ajouter un au dessus histoire d'ajouter du contenu à ma
     guise. c'est absolument génial.
@@ -144,7 +148,6 @@ page_sections:
   title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
     des stations
 topnav_text_color: light
-engage: ''
-published: false
+engage: De belles vagues hivernales en eau froide
 
 ---
