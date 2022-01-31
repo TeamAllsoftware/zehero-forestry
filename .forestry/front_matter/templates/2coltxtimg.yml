@@ -1,0 +1,57 @@
+---
+label: 2 col txt + img
+hide_body: true
+fields:
+- name: image_col_left_href
+  type: text
+  config:
+    required: true
+  label: Image Col Left HREF
+- name: alt_text_for_image
+  type: text
+  config:
+    required: true
+  label: Alt text for image
+- name: captiontitleuppercase
+  type: text
+  config:
+    required: true
+  label: caption Title uppercase
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: title
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: content
+- name: button
+  type: field_group
+  config: {}
+  fields:
+  - name: text_button
+    type: text
+    config:
+      required: false
+    label: Text on the button
+  - name: href_button
+    type: text
+    config:
+      required: false
+    label: url for this button
+  - name: alt_button
+    type: text
+    config:
+      required: false
+    label: alternative text for this link
+  label: button
