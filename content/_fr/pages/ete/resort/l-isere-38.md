@@ -5,7 +5,7 @@ season: summer
 description: Vous arrivez dans la station [nom de la station] et vous aimeriez louer
   du matériel   tel que des skis, des chaussures de ski, des casques pour toute votre
   famille ?
-topnav_color_text: dark
+topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités et les différentes locations en Isère
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
@@ -74,5 +74,6 @@ page_sections:
     les campagnes Iséroises en famille et découvrez ce département.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643035410/website/summer/mercvrie-Zq0eVWKQqIo-unsplash_heonqb.jpg
 baseline: 4 massifs
+published: false
 
 ---
