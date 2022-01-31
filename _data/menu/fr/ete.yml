@@ -86,6 +86,8 @@ menu:
   column-02:
   - nested: Les stations balnéaires
     menu-items:
+    - title: St Brévin les pins
+      href: https://www.ze-hero.com/fr/ete/destination/st-brevin-les-pins
     - title: Antibes
       href: "/fr/ete/destination/antibes"
   column-03:
