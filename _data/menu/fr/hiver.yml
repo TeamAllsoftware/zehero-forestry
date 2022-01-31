@@ -101,6 +101,12 @@ menu:
       href: "/fr/hiver/coach/yann-alarcon"
     - title: Nathan Alarçon
       href: "/fr/hiver/coach/nathan-alarcon"
+  - nested: ZE-HERO
+    menu-items:
+    - title: Qui sommes-nous ?
+      href: "/fr/qui-sommes-nous"
+    - title: Nous contacter
+      href: "/fr/contact"
   column-02: 
 - top-level:
     title: e-Shop
