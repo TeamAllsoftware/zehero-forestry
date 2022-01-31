@@ -4,7 +4,7 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Qui sommes nous ? L'équipe Ze Hero - Vivre l'Outdoor !
-permalink: "/fr/qui-sommes-nous"
+permalink: "/fr/l-equipe-ze-hero"
 description: Connaissez-vous Ze Hero, la référence de l'Outdoor ? Découvrez l'équipe
   Ze Hero, notre histoire et les valeurs qui nous animent
 baseline: ''
