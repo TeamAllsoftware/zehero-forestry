@@ -56,6 +56,10 @@ menu:
       href: https://www.ze-hero.com/fr/ete/conseil/comment-debuter-trail
   - nested: Entraînement / Préparation
     menu-items:
+    - title: Les itinéraires de trail dans le 06
+      href: https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes
+    - title: Le fractionné en Trail
+      href: https://www.ze-hero.com/fr/ete/conseil/fractionne-trail
     - title: Comment se préparer à un 1er trail ?
       href: https://www.ze-hero.com/fr/ete/conseil/preparation-course-trail
     - title: Coaching privé ou collectif
@@ -86,6 +90,8 @@ menu:
   column-02:
   - nested: Les stations balnéaires
     menu-items:
+    - title: St Brévin les pins
+      href: https://www.ze-hero.com/fr/ete/destination/st-brevin-les-pins
     - title: Antibes
       href: "/fr/ete/destination/antibes"
   column-03:
