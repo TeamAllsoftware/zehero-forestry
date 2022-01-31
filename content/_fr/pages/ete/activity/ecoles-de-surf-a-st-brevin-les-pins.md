@@ -68,6 +68,5 @@ page_sections:
     Chacune des écoles de surf de St Brévin les pins permettront la location de matériel de surf. C'est-à-dire que vous retrouverez les planches de surf pour tous les niveaux, des leashs, ainsi que les combinaisons courtes ou longues. Si vous prenez des cours de surf, vous pourrez venir soit avec votre équipement, soit l'avoir directement sur place.
 
     Il existe aussi d'autre shop à St Brévin les pins qui proposeront la location de matériel et d'équipement de surf.
-published: false
 
 ---
