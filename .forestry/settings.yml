@@ -23,6 +23,13 @@ sections:
   match: "**/*"
   templates:
   - blog-post
+- type: directory
+  path: _fr/pages/various
+  label: FR Various
+  create: documents
+  match: "**/*"
+  templates:
+  - generic-page
 - type: heading
   label: French hiver
 - type: document
