@@ -4,7 +4,7 @@ language: fr
 season: winter
 topnav_color_text: light
 title: Qui sommes nous ? L'équipe Ze Hero - Vivre l'Outdoor !
-permalink: /fr/l-equipe-ze-hero
+permalink: "/fr/l-equipe-ze-hero"
 description: Connaissez-vous Ze Hero, la référence de l'Outdoor ? Découvrez l'équipe
   Ze Hero, notre histoire et les valeurs qui nous animent
 baseline: ''
@@ -23,5 +23,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Une femme heureuse dans la neige lève les bras, elle semble
+    fière d'elle
 
 ---
