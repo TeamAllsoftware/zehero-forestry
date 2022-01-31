@@ -44,6 +44,18 @@ page_sections:
     la mine. Ce canyoning sera réservé aux sportifs et aux personnes confirmés où
     vous trouverez des sauts vertigineux, des rappels et de belles cascades."
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643642798/website/Canyon%2074/xavier-souty-3fhb6GkZnCU-unsplash_iu39wq.jpg
+  captiontitleuppercase: Annecy, ville d'execption
+  title: Les écoles de canyonings
+  content: |-
+    Avec ses différents canyonings prêt et dans les alentours d'Annecy, vous trouverez alors plusieurs écoles de canyoning. Ils vous permettront de vous initier à cette pratique, de vous perfectionner, de passer un moment riche en émotions. Vous pourrez également louer votre matériel directement dans ces écoles.
+
+    Vous retrouverez au sein de la ville d'Annecy 5 écoles de canyoning qui vous proposeront des cours, des stages et des balades. Ensuite, vous pourrez en trouver 3 entre Angon et Talloires. Au bout du lac, vous trouverez 2 écoles de canyoning vers Doussard puis 2 à Faverges pour le canyon de Montmin.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
