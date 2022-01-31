@@ -7,6 +7,11 @@ fields:
   config:
     required: true
   label: Image Col Left HREF
+- name: alt_text_for_image
+  type: text
+  config:
+    required: true
+  label: Alt text for image
 - name: captiontitleuppercase
   type: text
   config:
