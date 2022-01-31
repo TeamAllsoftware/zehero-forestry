@@ -16,11 +16,11 @@ layout: default
             <div class="col-12 col-lg-10 alt-font text-center bg-orange-zest text-white padding-7-rem-tb position-relative tilt-box" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }' style="background-image: url('https://res.cloudinary.com/deddrj0yb/image/upload/v1639064128/website/global/blog-post-layout-02-img-pattern_xxw4xt.png');">
                 <div class="w-1px h-90px bg-white mx-auto absolute-middle-center top-0px"></div>
                 <div class="text-uppercase text-medium font-weight-500 margin-25px-bottom alt-font">
-                    <a href="blog-grid.html" class="text-white d-inline-block">{{ page.tags[0] }}</a>
+                    {{ page.tags[0] }}
                     <span class="margin-20px-lr w-1px h-10px bg-white d-inline-block"></span>
-                    <a href="blog-grid.html" class="d-inline-block text-white">{{ page.tags[1] }}</a>
+                    {{ page.tags[1] }}
                     <span class="margin-20px-lr w-1px h-10px bg-white d-inline-block"></span>
-                    <a href="blog-grid.html" class="d-inline-block text-white">{{ page.tags[2] }}</a>
+                    {{ page.tags[2] }}
                 </div>
                 <h3 class="font-weight-600 w-50 mx-auto md-w-70 xs-w-90">{{ page.post-title }}</h3>
                 <div class="d-inline-block text-white-transparent margin-5px-top">{{ config.blog.various.text001 }} {{ author.firstname }} {{ author.lastname }} {{ config.blog.various.text002 }} {{ page.date | date_to_string }}</div>
@@ -62,12 +62,12 @@ layout: default
               <div class="d-block d-md-flex w-100 box-shadow-small align-items-center border-radius-5px padding-4-rem-all">
                   <div class="w-130px text-center margin-60px-right sm-margin-auto-lr">
                       <img src="{{ author.photo }}" class="rounded-circle w-110px" alt=""/>
-                      <a href="blog-grid.html" class="text-extra-dark-gray alt-font font-weight-500 margin-20px-top d-inline-block text-medium">{{ author.firstname }} {{ author.lastname }}</a>
+                      <span class="text-extra-dark-gray alt-font font-weight-500 margin-20px-top d-inline-block text-medium">{{ author.firstname }} {{ author.lastname }}</span>
                       {{ author.position }}
                   </div>
                   <div class="w-75 sm-w-100 last-paragraph-no-margin text-center text-md-start">
                       <p>{{ author.bio }}</p>
-                      {% comment %}<a href="blog-grid.html" class="btn btn-link btn-large text-extra-dark-gray margin-20px-top">{{ config.blog.various.text003 }}</a>{% endcomment %}
+                      {% comment %}<span class="btn btn-link btn-large text-extra-dark-gray margin-20px-top">{{ config.blog.various.text003 }}</span>{% endcomment %}
                   </div>
               </div>
           </div>
