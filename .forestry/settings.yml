@@ -24,7 +24,7 @@ sections:
   templates:
   - blog-post
 - type: directory
-  path: _fr/pages/various
+  path: content/_fr/pages/various
   label: FR Various
   create: documents
   match: "**/*"
