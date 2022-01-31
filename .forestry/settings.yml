@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: readme-editor.md
-  label: Help (updated 21 jan 22)
+  label: Help (updated 31 jan 22)
   read_only: true
 - type: document
   path: _data/authors.yml
@@ -23,6 +23,13 @@ sections:
   match: "**/*"
   templates:
   - blog-post
+- type: directory
+  path: content/_fr/pages/various
+  label: Various pages
+  create: documents
+  match: "**/*"
+  templates:
+  - generic-page
 - type: heading
   label: French hiver
 - type: document

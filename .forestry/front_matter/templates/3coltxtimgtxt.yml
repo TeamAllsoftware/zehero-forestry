@@ -16,6 +16,11 @@ fields:
   config:
     required: true
   label: imageCenter
+- name: center_alt_text_for_image
+  type: text
+  config:
+    required: true
+  label: center ALT text for image
 - name: captionrighttitle
   type: text
   config:

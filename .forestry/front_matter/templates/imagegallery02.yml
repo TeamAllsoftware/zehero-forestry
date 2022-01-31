@@ -13,21 +13,41 @@ fields:
     required: true
   label: image 01 big square
   description: Big squared image
+- name: atl_text_image_01
+  type: text
+  config:
+    required: true
+  label: ATL text image 01
 - name: image02_rectangle
   type: text
   config:
     required: true
   label: image 02 rectangle
   description: Big rectangle image, very wide
+- name: atl_text_image_02
+  type: text
+  config:
+    required: true
+  label: ATL text image 02
 - name: image03_smallsquare
   type: text
   config:
     required: true
   label: image 03 small square
   description: Small squared left image
+- name: atl_text_image_03
+  type: text
+  config:
+    required: true
+  label: ATL text image 03
 - name: image04_smallsquare
   type: text
   config:
     required: true
   label: image 04 Small Square
   description: Small squared right image
+- name: atl_text_image_04
+  type: text
+  config:
+    required: true
+  label: ATL text image 04

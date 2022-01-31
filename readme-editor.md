@@ -19,6 +19,15 @@ Once you have been introduce to our system, you might want to use the block comp
 
 ## LASTEST UPDATES
 
+#### update31.01.2022 : Add a new component: 2col txt + img
+
+it is a new component that faces the other **2col img + txt**   
+this way it is possible to make a page with alternate section img+txt and the section txt+img (ex: https://www.ze-hero.com/fr/qui-sommes-nous)
+
+#### update31.01.2022 : Add Forestry sidebar FR Various pages
+
+Possibility to create and update various pages not in any categories and then add a link in menu or page or hidden from menu (ex: contact page, qui sommes nous page
+
 #### update 21.01.2022 : Add a new component: cta
 
 #### update 06.01.2022 : Resort template

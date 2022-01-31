@@ -1,0 +1,94 @@
+---
+label: Generic page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: layout_generic
+  config:
+    required: true
+- name: language
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - fr
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: language
+- name: season
+  type: select
+  default: winter
+  config:
+    required: true
+    options:
+    - winter
+    - summer
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: season
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: URL for this page
+  description: 'Page url''s are on this model : "/fr/qui-sommes-nous"'
+- type: text
+  name: description
+  label: description
+  config:
+    required: true
+- type: text
+  name: baseline
+  label: baseline
+  description: 3 or 4 words to summarize quickly
+- name: topnav_color_text
+  type: select
+  default: light
+  config:
+    required: true
+    options:
+    - light
+    - dark
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Menu bar text color ? white or black
+  description: top navigation menu text color must be white or black ? depends on
+    the background image tone (dark or light) or color (dark or light). If background
+    is dark and you want a white text select "dark"
+  hidden: false
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - textarea
+  - 3coltxtimgtxt
+  - 2colimgtxt
+  - 2coltxtimg
+  - parlaxgridtxtimg
+  - liststyle01
+  - liststyle01numbered
+  - imagegallery02
+  - numberinfo
+  - cta
+  config:
+    min: 
+    max: 

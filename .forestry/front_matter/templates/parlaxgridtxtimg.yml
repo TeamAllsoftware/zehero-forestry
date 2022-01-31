@@ -9,6 +9,11 @@ fields:
   label: parlaximg
   description: image url from Cloudinary (if you do not know what is Cloudinary, contact
     Geoffrey)
+- name: prlax_alt_text_for_image
+  type: text
+  config:
+    required: true
+  label: prlax ALT text for image
 - name: captionabovetitle
   type: text
   config:
@@ -42,6 +47,11 @@ fields:
     required: true
   label: gridline1img
   description: image URL from cloudinary preset for image size 800x610
+- name: grid_1_alt_text_for_image
+  type: text
+  config:
+    required: true
+  label: grid 1 ALT text for image
 - name: gridline2title
   type: text
   config:
@@ -65,3 +75,8 @@ fields:
     required: true
   description: image URL from cloudinary preset for image size 800x610
   label: gridline2img
+- name: grid_2_alt_text_for_image
+  type: text
+  config:
+    required: true
+  label: grid 2 ALT text for image
