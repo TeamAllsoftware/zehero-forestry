@@ -59,7 +59,7 @@ sections:
 - type: document
   path: _data/menu/fr/ete.yml
   label: ETE menu header
-  read_only: true
+  read_only: false
 - type: directory
   path: content/_fr/pages/ete/activity
   label: ETE Activités
