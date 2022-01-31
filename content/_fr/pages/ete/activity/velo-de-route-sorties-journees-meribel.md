@@ -33,7 +33,7 @@ page_sections:
   captiontitleuppercase: Journée 1
   title: Vallées de Méribel et Courchevel
   button:
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13298-decouverte-des-vallees-de-meribel-et-courchevel-activite-ze-hero
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17216-decouverte-des-vallees-de-meribel-et-courchevel-activite-ze-hero
     text_button: Réservez
     alt_button: " "
   content: 'Cette 1er étape est au départ de Méribel. Vous descendrez à Moutiers afin
@@ -50,7 +50,7 @@ page_sections:
     / Dénivelé: 2059m D+ (Transfert Méribel-Aime) 100€'
   button:
     text_button: 'Réservez '
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13292-col-du-petit-saint-bernard-activite-ze-hero
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17213-col-du-petit-saint-bernard-activite-ze-hero
     alt_button: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage3_vnw1tf.png
@@ -63,7 +63,7 @@ page_sections:
     avec 99kms / Dénivelé: 3100m D+. 100€'
   button:
     text_button: Réservez
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13297-col-de-la-madeleine-activite-ze-hero
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17215-col-de-la-madeleine-activite-ze-hero
     alt_button: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage4_vbcw2p.png
@@ -74,7 +74,7 @@ page_sections:
     47kms / Dénivelé: 1989m D+:  40€'
   button:
     text_button: Réservez
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13293-col-de-la-loze-par-meribel-activite-ze-hero
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17219-col-de-la-loze-par-meribel-activite-ze-hero
     alt_button: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage5_ul9hd3.png
@@ -86,7 +86,7 @@ page_sections:
     2483m D+ : 100€'
   button:
     text_button: Réservez
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/13295-cormet-de-roseland-activite-ze-hero
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17209-cormet-de-roselend-activite-ze-hero
     alt_button: ''
 - template: 2colimgtxt
   title: Annecy par les cols
@@ -100,7 +100,7 @@ page_sections:
     91kms / Dénivelé: 1503m D+ : 150€'
   button:
     text_button: Réservez
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/12411-journee-velo-de-route-annecy-ses-lacs-et-ses-montagnes-repas-et-apres-midi-lac-compris-activite-ze-hero
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17212-annecy-ses-lacs-et-ses-montagnes-repas-et-apres-midi-au-lac-compris-activite-ze-hero
     alt_button: ''
 - template: textarea
   title: Infos pratiques
