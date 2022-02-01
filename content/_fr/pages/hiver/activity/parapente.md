@@ -28,6 +28,12 @@ page_sections:
     départ peut également se faire à pied ou alors en ski. Si vous partez en ski,
     vous pourrez alors découvrir une nouvelle sensation de glisse et de vol ainsi
     que d'un atterrissage en douceur sur la neige.
+  alt_text_for_image: Personne en ski faisant du parapente l'hiver, volant au dessus
+    des montagnes
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     Les vols vont durer entre 10 et 30 mn en fonction de la météo et des départs donnés. Le vol biplace vous permettra d’admirer la vue, de vivre une nouvelle expérience, ainsi que des sensations fortes. Les moniteurs en fonction ainsi de votre aisance peuvent vous faire tenir les commandes et réaliser des vols plus sensationnels. Vous pourrez aussi bénéficier de vidéo et de photo qui sont proposées par les moniteurs de parapente.
