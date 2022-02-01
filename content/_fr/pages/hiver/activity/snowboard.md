@@ -5,8 +5,7 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Snowboard
-description: Que ce soit dans les pentes de poudreuse, dans les snowparks ou sur les
-  pistes, la pratique du snowboard est présente partout aujourd'hui.
+description: Partez rider le domaine skiable et les hors pistes en apprenant le snowboard
 baseline: Fluidité, poudreuse et grands virages
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-marche_prsset.jpg
 image01_alt: Snowboard dans les domaines de Savoie
