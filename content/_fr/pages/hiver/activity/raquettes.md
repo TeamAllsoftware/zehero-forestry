@@ -1,11 +1,11 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/raquettes"
+permalink: "/fr/hiver/activite/raquettes-a-neige"
 language: fr
 season: winter
 topnav_color_text: dark
-title: Raquettes
-description: Randonnez l'hiver dans les montagnes enneigées
+title: Raquettes à neige
+description: Partez faire une randonnée en raquettes à neige dans la montagne.
 baseline: Exploration, liberté et tranquilité
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080084/website/winter/jacques-dillies-eL6lwLpGgnA-unsplash_qx3ylg.jpg
 image01_alt: Des raquettes dans les domaines de Savoie
