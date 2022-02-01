@@ -3,10 +3,10 @@ layout: layout_activity
 language: fr
 season: winter
 topnav_color_text: dark
-title: Trail
-permalink: "/fr/hiver/activite/trail"
-description: Le trail est une activité de pleine air, parfois seul mais où les émotions
-  se partagent
+title: Trail Running
+permalink: "/fr/hiver/activite/trail-running"
+description: Partez pratiquer le Trail Running et profiter d'un moment sportif dans
+  la nature
 baseline: Liberté, inspiration et dépassement
 engage: Le dépassement et la liberté sont les inspirations du trail.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883629/website/summer/Trail-foret-seul_ofxowi.jpg
