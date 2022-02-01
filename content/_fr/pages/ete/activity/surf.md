@@ -6,7 +6,7 @@ topnav_color_text: dark
 title: Surf
 permalink: "/fr/ete/activite/surf"
 description: Le surf est une activité d'eau qui permet de glisser sur les vagues et
-  de jouer avec.
+  de vivre des sensations uniques.
 baseline: Take-off, glisse et ride
 engage: De la mousse à la vague, apprenez à glisser en surf
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642661307/website/summer/joseph-greve-TII6axq3eo4-unsplash_ulp3bo.jpg
@@ -41,6 +41,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Plusieurs surfeurs surfant une vague
 - template: textarea
   content: "Vous pourrez alors faire des cours collectifs ou des cours privés. Les
     cours collectifs seront moins chers, mais le moniteur ne sera pas 100% dédiée
@@ -75,6 +76,11 @@ page_sections:
     de tenir sur la planche et donc d'apprendre.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1641562732/website/summer/dendy-darma-satyazi-XFMjz4X3hGs-unsplash_j0t4sg.jpg
   gridline2title: Quelle planche pour débuter ?
+  prlax_alt_text_for_image: Surfeur faisant une figure de surf sur une vague
+  grid_1_alt_text_for_image: Vue du ciel d'une vague arrivant sur un surfeur qui rame
+    pour la prendre
+  grid_2_alt_text_for_image: Vue d'une planche de surf de longboard jaune posé droite
+    et debout sur la plage avec l'océan à coté
 - template: textarea
   title: Les différentes planches
   content: "Ils existent un vaste choix de planche de surf. Chacune va évoluer en
