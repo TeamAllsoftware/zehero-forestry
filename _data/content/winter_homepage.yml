@@ -1,13 +1,16 @@
 s01:
-  image_hero: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-duo-marche_vgtw6n.jpg
+  image_hero: https://res.cloudinary.com/deddrj0yb/image/upload/v1643722344/website/winter/KariTraa_FW19_-_RT_-_Dag_2_06_40945_t7qbos.jpg
   p01:
-    fr: "Un style de vie outdoor"
+    fr: "L'outdoor dont vous êtes ZE HERO"
     en: "Outdoor Way Of Life"
   p02:
     fr: 
       txt01: "Acheter des skis d'occasion"
       href01: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
       href_title_01: Lien vers la page de la boutique en ligne qui vend des skis d'occasion
+      txt02: "Voir toutes les activités"
+      href02: /fr/hiver/activites/
+      href_title_02: Lien vers la page de toutes les activités outdoor de l'hiver
     en: 
       txt01: "Let's go now"
       href: 
