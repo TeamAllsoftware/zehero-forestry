@@ -13,20 +13,20 @@ image01_alt: Course à pied sur piste en groupe
 page_sections:
 - template: textarea
   content: |-
-    Vous désirez progresser physiquement, évoluer, vous dépasser, dans un groupe ou seul avec un ou une coach ? Une séance de coaching c'est avoir un coach qui aura un regard précis sur toutes vos postures, vous accompagner dans vos exercices, un coach qui va vous suivre.
+    Vous désirez progresser physiquement, évoluer, vous dépasser, dans un groupe ou seul avec un ou une coach ? Une séance de coaching sportif c'est avoir un coach qui aura un regard précis sur toutes vos postures, vous accompagner dans vos exercices, un coach qui va vous suivre.
 
     Que vous souhaitez être maintenu en forme, préparer une compétition, avoir une meilleure condition physique, vous muscler, préparer un défi, le coaching sera la meilleure solution.
-  title: ''
+  title: Le coaching sportif
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
   captiontitleuppercase: De quelle façon ?
-  title: Coaching en groupe
-  content: Le coaching en groupe permet d'avoir l'émulsion des personnes qui vont
-    s'entraîner avec vous. Motivation et entraide seront présent lors de chaque séance.
-    Ce type de coaching permet de partager ces séances avec un groupe et de pouvoir
-    échanger, se dépasser également. C'est alors plus ludique, on peut créer des duels,
-    on sort de sa zone de confort, tout le monde s'encourage. Par rapport au coaching
-    privé, c'est un cours plus économique.
+  title: Coaching sportif en groupe
+  content: Le coaching sportif en groupe permet d'avoir l'émulsion des personnes qui
+    vont s'entraîner avec vous. Motivation et entraide seront présent lors de chaque
+    séance. Ce type de coaching permet de partager ces séances avec un groupe et de
+    pouvoir échanger, se dépasser également. C'est alors plus ludique, on peut créer
+    des duels, on sort de sa zone de confort, tout le monde s'encourage. Par rapport
+    au coaching privé, c'est un cours plus économique.
   alt_text_for_image: Cours collectif de sport avec un coach sportif avec une personne
     courant avec des ateliers d'exercices sportifs
   button:
@@ -34,10 +34,10 @@ page_sections:
     href_button: ''
     alt_button: ''
 - template: textarea
-  title: Coaching Privé
-  content: 'Le coaching privé lui, va permettre d''avoir un coach qui sera totalement
-    dédié à vous. Pendant tout le temps de la séance, vous allez donc être suivi,
-    corrigé. Voici les différents avantages :'
+  title: Coaching sportif Privé
+  content: 'Le coaching sportif privé lui, va permettre d''avoir un coach qui sera
+    totalement dédié à vous. Pendant tout le temps de la séance, vous allez donc être
+    suivi, corrigé. Voici les différents avantages :'
 - template: liststyle01numbered
   item:
   - Investissement et sécurité
@@ -50,10 +50,10 @@ page_sections:
   captionabovetitle: Etre coacher, être accompagner, se surpasser
   title: Réussissez votre prochain objectif
   gridline1title: Quelque soit votre sport
-  gridline1content: Le coaching vous accompagnera quelque soit vos objectifs. Certains
-    coachs seront spécialisés dans certaines disciplines tel que la course à pied,
-    la musculation, le yoga, le cross fit etc. Echangé avec lui afin de pouvoir mettre
-    en place vos attentes et objectifs.
+  gridline1content: Le coaching sportif vous accompagnera quelque soit vos objectifs.
+    Certains coachs seront spécialisés dans certaines disciplines tel que la course
+    à pied, la musculation, le yoga, le cross fit etc. Echangé avec lui afin de pouvoir
+    mettre en place vos attentes et objectifs.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/annie-spratt-oQfSHQ2Uaic-unsplash_rn27lg.jpg
   gridline2title: Coaching à distance
   gridline2content: On retrouve également le coaching à distance, le e-coaching. Cela
