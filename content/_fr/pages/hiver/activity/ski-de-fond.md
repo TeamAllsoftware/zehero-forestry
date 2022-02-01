@@ -35,6 +35,12 @@ page_sections:
     skis présenteront des écailles ou des peaux afin d'accrocher sur la neige tout
     en glissant. Bien sûr, la technique demande de l'apprentissage afin de chercher
     une glisse optimale.
+  alt_text_for_image: Une personne faisant du ski de fond et skating sur une piste
+    de ski de fond en montée
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "La deuxième discipline est le skating. Celle-ci est plus complexe et technique
     que le classique. En effet, le pas ici sera celui du patineur. Une pratique plus
@@ -54,6 +60,11 @@ page_sections:
     le ski alpin, vous trouverez différents niveaux de parcours. En effet, il y aura
     des bleues, des rouges et des noires. Ce sont en conséquence la distance qui va
     augmenter ainsi que le dénivelé ce qui accroit la difficulté du parcours.
+  alt_text_for_image: 'Piste de ski de fond sous la neige avec 2 traces de piste classique '
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     La pratique du ski de fond même si elle est plus facile d'accès que le ski alpin, demande tout de même une bonne technique ainsi qu'une bonne condition physique. C'est un sport très complet qui demande une forte dépense énergétique, un travail important de tout le corps, des muscles des jambes et des bras.
@@ -66,6 +77,8 @@ page_sections:
     et de prendre un grand bol d''air tout en se dépensant. '
   captionleftcontent: 'Plongez dans les forêts enchantées '
   captionrighttitle: Une balade physique pour un bien être total
+  center_alt_text_for_image: Une personne faisant du skating sur une piste de ski
+    de fond dans la forêt
 - template: textarea
   title: Où en pratiquer ?
   content: |-
