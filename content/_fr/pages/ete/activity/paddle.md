@@ -35,6 +35,12 @@ page_sections:
     de l''équilibre, de la proprioception. Elle va également faire travailler tout
     votre corps en commençant par les épaules et les bras, la ceinture abdominale
     et dorsale, en finissant par les jambes. '
+  alt_text_for_image: Deux personnes faisant du paddle sur la mer avec des paddles
+    gonflables
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Une activité pour tous
   content: "Le paddle, quelque soit le lieu de pratique, sera praticable par tout
@@ -63,6 +69,10 @@ page_sections:
     paddle gonflable se met dans un grand sac à dos avec la pompe et la pagaie et
     vous pourrez le transporter partout et avoir un paddle de qualité.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/tower-paddle-boards-u-l-P4agRpk-unsplash_v7mozk.jpg
+  prlax_alt_text_for_image: Femme faisant du paddle sur l'océan avec une vague lors
+    du coucher de soleil
+  grid_1_alt_text_for_image: 'Femme faisant du Yoga sur son paddle gonflable '
+  grid_2_alt_text_for_image: Deux personnes naviguant en paddle sur la mer
 - template: textarea
   title: Les lieux
   content: "Si vous partez sur la côte Atlantique, vous pourrez alors faire deux types
