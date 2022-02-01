@@ -39,6 +39,12 @@ page_sections:
     Par contre, lorsque les parcours de canyoning vont être plus techniques et engagés,
     il faudra alors avoir une meilleure condition physique, être agile, ne pas avoir
     le vertige, être dynamique.
+  alt_text_for_image: Groupe de personne habillé pour pratiquer le canyoning dans
+    les Alpes Maritimes
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Le matériel
   content: |-
@@ -58,6 +64,11 @@ page_sections:
     être de 2h à une demi-journée et parfois à la journée entière. Cela reste tout
     de même physique et demande beaucoup d'énergie. Les canyons, selon leurs sources,
     leurs expositions et leurs situations géographiques peuvent être très froids.
+  alt_text_for_image: Vue d'une rivières et de l'eau qui coule avec des trous d'eau
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     Il faut prévoir un maillot de bain, une serviette et donc une tenue de rechange. Mais aussi, une bouteille d'eau qui peut être amener par le moniteur ainsi qu'une barre énergétique.
@@ -67,14 +78,19 @@ page_sections:
     Les canyonings ne doivent pas être réalisés sans matériel et sans moniteur. Si vous tentez de réaliser le canyoning sans connaitre les règles et surtout le lieu, cela peut s'avérer très dangereux où l'accès aux sauveteurs n'est pas toujours simple. Le canyoning est par ailleurs un lieu naturel qui bouge et se transforme chaque année et en fonction des conditions météorologiques.
   title: ''
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642516879/website/summer/pexels-aaron-kittredge-999093_stpngc.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
   captiontitleuppercase: Où faire du canyoning
-  title: Les meilleurs spots en France
+  title: Les meilleurs spots de canyoning en France
   content: En France on va retrouver un très grand choix de canyoning dans de différentes
     régions. On va également retrouver beaucoup de canyon pour tous les niveaux, tous
     les gouts. Vous allez parfois avoir des canyonings magnifiques, mais qui seront
     moins techniques. Vous aurez aussi des canyonings moins jolis, mais qui seront
     techniques, exigeants et plus sensationnels.
+  alt_text_for_image: Personne descendant en rappel dans un canyoning
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     Vous allez en retrouver par exemple :
@@ -93,7 +109,7 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
-
 redirect_from:
-  - /fr/canyoning-annecy/
+- "/fr/canyoning-annecy/"
+
 ---

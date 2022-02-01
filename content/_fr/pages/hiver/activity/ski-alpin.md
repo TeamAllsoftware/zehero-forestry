@@ -1,11 +1,12 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/ski-alpin"
+permalink: "/fr/hiver/activite/ski-de-piste"
 language: fr
 season: winter
 topnav_color_text: dark
-title: Ski alpin
-description: Des pistes bleu aux pistes noir, faîtes le plein de sensation forte
+title: Ski de piste
+description: Des premiers virages au carving, pratiquez le ski de piste et profitez
+  du domaine skiable.
 baseline: Slalom, chasse-neige, tout schuss
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-groupe-amis_weuk4g.jpg
 image01_alt: Ski de piste domaine skiable montagne
@@ -29,6 +30,8 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Skieur faisant du ski alpin sur une piste en faisant un virage
+    carvé avec des skis rossignol
 - template: liststyle01
   item:
   - Le ski zen pour profiter du paysage et du domaine
@@ -59,6 +62,11 @@ page_sections:
     domaine skiable et faîtes le plein de sensation. Seul ou à plusieurs, le ski alpin
     vous permettra de vivre des moments forts en émotion. '
   gridline2title: En famille, en couple, entre amis ou seul
+  prlax_alt_text_for_image: Trace de dameuse sur une piste de ski
+  grid_1_alt_text_for_image: Skieuse faisant du ski alpin dans une piste de ski très
+    raide en faisant un virage
+  grid_2_alt_text_for_image: Skieur faisant du ski alpin sur une piste avec un sac
+    à dos
 - template: cta
   button:
     href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021

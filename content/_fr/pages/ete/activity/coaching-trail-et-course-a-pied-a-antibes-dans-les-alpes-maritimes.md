@@ -49,6 +49,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Coach sportif courant dans les escaliers du fort carré à Antibes
 - template: textarea
   content: Des sorties “[**endurance trail**](https://fr.ze-hero.com/activites-Outdoor/Coaching/16010-esterel-83-trail-sortie-longue-mercredi-apres-midi-3h-activite-ze-hero)”
     sont aussi programmées tous les mercredis après-midi dans le massif de l’Estérel
@@ -60,7 +61,7 @@ page_sections:
   title: Endurance Trail
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294096/website/Coaching/IMG_20190920_072615_spnlrf.jpg
-  captiontitleuppercase: Trail et endance
+  captiontitleuppercase: Trail et endurance
   title: Technique et spécifique
   content: 'En plus de profiter de paysages et de parcours variés, vous pourrez également
     travailler quelques spécificités. En effet, même lors de sorties longues, le coach
@@ -72,6 +73,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Vue du sommet du baou de St Jeannet
 - template: textarea
   title: Les avantages de ces entraînements
   content: |-

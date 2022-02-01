@@ -33,6 +33,12 @@ page_sections:
     Ensuite nous allons retrouver les personnes ayant skier au moins 1 semaine. Vous
     allez vous retrouvez dans ce que l'on appelle le niveau 1. Vous allez donc skier
     des pistes bleues, avoir les skis bien parallèle et savoir déraper.
+  alt_text_for_image: Cours de ski collectif avec un groupe de skieurs sur une piste
+    de ski encadré par un moniteur de ski
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Ensuite on retrouve le niveau 2 pour les personnes qui ont skiés plusieurs
     fois et plusieurs semaines déjà. Ils sauront alors à l'aise sur pistes vertes
@@ -56,6 +62,11 @@ page_sections:
     chaque niveau dans une école équivaut à un niveau dans l''autre d''une certaine
     façon. Ce qu''il faut retenir c''est les enfants reçoivent une médaille en fonction
     de leurs niveau de ski dès la fin de semaine. '
+  alt_text_for_image: Cours collectifs d'enfant en ski
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Pour les tous petits (dès 3ans) qui n'auront jamais skier, ils vont apprendre
     à glisser et à avancer avec les skis. C'est le 1er niveau pour les enfants qui
@@ -85,6 +96,11 @@ page_sections:
     la planche, savoir son sens de ride. Généralement on réalise la feuille morte
     en descendant, on va alors commencer à traversée en front et en back les pistes
     vertes.
+  alt_text_for_image: Cours collectif de personne faisant du snowboard
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Pour le niveau 2, les rideurs vont alors commencer à réaliser les virages
     backside et frontside sur des pistes vertes voir rouge doucement. Ils vont également

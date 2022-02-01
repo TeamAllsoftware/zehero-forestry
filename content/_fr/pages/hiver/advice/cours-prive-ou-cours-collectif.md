@@ -28,6 +28,12 @@ page_sections:
     En fonction des écoles de ski et de leur politique interne, les cours collectifs en ski peuvent aller de 8 à 12 maximum pour une question de sécurité.
 
     Généralement, les enfants et les adultes sont classés et regroupés par groupe de niveau. En conséquence, aucun risque de se retrouver avec des personnes bien plus expérimentées ou moins évoluées que soit.
+  alt_text_for_image: Moniteur de ski et snowboard allongé devant un groupe d'enfants
+    jetant de la neige lors d'un cours collectif enfant de snowboard
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Les avantages du cours collectif
   content: |-
@@ -47,6 +53,12 @@ page_sections:
   content: 'Dans ce cas là, l’enfant ou l’adulte est seul avec un moniteur qui lui
     est entièrement consacré pendant toute la durée du cours définie à l’avance en
     fonction du besoin et du niveau de “l’élève”. '
+  alt_text_for_image: Moniteur de ski lors d'un cours privé de ski tenant une femme
+    débutante en ski
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Les avantages des cours de ski privés
   content: |-
@@ -67,10 +79,10 @@ page_sections:
     tous les cas, choisissez le cours qui vous convient et où vous vous sentirez au
     mieux.
   title: En résumé
-
 redirect_from:
-  - /fr/coaching-sportif/coaching-prive/
-  - /fr/coaching-sportif/coaching-prive/coaching-prive-antibes/
-  - /fr/coaching-sportif/coaching-prive/coaching-prive-lyon/
-  - /fr/coaching-sportif/coaching-prive/e-coaching/
+- "/fr/coaching-sportif/coaching-prive/"
+- "/fr/coaching-sportif/coaching-prive/coaching-prive-antibes/"
+- "/fr/coaching-sportif/coaching-prive/coaching-prive-lyon/"
+- "/fr/coaching-sportif/coaching-prive/e-coaching/"
+
 ---

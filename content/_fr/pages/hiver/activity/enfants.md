@@ -1,10 +1,10 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/pour-les-enfants"
+permalink: "/fr/hiver/activite/activites-pour-les-enfants"
 language: fr
 season: winter
 topnav_color_text: dark
-title: Pour les enfants
+title: Activités pour les enfants
 description: Vous pouvez réserver pour vos enfants des activités ludiques afin qu'ils
   s'amusent pleinement durant votre séjour en montagne.
 baseline: Igloo et boules de neige
@@ -36,6 +36,12 @@ page_sections:
     ludiques. Cela permet d'avoir un panel d'activité amusante, fun, nouvelles mais
     aussi ludiques. Il découvrira la montagne d'une autre façon, en s'amusant avec
     ses copains.
+  alt_text_for_image: Deux petites filles jouant dans la neige en faisant un bonhomme
+    de neige
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     Les différentes structures qui mettent en place ses activités proposent chaque jour une activité différente. Un système de garderie sera également en place. Elles auront lieu généralement l'après-midi ainsi que le soir en fonction de l'activité mise en place : marche en raquette dans les bois, construction d'igloo la nuit...

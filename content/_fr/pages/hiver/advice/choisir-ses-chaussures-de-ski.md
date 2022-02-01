@@ -50,6 +50,11 @@ page_sections:
     le niveau sera exigent en ski.
   captiontitleuppercase: Une chaussure de ski adaptée à votre pied
   title: Le flex
+  alt_text_for_image: Vue de chaussure de ski sur une étagère
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "En ce qui concerne les attaches de la chaussure de ski, cela peut également
     vous indiquer plusieurs éléments. Si vous retrouvez 3 crochets sur la chaussure

@@ -2,8 +2,8 @@
 layout: layout_advice
 language: fr
 season: winter
-description: Comment se préparer avant d'arriver au ski afin d'être en forme physiquement
-  ?
+description: Afin d'être en forme physiquement avant votre séjour au ski, voilà quelques
+  exercices à faire pour se préparer pour le ski.
 topnav_color_text: light
 title: Comment se préparer physiquement au ski ?
 permalink: "/fr/hiver/conseil/comment-se-préparer-physiquement-au-ski"
@@ -34,6 +34,12 @@ page_sections:
     vos autres activités.  \nIl est idéal de commencer la préparation au moins 1 mois
     avant votre venue au ski. Cela dans le but que votre corps assimile les séances
     et qu’il y ait un réel impact musculaire."
+  alt_text_for_image: Coureur de dos courant dans des escaliers pour se préparer et
+    s'entrainer
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: ''
   content: "Ces exercices sont dans le but de vous préparer. Adaptez-les en fonction
@@ -62,6 +68,12 @@ page_sections:
     \  \nPrenez 5mn pour faire un peu monter la température de votre corps, échauffer
     vos articulations et mettre votre cœur en mode actif."
   captiontitleuppercase: S'échauffer avant
+  alt_text_for_image: Femme faisant du renforcement musculaire en soulevant des poids
+    pour une préparation physique
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     On débute avec 3 exercices pour se préparer au ski. Vous retrouverez donc les Squats. La chaise, qui est un classique du renforcement musculaire et surtout des exercices de musculation en ski. Et enfin un classique, du gainage. On va donc cibler quadriceps et fessiers, de la résistance et ensuite on cible les abdominaux et lombaires.
@@ -98,6 +110,12 @@ page_sections:
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641820123/website/summer/victor-freitas-KIzBvHNe7hY-unsplash_ymvrxl.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641820123/website/summer/jonathan-borba-R0y_bEUjiOM-unsplash_pbfvvw.jpg
   title: ''
+  atl_text_image_01: Personne chargeant une barre de musculation
+  atl_text_image_02: Personne réglant sa montre lors d'une séance de préparation physique
+  atl_text_image_03: Femme faisant des saut en montant le genou en préparation physique
+    générale
+  atl_text_image_04: Coach sportive donnant des conseils à une personne faisant des
+    pompes
 - template: textarea
   content: "Sur ce 3ème bloc d’exercice, nous continuons de travailler sur la force
     et la proprioception des jambes avec l’exercice d'élévation sur une jambe en partant
@@ -130,7 +148,7 @@ page_sections:
     tour est validé. Vous devez alors faire le maximum de tours possibles pendant
     15 mn."
   title: La piste noire
-
 redirect_from:
-  - /fr/conseils-preparation-physique-ski/
+- "/fr/conseils-preparation-physique-ski/"
+
 ---

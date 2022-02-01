@@ -29,6 +29,12 @@ page_sections:
     ski. Chacune proposent des offres et des services différents et donc un moyen
     de fonctionnement différemment. Elles seront alors parfois spécialisées dans certaines
     activités en proposant des services de qualité.
+  alt_text_for_image: Arrivé d'un télésiège avec des skieurs d'une groupe de cours
+    de ski d'une école de ski
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: 'Les écoles de ski vont se différencier par : '
   content: |-
@@ -42,12 +48,14 @@ page_sections:
   captionrighttitle: Renseignez vous sur le service et la qualité de l'école de ski
   captionrightcontent: Vous pouvez également vérifier les avis sur TripAdvisor afin
     d'avoir des retours des différentes expériences des personnes.
+  center_alt_text_for_image: Moniteur de snowboard en cours privé aidant en enfant
+    à faire du snowboard au sommet d'un télésiège
 - template: textarea
   title: 'Les derniers points importants '
   content: |-
     * Il est important de prendre en compte le point de rdv des cours de ski. Surtout si vous avez des enfants.
     * Selon ce que vous recherchez, il est important de demander directement vos spécificités. Si vous souhaitez visiter le domaine skiable, apprendre le freestyle, sortir en hors-piste, l’école de ski aura à disposition des moniteurs spécifiques.
-
 redirect_from:
-  - /fr/choisir-ecole-ski/
+- "/fr/choisir-ecole-ski/"
+
 ---

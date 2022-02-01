@@ -5,9 +5,9 @@ season: summer
 topnav_color_text: dark
 title: La traversée des Alpes en vélo
 permalink: "/fr/ete/activite/traversee-des-alpes-en-velo"
-description: Réaliser la traversée des Alpes en Vélo. Partagez des moments inoubliables
+description: Réalisez la traversée des Alpes en Vélo. Partagez des moments inoubliables
   en roulant à travers des paysages magnifiques
-baseline: Traversée, endurance et liberté
+baseline: Traversé, endurance et liberté
 engage: Traversez les Alpes à vélo par les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642520843/website/summer/pexels-pavel-danilyuk-5807686_jcwovf.jpg
 image01_alt: Groupe de 3 personnes faisant du vélo sur une route bordée de pins
@@ -26,7 +26,7 @@ page_sections:
   title: La grande traversée des Alpes en vélo
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521349/website/V%C3%A9lo/traversee-pre-alpes_mmfnjh.png
-  captiontitleuppercase: Un trajet unique
+  captiontitleuppercase: Un trajet unique à travers les Alpes en vélo
   title: Vivez une expérience inoubliable
   content: Cette traversée des Alpes à vélo est une activité vous permettant de penser
     seulement à rouler, de profiter de la vue et des personnes avec qui vous serez.
@@ -38,6 +38,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Vue d'une route face à un lac dans des routes des montagnes
 - template: textarea
   title: Le parcours
   content: "Le parcours que nous proposons est donc de 630km avec environ 15 000 m
@@ -60,6 +61,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Etape 1 de la traversée des Alpes en vélo de route
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-2-GRANDS-COLS_tepatv.png
   captiontitleuppercase: Etape 2
@@ -73,6 +75,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Etape 2 de la traversée des Alpes en vélo de route
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-3-GRANDS-COLS_v3pqyi.png
   captiontitleuppercase: Etape 3
@@ -87,6 +90,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Etape 3 de la traversée des Alpes en vélo de route
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-4-CAYOLLE_jiy3h9.png
   captiontitleuppercase: 'Etape 4 '
@@ -100,6 +104,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Etape 4 de la traversée des Alpes en vélo de route
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/ETAPE-5-BIS_ilgp7o.png
   captiontitleuppercase: La dernière étape
@@ -113,6 +118,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Etape 5 de la traversée des Alpes en vélo de route
 - template: textarea
   content: |-
     Ce séjour organisé vélo comprend :
@@ -135,7 +141,13 @@ page_sections:
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-velo-de-route-assistance_ekknlj.jpg
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-de-route-traversee-de-route_onnjic.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-traversee-des-alpes-nice_jyfbgw.jpg
-
+  atl_text_image_01: Cycliste en train de grimer une route de montagne
+  atl_text_image_02: Cycliste pendant la traversé des Alpes en vélo de route, portant
+    son vélo devant un mur de neige
+  atl_text_image_03: Deux cyclistes en vélo de route posés dans une route de montagne
+  atl_text_image_04: Arrivé de la traversée des alpes en vélo de route sur la voix
+    cyclable à Nice
 redirect_from:
-  - /fr/velo-gravel-corsica-gravel-tour/
+- "/fr/velo-gravel-corsica-gravel-tour/"
+
 ---

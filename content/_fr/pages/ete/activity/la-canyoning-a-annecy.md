@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: La Canyoning à Annecy
 permalink: "/fr/ete/activite/canyoning-annecy"
-description: Profitez d'activité de canyoning au sein de la ville d'Annecy
+description: Profitez des différents canyonings proche d'Annecy pour des moments d'évasions
+  et de sensation forte.
 baseline: Canyoning autour d'Annecy
 engage: Du fun et du sport avec le canyoning à Annecy
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643642798/website/Canyon%2074/aurelien-krier-pwyueOgekMM-unsplash_1_x234ex.jpg
@@ -20,7 +21,7 @@ page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643644207/website/Canyon%2074/adrien-brunat-TYhHahHQghE-unsplash_qnhgfz.jpg
   captiontitleuppercase: Annecy et ses canyonings
-  title: Les différents spots
+  title: Les différents spots de canyoning
   content: "A Annecy il existe donc plusieurs secteurs pour pratiquer le canyoning.
     Vous pourrez en trouver prêt d'Annecy ou juste dans ses alentours. Voici les différents
     canyonings les plus réputés et connus à Annecy :\n\nLe Canyon de Montmin :  \nTout
@@ -35,6 +36,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Vue des gorges d'un canyoning en Haute Savoie
 - template: textarea
   content: "Le Canyon Pont du Diable :  \nUn peu plus loin d'Annecy, à Bellecombe
     en Bauges, le Canyoning du Pont du Diable vous fera vivre une expérience unique.

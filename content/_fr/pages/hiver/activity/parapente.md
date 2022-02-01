@@ -3,9 +3,10 @@ layout: layout_activity
 language: fr
 season: winter
 topnav_color_text: dark
-title: Parapente
-permalink: "/fr/hiver/activite/parapente"
-description: Partez vous envolez au dessus des montagnes enneigé avec un vol en parapente
+title: Vol en parapente
+permalink: "/fr/hiver/activite/vol-en-parapente"
+description: Partez vous envoler au dessus des montagnes enneigées avec un vol en
+  parapente en biplace
 baseline: Découvrir, voler et admirer
 engage: Surplombez les montagnes l'hiver et admirez tous les sommets
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497764/website/winter/fpvmat-a-6AzbpH7Qg_k-unsplash_moojf5.jpg
@@ -28,6 +29,12 @@ page_sections:
     départ peut également se faire à pied ou alors en ski. Si vous partez en ski,
     vous pourrez alors découvrir une nouvelle sensation de glisse et de vol ainsi
     que d'un atterrissage en douceur sur la neige.
+  alt_text_for_image: Personne en ski faisant du parapente l'hiver, volant au dessus
+    des montagnes
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     Les vols vont durer entre 10 et 30 mn en fonction de la météo et des départs donnés. Le vol biplace vous permettra d’admirer la vue, de vivre une nouvelle expérience, ainsi que des sensations fortes. Les moniteurs en fonction ainsi de votre aisance peuvent vous faire tenir les commandes et réaliser des vols plus sensationnels. Vous pourrez aussi bénéficier de vidéo et de photo qui sont proposées par les moniteurs de parapente.

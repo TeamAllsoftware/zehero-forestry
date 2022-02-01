@@ -44,6 +44,7 @@ page_sections:
     pas évident, car pour le 1er, l’avantage, c'est qu’on s’arrête dormir quand on
     veut et où on veut. Le 2ᵉ choix, l’avantage, c'est que j’ai un lit, un bon repas
     chaud et surtout un sac très léger…"
+  alt_text_for_image: Enfant dehors ouvrant une carte ign
 - template: textarea
   content: "Le trajet, c'est en gros 360 km et 20 000 de dénivelé positif. Si je partais
     avec ma tente, il me fallait du matériel adapté : sac, tente ultra-light, duvet,
@@ -69,6 +70,8 @@ page_sections:
     Que prendre quand on part pour courir 7 jours en montagne sachant que je dors en refuge ? Je ne veux pas que mon sac excède les 8kg, il faut donc se limiter au strict nécessaire.
 
     Voilà ce qu’il y avait dans mon sac :
+  alt_text_for_image: Affaires de trail posées sur une table pour réaliser la traversée
+    Valmorel Nice
 - template: liststyle01
   item:
   - Tongs
@@ -107,6 +110,12 @@ page_sections:
     pour une très grosse étape. Ça me fait bizarre de me dire que je vais passer de
     Méribel à Névache.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0084_hgnwbh.jpg
+  prlax_alt_text_for_image: Coureur de trail de dos courant dans une montée en montagne
+    en tenant des bâtons
+  grid_1_alt_text_for_image: Deux coureurs courant en montagne dans un petit sentier
+    en forêt
+  grid_2_alt_text_for_image: Coureur de trail sur les sentiers prêt de Méribel avec
+    le mont blanc derrière
 - template: textarea
   title: Méribel - Névache
   content: Bon, j’ai 60km et 3400D+ à faire aujourd’hui, ça va être une belle journée.
@@ -124,6 +133,10 @@ page_sections:
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732891/website/blog/Valmorel%20-%20Nice/IMG_20200708_080500_ajocrc.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732891/website/blog/Valmorel%20-%20Nice/IMG_20200708_091605_hwnt6u.jpg
   title: ''
+  atl_text_image_01: Vue des montagne tôt le matin à Tueda
+  atl_text_image_02: Vue d'un chamois sur une crête au glacier de Gébroulaz
+  atl_text_image_03: Coureur devant le glacier de Gébroulaz
+  atl_text_image_04: Vue de montagne avec la Haute Maurienne au loin
 - template: textarea
   content: "Là j'entame une très belle et longue descente à Modane. C’est l’heure
     de manger : sandwich au saumon, 1 coca et 1 orangina. Une fois reparti, je vais
@@ -153,6 +166,7 @@ page_sections:
     68km, 3700D + et 10h40 de course. Demain on réduit un peu, ça me fera du bien.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732890/website/blog/Valmorel%20-%20Nice/IMG_20200709_081846_awujiy.jpg
   captiontitleuppercase: 3 sodas et on rempart
+  alt_text_for_image: Vue panoramique de montagne dans la vallée de la clarée
 - template: 3coltxtimgtxt
   captionleftcontent: Ceillac - Larche
   captionrighttitle: Une journée plus courte avec 40km et 2200 D+
@@ -161,6 +175,7 @@ page_sections:
     une rivière afin de rejoindre un lac. C''est assez féérique, la nature me révèle
     sa beauté et me séduit. '
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1639735631/website/blog/Valmorel%20-%20Nice/IMG_20200710_083157_cw3pwk.jpg
+  center_alt_text_for_image: Vue d'un torrent en montagne avec des sapins
 - template: textarea
   content: J'arrive ensuite au lac miroir puis au lac St Anne. Le Queyras est incroyable,
     c'est un mélange des Alpes du Nord et du Sud. Il est verdoyant et minéral, j'avoue
@@ -179,6 +194,7 @@ page_sections:
     et facilement jusqu'à Larche en passant par le Col de Mallemort.  \n6h30 de course,
     j'ai le temps de me mettre dans le hamac et de profiter de la fin de journée avant
     le meilleur repas de ma semaine en refuge."
+  alt_text_for_image: Coureur de dos face au lac de St anne
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733480/website/blog/Valmorel%20-%20Nice/IMG_20200711_091853_ymrfdp.jpg
   captionabovetitle: Mercantour j'arrive
@@ -195,6 +211,9 @@ page_sections:
     la Colombière puis St Dalmas le Selvage. Cailloux et pentes raides, je suis bien
     arrivé dans les Alpes Maritimes. Je commence à ressentir des petites ampoules.
     Arrivé à Roya, petit refuge atypique, je commande un Milkshake : Royal à Roya '
+  prlax_alt_text_for_image: 'Vue panoramique des montagnes '
+  grid_1_alt_text_for_image: Vue d'un lac dans les montagnes
+  grid_2_alt_text_for_image: Vue du camp des fourches avant le col de la bonette
 - template: textarea
   title: Parlons peu, parlons bouffe
   content: |-
@@ -207,6 +226,10 @@ page_sections:
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639738873/website/blog/Valmorel%20-%20Nice/IMG-20200711-WA0020_bpcsru.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639738873/website/blog/Valmorel%20-%20Nice/IMG-20200709-WA0028_qboybz.jpg
   title: ''
+  atl_text_image_01: Des boissons avec de l'eau et des sodas
+  atl_text_image_02: Vue d'une personne mangeant un sandwich
+  atl_text_image_03: Vue de deux sodas avec un sandwich
+  atl_text_image_04: Personne mangeant une barre énergétique lors d'un trail
 - template: textarea
   title: Roya - St Dalmas Valdeblore
   content: "Après une bonne nuit et après avoir discuté avec un belge me disant de
@@ -228,12 +251,18 @@ page_sections:
     de pouvoir voir ma chérie ici et de vivre se moment si fort. En plus, elle et
     sa grand mère avait préparé le plus gros festin et le meilleur ravitaillement.
     \ \nUne journée de 42km et 2200 D+"
+  alt_text_for_image: Coureur marchant en montagne avec un patou à coté de lui
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733478/website/blog/Valmorel%20-%20Nice/IMG_20200712_092743_h5kar6.jpg
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733479/website/blog/Valmorel%20-%20Nice/IMG_20200712_101431_s4rdkj.jpg
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733478/website/blog/Valmorel%20-%20Nice/IMG_20200712_145857_fojbhf.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733478/website/blog/Valmorel%20-%20Nice/IMG_20200712_191029_ybmgfz.jpg
   title: ''
+  atl_text_image_01: Vue du sommet d'un montagne sur une plaine herbeuse
+  atl_text_image_02: Vue d'un sentier à travers la montagne et des rochers
+  atl_text_image_03: Deux personnes faisant un ravitaillement avec beaucoup de nourriture
+    sur table de pique niqe
+  atl_text_image_04: 'Vue d''un clocher à Valdeblore '
 - template: textarea
   title: 'La dernière : Valdeblore - Nice'
   content: Après une belle nuit en compagnie d'Eve, je me lève pour la dernière journée
@@ -249,6 +278,7 @@ page_sections:
     d''Utelle. Quelques passages techniques avec pas mal de cailloux, mais c''est
     très beau. Le sentier qui mène à Madone est génial et je profite de cette descente
     pour m''amuser. Je remonte à Levens, où je cherche désespérément de l''eau. '
+  alt_text_for_image: Vue de loin du village d'Utelle
 - template: textarea
   content: "Le temps se couvre mais je suis content car j'avais vraiment eu peur qu'il
     fasse beaucoup trop chaud. J'ai même le droit à un peu de pluie et de jolies sons
@@ -271,6 +301,7 @@ page_sections:
   captionrighttitle: 360km et 20 000 D+
   captionrightcontent: "Ma plus belle expérience, mon périple.  \nIl en faut peu pour
     être heureux ou il me faut beaucoup de kilomètre pour l'être encore plus. "
+  center_alt_text_for_image: Un homme et une femme souriant devant la mer
 tags:
 - trail
 - ballade

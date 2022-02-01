@@ -22,11 +22,11 @@ page_sections:
     criques, des plages inaccessible autrement. Mais aussi, le kayak en rivière vous
     permet de passer dans des rapides et demandera plus de technique et de condition
     physique afin de bien gérer les cours d'eau plus rapide et puissant.
-  title: ''
+  title: Le kayak
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
   captiontitleuppercase: Plusieurs styles de Kayak
-  title: Lac, mer et rivière
+  title: Kayak de lac, mer et rivière
   content: Le kayak peut se pratique dans plusieurs lieux. Vous allez pouvoir faire
     du kayak sur lac et vous pourrez alors profitez de randonner et de découvrir le
     lac d'une autre façon. Les lacs peuvent également se trouver entourés de montagnes
@@ -36,11 +36,17 @@ page_sections:
     de plonger et de regarder les poissons. Pour finir, vous retrouver le kayak de
     rivière qui permet de faire des randonnée mais également d'avoir des zones plus
     techniques et physiques avec les rapides, les petites cascades.
+  alt_text_for_image: Vue d'en haut des gorges du lac de St croix avec beaucoup de
+    kayaks qui naviguent
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883631/website/summer/Kayak-groupe-lac_l1awzz.jpg
   captionabovetitle: Une randonnée rafraichissante
   title: S'évader autrement
-  gridline1title: A plusieurs
+  gridline1title: Le kayak à plusieurs
   gridline1content: Partez naviguer en kayak en famille, entre amis, en couple et
     randonnez afin de découvrir les paysages. Vous pouvez soit louer votre kayak soit
     prendre un accompagnateur qui vous fera des découvrir des lieux uniques.
@@ -50,6 +56,12 @@ page_sections:
     en kayak, vous pourrez également accéder à des lieux sur terres et partir randonnée
     à pied et profiter de pique-niquer avant de reprendre votre navigation.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588327/website/summer/art-rachen-aKqJCZSP4t4-unsplash_b1obn5.jpg
+  prlax_alt_text_for_image: Vue d'en haut de deux personnes faisant du kayak dans
+    un lac
+  grid_1_alt_text_for_image: Vue d'en haut des plusieurs kayaks prêt pour la location
+    de kayak
+  grid_2_alt_text_for_image: Vue d'une personne dans un kayak naviguant sur la mer
+    avec les collines à cotés
 - template: textarea
   title: 'Les différents lieux '
   content: "En France, il existe énormément de lieux où pratiquer le kayak. Vous allez
@@ -60,7 +72,7 @@ page_sections:
     \ \nPour finir, vous pourrez partir sur des les rivières et faire du kayak dans
     les gorges de l'Ardeche, les gorges du Tarn, les gorges du Verdon ainsi que dans
     la Roya Vésubie."
-
 redirect_from:
-  - /fr/kayak-savoie-haute-savoie/
+- "/fr/kayak-savoie-haute-savoie/"
+
 ---

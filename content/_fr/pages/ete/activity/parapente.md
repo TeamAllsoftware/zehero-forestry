@@ -5,7 +5,8 @@ season: winter
 topnav_color_text: dark
 title: Parapente
 permalink: "/fr/ete/activite/parapente"
-description: Parapente
+description: Partez voler et réaliser votre baptême de parapente en découvrant une
+  toute nouvelle sensation avec des panoramas à vous couper le souffle
 baseline: Voler, admirer et profiter
 engage: Survolez les montagnes et découvrez les sommets
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/juliette-g-bmBLu_oAEj8-unsplash_ozjgu4.jpg
@@ -21,8 +22,8 @@ page_sections:
     d'une vue magnifique et des rayons du soleil.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010435/website/summer/juliette-g-jX61Kll0Q5g-unsplash_1_pjksgv.jpg
-  captiontitleuppercase: Un baptême inoubliable
-  title: Un paysage comme vous l'aurez jamais vu
+  captiontitleuppercase: Un baptême en parapente inoubliable
+  title: Le parapente pour découvrir le paysage
   content: Le parapente, c'est décoller d'un sommet, d'une plateforme qui permet de
     partir facilement. Le lieu d'atterrissage lui est indiqué bien plus bas sur une
     plateforme dédiée à cela. Les parapentistes vont alors monter soit à pied, soit
@@ -31,6 +32,12 @@ page_sections:
     à 40 mn. Des parapentistes, eux peuvent voler des heures en jouant avec les courants
     d'air chaud et avec une grande maitrise. Voler, faire son baptême de parapente,
     c'est admirer le paysage, prendre un grand bol d'air et se laisser aller.
+  alt_text_for_image: Un parapentiste qui va décoller avec son parapente lors d'un
+    couché de soleil
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Le déroulement d'un vol en biplace
   content: "Il faudra alors s'habiller en fonction de la météo et de la température,
@@ -47,19 +54,22 @@ page_sections:
     pour atterrir en toute douceur."
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/pablo-heimplatz-R4679uf28lY-unsplash_ysyjkx.jpg
-  captionabovetitle: Pour tout le monde
+  captionabovetitle: Le parapente, pour tout le monde
   title: Vivez l'expérience d'en haut
   gridline1title: Pour qui ?
-  gridline1content: Le parapente et el baptême en biplace, est une activité pour tout
+  gridline1content: Le parapente et le baptême en biplace, est une activité pour tout
     le monde. Dès 5ans et jusqu'à environ 100 kg, vous pourrez profiter de cette activité
     de pleine air. Vous pourrez trouver des vols biplaces de randonnée, de sensation,
     de découverte et bien d'autre.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010435/website/summer/franck-belin-NZHouAGfeds-unsplash_kapfoo.jpg
-  gridline2title: Où voler ?
+  gridline2title: Où voler en parapente ?
   gridline2content: La plupart des vols de parapente vont se trouver en montagne.
     Dans la région Rhône Alpes, il y a énormément de spots pour voler tout comme dans
     les Pyrénées. Bien sûr, vous en trouverez également vers la Côte d'Azur, dans
     le centre et même en Bretagne.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/nicolas-lafargue-BgFhs1MIHXM-unsplash_axpexv.jpg
+  prlax_alt_text_for_image: 'Vol en biplace de parapente lors d''un décollage en montagne '
+  grid_1_alt_text_for_image: Parapentiste volant en parapente dans le ciel
+  grid_2_alt_text_for_image: Parapentiste volant en parapente prêt d'une falaise
 
 ---

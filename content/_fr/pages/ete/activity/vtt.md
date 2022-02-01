@@ -5,8 +5,8 @@ season: summer
 topnav_color_text: dark
 title: VTT
 permalink: "/fr/ete/activite/vtt"
-description: La pratique du VTT permet de faire le plein de sensation, de se dépenser
-  physiquement, et de découvrir des lieux et une nature magnifique.
+description: Pratiquez le VTT pour découvrir des paysages, vivre des descentes sensationnelles
+  à travers la nature.
 baseline: Vitesse, sensation et randonnée
 engage: Faites le plein de sensation à travers les pistes de VTT
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/lachlan-cruickshank-S9v_EPJfGys-unsplash_b5jpdh.jpg
@@ -42,6 +42,12 @@ page_sections:
     de pédalage en montée ainsi que les techniques de descentes. Cela vous permettra
     également d'avoir un guide pour visiter les meilleurs spots de VTT du lieu où
     vous êtes.
+  alt_text_for_image: Deux VTTiste sur leurs VTT roulant dans la forêt sur un chemin
+    entouré de sapins
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Pour qui ?
   content: "Le VTT se pratique dès 6 ans et c'est une activité qui est ouverte à tout
@@ -70,6 +76,11 @@ page_sections:
     en groupe même si les niveaux peuvent parfois être différents. Equipez vous pour,
     en mettant également les différentes protections dont le casque et partez rouler.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638824911/website/summer/tom-conway-dU2HDmE_tgw-unsplash_pqlalr.jpg
+  prlax_alt_text_for_image: Deux VTT posés sur une rembarde en bois avec les montagnes
+    derrière
+  grid_1_alt_text_for_image: Vue d'un guidon de VTT avec les montagnes au loin
+  grid_2_alt_text_for_image: Plusieurs VTT posés sur une barrière en bois avec un
+    lac derrière
 - template: textarea
   content: |-
     Si vous souhaitez découvrir des lieux par des grande balades, le VTT est l'activité parfaite. Si vous désirez travailler vos jambes, votre cardio tout en aimant la vitesse, et les sensations fortes alors le VTT est la discipline parfaite.
