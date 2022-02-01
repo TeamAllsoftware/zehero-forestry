@@ -88,13 +88,13 @@ defaults:
       path: "_fr/posts/ete"
     values:
       layout: "post"
-      permalink: /fr/ete/blog/:year/:month/:slug/
+      permalink: /fr/ete/blog/:slug-:year:month:day/
   -
     scope:
       path: "_fr/posts/hiver"
     values:
       layout: "post"
-      permalink: /fr/hiver/blog/:year/:month/:slug/
+      permalink: /fr/hiver/blog/:slug-:year:month:day/
   -
     scope:
       path: ""
@@ -103,7 +103,13 @@ defaults:
       layout: "page"
   -
     scope:
-      path: "_en/posts"
+      path: "_en/posts/summer"
     values:
       layout: "post"
-      permalink: /en/blog/:year/:month/:slug
+      permalink: /en/summer/blog/:slug-:year:month:day/
+  -
+    scope:
+      path: "_en/posts/winter"
+    values:
+      layout: "post"
+      permalink: /en/winter/blog/:slug-:year:month:day/
