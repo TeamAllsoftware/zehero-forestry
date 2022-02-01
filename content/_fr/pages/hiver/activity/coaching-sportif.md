@@ -28,6 +28,12 @@ page_sections:
     échanger, se dépasser également. C'est alors plus ludique, on peut créer des duels,
     on sort de sa zone de confort, tout le monde s'encourage. Par rapport au coaching
     privé, c'est un cours plus économique.
+  alt_text_for_image: Cours collectif de sport avec un coach sportif avec une personne
+    courant avec des ateliers d'exercices sportifs
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Coaching Privé
   content: 'Le coaching privé lui, va permettre d''avoir un coach qui sera totalement
@@ -55,7 +61,10 @@ page_sections:
     permet d'être suivi par un coach à distance qui, par le biais d'application de
     coaching ou d'Excel, mettra en place vos séances quotidiennes personnalisés. Le
     coach fera des retours sur chacune de vos séances.
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/steven-lelham-atSaEOeE8Nk-unsplash_jalgcv.jpg
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062755/website/Coaching/SALLE_oxqywo.jpg
+  prlax_alt_text_for_image: photo de matériel de coach sportif, un TRX
+  grid_1_alt_text_for_image: Coach sportif faisant des étirements à une personne
+  grid_2_alt_text_for_image: Coach sportif coachant une personne soulevant du poids
 - template: cta
   intro: Réservez dès séance de coaching
   headline: Cours privés ou collectifs sont disponibles
