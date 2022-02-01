@@ -93,7 +93,7 @@ page_sections:
     * un sac à dos avec de l'eau, un piquenique, une petite trousse de secours
 
     Cela évolue si vous partez pour une itinérance de plusieurs jours. Mais ce sont la base à avoir. Si vous êtes avec un enfant, n'oubliez pas de transporter également de l'eau pour lui.
-  title: ''
+  title: Bien randonner en montagne
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-ian-beckley-2440078_ueovj0.jpg
   captiontitleuppercase: Profiter de la montagne en la respectant
