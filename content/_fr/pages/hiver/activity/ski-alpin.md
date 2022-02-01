@@ -1,11 +1,11 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/ski-alpin"
+permalink: "/fr/hiver/activite/ski-de-piste"
 language: fr
 season: winter
 topnav_color_text: dark
-title: Ski alpin
-description: Des pistes bleu aux pistes noir, faîtes le plein de sensation forte
+title: Ski de piste
+description: Pratiquez le ski de piste en profitant des pistes de ski et domaine skiable
 baseline: Slalom, chasse-neige, tout schuss
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-groupe-amis_weuk4g.jpg
 image01_alt: Ski de piste domaine skiable montagne
