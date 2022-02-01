@@ -1315,7 +1315,7 @@
     h1, h2, h3, h4, h5, h6 { margin:0 0 15px; }
 
     /* text size */
-    .title-large { font-size: 90px; line-height: 90px; }
+    .title-large, .title-large-2, .title-large-3 { font-size: 90px; line-height: 90px; }
     .text-extra-large { font-size: 18px; line-height: 24px; }
     .text-extra-big { font-size: 170px; line-height: 170px; }
     .text-big { font-size: 160px; line-height: 160px; }
@@ -3143,7 +3143,7 @@
     .text-large { font-size:16px; line-height:22px; }
     .text-extra-large { font-size: 18px; line-height:26px; }
     .title-small { font-size: 30px; line-height: 30px; }
-    .title-large { font-size: 70px; line-height: 65px; }
+    .title-large, .title-large-2, .title-large-3 { font-size: 70px; line-height: 65px; }
     .title-extra-large { font-size: 90px; line-height:85px }
     .title-extra-large-heavy { font-size: 9rem; line-height: 11rem; }
     .text-big { font-size: 120px; line-height: 120px; }
@@ -4767,7 +4767,7 @@
 
     /* text size */
     .title-extra-small { font-size: 20px; line-height: 30px; }
-    .title-large { font-size: 45px; line-height: 43px; }
+    .title-large, .title-large-2, .title-large-3 { font-size: 45px; line-height: 43px; }
     .title-extra-large { font-size: 50px; line-height:50px }
     .text-extra-big { font-size: 100px; line-height: 100px; }
     .text-big { font-size: 90px; line-height: 90px; }
