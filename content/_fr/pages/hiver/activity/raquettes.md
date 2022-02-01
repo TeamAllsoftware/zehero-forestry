@@ -26,6 +26,12 @@ page_sections:
     afin de réaliser des parcours en totale autonomie. Sinon, un accompagnateur vous
     accompagne afin de vous amener dans les lieux les plus jolis, les plus préservés
     et vous parlez des secrets de la montagne.
+  alt_text_for_image: Une personne marchant avec des raquettes au milieu de la montagne
+    face à des sommets
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: La balade en raquette est une activité qui permet de diversifier son séjour
     en montagne. Contrairement au ski, vous n'avez pas à payer un forfait. Vous avez
@@ -61,6 +67,11 @@ page_sections:
     liée à l'effort. La raquette est une activité parfaite pour passer un moment agréable
     seul, en famille, en couple ou entre amis. Que ce soit sous les rayons du soleil
     ou sous la neige, la montagne se découvre à tout temps.
+  prlax_alt_text_for_image: photo des jambes et des pieds avec des raquettes à neige
+    en marchant
+  grid_1_alt_text_for_image: Personne faisant de la raquette à neige regardant les
+    montagnes sous la neige
+  grid_2_alt_text_for_image: Forêt de sapins sous la neige avec du soleil
 - template: cta
   intro: Réservez vos balades en raquettes
   headline: Randonnées enfants et adultes sont disponibles
