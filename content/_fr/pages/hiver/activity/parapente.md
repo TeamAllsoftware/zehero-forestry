@@ -3,9 +3,10 @@ layout: layout_activity
 language: fr
 season: winter
 topnav_color_text: dark
-title: Parapente
-permalink: "/fr/hiver/activite/parapente"
-description: Partez vous envolez au dessus des montagnes enneigé avec un vol en parapente
+title: Vol en parapente
+permalink: "/fr/hiver/activite/vol-en-parapente"
+description: Partez vous envoler au dessus des montagnes enneigées avec un vol en
+  parapente en biplace
 baseline: Découvrir, voler et admirer
 engage: Surplombez les montagnes l'hiver et admirez tous les sommets
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497764/website/winter/fpvmat-a-6AzbpH7Qg_k-unsplash_moojf5.jpg
