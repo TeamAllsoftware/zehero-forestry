@@ -42,6 +42,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Journée 1 de la traversée des Préalpes en vélo
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292603/website/V%C3%A9lo/collage1_7_lpos0k.png
   title: Traversée du massif du Vercors
@@ -55,6 +56,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Journée 2 de la traversée des Préalpes en vélo
 - template: 2colimgtxt
   captiontitleuppercase: Journée 3
   title: L’approche vers le Mythe
@@ -66,6 +68,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Journée 3 de la traversée des Préalpes en vélo
 - template: 2colimgtxt
   title: La mythique ascension du Mont Ventoux
   captiontitleuppercase: Journée 4
@@ -78,6 +81,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Journée 4 de la traversée des Préalpes en vélo
 - template: 2colimgtxt
   title: Traversée des gorges du Verdon
   captiontitleuppercase: Journée 5
@@ -90,6 +94,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Journée 5 de la traversée des Préalpes en vélo
 - template: 2colimgtxt
   title: L’arrière pays Niçois = Les pieds dans l’eau
   captiontitleuppercase: Journée 6
@@ -102,11 +107,13 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Journée 6 de la traversée des Préalpes en vélo
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521349/website/V%C3%A9lo/traversee-pre-alpes_mmfnjh.png
   captionleftcontent: Un séjour en vélo à travers des paysages sauvages et montagneux
   captionrighttitle: A partir de 990€
   captionrightcontent: Laissez vous portez et concentrez vous sur votre vélo à profiter
     du moment.
+  center_alt_text_for_image: Vue d'un lac sur une route nationale en vélo de route
 
 ---
