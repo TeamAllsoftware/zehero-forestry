@@ -1,10 +1,10 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/freeride"
+permalink: "/fr/hiver/activite/ski-freeride"
 language: fr
 season: winter
 topnav_color_text: dark
-title: Freeride
+title: Ski freeride
 description: Partez dans les pentes vierges, volez et flottez dans la neige fraîche,
   partez dans les espaces loin des pistes
 baseline: Liberté, engagement et faire sa trace
