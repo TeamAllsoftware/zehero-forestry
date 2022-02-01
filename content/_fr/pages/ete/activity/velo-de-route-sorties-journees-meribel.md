@@ -40,6 +40,7 @@ page_sections:
     de remontez en direction de Bozel puis du Praz afin de rejoindre Méribel. Une
     boucle de 48kms / Dénivelé: 1330m D+. Visualisation des niveaux et lancement de
     la semaine. 60€'
+  alt_text_for_image: Journée 1 de vélo de route à Méribel et ses alentours
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage2_ilhebt.png
   captiontitleuppercase: Journée 2
@@ -52,6 +53,7 @@ page_sections:
     text_button: 'Réservez '
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17213-col-du-petit-saint-bernard-activite-ze-hero
     alt_button: ''
+  alt_text_for_image: Journée 2 de vélo de route à Méribel et ses alentours
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage3_vnw1tf.png
   title: Col de la Madeleine
@@ -65,6 +67,7 @@ page_sections:
     text_button: Réservez
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17215-col-de-la-madeleine-activite-ze-hero
     alt_button: ''
+  alt_text_for_image: Journée 3 de vélo de route à Méribel et ses alentours
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage4_vbcw2p.png
   captiontitleuppercase: Journée 4
@@ -76,6 +79,7 @@ page_sections:
     text_button: Réservez
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17219-col-de-la-loze-par-meribel-activite-ze-hero
     alt_button: ''
+  alt_text_for_image: Journée 4 de vélo de route à Méribel et ses alentours
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage5_ul9hd3.png
   captiontitleuppercase: Journée 5
@@ -88,6 +92,7 @@ page_sections:
     text_button: Réservez
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17209-cormet-de-roselend-activite-ze-hero
     alt_button: ''
+  alt_text_for_image: Journée 5 de vélo de route à Méribel et ses alentours
 - template: 2colimgtxt
   title: Annecy par les cols
   captiontitleuppercase: Journée 6
@@ -102,6 +107,7 @@ page_sections:
     text_button: Réservez
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17212-annecy-ses-lacs-et-ses-montagnes-repas-et-apres-midi-au-lac-compris-activite-ze-hero
     alt_button: ''
+  alt_text_for_image: Journée 6 de vélo de route à Méribel et ses alentours
 - template: textarea
   title: Infos pratiques
   content: |-
