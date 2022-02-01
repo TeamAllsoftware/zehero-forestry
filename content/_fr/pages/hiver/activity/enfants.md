@@ -1,10 +1,10 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/pour-les-enfants"
+permalink: "/fr/hiver/activite/activites-pour-les-enfants"
 language: fr
 season: winter
 topnav_color_text: dark
-title: Pour les enfants
+title: Activités pour les enfants
 description: Vous pouvez réserver pour vos enfants des activités ludiques afin qu'ils
   s'amusent pleinement durant votre séjour en montagne.
 baseline: Igloo et boules de neige
