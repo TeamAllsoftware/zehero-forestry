@@ -27,6 +27,12 @@ page_sections:
   content: 'Le freeride implique de connaître la montagne et ses risques. Outre le
     fait que cette discipline est également physique et demande une très bonne technique
     de glisse, il est important d''en connaître ses aspects sécurités. '
+  alt_text_for_image: Personne faisant du ski freeride en hors piste dans une pente
+    raide
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Dès que l'on quitte les pistes sécurisés, nous sommes face à la montagne
     et donc à des risques plus élevés. La plus courante reste l'avalanche, mais il
@@ -46,6 +52,12 @@ page_sections:
     aussi varier en fonction de la qualité de neige. On peut retrouve une poudreuse
     importante, une neige de printemps, une neige parfois crouté, une neige trafollée.
     Cela va changer également en fonction du degré de la pente. '
+  alt_text_for_image: Snowboardeur faisant du snowboard freeride face à un sommet
+    en montagne
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     On retrouve le ski hors piste dès qu'on s'écarte des pistes. Parfois il y a certains hors-piste qui se font facilement, par exemple sous un télésiège ou proche d'une piste, une combe qui rejoint une autre piste également. Il y a également des stations de ski qui mettent des zones spécialement dédiées au hors piste qui sont indiquées sur le plan des pistes du domaine skiable.
@@ -64,6 +76,7 @@ page_sections:
   captionrighttitle: Faîtes le plein de sensation forte
   captionrightcontent: Le freeride, c'est découvrir la montagne sauvage, dans son
     milieu naturel.
+  center_alt_text_for_image: Skieur en freeride sautant un rocher dans la poudreuse
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
   captiontitleuppercase: Le matériel
@@ -73,6 +86,11 @@ page_sections:
     au patin. Les skis présentent également un rocker important voir un double rocker
     afin d'avoir une meilleure flottaison dans la neige fraîche. Il faudra également
     un sac afin de transporter la pelle et la sonde ainsi que porter sur soi le DVA.
+  alt_text_for_image: Snowboardeur faisant du freeride dans une pente de poudreuse
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Plongez dans l'univers majestueux du hors-piste, apprenez à connaitre
     la montagne, ses pentes, sa neige et ses risques.   \nProgressez techniquement
