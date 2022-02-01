@@ -46,6 +46,11 @@ page_sections:
     d'être sûre que personne n'est derrière la bosse. Les personnes s'asseyant derrière
     une bute prennent un risque d'avoir un accident car personne ne peut les voir
     d'en haut.
+  alt_text_for_image: Panneau de signalisation de danger en ski
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Les règles en ski de randonnée
   content: "Outre que les règles de sécurité concernant le hors-piste et la météo,
@@ -75,5 +80,10 @@ page_sections:
     temps un jour de soleil, vous allez vous faire très mal au yeux. De plus, vérifie
     systématiquement que votre matériel est bien réglé. C''est à dire que vos fixations
     de ski sont bien réglées à votre poids et votre niveau. '
+  alt_text_for_image: Skieur descendant une piste noir
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
