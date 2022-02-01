@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: winter
-description: Comment choisir son magasin de location
+description: Parmi tous les magasins de location, voici les critères afin de le choisir
+  correctement pour répondre à vos besoins pour le ski
 topnav_color_text: light
 title: Comment choisir son magasin de location ?
 permalink: "/fr/hiver/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
@@ -29,6 +30,11 @@ page_sections:
     de problèmes ou bien échange c’est toujours plus simple d’avoir un magasin ouvert
     7/7 non-stop. Pour finir, les **feedbacks** des clients du magasin  \nde location
     de ski."
+  alt_text_for_image: Vue de plusieurs skis posés debout sur un range ski
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Les différents éléments que vous pouvez demander
   content: |-
@@ -36,7 +42,7 @@ page_sections:
     * Vous avez le choix entre magasin avec enseigne (sport 2000, Ski set, Intersport, Skimium, gosport …) ou bien sans enseigne : ce sont généralement des franchises, ce qui est important c’est l’équipe sur place, sauf si vous êtes attachés à une enseigne spécifique.
     * Vous pouvez demander l’année d’achat des skis de location : ce n’est pas toujours noté sur le site.
     * Vous pouvez demander s’il existe un atelier pour l’entretien des skis. Lorsque vous louez un ski, il est important que l’entretien du ski soit effectué après chaque sortie.
-
 redirect_from:
-  - /fr/choisir-magasin-location-ski/
+- "/fr/choisir-magasin-location-ski/"
+
 ---
