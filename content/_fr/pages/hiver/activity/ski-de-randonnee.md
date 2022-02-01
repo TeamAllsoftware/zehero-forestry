@@ -5,7 +5,8 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Ski de randonnée
-description: Le ski de randonné
+description: Partez explorer les montagnes en ski de randonnée afin de profiter d'une
+  montagne pure et sauvage
 baseline: Endurance, découverte et ascension
 engage: Profiter de la nature sans la cohue des pistes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
