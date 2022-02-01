@@ -49,6 +49,12 @@ page_sections:
     bien entretenu. Pour un magasin de location, le ski sera entretenu après chaque
     utilisation mais il servira généralement beaucoup. Pour un particulier, cela dépendra
     vraiment de la personne.  '
+  alt_text_for_image: Vue des plusieurs ski et snowboard posé sur un rangement de
+    ski et de snowboard
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: Il est important ensuite d'apprendre des connaissance sur la description
     du ski, de le connaître. C'est de savoir pour quelle utilité est il destinée,
@@ -67,6 +73,12 @@ page_sections:
   content: Afin de vérifier ces différents éléments, il est donc important, si vous
     achetez sur internet, d'avoir un maximum de photo du ski pour vérifier que ces
     différents éléments sont en bon états.
+  alt_text_for_image: Télécabine avec plusieurs skis rangés dans les rangements de
+    ski
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     Le **top sheet** : Vous pouvez y trouver des marques, des rayures, des trous etc… Il faut bien vérifier que celles-ci ne soient pas trop importantes, car l’eau pourrait alors s’infiltrer. Mais attention le Top Sheet peut être trompeur. Parfois certains skis vont présenter beaucoup de rayures sur le dessus alors que le ski sera en parfait état. Alors que certaines fois, vous trouverez un Top Sheet impeccable, mais le ski aura pris de l’usure sur le dessous. Cela dépend de la marque et de sa fabrication sur le Top Sheet.
@@ -81,6 +93,10 @@ page_sections:
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/Speed_1_ms6owp.jpg
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/Speed_2_eb5cxc.jpg
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/Speed_3_knm7j9.jpg
+  atl_text_image_01: Ski d'occasion dynastar vue entière du ski de face
+  atl_text_image_02: Vue des ski d'occasion Dynastar juste le haut des skis
+  atl_text_image_03: Vue des skis d'occasion Dynastar au niveau des fixations de ski
+  atl_text_image_04: Vue des skis d'occasion Dynastar au niveau des bas des skis
 - template: textarea
   content: "N'hésitez pas à demander plus d'information sur les skis que vous désirez,
     sur leurs états.  \nUn ski qui aura plus de 5ans sera entre guillemets en fin

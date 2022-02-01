@@ -27,7 +27,7 @@ page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624275/website/Surf%20Atlantic/DSC_1440_ruy2qd.jpg
   captiontitleuppercase: Apprendre à Surfer
-  title: Les écoles de surf
+  title: Les écoles de surf à ST Brévin les Pins
   content: |-
     Il existe plusieurs écoles de Surf à St Brévin les pins. Vous trouverez différentes écoles de surf si vous désirez apprendre le surf pour la 1re fois, que vous désirez progresser sur les vagues, vous perfectionner et avoir un meilleur niveau.
 
@@ -38,19 +38,20 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Femme surfant à St Brévin les pins sur une vague qui casse
 - template: textarea
-  title: Les cours privés ou collectifs
+  title: Les cours privés ou collectifs de surf à St Brévins les Pins
   content: |-
-    **Cours privé :**
+    **Cours privé de surf :**
 
     Si vous désirez prendre des cours privés de surf à St Brévin les pins au sein d'une école de surf, cela vous permettra d'avoir un professeur de surf totalement dédié à vous. Il vous accompagnera dans l'eau, analysera tous vos gestes et restera au près de vous afin de vous donner tous les conseils importants. Le moniteur vous permettra de vraiment progresser et de vous faire découvrir les différentes vagues, la compréhension de l'océan et toute la technique de surf. C'est la meilleure façon d'apprendre et de progresser en surf, mais elle est plus chère que si vous pratiquiez le surf en cours collectif.
 
-    **Cours collectif :**
+    **Cours collectif de surf :**
 
     Contrairement au cours privé de surf, ici vous êtes avec d'autres surfeurs. Le moniteur analyse donc plusieurs personnes lors de la même session de surf. Vous pourrez alors profiter d'un groupe motivant et passer un moment avec vos proches. Vous progresserez par les conseils du moniteur, mais aussi des surfeurs du groupe. Le cours collectif de surf est alors moins chère que le cours privé et sera parfait pour les débutants et ceux qui souhaitent se perfectionner.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624275/website/Surf%20Atlantic/IMG_7584_itolid.jpg
-  captiontitleuppercase: Les différents spots
+  captiontitleuppercase: Les différents spots de surf
   title: Où surfer à St Brévin les Pins
   content: |-
     Vous commencez le surf, vous êtes un amateur de surf ou même un expert en surf, à St Brévin les pins, il y a différents spots où trouver les meilleurs vagues.
@@ -62,6 +63,8 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Fille débutant le surf partant sur une vague à l'aide d'un moniteur,
+    qui commence à se lever
 - template: textarea
   title: Location de surf à St Brévins les pins
   content: |-

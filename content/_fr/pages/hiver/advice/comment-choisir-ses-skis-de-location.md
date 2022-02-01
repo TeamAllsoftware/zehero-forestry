@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: winter
-description: Comment choisir ses skis de locations ?
+description: Tous les critères important afin de savoir comment choisir ses skis et
+  son matériel de location.
 topnav_color_text: light
 title: Comment choisir ses skis de location
 permalink: "/fr/hiver/conseil/choisir-ski-location"
@@ -25,6 +26,11 @@ page_sections:
   content: Afin de comprendre les différents niveaux de ski en location, nous avons
     mis en place un système d'étoile qui permet de comprendre la gamme que vous souhaitez.
     En effet, vous pourrez découvrir entre 1* et 5 à 6* selon les magasins.
+  alt_text_for_image: Vue de skis et de snowboard dans des rangements de ski
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: ''
   content: |-
@@ -50,6 +56,11 @@ page_sections:
     du carbone seront beaucoup plus légers, ils absorbent également les vibrations
     mais ils seront plus rigides. En fonction de leurs catégories, elles traduisent
     également l’accroche, la capacité au ski à rester stable à une vitesse importante.
+  alt_text_for_image: 'Vue d''un ski avec juste le haut du ski '
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Un ski que vous allez louer pour débuter et progresser en début de semaine
     peut en fin de semaine être handicapant pour vous.\n\nCe qui est important également
@@ -75,19 +86,24 @@ page_sections:
     les enfants déjà plus avancés techniquement, vous pourrez alors choisir les skis
     3 étoiles Junior. Ces skis seront alors orientés pour de la piste ou de hors-piste,
     freeride…
+  alt_text_for_image: 'Groupe d''enfant qui apprennent le ski  '
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     "Lorsque vous louez vos skis, il est donc important de bien renseigner
     certaines informations importantes afin que le magasin de location de ski puisse
     vous préparez le matériel en fonction de votre niveau et de votre physique:
-    
+
     * Votre type de pratique
     * Votre Taille
     * Votre Poids
     * Votre niveau
     * Votre Pointure
     {: .bullets}
-    
+
     Vous pouvez également renseigner des informations supplémentaires qui peuvent être importantes. Par exemple, si vous êtes fragiles d’un genou, il est
     important de le spécifier."
   title: Important

@@ -12,12 +12,12 @@ menu:
   column-01:
   - nested: Nos activités ski
     menu-items:
-    - title: Ski alpin
-      href: "/fr/hiver/activite/ski-alpin"
+    - title: Ski de piste
+      href: "/fr/hiver/activite/ski-de-piste"
     - title: Ski de randonnée
       href: "/fr/hiver/activite/ski-de-randonnee"
     - title: Ski freeride
-      href: "/fr/hiver/activite/freeride"
+      href: "/fr/hiver/activite/ski-freeride"
     - title: Ski de fond
       href: "/fr/hiver/activite/ski-de-fond"
   column-02:
@@ -25,8 +25,10 @@ menu:
     menu-items:
     - title: Snowboards
       href: "/fr/hiver/activite/snowboard"
-    - title: Raquettes
-      href: "/fr/hiver/activite/raquettes"
+    - title: Raquettes à neige
+      href: "/fr/hiver/activite/raquettes-a-neige"
+    - title: Pour les enfants
+      href: "/fr/hiver/activite/activites-pour-les-enfants"
 - top-level:
     title: Conseils
     id: "2"
@@ -109,7 +111,7 @@ menu:
       href: "/fr/contact"
   column-02: 
 - top-level:
-    title: e-Shop
+    title: Réserver
     id: eshop
     title-link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
     image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642604106/website/winter/ScreenShot_Tool_-20220119155142_isdxtn.png

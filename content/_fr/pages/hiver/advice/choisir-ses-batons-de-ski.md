@@ -40,6 +40,11 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642411069/website/Conseil%20/ben-kolde-iKEWrU3t0VQ-unsplash_angktg.jpg
   captiontitleuppercase: Bien choisir son bâton de ski
   title: Les différentes poignées
+  alt_text_for_image: Image d'une paire de bâton de ski planté dans la neige
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     Selon votre fréquence et votre niveau de pratique, veillez à choisir une paire de bâtons de skis adaptés.

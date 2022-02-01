@@ -5,7 +5,8 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Ski de randonnée
-description: Le ski de randonné
+description: Partez explorer les montagnes en ski de randonnée afin de profiter d'une
+  montagne pure et sauvage
 baseline: Endurance, découverte et ascension
 engage: Profiter de la nature sans la cohue des pistes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
@@ -21,6 +22,12 @@ page_sections:
     ski de randonnée. Cette pratique demande du matériel spécifique, ainsi que des
     connaissances sur la sécurité et sur la montagne.
   captiontitleuppercase: Le ski de randonnée
+  alt_text_for_image: Skieur de randonnée en train de monter dans une pente avec beaucoup
+    de sapin en hors piste avec un sac à dos de ski
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Le ski de randonnée reste une activité physique car la montée demande
     une bonne condition physique. Le dénivelé positif sera exigeant pour vos jambes,
@@ -59,6 +66,12 @@ page_sections:
   title: Le matériel du ski de randonnée
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/amza-andrei-LiwdRhUaGZ0-unsplash_sqwdgb.jpg
   captiontitleuppercase: Léger et technique
+  alt_text_for_image: Un homme faisant du ski de randonnée avec un sac à dos face
+    à une montagne et son sommet
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Certains skis sont dédiés uniquement à la pratique du ski de randonnée,
     d'autres seront adaptés pour une pratique freeride et de randonnée. Mais l'idéal
@@ -84,6 +97,8 @@ page_sections:
     pratique mais également les différentes notions à avoir sur la qualité de neige,
     des différentes couches, des risques d'avalanches. Toutes ces informations essentielles,
     vous permettrons de partager un moment riche en émotions et en apprentissage.
+  center_alt_text_for_image: Une personne faisant du ski de randonnée la nuit à la
+    frontale en montagne sous un ciel étoilé
 - template: textarea
   title: Plutôt freeride ou collant pipette ?
   content: "Le ski de randonnée est aujourd'hui de plus en plus pratiqué. Vous trouverez
@@ -113,6 +128,12 @@ page_sections:
     Le but est de combiner contemplation du paysage et effort.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/greg-rosenke-ijFOmhUCp58-unsplash_lmnims.jpg
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/jon-flobrant-wElgJTwsibs-unsplash_mo3el7.jpg
+  prlax_alt_text_for_image: trois personnes faisant du ski de randonnée et alpinisme
+    sur une trace en haute montagne avec du vent
+  grid_1_alt_text_for_image: Deux skieurs de randonné montant à pied dans la montagne
+    avec les skis accrochés au sac
+  grid_2_alt_text_for_image: Une personne faisant du ski de randonné en montant en
+    hors-piste dans une pente vierge avec quelques arbres autour de lui
 - template: textarea
   content: "Vous trouverez en France un choix gigantesque de randonnée à faire. Que
     vous soyez encadré ou non, toutes les possibilités s'offrent à vous. Vous pourrez
@@ -128,9 +149,9 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
-
 redirect_from:
-  - /fr/ski-randonnee-isere/
-  - /fr/ski-randonnee-savoie/
-  - /fr/ski-randonnee-haute-savoie/
+- "/fr/ski-randonnee-isere/"
+- "/fr/ski-randonnee-savoie/"
+- "/fr/ski-randonnee-haute-savoie/"
+
 ---

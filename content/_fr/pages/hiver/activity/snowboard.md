@@ -5,8 +5,7 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Snowboard
-description: Que ce soit dans les pentes de poudreuse, dans les snowparks ou sur les
-  pistes, la pratique du snowboard est présente partout aujourd'hui.
+description: Partez rider le domaine skiable et les hors pistes en apprenant le snowboard
 baseline: Fluidité, poudreuse et grands virages
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-marche_prsset.jpg
 image01_alt: Snowboard dans les domaines de Savoie
@@ -26,6 +25,11 @@ page_sections:
     Outre ces disciplines, on va donc pratiquer le snowboard et pouvoir carver sur
     les pistes, faire quelques jumps et slider quelques rails ainsi que flotter en
     hors-piste.'
+  alt_text_for_image: Snowboardeur de face tenant son snowboard debout dans la neige
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: liststyle01
   title: Dans quel sens ?
   item:
@@ -44,6 +48,8 @@ page_sections:
   captionrighttitle: Le snowboardeur est un rider
   captionrightcontent: 'Le snowboard n''est pas plus dur que le ski. Ses débuts ne
     sont pas évidents mais ensuite la progression va plus vite qu''en ski. '
+  center_alt_text_for_image: Snowboardeur sautant un saut en faisant un grab et une
+    figure en snowboard
 - template: textarea
   content: |-
     Le snowboard, à la différence du ski, nécessite des boots pour sa pratique. Elles sont beaucoup plus confortables et vous pouvez alors marcher plus facilement avec. Afin de pouvoir rider et être maintenu sur la planche, les boots seront fixées aux fixations du snowboard. Vous trouverez aujourd'hui différents types de fixation et aussi différentes en fonction des marques.
@@ -68,6 +74,12 @@ page_sections:
     à l'aise. Que ce soit sur la piste, dans les snowparks ou dans les hors-pistes,
     le snowboard n'attend que vous.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-duo-marche_vgtw6n.jpg
+  prlax_alt_text_for_image: Snowboardeuse faisant du snowboard en hors piste et en
+    freeride
+  grid_1_alt_text_for_image: Snowboardeur faisant du freestyle en slidant une barre
+    de slide en snowboard
+  grid_2_alt_text_for_image: Deux snowboardeurs marchant à Val Thorens dans la neige
+    en hors-piste en tenant leurs snowboard dans les mains
 - template: cta
   intro: Réservez dès maintenant vos activités snowboard
   headline: Cours privés ou collectifs, enfant et adultes sont disponibles

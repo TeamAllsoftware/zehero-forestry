@@ -28,6 +28,11 @@ page_sections:
 
     Cependant, les snowboots avec un flex souple séduisent aussi les pratiquants adeptes du **Freestyle**. Cela leur permet d’être plus à l’aise pour enchaîner leurs figures.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640262576/website/Conseil%20Equiepement/joshua-reddekopp-6rGLwZUiLmo-unsplash_oh0iqg.jpg
+  alt_text_for_image: Personne en train d'enfiler une boots de snowboard
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     La plupart des chaussures que l’on retrouve sur le marché ont un flex **intermédiaire**. C’est la gamme sur laquelle quasi toutes les marques se positionnent. Elles répondent aux besoins de tous les pratiquants sur tout type de terrain. Le maintien est bon et la boots laisse quand même de la liberté au pied et aux mouvements.
@@ -47,6 +52,12 @@ page_sections:
     système.
   title: Désormais, jetons un coup d’œil aux systèmes de serrage et de fermeture des
     chaussures de snowboard
+  alt_text_for_image: Vue d'une personne assise dans la neige avec un snowboard et
+    les chaussures de ski dans les fixations de snowboard sur une piste de ski
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Le système simple BOA est le plus rapide. Il nécessite cependant que votre
     boot soit parfaitement adapté à votre pied car il n’agit que sur le coup de pied.

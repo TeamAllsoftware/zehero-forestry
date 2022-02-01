@@ -31,6 +31,12 @@ page_sections:
     également des stations familiales et d'autre plus sportive, voire plus festive.
     Certaines vont être réputées même pour leurs restaurants, leurs activités, leurs
     panoramas, leur neige, leur météo etc
+  alt_text_for_image: Vue d'une station de ski avec des chalets sous la neige au début
+    de la nuit
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "On peut alors se poser la question de savoir avec qui vous allez séjourner
     en montagne, pour quelle discipline, dans quelle cadre (isolé, charme, moderne...),
@@ -72,6 +78,11 @@ page_sections:
     pour les enfants. Leurs buts sont d'offrir des moments inoubliables pour les familles.
     On retrouve par exemple les stations comme l'Alpe d'Huez, La Clusaz, Les Orres,
     Méribel, Les Houches et bien d'autres encore.
+  alt_text_for_image: 'Vue d''un plat savoyard, la fondue savoyard '
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Ensuite on retrouve des stations plus sportives pour les personnes cherchant
     des grands domaines skiables. Pour ceux qui souhaitent avoir des stations bénéficiant
@@ -99,6 +110,11 @@ page_sections:
     fin de saison. Il y aura donc plus de chance que la station manque d'enneigement.
     Il se peut alors que certaines pistes soient fermées et que la neige soit surtout
     artificielle, s'il fait assez froid.
+  alt_text_for_image: Vue des sommets de plusieurs montagnes enneigés avec des nuages
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Budget
   content: "Forcément, c'est un point important, car il s'agit du prix de votre séjour.

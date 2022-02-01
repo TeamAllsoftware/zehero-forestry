@@ -6,7 +6,7 @@ topnav_color_text: dark
 title: Vélo de route
 permalink: "/fr/ete/activite/velo-de-route"
 description: A l'assaut des cols mythiques en France, de se balader sur les routes
-  et de voir du pays grâce à son vélo.
+  et de voir du pays en vélo de route
 baseline: Explorer, rouler et grimper
 engage: Explorez de nouveaux horizons et grimpez les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883618/website/summer/velo-duo-descente-col_bqhfjm.jpg
@@ -31,6 +31,12 @@ page_sections:
     désirant des itinéraires moins longs et avec moins de dénivelé. Aller grimper
     les cols, c''est atteindre des sommets mythiques en vélo et avoir des panoramas
     grandioses. '
+  alt_text_for_image: Femme faisant du vélo de route dans une montée en direction
+    d'un col en montagne
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Une activité partout en France
   content: |-
@@ -53,6 +59,11 @@ page_sections:
     Vous pouvez également venir sans vélo de route et le louer là où vous souhaitez
     rouler.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642671861/website/summer/viktor-bystrov-Gi0OMNguFaw-unsplash_mekt50.jpg
+  prlax_alt_text_for_image: Deux personnes faisant du vélo de route sur une route
+    de campagne
+  grid_1_alt_text_for_image: Trois personne faisant du vélo de route sur une route
+    bordée de pins
+  grid_2_alt_text_for_image: Cycliste faisant du vélo de route sur une route de montagne
 - template: textarea
   title: Etre encadré
   content: Si vous réservez une sortie à vélo, cela vous permet d'avoir une personne
@@ -60,7 +71,7 @@ page_sections:
     Mais, cela peut permettre également de se laisser guider sur des jolies parcours,
     de réaliser des ascensions. Parfois, cela vous permet également d'avoir un ravitaillement,
     un suivi en voiture lorsque vous partez pour plusieurs jours.
-
 redirect_from:
-  - /fr/velo-savoie-haute-savoie/
+- "/fr/velo-savoie-haute-savoie/"
+
 ---

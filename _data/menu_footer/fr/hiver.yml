@@ -2,18 +2,20 @@ columns:
   - col: "Nos activités"
     title-link: /fr/hiver/activites
     link:
-    - subtitle: 'Ski alpin'
-      subhref: /fr/hiver/activite/ski-alpin
+    - subtitle: 'Ski de piste'
+      subhref: /fr/hiver/activite/ski-de-piste
     - subtitle: 'Ski de randonnée'
       subhref: /fr/hiver/activite/ski-de-randonnee
     - subtitle: 'Snowboards'
       subhref: /fr/hiver/activite/snowboard
-    - subtitle: 'Raquettes'
-      subhref: /fr/hiver/activite/raquettes
+    - subtitle: 'Raquettes à neige'
+      subhref: /fr/hiver/activite/raquettes-a-neige
     - subtitle: 'Ski freeride'
-      subhref: /fr/hiver/activite/freeride
+      subhref: /fr/hiver/activite/ski-freeride
     - subtitle: 'Ski de fond'
       subhref: /fr/hiver/activite/ski-de-fond
+    - subtitle: Pour les enfants
+      subhref: "/fr/hiver/activite/activites-pour-les-enfants"
   - col: "Conseils"
     title-link: /fr/hiver/conseils
     link:
