@@ -36,6 +36,12 @@ page_sections:
     ludiques. Cela permet d'avoir un panel d'activité amusante, fun, nouvelles mais
     aussi ludiques. Il découvrira la montagne d'une autre façon, en s'amusant avec
     ses copains.
+  alt_text_for_image: Deux petites filles jouant dans la neige en faisant un bonhomme
+    de neige
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     Les différentes structures qui mettent en place ses activités proposent chaque jour une activité différente. Un système de garderie sera également en place. Elles auront lieu généralement l'après-midi ainsi que le soir en fonction de l'activité mise en place : marche en raquette dans les bois, construction d'igloo la nuit...
