@@ -5,8 +5,8 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Ski de fond
-description: Le ski de fond est la 1er discipline de ski et elle est aujourd'hui d'une
-  croissance importante et se développe.
+description: Partez explorer les montagnes en ski de fond en pratiquant le classique
+  ou le skating
 baseline: 'Ludique, physique, et dépaysant '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/simon-berger--O8r5oLosYo-unsplash_b9rv7j.jpg
 image01_alt: Parcours de ski de fond dans la forêt
