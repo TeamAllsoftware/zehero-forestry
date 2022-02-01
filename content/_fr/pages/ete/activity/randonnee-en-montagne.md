@@ -6,7 +6,7 @@ topnav_color_text: dark
 title: Randonner en montagne
 permalink: "/fr/ete/activite/randonnee-montagne"
 description: Pratiquez la randonnée en montagne ou en plaine à la découverte de la
-  nature
+  nature en famille, entre amis ou seul.
 baseline: Découvrir, marcher et respirer
 engage: Partez découvrir les secrets des montagnes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582618/website/summer/pexels-eric-sanman-1365425_uouohg.jpg
@@ -38,6 +38,12 @@ page_sections:
     permet également de partager un bon moment, de muscler son corps et de faire travailler
     son cardio. Une activité physique conviviale pour y aller en famille, entre amis,
     en couple ou seul.
+  alt_text_for_image: Personne faisant de la randonnée en montagne sur un sentier
+    en montagne rempli de fleurs devant des sommets de montagne
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Prendre un guide, un accompagnateur de moyenne montagne permet d'avoir
     toutes les informations sur comment bien randonnée. C'est-à-dire, qu'il va vous
@@ -68,6 +74,11 @@ page_sections:
     fondra que vous pourrez pleinement profiter des sentiers en montagne. En France,
     on retrouve un panel incroyable de lieux, de GR, de chemin qui font le bonheur
     de tous les amoureux de la randonnée en montagne.
+  prlax_alt_text_for_image: Randonneur faisant de la randonnée avec un sac à dos devant
+    un lac et des montagnes brumeuses
+  grid_1_alt_text_for_image: Vue de l'intérieur d'une tente ouvrant sur l'extérieur
+    avec des sapins
+  grid_2_alt_text_for_image: Vue d'un bouquetin allongé se grattant avec sa corne
 - template: textarea
   content: |-
     Partir randonner en montagne, c'est se renseigner tout d'abord sur le lieu et le parcours. Si vous savez lire une carte IGN, c'est encore mieux, car cela permet de bien se repérer en montagne et sur votre chemin. Il faut ensuite bien s'équiper pour la marche, c'est-à-dire :
@@ -93,6 +104,12 @@ page_sections:
     parcs bien différents avec des végétations qui changent, des lieux plus minérales
     ou plus boisés, des lieux avec des glaciers et d''autres entourés de sapins. Vous
     avez le choix, de plus les différents GR vous amènent à travers des lieux uniques. '
+  alt_text_for_image: Vue d'un couché de soleil du sommet d'une montagne avec des
+    arbres et des montagnes lors d'une randonnée
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: La montagne vous attend
   content: Venez respirer l'air pur de la montagne, admirez les lacs de haute altitude,
