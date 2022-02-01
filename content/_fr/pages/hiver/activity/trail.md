@@ -30,6 +30,12 @@ page_sections:
     trail va porter sur votre vitesse, sur la technique en descente, sur votre gestion
     de course. Courir des heures en nature, seul ou accompagné, plonge le corps et
     l'esprit dans un moment de plénitude.
+  alt_text_for_image: Coureur de trail lors d'une compétition de trail dans les montagnes
+    lors de UTCAM
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: liststyle01
   title: Les différentes courses
   item:
@@ -53,6 +59,11 @@ page_sections:
     la demande énergétique et physique est exigeante, alors l'environnement lui autour
     de vous sera apaisant.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200528_132727_fnpain.jpg
+  prlax_alt_text_for_image: Deux coureurs courant en trail en montagne sur la neige
+    dans le massif de la Lauzière
+  grid_1_alt_text_for_image: Deux coureurs faisant du trail en montagne sur une crête
+    au levé de soleil
+  grid_2_alt_text_for_image: Un troupeau de bouquetin en montagne dans le Mercantour
 - template: textarea
   content: |-
     Selon les courses et les distances la pratique du trail est différente. Plus la course est courte, plus l'engagement physique sera important. À l’inverse, plus la distance est longue, plus l'engagement mental sera important. Le trail, en plus de son aspect physiologique et physique, demandera une part très importante du mental, de gestion de course et d'alimentation. Ce sont autant de paramètres qui rendent cette pratique encore plus intéressante et riche.
@@ -67,6 +78,11 @@ page_sections:
     tous les week-end. Mettre un dossard, c'est le moyen de se dépasser, de passer
     un bon moments avec ses amis, c'est participer un évènement. Les compétitions
     permettent également de mettre en place des parcours magnifiques et uniques.
+  alt_text_for_image: Coureur de trail en montagne devant un sommet le cheval noir
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     Le trail ce pratique toute l'année même l'hiver. L'encadrement en trail est idéal si vous souhaitez progresser, découvrir et partager. Un coach en trail running vous permettra d'évoluer et de progresser que ce soit en montée, en descente, sur plat. Cela pourra se travailler sur des séances dîtes spécifiques.
@@ -79,6 +95,8 @@ page_sections:
   captionrighttitle: Ne courez pas après le temps, appréciez en chaque secondes
   captionrightcontent: Quelque soit l'intensité de votre course, la durée et la difficulté,
     nous ressentons tous le même plaisir après avoir foulé les sentiers.
+  center_alt_text_for_image: Une fille de dos faisant du trail et courant en montagne
+    face au Lac des Merveilles
 - template: cta
   button:
     href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
