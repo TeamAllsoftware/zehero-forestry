@@ -24,6 +24,12 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643040082/website/summer/IMG_20200725_103745_svblrc.jpg
   captiontitleuppercase: L'équipement en trail running
   title: Simple mais technique
+  alt_text_for_image: Coureuse de trail lors d'une course en montagne buvant dans
+    sa gourde
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: liststyle01
   title: 'Notre équipement sera différent selon :'
   item:
@@ -54,6 +60,12 @@ page_sections:
     le polyester, le polyamide ou l’élasthanne. Vous trouverez aussi des vêtements
     de compression qui favorisent la thermorégulation et l’oxygénation des muscles.
     Ils se portent donc très prêt du corps.
+  alt_text_for_image: Coureur de dos courant sur une route en tenant une gourde, de
+    dos
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: Il en est de même pour les shorts. Il existe des shorts courts ou longs,
     en fonction des préférences. Ces shorts sont généralement équipés de poches fonctionnelles
@@ -82,6 +94,11 @@ page_sections:
     Ce qui fait que vous transpirez beaucoup et donc que vous serez tout de même trempé
     mais de l’intérieur. Vous pouvez également vous équiper d’un sur pantalon imperméable
     lors de vos sorties longues afin de bien rester au sec.'
+  alt_text_for_image: Personne courant sur un petit pont en bois
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: "Les sacs de portages et les ceintures de portages dotées de leurs flasques
     se sont peu à peu imposés. On retrouve donc de moins en moins de portes bidons
@@ -108,6 +125,12 @@ page_sections:
     avoir sur soi un petit bonnet technique ou un buff permet d’avoir le cou et les
     oreilles au chaud. Les lunettes de soleil sont aussi très importantes pour vos
     yeux surtout en altitude.
+  alt_text_for_image: Groupe de coureur de trail pendant une compétition de trail
+    sur un petit chemin en forêt
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: 'Aujourd’hui on retrouve énormément de montre de sport, de montre GPS et
     de montre connectée. Ce n’est pas un outil obligatoire mais il permet d’avoir
@@ -139,7 +162,7 @@ page_sections:
     d’importance à l’hydratation. Vous pouvez vous retrouver en sortie sans trouver
     de point d’eau pendant très longtemps. Alors même si cela rajoute un peu de poids,
     n’hésitez pas à toujours prévoir une flasque en plus.
-
 redirect_from:
-  - /fr/equipement-trail/
+- "/fr/equipement-trail/"
+
 ---
