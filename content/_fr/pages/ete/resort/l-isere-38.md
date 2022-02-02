@@ -2,9 +2,8 @@
 layout: layout_resort
 language: fr
 season: summer
-description: Vous arrivez dans la station [nom de la station] et vous aimeriez louer
-  du matériel   tel que des skis, des chaussures de ski, des casques pour toute votre
-  famille ?
+description: L'Isère est un département qui regorge d'activité outdoor. Entouré par
+  4 massifs très montagneux et sauvages, profiter d'air pur et de moment unique.
 topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités et les différentes locations en Isère
@@ -50,6 +49,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Lac très bleu avec des montagnes derrière en Isère
 - template: textarea
   content: |-
     L'Isère est composée de nombreuses stations réputées comme Les 2 Alpes, l'Alpe Huez, l'Oisans, les 7 Laux, Chamrousse, Villard de Lans, le Collet d'Allevard et bien d'autre encore. Vous pourrez bénéficier des diverses infrastructures et activités quelles proposent. Autre que la randonnée, vous pourrez pratiquer également le trail-running. Certaines stations mettent à disposition des parcours balisés ou à télécharger sur votre montre GPS.
@@ -73,6 +73,11 @@ page_sections:
     franchissez le col du Granier, le col de Chamrousse, le col de Porte. Explorez
     les campagnes Iséroises en famille et découvrez ce département.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643035410/website/summer/mercvrie-Zq0eVWKQqIo-unsplash_heonqb.jpg
+  prlax_alt_text_for_image: Lac de montagne en Isère
+  grid_1_alt_text_for_image: Deux personnes faisant de la randonnée en montagne sur
+    une crête en Isère
+  grid_2_alt_text_for_image: Paysage de montagne avec un petit étang et des sapins
+    en automne
 baseline: 4 massifs
 
 ---
