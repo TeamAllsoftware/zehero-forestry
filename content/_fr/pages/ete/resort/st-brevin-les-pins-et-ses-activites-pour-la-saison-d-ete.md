@@ -44,6 +44,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Phare en pierre dans l'eau dans l'océan en Loire Atlantique
 - template: textarea
   title: Les activités du Littoral
   content: "St Brévin les Pins offre un large choix d'activité nautique et sur le
@@ -69,5 +70,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Personne dans l'océan en Loire atlantique faisant du Kitesurf
+    au coucher de soleil
 
 ---

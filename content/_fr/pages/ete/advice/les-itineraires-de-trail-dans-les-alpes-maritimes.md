@@ -2,8 +2,8 @@
 layout: layout_advice
 language: fr
 season: summer
-description: Découvrez nos différents itinéraires de courses à pied dans les pré alpes
-  et les alpes maritimes
+description: Découvrez nos différents itinéraires de trail et de course à pied dans
+  les pré alpes et les alpes maritimes
 topnav_color_text: light
 title: Les Itinéraires de Trail dans les Alpes Maritimes
 permalink: "/fr/ete/conseil/itineraires-trail-alpes-maritimes"
@@ -39,6 +39,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Itinéraire de trail dans l'Esterel
 - template: 2colimgtxt
   content: |-
     * Distance : 22,3km
@@ -60,6 +61,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Itinéraire de trail dans l'Esterel
 - template: 2colimgtxt
   content: |-
     * Distance : 5,3km
@@ -77,6 +79,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Itinéraire de trail à Gourdon
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643352682/website/summer/le-trail-de-gordon-1_af2yrh.png
   captiontitleuppercase: VERT
@@ -96,6 +99,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   title: Trail de Gourdon
+  alt_text_for_image: Itinéraire de trail à Gourdon
 - template: 2colimgtxt
   content: |-
     * Distance : 24,2km
@@ -117,6 +121,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Itinéraire de trail à Gourdon
 - template: 2colimgtxt
   content: |-
     * Distance : 14,8km
@@ -138,6 +143,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Itinéraire de trail à Tourrettes sur Loup
 - template: 2colimgtxt
   content: |-
     * Distance : 26.2km
@@ -159,6 +165,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Itinéraire de trail à Tourrettes-sur-Loup
 - template: 2colimgtxt
   content: |-
     * Distance : 11,5km
@@ -180,6 +187,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Itinéraire de trail à Gréolières
 - template: 2colimgtxt
   content: |-
     * Distance : 11.2km
@@ -203,6 +211,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Itinéraire de trail à St Jeannet
 - template: 2colimgtxt
   content: |-
     * Distance : 18,6km
@@ -224,6 +233,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Itinéraire de trail à Levens
 - template: 2colimgtxt
   content: |-
     * Distance : 18,6km
@@ -247,6 +257,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Itinéraire de trail à Utelle
 - template: 2colimgtxt
   content: |-
     * Distance : 12.1km
@@ -268,5 +279,6 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Itinéraire de trail au Mont Vial
 
 ---

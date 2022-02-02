@@ -46,6 +46,11 @@ page_sections:
     aller observer les poissons. On retrouve également les sports d'eau et de glisse
     comme le kite, le Foil, le E-foil et le wakeboard. Toutes les stations balnéaires
     offrent différentes activités.
+  alt_text_for_image: Vue du littoral de la mer à St Jean Cap Ferrat
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: Vous y retrouverez des villages colorés et typiques comme Menton ou Eze.
     Vous pourrez randonnée ou courir sur les sentiers du littoral de Saint Jean Cap
@@ -66,6 +71,12 @@ page_sections:
     la vallée de l'Estéron, le village de St Jeannet sous le fameux baou de St Jeannet,
     la montagne de St Valliers de Thiey ou encore la station de ski de Gréolières
     les neige et son sommet "Le Cheiron".
+  alt_text_for_image: Personne au sommet du Baou de St Jeannet prêt de la falaise
+    face à la mer
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Les activités dans les Préalpes d'Azur
   content: On retrouve énormément de sentiers balisés pour randonner à pied, en course
@@ -86,6 +97,11 @@ page_sections:
     des parcours variés, des descentes en rappel vertigineuses, des sauts et des toboggans.
     La vallée de la Roya permet également de faire du Rafting ainsi que de l'hydrospeed.
     Partagez ces activités pour des moments de sensations fortes.
+  alt_text_for_image: Groupe de personne faisant du canyoning dans les Alpes Maritimes
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Le Mercantour
   content: Le massif du Mercantour est un parc national préservé et très sauvage.
@@ -105,11 +121,17 @@ page_sections:
     très préservé. C'est alors le bonheur pour les randonneurs et les traileurs. Entre
     le GR5, le GR 52, la GTM, ses sommets tels que le Gélas ou encore le Ténibre,
     vous y retrouverez également des refuges de qualités.
+  alt_text_for_image: Vue des lacs de Vens dans le parc national du Mercantour
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Trouvez votre activité
   content: Vous l'avez compris, les Alpes-Maritimes est une région où l'activité Outdoor
     prône. Le paradis également de pouvoir être en montagne et de randonnée entourée
     de sommets puis 1h/1h30 plus tard, vous voilà les pieds dans la mer à profiter
     d'une vue infinie, d'un soleil, de palmiers et d'odeur de pins.
+baseline: Mer et Montagne
 
 ---
