@@ -47,6 +47,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: 'Personne faisant du Kitesurf dans l''océan dans la Loire Atlantique '
 baseline: Littoral et nature
 
 ---

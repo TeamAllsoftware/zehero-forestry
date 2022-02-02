@@ -13,7 +13,7 @@ introduction:
 page_title: La Haute Savoie
 resort_nameid: haute-savoie
 resort_naming: La Haute Savoie
-title: La Haute Savoie (74) et ses activités outdoor pour la saison d'été
+title: La Haute Savoie (74) et ses activités pour la saison d'été
 permalink: "/fr/ete/destination/haute-savoie"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643015412/website/summer/clemence-bergougnoux-zLIrNgNzPYs-unsplash_tk4orw.jpg
 image01_alt: Vue panorama d'un randonneur en montagne devant un lac, des montagnes
@@ -39,6 +39,11 @@ page_sections:
     aux activités nautiques, la superbe ville d’Annecy, surnommée la Venise des Alpes
     ou encore les délicieuses spécialités savoyardes, autant d’atouts qui font de
     la Haute-Savoie une destination privilégiée.
+  alt_text_for_image: Vue d'une falaise au lever de soleil avec un lac devant en montagne
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Les activités en Haute Savoie
   content: "Vous ne pourrez vous ennuyer en Haute-Savoie. Ce département est un paradis
@@ -68,6 +73,11 @@ page_sections:
     qui offriront des pistes parfaites pour tous les niveaux. Partez également grimper
     des voies dans des lieux uniques. Vous trouverez un panel de lieu parfait pour
     pratiquer l'escalade.
+  alt_text_for_image: Vue du col de la Forclaz du lac d'Annecy
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Mais encore
   content: "Ce n'est pas tout ! Les autres activités en Haute-Savoie sont encore nombreuses,
@@ -80,5 +90,6 @@ page_sections:
     à faire dans le massif du Mont-Blanc.\n\nN'attendez plus et venez profiter d'un
     séjour unique dans le département de la Haute-Savoie et vivez des expériences
     et de nouvelles aventures avec Ze Hero."
+baseline: Lacs et montagnes
 
 ---
