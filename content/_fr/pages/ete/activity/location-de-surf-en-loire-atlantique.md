@@ -36,6 +36,14 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  title: Location de surf pour tout le monde
+  content: "Les vendeurs et les gérants des shops et des écoles seront là pour vous
+    conseiller sur la location de votre matériel.  \nVous trouverez en Loire Atlantique,
+    de la location pour les enfants, les débutants, les confirmés et les experts.
+    \ \nLa location de surf peut se faire avec différentes formules :\n\n* Location
+    de surf par heure \n* Location de surf demi-journée ou journée\n* Location de
+    surf pour plusieurs jours ou la semaine entière"
 published: false
 
 ---
