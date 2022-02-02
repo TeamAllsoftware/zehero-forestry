@@ -18,6 +18,7 @@ page_sections:
     Avant le départ à Madère, la saison avait été vraiment superbe. Je savais que c’était la dernière de l’année, mais aussi mon dernier petit ultra avant un moment, car je serais Papa en mai. Un nouvel Ultra où les nuits peuvent être longues, les ravitos courts, mais le chemin y est unique, magnifique, un partage en duo pour la vie.
 
     Madère serait la ‘der, elle avait donc un goût particulier.
+  alt_text_for_image: Chemin de randonnée au Pico à Madère
 - template: textarea
   content: |-
     D’ailleurs, j’étais déjà venu en 2018 sur ce même format. C’étaient mes débuts sur les trails longs et finalement je ne m’en étais pas si mal sorti. J'ai pu finir 11 ème en 10h58. J’avais adoré cette course, ces paysages, ces chemins, sa difficulté. C’est une île incroyable avec des fleurs magnifiques, des forêts d’eucalyptus, ces Pico vertigineux. Un petit paradis qui traumatise bien les cuisses.
@@ -43,11 +44,15 @@ page_sections:
     mieux. Je ne voulais plus réfléchir sur mon état, ni penser à si j’étais prêt.
     Je pensais seulement à vivre le moment présent et faire ce que je peux faire,
     le reste sera du bonus.
+  alt_text_for_image: Coureur se prenant un photo en courant à Madère avec une tenue
+    de la marque Instinct Trail
 - template: 3coltxtimgtxt
   captionleftcontent: Dossard 2006
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1639663459/website/blog/Mad%C3%A8re/IMG20211119104338_tf7ymf.jpg
   captionrighttitle: Je suis annoncé parmi les favoris de cette course
   captionrightcontent: 'Légère pression '
+  center_alt_text_for_image: Vue d'un dossard de Trail du MIUT pris devant la mer
+    à Machico
 - template: textarea
   content: |-
     Le réveil sonne à 4h, je suis en pleine forme. Enfin, je suis en forme, je suis surpris, car même si je suis du matin, à 4h normalement on n’est jamais d’attaque et à 200%. Un taxi me récupère et m’amène au départ des bus pour se rendre à Sao Vicente. Le trajet se passe en musique et je rêve de la course, je me plonge dans le profil du parcours. Je suis un rêveur et je vis ma course avant même d’avoir épinglé le dossard.
@@ -72,6 +77,8 @@ page_sections:
     Je me retrouve alors 6ᵉ et je ne suis même pas le rythme des personnes du 115km. La douleur est vraiment présente, je n’ai jamais eu de telles crampes et un mal de dos pareil.
 
     Comment gérer cette situation ?
+  alt_text_for_image: Vue des collines et des montagnes avec la mer au loin dans la
+    nature sur l'île de Madère
 - template: textarea
   title: Abandonner
   content: |-
@@ -101,7 +108,8 @@ page_sections:
     aucun plaisir à continuer, que je m’entraîne car j’aime le trail mais que j’aime
     faire des performances et des compétitions également. Je n’aimais pas cet échec
     mais je le comprenais et il était justifiable.
-  captiontitleuppercase: La decision
+  captiontitleuppercase: La décision
+  alt_text_for_image: Vue panoramique de colline, de forêt et de la mer à Madère
 - template: 3coltxtimgtxt
   captionleftcontent: C’était un jour sans, mais prendre la décision d’abandonner
     ce n’est pas subir, c’est décider d'arrêter et ça fait partie du trail et de l’apprentissage.
@@ -110,6 +118,8 @@ page_sections:
     corps ne voulait plus, ma tête également. '
   captionrightcontent: L’ultra trail, c’est parfois des moments désagréables et il
     faut serrer les dents.
+  center_alt_text_for_image: Personne se prenant en photo lors d'un trail à Madère
+    et qui mange une barre Clifbar
 - template: textarea
   title: Un long retour
   content: |-
@@ -129,6 +139,7 @@ page_sections:
     2022. '
   captionrightcontent: Je suis loin d’être le plus fort, mais je suis prêt à devenir
     meilleur.
+  center_alt_text_for_image: Aile d'une avion au dessus des nuages
 tags:
 - entraînement
 - compétition
