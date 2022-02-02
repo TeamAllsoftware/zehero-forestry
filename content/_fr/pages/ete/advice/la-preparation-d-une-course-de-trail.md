@@ -54,6 +54,11 @@ page_sections:
     semaine. Cela permet de bien récupérer et de pouvoir commencer à progresser et
     à vous améliorer. Essayer de mettre l'entraînement 3 de chaque semaine plutôt
     le week-end afin d'avoir le temps.
+  alt_text_for_image: Coureur de dos courant sur un chemin en forêt
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     1. Footing 45mn
@@ -113,6 +118,11 @@ page_sections:
     dos, le cou et les bras. Toutefois, ne faîtes pas d’étirements après une séance
     intense en course à pied car on risque d’abîmer le muscles puisque l’on a tiré
     et cassé ses fibres musculaires.
+  alt_text_for_image: Coureur de dos en train de s'étirer la cuisse sur un pont
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: L’alimentation pour préparer une course de Trail
   content: "En ce qui concerne l’alimentation, ne changez pas vos habitudes 1 semaine
@@ -140,6 +150,11 @@ page_sections:
     d’avoir des crampes. Prenez le matériel obligatoire que la course demande et ayez
     bien 2 flasques d’eau de 500ml ainsi que de quoi manger pendant la course. Mettez
     les aliments dans des endroits faciles à prendre.
+  alt_text_for_image: Coureur de trail courant lors d'une course à pied dans une descente
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Le départ
   content: Ne partez pas trop vite et ne vous faites pas embarquer par l’effet aspirateur
@@ -162,9 +177,9 @@ page_sections:
     vos flasques pendant les ravitaillements et de vous alimenter un peu.\n\nLors
     de vos entraînements en sortie longue, vous avez pu constater votre vitesse. Cela
     vous aidera à prévoir environ votre temps pour votre course."
-
 redirect_from:
-  - /fr/preparation-course-trail/
-  - /fr/coaching-trail/coaching-trail-antibes/
-  - /fr/coaching-trail/
+- "/fr/preparation-course-trail/"
+- "/fr/coaching-trail/coaching-trail-antibes/"
+- "/fr/coaching-trail/"
+
 ---
