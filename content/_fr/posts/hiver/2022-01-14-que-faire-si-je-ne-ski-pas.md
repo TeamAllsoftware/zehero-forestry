@@ -29,6 +29,7 @@ page_sections:
     aime la nature, les paysages blanc, l''air frais il y a bon nombre d''activité.
     Si le temps ne permet pas d''être dehors, certaines stations offres des infrastructures
     permettant de ne jamais s''ennuyer et de toujours profiter. '
+  alt_text_for_image: Des chiens de traineau courant dans la neige
 - template: textarea
   title: Les activités de plein air
   content: |-
@@ -58,6 +59,7 @@ page_sections:
     * Snake glisse pour rigoler sur les pistes en luge
     * Le chien de traineau pour des moments inoubliables
     * Pour les enfants, ils existent beaucoup d'activités amusantes que la station et les activités proposent
+  alt_text_for_image: Femme marchand sur la neige en tirant son enfant dans une luge
 - template: textarea
   title: Pour les plus sportifs
   content: |-

@@ -34,6 +34,7 @@ page_sections:
     et ensuite vous avez les zones Stach et LilStach pour les débutants. Avoriaz est
     une station de freestyleurs et surtout en snowboard. De vrais passionnés vont
     s''occuper des parks afin que vous puissiez profiter de lignes parfaites.'
+  alt_text_for_image: Snowboardeur faisant une figure sur une barre de slide
 - template: textarea
   content: |-
     On retrouve ensuite Les 2 Alpes, qui été comme hiver offrent un park incroyable. On y retrouve énormément de modules différents pour tous les niveaux et les pratiques. Il y a plusieurs zones différentes pour varier les plaisirs ainsi qu'une zone dédiée au freestyle pour les enfants.
@@ -55,6 +56,7 @@ page_sections:
     coûte cher à l'entretien à la station. De ce fait, beaucoup ont disparu et cela
     est bien triste car c'est une discipline olympique et incroyable. Heureusement,
     en France quelques stations ont réussi à garder et à entretenir leur Half-Pipe.
+  alt_text_for_image: Snowboardeuse en snowboard dans un Half-pipe lors d'une compétition
 - template: liststyle01
   title: Les stations comportant un half-pipe
   item:

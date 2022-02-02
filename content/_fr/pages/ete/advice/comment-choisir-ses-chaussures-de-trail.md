@@ -52,6 +52,11 @@ page_sections:
     avec un grip prononcé donc des crampons importants afin d’accrocher au maximum
     le terrain. Gardez également un bon maintien du pied pour ne pas avoir de mauvaise
     surprise sur les passages techniques.
+  alt_text_for_image: Vue de chaussures de trail New Balance et des montagne en altitude
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: |-
     Si vous courez un terrain plutôt forêt, sec et polyvalent, une chaussure plus souple sera idéale. Il ne sera pas nécessaire d’avoir des crampons importants dessus. Afin de garder le maximum d’efficacité, prenez donc une chaussure plutôt légère et souple. Si vous courez dans la neige, il faudra surtout chercher une chaussure avec des crampons beaucoup plus grands, plutôt imperméables accompagnés de guêtres.
@@ -71,6 +76,11 @@ page_sections:
     Pour des courses de moyenne distance, on va chercher une chaussure plutôt polyvalente.
     Pour les Ultra-Trails on va surtout privilégier une chaussure avec beaucoup de
     maintien et de protection, mais aussi une chaussure robuste
+  alt_text_for_image: Vue des chaussures de trail et de course à en pied en montagne
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Le niveau
   content: |-
@@ -100,6 +110,11 @@ page_sections:
     dans l’eau. En effet, une fois l’eau dans la chaussure, elle ne pourra pas s’évacuer
     correctement. Il est important d’avoir une chaussure très respirante pour évacuer
     l’eau et la transpiration.
+  alt_text_for_image: Vue d'une chaussure tenue dans la main, marque la Sportiva
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   content: Le pied peut gonfler pendant la course, c’est aussi pour cela qu’il est
     parfois important de prendre une demi à une pointure au-dessus. Mais il est important
@@ -117,7 +132,7 @@ page_sections:
     de foulée en regardant l’usure de vos chaussures.  \nCertaines marques proposent
     des modèles adaptés pour ces différents types de foulées."
   title: Supination/Neutre/Pronation
-
 redirect_from:
-  - /fr/chaussures-trail/
+- "/fr/chaussures-trail/"
+
 ---

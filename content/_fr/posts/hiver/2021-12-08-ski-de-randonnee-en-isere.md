@@ -22,6 +22,7 @@ page_sections:
     le massif de l’Oisans, du Valbonnais et de Vercors. C’est un département très
     touristique, notamment l’hiver.
   captiontitleuppercase: L’Isère
+  alt_text_for_image: Groupe de personnes faisant du ski de randonnée en montagne
 - template: textarea
   textarea: |-
     ## L'Isère
@@ -47,6 +48,8 @@ page_sections:
   captionrighttitle: 'Vive l''Isère et la Savoie pour la diversité incroyable de paysages. '
   captionrightcontent: Mais tout cela n'est rien sans les savoyards qui sont toujours
     la pour donner un coup demain.
+  center_alt_text_for_image: Groupe de skieurs marchand sur la neige en montagne en
+    portant leurs skis sur les épaules
 - template: textarea
   textarea: |-
     ### Top 5 des stations pour pratiquer une activité physique autre que le ski alpin ou le snowboard
@@ -203,4 +206,5 @@ tags:
 - ski de randonnée
 - entre amis
 - ballade
+
 ---

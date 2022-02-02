@@ -35,6 +35,7 @@ page_sections:
     sur la crète Sud du Cheval Noir. Avant cela, il fallait traverser une longue partie.
     Je faisais quelques photos et laissais donc une marge de distance avec mon père
     devant moi.  \nCe bruit, je m'en rappellerais pour toujours."
+  alt_text_for_image: Un skieur en ski de randonnée montant à travers une face à Valmorel
 - template: textarea
   content: |-
     Entendre le bruit d'une plaque qui part, c'est un bruit grave et lourd, comme un coup de tonnerre mais dans la montagne. C'était assez irréel comme moment et jamais on n'aurait pu penser qu'une plaque parte à cet endroit.
@@ -55,6 +56,7 @@ page_sections:
     J'avais eu peur et cela aurait pu mal finir. Il a décidé de continuer à grimper
     et de finir cette ascension. Il savait que si on s'était arrêté là, j'aurai sûrement
     eu toute ma vie peur de remettre les pieds en hors-piste.
+  alt_text_for_image: Un skieur de randonnée debout à coté d'une avalanche à Valmorel
 - template: textarea
   content: "Je n'étais pas serein, je n'avais pas encore une grande expérience dans
     le hors-piste. Je connaissais les gestes importants à faire, la sécurité, mais
@@ -72,6 +74,8 @@ page_sections:
     gelée au départ puis on a pu faire quelques virages parfaits dans une neige fraîche.
     La descente était un petit régal mais je sentais que je n'avais plus beaucoup
     de force et que le stress avait pris toutes mes calories.
+  alt_text_for_image: Une personne grimpant à quatre pattes la montagne avec ses skis
+    de randonnée dans le dos à Valmorel
 - template: textarea
   content: |-
     J'ai su plus tard, que mon père avait pris sur lui et il avait eu un contrecoup de cette expérience avec moi. Il a su se gérer et continuer consciemment et prudemment cette fin de montée. Il le faisait pour moi comme pour lui, afin de surpasser la peur que l'on venait de vivre.
@@ -85,6 +89,8 @@ page_sections:
   content: Une expérience riche en émotions. J'ai laissé ma trace en ski, la montagne
     a laissé sa trace dans mon esprit. Aujourd'hui, j'aime encore plus fouler les
     pentes hors-pistes, mais je reste maintenant plus vigilent.
+  alt_text_for_image: Vue du sommet du Cheval noir des montagnes et de leurs sommets
+    enneigés
 tags:
 - ballade
 - en famille
