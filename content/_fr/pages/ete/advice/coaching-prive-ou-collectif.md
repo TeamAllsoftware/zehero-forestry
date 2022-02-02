@@ -34,6 +34,8 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Un coach sportif encadrant une personne en coaching sportif
+    soulevant un poid
 - template: textarea
   title: Quelques conseils
   content: |-
@@ -62,6 +64,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Femme sautant en levant le genoux en coaching sportif
 - template: textarea
   content: |-
     Quel que soit votre ou vos objectifs, le coach sera là pour vous y emmener, vous accompagner. De plus, il amène le matériel adéquat pour chaque séance. En plus de son expertise professionnelle, il sera motivant pour vos séances. Il apportera également ses connaissances complémentaires sur la nutrition, la récupération…
@@ -82,6 +85,8 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Groupe de personne faisant du sport lors d'un cours de coaching
+    sportif
 - template: textarea
   content: Lors d'une séance de coaching en groupe, généralement les thèmes de séances
     seront alors imposées par le coach. Vous participerez à des entraînements de groupe

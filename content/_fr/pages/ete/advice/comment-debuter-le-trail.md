@@ -38,6 +38,11 @@ page_sections:
     d’améliorer la proprioception dans des terrains plus techniques. Lors des montées,
     il est important que vous commenciez par marché. En trail, vous marcherez beaucoup
     en montée, votre corps doit s’habituer à cet effort difficile.
+  alt_text_for_image: Coureur de trail de dos grimpant une montagne
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: numberinfo
   counter: "2"
   text_refers_to_counter: 'séances par semaine '
@@ -60,6 +65,11 @@ page_sections:
     des formats courts. L’idéal est donc de marcher de manière rapide en montée et
     de courir sur le plat et en descente. Le but est d’essayer de garder sa fréquence
     cardiaque plutôt basse.
+  alt_text_for_image: Coureur de dos en trail running sur un chemin 4*4 en montagne
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: numberinfo
   counter: "1"
   text_refers_to_counter: 'sortie avec du D+    '
@@ -116,12 +126,18 @@ page_sections:
     à manger. Débuter le trail et manger directement des gels peut être un peu désagréable.
     Vous pouvez vous alimenter toutes les 30mn à 1h afin de garder un taux d’énergie
     idéal.
-
+  alt_text_for_image: Deux coureurs de trail grimpant une montée en neige dans le
+    massif de la Lozière
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 redirect_from:
-  - /fr/comment-debuter-le-trail/
-  - /fr/trail-progresser-montee-descente/ 
-  - /fr/faire-du-fractionne-en-trail/
-  - /fr/course-trail/
-  - /fr/sortie-trail-groupe/
-  - /fr/trail-groupe-antibes/
+- "/fr/comment-debuter-le-trail/"
+- "/fr/trail-progresser-montee-descente/"
+- "/fr/faire-du-fractionne-en-trail/"
+- "/fr/course-trail/"
+- "/fr/sortie-trail-groupe/"
+- "/fr/trail-groupe-antibes/"
+
 ---
