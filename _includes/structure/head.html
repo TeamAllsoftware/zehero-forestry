@@ -134,10 +134,10 @@
         <!-- end Facebook PIXEL -->
         {% endif %}
 
-        {% if jekyll.environment == 'development' %}
-        <!-- <meta name='robots' content='noindex,nofollow' /> -->
+        {% if jekyll.environment == 'development' OR page.noindex == true %}
+        <meta name='robots' content='noindex,nofollow' />
         {% endif %}
-
+        
     </head>
     <body data-mobile-nav-style="classic">
         <!-- start header -->
