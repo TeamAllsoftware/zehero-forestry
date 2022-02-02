@@ -41,6 +41,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Coureur courant sur le goudron en ville
 - template: textarea
   title: Les différents types d’entraînements en fractionné
   content: "On retrouve : le court, la VMA en moyenne et longue, le seuil, le Fartleck.\n\nCes
@@ -94,5 +95,6 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  alt_text_for_image: Coureur de trail courant en montagne sur un petit chemin
 
 ---
