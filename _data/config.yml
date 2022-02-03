@@ -30,11 +30,11 @@ fr:
   season:
     winter: 
       name: hiver
-      icon: icon-feather-cloud-snow
+      icon: feather icon-feather-toggle-right icon-extra-medium
       icon-link-title: Lien vers la saison d'hiver
     summer: 
       name: ete
-      icon: icon-feather-sun
+      icon: feather icon-feather-toggle-left icon-extra-medium
       icon-link-title: Lien vers la saison d'été
   newsletter:
     privacy: Nous nous engageons à protéger votre vie privée. Nous ne collecterons jamais d'informations vous concernant sans votre consentement explicite.

@@ -75,16 +75,6 @@ menu:
   column-01:
   - nested: Les stations de montagne
     menu-items:
-    - title: Alpe d'Huez
-      href: "/fr/ete/destination/alpe-d-huez"
-    - title: Val-Thorens
-      href: "/fr/ete/destination/val-thorens"
-    - title: Les Ménuires
-      href: "/fr/ete/destination/les-menuires"
-    - title: Tignes
-      href: "/fr/ete/destination/tignes"
-    - title: Val d'Isère
-      href: "/fr/ete/destination/val-d-isere"
     - title: Méribel
       href: "/fr/ete/destination/meribel"
   column-02:
