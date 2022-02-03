@@ -45,6 +45,19 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  content: "On va retrouver alors différents types de Yoga pour différentes pratiques
+    et selon les personnes.\n\n* Hatha Yoga qui est le Yoga classique où l'on va chercher
+    des postures d'étirements en se relaxant par la respiration et la méditation.\n*
+    L’Ashtanga Yoga qui consiste à enchainer 8 postures qui seront plus complexes.
+    Vous enchainerez des positions dynamique et calme. C'est une pratique qui demande
+    de la patiente et qui est exigeante.\n* Vinyasa Yoga est la pratique de la maitrise
+    de la respiration. Vous enchainerez des postures dynamiques en les coordonnant
+    avec la respiration. \n* Kindalini Yoga est le yoga originel. Cette pratique est
+    plus spéritutel car elles y introduit des cérémonies, des chants.\n* Power Yoga
+    est une pratique du Yoga plus moderne. Toutes les postures vont s'enchainer rapidement
+    et vont demander une certaines aisance. "
+  title: ''
 published: false
 
 ---
