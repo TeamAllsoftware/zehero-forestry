@@ -61,7 +61,10 @@ page_sections:
     combinaison intégrale
   captiontitleuppercase: La location de combinaison
   title: Louer votre combinaison de surf en Loire Atlantique
-  content: f
+  content: "Vous pourrez également louer votre combinaison de surf. En fonction de
+    la température de l'eau, vous pourrez choisir une combinaison courte (shorty)
+    ou une combinaison longue. Parfois certaines auront plus d'épaisseur pour tenir
+    plus chaud. \n\nVous pourrez alors les louer à l'heure, à la journée ou à la semaine."
   button:
     text_button: ''
     href_button: ''
