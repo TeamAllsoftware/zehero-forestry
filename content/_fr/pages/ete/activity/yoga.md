@@ -23,6 +23,41 @@ page_sections:
     respiration. Aujourd''hui vous pouvez trouver des séances de Yoga qui vont se
     dérouler dans des cadres idyllique tel qu''à la mer, en montagne, en forêt afin
     de vous plonger dans un moment de plénitude. '
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643877189/website/summer/amauri-mejia-n5trbdfW7fM-unsplash_cdxg7l.jpg
+  alt_text_for_image: Personne faisant du Yoga dans une forêt faisant un étirement
+    sur une jambe debout en levant les bras
+  captiontitleuppercase: Du Yoga mais lesquels ?
+  title: Les différents types de Yoga
+  content: "Il existe plusieurs type de Yoga, mais voyons tout d'abord en quoi consiste
+    le Yoga.  \nLe Yoga va commencer avec les postures physiques. Des postures d'étirement
+    où l'on va étirer les muscules, le corps, les articulations. Mais l'on va également
+    se muscler en profondeur, travailler son équilibre en douceur tout en améliorant
+    son système cardiaque.  \nLors de la réalisations des postures, on va alors travailler
+    sa respiration. Il est très important de savoir correctement respirer, car vous
+    allez pouvoir détendre vos muscles, votre corps et votre esprit. Cela va aussi
+    permettre de muscler votre cage thoracique et de fortifier vos poumons.  \nEnsuite,
+    il y a la concentration, la méditation ou encore le lâcher prise. Ne pas penser
+    parait simple mais il est parfois complexe de faire abstractions de toutes les
+    choses qui trottent dans notre tête. Le Yoga vous permet d'accéder à ce moment
+    où seul votre posture et vos sensations à l'instant t compte."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  content: "On va retrouver alors différents types de Yoga pour différentes pratiques
+    et selon les personnes.\n\n* Hatha Yoga qui est le Yoga classique où l'on va chercher
+    des postures d'étirements en se relaxant par la respiration et la méditation.\n*
+    L’Ashtanga Yoga qui consiste à enchainer 8 postures qui seront plus complexes.
+    Vous enchainerez des positions dynamique et calme. C'est une pratique qui demande
+    de la patiente et qui est exigeante.\n* Vinyasa Yoga est la pratique de la maitrise
+    de la respiration. Vous enchainerez des postures dynamiques en les coordonnant
+    avec la respiration. \n* Kindalini Yoga est le yoga originel. Cette pratique est
+    plus spéritutel car elles y introduit des cérémonies, des chants.\n* Power Yoga
+    est une pratique du Yoga plus moderne. Toutes les postures vont s'enchainer rapidement
+    et vont demander une certaines aisance. "
+  title: ''
 published: false
 
 ---
