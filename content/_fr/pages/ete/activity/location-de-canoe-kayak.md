@@ -4,7 +4,7 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Location de Canoë / Kayak
-permalink: "/fr/ete/activite/location-canoe-kayak"
+permalink: "/fr/ete/conseil/location-canoe-kayak"
 description: Voici nos conseils pour la location de Canoë Kayak afin de connaitre
   les différentes critères  et savoir comment les louer.
 baseline: Location de Canoë Kayak
@@ -50,6 +50,49 @@ page_sections:
 
     En général, on estime que la pagaie doit arriver sous le menton, moins la hauteur du poing (10 cm en moyenne).
   title: 'Pagaies '
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588329/website/summer/drew-dau-zMSkCFHSXTU-unsplash_tbki8m.jpg
+  alt_text_for_image: Plusieurs kayaks posés sur le sol pour la location
+  captiontitleuppercase: Comment choisir son Kayak ?
+  title: Le choix du nombre de places
+  content: |-
+    Le kayak est un sport qui peut se pratiquer **seul** ou **à plusieurs**. Suivant la sortie kayak que vous envisagez et votre pratique habituelle, il conviendra en premier lieu de sélectionner la capacité d’accueil de votre embarcation.
+
+    Il existe des kayaks 1 place pour ceux préférant naviguer seul. Vous trouverez également des kayaks 2 places, des kayaks 3 places et des kayaks 4 places, qui conviendront parfaitement à ceux qui préfèrent la navigation à plusieurs, souvent plus rassurantes également. Si vous avez des enfants en bas âge par exemple, il est préférable d’opter pour un kayak à plusieurs places par soucis de sécurité.
+
+    Kayak : rigide, gonflable ou pliant ?
+
+    Autre critère de sélection, le type de kayak que vous allez choisir. Sur le marché, vous trouverez des kayaks rigides, des kayaks gonflables et des kayaks pliants. Chacun de ces kayaks possède naturellement ses qualités et ses inconvénients, mais c’est surtout votre utilisation qui va déterminer le type de kayak à favoriser.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  title: Kayak rigide
+  content: Depuis des millénaires, les hommes utilisent des kayaks rigides pour se
+    déplacer, pêcher ou voyager. De nos jours encore, ces embarcations sont les plus
+    performantes sur l’eau, elles permettent de stocker une quantité importante de
+    matériel et de faire face à des conditions difficiles, notamment en mer. Un kayak
+    rigide est robuste mais est, de fait, plus difficile à transporter et à stocker
+    car il est encombrant.
+- template: textarea
+  title: Quel Kayak choisir en fonction de votre utilisation ?
+  content: |-
+    ##### Kayak d’eaux vives
+
+    Plus petit et plus court que le kayak de mer, le kayak d’eaux vives est pensé pour vous permettre d’évoluer dans des rivières et dans les torrents les plus fougueux. Ils peuvent parfois être très trapus, s’il s’agit de descendre des eaux très tumultueuses. Un kayak dédié aux aventurières et explorateurs en quête d’adrénaline !
+
+    ##### Kayak de course
+
+    Restons dans la vitesse avec le kayak de course. Sa forme très étroite et son profil en V le rendent idéal pour fendre l’eau et donc gagner en vitesse. Ils sont naturellement plus instables qu’un kayak de mer et se dirigent grâce à un gouvernail actionné avec les pieds. Le kayak de course est parfaitement adapté à la compétition et est plutôt réservé aux kayakistes chevronnés.
+
+    ##### Kayak de pêche
+
+    Avec un kayak de pêche, votre priorité ne sera pas la vitesse, mais bien la stabilité. Assez court mais large, ce type de kayak est souvent paré de couleurs “camouflage”, idéales pour avancer discrètement dans des milieux naturels. Vous pourrez vous tenir debout sur certains, alors que d’autres disposent d’un système de propulsion au niveau des pieds, ce qui vous permet de pêcher tout en avançant.
+
+    ##### Kayak de mer
+
+    Court ou long, le kayak de mer doit pouvoir résister au vent et à une mer formée. La stabilité est donc primordiale, tout comme le confort et la réactivité du kayak, vous permettant de ne pas vous épuiser inutilement. Le kayak de mer est généralement plus long que ses cousins pour garder le cap durant sa randonnée en kayak. Evitez à tout prix des coques plates qui ne manqueront pas de vous renverser en cas de mer formée ! Préférez des coques rondes ou en V, pour une meilleure stabilité en cas de vagues importantes. Equipé d’une dérive pour conserver sa trajectoire, le kayak de mer doit absolument répondre aux spécifications de la division D240.
 published: false
 
 ---
