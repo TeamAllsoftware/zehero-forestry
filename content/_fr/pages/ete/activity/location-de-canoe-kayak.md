@@ -78,20 +78,60 @@ page_sections:
 - template: textarea
   title: Quel Kayak choisir en fonction de votre utilisation ?
   content: |-
-    ##### Kayak d’eaux vives
+    ###### Kayak d’eaux vives
 
     Plus petit et plus court que le kayak de mer, le kayak d’eaux vives est pensé pour vous permettre d’évoluer dans des rivières et dans les torrents les plus fougueux. Ils peuvent parfois être très trapus, s’il s’agit de descendre des eaux très tumultueuses. Un kayak dédié aux aventurières et explorateurs en quête d’adrénaline !
 
-    ##### Kayak de course
+    ###### Kayak de course
 
     Restons dans la vitesse avec le kayak de course. Sa forme très étroite et son profil en V le rendent idéal pour fendre l’eau et donc gagner en vitesse. Ils sont naturellement plus instables qu’un kayak de mer et se dirigent grâce à un gouvernail actionné avec les pieds. Le kayak de course est parfaitement adapté à la compétition et est plutôt réservé aux kayakistes chevronnés.
 
-    ##### Kayak de pêche
+    ###### Kayak de pêche
 
     Avec un kayak de pêche, votre priorité ne sera pas la vitesse, mais bien la stabilité. Assez court mais large, ce type de kayak est souvent paré de couleurs “camouflage”, idéales pour avancer discrètement dans des milieux naturels. Vous pourrez vous tenir debout sur certains, alors que d’autres disposent d’un système de propulsion au niveau des pieds, ce qui vous permet de pêcher tout en avançant.
 
-    ##### Kayak de mer
+    ###### Kayak de mer
 
     Court ou long, le kayak de mer doit pouvoir résister au vent et à une mer formée. La stabilité est donc primordiale, tout comme le confort et la réactivité du kayak, vous permettant de ne pas vous épuiser inutilement. Le kayak de mer est généralement plus long que ses cousins pour garder le cap durant sa randonnée en kayak. Evitez à tout prix des coques plates qui ne manqueront pas de vous renverser en cas de mer formée ! Préférez des coques rondes ou en V, pour une meilleure stabilité en cas de vagues importantes. Equipé d’une dérive pour conserver sa trajectoire, le kayak de mer doit absolument répondre aux spécifications de la division D240.
+
+    ###### Kayak sit-on-top
+
+    Terminons ce petit tour d’horizon des différents kayaks avec le plus fameux d’entre eux, à savoir le kayak sit-on-top. Le sit-on-top, littéralement “assis dessus”, est insubmersible car il est conçu autour d’une double coque. Non ponté, il est particulièrement adapté aux débutants et aux personnes souhaitant réaliser des courtes randonnées en bord de plage. Vous serez à l’aise sur ce type de kayak ouvert, toutefois vous ne pourrez pas l’utiliser pour de longues expéditions.
+
+    En général, on estime que la pagaie doit arriver sous le menton, moins la hauteur du poing (10 cm en moyenne).
+
+    ###### Kayak gonflable
+
+    Le kayak gonflable est une alternative intéressante au kayak rigide et il convient à de très nombreuses utilisations. Les fabricants rivalisent d’ingéniosité afin de proposer des kayaks gonflables durables, **résistants** et surtout **pratiques**. En effet, les principales qualités d’un kayak gonflable sont son encombrement minime et sa simplicité d’utilisation.
+
+    Il se gonfle rapidement et se range dans un sac généralement porté sur le dos, il est **léger** mais solide car il est gonflé sous haute pression. Certains modèles de kayaks gonflables disposent même de technologies améliorant leur rigidité. Le kayak gonflable est l’**embarcation familiale** par excellence, il vous permettra de vous divertir en toute sécurité dans des **eaux calmes**. Cependant, il n’est pas le plus adapté au grand large et offre un volume de chargement réduit.
+
+    ###### Kayak pliant
+
+    Un kayak pliant, enfin, peut représenter un bon compromis entre **robustesse** et **praticité**. Comme son nom l’indique, il s’agit d’un kayak démontable constitué d’une structure recouverte d’une toile. Plus long à monter qu’un kayak gonflable, il permet néanmoins d’obtenir un niveau de rigidité tout à fait satisfaisant et des performances exceptionnelles. Il se range facilement dans une valise une fois plié.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588327/website/summer/art-rachen-aKqJCZSP4t4-unsplash_b1obn5.jpg
+  alt_text_for_image: Vue d'une personne dans un kayak sur la mer
+  title: 'Kayak : le choix de la forme'
+  captiontitleuppercase: Les différentes formes de Kayak
+  content: "Il existe de nombreuses formes de kayak et, une fois encore, le choix
+    dépend de l’utilisation que vous ferez de votre embarcation. Vous trouverez des
+    **coques rondes**, **plates** ou plus **en V** de longueurs différentes. Ce que
+    vous perdrez en vitesse, vous le gagnerez en stabilité. L’inverse est tout aussi
+    vrai !\n\nSi vous débutez le kayak, mieux vaut préférer louer un modèle polyvalent,
+    large et plat, qui sera adapté à différentes situations et qui vous permettra
+    de progresser rapidement.\n\nDe plus, votre fidèle kayak doit être adapté à votre
+    morphologie et à votre carrure. Si vous faites partie de ces grandes personnes
+    qui ne savent pas où ranger leurs jambes, mieux vaut ne pas jeter votre dévolu
+    sur un kayak étroit !\n\nPensez aussi à la taille de l’hiloire, le trou où vous
+    serez assis pendant la durée de votre escapade maritime. Les grands hiloires sont
+    pratiques, alors que les plus petits vous protègent efficacement du froid et permettent
+    de ne pas embarquer trop d’eau à l’intérieur du kayak.  \nIl est indispensable
+    que vous vous sentiez bien dans votre kayak, d’autant plus si vous prévoyez de
+    louer un kayak pour des longues **randonnées**."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
