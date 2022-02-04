@@ -39,11 +39,12 @@ page_sections:
   alt_text_for_image: Deux personnes faisant du paddle arrivant sur une plage
   captiontitleuppercase: Les Alpes Maritimes, paradis naturel
   title: Le paddle dans les Alpes Maritimes
-  content: Les Alpes Maritimes est un département qui regorge de lieux idéal pour
-    la pratique du Paddle. C'est un paradis pour tous les amoureux de la nature, d'explorer
-    des lieux au paysages uniques. Le 06 offre une diversification incroyable de nature,
-    de végétation. Entre la mer et la montagne, mais aussi les lacs, vous trouverez
-    des excursions incroyables, des randonnées pour tout le monde à faire en paddle.
+  content: |-
+    Les Alpes Maritimes est un département qui regorge de lieux idéal pour la pratique du Paddle. C'est un paradis pour tous les amoureux de la nature, d'explorer des lieux au paysages uniques. Le 06 offre une diversification incroyable de nature, de végétation. Entre la mer et la montagne, mais aussi les lacs, vous trouverez des excursions incroyables, des randonnées pour tout le monde à faire en paddle.
+
+    Le littoral de la Côte d'Azur offre d'incroyables balades de paddle à faire. Vous trouverez le massif de l'Esterel et sa roche rouge, le cap d'Antibes, le tour de St Jean Cap Ferrat etc. Que ce soit pour des randonnées, pour regarder les poissons plus large ou même faire du yoga, le paddle sur la mer sera un lieu parfait.
+
+    Vous pourrez également faire du paddle sur les lacs. Vous retrouverez le lac de St Cassien qui permet de faire de belle balade à paddle et s'amuser en famille ou entre amis. Sur la Siagne, vous pourrez naviguer également en paddle et profiter du calme.
   button:
     text_button: ''
     href_button: ''
