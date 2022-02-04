@@ -50,6 +50,44 @@ page_sections:
     Les séances de coaching sportif privé à Antibes sont souvent à l’unité, mais certains coachs proposent plusieurs séances telles que des carnets de 10 séances à des prix réduits. Si vous désirez vraiment progresser, avoir un réel impact physique et physiologique, réussir votre défi, il est préférable de prendre plusieurs séances.
 
     Dépassez-vous, soyez le Héro.
+- template: textarea
+  title: Le coaching trail à Antibes
+  content: |-
+    Vous désirez trouver du coaching trail et course à pied à Antibes ?Vous pouvez choisir différentes options pour être coaché à Antibes et vous entraîner en Trail. En fonction de vos objectifs et de vos attentes, vous pourrez vous orienter sur différentes options.
+
+    ###### Les différents types de coaching
+
+    Le **Coaching privé** : Ce sont des séances où le coach sera avec vous tout au long de la séance afin de travailler uniquement avec vous.
+
+    Le **Coaching en groupe** : Ces séances sont motivantes par l’émulsion du groupe et permettent d’avoir plus d’échange, de rencontre. Ce sont généralement des séances à thèmes avec des axes spécifiques à travailler tel que VMA – Seuil – Travail en côte – Proprio – Allures …
+
+    Le **Coaching en ligne** : Le coach prépare votre programme d’entraînement que vous suivez via une application ou google drive. Vous faites un retour de vos séances ensuite afin d’avoir le retour de vos ressentis. C’est le meilleur moyen d’avoir une personne qui vous suit tout au long dans un accompagnement de projet et d’entraînement de trail.
+
+    Antibes n’est pas un lieu où l’on trouve énormément de dénivelé. Il y en a très peu même. Les montées restent courtes, mais on trouve des chemins vallonnés et des parcs. Ce qui est surtout intéressant, c’est qu’à 30 mn de voiture, vous avez les Préalpes d’Azur. À partir de là vous pouvez avoir des montées de plus de 1000D+ avec des sentiers techniques.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111394/website/Conseil%20Equiepement/IMG_20200608_193006_btxb0l.jpg
+  alt_text_for_image: VUe des jmabes et d'une paire de chaussures de trail dans les
+    Alpes Maritimes au sommet de Gourdon
+  captiontitleuppercase: Différents lieux pour effectuer ses séances coaching Trail
+    à Antibes
+  title: Courir à Antibes
+  content: |-
+    * Parc de la Valmasque
+    * Parc de Vaugrenier
+    * Stade du Fort Carré
+    * Bord de mer
+
+    Ces lieux à Antibes sont déjà parfaits pour s’entraîner en trail et en course à pied. Il y a de quoi travailler sa vitesse, son explosivité, faire du travail de Up//Down, du travail en escalier et sur banc…
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  content: |-
+    Vous trouverez plusieurs coachs trail sur Antibes et dans les environs (Alpes-Maritimes 06). Chacun apporte sa propre méthode et sa vision du trail. Il est important alors pour vous de choisir le coach qui vous correspond le mieux par rapport à sa façon de travailler. Son expérience, son expertise, son état d’esprit et sa pédagogie sont importants à connaître. Il est crucial que vous définissiez dès le départ vos désirs, vos objectifs et vos projets afin de savoir avec le coach où aller et surtout comment y aller.
+
+    Entre Mer et Montagne, le terrain de jeux à Antibes est incroyable. Partez à l’assaut des sentiers, trouver votre coach de trail à Antibes afin de progresser et d’atteindre vos objectifs.
+  title: Les coachs trail à Antibes
 published: false
 
 ---
