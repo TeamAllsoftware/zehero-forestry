@@ -88,6 +88,5 @@ page_sections:
 
     Entre Mer et Montagne, le terrain de jeux à Antibes est incroyable. Partez à l’assaut des sentiers, trouver votre coach de trail à Antibes afin de progresser et d’atteindre vos objectifs.
   title: Les coachs trail à Antibes
-published: false
 
 ---
