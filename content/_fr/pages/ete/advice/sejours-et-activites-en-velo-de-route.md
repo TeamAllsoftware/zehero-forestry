@@ -87,6 +87,5 @@ page_sections:
     * **2000 kms et 30.000 m** D+ minimum pour la traversée des Alpes en version Grands Cols
 
     Si vous n’êtes pas sûrs de vous, n’hésitez pas à nous contacter, nous vous conseillerons.
-published: false
 
 ---
