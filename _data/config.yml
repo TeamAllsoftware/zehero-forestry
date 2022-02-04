@@ -4,6 +4,8 @@ zehero_logo_white: https://res.cloudinary.com/deddrj0yb/image/upload/v1641893182
 zehero_logo_brown: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-sans-slogan_7_navyp9.png
 zehero_logo_black: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/website/logo/Sur%20fond%20fonce%CC%81/logo-ze-hero-sans-slogan_9_nj7apy.png
 
+phonenumber: (+33) 4 79 22 35 27
+
 #open graph
 og_url: https://www.ze-hero.com
 
@@ -88,11 +90,16 @@ fr:
       btn_text: Réserver
       btn_href: https://shop.ze-hero.com/achat-occasion/
       btn_href_title: Lien vers la page du e-shop pour réserver vos activités outdoor de l'hiver
+      btn_text02: Contact
+      btn_href_title02: Contactez l'équipe de ZE HERO pour toutes vos questions relatives aux activités outdoor, pour un conseil matériel ou des rensignements sur une offre, une destination ou autre
+      contact-modal-txt01: Nous répondons à toutes vos questions<br> via ce formulaire ou par téléphone au
     summer:
       btn_text: Réserver
       btn_href: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
       btn_href_title: Lien vers la page du e-shop pour réserver vos activités outdoor de l'été
-
+      btn_text02: Contact
+      btn_href_title02: Contactez l'équipe de ZE HERO pour toutes vos questions relatives aux activités outdoor, pour un conseil matériel ou des rensignements sur une offre, une destination ou autre
+      contact-modal-txt01: Nous répondons à toutes vos questions<br> via ce formulaire ou par téléphone au
 en:
   changelang: Navigate this website in english
   footer_baseline: Be the hero of your free time. Feel the intense pride, the feeling of sharing, the personal satisfaction, the fun and the challenge during your outdoor activities
@@ -153,10 +160,14 @@ en:
       btn_text: e-Shop
       btn_href: https://shop.ze-hero.com/achat-occasion/
       btn_href_title: Link to the e-shop page
+      btn_text02: Contact
+      btn_href_title02: Contactez l'équipe de ZE HERO pour toutes vos questions relatives aux activités outdoor, pour un conseil matériel ou des rensignements sur une offre, une destination ou autre
     summer:
       btn_text: e-Shop
       btn_href: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
       btn_href_title: Link to the e-shop page
+      btn_text02: Contact
+      btn_href_title02: Contactez l'équipe de ZE HERO pour toutes vos questions relatives aux activités outdoor, pour un conseil matériel ou des rensignements sur une offre, une destination ou autre
 
 #Image resizing by cloudinary
 #Cloudinary

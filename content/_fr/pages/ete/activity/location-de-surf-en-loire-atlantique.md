@@ -5,22 +5,10 @@ season: summer
 topnav_color_text: dark
 title: Location de Surf en Loire Atlantique
 permalink: "/fr/ete/activite/location-surf-loire-atlantique"
-description: Louer votre matériel de surf en Loire Atlantique. Trouvez votre magasin
-  de location de planche de surf et combinaison.
+description: Louer votre matériel de surf en Loire Atlantique. Trouvez votre magasin de location de planche de surf et combinaison.
 baseline: Location équipement surf
 engage: Trouvez votre magasin de location de surf / Loire Atlantique
-image01_href: 'Que vous soyez débutant ou expert en surf, vous trouverez environ 16
-  magasins de location de surf permettant de louer votre matériel en Loire-Atlantique.
-  Vous trouverez des shops de surf spécialisés ainsi que des écoles de surf qui proposeront,
-  en plus des cours, de la location.  La plupart des shops vont se trouver à St Brévin
-  les Pins, St Nazaire et Pornichet. Ils sont tous situés là où les vagues sont présentes.
-  Cela vous permet alors de faciliter vos démarches, de louer votre surf et de surfer
-  directement ensuite.  Vous trouverez le matériel adéquat à votre niveau. Si vous
-  débutez en surf, vous pourrez louer une planche de surf en mousse. Vous êtes débrouillard
-  et désirez progresser, vous trouverez une planche en époxy ou en mousse qui vous
-  permettra de profiter pleinement des vagues. Vous trouverez différentes planches
-  de surf en fonction de votre niveau, mais également en fonction de ce que vous désirez
-  faire : plutôt longboard, shortboard, malibu, fish...'
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643807238/website/summer/nico-bhlr-QT-l619id6w-unsplash_lxgnzq.jpg
 image01_alt: Plusieurs planches de surf côte à côte
 page_sections:
 - template: textarea
