@@ -93,6 +93,5 @@ page_sections:
     ##### Kayak de mer
 
     Court ou long, le kayak de mer doit pouvoir résister au vent et à une mer formée. La stabilité est donc primordiale, tout comme le confort et la réactivité du kayak, vous permettant de ne pas vous épuiser inutilement. Le kayak de mer est généralement plus long que ses cousins pour garder le cap durant sa randonnée en kayak. Evitez à tout prix des coques plates qui ne manqueront pas de vous renverser en cas de mer formée ! Préférez des coques rondes ou en V, pour une meilleure stabilité en cas de vagues importantes. Equipé d’une dérive pour conserver sa trajectoire, le kayak de mer doit absolument répondre aux spécifications de la division D240.
-published: false
 
 ---
