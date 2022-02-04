@@ -51,14 +51,15 @@ page_sections:
     alt_button: ''
 - template: textarea
   title: La location de paddle dans les Alpes Maritimes
-  content: "Dans les Alpes Maritimes vous trouverez un large choix de shop pour la
+  content: "Dans les Alpes-Maritimes, vous trouverez un large choix de shop pour la
     location de paddle. Sur les plages de littoral vous pourrez facilement louer votre
     paddle pour quelques heures ou pour la journée. Les paddles seront donc rigides
-    et conformes pour aller jusqu'à 300m du bord de mer. Selon la ville ou la station
-    balnéaire dans les Alpes Maritimes où vous vous trouverez, vous trouverez facilement
+    et conformes pour aller jusqu'à 300 m du bord de mer. Selon la ville ou la station
+    balnéaire dans les Alpes-Maritimes où vous vous trouverez, vous trouverez facilement
     un magasin de location de paddle. Sinon vous pouvez directement regarder sur notre
-    Eshop nos différentes locations de paddle dans le 06.   \nPrêt du lacs et des
-    rivières, vous pourrez également louer votre paddle dans des bases nautiques."
+    Eshop nos différentes locations de paddle dans le 06.  \nPrêt du lac de St Cassien
+    et de la rivière \"La Siagne\", vous pourrez également louer votre paddle dans
+    des bases nautiques."
 published: false
 
 ---
