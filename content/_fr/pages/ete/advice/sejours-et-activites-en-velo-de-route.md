@@ -47,6 +47,19 @@ page_sections:
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
     text_button: Réservez
     alt_button: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-de-route-traversee-de-route_onnjic.jpg
+  alt_text_for_image: Cycliste grimpant un col dans les préalpes en vélo de route
+  content: |-
+    Notre stage « Coup de Cœur » : Venez découvrir une version inédite qui contourne nos grands cols alpins sans pour autant que vous y perdiez au change, en effet avec ses 12000m de dénivelé positif, et la traversée de 5 massifs, vous vous émerveillerez des changements de paysages et de belles ascensions telles que le mythique Mont Ventoux.
+
+    Niveau : Intermédiaire - Confirmé
+  title: Traversée des pré-alpes en vélo
+  captiontitleuppercase: 'Une traversée mythique '
+  button:
+    text_button: Réservez
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17211-traversee-des-alpes-en-velo-par-les-cols-mythiques-6-jours-activite-ze-hero
+    alt_button: ''
 published: false
 
 ---
