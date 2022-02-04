@@ -21,6 +21,32 @@ page_sections:
     ​Notre accompagnement et nos parcours organisés vous proposent des **séjours en
     vélo** de route “clé en main” pour rouler en toute tranquillité et sécurité.
   title: Séjours et activité en Vélo de route
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269873/website/M%C3%A9ribel/51382970215_d27314dc26_k_omvvhh.jpg
+  alt_text_for_image: Vélo de route grimpant sur la route en montagne
+  captiontitleuppercase: Stage à la journée aux alentours de Méribel
+  title: Vélo de route à Méribel
+  content: |-
+    Rejoignez-nous à Méribel pour une journée de découverte encadrée et sécurisée, journée où la bonne humeur, le partage et les défis seront au rendez-vous.
+
+    Niveau : Débutant - Intermédiaire
+  button:
+    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+    text_button: 'Résevez '
+    alt_button: ''
+- template: 2colimgtxt
+  captiontitleuppercase: Séjour à travers les cols de la vallée de Méribel
+  content: "Stage de découverte et progression en altitude, venez découvrir nos différentes
+    vallées et lacs entourés de nos belles montagnes, tout en vous mesurant à quelques-uns
+    des plus beaux cols des derniers Tours de France dont notre fameux Col de la Loze.\n\nNiveau
+    : Intermédiaire - Confirmé "
+  title: Stage vélo de route Méribel
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642669650/website/summer/mizzi-westphal-LIdAmXo7eqA-unsplash_c7pfwz.jpg
+  alt_text_for_image: Personne en vélo de route montant une route de montagne
+  button:
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
+    text_button: Réservez
+    alt_button: ''
 published: false
 
 ---
