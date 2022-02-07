@@ -50,6 +50,24 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  title: Les 21 virages légendaires
+  content: |-
+    Si vous aimez le vélo de route, l'Alpe d'Huez est une destination très connu du monde du cyclisme. La fameuse montée de l'Alpe d'Huez et ses 21 virages est une montée mythique. Vous trouverez un grand nombre de parcours de vélo de route à traverser l'Oisans et l'Isère.
+
+    Pour les amoureux des sensations fortes et des balades en montagnes, l'Alpe d'Huez est une station incroyable pour la pratique du VTT. Elle offre de nombreuses piste d'enduro, de x-countries pour les débutants et aussi pour les experts. Des espaces ludiques permettront aux débutants et aux enfants d'apprendre le VTT. Partez également profiter des sentiers en VTT électrique.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644227091/website/resorts/alpe%20d%27huez/louis-derrac-2rUtBFrq-H0-unsplash_xrtuax.jpg
+  alt_text_for_image: Vue de la montagne d'une pente herbeuse avec des fleurs de montagnes
+  captiontitleuppercase: Les autres activités de l'Alpe Huez
+  title: Alpe d'Huez et ses activités
+  content: Vous allez pouvoir profiter de deux via ferrata exceptionnelles dans les
+    gorges de Sarenne. Pour les amateurs de grimpe, l'Alpe d'Huez s'est 150 voies
+    sur la falaise du lac Besson.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
