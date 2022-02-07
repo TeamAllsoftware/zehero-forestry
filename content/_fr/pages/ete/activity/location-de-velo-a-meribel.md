@@ -74,6 +74,5 @@ page_sections:
 
     Si vous séjournez à Méribel, que vous souhaitez découvrir le vélo de route ou le VTT, que vous êtes un amateur, vous trouverez différents magasins de location de vélo de route et de VTT.
   title: ''
-published: false
 
 ---
