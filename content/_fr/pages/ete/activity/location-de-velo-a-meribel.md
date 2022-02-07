@@ -49,7 +49,24 @@ page_sections:
     pas un instant à Méribel. Une activité parfaite pour toute la famille avec des
     parcours adaptés pour tout le monde. Vous pourrez louer votre VTT et les protections
     au sein de Méribel et partir randonner sur les nombreux parcours et chemin de
-    montagne.
+    montagne. Vous découvrirez alors cet environnement magique qu'est la montagne
+    en parcourant des chemins et en vivant des sensations fortes dans les descentes.
+    Que ce soit pour une pratique ludique, sportive, sensationnelle ou freestyle vous
+    trouverez votre VTT à Méribel.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644221274/website/V%C3%A9lo/42919315385_3bbf12f38e_k_l9gbrx.jpg
+  alt_text_for_image: 3 personnes faisant du VTT et descendant une piste de VTT à
+    Méribel
+  captiontitleuppercase: Location de VTT à Méribel
+  title: Louer tout votre matériel de VTT
+  content: |-
+    Entre Méribel et Mottaret, vous trouverez une dizaine de magasins de location de VTT. Vous pourrez donc louer des VTT pour enfants et pour adultes et selon les niveaux. En fonction de la pratique, vous trouverez des VTT de descente, des VTT enduro mais aussi des VTT électriques. Les différents shops vous proposeront la location de VTT mais aussi des protections tel que le casque, la dorsale, les genouillères etc.
+
+    Méribel et l'activité en VTT s'est plusieurs pistes d'enduro, des pistes de DH, des circuit de cross country, un park et une zone ludique pour les débutants et enfants. Tout comme en ski, vous aurez différentes pistes en fonction des niveaux marquées par les couleurs (vertes, bleues, rouges et noires).
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
