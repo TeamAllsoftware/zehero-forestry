@@ -43,7 +43,9 @@ page_sections:
   content: |-
     L'Alpe Huez va vous offrir détente et plaisir, bien-être et découverte, sport et sensation. Vous ne serez pas sur la côte d'azur mais vous pourrez surement voir une belle mer de nuage. Cette station va s'engager au près des familles avec son Label Famille Plus. Que vous séjournez entre amis, en couple, seul vous trouverez vos activités préférés dans la station de l'Alpe Huez.
 
-    L'Alpe d'Huez s'est partir randonner dans ses belles et hautes montagnes. Dans le massif des Grandes Rousses, vous y trouverez de nombreuses randonnées pour tous les niveaux. Elle offre environ 250km de sentier balisé. C'est également des lacs d'altitudes, le Pic Blanc à 3330m d'altitude, une nature protégée. Vous pourrez également profiter des remontés mécaniques pour diversifier vos balades, partir de plus haut en altitude. Réservez une randonnée avec un accompagnateur montagne afin de découvrir la faune et la flore des montagnes de l'Alpe d'Huez.
+    L'Alpe d'Huez s'est partir randonner dans ses belles et hautes montagnes. Dans le massif des Grandes Rousses, vous y trouverez de nombreuses randonnées pour tous les niveaux. Elle offre environ 250km de sentier balisé. C'est également des lacs d'altitudes, le Pic Blanc à 3330m d'altitude, une nature protégée. Vous pourrez également profiter des remontés mécaniques pour diversifier vos balades, partir de plus haut en altitude. Réservez une randonnée avec un accompagnateur montagne afin de découvrir la faune et la flore des montagnes de l'Alpe d'Huez. Partez à la rencontre des éleveurs de vache et de mouton, découvrez les refuges de montagnes, randonnez quelques heures ou partez plusieurs jours.
+
+    L'Alpe d'Huez sera aussi un lieu parfait pour tous les traileurs et coureurs qui voudront profiter des sentiers.
   button:
     text_button: ''
     href_button: ''
