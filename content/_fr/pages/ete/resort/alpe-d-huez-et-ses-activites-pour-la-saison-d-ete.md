@@ -27,7 +27,13 @@ page_sections:
   content: "La station de l'Alpe Huez situé en Isère est un paradis pour les amoureux
     de la montagne et des activités natures. Surnommé l'île au soleil grâce à son
     exposition sud et son nombre de jours ensoleillés, vous bénéficierez de belle
-    journée pour profiter des activités.   \nSitué dans le massif des grandes rousses "
+    journée pour profiter des activités.  \nSitué à 1800m dans le massif des grandes
+    rousses, son sommet le Pic Blanc (3330m d'altitude) offre un panorama d'exception
+    sur le parc national des Ecrins. La station est situé sur un grand plateau et
+    offre un panel d'activité et de plaisir au sein d'une nature respecté et protégé.
+    \n\nLa montagne s'est profiter de la nature, de la découvrir, de s'en aller sur
+    ses sommets. C'est partir à pied, en courant, en roulant, en grimpant, seul, entre
+    amis ou en famille dans l'environnement incroyable de l'Alpe d'Huez."
 published: false
 
 ---
