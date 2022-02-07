@@ -34,6 +34,21 @@ page_sections:
     \n\nLa montagne s'est profiter de la nature, de la découvrir, de s'en aller sur
     ses sommets. C'est partir à pied, en courant, en roulant, en grimpant, seul, entre
     amis ou en famille dans l'environnement incroyable de l'Alpe d'Huez."
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644227091/website/resorts/alpe%20d%27huez/antoine-petitteville-Uw3Cq3s3efQ-unsplash_m0eol6.jpg
+  alt_text_for_image: Vue des montagnes de l'Alpe d'Huez au couleurs d'automne avec
+    un lac
+  captiontitleuppercase: La montagne émotion
+  title: Profitez de la montagne
+  content: L'Alpe Huez va vous offrir détente et plaisir, bien-être et découverte,
+    sport et sensation. Vous ne serez pas sur la côte d'azur mais vous pourrez surement
+    voir une belle mer de nuage. Cette station va s'engager au près des familles avec
+    son Label Famille Plus. Que vous séjournez entre amis, en couple, seul vous trouverez
+    vos activités préférés dans la station de l'Alpe Huez.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
