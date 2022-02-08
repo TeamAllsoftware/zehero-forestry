@@ -21,7 +21,20 @@ image01_alt: Coucher de soleil sur les montagnes de Val Thorens
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité à Val Thorens
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Val+Thorens&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-page_sections: []
+page_sections:
+- template: textarea
+  title: La station de Val Thorens
+  content: "Val Thorens est une station mondialement reconnue l'hiver pour sa qualité
+    de neige, son domaine skiable et ses infrastructures. C'est également une station
+    parfaite pour séjourner l'été et profiter des différentes activités. Pour les
+    amoureux de la nature, vous découvrirez une nature sauvage. Ses sommets tels que
+    la cime de Caron, l'aiguille de Péclet et son glacier, vous plongeront dans une
+    ambiance alpine.  \nDans la vallée des bellevilles, découvrez une terre au patrimoine
+    riche entre ses traditions agricoles, ses pâtures, ses élevages de vaches et de
+    moutons. Une station très sportive, mais aussi parfait pour les familles avec
+    ses nombreuses infrastructures et ses activités pour tous.  \nÀ 2300 m d'altitude,
+    le soleil brillera et vous offrira des couchers de soleil comme vous l'aurez rarement
+    vu en montagne."
 published: false
 
 ---
