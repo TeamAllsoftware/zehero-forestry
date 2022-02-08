@@ -94,7 +94,7 @@ page_sections:
   headline: Cours privés ou collectifs, enfant et adultes sont disponibles
   button:
     text_button: Réserver maintenant >
-    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski+de+fond&start-date=
+    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski+de+fond&start-date=
 topnav_text_color: light
 engage: Explorer les forêts par des parcours vallonés
 

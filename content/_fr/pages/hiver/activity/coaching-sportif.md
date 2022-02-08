@@ -69,7 +69,7 @@ page_sections:
   headline: Cours privés ou collectifs sont disponibles
   button:
     text_button: Réserver maintenant >
-    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
 topnav_text_color: light
 engage: Une préparation pour affronter toutes les situations
 

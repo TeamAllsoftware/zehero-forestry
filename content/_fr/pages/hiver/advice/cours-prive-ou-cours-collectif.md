@@ -12,7 +12,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825160/webs
 image01_alt: Groupe de snowboard sur une piste de ski en montagne
 button_to_link_to_ze_hero_shop:
   button_text: Réserver un cours de ski
-  url_to_shop_zehero: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=12%2F12%2F2021
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=12%2F12%2F2021
 page_sections:
 - template: textarea
   content: |-

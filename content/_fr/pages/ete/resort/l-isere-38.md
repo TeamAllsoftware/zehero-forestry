@@ -19,7 +19,7 @@ image01_alt: Une très belle vue d'un décor de montagne en Isère et dans le ma
   de la Chartreuse
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité en Isère
-  url_to_shop_zehero: https://fr.ze-hero.com/activites-Outdoor?station=Alpe+d%27Huez&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Parapente&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Alpe+d%27Huez&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Parapente&start-date=
 page_sections:
 - template: textarea
   title: L'Isère

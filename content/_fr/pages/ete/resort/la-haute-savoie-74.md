@@ -20,7 +20,7 @@ image01_alt: Vue panorama d'un randonneur en montagne devant un lac, des montagn
   l'été
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité en Haute Savoie
-  url_to_shop_zehero: https://fr.ze-hero.com/activites-Outdoor?station=Haute+Savoie+%2874%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=12%2F12%2F2021
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Haute+Savoie+%2874%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=12%2F12%2F2021
 page_sections:
 - template: textarea
   content: |-

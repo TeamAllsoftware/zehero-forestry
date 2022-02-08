@@ -101,7 +101,7 @@ page_sections:
   title: ''
 - template: cta
   button:
-    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
+    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
     text_button: Réserver maintenant >
   intro: Réservez dès maintenant vos activités hors piste
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
