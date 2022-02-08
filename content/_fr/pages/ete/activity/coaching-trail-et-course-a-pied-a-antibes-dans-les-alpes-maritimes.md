@@ -28,7 +28,7 @@ page_sections:
     Maritimes pour vos entraînement de course à pied spécifique.  \nTous les lundis,
     mardis, mercredis et jeudis de 18h à 19h30 vous pourrez vous **entraîner** au
     stade du Fort Carré. Ces entraînements d’1h30 ont pour but de travailler sur des
-    thèmes [**spécifiques**](https://fr.ze-hero.com/activites-Outdoor/Coaching/16728-seances-specifiques-course-a-pied-activite-ze-hero).
+    thèmes [**spécifiques**](https://shop.ze-hero.com/activites-Outdoor/Coaching/16728-seances-specifiques-course-a-pied-activite-ze-hero).
     Ce sont donc des séances en **groupe** encadrées par un coach sportif durant lesquelles
     vous allez travailler différents axes et vous retrouvez donc des entraînements
     de course à pied tels que :\n\n* VMA courte // moyenne // longue\n* Seuil\n* Renforcement
@@ -51,7 +51,7 @@ page_sections:
     alt_button: ''
   alt_text_for_image: Coach sportif courant dans les escaliers du fort carré à Antibes
 - template: textarea
-  content: Des sorties “[**endurance trail**](https://fr.ze-hero.com/activites-Outdoor/Coaching/16010-esterel-83-trail-sortie-longue-mercredi-apres-midi-3h-activite-ze-hero)”
+  content: Des sorties “[**endurance trail**](https://shop.ze-hero.com/activites-Outdoor/Coaching/16010-esterel-83-trail-sortie-longue-mercredi-apres-midi-3h-activite-ze-hero)”
     sont aussi programmées tous les mercredis après-midi dans le massif de l’Estérel
     ainsi que les Préalpes d’Azur. Ces séances permettent de travailler son **endurance**
     fondamentale. Généralement on va avoir des parcours avec un **dénivelé** important

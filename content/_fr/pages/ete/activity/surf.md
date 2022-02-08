@@ -96,7 +96,7 @@ page_sections:
     donc dédiées aux surfeurs expérimentés. "
 - template: cta
   button:
-    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
     text_button: Réserver maintenant >
   intro: Réservez dès maintenant vos activités surf
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles

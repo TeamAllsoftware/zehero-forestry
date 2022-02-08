@@ -99,7 +99,7 @@ page_sections:
     face au Lac des Merveilles
 - template: cta
   button:
-    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     text_button: Réservez maintenant >
   intro: Réservez dès maintenant vos sorties de trail
   headline: Cours privés ou collectifs sont disponibles

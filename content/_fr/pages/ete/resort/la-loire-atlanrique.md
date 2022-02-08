@@ -18,7 +18,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642758793/webs
 image01_alt: Surfeur en train de surfer une vague en bretagne sur une Longboard
 button_to_link_to_ze_hero_shop:
   button_text: Découvrez toutes les activités en Loire Atlantique
-  url_to_shop_zehero: https://fr.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   content: |-

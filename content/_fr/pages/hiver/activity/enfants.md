@@ -53,7 +53,7 @@ page_sections:
   headline: Igloo, raquettes et luge, les activités pour vos enfants
   button:
     text_button: Réserver maintenant >
-    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
 topnav_text_color: light
 engage: Des activités accessibles, ludiques et outdoor
 

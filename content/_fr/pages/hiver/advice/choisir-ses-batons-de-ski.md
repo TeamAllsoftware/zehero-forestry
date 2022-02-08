@@ -11,7 +11,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642411068/webs
 image01_alt: Bâtons de ski dans la neige
 button_to_link_to_ze_hero_shop:
   button_text: Louer vos skis
-  url_to_shop_zehero: https://fr.ze-hero.com/location-materiel/location-ski/location-ski-enfant
+  url_to_shop_zehero: https://shop.ze-hero.com/location-materiel/location-ski/location-ski-enfant
 page_sections:
 - template: textarea
   content: "Il est important de choisir la bonne taille pour ses bâtons de ski. Si

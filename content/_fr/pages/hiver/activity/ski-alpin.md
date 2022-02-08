@@ -69,7 +69,7 @@ page_sections:
     à dos
 - template: cta
   button:
-    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
+    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
     text_button: Réserver maintenant >
   intro: Réservez dès maintenant vos activités ski
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles

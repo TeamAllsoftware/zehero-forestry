@@ -109,7 +109,7 @@ page_sections:
   intro: Réservez dès maintenant vos sorties trail
   headline: Cours privés ou collectifs sont disponibles
   button:
-    href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     text_button: Réserver maintenant >
 redirect_from:
 - "/fr/itineraire-trail-alpes-maritimes/"

@@ -87,7 +87,7 @@ s07:
   txt_button: Réserver un cours
   txt01: vous accompagne pour votre préparation
   txt02: de course à pied, de trail et de renforcement musculaire
-  href_button: https://fr.ze-hero.com/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+  href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
 redirect_from:
 - "/fr/coach-sportif-trail-yann-alarcon/"
 

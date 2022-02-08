@@ -12,7 +12,7 @@ image01_alt: Coureur sur une crête de montagne au dessus d'une mer de nuage pra
   le trail running
 button_to_link_to_ze_hero_shop:
   button_text: Découvrez nos offres de Trail
-  url_to_shop_zehero: https://fr.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 page_sections:
 - template: textarea
   content: "Il est fréquent de voir des personnes démarrer la course à pied trop violemment

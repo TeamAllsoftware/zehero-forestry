@@ -11,7 +11,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642412358/webs
 image01_alt: Chaussures de ski alpin et de ski de freeride et de ski de randonnée
 button_to_link_to_ze_hero_shop:
   button_text: Louer vos chaussures de ski
-  url_to_shop_zehero: https://fr.ze-hero.com/location-materiel/location-ski/location-ski-enfant?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=18%2F01%2F2022&number_rental_days=1
+  url_to_shop_zehero: https://shop.ze-hero.com/location-materiel/location-ski/location-ski-enfant?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=18%2F01%2F2022&number_rental_days=1
 page_sections:
 - template: textarea
   content: "Choisir ses chaussures de ski demandent de connaitre plusieurs informations
