@@ -50,6 +50,11 @@ page_sections:
     de magnifiques randonnées pour tous les amoureux de la nature et de la montagne.
     Que ce soit en marchant ou en courant, vous pourrez découvrir les merveilles de
     ses lieux. Partez explorer les montagnes en courant ou en marchant.
+  alt_text_for_image: Chemin de randonnée en vanoise en savoie
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Explorez
   content: "Autre que la randonnée et le trail, en Savoie et dans les stations, on
@@ -75,6 +80,11 @@ page_sections:
     vous feront frissonner de sensations forte. Les lacs de Savoie vous permettrons
     également d'aller vous promener en kayak, en paddle et découvrir d'autre lieux
     naturels.
+  alt_text_for_image: Vue de sommet de montagne l'été et de forêts en Savoie
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: A l'assaut des cols
   content: La Savoie c'est également une terre où le vélo de route en est une pratique
@@ -91,5 +101,11 @@ page_sections:
     les débutants, les amateurs et les confirmés, quelque soit l'activité vous trouverez
     votre bonheur. Entre montagne, rivière et lac partez explorer les richesses de
     ce département au patrimoine riche et exceptionnel. Vivez l'émotion en grand !
+  alt_text_for_image: Deux chamois jouant en se mettant tête contre tête en Savoie
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+baseline: Montagnes et charme
 
 ---
