@@ -79,6 +79,5 @@ page_sections:
     pourrez partir en randonnée avec un accompagnateur de montagne, apprendre le VTT
     avec un moniteur. \n\nVous trouverez aussi tout le matériel nécessaire directement
     sur place avec des shops de locations de vélo de route et de VTT à l'Alpe d'Huez."
-published: false
 
 ---
