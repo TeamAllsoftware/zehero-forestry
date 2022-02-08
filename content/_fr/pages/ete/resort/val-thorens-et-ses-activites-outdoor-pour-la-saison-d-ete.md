@@ -88,6 +88,5 @@ page_sections:
     des shops. En effet, vous trouverez la location de VTT et de Vélo de route à Val
     Thorens. \n\nPlusieurs magasin pourront vous permettre de louer le matériel d'escalade,
     de via ferrata, de canyoning afin de profiter pleinement des activités proposées. "
-published: false
 
 ---
