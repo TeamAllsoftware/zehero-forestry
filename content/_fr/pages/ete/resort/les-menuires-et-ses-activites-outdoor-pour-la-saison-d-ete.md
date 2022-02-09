@@ -58,6 +58,12 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  content: |-
+    Le VTT est une activité phare aux Menuires. En effet, vous trouverez des pistes parfaites de descente pour tous les niveaux. Dans la vallée des Bellevilles s'est 321km de sentiers de VTT. Vous aurez le choix d'aller plus loin, plus haut, plus vite, de prendre des sentiers et pistes plus techniques. Découvrez les 3 vallées également d'une nouvelle façon : en VTT ou en Vélo électrique. Que ce soit en enduro, en DH, en cross country, les Menuires est un paradis pour la pratique du VTT.
+
+    Les amoureux de vélo de route pourront tout aussi découvrir les vallées et les cols qui entourent Les Menuires. Vous pourrez alors grimper le col mythique de la Loze et rouler à travers les 3 vallées.
+  title: ''
 published: false
 
 ---
