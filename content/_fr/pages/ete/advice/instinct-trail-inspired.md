@@ -57,5 +57,17 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/InStinct_Eklipse_Poles_1250x938_xyrwnl.jpg
   atl_text_image_04: Trois différentes vues d'un sac Instinct Trail
   title: ''
+- template: textarea
+  title: Ze Hero partenaire avec Instinct Trail
+  content: "Nous avons décidé, Ze Hero, d'être partenaire avec la marque Instinct
+    Trail, mais pourquoi ?  \nCette marque nous a séduite par ses valeurs, sa conception
+    des produits destinés aux coureurs, à sa recherche pour apporter ce qu'il y a
+    de mieux, de plus simple, de plus fonctionnel. Chaque détail du sac est pensé
+    et réfléchi pour que le coureur se sente à l'aise et que son sac l'accompagne
+    dans sa course. Tous les produits d'Instinct Trail sont très techniques et ergonomique
+    et sa recherche est sans cesse approfondi.   \nEtre partenaire de cette marque,
+    c'est apporté aux coureurs des sacs de qualités, une marques aux valeurs importantes.
+    Instinct Trail est d'ailleurs engagé écologiquement"
+published: false
 
 ---
