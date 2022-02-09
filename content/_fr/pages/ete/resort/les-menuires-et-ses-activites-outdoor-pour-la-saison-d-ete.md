@@ -63,7 +63,27 @@ page_sections:
     Le VTT est une activité phare aux Menuires. En effet, vous trouverez des pistes parfaites de descente pour tous les niveaux. Dans la vallée des Bellevilles s'est 321km de sentiers de VTT. Vous aurez le choix d'aller plus loin, plus haut, plus vite, de prendre des sentiers et pistes plus techniques. Découvrez les 3 vallées également d'une nouvelle façon : en VTT ou en Vélo électrique. Que ce soit en enduro, en DH, en cross country, les Menuires est un paradis pour la pratique du VTT.
 
     Les amoureux de vélo de route pourront tout aussi découvrir les vallées et les cols qui entourent Les Menuires. Vous pourrez alors grimper le col mythique de la Loze et rouler à travers les 3 vallées.
+
+    Les Menuires s'est aussi des sensations fortes avec la pratique du parapente. Laissez vous emporter au dessus des montagnes et admirez le parc national de la Vanoise. C'est également de l'escalade avec plusieurs voies possibles entre Val Thorens, Les Menuires et St Martin de Belleville. Vous pourrez aussi vous laissez tenter par les Via Ferrata.
+
+    Détendez vous, respirez l'air pur de la montagne en pratiquant le Yoga. Quoi de mieux que de s'étirer, de contrôler sa respiration et de vider sa tête en méditant devant les montagnes et dans la nature.
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644398781/website/resorts/les%20menuires/Rando_au_col_de__Pierre_Blanche-Vincent_LOTTENBERG-28663-1600px_p9phlq.jpg
+  alt_text_for_image: Un randonneur marchant sur un sentier à coté d'un lac à Les
+    Menuires
+  captiontitleuppercase: Profitez en famille aux Ménuires
+  title: Les Menuires, station vacance
+  content: |-
+    Toutes ces différentes activités sont proposées pour tout le monde. Chacune sera adaptée en fonction de votre niveau et de votre âge. Vous pourrez également profiter de plusieurs activités à faire en famille, avec les enfants et partir vivre ces émotions ensemble. La station des Menuires est une station facile d'accès et pratique, car tous les commerces sont proches.
+
+    Vous trouverez alors de nombreux magasins qui vous permettront de louer différents équipements. Pour ce qui est du VTT, vous pourrez donc louer tout directement sur place aux Menuires, tout comme le vélo de route.
+
+    Laissez-vous transportez et profitez pleinement de votre séjour avec nos différentes activités proposées sur Ze Hero.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
