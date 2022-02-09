@@ -62,7 +62,7 @@
                             <div class="blog-post-image">
                                 {% capture download_note %}{{ blogpost.image01_href }}{% endcapture %}
                                 <a href="{{ blogpost.url }}"  title="{{ site.data.config.[page.language].section-blog.txt07 }} {{ blogpost.post-title }}"><img loading="lazy" src="{% include image.html file=download_note sizevar="blogpostlist" width="" height="" %}" alt="{{ blogpost.image01_alt }}"></a>
-                                <div class="alt-font blog-category"><a href="{{ blogpost.url }}" title="{{ site.data.config.[page.language].section-blog.txt07 }} {{ blogpost.post-title }}" class="text-uppercase text-green text-extra-dark-gray-hover">{{ blogpost.tags[0] }}</a></div>
+                                <div class="alt-font blog-category"><span class="text-uppercase text-green text-extra-dark-gray-hover">{{ blogpost.tags[0] }}</span></div>
                             </div>
                             <div class="post-details padding-3-rem-lr padding-2-half-rem-tb lg-padding-2-rem-all md-padding-2-half-rem-tb md-padding-3-rem-lr">
                                 <a href="{{ blogpost.url }}" 
