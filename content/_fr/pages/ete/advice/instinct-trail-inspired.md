@@ -57,5 +57,6 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/InStinct_Eklipse_Poles_1250x938_xyrwnl.jpg
   atl_text_image_04: Trois différentes vues d'un sac Instinct Trail
   title: ''
+published: false
 
 ---
