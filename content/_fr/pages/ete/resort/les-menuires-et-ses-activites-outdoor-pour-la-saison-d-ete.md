@@ -33,6 +33,31 @@ page_sections:
     aux Menuires, c'est s'évader et partager des émotions fortes, c'est profiter d'un
     panel d'activité pour tous.
   title: Les Menuires
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644398781/website/resorts/les%20menuires/Rando_amis-Clement_DUCRUET-32310-1600px_u0jsfx.jpg
+  alt_text_for_image: Vue de deux vaches sur un sentier de montagne à Les Menuires
+  captiontitleuppercase: Les activités outdoor aux Menuires
+  title: Que faire aux Menuires ?
+  content: "Tout d'abord, Les Menuires est une station composée de nombreuses infrastructures
+    qui vous permettent de nombreuses activités directement au sein du village. Vous
+    allez pouvoir jouer au Tennis avec plusieurs terrains disponibles. Profiter d'un
+    espace sportif avec salle de musculation, piscine et spa, trampoline, basket,
+    squash et le tir à l'arc. Pour plus de sensation, partez sur les rails en luge
+    du Speed Mountain.\n\nLes Menuires s'est surtout un espace incroyable pour la
+    pratique des activités outdoor. Avec une nature incroyable, vous ne pourrez pas
+    vous ennuyer.  \nChaussez vos chaussures de randonnée et partez explorer la faune,
+    la flore, les lacs et les sommets des Menuires. Avec 50 itinéraires balisés pour
+    tous les niveaux et tous les goûts, vous découvrez une nature sauvage et des lieux
+    magnifiques. Partez randonner au lac du lou, dans la vallée des Encombres, le
+    Cochet ou encore le Cheval noir.  \nPour les aventuriers, laissez vous tenter
+    par l'alpinisme et la marche glacière. Enfilez les crampons et un guide vous fera
+    découvrir cette montagne plus hostile et impressionnante.\n\nLes amoureux de la
+    vitesse se régaleront avec les sentiers de randonnée où le trail pourra être également
+    exercé."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
