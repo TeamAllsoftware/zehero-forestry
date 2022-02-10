@@ -78,6 +78,7 @@ page_sections:
     * **Distance :** 16 km
     * **Dénivelé :** 630 m de D+
     * **Durée :** 4 heures
+    {: .list-style-05}
 
     Il est environ 9h lorsque nous atteignons le point de départ de notre aventure: Les 3 Fours et la promesse d’une vue spectaculaire sur la Combe du Wormspel et le sommet du Hohneck. Ludovic, notre guide sur ce tour, nous indique également que quelques troupeaux de chamois ont pris possession des pentes abruptes sur le versant Est.
 
@@ -244,6 +245,7 @@ page_sections:
     * **Distance :** 10,5 km
     * **Dénivelé :** 450 m de D+
     * **Durée :** 3 heures
+    {: .list-style-05}
 
     Réveil naturel à 7h30 avec la vue sur le lac gelé. Un vent important a soufflé toute la nuit et souffle encore. Je m’extirpe de mon sac de couchage et me dirige vers le lac pour apprécier la vue et le moment. Hugues et moi sommes reposés et plutôt fiers de notre nuit de bivouac hivernal dans la neige et le vent.
 
@@ -367,49 +369,50 @@ page_sections:
   content: |-
     Pour vous donner une idée, je vous partage le contenu de mon sac à dos (poids total de 8,5 kg)
 
-    | --- | --- | --- |
-    | Fonction | Article | Poids en gm |
-    | Boire | Gobelet metal 400 ml | 125 |
-    | Boire | Platypus | 26 |
-    | Boire | Platypus mousqueton | 40 |
-    | Boire | Gobelet plastique pliable | 21 |
-    | Divers | Lampe frontale | 85 |
-    | Divers | Baton rando X2 | 570 |
-    | Divers | Mini pelle bleue | 20 |
-    | Layer 1 | Débardeur 100% mérinos | 125 |
-    | Layer 1 | Polo 100% merinos manches longues | 360 |
-    | Layer 1 | Collant | 125 |
-    | Layer 2 | Doudoune Bergans 800 cuins | 582 |
-    | Layer 2 | Chemise flanelle | 300 |
-    | Layer 3 | Veste Evadic | 230 |
-    | Manger | Mini Fourneau | 225 |
-    | Manger | Combo couteau, fourchette | 66 |
-    | Manger | Repas (4 repas + à cotés) | 1400 |
-    | Nuit | Drap de soie | 110 |
-    | Nuit | Sac de couchage Wanabee Duvet 5°C confort | 1050 |
-    | Nuit | Bivy | 135 |
-    | Nuit | Matelas Forclaz R1,7 | 510 |
-    | Nuit | Tarp Quechua | 1000 |
-    | Nuit | Sardines (7 mini) | 235 |
-    | Nuit | Bâche de sol - 160x110 | 108 |
-    | Pluie | Guêtres |  |
-    | Pluie | Parapluie | 210 |
-    | Pluie | Sur Pantalon pluie | 216 |
-    | Pluie | Sur mouffles pluie | 47 |
-    | Pluie | Protection de pluie sac à dos |  |
-    | Sac | Mini sacoche Quechua | 82 |
-    | Sac | Simond 33L + 8L | 500 |
-    | Vêtements | Chaussettes mérinos #1 | 50 |
-    | Vêtements | Chaussettes mérinos #2 de nuit | 110 |
-    | Vêtements | Boxer mérinos | 83 |
-    | Vêtements | Boxer change | 40 |
-    | Vêtements | Gilet sans manches Van Rysel | 100 |
-    | Vêtements | Tour de cou |  |
-    | Vêtements | Pantalon rando | 412 |
-    |  | Moufles laine | 96 |
-    |  | Batterie 8 000 | 300 |
-    |  | Cables Batterie | 55 |
-    |  | Trousse de secours | 212 |
+    | **FONCTION**       | **ARTICLE**                               | **POIDS EN GM** |
+    |--------------------|-------------------------------------------|------------:|
+    | BOIRE              | GOBELET METAL 400 ML                      | 125         |
+    | BOIRE              | PLATYPUS                                  | 26          |
+    | BOIRE              | PLATYPUS MOUSQUETON                       | 40          |
+    | BOIRE              | GOBELET PLASTIQUE PLIABLE                 | 21          |
+    | DIVERS             | LAMPE FRONTALE                            | 85          |
+    | DIVERS             | BATON RANDO X2                            | 570         |
+    | DIVERS             | MINI PELLE BLEUE                          | 20          |
+    | LAYER 1            | DÉBARDEUR  100% MÉRINOS                   | 125         |
+    | LAYER 1            | POLO  100% MERINOS MANCHES LONGUES        | 360         |
+    | LAYER 1            | COLLANT                                   | 125         |
+    | LAYER 2            | DOUDOUNE BERGANS 800 CUINS                | 582         |
+    | LAYER 2            | CHEMISE FLANELLE                          | 300         |
+    | LAYER 3            | VESTE EVADIC                              | 230         |
+    | MANGER             | MINI FOURNEAU                             | 225         |
+    | MANGER             | COMBO COUTEAU, FOURCHETTE                 | 66          |
+    | MANGER             | REPAS (4 REPAS + À COTÉS)                 | 1400        |
+    | NUIT               | DRAP DE SOIE                              | 110         |
+    | NUIT               | SAC DE COUCHAGE WANABEE DUVET 5°C CONFORT | 1050        |
+    | NUIT               | BIVY                                      | 135         |
+    | NUIT               | MATELAS FORCLAZ R1,7                      | 510         |
+    | NUIT               | TARP QUECHUA                              | 1000        |
+    | NUIT               | SARDINES (7 MINI)                         | 235         |
+    | NUIT               | BÂCHE DE SOL - 160X110                    | 108         |
+    | PLUIE              | GUÊTRES                                   |             |
+    | PLUIE              | PARAPLUIE                                 | 210         |
+    | PLUIE              | SUR PANTALON PLUIE                        | 216         |
+    | PLUIE              | SUR MOUFFLES PLUIE                        | 47          |
+    | PLUIE              | PROTECTION DE PLUIE SAC À DOS             |             |
+    | SAC                | MINI SACOCHE QUECHUA                      | 82          |
+    | SAC                | SIMOND 33L + 8L                           | 500         |
+    | VÊTEMENTS          | CHAUSSETTES MÉRINOS #1                    | 50          |
+    | VÊTEMENTS          | CHAUSSETTES MÉRINOS #2 DE NUIT            | 110         |
+    | VÊTEMENTS          | BOXER MÉRINOS                             | 83          |
+    | VÊTEMENTS          | BOXER CHANGE                              | 40          |
+    | VÊTEMENTS          | GILET SANS MANCHES VAN RYSEL              | 100         |
+    | VÊTEMENTS          | TOUR DE COU                               |             |
+    | VÊTEMENTS          | PANTALON RANDO                            | 412         |
+    | MOUFLES LAINE      |                                           | 96          |
+    | BATTERIE 8 000     |                                           | 300         |
+    | CABLES BATTERIE    |                                           | 55          |
+    | TROUSSE DE SECOURS |                                           | 212         |
+
   title: Et dans ton sac, tu mets quoi ?
 tags:
 - randonnée
