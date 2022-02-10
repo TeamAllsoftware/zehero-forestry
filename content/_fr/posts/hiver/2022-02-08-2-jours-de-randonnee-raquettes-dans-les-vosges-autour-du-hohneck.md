@@ -74,17 +74,18 @@ page_sections:
   title: ''
 - template: 2colimgtxt
   title: 'Jour 1 : Refuge du Sotré - Lac de Blanchemer'
-  content: |-
-    * **Distance :** 16 km
-    * **Dénivelé :** 630 m de D+
-    * **Durée :** 4 heures
-    {: .list-style-05}
-
-    Il est environ 9h lorsque nous atteignons le point de départ de notre aventure: Les 3 Fours et la promesse d’une vue spectaculaire sur la Combe du Wormspel et le sommet du Hohneck. Ludovic, notre guide sur ce tour, nous indique également que quelques troupeaux de chamois ont pris possession des pentes abruptes sur le versant Est.
-
-    Nous voila partis depuis 10 minutes que le vent souffle et les nuages évoluent très vite pour voiler et dévoiler le paysage à chaque clignement de cils. Nous prenons le temps de nous approcher de la falaise et apercevons les chamois très à l’aise dans cet environnement.
-
-    Il est temps de filer vers le sommet du Hohneck. La montée est simple mais déjà très fraîche et venteuse.
+  content: "* **Distance :** 16 km\n* **Dénivelé :** 630 m de D+\n* **Durée :** 4
+    heures\n* [voir la trace sur Komoot](https://www.komoot.fr/tour/662064584?share_token=a3UUfgv59CC26fvjGvIESSyetTCwKDkKZJ1PpWIjDW3292s5n3&ref=wtd)
+    \ \n  {: .list-style-05}\n\nIl est environ 9h lorsque nous atteignons le point
+    de départ de notre aventure: Les 3 Fours et la promesse d’une vue spectaculaire
+    sur la Combe du Wormspel et le sommet du Hohneck. Ludovic, notre guide sur ce
+    tour, nous indique également que quelques troupeaux de chamois ont pris possession
+    des pentes abruptes sur le versant Est.\n\nNous voila partis depuis 10 minutes
+    que le vent souffle et les nuages évoluent très vite pour voiler et dévoiler le
+    paysage à chaque clignement de cils. Nous prenons le temps de nous approcher de
+    la falaise et apercevons les chamois très à l’aise dans cet environnement.\n\nIl
+    est temps de filer vers le sommet du Hohneck. La montée est simple mais déjà très
+    fraîche et venteuse."
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499336/website/blog/2-jours-raquettes-vosges/PXL_20220205_083618882_pav2tc.jpg
   alt_text_for_image: Arrivée sur le sommet du Hohneck dans le vent, la glace et la
     neige
@@ -241,15 +242,18 @@ page_sections:
   title: ''
 - template: 2colimgtxt
   title: 'Jour 2 : Lac de Blanchemer - Refuge du Sotré'
-  content: |-
-    * **Distance :** 10,5 km
-    * **Dénivelé :** 450 m de D+
-    * **Durée :** 3 heures
-    {: .list-style-05}
-
-    Réveil naturel à 7h30 avec la vue sur le lac gelé. Un vent important a soufflé toute la nuit et souffle encore. Je m’extirpe de mon sac de couchage et me dirige vers le lac pour apprécier la vue et le moment. Hugues et moi sommes reposés et plutôt fiers de notre nuit de bivouac hivernal dans la neige et le vent.
-
-    Nous retrouvons nos trois compères dans le refuge. Il ne faut pas traîner car les conditions météorologiques s’annoncent mauvaises. Nous petit-déjeunons et faisons les sacs rapidement. Le trajet initialement prévu devait faire 20 km, mais nous avons réduit de beaucoup car la neige qui tombe depuis minuit a déjà déposé 10 bons centimètres et le vent qui souffle fort rend les conditions peu propices à la promenade.
+  content: "* **Distance :** 10,5 km\n* **Dénivelé :** 450 m de D+\n* **Durée :**
+    3 heures\n* [voir la trace sur Komoot](https://www.komoot.fr/tour/662384895?share_token=aWRk1UrltJczDhZbSAzkeGbcwRPMq4ja6v5sXqmVGnkm6BsWjE&ref=wtd)
+    \ \n  {: .list-style-05}\n\nRéveil naturel à 7h30 avec la vue sur le lac gelé.
+    Un vent important a soufflé toute la nuit et souffle encore. Je m’extirpe de mon
+    sac de couchage et me dirige vers le lac pour apprécier la vue et le moment. Hugues
+    et moi sommes reposés et plutôt fiers de notre nuit de bivouac hivernal dans la
+    neige et le vent.\n\nNous retrouvons nos trois compères dans le refuge. Il ne
+    faut pas traîner car les conditions météorologiques s’annoncent mauvaises. Nous
+    petit-déjeunons et faisons les sacs rapidement. Le trajet initialement prévu devait
+    faire 20 km, mais nous avons réduit de beaucoup car la neige qui tombe depuis
+    minuit a déjà déposé 10 bons centimètres et le vent qui souffle fort rend les
+    conditions peu propices à la promenade."
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499339/website/blog/2-jours-raquettes-vosges/PXL_20220205_163504344_dlats5.jpg
   alt_text_for_image: Lac de Blanchemer gelé en hiver dans le massif des Vosges
   captiontitleuppercase: Lac de Blanchemer gelé en hiver dans le massif des Vosges
@@ -276,8 +280,12 @@ page_sections:
   atl_text_image_04: La neige glacée commence à fouetter le visage
   title: ''
 - template: textarea
-  content: |-
-    Ensuite, c’est l’ascension jusqu’au Rainkopf en empruntant la ligne de crête au dessus de la route des crêtes. La poudreuse rend la lecture du tracé difficile. Nous sommes seuls au monde. Nous n’avons croisé personne. Qui voudrait s’aventurer ici dans ces conditions. Le vent souffle à plus de 100 km/h, la neige ne cesse de tomber et il fait froid, très froid. Nous sommes bien équipés même si les chaussures et les gants de Joao commencent à montrer des signes de faiblesse.
+  content: Ensuite, c’est l’ascension jusqu’au Rainkopf en empruntant la ligne de
+    crête au dessus de la route des crêtes. La poudreuse rend la lecture du tracé
+    difficile. Nous sommes seuls au monde. Nous n’avons croisé personne. Qui voudrait
+    s’aventurer ici dans ces conditions. Le vent souffle à plus de 100 km/h, la neige
+    ne cesse de tomber et il fait froid, très froid. Nous sommes bien équipés même
+    si les chaussures et les gants de Joao commencent à montrer des signes de faiblesse.
   title: Ascension jusqu’au Rainkopf
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499373/website/blog/2-jours-raquettes-vosges/PXL_20220206_115826864_rl06zh.jpg
@@ -408,7 +416,6 @@ page_sections:
     | BATTERIE 8 000     |                                           | 300         |
     | CABLES BATTERIE    |                                           | 55          |
     | TROUSSE DE SECOURS |                                           | 212         |
-
   title: Et dans ton sac, tu mets quoi ?
 tags:
 - randonnée
