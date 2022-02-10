@@ -68,7 +68,7 @@ page_sections:
   captiontitleuppercase: Ceinture de Trail
   title: La Reflex Belt d'Instinct Trail
   content: |-
-    La Reflex Blet est une ceinture de trail qui permet de transporter différentes choses sans partir avec un sac à dos. Très intuitive, légère et confortable, cette ceinture vous accompagnera pour des petits footing jusqu'à des trails de 2h.
+    La Reflex Blet est une ceinture de trail qui permet de transporter différentes choses sans partir avec un sac à dos. Très intuitive, légère et confortable, cette ceinture vous accompagnera pour des petits footings jusqu'à des trails de 2h.
 
     C'est parfaite alternative afin de partir plus léger, sans sac et si vous aimez prendre ce dont vous avez besoin seulement autour de la taille.
 
@@ -79,14 +79,14 @@ page_sections:
     alt_button: ''
 - template: textarea
   title: Ze Hero partenaire avec Instinct Trail
-  content: "Nous avons décidé, Ze Hero, d'être partenaire avec la marque Instinct
+  content: "Nous avons décidé, Ze Hero, d’être partenaire avec la marque Instinct
     Trail, mais pourquoi ?  \nCette marque nous a séduite par ses valeurs, sa conception
-    des produits destinés aux coureurs, à sa recherche pour apporter ce qu'il y a
+    des produits destinés aux coureurs, à sa recherche pour apporter ce qu’il y a
     de mieux, de plus simple, de plus fonctionnel. Chaque détail du sac est pensé
-    et réfléchi pour que le coureur se sente à l'aise et que son sac l'accompagne
-    dans sa course. Tous les produits d'Instinct Trail sont très techniques et ergonomique
+    et réfléchi pour que le coureur se sente à l’aise et que son sac l’accompagne
+    dans sa course. Tous les produits d’Instinct Trail sont très techniques et ergonomique
     et sa recherche est sans cesse approfondi.  \nEtre partenaire de cette marque,
-    c'est apporté aux coureurs des sacs de qualités, une marques aux valeurs importantes.
-    Instinct Trail est d'ailleurs engagé écologiquement et éco-responsables."
+    c’est apporté aux coureurs des sacs de qualités, une marque aux valeurs importantes.
+    Instinct Trail est d’ailleurs engagé écologiquement et écoresponsables."
 
 ---
