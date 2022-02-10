@@ -124,7 +124,9 @@ menu:
     txt-button: Entrer dans le e-Shop
   column-01:
   - nested: Acheter, louer, réserver en ligne
-    menu-items: 
+    menu-items:
+    - title: Equipement de Trail / Running
+      href: https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   column-02: 
 - top-level:
     title: Blog

@@ -105,6 +105,7 @@ fields:
   - textarea
   - 3coltxtimgtxt
   - 2colimgtxt
+  - 2coltxtimg
   - parlaxgridtxtimg
   - liststyle01
   - liststyle01numbered
@@ -126,3 +127,5 @@ fields:
       path: Tags
   label: Tags
   description: add 3 tags
+pages:
+- content/_fr/posts/hiver/2022-02-08-2-jours-de-randonnee-raquettes-dans-les-vosges-autour-du-hohneck.md
