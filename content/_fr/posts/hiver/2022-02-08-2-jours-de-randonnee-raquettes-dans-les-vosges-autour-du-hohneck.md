@@ -74,18 +74,19 @@ page_sections:
   title: ''
 - template: 2colimgtxt
   title: 'Jour 1 : Refuge du Sotré - Lac de Blanchemer'
-  content: "* **Distance :** 16 km\n* **Dénivelé :** 630 m de D+\n* **Durée :** 4
-    heures\n* [voir la trace sur Komoot](https://www.komoot.fr/tour/662064584?share_token=a3UUfgv59CC26fvjGvIESSyetTCwKDkKZJ1PpWIjDW3292s5n3&ref=wtd)
-    \ \n  {: .list-style-05}\n\nIl est environ 9h lorsque nous atteignons le point
-    de départ de notre aventure: Les 3 Fours et la promesse d’une vue spectaculaire
-    sur la Combe du Wormspel et le sommet du Hohneck. Ludovic, notre guide sur ce
-    tour, nous indique également que quelques troupeaux de chamois ont pris possession
-    des pentes abruptes sur le versant Est.\n\nNous voila partis depuis 10 minutes
-    que le vent souffle et les nuages évoluent très vite pour voiler et dévoiler le
-    paysage à chaque clignement de cils. Nous prenons le temps de nous approcher de
-    la falaise et apercevons les chamois très à l’aise dans cet environnement.\n\nIl
-    est temps de filer vers le sommet du Hohneck. La montée est simple mais déjà très
-    fraîche et venteuse."
+  content: |-
+    * **Distance :** 16 km
+    * **Dénivelé :** 630 m de D+
+    * **Durée :** 4 heures
+    * -> [voir la trace sur Komoot](https://www.komoot.fr/tour/662064584?share_token=a3UUfgv59CC26fvjGvIESSyetTCwKDkKZJ1PpWIjDW3292s5n3&ref=wtd)
+
+      {: .list-style-05}
+
+    Il est environ 9h lorsque nous atteignons le point de départ de notre aventure: Les 3 Fours et la promesse d’une vue spectaculaire sur la Combe du Wormspel et le sommet du Hohneck. Ludovic, notre guide sur ce tour, nous indique également que quelques troupeaux de chamois ont pris possession des pentes abruptes sur le versant Est.
+
+    Nous voila partis depuis 10 minutes que le vent souffle et les nuages évoluent très vite pour voiler et dévoiler le paysage à chaque clignement de cils. Nous prenons le temps de nous approcher de la falaise et apercevons les chamois très à l’aise dans cet environnement.
+
+    Il est temps de filer vers le sommet du Hohneck. La montée est simple mais déjà très fraîche et venteuse.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499336/website/blog/2-jours-raquettes-vosges/PXL_20220205_083618882_pav2tc.jpg
   alt_text_for_image: Arrivée sur le sommet du Hohneck dans le vent, la glace et la
     neige
