@@ -75,8 +75,6 @@ page_sections:
 - template: 2colimgtxt
   title: 'Jour 1 : Refuge du Sotré - Lac de Blanchemer'
   content: |-
-    {: .list-style-05}
-
     * **Distance :** 16 km
     * **Dénivelé :** 630 m de D+
     * **Durée :** 4 heures
