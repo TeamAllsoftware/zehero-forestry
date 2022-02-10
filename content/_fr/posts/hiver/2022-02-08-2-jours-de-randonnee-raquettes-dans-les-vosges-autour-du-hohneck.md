@@ -75,12 +75,12 @@ page_sections:
 - template: 2colimgtxt
   title: 'Jour 1 : Refuge du Sotré - Lac de Blanchemer'
   content: |-
+    {: .list-style-05}
+
     * **Distance :** 16 km
     * **Dénivelé :** 630 m de D+
     * **Durée :** 4 heures
     * -> [voir la trace sur Komoot](https://www.komoot.fr/tour/662064584?share_token=a3UUfgv59CC26fvjGvIESSyetTCwKDkKZJ1PpWIjDW3292s5n3&ref=wtd)
-
-    {: .list-style-05}
 
     Il est environ 9h lorsque nous atteignons le point de départ de notre aventure: Les 3 Fours et la promesse d’une vue spectaculaire sur la Combe du Wormspel et le sommet du Hohneck. Ludovic, notre guide sur ce tour, nous indique également que quelques troupeaux de chamois ont pris possession des pentes abruptes sur le versant Est.
 
