@@ -14,6 +14,18 @@ button_to_link_to_ze_hero_shop:
   button_text: 'Trouver votre équipement Instinct Trail '
   url_to_shop_zehero: https://shop.ze-hero.com
 page_sections:
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644483486/website/Instinct%20Trail/instinct_156X55_xh7sls.png
+  alt_text_for_image: Logo de la marque Instinct Trail
+  captiontitleuppercase: La marque de sac à dos de trail running
+  title: Fonctionnel, simple et inspiré
+  content: "Découvrez la marque Française Instinct Trail Inspired : \n\nSac à dos
+    d'hydratation de running et ceinture de course à pied  \nVêtement de trail technique
+    : T-shirt et Short  \nAccessoires : Casquettes et manchon  \nBagagerie de voyage "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Instinct Trail Inspired
   content: |-
@@ -88,5 +100,6 @@ page_sections:
     et sa recherche est sans cesse approfondi.  \nEtre partenaire de cette marque,
     c’est apporté aux coureurs des sacs de qualités, une marque aux valeurs importantes.
     Instinct Trail est d’ailleurs engagé écologiquement et écoresponsables."
+published: false
 
 ---
