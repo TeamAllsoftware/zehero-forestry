@@ -79,6 +79,7 @@ page_sections:
     * **Dénivelé :** 630 m de D+
     * **Durée :** 4 heures
     * -> [voir la trace sur Komoot](https://www.komoot.fr/tour/662064584?share_token=a3UUfgv59CC26fvjGvIESSyetTCwKDkKZJ1PpWIjDW3292s5n3&ref=wtd)
+    {: .list-style-05}
 
     Il est environ 9h lorsque nous atteignons le point de départ de notre aventure: Les 3 Fours et la promesse d’une vue spectaculaire sur la Combe du Wormspel et le sommet du Hohneck. Ludovic, notre guide sur ce tour, nous indique également que quelques troupeaux de chamois ont pris possession des pentes abruptes sur le versant Est.
 
@@ -241,9 +242,14 @@ page_sections:
   title: ''
 - template: 2colimgtxt
   title: 'Jour 2 : Lac de Blanchemer - Refuge du Sotré'
-  content: "* **Distance :** 10,5 km\n* **Dénivelé :** 450 m de D+\n* **Durée :**
-    3 heures\n* [voir la trace sur Komoot](https://www.komoot.fr/tour/662384895?share_token=aWRk1UrltJczDhZbSAzkeGbcwRPMq4ja6v5sXqmVGnkm6BsWjE&ref=wtd)
-    \ \n  {: .list-style-05}\n\nRéveil naturel à 7h30 avec la vue sur le lac gelé.
+  content: "
+    * **Distance :** 10,5 km
+    * **Dénivelé :** 450 m de D+
+    * **Durée :** 3 heures
+    * -> [voir la trace sur Komoot](https://www.komoot.fr/tour/662384895?share_token=aWRk1UrltJczDhZbSAzkeGbcwRPMq4ja6v5sXqmVGnkm6BsWjE&ref=wtd)
+    {: .list-style-05}
+
+    Réveil naturel à 7h30 avec la vue sur le lac gelé.
     Un vent important a soufflé toute la nuit et souffle encore. Je m’extirpe de mon
     sac de couchage et me dirige vers le lac pour apprécier la vue et le moment. Hugues
     et moi sommes reposés et plutôt fiers de notre nuit de bivouac hivernal dans la
