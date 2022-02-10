@@ -22,7 +22,7 @@ fields:
   default: ''
   config:
     required: true
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: markdown
   label: title
