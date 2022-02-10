@@ -364,19 +364,17 @@ page_sections:
     href_button: ''
     alt_button: ''
 - template: textarea
-  title: Et dans ton sac tu mets quoi ?
-  content: |
+  content: |-
     Pour vous donner une idée, je vous partage le contenu de mon sac à dos (poids total de 8,5 kg)
 
-    | Fonction | Article | Poids en grammes |
     | --- | --- | --- |
+    | Fonction | Article | Poids en gm |
     | Boire | Gobelet metal 400 ml | 125 |
     | Boire | Platypus | 26 |
     | Boire | Platypus mousqueton | 40 |
-    | Boire | Lampe frontale | 85 |
     | Boire | Gobelet plastique pliable | 21 |
-    | Diver | Baton rando X2 | 570 |
-    | Divers | Mini Fourneau | 225 |
+    | Divers | Lampe frontale | 85 |
+    | Divers | Baton rando X2 | 570 |
     | Divers | Mini pelle bleue | 20 |
     | Layer 1 | Débardeur 100% mérinos | 125 |
     | Layer 1 | Polo 100% merinos manches longues | 360 |
@@ -384,13 +382,14 @@ page_sections:
     | Layer 2 | Doudoune Bergans 800 cuins | 582 |
     | Layer 2 | Chemise flanelle | 300 |
     | Layer 3 | Veste Evadic | 230 |
+    | Manger | Mini Fourneau | 225 |
     | Manger | Combo couteau, fourchette | 66 |
     | Manger | Repas (4 repas + à cotés) | 1400 |
     | Nuit | Drap de soie | 110 |
     | Nuit | Sac de couchage Wanabee Duvet 5°C confort | 1050 |
     | Nuit | Bivy | 135 |
     | Nuit | Matelas Forclaz R1,7 | 510 |
-    | Nuit | Tarp Queshua | 1000 |
+    | Nuit | Tarp Quechua | 1000 |
     | Nuit | Sardines (7 mini) | 235 |
     | Nuit | Bâche de sol - 160x110 | 108 |
     | Pluie | Guêtres |  |
@@ -398,7 +397,7 @@ page_sections:
     | Pluie | Sur Pantalon pluie | 216 |
     | Pluie | Sur mouffles pluie | 47 |
     | Pluie | Protection de pluie sac à dos |  |
-    | Sac | Mini sacoche Queshua | 82 |
+    | Sac | Mini sacoche Quechua | 82 |
     | Sac | Simond 33L + 8L | 500 |
     | Vêtements | Chaussettes mérinos #1 | 50 |
     | Vêtements | Chaussettes mérinos #2 de nuit | 110 |
@@ -411,6 +410,7 @@ page_sections:
     |  | Batterie 8 000 | 300 |
     |  | Cables Batterie | 55 |
     |  | Trousse de secours | 212 |
+  title: Et dans ton sac, tu mets quoi ?
 tags:
 - randonnée
 - raquettes
