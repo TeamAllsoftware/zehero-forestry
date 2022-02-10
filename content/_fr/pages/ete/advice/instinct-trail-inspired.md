@@ -88,5 +88,6 @@ page_sections:
     et sa recherche est sans cesse approfondi.  \nEtre partenaire de cette marque,
     c'est apporté aux coureurs des sacs de qualités, une marques aux valeurs importantes.
     Instinct Trail est d'ailleurs engagé écologiquement et éco-responsables."
+published: false
 
 ---
