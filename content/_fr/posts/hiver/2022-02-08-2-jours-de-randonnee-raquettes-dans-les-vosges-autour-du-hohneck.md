@@ -242,7 +242,7 @@ page_sections:
   title: ''
 - template: 2colimgtxt
   title: 'Jour 2 : Lac de Blanchemer - Refuge du Sotré'
-  content: "
+  content: |-
     * **Distance :** 10,5 km
     * **Dénivelé :** 450 m de D+
     * **Durée :** 3 heures
@@ -258,7 +258,7 @@ page_sections:
     petit-déjeunons et faisons les sacs rapidement. Le trajet initialement prévu devait
     faire 20 km, mais nous avons réduit de beaucoup car la neige qui tombe depuis
     minuit a déjà déposé 10 bons centimètres et le vent qui souffle fort rend les
-    conditions peu propices à la promenade."
+    conditions peu propices à la promenade.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499339/website/blog/2-jours-raquettes-vosges/PXL_20220205_163504344_dlats5.jpg
   alt_text_for_image: Lac de Blanchemer gelé en hiver dans le massif des Vosges
   captiontitleuppercase: Lac de Blanchemer gelé en hiver dans le massif des Vosges
