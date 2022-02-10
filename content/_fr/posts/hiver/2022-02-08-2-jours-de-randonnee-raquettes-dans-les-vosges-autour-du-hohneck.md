@@ -276,12 +276,10 @@ page_sections:
   atl_text_image_04: La neige glacée commence à fouetter le visage
   title: ''
 - template: textarea
-  content: Ensuite, c’est l’ascension jusqu’au Rainkopf en empruntant la ligne de
-    crête au dessus de la route des crêtes. La poudreuse rend la lecture du tracé
-    difficile. Nous sommes seuls au monde. Nous n’avons croisé personne. Qui voudrait
-    s’aventurer ici dans ces conditions. Le vent souffle à plus de 100 km/h, la neige
-    ne cesse de tomber et il fait froid, très froid. Nous sommes bien équipés même
-    si les chaussures et les gants de Joao commencent à montrer des signes de faiblesse.
+  content: |-
+    Ensuite, c’est l’ascension jusqu’au Rainkopf en empruntant la ligne de crête au dessus de la route des crêtes. La poudreuse rend la lecture du tracé difficile. Nous sommes seuls au monde. Nous n’avons croisé personne. Qui voudrait s’aventurer ici dans ces conditions. Le vent souffle à plus de 100 km/h, la neige ne cesse de tomber et il fait froid, très froid. Nous sommes bien équipés même si les chaussures et les gants de Joao commencent à montrer des signes de faiblesse.
+
+    En sortant du bois pour rejoindre le refuge du Rainkopf, c’est le déluge. Il nous est difficile d’avancer sans manquer d’être déséquilibré par le vent qui souffle par rafale. La neige glacée nous gifle le visage et se dépose sur mes verres de lunette. Je n’y vois plus rien, enfin juste assez pour constater que le paysage est magnifique et qu’il faut que je sorte mon appareil pour faire quelques photos. C’est tellement beau que je ne peux pas repartir sans déclencher.
   title: Ascension jusqu’au Rainkopf
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499373/website/blog/2-jours-raquettes-vosges/PXL_20220206_115826864_rl06zh.jpg
