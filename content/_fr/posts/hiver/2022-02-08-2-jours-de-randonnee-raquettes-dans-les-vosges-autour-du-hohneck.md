@@ -249,15 +249,9 @@ page_sections:
     * -> [voir la trace sur Komoot](https://www.komoot.fr/tour/662384895?share_token=aWRk1UrltJczDhZbSAzkeGbcwRPMq4ja6v5sXqmVGnkm6BsWjE&ref=wtd)
     {: .list-style-05}
 
-    Réveil naturel à 7h30 avec la vue sur le lac gelé.
-    Un vent important a soufflé toute la nuit et souffle encore. Je m’extirpe de mon
-    sac de couchage et me dirige vers le lac pour apprécier la vue et le moment. Hugues
-    et moi sommes reposés et plutôt fiers de notre nuit de bivouac hivernal dans la
-    neige et le vent.\n\nNous retrouvons nos trois compères dans le refuge. Il ne
-    faut pas traîner car les conditions météorologiques s’annoncent mauvaises. Nous
-    petit-déjeunons et faisons les sacs rapidement. Le trajet initialement prévu devait
-    faire 20 km, mais nous avons réduit de beaucoup car la neige qui tombe depuis
-    minuit a déjà déposé 10 bons centimètres et le vent qui souffle fort rend les
+    Réveil naturel à 7h30 avec la vue sur le lac gelé. Un vent important a soufflé toute la nuit et souffle encore. Je m’extirpe de mon sac de couchage et me dirige vers le lac pour apprécier la vue et le moment. Hugues et moi sommes reposés et plutôt fiers de notre nuit de bivouac hivernal dans la neige et le vent.
+    
+    Nous retrouvons nos trois compères dans le refuge. Il ne faut pas traîner car les conditions météorologiques s’annoncent mauvaises. Nous petit-déjeunons et faisons les sacs rapidement. Le trajet initialement prévu devait faire 20 km, mais nous avons réduit de beaucoup car la neige qui tombe depuis minuit a déjà déposé 10 bons centimètres et le vent qui souffle fort rend les
     conditions peu propices à la promenade.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499339/website/blog/2-jours-raquettes-vosges/PXL_20220205_163504344_dlats5.jpg
   alt_text_for_image: Lac de Blanchemer gelé en hiver dans le massif des Vosges
