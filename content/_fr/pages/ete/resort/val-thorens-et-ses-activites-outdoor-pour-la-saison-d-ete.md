@@ -4,7 +4,7 @@ language: fr
 season: summer
 description: Trouvez votre activité outdoor dans la station de Val thorens en Savoie,
   profitez d'une station haute en altitude et de ses activités montagne.
-topnav_color_text: dark
+topnav_color_text: light
 introduction:
   you_arrive: Vous arrivez à Val Thorens et vous souhaitez louer du matériel ou trouver
     une activité
@@ -16,8 +16,9 @@ baseline: Altitude et panorama
 resort_nameid: val_thorens
 resort_naming: Val Thorens
 permalink: "/fr/ete/destination/val-thorens"
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644310084/website/resorts/val-thorens/winter-6960207_1920_cdohjm.jpg
-image01_alt: Coucher de soleil sur les montagnes de Val Thorens
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644397253/website/resorts/val-thorens/Screenshot_3_fdlwmp.jpg
+image01_alt: Vue de la station et des montagnes de Val Thorens avec le Mont Blanc
+  derrière
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité à Val Thorens
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Val+Thorens&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
@@ -36,9 +37,8 @@ page_sections:
     le soleil brillera et vous offrira des couchers de soleil comme vous l'aurez rarement
     vu en montagne."
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644310085/website/resorts/val-thorens/yann-allegre-_JXeqmjpVSk-unsplash_rjn8bc.jpg
-  alt_text_for_image: Personne dans les montagnes de Val Thorens sous les étoiles
-    la nuit avec une frontale
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644397253/website/resorts/val-thorens/Screenshot_2_qlusnd.jpg
+  alt_text_for_image: Vue de la station de Val Thorens avec des fleurs en avant plan
   captiontitleuppercase: Val Thorens, station sportive
   title: Les activités à Val Thorens
   content: "La végétation se fait plus rare dans la station de Val Thorens mais vous
@@ -66,8 +66,8 @@ page_sections:
 
     Val Thorens, Les Menuires et St Martin de Belleville sont des stations incontournables pour la pratique du VTT. Ce sont des pistes pour tous les niveaux et 120 km de piste de randonnées avec 21 itinéraires. Vous trouverez des pistes de DH, d'enduro, et de cross country, des parcs. Un paradis pour tous les amateurs de VTT. Si vous aimez aussi le vélo de route, vous pourrez trouver de nombreux parcours idéaux pour grimper et découvrir les routes de Savoie et dans les alentours de Val Thorens.
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644310084/website/resorts/val-thorens/mountain-4862808_1920_atw8il.jpg
-  alt_text_for_image: Vue d'un lac de montagne à Val Thorens
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644397448/website/resorts/val-thorens/VTT_Crosscountry-Jeremy_BERNARD-29020-1600px_ovqeki.jpg
+  alt_text_for_image: Des VTTistes qui descendes des chemins en VTT à Val Thorens
   captiontitleuppercase: Sensation et bien être
   title: Le plein d'air pur à Val Thorens
   content: |-

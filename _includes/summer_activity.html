@@ -52,7 +52,7 @@
                         <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
                             <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ activity.title }}</h6>
                             <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ activity.baseline }}</span>
-                            <a href="{{ activity.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.activity.readmore }}</a>
+                            <a href="{{ activity.url }}" title="Lien vers la page: {{ activity.title }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.activity.readmore }}<span class="d-none">: {{ activity.title }}</span></a>
                         </div>
                     </div>
                 </div>

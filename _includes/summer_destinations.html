@@ -52,7 +52,7 @@
                         <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
                             <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ resort.resort_naming }}</h6>
                             <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ resort.baseline }}</span>
-                            <a href="{{ resort.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.resort.readmore }}</a>
+                            <a href="{{ resort.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top" title="{{ config.resort.readmore }}: {{ resort.resort_naming }}">{{ config.resort.readmore }} <span class="d-none">: {{ resort.resort_naming }}</span></a>
                         </div>
                     </div>
                 </div>
