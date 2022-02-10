@@ -22,6 +22,8 @@ page_sections:
     Aujourd'hui elle est devenue une référence dans le développement et la conception des sacs à dos, des sacs d'hydrations de trail running. Elle s'est également positionnement sur un textile très technique pour le trail, ainsi que sur des accessoires tel que les casquettes, des manchons...
 
     Ces sac d'hydratation de trail sont conçus comme les sacs les plus fonctionnelles, anatomiques et ergonomique du marché. La création de ces sacs, c'est la recherche de ce que le coureur a besoin pendant ses trails. C'est l'expérience du terrain, comprendre les gestes simples mais important lorsqu'on utilise son sac pour boire, pour chercher à manger. C'est surtout avoir un sac qui serait comme une seconde peau avec des rangements faciles et utiles pour les utiliser. Les sacs Instinct Trail ont pour but également, la liberté totale de mouvement, un réglage sur-mesure et aucun ballotement.
+
+    Des sacs ultra conforts pour des respiration sans aucunes contraintes. Ces sacs restent très légers mais sont résistants. Ils répondent aux questionnement, de comment boire et s'alimenter facilement afin de transporter son équipement facilement.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644409543/website/Instinct%20Trail/244301246_4497480070331104_4292859160198147845_n_sxdl69.jpg
   alt_text_for_image: Coureur de trail lors du MIUT avec des habits et sac de trail
@@ -42,10 +44,13 @@ page_sections:
   title: Les différents sacs Instinct Trail
   content: "Voici les différents sac de trail Instinct Trail :\n\n* PX 3.1L\n* Ambition
     4.5L\n* Evolution 7L\n* X 10L\n* Eklispe 12L\n* XX 18-24L\n\nTous les sacs comportent
-    2 poches à flasques de 600ml à l'avant de chaque cotés. Certains permettront de
-    rajouter en plus un poche à eau au niveau dorsal.   \nIls permettent tous d'attacher
+    2 poches à flasques de 600ml à l'avant, de chaque cotés. Certains permettront
+    de rajouter en plus un poche à eau au niveau dorsal.  \nIls permettent tous d'attacher
     vos bâtons de trail pliables, grâce à différents élastiques qui permettent de
-    les attacher et de les maintenir sans bouger."
+    les attacher de différentes manières et de les maintenir sans bouger.\n\nChaque
+    sac de trail comportent toutes ces caractéristiques :\n\n* Une empreinte corporelle
+    minimale\n* Portage haut afin de boire facilement, de limiter les frottements\n*
+    Des matières très qualitatives\n* Fit adapté"
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/InStinct-Web-Focus-AMBITION-back-1-2020-1250x938-1_adlkzi.jpg
   atl_text_image_01: Coureur avec un sac instinct Trail
@@ -57,6 +62,21 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/InStinct_Eklipse_Poles_1250x938_xyrwnl.jpg
   atl_text_image_04: Trois différentes vues d'un sac Instinct Trail
   title: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644481997/website/Instinct%20Trail/Instinct_Reflex_Belt_Ghost_3-4_Front_Empty_cffgyn.jpg
+  alt_text_for_image: Ceinture de course à pied, reflex blet d'Instinct Trail
+  captiontitleuppercase: Ceinture de Trail
+  title: La Reflex Belt d'Instinct Trail
+  content: |-
+    La Reflex Blet est une ceinture de trail qui permet de transporter différentes choses sans partir avec un sac à dos. Très intuitive, légère et confortable, cette ceinture vous accompagnera pour des petits footing jusqu'à des trails de 2h.
+
+    C'est parfaite alternative afin de partir plus léger, sans sac et si vous aimez prendre ce dont vous avez besoin seulement autour de la taille.
+
+    La Reflex Blet est une ceinture d'hydratation qui ne ballotement aucunement même en étant remplis.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: Ze Hero partenaire avec Instinct Trail
   content: "Nous avons décidé, Ze Hero, d'être partenaire avec la marque Instinct
@@ -65,9 +85,9 @@ page_sections:
     de mieux, de plus simple, de plus fonctionnel. Chaque détail du sac est pensé
     et réfléchi pour que le coureur se sente à l'aise et que son sac l'accompagne
     dans sa course. Tous les produits d'Instinct Trail sont très techniques et ergonomique
-    et sa recherche est sans cesse approfondi.   \nEtre partenaire de cette marque,
+    et sa recherche est sans cesse approfondi.  \nEtre partenaire de cette marque,
     c'est apporté aux coureurs des sacs de qualités, une marques aux valeurs importantes.
-    Instinct Trail est d'ailleurs engagé écologiquement"
+    Instinct Trail est d'ailleurs engagé écologiquement et éco-responsables."
 published: false
 
 ---
