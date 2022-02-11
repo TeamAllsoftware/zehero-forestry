@@ -6,7 +6,7 @@ cat: brand
 description: Instinct Trail est une marque technique de trail running. Spécialisé
   dans les sac à dos de trail compacts, fonctionnels et légers, elle offre également
   une gamme de vêtement et d'accessoire technique de course à pied.
-topnav_color_text: light
+topnav_color_text: dark
 title: Instinct Trail Inspired
 permalink: "/fr/marque/instinct-trail-inspired"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644409543/website/Instinct%20Trail/104467426_1405340209666139_5138196132130000830_n_terwzl.png
