@@ -113,7 +113,13 @@ menu:
       href: "/fr/qui-sommes-nous"
     - title: Nous contacter
       href: "/fr/contact"
-  column-02: 
+  column-02:
+  - nested: Les marques
+    menu-items:
+    - title: Fausse Route
+      href: "/fr/marque/fausseroute"
+    - title: Instinct Trail Inspired
+      href: "/fr/marque/instinct-trail-inspired" 
 - top-level:
     title: Réserver
     id: eshop
