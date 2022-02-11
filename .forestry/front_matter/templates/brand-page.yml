@@ -114,3 +114,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- content/_fr/pages/various/brands/fausse-route.md
