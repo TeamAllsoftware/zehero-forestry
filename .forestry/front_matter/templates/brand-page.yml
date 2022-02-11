@@ -5,7 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
-  hidden: false
+  hidden: true
   default: layout_brand
   config:
     required: true
