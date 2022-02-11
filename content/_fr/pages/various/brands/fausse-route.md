@@ -12,21 +12,19 @@ baseline: Elégant et performant
 engage: Des vêtements 100% laine mérinos pour l'outdoor
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593881/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-20_jny6lv.jpg
 image01_alt: un polo élégant manches courtes et manches longues 100% laine mérinos
-brand_logo_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644594750/website/marques/Fausse%20Route/square-logo-Fausse_Route-fond_blanc-2000px_ci7tur.png
+brand_logo_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644594749/website/marques/Fausse%20Route/square-logo-Fausse_Route-fond_noir-2000px_nhdabs.png
 page_sections:
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644594749/website/marques/Fausse%20Route/square-logo-Fausse_Route-fond_noir-2000px_nhdabs.png
-  alt_text_for_image: Logo Fausse Route
-  captiontitleuppercase: Gentle[wo]man cyclists
-  title: Fausse Route - Elégance et confort pour cyclistes urbains et randonneurs
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593940/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-58_cv3iam.jpg
+  alt_text_for_image: Un polo Fausse Route pour des aventures bikepacking
+  captiontitleuppercase: Intemporel et casual chic
+  title: Elégance et confort pour cyclistes urbains et randonneurs
   content: |-
     Nous concevons, designons et produisons des vêtements élégants et confortables pour les déplacements quotidiens à vélo.
 
     Oubliez la tenue moulante jaune et blanche en Lycra. La pratique du vélo n'est plus réservée aux cyclistes sur piste. Cependant, pour faciliter votre usage en toute occasion nous avons imaginé un équipement spécifique.
 
     Nous pensons que la pratique du vélo doit allier élégance et confort. Cette alliance n'est possible qu'avec un choix méticuleux des textiles et un design adapté pour favoriser l'évacuation de la transpiration et éliminer les odeurs tout en vous gardant au sec.
-
-    **Fausse Route :** intemporel et casual chic.
   button:
     href_button: https://shop.ze-hero.com/achat-neuf/vetement-neuf/sous-vetement-technique-neuf
     text_button: Acheter maintenant
