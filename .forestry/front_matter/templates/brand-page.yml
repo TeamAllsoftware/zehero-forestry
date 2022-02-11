@@ -1,12 +1,12 @@
 ---
-label: blog post
+label: Activity page
 hide_body: true
 fields:
 - type: text
   name: layout
   label: layout
   hidden: true
-  default: blog_post
+  default: layout_activity
   config:
     required: true
 - name: language
@@ -37,37 +37,36 @@ fields:
       file: 
       path: 
   label: season
-- name: author
-  type: select
-  default: []
-  config:
-    required: true
-    options:
-    - geoffreyarduini
-    - yannalarcon
-    source:
-      type: simple
-      section: fr
-      file: content/_fr/posts/20211204-le-spitboard-pour-randonner-jusqu-au-sommet.md
-      path: 
-  label: author
-- type: text
-  name: title
-  label: URL for this post
-  config:
-    required: true
-  description: 'Must be at this format : YYYY-MM-DD-title-of-the-article<br>Use the
-    "dash" separator'
-- name: post-title
+- name: title
   type: text
   config:
     required: true
   label: Title
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: URL for this page
+  description: 'Page url''s are on this model : "/fr/marque/nom-de-la-marque"'
 - type: text
   name: description
   label: description
   config:
     required: true
+- type: text
+  name: baseline
+  label: baseline
+  description: 3 or 4 words to summarize quickly
+  config:
+    required: true
+- type: text
+  name: engage
+  label: engage
+  config:
+    required: true
+    max: 60
+    min: 40
+  description: Min 40 charcters and Max 60 characters
 - name: image01_href
   type: text
   config:
@@ -115,18 +114,4 @@ fields:
   config:
     min: 
     max: 
-- name: tags
-  type: list
-  config:
-    use_select: true
-    min: 3
-    max: 3
-    source:
-      type: documents
-      section: tags
-      file: _data/tags.yml
-      path: Tags
-  label: Tags
-  description: add 3 tags
 pages:
-- content/_fr/posts/hiver/2022-02-08-2-jours-de-randonnee-raquettes-dans-les-vosges-autour-du-hohneck.md

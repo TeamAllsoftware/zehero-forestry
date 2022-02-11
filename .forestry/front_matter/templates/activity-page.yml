@@ -104,6 +104,7 @@ fields:
   - textarea
   - 3coltxtimgtxt
   - 2colimgtxt
+  - 2coltxtimg
   - parlaxgridtxtimg
   - liststyle01
   - liststyle01numbered
