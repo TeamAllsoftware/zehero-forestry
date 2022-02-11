@@ -112,6 +112,7 @@ fields:
   - textarea
   - 3coltxtimgtxt
   - 2colimgtxt
+  - 2coltxtimg
   - parlaxgridtxtimg
   - liststyle01
   - liststyle01numbered
@@ -127,7 +128,6 @@ pages:
 - content/_fr/pages/ete/advice/comment-debuter-le-trail.md
 - content/_fr/pages/ete/advice/comment-s-equiper-en-trail.md
 - content/_fr/pages/ete/advice/faire-du-fractionne-en-trail.md
-- content/_fr/pages/ete/advice/instinct-trail-inspired.md
 - content/_fr/pages/ete/advice/la-preparation-d-une-course-de-trail.md
 - content/_fr/pages/ete/advice/les-itineraires-de-trail-dans-les-alpes-maritimes.md
 - content/_fr/pages/ete/advice/sejours-et-activites-en-velo-de-route.md

@@ -50,28 +50,4 @@ layout: default
 </section>
 <!-- end section -->
 
-{% for block in page.page_sections %}
-  {% assign template = block.template %}
-  {% case template %}
-  {% when 'textarea' %}
-    {% include blocks/blocks_{{ template }}.html %}
-  {% when '3coltxtimgtxt' %}
-    {% include blocks/blocks_{{ template }}.html %}
-  {% when '2colimgtxt' %}
-    {% include blocks/blocks_{{ template }}.html %}
-  {% when '2coltxtimg' %}
-    {% include blocks/blocks_{{ template }}.html %}
-  {% when 'parlaxgridtxtimg' %}
-    {% include blocks/blocks_{{ template }}.html %}
-  {% when 'liststyle01' %}
-    {% include blocks/blocks_{{ template }}.html %}
-  {% when 'liststyle01numbered' %}
-    {% include blocks/blocks_{{ template }}.html %}
-  {% when 'imagegallery02' %}
-    {% include blocks/blocks_{{ template }}.html %}
-  {% when 'numberinfo' %}
-    {% include blocks/blocks_{{ template }}.html %}
-  {% when 'cta' %}
-    {% include blocks/blocks_{{ template }}.html %}
-  {% endcase %}
-{% endfor %}
+{% include elements/forestry_blocks.html %}

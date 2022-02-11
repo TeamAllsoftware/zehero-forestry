@@ -26,9 +26,10 @@ sections:
 - type: directory
   path: content/_fr/pages/various
   label: Various pages
-  create: documents
+  create: all
   match: "**/*"
   templates:
+  - brand-page
   - generic-page
 - type: heading
   label: French hiver
