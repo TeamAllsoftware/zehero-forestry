@@ -1,5 +1,5 @@
 ---
-layout: layout_advice
+layout: layout_brand
 language: fr
 season: summer
 description: Instinct Trail est une marque technique de trail running. Spécialisé
@@ -7,7 +7,7 @@ description: Instinct Trail est une marque technique de trail running. Spéciali
   une gamme de vêtement et d'accessoire technique de course à pied.
 topnav_color_text: light
 title: Instinct Trail Inspired
-permalink: "/fr/ete/conseil/instinct-trail-inspired"
+permalink: "/fr/marque/instinct-trail-inspired"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644409543/website/Instinct%20Trail/104467426_1405340209666139_5138196132130000830_n_terwzl.png
 image01_alt: Deux coureurs de trail portant les sacs et vêtement Instinct trail
 button_to_link_to_ze_hero_shop:
@@ -100,6 +100,5 @@ page_sections:
     et sa recherche est sans cesse approfondi.  \nEtre partenaire de cette marque,
     c’est apporté aux coureurs des sacs de qualités, une marque aux valeurs importantes.
     Instinct Trail est d’ailleurs engagé écologiquement et écoresponsables."
-published: false
 
 ---
