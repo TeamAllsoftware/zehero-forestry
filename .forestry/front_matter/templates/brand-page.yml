@@ -86,12 +86,6 @@ fields:
   label: Image cover alternative text
   description: Your beautiful image cover needs a text describing it.... it is SEO
     related
-- name: brand_logo_href
-  type: text
-  config:
-    required: true
-  label: logo of the brand
-  description: Upload the official brand logo
 - name: topnav_color_text
   type: select
   default: dark
@@ -109,7 +103,13 @@ fields:
   description: top navigation menu text color must be white or black ? depends on
     the background image tone (dark or light) or color (dark or light). If background
     is dark and you want a white text select "dark"
-  hidden: true
+  hidden: false
+- name: brand_logo_href
+  type: text
+  config:
+    required: true
+  label: logo of the brand
+  description: Upload the official brand logo
 - name: page_sections
   type: blocks
   label: Page Sections
