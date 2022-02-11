@@ -1,0 +1,76 @@
+---
+label: Brand Layout
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: language
+  label: language
+- type: text
+  name: season
+  label: season
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: topnav_color_text
+  label: topnav_color_text
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: file
+  name: image01_href
+  label: image01_href
+- type: text
+  name: image01_alt
+  label: image01_alt
+- type: field_group
+  name: button_to_link_to_ze_hero_shop
+  label: button_to_link_to_ze_hero_shop
+  fields:
+  - type: text
+    name: button_text
+    label: button_text
+  - type: text
+    name: url_to_shop_zehero
+    label: url_to_shop_zehero
+- type: field_group_list
+  name: page_sections
+  label: page_sections
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: file
+    name: image_col_left_href
+    label: image_col_left_href
+  - type: text
+    name: alt_text_for_image
+    label: alt_text_for_image
+  - type: text
+    name: captiontitleuppercase
+    label: captiontitleuppercase
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: text_button
+      label: text_button
+    - type: text
+      name: href_button
+      label: href_button
+    - type: text
+      name: alt_button
+      label: alt_button
