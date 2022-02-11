@@ -1,12 +1,12 @@
 ---
-label: Activity page
+label: Brand page
 hide_body: true
 fields:
 - type: text
   name: layout
   label: layout
   hidden: true
-  default: layout_activity
+  default: layout_brand
   config:
     required: true
 - name: language
