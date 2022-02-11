@@ -2,6 +2,7 @@
 layout: layout_brand
 language: fr
 season: winter
+cat: brand
 topnav_color_text: dark
 title: Fausse Route
 permalink: "/fr/marque/fausseroute"
@@ -11,6 +12,7 @@ baseline: Elégant et performant
 engage: Des vêtements 100% laine mérinos pour l'outdoor
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593881/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-20_jny6lv.jpg
 image01_alt: un polo élégant manches courtes et manches longues 100% laine mérinos
+brand_logo_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644594750/website/marques/Fausse%20Route/square-logo-Fausse_Route-fond_blanc-2000px_ci7tur.png
 page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644594749/website/marques/Fausse%20Route/square-logo-Fausse_Route-fond_noir-2000px_nhdabs.png

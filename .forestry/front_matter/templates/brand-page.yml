@@ -9,6 +9,13 @@ fields:
   default: layout_brand
   config:
     required: true
+- type: text
+  name: categorie
+  label: cat
+  hidden: true
+  default: brand
+  config:
+    required: true
 - name: language
   type: select
   default: []
@@ -79,6 +86,12 @@ fields:
   label: Image cover alternative text
   description: Your beautiful image cover needs a text describing it.... it is SEO
     related
+- name: brand_logo_href
+  type: text
+  config:
+    required: true
+  label: logo of the brand
+  description: Upload the official brand logo
 - name: topnav_color_text
   type: select
   default: dark

@@ -4,19 +4,20 @@ layout: default
 
 {% include elements/generic_variables.html %}
 
-<section class="parallax half-section" data-parallax-background-ratio="0.5" style="background-image:url('https://res.cloudinary.com/deddrj0yb/image/upload/v1644409543/website/Instinct%20Trail/104467426_1405340209666139_5138196132130000830_n_terwzl.png');">
+{% capture download_note %}{{ page.image01_href }}{% endcapture %}
+<section class="parallax half-section" data-parallax-background-ratio="0.5" style="background-image:url('{% include image.html file=download_note sizevar="genhero" width="" height="" gradient="grad"  %}');">
   <div class="opacity-light"></div>
   <div class="container">
       <div class="row justify-content-center">
           <div class="col-12 col-lg-7 col-md-9 position-relative d-flex flex-column justify-content-center align-items-center small-screen">
               <div class="page-title-large text-center margin-40px-bottom">
-                  <h1 class="bg-green alt-font text-white font-weight-500 letter-spacing-minus-1 mb-0">{{ page.title }}</h1>
+                  <h1 class="bg-black alt-font text-white font-weight-500 letter-spacing-minus-1 mb-0"> {{ page.title }} </h1>
               </div>
           </div>
       </div>
   </div>
 </section>
 
-{% include elements/subscribe.html %}
-
 {% include elements/forestry_blocks.html %}
+
+{% include elements/subscribe.html %}
