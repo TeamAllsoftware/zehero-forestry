@@ -92,5 +92,12 @@ page_sections:
   atl_text_image_03: 4 couleurs de ce polo 100% laine mérinos
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593899/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-59_jqn9zv.jpg
   atl_text_image_04: Partez en bikepacking et soyez à l'aise au restaurant ou au gîte
+- template: cta
+  intro: Fausse Route & ZE HERO
+  headline: Une gamme de vêtements technique en laine mérinos
+  button:
+    text_button: Voir la collection
+    href_button: https://shop.ze-hero.com/achat-neuf/vetement-neuf/sous-vetement-technique-neuf
+categorie: ''
 
 ---
