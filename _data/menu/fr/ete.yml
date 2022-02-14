@@ -75,8 +75,14 @@ menu:
   column-01:
   - nested: Les stations de montagne
     menu-items:
+    - title: Alpe d'Huez
+      href: "/fr/ete/destination/alpe-huez"
+    - title: Les ménuires
+      href: "/fr/ete/destination/les-menuires"
     - title: Méribel
       href: "/fr/ete/destination/meribel"
+    - title: Val-Thorens
+      href: "/fr/ete/destination/val-thorens"
   column-02:
   - nested: Les stations balnéaires
     menu-items:
@@ -119,7 +125,7 @@ menu:
     - title: Fausse Route
       href: "/fr/marque/fausseroute"
     - title: Instinct Trail Inspired
-      href: "/fr/marque/instinct-trail-inspired" 
+      href: "/fr/marque/instinct-trail-inspired"
 - top-level:
     title: Réserver
     id: eshop
