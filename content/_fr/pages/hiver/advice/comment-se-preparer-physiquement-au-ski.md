@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: winter
-description: Afin d'être en forme physiquement avant votre séjour au ski, voilà quelques
+meta-title: Conseil ski, comment bien se préparer physiquement pour le ski alpin
+meta-description: Afin d'être en forme physiquement avant votre séjour au ski, voilà quelques
   exercices à faire pour se préparer pour le ski.
 topnav_color_text: light
 title: Comment se préparer physiquement au ski ?

@@ -2,8 +2,8 @@
 layout: layout_resort
 language: fr
 season: summer
-description: Trouvez votre activité outdoor dans la station de Val thorens en Savoie,
-  profitez d'une station haute en altitude et de ses activités montagne.
+meta-title: Activités outdoor à Val-Thorens pour l'été
+meta-description: Trouvez votre activité outdoor dans la station de Val thorens en Savoie, profitez d'une station haute en altitude et de ses activités montagne.
 topnav_color_text: light
 introduction:
   you_arrive: Vous arrivez à Val Thorens et vous souhaitez louer du matériel ou trouver

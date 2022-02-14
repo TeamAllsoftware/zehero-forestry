@@ -2,7 +2,8 @@
 layout: layout_coach
 language: fr
 season: winter
-description: Un coach pour votre préparation physique et mental, que vous soyez débutant,
+meta-title: Coach sportif Nathan Alarçon, préparateur physique et mental pour un hiver sportif
+meta-description: Un coach pour votre préparation physique et mental, que vous soyez débutant,
   amateur ou expert
 topnav_color_text: dark
 title: Nathan Alarçon, coach préparation physique et mentale

@@ -63,9 +63,14 @@ fields:
   config:
     required: true
   label: Title
-- type: text
-  name: description
-  label: description
+- name: meta-title
+  label: META Title
+  type: text
+  config:
+    required: true
+- name: meta-description
+  label: META description
+  type: text
   config:
     required: true
 - name: image01_href

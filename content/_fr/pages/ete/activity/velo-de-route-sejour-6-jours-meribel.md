@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: Vélo de route - Séjour 6 jours - Méribel
 permalink: "/fr/ete/activite/velo-de-route-sejour-6-jours-meribel"
-description: Chez Ze Hero, avec l’appui de Prosneige, nous avons créer ce séjour vélo
+meta-title: Séjour de 6 jours de vélo aux alentours de la station de Méribel
+meta-description: Chez Ze Hero, avec l’appui de Prosneige, nous avons créer ce séjour vélo
   de découverte et progression à Méribel. Venez ainsi découvrir nos différentes vallées
   et lacs entourés de nos belles montagnes.
 baseline: Un séjour sportif
@@ -15,7 +16,7 @@ image01_alt: Plusieurs cyclistes faisant du vélo à Méribel
 page_sections:
 - template: textarea
   title: 'Vélo de route - Séjour de 6 journées - Méribel '
-  content: 'Chez Ze Hero, avec l’appui de Prosneige, nous avons créer ce séjour vélo
+  content: 'Chez Ze Hero, avec l’appui de Prosneige, nous avons créé ce séjour vélo
     de découverte et progression en altitude. Venez ainsi découvrir nos différentes
     vallées et lacs entourés de nos belles montagnes. Vous pourrez également vous
     mesurer à quelques-uns des plus beaux cols des derniers Tours de France. Par ailleurs,

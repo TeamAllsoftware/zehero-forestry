@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: La traversée des Alpes en vélo
 permalink: "/fr/ete/activite/traversee-des-alpes-en-velo"
-description: Réalisez la traversée des Alpes en Vélo. Partagez des moments inoubliables
+meta-title: Bikepacking pour la traversée des Alpes, une randonnée vélo extraordinaire
+meta-description: Réalisez la traversée des Alpes en Vélo. Partagez des moments inoubliables
   en roulant à travers des paysages magnifiques
 baseline: Traversé, endurance et liberté
 engage: Traversez les Alpes à vélo par les cols mythiques

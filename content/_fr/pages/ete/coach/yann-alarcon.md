@@ -2,7 +2,8 @@
 layout: layout_coach
 language: fr
 season: summer
-description: Un coach pour votre préparation physique et vos prochains défis, que
+meta-title: Coach sportif Yann Alarçon, préparateur physique pour vos prochains défis
+meta-description: Un coach pour votre préparation physique et vos prochains défis, que
   vous soyez débutant, amateur ou expert
 topnav_color_text: dark
 title: Yann Alarçon, coach et préparateur physique

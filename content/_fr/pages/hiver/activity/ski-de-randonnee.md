@@ -5,7 +5,8 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Ski de randonnée
-description: Partez explorer les montagnes en ski de randonnée afin de profiter d'une
+meta-title: Réserver des cours de ski de randonnée pour explorer la montagne dans le calme
+meta-description: Partez explorer les montagnes en ski de randonnée afin de profiter d'une
   montagne pure et sauvage
 baseline: Endurance, découverte et ascension
 engage: Profiter de la nature sans la cohue des pistes

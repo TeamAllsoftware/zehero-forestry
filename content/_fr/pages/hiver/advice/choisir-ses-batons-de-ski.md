@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: winter
-description: Comment choisir ses bâtons de ski en fonction de sa discipline, de sa
+meta-title: Conseil ski, comment choisir des bâtons de ski en fonction de votre pratique
+meta-description: Comment choisir ses bâtons de ski en fonction de sa discipline, de sa
   taille et de son matériel.
 topnav_color_text: light
 title: Choisir ses bâtons de ski

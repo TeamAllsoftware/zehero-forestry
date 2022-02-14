@@ -2,7 +2,8 @@
 layout: layout_coach
 language: fr
 season: winter
-description: Un coach sportif pour votre préparation physique et vos prochains défis,
+meta-title: Coach sportif Yann Alarçon, préparateur physique pour vos prochains défis de l'hiver
+meta-description: Un coach sportif pour votre préparation physique et vos prochains défis,
   que vous soyez débutant, amateur ou expert
 topnav_color_text: dark
 title: Yann Alarçon, coach sportif

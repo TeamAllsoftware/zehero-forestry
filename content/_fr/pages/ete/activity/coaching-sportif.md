@@ -5,8 +5,8 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Coaching sportif
-description: Profitez d'un coach et d'une séance de coaching sportif afin d'atteindre
-  vos prochains objetcifs
+meta-title: Réserver un coach sportif pour vous préparer physiquement et mentalement
+meta-description: Profitez d'un coach et d'une séance de coaching sportif afin d'atteindre vos prochains objetcifs
 baseline: Préparation physique, dépassement, entraînement
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/victor-freitas-hOuJYX2K5DA-unsplash_gg95nq.jpg
 image01_alt: Course à pied sur piste en groupe

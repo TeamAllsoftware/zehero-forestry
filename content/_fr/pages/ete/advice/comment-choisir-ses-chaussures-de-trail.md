@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: summer
-description: Il est important de comprendre les différentes notions pour bien choisir
+meta-title: Conseil sportif pour bien choisir ses chaussures de trail
+meta-description: Il est important de comprendre les différentes notions pour bien choisir
   ses chaussures de trail
 topnav_color_text: light
 title: Comment choisir ses chaussures de trail ?

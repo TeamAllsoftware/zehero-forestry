@@ -5,7 +5,8 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Activités pour les enfants
-description: Vous pouvez réserver pour vos enfants des activités ludiques afin qu'ils
+meta-title: Réserver des activités d'hiver pour vos enfants, ski, raquettes, snowboard
+meta-description: Vous pouvez réserver pour vos enfants des activités ludiques afin qu'ils
   s'amusent pleinement durant votre séjour en montagne.
 baseline: Igloo et boules de neige
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492452/website/winter/jesse-orrico-rnguvzoG-x8-unsplash_lkfhnk.jpg

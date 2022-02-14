@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: Location de Surf en Loire Atlantique
 permalink: "/fr/ete/activite/location-surf-loire-atlantique"
-description: Louer votre matériel de surf en Loire Atlantique. Trouvez votre magasin de location de planche de surf et combinaison.
+meta-title: Louer votre matériel de surf en Loire Atlantique, tout ce qu'il faut savoir se trouve dans notre fiche conseil
+meta-description: Louer votre matériel de surf en Loire Atlantique. Trouvez votre magasin de location de planche de surf et combinaison.
 baseline: Location équipement surf
 engage: Trouvez votre magasin de location de surf / Loire Atlantique
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643807238/website/summer/nico-bhlr-QT-l619id6w-unsplash_lxgnzq.jpg

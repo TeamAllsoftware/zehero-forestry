@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: La location de Paddle dans les Alpes Maritimes
 permalink: "/fr/ete/activite/location-paddle-alpes-maritimes"
-description: Partez explorer les lacs et le littoral des Alpes Maritimes en louant
+meta-title: Venez faire du paddle dans les eaux des Alpes Maritimes
+meta-description: Partez explorer les lacs et le littoral des Alpes Maritimes en louant
   un paddle.
 baseline: Location Paddle Alpes Maritimes
 engage: Explorez les Alpes Maritimes en Paddle sur lac ou mer

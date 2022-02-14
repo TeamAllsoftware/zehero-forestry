@@ -5,11 +5,8 @@ season: summer
 topnav_color_text: dark
 title: Coaching Trail et course à pied Antibes et Alpes Maritimes
 permalink: "/fr/ete/activite/coaching-course-a-pied-trail-antibes-alpes-maritimes"
-description: Si vous pratiquez la course à pied sur route, le trail running et que
-  vous désirez trouver un groupe d’entraînement encadré par un coach, vous trouverez
-  différentes offres à Antibes. Afin de pouvoir progresser au sein d’un groupe d’entraînement,
-  Ze Hero va proposer, par ses coachs de course à pied, différentes séances de trail
-  et de running. 
+meta-title: Réserver un coach sportif Trail et course à pied Antibes et Alpes Maritimes
+meta-description: Si vous pratiquez la course à pied sur route, le trail running et que vous désirez trouver un groupe d’entraînement encadré par un coach, vous trouverez différentes offres à Antibes. Afin de pouvoir progresser au sein d’un groupe d’entraînement, Ze Hero va proposer, par ses coachs de course à pied, différentes séances de trail et de running. 
 baseline: Courir, entrainement, progression
 engage: Accompagnement et progression en course à pied et Trail
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294098/website/Coaching/IMG_20200723_153328_iufidi.jpg

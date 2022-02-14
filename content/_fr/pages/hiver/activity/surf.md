@@ -5,7 +5,8 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Surf
-description: Du surf et des activités aquatiques en eaux froides durant la saison
+meta-title: Réserver des cours de surf pour profiter de la mer en hiver
+meta-description: Du surf et des activités aquatiques en eaux froides durant la saison
   d'hiver est une activité incroyable à réaliser pour se dépasser et vivre une émotion
   forte.
 baseline: Mindfulness, combi épaisse et eau froide

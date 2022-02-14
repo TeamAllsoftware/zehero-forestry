@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: Surf
 permalink: "/fr/ete/activite/surf"
-description: Le surf est une activité d'eau qui permet de glisser sur les vagues et
+meta-title: Le surf des mers se pratique de la Bretagne au Pays Basque en passant par les Landes
+meta-description: Le surf est une activité d'eau qui permet de glisser sur les vagues et
   de vivre des sensations uniques.
 baseline: Take-off, glisse et ride
 engage: De la mousse à la vague, apprenez à glisser en surf

@@ -2,8 +2,8 @@
 layout: layout_resort
 language: fr
 season: summer
-description: La Haute Savoie est un département composée d'une chaine montagneuse
-  incroyable ainsi que des lacs.
+meta-title: Activités outdoor en Haute-Savoie pour l'été
+meta-description: La Haute Savoie est un département composée d'une chaine montagneuse incroyable ainsi que des lacs.
 topnav_color_text: dark
 introduction:
   you_arrive: Découvrez toutes les activités et les différentes locations en Haute

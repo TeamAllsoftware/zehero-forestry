@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: summer
-description: Découvrez nos différents itinéraires de trail et de course à pied dans
+meta-title: Conseil sportif en trail, tous nos itinéraires dans les alpes maritimes et les pré alpes
+meta-description: Découvrez nos différents itinéraires de trail et de course à pied dans
   les pré alpes et les alpes maritimes
 topnav_color_text: light
 title: Les Itinéraires de Trail dans les Alpes Maritimes
