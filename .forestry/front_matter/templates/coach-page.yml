@@ -54,9 +54,16 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: description
-  label: description
+- name: meta-title
+  label: META Title
+  type: text
+  config:
+    required: true
+- name: meta-description
+  label: META description
+  type: text
+  config:
+    required: true
 - type: text
   name: permalink
   label: URL of the page
