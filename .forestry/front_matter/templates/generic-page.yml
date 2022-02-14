@@ -48,14 +48,9 @@ fields:
     required: true
   label: URL for this page
   description: 'Page url''s are on this model : "/fr/qui-sommes-nous"'
-- name: meta-title
-  label: META Title
-  type: text
-  config:
-    required: true
-- name: meta-description
-  label: META description
-  type: text
+- type: text
+  name: description
+  label: description
   config:
     required: true
 - type: text
