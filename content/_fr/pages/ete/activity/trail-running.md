@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: Trail Running
 permalink: "/fr/ete/activite/trail-running"
-description: Profitez de sortie de Trail Running pour découvrir la nature et vous
+meta-title: Le trail, une activité outdoor à pratiquer en montagne, en forêt ou en plaine
+meta-description: Profitez de sortie de Trail Running pour découvrir la nature et vous
   perfectionner dans ce sport.
 baseline: Dépassement, liberté et partage
 engage: Partez fouler chaque sentier en vous dépassant

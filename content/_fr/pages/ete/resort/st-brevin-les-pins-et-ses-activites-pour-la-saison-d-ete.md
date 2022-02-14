@@ -2,8 +2,8 @@
 layout: layout_resort
 language: fr
 season: summer
-description: Profitez de l'océan et de la nature pour un séjour riche en émotion lors
-  de vos prochaines activités à St Brevin les pins
+meta-title: Activités outdoor à Saint-Brévin pour l'été
+meta-description: Profitez de l'océan et de la nature pour un séjour riche en émotion lors de vos prochaines activités à St Brevin les pins
 topnav_color_text: light
 introduction:
   you_arrive: 'Vous arrivez à St Brévin les Pins et souhaitez trouver une activité

@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: winter
-description: Lorsque l'on se trouve sur le domaine skiable afin de skier ou de faire
+meta-title: Conseil ski, connaître les régles d'un domaine skiable 
+meta-description: Lorsque l'on se trouve sur le domaine skiable afin de skier ou de faire
   du ski de randonné, il y a des règles importantes à respecter
 topnav_color_text: light
 title: Connaître les règles importantes lorsque l'on se trouve sur le domaine skiable

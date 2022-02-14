@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: Vélo de route - Traversée des Pré-Alpes
 permalink: "/fr/ete/activite/traversee-des-pre-alpes-en-velo"
-description: 'La traversée des pré-alpes en vélo : Que ce soit de par la beauté de
+meta-title: Sortie vélo de route, la traversée des pré-alpes et ses cols mythiques comme le Ventoux
+meta-description: 'La traversée des pré-alpes en vélo : Que ce soit de par la beauté de
   ses paysages ou son dénivelé, ce format n’a rien à envier au format “Grands Cols”.
   Il offre également, en prime, la possibilité de gravir plusieurs cols mythiques
   tel que le Mont Ventoux.'

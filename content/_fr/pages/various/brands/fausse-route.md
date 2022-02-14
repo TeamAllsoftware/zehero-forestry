@@ -6,8 +6,8 @@ cat: brand
 topnav_color_text: dark
 title: Fausse Route
 permalink: "/fr/marque/fausseroute"
-description: Marque de vêtements pour Gentle[wo]man cyclist. Des vêtements aussi à
-  l'aise en velotaf, au bureau qu'en randonnée vélo bikepacking
+meta-title: Fausse Route, la marque de vêtements 100% laine mérinos pour les aventures outdoor à vélo et en randonnée
+meta-description: Marque de vêtements pour Gentle[wo]man cyclist. Des vêtements aussi à l'aise en velotaf, au bureau qu'en randonnée vélo bikepacking
 baseline: Elégant et performant
 engage: Des vêtements 100% laine mérinos pour l'outdoor
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593881/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-20_jny6lv.jpg

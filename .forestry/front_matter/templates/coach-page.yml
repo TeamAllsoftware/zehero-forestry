@@ -54,9 +54,16 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: description
-  label: description
+- name: meta-title
+  label: META Title
+  type: text
+  config:
+    required: true
+- name: meta-description
+  label: META description
+  type: text
+  config:
+    required: true
 - type: text
   name: permalink
   label: URL of the page
@@ -415,5 +422,5 @@ fields:
     label: Link URL to the store
   label: Section 7 - book a coach
 pages:
-- content/_fr/pages/hiver/coach/nathan-alarcon.md
-- content/_fr/pages/hiver/coach/yann-alarcon.md
+- content/_fr/pages/various/coach/nathan-alarcon.md
+- content/_fr/pages/various/coach/yann-alarcon.md

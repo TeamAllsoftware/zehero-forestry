@@ -5,7 +5,8 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Ski freeride
-description: Partez dans les pentes vierges, volez et flottez dans la neige fraîche
+meta-title: Réserver une activité de ski hors-piste et de freeride pour cette hiver
+meta-description: Partez dans les pentes vierges, volez et flottez dans la neige fraîche
   et dans les espaces sauvages loin des pistes.
 baseline: Liberté, engagement et faire sa trace
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Ski-descente-poudreuse_jkfdf6.jpg

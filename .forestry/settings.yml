@@ -31,6 +31,7 @@ sections:
   templates:
   - brand-page
   - generic-page
+  - coach-page
 - type: heading
   label: French hiver
 - type: document
@@ -57,11 +58,6 @@ sections:
   match: "**/*"
   templates:
   - advice-page
-- type: directory
-  path: content/_fr/pages/hiver/coach
-  label: HIVER Coachs
-  create: documents
-  match: "**/*"
 - type: heading
   label: French été
 - type: document
@@ -88,11 +84,6 @@ sections:
   match: "**/*"
   templates:
   - advice-page
-- type: directory
-  path: content/_fr/pages/ete/coach
-  label: ETE Coachs
-  create: documents
-  match: "**/*"
 - type: heading
   label: ENGLISH
 - type: directory

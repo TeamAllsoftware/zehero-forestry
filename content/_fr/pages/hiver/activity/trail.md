@@ -5,7 +5,8 @@ season: winter
 topnav_color_text: dark
 title: Trail Running
 permalink: "/fr/hiver/activite/trail-running"
-description: Partez pratiquer le Trail Running et profiter d'un moment sportif dans
+meta-title: Réserver des sorties de trail collectives ou privées
+meta-description: Partez pratiquer le Trail Running et profiter d'un moment sportif dans
   la nature
 baseline: Liberté, inspiration et dépassement
 engage: Le dépassement et la liberté sont les inspirations du trail.

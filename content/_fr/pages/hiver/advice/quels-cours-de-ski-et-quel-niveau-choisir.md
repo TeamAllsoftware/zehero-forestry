@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: winter
-description: 'Pas simple de s’évaluer pour choisir le bon cours - Nous avons une fiche
+meta-title: Conseil ski, bien choisir votre cours et le niveau qui vous correspond
+meta-description: 'Pas simple de s’évaluer pour choisir le bon cours - Nous avons une fiche
   conseil qui vous simplifie la vie '
 topnav_color_text: light
 title: Quels cours de ski et de snowboard et quel niveau choisir ?

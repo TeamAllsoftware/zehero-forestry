@@ -2,8 +2,8 @@
 layout: layout_resort
 language: fr
 season: summer
-description: " Trouvez votre activité outdoor dans le village des Menuires en Savoie,
-  profitez d'une station haute en altitude et de ses activités montagne."
+meta-title: Activités outdoor aux Ménuires pour l'été
+meta-description: "Trouvez votre activité outdoor dans le village des Menuires en Savoie, profitez d'une station haute en altitude et de ses activités montagne."
 topnav_color_text: light
 introduction:
   you_arrive: Vous arrivez aux Menuires et vous souhaitez louer du matériel ou trouver

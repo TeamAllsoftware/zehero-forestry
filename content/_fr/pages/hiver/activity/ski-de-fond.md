@@ -5,7 +5,8 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Ski de fond
-description: Partez explorer les montagnes en ski de fond en pratiquant le classique
+meta-title: Réserver des cours de ski de fond classique ou skating
+meta-description: Partez explorer les montagnes en ski de fond en pratiquant le classique
   ou le skating
 baseline: 'Ludique, physique, et dépaysant '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/simon-berger--O8r5oLosYo-unsplash_b9rv7j.jpg

@@ -6,7 +6,8 @@ author: yannalarcon
 topnav_color_text: dark
 title: 2021-12-16-savoir-abandonner-une-course
 post-title: Savoir abandonner lors d'un évènement important
-description: Savoir abandonner une course de trail quand rien ne va.
+meta-title: Savoir abandonner lors d'un évènement important
+meta-description: Savoir abandonner une course de trail quand rien ne va.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639653283/website/blog/Mad%C3%A8re/GOPR0108_ALTA1642458316780515_1_-min_nu1crr.jpg
 image01_alt: Course à pied, trail à Madère pour l'ultra trail MIUT
 page_sections:

@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: winter
-description: Comment bien choisir ses chaussures de ski en fonction de la discipline,
+meta-title: Conseil ski, comment bien choisir vos chaussures de ski
+meta-description: Comment bien choisir ses chaussures de ski en fonction de la discipline,
   de son niveau, des matériaux et de son conforts. Que faut il prendre en compte ?
 topnav_color_text: light
 title: Choisir ses chaussures de ski

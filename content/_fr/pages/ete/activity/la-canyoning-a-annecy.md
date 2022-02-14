@@ -3,9 +3,10 @@ layout: layout_activity
 language: fr
 season: summer
 topnav_color_text: dark
-title: La Canyoning à Annecy
+title: Le Canyoning à Annecy
 permalink: "/fr/ete/activite/canyoning-annecy"
-description: Profitez des différents canyonings proche d'Annecy pour des moments d'évasions
+meta-title: Venez faire du canyoning à Annecy et sa région
+meta-description: Profitez des différents canyonings proche d'Annecy pour des moments d'évasions
   et de sensation forte.
 baseline: Canyoning autour d'Annecy
 engage: Du fun et du sport avec le canyoning à Annecy

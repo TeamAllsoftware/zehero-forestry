@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: winter
-description: Il est difficile de choisir entre un cours privé ou un cours collectif
+meta-title: Conseil cours de ski ou snowboard, choisir des cours privés ou collectifs
+meta-description: Il est difficile de choisir entre un cours privé ou un cours collectif
   en ski ou en snowboard. Voici les différentes conseilles pour vous aider à mieux
   comprendre.
 topnav_color_text: light

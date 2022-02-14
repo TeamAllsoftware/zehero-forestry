@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: Vélo de route - Sorties journées - Méribel
 permalink: "/fr/ete/activite/velo-de-route-journees-meribel"
-description: Chez Ze Hero, nous avons créer des sorties vélo de route journée en parallèle
+meta-title: Sortie vélo à la journée pour progresser et découvrir la région de Méribel
+meta-description: Chez Ze Hero, nous avons créé des sorties vélo de route journée en parallèle
   du stage vélo de route de 6 jours à Méribel dans le but de progresser et découvrir
   nos différentes vallées et lacs. Entourés de nos belles montagnes savoyardes et
   des routes emblématiques qui caractérisent notre secteur.
@@ -17,7 +18,7 @@ page_sections:
 - template: textarea
   title: 'Vélo de route - 6 sorties journée - Méribel '
   content: |-
-    Chez Ze Hero, nous avons créer des sorties vélo journée dans le but de progresser et découvrir les différentes vallées et lacs à Méribel. Entourés des belles montagnes savoyardes et des routes emblématiques qui caractérisent le secteur de Méribel. Nous tenons à offrir la possibilité à chacun de se mesurer à quelques-uns des plus beaux cols des derniers Tours de France. Sans oublier le col devenu mythique : Le col de La Loze et ses passages à plus de 20% de pente.
+    Chez Ze Hero, nous avons créé des sorties vélo journée dans le but de progresser et découvrir les différentes vallées et lacs à Méribel. Entourés des belles montagnes savoyardes et des routes emblématiques qui caractérisent le secteur de Méribel. Nous tenons à offrir la possibilité à chacun de se mesurer à quelques-uns des plus beaux cols des derniers Tours de France. Sans oublier le col devenu mythique : Le col de La Loze et ses passages à plus de 20% de pente.
 
     Nous sommes conscients que que 6 jours de vélo ne peuvent convenir à tous pour diverses raisons. Néanmoins, vous restez passionné de vélo et peut être que vous aimeriez vous joindre à nous pour une ou plusieurs sorties vélo journée. C’est la raison pour laquelle nous proposons des options à la journée, avec ou sans location de matériel.
 - template: textarea

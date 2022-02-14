@@ -37,6 +37,16 @@ fields:
       file: 
       path: 
   label: season
+- name: meta-title
+  label: META Title
+  type: text
+  config:
+    required: true
+- name: meta-description
+  label: META description
+  type: text
+  config:
+    required: true
 - name: title
   type: text
   config:
@@ -48,11 +58,6 @@ fields:
     required: true
   label: URL for this page
   description: 'Page url''s are on this model : "/fr/hiver/activite/ski-de-randonnee"'
-- type: text
-  name: description
-  label: description
-  config:
-    required: true
 - type: text
   name: baseline
   label: baseline

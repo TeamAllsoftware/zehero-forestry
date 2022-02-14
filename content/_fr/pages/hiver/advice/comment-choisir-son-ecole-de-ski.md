@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: winter
-description: Comment choisir son école de ski ? Il existe parfois dans une station
+meta-title: Conseil école de ski, comment bien choisir votre cours de ski particulier ou collectif
+meta-description: Comment choisir son école de ski ? Il existe parfois dans une station
   différent type d'école de ski.
 topnav_color_text: light
 title: Comment choisir son école de ski

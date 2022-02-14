@@ -2,8 +2,8 @@
 layout: layout_resort
 language: fr
 season: summer
-description: L'Isère est un département qui regorge d'activité outdoor. Entouré par
-  4 massifs très montagneux et sauvages, profiter d'air pur et de moment unique.
+meta-title: Activités outdoor en Isère (38) pour l'été
+meta-description: L'Isère est un département qui regorge d'activité outdoor. Entouré par 4 massifs très montagneux et sauvages profiter d'air pur et de moment unique.
 topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités et les différentes locations en Isère

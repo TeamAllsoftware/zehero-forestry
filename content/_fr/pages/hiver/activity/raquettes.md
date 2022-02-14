@@ -5,7 +5,8 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Raquettes à neige
-description: Partez faire une randonnée en raquettes à neige dans la montagne et profitez
+meta-title: Réserver une randonnée en raquettes à neige
+meta-description: Partez faire une randonnée en raquettes à neige dans la montagne et profitez
   du silence et de l'air pur
 baseline: Exploration, liberté et tranquilité
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080084/website/winter/jacques-dillies-eL6lwLpGgnA-unsplash_qx3ylg.jpg

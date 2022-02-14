@@ -5,8 +5,8 @@ season: summer
 topnav_color_text: dark
 title: Canyoning
 permalink: "/fr/ete/activite/canyoning"
-description: L'activité du canyoning est une activité d'eau qui consiste à avancer
-  le long d'une rivière en jouant avec les éléments de la nature.
+meta-title: Le canyoning est une expérience outdoor incroyable aux sensations fortes
+meta-description: L'activité du canyoning est une activité d'eau qui consiste à avancer le long d'une rivière en jouant avec les éléments de la nature.
 baseline: Sensations, émotions et ludique
 engage: Partagez des sensations et des émotions fortes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642512714/website/summer/harry-dona-9hHTZeKKK8Q-unsplash_ejimkd.jpg

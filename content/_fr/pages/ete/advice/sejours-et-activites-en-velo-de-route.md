@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: summer
-description: Vous recherchez un séjour ou des activités de vélo de route sur les pentes
+meta-title: Conseil sportif de vélo de route, tous nos séjours
+meta-description: Vous recherchez un séjour ou des activités de vélo de route sur les pentes
   et cols mythiques des alpes avec une assistance technique et 1 capitaine de route
   pour 7 cyclistes
 topnav_color_text: light

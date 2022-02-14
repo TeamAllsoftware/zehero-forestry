@@ -2,8 +2,8 @@
 layout: layout_resort
 language: fr
 season: summer
-description: Les Alpes Maritimes sont une région paradisiaque pour les activités outdoor.
-  Entre mer, montagne, falaise, route et rivière, il y a le choix.
+meta-title: Activités outdoor dans les Alpes-Maritimes pour l'été
+meta-description: Les Alpes Maritimes sont une région paradisiaque pour les activités outdoor. Entre mer, montagne, falaise, route et rivière, il y a le choix.
 topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités dans les Alpes Maritimes.

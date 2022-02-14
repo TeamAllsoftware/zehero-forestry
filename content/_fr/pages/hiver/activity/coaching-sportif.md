@@ -5,7 +5,8 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Coaching sportif
-description: Profitez d'un coach sportif que ce soit en cours privé ou en cours collectif
+meta-title: Réserver un coach sportif pour vous préparer aux activités d'hiver, ski, raquettes, snowboard
+meta-description: Profitez d'un coach sportif que ce soit en cours privé ou en cours collectif
   afin de progresser dans la discipline de votre choix.
 baseline: Préparation physique, dépassement, entraînement
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/victor-freitas-hOuJYX2K5DA-unsplash_gg95nq.jpg

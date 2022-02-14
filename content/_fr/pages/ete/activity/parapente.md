@@ -5,7 +5,8 @@ season: winter
 topnav_color_text: dark
 title: Parapente
 permalink: "/fr/ete/activite/parapente"
-description: Partez voler et réaliser votre baptême de parapente en découvrant une
+meta-title: Le parapente, des sensations fortes, des paysages vus du ciel et un expérience outdoor mémorable
+meta-description: Partez voler et réaliser votre baptême de parapente en découvrant une
   toute nouvelle sensation avec des panoramas à vous couper le souffle
 baseline: Voler, admirer et profiter
 engage: Survolez les montagnes et découvrez les sommets

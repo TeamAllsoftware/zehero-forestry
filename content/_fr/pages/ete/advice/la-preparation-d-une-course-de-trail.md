@@ -2,7 +2,8 @@
 layout: layout_advice
 language: fr
 season: summer
-description: Il est important de bien se préparer à une course de trail et de s'entraîner
+meta-title: Conseil sportif en trail, bien se préparer et s'entraîner correctement
+meta-description: Il est important de bien se préparer à une course de trail et de s'entraîner
   correctement
 topnav_color_text: light
 title: La préparation d'une course de Trail

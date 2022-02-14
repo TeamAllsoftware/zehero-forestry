@@ -3,9 +3,6 @@ layout: layout_brand
 language: fr
 season: summer
 cat: brand
-description: Instinct Trail est une marque technique de trail running. Spécialisé
-  dans les sac à dos de trail compacts, fonctionnels et légers, elle offre également
-  une gamme de vêtement et d'accessoire technique de course à pied.
 topnav_color_text: dark
 title: Instinct Trail Inspired
 permalink: "/fr/marque/instinct-trail-inspired"
@@ -17,7 +14,7 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: https://shop.ze-hero.com
 page_sections:
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644483486/website/Instinct%20Trail/instinct_156X55_xh7sls.png
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644853342/website/Instinct%20Trail/logo_instinct_trail_dzori5.png
   alt_text_for_image: Logo de la marque Instinct Trail
   captiontitleuppercase: La marque de sac à dos de trail running
   title: Fonctionnel, simple et inspiré
@@ -104,5 +101,11 @@ page_sections:
     Instinct Trail est d’ailleurs engagé écologiquement et écoresponsables."
 baseline: Spécialiste du sac de trail
 engage: Une marque spécialisée dans les sac à dos de trail compacts
+description: La marque Instinct Trail est une marque de course à pied et trail qui
+  confectionne des sacs à dos de trail et des vêtements très techniques.
+meta-title: Instinct Trail Inspired, la marque française de sac à dos de trail
+meta-description: Instinct Trail est une marque technique de trail running. Spécialisé
+  dans les sac à dos de trail compacts fonctionnels et légers, elle offre également
+  une gamme de vêtement et d'accessoire technique de course à pied.
 
 ---

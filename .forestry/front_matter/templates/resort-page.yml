@@ -75,14 +75,19 @@ fields:
     required: true
   label: URL for this page
   description: 'Page url''s are on this model : "/fr/saison ete ou hiver/activite/ski-de-randonnee"'
-- type: text
-  name: description
-  label: description
+- name: meta-title
+  label: META Title
+  type: text
+  config:
+    required: true
+- name: meta-description
+  label: META description
+  type: text
   config:
     required: true
   default: Vous arrivez dans la station [nom de la station] et vous aimeriez louer
-    du matériel   tel que des skis, des chaussures de ski, des casques pour toute
-    votre famille ?
+    du matériel tel que des skis, des chaussures de ski, des casques pour toute votre
+    famille ?
 - name: image01_href
   type: text
   config:
@@ -177,7 +182,6 @@ pages:
 - content/_fr/pages/ete/resort/alpe-d-huez-et-ses-activites-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/l-isere-38.md
 - content/_fr/pages/ete/resort/la-haute-savoie-74.md
-- content/_fr/pages/ete/resort/la-loire-atlanrique.md
 - content/_fr/pages/ete/resort/les-alpes-maritimes.md
 - content/_fr/pages/ete/resort/les-menuires-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/savoie.md

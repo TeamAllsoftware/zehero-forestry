@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: Kayak
 permalink: "/fr/ete/activite/kayak"
-description: Le kayak peut se pratiquer seul, à deux ou trois que ce soit sur des
+meta-title: Le kayak est une activité qui permet de partir randonner sur l'eau
+meta-description: Le kayak peut se pratiquer seul, à deux ou trois que ce soit sur des
   lacs, des rivières comme sur la mer.
 baseline: Naviguez, glisser, profiter
 engage: Explorez et découvrez en glissant sur l'eau

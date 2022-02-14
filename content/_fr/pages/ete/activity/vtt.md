@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: VTT
 permalink: "/fr/ete/activite/vtt"
-description: Pratiquez le VTT pour découvrir des paysages, vivre des descentes sensationnelles
+meta-title: Sortie vélo VTT pour découvrir de nouveaux horizons
+meta-description: Pratiquez le VTT pour découvrir des paysages, vivre des descentes sensationnelles
   à travers la nature.
 baseline: Vitesse, sensation et randonnée
 engage: Faites le plein de sensation à travers les pistes de VTT

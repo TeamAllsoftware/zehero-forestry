@@ -5,7 +5,8 @@ season: summer
 topnav_color_text: dark
 title: Randonner en montagne
 permalink: "/fr/ete/activite/randonnee-montagne"
-description: Pratiquez la randonnée en montagne ou en plaine à la découverte de la
+meta-title: Randonnée en montagne, comment la pratiquer au mieux
+meta-description: Pratiquez la randonnée en montagne ou en plaine à la découverte de la
   nature en famille, entre amis ou seul.
 baseline: Découvrir, marcher et respirer
 engage: Partez découvrir les secrets des montagnes
