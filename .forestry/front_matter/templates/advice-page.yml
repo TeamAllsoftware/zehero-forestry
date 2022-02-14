@@ -37,19 +37,6 @@ fields:
       file: 
       path: 
   label: season
-- name: meta-title
-  label: META Title
-  type: text
-  config:
-    required: true
-- name: meta-description
-  label: META description
-  type: text
-  config:
-    required: true
-  default: Vous arrivez dans la station [nom de la station] et vous aimeriez louer
-du matériel   tel que des skis, des chaussures de ski, des casques pour toute
-votre famille ?
 - name: title
   type: text
   config:
@@ -62,6 +49,14 @@ votre famille ?
     required: true
   label: URL for this page
   description: 'Page url''s are on this model : "/fr/hiver/conseil/ski-de-randonnee"'
+- type: text
+  name: description
+  label: description
+  config:
+    required: true
+  default: Vous arrivez dans la station [nom de la station] et vous aimeriez louer
+    du matériel   tel que des skis, des chaussures de ski, des casques pour toute
+    votre famille ?
 - name: image01_href
   type: text
   config:
