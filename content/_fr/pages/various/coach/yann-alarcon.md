@@ -1,13 +1,16 @@
 ---
 layout: layout_coach
 language: fr
-season: winter
-meta-title: Coach sportif Yann Alarçon, préparateur physique pour vos prochains défis de l'hiver
-meta-description: Un coach sportif pour votre préparation physique et vos prochains défis,
-  que vous soyez débutant, amateur ou expert
+season: summer
+meta-title: Coach sportif Yann Alarçon, préparateur physique pour vos prochains défis
+meta-description: Un coach pour votre préparation physique et vos prochains défis, que
+  vous soyez débutant, amateur ou expert
 topnav_color_text: dark
-title: Yann Alarçon, coach sportif
-permalink: "/fr/hiver/coach/yann-alarcon"
+title: Yann Alarçon, coach et préparateur physique
+permalink: "/fr/coach/yann-alarcon"
+redirect_from:
+  - /fr/ete/coach/yann-alarcon
+  - /fr/hiver/coach/yann-alarcon
 s01:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642065243/website/Coaching/IMG_20210716_180932_893_idwzlg.jpg
   firstname: Yann
@@ -15,8 +18,8 @@ s01:
   coachbaseline: Passionné de Trail et de Montagne
 s02:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/Yann_3_z49tq1.jpg
-  about: 'Coach Sportif dans les Alpes Maritimes, spécialisé dans la course à pied
-    et dans le Trail Running                                 '
+  about: 'Coach Sportif à Antibes, 28 ans , Originaire de Valmorel , ancien snowboardeur et pratiquant de sport de combat (Taekwondo) à haut niveau.  Après des études en Staps, il se spécialise dans l’entraînement. Il a été entraîneur de Taekwondo pendant 2ans au Club des Sports de Valmorel et a coaché en course à pied et trail en entreprises à Lyon (Aoste et Groupama). Il entraîne et accompagne des groupes de coureur à l’année.
+Amoureux de la nature et de la montagne, il est spécialisé dans la course à pied et le trail.'
   years_experience: "10"
 s03:
   txt01: Trail en montagne
@@ -87,9 +90,7 @@ s06:
 s07:
   txt_button: Réserver un cours
   txt01: vous accompagne pour votre préparation
-  txt02: de course à pied, de trail et de renforcement musculaire
+  txt02: le physique et le mental pour continuer de progresser
   href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
-redirect_from:
-- "/fr/coach-sportif-trail-yann-alarcon/"
 
 ---

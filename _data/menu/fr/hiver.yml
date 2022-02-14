@@ -100,9 +100,9 @@ menu:
   - nested: Les coachs
     menu-items:
     - title: Yann Alarçon
-      href: "/fr/hiver/coach/yann-alarcon"
+      href: "/fr/coach/yann-alarcon"
     - title: Nathan Alarçon
-      href: "/fr/hiver/coach/nathan-alarcon"
+      href: "/fr/coach/nathan-alarcon"
   - nested: ZE-HERO
     menu-items:
     - title: Qui sommes-nous ?
