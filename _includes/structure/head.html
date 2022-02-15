@@ -33,7 +33,7 @@
         {% endif %}
         <!-- HTML Meta Tags -->
         <title>{{ page.meta-title | liquify }} | {{ site.title }}</title>
-        <meta name="description" content="{{ page.meta-description }}">
+        <meta name="description" content="{{ page.meta-description | truncate: 160 }}">
         <!-- Facebook Meta Tags -->
         {% if page.layout == "blog_post" %}
         <meta property="og:url" content="{{ site.url }}{{ page.url }}">
