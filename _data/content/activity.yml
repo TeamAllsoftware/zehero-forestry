@@ -1,8 +1,8 @@
 s01:
   image_hero: https://res.cloudinary.com/deddrj0yb/image/upload/v1638888152/website/global/bg-style-020_fhjltk.jpg
   p01:
-    fr: "ZE HERO propose..."
-    en: "Outdoor Way Of Life"
+    fr: "<span class=\"d-none\">En famille, en couple ou entre amis</span> ZE HERO propose..."
+    en: "<span class=\"d-none\">Single, with friends and familly, ZE HERO is the</span> Outdoor Way Of Life"
   p02:
     winter:
       fr: "Des activités pour l'hiver"

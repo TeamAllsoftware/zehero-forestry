@@ -10,7 +10,7 @@ layout: default
     <div class="container">
         <div class="row full-screen md-h-650px sm-h-550px xs-h-450px">
             <div class="col-12 col-md-7 col-sm-7 d-flex flex-column padding-8-rem-tb">
-                <h1 class="alt-font font-weight-600 title-extra-large-heavy text-green letter-spacing-minus-10px line-height-120px mt-auto mb-0 sm-letter-spacing-minus-5px">{{ page.s01.firstname }}<br /> <span class="text-border text-border-width-2px title-extra-large letter-spacing-minus-6px sm-letter-spacing-minus-1-half">{{ page.s01.lastname }}</span></h1>
+                <h1 class="alt-font font-weight-600 title-extra-large-heavy text-green letter-spacing-minus-10px line-height-120px mt-auto mb-0 sm-letter-spacing-minus-5px"><span class="d-none">{{ config.coach[season].extendh1 }}</span>{{ page.s01.firstname }}<br /> <span class="text-border text-border-width-2px title-extra-large letter-spacing-minus-6px sm-letter-spacing-minus-1-half">{{ page.s01.lastname }}</span></h1>
                 <div class="d-flex alt-font font-weight-500 text-extra-medium text-white mt-auto">
                     <span class="flex-shrink-0 h-2px w-20px bg-white align-self-center margin-15px-right"></span>
                     <div class="flex-grow-1 letter-spacing-minus-1-half">{{ page.s01.coachbaseline }}</div>

@@ -57,6 +57,13 @@ fr:
       extendh1: ", votre prochaine activité de l'hiver"
     summer:
       extendh1: ", votre prochaine activité de l'été"
+  coach:
+    winter:
+      extendh1: "Votre coach sportif de l'hiver, "
+    summer:
+      extendh1: "Votre coach sportif de l'été, " 
+  brand:
+    extendh1: ", une marque aux valeurs fortes comme ZE HERO "
   advice:
     readmore: Lire ce conseil
   resort:
@@ -131,6 +138,13 @@ en:
       extendh1: ", your next winter activity"
     summer:
       extendh1: ", your next summer activity"
+  coach:
+    winter:
+      extendh1: "Your winter training coach, "
+    summer:
+      extendh1: "Your summer training coach, "
+  brand:
+    extendh1: ", we partner with this valuable brand"
   advice:
     readmore: Read this advice
   resort:
