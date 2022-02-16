@@ -6,18 +6,18 @@ season: summer
 topnav_color_text: light
 resort_nameid: antibes
 resort_naming: Antibes
-title: Antibes et sa région pour vos activités outdoor de l'été
+title: "Antibes et sa région pour vos activités outdoor de l'été"
 meta-title: Activités outdoor à Antibes pour l'été
-meta-description: 'Antibes est une ville et une station balnéaire des Alpes Maritimes dans laquelle vous pourrez pratiquer de nombreuses activités outdoor l'été '
+meta-description: "Antibes est une ville et une station balnéaire des Alpes Maritimes dans laquelle vous pourrez pratiquer de nombreuses activités outdoor l'été"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/jane-ackerley-WiN6Az_8cGQ-unsplash_cmbknc.jpg
 image01_alt: Vu des remparts d'Antibes, avec la mer et les montagnes
 page_sections:
 - template: textarea
-  content: La ville d'Antibes est un petit paradis entre la mer et les montagnes.
+  content: "La ville d'Antibes est un petit paradis entre la mer et les montagnes.
     Profitez du soleil de la côte d'azur, de ces plages et de son sentier littoral
     du cap d'Antibes. Avec sa vue imprenable sur les montagnes du Mercantour, sa situation
     géographique vous permet de profitez de la mer, des préAlpes d'Azur ainsi que
-    du massif du Mercantour.
+    du massif du Mercantour."
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/v2f-ulodjS9910U-unsplash_rpg51d.jpg
