@@ -53,6 +53,8 @@ fields:
   type: text
   config:
     required: true
+    min: 35
+    max: 65
 - name: meta-description
   label: META description
   type: text

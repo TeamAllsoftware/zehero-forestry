@@ -19,9 +19,23 @@ Once you have been introduce to our system, you might want to use the block comp
 
 ## LASTEST UPDATES
 
+#### update16.02.2022 : New fields META TITLE and META DESCRIPTION
+
+These 2 fields are for SEO and are very important. META TITLE should express what the page is about. The most important keyword of the page should be in the META TITLE but should not be repeated in the title. It must appear once. META TITLE is between 35 to 65 characters long.
+
+**How to Write Title Meta Tags for SEO**
+
+Here are some best practices to write title meta tags for your web pages.
+
+* Do not write title meta tags longer than 65 characters.
+* Add modifiers—such as how-to, tips, buy, find, top, etc.—to your title tag.
+* Titles with numbers work better, same is true for title tags as well.
+* Insert your primary keyword in the title tag, preferably right at the beginning.
+* Write a unique title tag for each page.
+
 #### update31.01.2022 : Add a new component: 2col txt + img
 
-it is a new component that faces the other **2col img + txt**   
+it is a new component that faces the other **2col img + txt**  
 this way it is possible to make a page with alternate section img+txt and the section txt+img (ex: https://www.ze-hero.com/fr/qui-sommes-nous)
 
 #### update31.01.2022 : Add Forestry sidebar FR Various pages
