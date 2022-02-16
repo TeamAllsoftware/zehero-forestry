@@ -32,7 +32,7 @@
         <meta name="keywords" content="{{ page.tags | sort | join: ', ' }} outdoor, aventure, activité, France, émotion, partage, dépassement de soi">
         {% endif %}
         <!-- HTML Meta Tags -->
-        <title>{{ page.meta-title | liquify }} | {{ site.title }}</title>
+        <title>{{ page.meta-title | liquify }}</title>
         <meta name="description" content="{{ page.meta-description | truncate: 160 }}">
         <!-- Facebook Meta Tags -->
         {% if page.layout == "blog_post" %}
@@ -41,7 +41,7 @@
         <meta property="og:url" content="{{ site.url }}{{ page.permalink }}">
         {% endif %}
         <meta property="og:type" content="website">
-        <meta property="og:title" content="{{ page.meta-title | liquify }} - {{ site.title }}">
+        <meta property="og:title" content="{{ page.meta-title | liquify }}">
         <meta property="og:description" content="{{ page.meta-description  | truncate: 155 }}">
         <meta property="og:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | url_encode }}{{ page.url | url_encode }}/opengraph/1:1/smaller">
         {% if page.author != nil %}
@@ -56,7 +56,7 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta property="twitter:domain" content="{{ site.url }}/{{ page.language }}/">
         <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
-        <meta name="twitter:title" content="{{ page.meta-title | liquify }} - {{ site.title }}">
+        <meta name="twitter:title" content="{{ page.meta-title | liquify }}">
         <meta name="twitter:description" content="{{ page.meta-description  | truncate: 155 }}">
         <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | url_encode }}{{ page.url | url_encode }}/opengraph/1:1/smaller">
         <!-- END OPEN GRAPH -->
