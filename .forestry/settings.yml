@@ -7,7 +7,7 @@ sections:
 - type: document
   path: readme-editor.md
   label: Help (updated 17 feb 22)
-  read_only: true
+  read_only: false
 - type: document
   path: _data/authors.yml
   label: Authors
