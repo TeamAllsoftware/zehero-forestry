@@ -53,6 +53,10 @@ fr:
       title: Dans le même univers
   activity:
     readmore: Explorer cette activité
+    winter:
+      extendh1: ", votre prochaine activité de l'hiver"
+    summer:
+      extendh1: ", votre prochaine activité de l'été"
   advice:
     readmore: Lire ce conseil
   resort:
@@ -123,6 +127,10 @@ en:
       title: Related posts
   activity:
     readmore: Explore more
+    winter:
+      extendh1: ", your next winter activity"
+    summer:
+      extendh1: ", your next summer activity"
   advice:
     readmore: Read this advice
   resort:
