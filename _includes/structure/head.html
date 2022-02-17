@@ -1,6 +1,8 @@
 <!doctype html>
 <html class="no-js" lang="fr">
     <head>
+        {% if jekyll.environment == 'production' %}
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="author" content="ZE HERO">
@@ -106,14 +108,12 @@
             });
         </script>
         <!-- fin de TARTE AU CITRON -->
-        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <!-- Google TAG MANAGER - Google Analytics -->
         <script type="text/javascript">
-            tarteaucitron.user.gtagUa = 'G-18RR6RPDCL';
-            // tarteaucitron.user.gtagCrossdomain = ['example.com', 'example2.com'];
-            tarteaucitron.user.gtagMore = function () { /* add here your optionnal gtag() */ };
-            (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
+            tarteaucitron.user.googletagmanagerId = 'GTM-NKSGVML';
+            (tarteaucitron.job = tarteaucitron.job || []).push('googletagmanager');
             </script>
-        <!-- end of Google Analytics -->
+        <!-- end of TAG MANAGER -->
         <!-- Facebook PIXEL -->
         <script type="text/javascript">
             tarteaucitron.user.facebookpixelId = 'YOUR-ID'; tarteaucitron.user.facebookpixelMore = function () { /* add here your optionnal facebook pixel function */ };
@@ -128,4 +128,10 @@
         
     </head>
     <body data-mobile-nav-style="classic">
+        {% if jekyll.environment == 'production' %}
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKSGVML"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->
+        {% endif %}
         <!-- start header -->
