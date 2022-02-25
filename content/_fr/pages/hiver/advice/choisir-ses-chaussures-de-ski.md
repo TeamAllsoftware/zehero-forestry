@@ -47,17 +47,17 @@ page_sections:
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642412353/website/Conseil%20/klara-kulikova-_1CTbB3ibZE-unsplash_hejiiw.jpg
-  content: Le dernier point à prendre en compte c’est le Flex. Aussi appelé dureté
-    de la chaussure, cet indice dépend de votre morphologie et de votre niveau. Le
+  content: "Le dernier point à prendre en compte c’est le Flex. Aussi appelé dureté
+    de la chaussure, cet indice dépend de votre morphologie et de votre niveau. \n\nLe
     Flex est généralement compris entre 70 et 130. 70 étant le plus souple et 130
-    le plus rigide. Certains skieurs professionnels ont même développés des modèles
-    allant à 140 pour un usage bien particulier. Si le Flex est trop important, vous
-    n’arriverez pas à aller vers l’avant sur votre paire de ski. Vous aurez donc une
-    mauvaise position et vous n’aurez pas de maitrise sur votre ski. Au contraire,
-    un Flex trop faible peut vous déséquilibrer. Encore une fois la transmission d’informations
-    de vos pieds à vos skis sera mauvaise. Le flex dépendra également de votre poids.
-    Ce qu'il faut retenir, c'est que plus vous allez augmenter dans la rigidité, plus
-    le niveau sera exigent en ski.
+    le plus rigide. Certains skieurs professionnels ont même développé des modèles
+    allant à 140 pour un usage bien particulier. \n\nSi le Flex est trop important,
+    vous n’arriverez pas à aller vers l’avant sur votre paire de ski. Vous aurez donc
+    une mauvaise position et vous n’aurez pas de maîtrise sur votre ski. Au contraire,
+    un Flex trop faible peut vous déséquilibrer.\n\nEncore une fois, la transmission
+    d’informations de vos pieds à vos skis sera mauvaise. Le flex dépendra également
+    de votre poids. Ce qu'il faut retenir, c'est que plus vous allez augmenter dans
+    la rigidité, plus le niveau sera exigeant en ski."
   captiontitleuppercase: Une chaussure de ski adaptée à votre pied
   title: Le flex
   alt_text_for_image: Vue de chaussure de ski sur une étagère
