@@ -5,12 +5,12 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Ski de randonnée
-meta-title: Réserver des cours de ski de randonnée pour explorer la montagne dans le calme
-meta-description: Partez explorer les montagnes en ski de randonnée afin de profiter d'une
-  montagne pure et sauvage
+meta-title: Réserver des cours de ski de randonnée
+meta-description: Partez explorer les montagnes en ski de randonnée afin de profiter
+  d'une montagne pure et sauvage
 baseline: Endurance, découverte et ascension
 engage: Profiter de la nature sans la cohue des pistes
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645802609/website/winter/P1000241_lddllp.jpg
 image01_alt: Ski de randonnée dans les domaines de Savoie
 page_sections:
 - template: 2colimgtxt
