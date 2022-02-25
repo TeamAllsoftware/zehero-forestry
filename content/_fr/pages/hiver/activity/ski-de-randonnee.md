@@ -10,8 +10,8 @@ meta-description: Partez explorer les montagnes en ski de randonnée afin de pro
   d'une montagne pure et sauvage
 baseline: Endurance, découverte et ascension
 engage: Profiter de la nature sans la cohue des pistes
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645802609/website/winter/P1000241_lddllp.jpg
-image01_alt: Ski de randonnée dans les domaines de Savoie
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645804153/website/winter/PXL_20201219_101906679_tuwz64.jpg
+image01_alt: Ski de randonnée dans les domaines du Queyras
 page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg
