@@ -28,18 +28,20 @@ page_sections:
   alt_text_for_image: Deux marcheurs qui randonnent sur un sentier de montagne
   captiontitleuppercase: Choisir son itinéraire
   title: Un tracé adapté à vous
-  content: "Aujourd'hui, on trouve énormément de tracé déjà construit sur des sites
-    de randonnées, de blogs, etc. On peut également se construire soi même des itinéraires
+  content: "Aujourd'hui, on trouve énormément de tracés déjà construits sur des sites
+    de randonnées, de blogs, etc. On peut également se construire soi-même des itinéraires
     et les suivre via son téléphone ou sa montre GPS. On peut également construire
-    son tracé avec une carte IGN si on sait alors lire ces cartes là. Ce qui est important,
-    c'est d'adapté déjà la randonnée en fonction de votre niveau. Vous allez avoir
-    des informations importantes tels que les kilomètres et le dénivelé qui seront
-    des indicateurs de la difficulté.  \nTout d'abord, il faut savoir que pour des
-    personnes novices dans la randonnée, la vitesse moyenne va être de 2km/h à 4km/h
-    en fonction du dénivelé. Cela peut vous donner une idée de nombre que vous aurez
-    à faire en fonction du nombre de kilomètre. Cela évolue en fonction de votre conditions
-    physique mais également en fonction du terrain de marche. Un terrain très technique
-    va vous ralentir et sera beaucoup plus exigent physiquement et mentalement."
+    son tracé avec une carte IGN si on sait alors lire ces différentes cartes. Ce
+    qui est important, c'est d'adapter déjà la randonnée en fonction de votre niveau.
+    Vous allez avoir des informations importantes tels que les kilomètres et le dénivelé
+    qui seront des indicateurs de la difficulté.\n\nTout d'abord, il faut savoir que
+    pour des personnes novices dans la randonnée, la vitesse moyenne va être de 2km/h
+    à 4km/h en fonction du dénivelé. Cela peut vous donner une idée de nombre que
+    vous aurez à faire en fonction du nombre de kilomètre. Cela évolue en fonction
+    de votre condition physique mais également en fonction du terrain de marche. Un
+    terrain très technique va vous ralentir et sera beaucoup plus exigeant physiquement
+    et mentalement. Il sera important de bien prendre en compte ces 3 indicateurs
+    :\n\n1. Les kilomètres \n2. Le dénivelé\n3. La technicité du parcours"
   button:
     text_button: ''
     href_button: ''
