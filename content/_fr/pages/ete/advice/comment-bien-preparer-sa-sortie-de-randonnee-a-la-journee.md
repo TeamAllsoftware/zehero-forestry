@@ -36,7 +36,10 @@ page_sections:
     des informations importantes tels que les kilomètres et le dénivelé qui seront
     des indicateurs de la difficulté.  \nTout d'abord, il faut savoir que pour des
     personnes novices dans la randonnée, la vitesse moyenne va être de 2km/h à 4km/h
-    en fonction du dénivelé."
+    en fonction du dénivelé. Cela peut vous donner une idée de nombre que vous aurez
+    à faire en fonction du nombre de kilomètre. Cela évolue en fonction de votre conditions
+    physique mais également en fonction du terrain de marche. Un terrain très technique
+    va vous ralentir et sera beaucoup plus exigent physiquement et mentalement."
   button:
     text_button: ''
     href_button: ''
