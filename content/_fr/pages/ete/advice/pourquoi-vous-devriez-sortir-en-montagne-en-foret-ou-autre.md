@@ -23,6 +23,24 @@ page_sections:
     profiter de la nature. Cela sera alors bénéfique pour votre corps, pour vous dépenser
     physiquement et faire une activité énergétique. Mais cela sera également bon pour
     tête, pour vos défenses naturelles, pour votre esprit et bien d'autres choses."
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646122684/website/Conseil%20/svyatoslav-romanov-r38u2Uq1AXk-unsplash_kuori1.jpg
+  alt_text_for_image: Personne levant les bras sur un rocher devant une grande cascade
+  captiontitleuppercase: 'Une meilleure santé '
+  title: Bien être et et bienfaits
+  content: Sortir dans la nature va permettre de libérer votre stress, votre anxiété,
+    d'évacuer les problèmes du quotidien. Toutes les hormones qui contribuent à votre
+    bonheur vont être stimulés. Plusieurs études scientifiques ont prouvé que le taux
+    cortisol est diminué lorsque vous pratiquez des activités en extérieur. Allez
+    simplement se balader en forêt va améliorer votre humeur, va vous permettre d'avoir
+    une meilleure qualité de sommeil. La nature est un lieu idéal pour se vider la
+    tête, respirer l'air pur. La végétation, la lumière ont un impact direct sur votre
+    esprit et vous permettent de vous sentir encore mieux. Être dehors, c'est favoriser
+    et améliorer une vie active et saine.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
