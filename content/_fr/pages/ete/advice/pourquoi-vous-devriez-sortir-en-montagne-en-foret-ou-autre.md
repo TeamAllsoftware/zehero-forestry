@@ -41,6 +41,28 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646122529/website/Conseil%20/casey-horner-D4TooCIEyF4-unsplash_uth6nh.jpg
+  alt_text_for_image: Lumière et rayon de soleil dans la forêt avec des marcheurs
+    se promenant sur un chemin de forêt
+  captiontitleuppercase: Une meilleure santé physique
+  title: Les bienfaits physiques
+  content: Outre les bienfaits sur l'esprit et le mental, sortir en nature, c'est
+    également bénéficier de nombreux bienfaits physiques. Votre système respiratoire
+    ainsi que cardio-vasculaire vont être activés et vont s'améliorer. Se promener
+    en forêt ou en montagne, c'est aussi se muscler par la marche dans des terrains
+    vallonnés, avec des variations de pentes qui feront travailler différents groupes
+    musculaires. Que ce soit 20 mn ou plusieurs heures, être dehors pour courir, pour
+    marcher, pour méditer aura un impact positif sur votre corps. Votre organisme
+    profitera de ce moment pour faire le plein d'énergie. S'activer physiquement s'est
+    aussi avoir une bonne fatigue et donc de mieux dormir. Il est important d'activer
+    tout son système cardiaque et respiratoire pour être en bonne santé. Mais par
+    ailleurs de se muscler et de tonifier ses muscles et de les étirer. Votre système
+    immunitaire sera aussi renforcer lors de vos pratiques sportives en nature.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
