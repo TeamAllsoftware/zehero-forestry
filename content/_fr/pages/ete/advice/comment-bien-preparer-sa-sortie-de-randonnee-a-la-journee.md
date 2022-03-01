@@ -97,6 +97,14 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  title: Les derniers petits conseils
+  content: "Lorsque l'on part en randonnée et si nous sommes seuls, il est important
+    d'avoir son téléphone chargé. Mais il est aussi important de prévenir un proche
+    de l'endroit où vous aller randonner. C'est toujours plus rassurant s'il y a le
+    moindre de problème de faire cela.  \nGarder toujours avec vous quelques euros,
+    si vous désirez acheter à boire ou à manger quelques part. Cela peut toujours
+    être grandement utile."
 published: false
 
 ---
