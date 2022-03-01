@@ -50,6 +50,28 @@ page_sections:
 
     Découvrez également des parcours de trail des Alpes Maritimes qui peuvent se faire en marchant et en courant dans les Préalpes d'Azur et dans l'Esterel : [https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes](https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes "Les parcours de trail 06")
   title: ''
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646138026/website/Conseil%20/oriol-pascual-l5VCmqQbP_g-unsplash_mzu8yf.jpg
+  alt_text_for_image: 'Sac à dos de randonnée, de trekking '
+  captiontitleuppercase: Ce qu'il faut mettre dans son sac à dos
+  title: L'équipement pour randonner
+  content: "Partir randonner à la journée, c'est bien s'équiper afin de profiter pleinement
+    de sa journée. Il sera important de prendre une paire de chaussure adapté à la
+    marche en montagne. Des chaussures qui vont à tige haute ou basse, avec de l'accroche,
+    qui protège vos orteils et qui maintiennent correctement votre cheville.   \nEn
+    fonction de la période, du temps et de la météo, il faudra adapter votre tenue.
+    Pantalon technique ou short, vêtement technique et respirant, coupe-vent, kway
+    et ponchon, softshell ainsi qu'une petite doudoune sont des équipements à avoir
+    selon les températures. En montagne, plus nous prenons de l'altitude, plus les
+    degrés baissent. De plus, au sommet des montagnes, le vent peut-être présent et
+    la température ressenti peut être froide. La montagne est un milieu où les conditions
+    météorologiques peuvent très rapidement changer.  \nLorsqu'on part la journée,
+    il faut systématiquement avoir dans son sac, une 2eme couche chaude, une veste
+    imperméable et coupe vent, casq"
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
