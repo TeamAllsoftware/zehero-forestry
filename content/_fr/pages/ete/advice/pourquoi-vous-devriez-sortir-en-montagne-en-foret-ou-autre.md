@@ -62,7 +62,7 @@ page_sections:
   button:
     text_button: Découvrez nos sorties trail running
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
-    alt_button: ''
+    alt_button: Sorties de trail running en montagnes et dans les préalpes
 - template: textarea
   title: La nature comme lieu d'émerveillement
   content: |-
