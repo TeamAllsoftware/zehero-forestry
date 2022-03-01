@@ -60,8 +60,8 @@ page_sections:
     ailleurs de se muscler et de tonifier ses muscles et de les étirer. Votre système
     immunitaire sera aussi renforcé lors de vos pratiques sportives en nature.
   button:
-    text_button: ''
-    href_button: ''
+    text_button: Découvrez nos sorties trail running
+    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     alt_button: ''
 - template: textarea
   title: La nature comme lieu d'émerveillement
