@@ -28,24 +28,28 @@ page_sections:
   alt_text_for_image: Deux marcheurs qui randonnent sur un sentier de montagne
   captiontitleuppercase: Choisir son itinéraire
   title: Un tracé adapté à vous
-  content: "Aujourd'hui, on trouve énormément de tracés déjà construits sur des sites
-    de randonnées, de blogs, etc. On peut également se construire soi-même des itinéraires
-    et les suivre via son téléphone ou sa montre GPS. On peut également construire
-    son tracé avec une carte IGN si on sait alors lire ces différentes cartes. Ce
-    qui est important, c'est d'adapter déjà la randonnée en fonction de votre niveau.
-    Vous allez avoir des informations importantes tels que les kilomètres et le dénivelé
-    qui seront des indicateurs de la difficulté.\n\nTout d'abord, il faut savoir que
-    pour des personnes novices dans la randonnée, la vitesse moyenne va être de 2km/h
-    à 4km/h en fonction du dénivelé. Cela peut vous donner une idée de nombre que
-    vous aurez à faire en fonction du nombre de kilomètre. Cela évolue en fonction
-    de votre condition physique mais également en fonction du terrain de marche. Un
-    terrain très technique va vous ralentir et sera beaucoup plus exigeant physiquement
-    et mentalement. Il sera important de bien prendre en compte ces 3 indicateurs
-    :\n\n1. Les kilomètres \n2. Le dénivelé\n3. La technicité du parcours"
+  content: |-
+    Aujourd'hui, on trouve énormément de tracés déjà construits sur des sites de randonnées, de blogs, etc. On peut également se construire soi-même des itinéraires et les suivre via son téléphone ou sa montre GPS. On peut également construire son tracé avec une carte IGN si on sait alors lire ces différentes cartes. Ce qui est important, c'est d'adapter déjà la randonnée en fonction de votre niveau. Vous allez avoir des informations importantes tels que les kilomètres et le dénivelé qui seront des indicateurs de la difficulté.
+
+    Tout d'abord, il faut savoir que pour des personnes novices dans la randonnée, la vitesse moyenne va être de 2km/h à 4km/h en fonction du dénivelé. Vous retrouverez également une moyenne de 300m à 400m de dénivelé par heure environ pour des personnes novices Cela peut vous donner une idée de nombre que vous aurez à faire en fonction du nombre de kilomètre. Cela évolue en fonction de votre condition physique mais également en fonction du terrain de marche. Un terrain très technique va vous ralentir et sera beaucoup plus exigeant physiquement et mentalement. Il sera important de bien prendre en compte ces 3 indicateurs :
+
+    1. Les kilomètres
+    2. Le dénivelé
+    3. La technicité du parcours
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  content: |-
+    Tout d'abord, il faut savoir que pour des personnes novices dans la randonnée, la vitesse moyenne va être de 2km/h à Il aura donc plusieurs niveaux de difficulté selon ces trois indicateurs. Le kilomètre et le dénivelé sont deux paramètres qui se lient pour votre tracé. Plus il y a aura de dénivelé et moins il y aura de kilomètres alors les montées seront très raide.
+
+    L'important, c'est de commencer par des parcours faciles et de comprendre ces indicateurs et sa forme physique durant l'effort. Vous pourrez alors jauger et vous aventurer sur des parcours plus long ou non.
+
+    En ce qui concerne la technicité du parcours, vous pourrez retrouver les différentes informations si vous trouvez des descriptions des parcours, des topos, etc. Un terrain technique, c'est par exemple des sentiers avec énormément de cailloux, de marcher à travers des pierriers, des chemins très raides avec des obstacles naturels, des racines etc. Cela va alors être plus dur physiquement mais aussi mentalement car la concentration sera plus importante.
+
+    Découvrez également des parcours de trail des Alpes Maritimes qui peuvent se faire en marchant et en courant dans les Préalpes d'Azur et dans l'Esterel : [https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes](https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes "Les parcours de trail 06")
+  title: ''
 published: false
 
 ---
