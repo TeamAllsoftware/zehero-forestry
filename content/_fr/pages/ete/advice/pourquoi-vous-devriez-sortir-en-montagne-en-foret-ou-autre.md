@@ -30,8 +30,8 @@ page_sections:
   title: Bien être et et bienfaits
   content: Sortir dans la nature va permettre de libérer votre stress, votre anxiété,
     d'évacuer les problèmes du quotidien. Toutes les hormones qui contribuent à votre
-    bonheur vont être stimulés. Plusieurs études scientifiques ont prouvé que le taux
-    cortisol est diminué lorsque vous pratiquez des activités en extérieur. Allez
+    bonheur vont être stimulées. Plusieurs études scientifiques ont prouvé que le
+    taux cortisol est diminué lorsque vous pratiquez des activités en extérieur. Aller
     simplement se balader en forêt va améliorer votre humeur, va vous permettre d'avoir
     une meilleure qualité de sommeil. La nature est un lieu idéal pour se vider la
     tête, respirer l'air pur. La végétation, la lumière ont un impact direct sur votre
@@ -49,33 +49,27 @@ page_sections:
   title: Les bienfaits physiques
   content: Outre les bienfaits sur l'esprit et le mental, sortir en nature, c'est
     également bénéficier de nombreux bienfaits physiques. Votre système respiratoire
-    ainsi que cardio-vasculaire vont être activés et vont s'améliorer. Se promener
-    en forêt ou en montagne, c'est aussi se muscler par la marche dans des terrains
-    vallonnés, avec des variations de pentes qui feront travailler différents groupes
-    musculaires. Que ce soit 20 mn ou plusieurs heures, être dehors pour courir, pour
-    marcher, pour méditer aura un impact positif sur votre corps. Votre organisme
-    profitera de ce moment pour faire le plein d'énergie. S'activer physiquement s'est
-    aussi avoir une bonne fatigue et donc de mieux dormir. Il est important d'activer
+    ainsi que cardio-vasculaire va être activé et va s'améliorer. Se promener en forêt
+    ou en montagne, c'est aussi se muscler par la marche dans des terrains vallonnés,
+    avec des variations de pentes qui feront travailler différents groupes musculaires.
+    Que ce soit 20 mn ou plusieurs heures, être dehors pour courir, pour marcher,
+    pour méditer aura un impact positif sur votre corps. Votre organisme profitera
+    de ce moment pour faire le plein d'énergie. S'activer physiquement s'est aussi
+    ressentir une bonne fatigue et donc de mieux dormir. Il est important d'activer
     tout son système cardiaque et respiratoire pour être en bonne santé. Mais par
     ailleurs de se muscler et de tonifier ses muscles et de les étirer. Votre système
-    immunitaire sera aussi renforcer lors de vos pratiques sportives en nature.
+    immunitaire sera aussi renforcé lors de vos pratiques sportives en nature.
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
 - template: textarea
   title: La nature comme lieu d'émerveillement
-  content: "Sortir en nature s'est donc se faire du bien mentalement et physiquement.
-    Vous trouverez uniquement des avantages à sortir que ce soit en montagne, en forêt
-    ou ailleurs.   \nQue ce soit seul, entre amis, en couple ou en famille, vous pourrez
-    passer un moment agréable, de bien-être, riche en émotion. De plus, être en nature
-    s'est également profiter de paysage magnifique entre la végétation, les points
-    de vue en hauteur, etc.   \nAujourd'hui, nous sommes facilement entourés de béton,
-    d'immeuble, de lumière artificielle, de pollution sonore et de pollution de l'air.
-    La nature a toujours été pour l'Homme un lieu de vie et nous avons besoin de s'y
-    connecter à nouveau. Respirer, admirer, se promener en nature est capital pour
-    notre santé. Que ce soit dans le petit parc de votre ville, ou dans les forêts
-    aux alentours, dans les montagnes ou autres, sortir en nature vous fera le plus
-    grand bien."
+  content: |-
+    Sortir en nature c'est donc se faire du bien mentalement et physiquement. Vous trouverez uniquement des avantages à sortir, que ce soit en montagne, en forêt ou ailleurs.
+
+    Que ce soit seul, entre amis, en couple ou en famille, vous pourrez passer un moment agréable, de bien-être, riche en émotion. De plus, être en nature c'est également profiter de paysages magnifiques entre la végétation, les points de vue en hauteur, etc.
+
+    Aujourd'hui, nous sommes facilement entourés de béton, d'immeuble, de lumière artificielle, de pollution sonore et de pollution de l'air. La nature a toujours été pour l'Homme un lieu de vie et nous avons besoin de s'y connecter à nouveau. Respirer, admirer, se promener en nature est capital pour notre santé. Que ce soit dans le petit parc de votre ville, ou dans les forêts aux alentours, dans les montagnes ou autres, sortir en nature vous fera le plus grand bien.
 
 ---
