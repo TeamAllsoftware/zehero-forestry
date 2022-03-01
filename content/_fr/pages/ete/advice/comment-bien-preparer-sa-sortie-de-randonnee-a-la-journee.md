@@ -58,7 +58,7 @@ page_sections:
   content: |-
     Partir randonner à la journée, c'est bien s'équiper afin de profiter pleinement de sa sortie.
 
-    Il sera important de prendre une paire de chaussures adaptées à la marche en montagne. Des chaussures qui seront à tiges hautes ou basses, avec de l'accroche, qui protège vos orteils et qui maintiennent correctement votre cheville. Certaines sont plus légères, voire type trail, d'autres seront plus lourdes pour une meilleure protection. En fonction, vous pouvez également les prendre imperméables ou dotés de la membrane Gore-tex.
+    Il sera important de prendre une paire de chaussures adaptées à la marche en montagne. Des chaussures qui seront à tiges hautes ou basses, avec de l'accroche, qui protège vos orteils et qui maintiennent correctement votre cheville. Certaines sont plus légères, voire type trail, d'autres seront plus lourdes pour une meilleure protection. En fonction, vous pouvez également les prendre imperméables ou dotés de la membrane Gore-tex. Le plus important, c'est de les essayer avant de partir randonner avec.
 
     En fonction de la période, du temps et de la météo, il faudra adapter votre tenue. Pantalon technique ou short, vêtement technique et respirant, coupe-vent, k-way et poncho, soft shell ainsi qu'une petite doudoune sont des équipements à avoir selon les températures. En montagne, plus nous prenons de l'altitude, plus les degrés baissent. De plus, au sommet, le vent peut-être présent et la température ressentie peut-être froide. La montagne est un milieu où les conditions météorologiques peuvent très rapidement changer.
 
@@ -71,6 +71,16 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  content: |-
+    Aujourd'hui, nous faisons facilement confiance à nos téléphones et nos montres GPS. Mais parfois, le réseau n'est plus présent, la batterie est à plat, alors il est judicieux d'avoir la carte IGN du secteur où nous sommes. Cela vous aidera afin de vous retrouver et de ne pas être perdu. Transporter une boussole est un plus si vous savez l'utiliser.
+
+    En partant à la journée, il n'est pas utile de trop charger son sac. Et pour ce qui concerne le sac et sa taille, un sac de 20L à 30L est idéal pour ce type de randonnée. Le sac doit également être bien ajusté en fonction de votre morphologie. Découvrez également nos [https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running,](https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running, "sacs de trail Instinct Trail") qui peuvent vous accompagner pour une journée de randonnée.
+
+    L'eau ne sera jamais de trop dans votre sac de randonnée. Une gourde de 1L est le minimum à avoir sur soi. Selon le parcours et votre itinéraire vous pouvez vous retrouver pendant plusieurs kilomètres sans aucun point d'eau. Il est alors important de doubler sa quantité d'eau, surtout s'il fait chaud. Si vous passez par des hameaux ou des villages, vous pourrez alors facilement remplir vos gourdes. Sinon vous pouvez les remplir dans des rivières. Mais attention, l'eau des rivières peut vous apporter des bactéries. Il est alors préférable d'avoir une gourde filtrant l'eau directement. Si vous désirez boire directement dans une rivière, il est important d'être haut en altitude afin d'éviter les alpages et les troupeaux. Mais l'eau est alors peu minérale et très froide, cela peut être alors indigeste. Si, il y a la présence de troupeau de mouton ou de vache, il est fortement déconseillé de boire l'eau directement. Il faudrait mettre une pastille ou alors avoir une gourde filtrante.
+
+    Les cartes IGN présentent différentes signalisations pour indiquer des fontaines, des sources d'eau, des puits et autre afin de vous permettre de savoir où il y a de l'eau.
+  title: ''
 published: false
 
 ---
