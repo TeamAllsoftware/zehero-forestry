@@ -63,6 +63,19 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  title: La nature comme lieu d'émerveillement
+  content: "Sortir en nature s'est donc se faire du bien mentalement et physiquement.
+    Vous trouverez uniquement des avantages à sortir que ce soit en montagne, en forêt
+    ou ailleurs.   \nQue ce soit seul, entre amis, en couple ou en famille, vous pourrez
+    passer un moment agréable, de bien-être, riche en émotion. De plus, être en nature
+    s'est également profiter de paysage magnifique entre la végétation, les points
+    de vue en hauteur, etc.   \nAujourd'hui, nous sommes facilement entourés de béton,
+    d'immeuble, de lumière artificielle, de pollution sonore et de pollution de l'air.
+    La nature a toujours été pour l'Homme un lieu de vie et nous avons besoin de s'y
+    connecter à nouveau. Respirer, admirer, se promener en nature est capital pour
+    notre santé. Que ce soit dans le petit parc de votre ville, ou dans les forêts
+    aux alentours, dans les montagnes ou autres, sortir en nature vous fera le plus
+    grand bien."
 
 ---
