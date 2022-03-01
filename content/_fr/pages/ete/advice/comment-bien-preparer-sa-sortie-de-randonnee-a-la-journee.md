@@ -55,19 +55,18 @@ page_sections:
   alt_text_for_image: 'Sac à dos de randonnée, de trekking '
   captiontitleuppercase: Ce qu'il faut mettre dans son sac à dos
   title: L'équipement pour randonner
-  content: "Partir randonner à la journée, c'est bien s'équiper afin de profiter pleinement
-    de sa journée. Il sera important de prendre une paire de chaussure adapté à la
-    marche en montagne. Des chaussures qui vont à tige haute ou basse, avec de l'accroche,
-    qui protège vos orteils et qui maintiennent correctement votre cheville.   \nEn
-    fonction de la période, du temps et de la météo, il faudra adapter votre tenue.
-    Pantalon technique ou short, vêtement technique et respirant, coupe-vent, kway
-    et ponchon, softshell ainsi qu'une petite doudoune sont des équipements à avoir
-    selon les températures. En montagne, plus nous prenons de l'altitude, plus les
-    degrés baissent. De plus, au sommet des montagnes, le vent peut-être présent et
-    la température ressenti peut être froide. La montagne est un milieu où les conditions
-    météorologiques peuvent très rapidement changer.  \nLorsqu'on part la journée,
-    il faut systématiquement avoir dans son sac, une 2eme couche chaude, une veste
-    imperméable et coupe vent, casq"
+  content: |-
+    Partir randonner à la journée, c'est bien s'équiper afin de profiter pleinement de sa sortie.
+
+    Il sera important de prendre une paire de chaussures adaptées à la marche en montagne. Des chaussures qui seront à tiges hautes ou basses, avec de l'accroche, qui protège vos orteils et qui maintiennent correctement votre cheville. Certaines sont plus légères, voire type trail, d'autres seront plus lourdes pour une meilleure protection. En fonction, vous pouvez également les prendre imperméables ou dotés de la membrane Gore-tex.
+
+    En fonction de la période, du temps et de la météo, il faudra adapter votre tenue. Pantalon technique ou short, vêtement technique et respirant, coupe-vent, k-way et poncho, soft shell ainsi qu'une petite doudoune sont des équipements à avoir selon les températures. En montagne, plus nous prenons de l'altitude, plus les degrés baissent. De plus, au sommet, le vent peut-être présent et la température ressentie peut-être froide. La montagne est un milieu où les conditions météorologiques peuvent très rapidement changer.
+
+    Lorsqu'on part la journée, il faut systématiquement avoir dans son sac, une 2eme couche chaude, une veste imperméable et coupe-vent, casquette / bonnet / buff / petite paire de gants / pantalon de pluie. Les lunettes de soleils sont indispensables dès que vous partez en montagne.
+
+    Les bâtons de marche seront utiles et vous aideront grandement lors de randonnées longues et/ou difficiles. Les pliables ou en plusieurs brins se rangent facilement dans le sac.
+
+    En ce qui concerne le reste du contenu du sac, il y a tout l'aspect préventif. Il est important d'avoir une petite trousse de 1er secours.
   button:
     text_button: ''
     href_button: ''
