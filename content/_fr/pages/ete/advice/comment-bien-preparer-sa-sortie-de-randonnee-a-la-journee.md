@@ -28,58 +28,100 @@ page_sections:
   alt_text_for_image: Deux marcheurs qui randonnent sur un sentier de montagne
   captiontitleuppercase: Choisir son itinéraire
   title: Un tracé adapté à vous
-  content: |-
-    Aujourd'hui, on trouve énormément de tracés déjà construits sur des sites de randonnées, de blogs, etc. On peut également se construire soi-même des itinéraires et les suivre via son téléphone ou sa montre GPS. On peut également construire son tracé avec une carte IGN si on sait alors lire ces différentes cartes. Ce qui est important, c'est d'adapter déjà la randonnée en fonction de votre niveau. Vous allez avoir des informations importantes tels que les kilomètres et le dénivelé qui seront des indicateurs de la difficulté.
-
-    Tout d'abord, il faut savoir que pour des personnes novices dans la randonnée, la vitesse moyenne va être de 2km/h à 4km/h en fonction du dénivelé. Vous retrouverez également une moyenne de 300m à 400m de dénivelé par heure environ pour des personnes novices Cela peut vous donner une idée de nombre que vous aurez à faire en fonction du nombre de kilomètre. Cela évolue en fonction de votre condition physique mais également en fonction du terrain de marche. Un terrain très technique va vous ralentir et sera beaucoup plus exigeant physiquement et mentalement. Il sera important de bien prendre en compte ces 3 indicateurs :
-
-    1. Les kilomètres
-    2. Le dénivelé
-    3. La technicité du parcours
+  content: "Aujourd'hui, on trouve énormément de tracés déjà construits sur des sites
+    de randonnées, de blogs, etc. On peut également se construire soi-même des itinéraires
+    et les suivre via son téléphone ou sa montre GPS. On peut également construire
+    son tracé avec une carte IGN si on sait alors lire ces différentes cartes. Ce
+    qui est important, c'est d'adapter déjà la randonnée en fonction de votre niveau.
+    Vous allez avoir des informations importantes tels que les kilomètres et le dénivelé
+    qui seront des indicateurs de la difficulté.  \nTout d'abord, il faut savoir que
+    pour des personnes novices dans la randonnée, la vitesse moyenne va être de 2km/h
+    à 4km/h en fonction du dénivelé. Vous retrouverez également une moyenne de 300m
+    à 400m de dénivelé par heure environ pour des personnes novices Cela peut vous
+    donner une idée de nombre que vous aurez à faire en fonction du nombre de kilomètre.
+    Cela évolue en fonction de votre condition physique mais également en fonction
+    du terrain de marche. Un terrain très technique va vous ralentir et sera beaucoup
+    plus exigeant physiquement et mentalement. Il sera important de bien prendre en
+    compte ces 3 indicateurs :\n\n1. Les kilomètres\n2. Le dénivelé\n3. La technicité
+    du parcours"
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
 - template: textarea
-  content: |-
-    Tout d'abord, il faut savoir que pour des personnes novices dans la randonnée, la vitesse moyenne va être de 2km/h à Il aura donc plusieurs niveaux de difficulté selon ces trois indicateurs. Le kilomètre et le dénivelé sont deux paramètres qui se lient pour votre tracé. Plus il y a aura de dénivelé et moins il y aura de kilomètres alors les montées seront très raide.
-
-    L'important, c'est de commencer par des parcours faciles et de comprendre ces indicateurs et sa forme physique durant l'effort. Vous pourrez alors jauger et vous aventurer sur des parcours plus long ou non.
-
-    En ce qui concerne la technicité du parcours, vous pourrez retrouver les différentes informations si vous trouvez des descriptions des parcours, des topos, etc. Un terrain technique, c'est par exemple des sentiers avec énormément de cailloux, de marcher à travers des pierriers, des chemins très raides avec des obstacles naturels, des racines etc. Cela va alors être plus dur physiquement mais aussi mentalement car la concentration sera plus importante.
-
-    Découvrez également des parcours de trail des Alpes Maritimes qui peuvent se faire en marchant et en courant dans les Préalpes d'Azur et dans l'Esterel : [https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes](https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes "Les parcours de trail 06")
+  content: "Tout d'abord, il faut savoir que pour des personnes novices dans la randonnée,
+    la vitesse moyenne va être de 2km/h à Il aura donc plusieurs niveaux de difficulté
+    selon ces trois indicateurs. Le kilomètre et le dénivelé sont deux paramètres
+    qui se lient pour votre tracé. Plus il y a aura de dénivelé et moins il y aura
+    de kilomètres alors les montées seront très raide.  \nL'important, c'est de commencer
+    par des parcours faciles et de comprendre ces indicateurs et sa forme physique
+    durant l'effort. Vous pourrez alors jauger et vous aventurer sur des parcours
+    plus long ou non.\n\nEn ce qui concerne la technicité du parcours, vous pourrez
+    retrouver les différentes informations si vous trouvez des descriptions des parcours,
+    des topos, etc. Un terrain technique, c'est par exemple des sentiers avec énormément
+    de cailloux, de marcher à travers des pierriers, des chemins très raides avec
+    des obstacles naturels, des racines etc. Cela va alors être plus dur physiquement
+    mais aussi mentalement car la concentration sera plus importante.\n\nDécouvrez
+    également des parcours de trail des Alpes Maritimes qui peuvent se faire en marchant
+    et en courant dans les Préalpes d'Azur et dans l'Esterel : [https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes](https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes
+    \"Les parcours de trail 06\")"
   title: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646138026/website/Conseil%20/oriol-pascual-l5VCmqQbP_g-unsplash_mzu8yf.jpg
   alt_text_for_image: 'Sac à dos de randonnée, de trekking '
   captiontitleuppercase: Ce qu'il faut mettre dans son sac à dos
   title: L'équipement pour randonner
-  content: |-
-    Partir randonner à la journée, c'est bien s'équiper afin de profiter pleinement de sa sortie.
-
-    Il sera important de prendre une paire de chaussures adaptées à la marche en montagne. Des chaussures qui seront à tiges hautes ou basses, avec de l'accroche, qui protège vos orteils et qui maintiennent correctement votre cheville. Certaines sont plus légères, voire type trail, d'autres seront plus lourdes pour une meilleure protection. En fonction, vous pouvez également les prendre imperméables ou dotés de la membrane Gore-tex. Le plus important, c'est de les essayer avant de partir randonner avec.
-
-    En fonction de la période, du temps et de la météo, il faudra adapter votre tenue. Pantalon technique ou short, vêtement technique et respirant, coupe-vent, k-way et poncho, soft shell ainsi qu'une petite doudoune sont des équipements à avoir selon les températures. En montagne, plus nous prenons de l'altitude, plus les degrés baissent. De plus, au sommet, le vent peut-être présent et la température ressentie peut-être froide. La montagne est un milieu où les conditions météorologiques peuvent très rapidement changer.
-
-    Lorsqu'on part la journée, il faut systématiquement avoir dans son sac, une 2eme couche chaude, une veste imperméable et coupe-vent, casquette / bonnet / buff / petite paire de gants / pantalon de pluie. Les lunettes de soleils sont indispensables dès que vous partez en montagne.
-
-    Les bâtons de marche seront utiles et vous aideront grandement lors de randonnées longues et/ou difficiles. Les pliables ou en plusieurs brins se rangent facilement dans le sac.
-
-    En ce qui concerne le reste du contenu du sac, il y a tout l'aspect préventif. Il est important d'avoir une petite trousse de 1er secours.
+  content: "Partir randonner à la journée, c'est bien s'équiper afin de profiter pleinement
+    de sa sortie.  \nIl sera important de prendre une paire de chaussures adaptées
+    à la marche en montagne. Des chaussures qui seront à tiges hautes ou basses, avec
+    de l'accroche, qui protège vos orteils et qui maintiennent correctement votre
+    cheville. Certaines sont plus légères, voire type trail, d'autres seront plus
+    lourdes pour une meilleure protection. En fonction, vous pouvez également les
+    prendre imperméables ou dotés de la membrane Gore-tex. Le plus important, c'est
+    de les essayer avant de partir randonner avec.\n\nEn fonction de la période, du
+    temps et de la météo, il faudra adapter votre tenue. Pantalon technique ou short,
+    vêtement technique et respirant, coupe-vent, k-way et poncho, soft shell ainsi
+    qu'une petite doudoune sont des équipements à avoir selon les températures. En
+    montagne, plus nous prenons de l'altitude, plus les degrés baissent. De plus,
+    au sommet, le vent peut-être présent et la température ressentie peut-être froide.
+    La montagne est un milieu où les conditions météorologiques peuvent très rapidement
+    changer.\n\nLorsqu'on part la journée, il faut systématiquement avoir dans son
+    sac, une 2eme couche chaude, une veste imperméable et coupe-vent, casquette /
+    bonnet / buff / petite paire de gants / pantalon de pluie. Les lunettes de soleils
+    sont indispensables dès que vous partez en montagne.  \nLes bâtons de marche seront
+    utiles et vous aideront grandement lors de randonnées longues et/ou difficiles.
+    Les pliables ou en plusieurs brins se rangent facilement dans le sac.  \nEn ce
+    qui concerne le reste du contenu du sac, il y a tout l'aspect préventif. Il est
+    important d'avoir une petite trousse de 1er secours."
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
 - template: textarea
-  content: |-
-    Aujourd'hui, nous faisons facilement confiance à nos téléphones et nos montres GPS. Mais parfois, le réseau n'est plus présent, la batterie est à plat, alors il est judicieux d'avoir la carte IGN du secteur où nous sommes. Cela vous aidera afin de vous retrouver et de ne pas être perdu. Transporter une boussole est un plus si vous savez l'utiliser.
-
-    En partant à la journée, il n'est pas utile de trop charger son sac. Et pour ce qui concerne le sac et sa taille, un sac de 20L à 30L est idéal pour ce type de randonnée. Le sac doit également être bien ajusté en fonction de votre morphologie. Découvrez également nos [https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running,](https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running, "sacs de trail Instinct Trail") qui peuvent vous accompagner pour une journée de randonnée.
-
-    L'eau ne sera jamais de trop dans votre sac de randonnée. Une gourde de 1L est le minimum à avoir sur soi. Selon le parcours et votre itinéraire vous pouvez vous retrouver pendant plusieurs kilomètres sans aucun point d'eau. Il est alors important de doubler sa quantité d'eau, surtout s'il fait chaud. Si vous passez par des hameaux ou des villages, vous pourrez alors facilement remplir vos gourdes. Sinon vous pouvez les remplir dans des rivières. Mais attention, l'eau des rivières peut vous apporter des bactéries. Il est alors préférable d'avoir une gourde filtrant l'eau directement. Si vous désirez boire directement dans une rivière, il est important d'être haut en altitude afin d'éviter les alpages et les troupeaux. Mais l'eau est alors peu minérale et très froide, cela peut être alors indigeste. Si, il y a la présence de troupeau de mouton ou de vache, il est fortement déconseillé de boire l'eau directement. Il faudrait mettre une pastille ou alors avoir une gourde filtrante.
-
-    Les cartes IGN présentent différentes signalisations pour indiquer des fontaines, des sources d'eau, des puits et autre afin de vous permettre de savoir où il y a de l'eau.
+  content: "Aujourd'hui, nous faisons facilement confiance à nos téléphones et nos
+    montres GPS. Mais parfois, le réseau n'est plus présent, la batterie est à plat,
+    alors il est judicieux d'avoir la carte IGN du secteur où nous sommes. Cela vous
+    aidera afin de vous retrouver et de ne pas être perdu. Transporter une boussole
+    est un plus si vous savez l'utiliser.\n\nEn partant à la journée, il n'est pas
+    utile de trop charger son sac. Et pour ce qui concerne le sac et sa taille, un
+    sac de 20L à 30L est idéal pour ce type de randonnée. Le sac doit également être
+    bien ajusté en fonction de votre morphologie. Découvrez également nos [https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running,](https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running,
+    \"sacs de trail Instinct Trail\") qui peuvent vous accompagner pour une journée
+    de randonnée.\n\nL'eau ne sera jamais de trop dans votre sac de randonnée. Une
+    gourde de 1L est le minimum à avoir sur soi. Selon le parcours et votre itinéraire
+    vous pouvez vous retrouver pendant plusieurs kilomètres sans aucun point d'eau.
+    Il est alors important de doubler sa quantité d'eau, surtout s'il fait chaud.
+    Si vous passez par des hameaux ou des villages, vous pourrez alors facilement
+    remplir vos gourdes. Sinon vous pouvez les remplir dans des rivières. Mais attention,
+    l'eau des rivières peut vous apporter des bactéries. Il est alors préférable d'avoir
+    une gourde filtrant l'eau directement. Si vous désirez boire directement dans
+    une rivière, il est important d'être haut en altitude afin d'éviter les alpages
+    et les troupeaux. Mais l'eau est alors peu minérale et très froide, cela peut
+    être alors indigeste. Si, il y a la présence de troupeau de mouton ou de vache,
+    il est fortement déconseillé de boire l'eau directement. Il faudrait mettre une
+    pastille ou alors avoir une gourde filtrante.  \nLes cartes IGN présentent différentes
+    signalisations pour indiquer des fontaines, des sources d'eau, des puits et autre
+    afin de vous permettre de savoir où il y a de l'eau."
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646144788/website/Conseil%20/alireza-shojaei-9v5GBFfnnlU-unsplash_fnkdah.jpg
