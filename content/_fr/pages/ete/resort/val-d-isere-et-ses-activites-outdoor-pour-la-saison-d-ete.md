@@ -54,6 +54,25 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749751/website/summer/mac-bart-du-Jpr2srDU-unsplash_jbha8f.jpg
+  alt_text_for_image: Chemin de pierre dans le parc national de le Vanoise
+  captiontitleuppercase: 'Une montagne d''exception '
+  title: Randonner dans le parc de la Vanoise
+  content: |-
+    A val d'Isère, les amateurs de montagnes vont bénéficier d'un espace de découverte incroyable. Au cœur du parc national de la Vanoise, vous découvrirez une faune et une flore d'exception. Entouré de sommet tel que le Mont Pourri, le Ruitor, la Grande Motte, la Grande Sassière, vous plongerez dans des décors alpins. Partez à la rencontre de chamois et de bouquetins, écoutez les marmottes siffler et apprenez à distinguer la diversité des fleurs de montagnes.
+
+    Vous pourrez alors randonner au lac de l'Ouillette, dans le vallon du Prariond et des Fours. Mais aussi des randonnées plus longues tel que le tour du Mont Pourri, des treks passant sur les sommets de l'Italie et bien d'autres. Si vous désirez randonner et découvrir la montagne, Val d'Isère est une destination idéale. Partez avec un accompagnateur afin d'apprendre encore mieux les secrets des montagnes.
+
+    Val d'Isère est également une destination parfaite pour tous les coureurs de trail. Avec ces évènements de trail incontournable, elle propose également des parcours fléchés pour le trail running. A vous les sentiers !
+
+    Si vous aimez les sensations fortes, la via ferrata de Roc de Tovière et de Plates de la Daille vous emmèneront dans un décor sauvage et vertigineux.
+
+    Vous pourrez également vous laisser tenter par de la randonnée glacière et découvrir une montagne haute en altitude.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
