@@ -29,6 +29,24 @@ page_sections:
     * Le massif du Mont Blanc, l'unique
     * Le Jura et ses forêts
     * Et bien d'autres
+
+    Voici les différentes activités que vous pouvez retrouver et réserver en montagne.
+- template: 2colimgtxt
+  captiontitleuppercase: Explorer les montagnes à pieds
+  title: La randonnée en montagne
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646229760/website/summer/ben-o-bro-TgpWr5YI7Ls-unsplash_zfizwh.jpg
+  alt_text_for_image: Femme de dos regardant au loin devant un lac et des sommets
+    de montagne avec un grand soleil
+  content: |-
+    La randonnée est l'activité phare en montagne. Partir quelques heures, une journée ou même en trek sur plusieurs jours, c'est pénétrer dans l'immensité de cette nature sauvage et incroyable. L'été on y découvre énormément de chemin balisé en jaune (PR), en rouge et blanc (GR) et jaune et rouge (GR de pays) ainsi que d'autre petit sentier pas toujours balisé. Les stations ou villes mettent à disposition des listes de randonnées balisées à faire en fonction des niveaux et des envies. Réserver un accompagnateur de moyenne montagne permet également de partir sur des randonnées et d'avoir plus de connaissances et de notions sur la montagne, la faune, la flore et tout ce qui la compose.
+
+    La randonnée est une activité pour tous, vous pouvez partir quelques heures avec vos enfants vers des lacs, des petits refuges afin d'y boire une grenadine, à la découverte des marmottes... Mais c'est aussi pour les plus sportifs, un moyen d'aller découvrir des sommets, de gravir des cols, des passages techniques et découvrir, loin de la station, des espaces protégés et préserver de l'activité humaine. C'est aller à la recherche du faune sauvage et d'une flore aux milles éclats qui pousse dans des endroits que vous n'aurez jamais soupçonnés.
+
+    Partir en trek, c'est randonner pendant plusieurs jours soit en autonomie complète soit en semi-autonomie et s'arrêter dormir dans des refuges gardés. C'est un moyen incroyable de plonger plusieurs jours dans cette nature, de se vider la tête, et de partager des moments riches en émotions.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
