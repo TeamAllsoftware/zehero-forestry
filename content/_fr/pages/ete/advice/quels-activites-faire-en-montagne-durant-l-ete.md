@@ -76,6 +76,37 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/pablo-heimplatz-R4679uf28lY-unsplash_ysyjkx.jpg
+  alt_text_for_image: Parapente au dessus des montagnes
+  captiontitleuppercase: Explorer les montagnes vue du ciel
+  title: Le parapente
+  content: En montagne, c'est le parfait d'endroit pour participer à son 1er vol de
+    parapente, pour faire son stage de parapente ou alors de le pratiquer directement.
+    Partir dans les airs, voler au-dessus des sommets des montagnes, avoir le meilleur
+    panorama et voir des sommets situés à des centaines de kilomètres. La pratique
+    du parapente, c'est découvrir la montagne sous un autre angle, c'est vivre des
+    sensations fortes et uniques. Cette activité est surtout possible pour tout le
+    monde et permet de vivre un moment riche en émotion.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  title: L'escalade
+  captiontitleuppercase: Grimper les falaises des montagnes
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646234011/website/summer/patrick-hendry-_JjBZdLFQiM-unsplash_w58ivp.jpg
+  alt_text_for_image: Personne pratiquant l'escalade en train de gravir un face
+  content: |-
+    L'escalade est une disciple incontournable en montagne. Une discipline physique, mentale mais également très connecté avec l'environnement. Elle demande déjà certaines connaissances importantes via le matériel, la sécurité, l'assurage et ensuite de technique. Si vous être débutant, un guide vous accompagnera afin de vous apprendre toutes les différentes facettes de l'escalade en falaise.
+
+    L'escalade vous amène au cœur de la montagne en grimpant directement sur ses parois. C'est vivre des moments forts, en escaladant ses voies pour atteindre des sommets. C'est une discipline et une activité qui se partage. Chacun motive l'autre afin de réussir. Elle permet souvent de marcher en montagne avant de grimper sur les différentes voies.
+
+    Pour ceux qui préfère escalade la montagne d'une façon plus simple mais parfois plus vertigineux, vous pourrez pratiquer la via ferrata. Beaucoup de lieux en montagne proposent des parcours variés de via ferrata. Vous pouvez louer directement votre matériel dans des magasins ou venir avec le vôtre. Une activité plus facile d'accès et ouverte à plus de personne.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
