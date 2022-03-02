@@ -34,6 +34,26 @@ page_sections:
     de la Vanoise. Ce village reste très actif l'été afin de proposer de multiples
     activités outdoor ainsi que de nombreux commerces et événements tout au long de
     la saison.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646211895/website/resorts/alpe%20d%27huez/valdisere-00007573_omknxl.jpg
+  alt_text_for_image: Vue du village et de maison de montagne de Val d'Isère avec
+    de la végétation et la montagne derrière
+  captiontitleuppercase: Une saison qui bat son plein
+  title: Val d'Isère pour tous
+  content: "Val d'Isère fera le bonheur des amoureux de la nature, des grands espaces,
+    des sensations fortes et des sportifs. Mais c'est aussi un lieu de calme, de charme
+    qui ravira ceux qui aiment farniente dans le silence au cœur de la nature. Partez
+    visiter ses ruelles et ses maisons typiques des montagnes, un village chargé d'histoire
+    avec une architecture traditionnelle savoyarde. Partez réaliser le tour de 7 chapelles
+    et plongez dans l'univers unique de Val d'Isère.\n\nUne station très active qui
+    propose également de nombreux marchés, des concerts, des festivals. Pour les gourmands,
+    vous profiterez d'une restauration raffinée aux produits locaux et du terroir.\n\nVous
+    trouverez bon nombre d'évènement durant la saison avec :  \n\\- E-Bike Festival
+    \ \n\\- Trails des 5 Vals  \n\\- High Trail Vanoise  \n\\- Le tour de l'avenir"
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
