@@ -47,6 +47,20 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0014_d4zlv9.jpg
+  alt_text_for_image: Coureur de trail grimpant une pente herbeuse avec beaucoup de
+    fleurs à Valmorel
+  captiontitleuppercase: Découvrir en courant
+  title: Le trail Running
+  content: |-
+    Le trail running est une activité et une discipline pratiquée par énormément de personnes aujourd'hui. En plus d'être un sport de compétition, c'est surtout une activité qui permet de courir en montagne, d'aller plus vite et plus loin, de jouer avec le terrain. Courir c'est se vider la tête, se dépenser, découvrir des lieux, c'est partir loin et vivre des moments intenses.
+
+    Les stations proposent aujourd'hui de plus en plus de parcours dédiés au trail et balisés avec différents niveaux. Mais les parcours sont également tous les sentiers de montagne qui permettent aux coureurs de partir avec des sacs légers et réaliser de longues sorties. Que ce soit seul ou en groupe, le trail est un moment riche en émotions par le partage avec la nature et/ou avec le groupe. Découvrez le trail avec un accompagnateur qui vous amènera dans des lieux uniques et de vous expliquer comment bien courir en montée, en descente et comment bien s'alimenter et s'hydrater.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
