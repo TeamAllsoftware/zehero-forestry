@@ -87,6 +87,19 @@ page_sections:
     C'est également du parapente afin de découvrir une montagne par l'air et d'en voir tous ses sommets.
 
     Respirez et détendez-vous en pratiquant le Yoga dans la plénitude de la montagne.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646217413/website/resorts/val-d-isere/yann-allegre-F9RlyTq6DCo-unsplash_k1n3ev.jpg
+  alt_text_for_image: Petite maison de bois en montagne à Val d'Isère
+  captiontitleuppercase: Profitez d'un été de découverte et de partage
+  title: Vivre l'outdoor intensément
+  content: |-
+    Avec toutes ces différentes activités outdoor à Val d'Isère, vous ne pourrez pas vous ennuyer. Cette destination de montagne vous offrira des moments forts en sensation, des découvertes, du partage, des panoramas d'exception, des lieux uniques pour un séjour réussit.
+
+    Trouvez votre activité qui vous plaît, réservez pour vous et toute votre famille. Vous pourrez également louer tout le matériel que vous souhaitez dans les différents magasins de location de Val d'Isère.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
