@@ -42,23 +42,23 @@ page_sections:
     Cela évolue en fonction de votre condition physique mais également en fonction
     du terrain de marche. Un terrain très technique va vous ralentir et sera beaucoup
     plus exigeant physiquement et mentalement. Il sera important de bien prendre en
-    compte ces 3 indicateurs :\n\n1. Les kilomètres\n2. Le dénivelé\n3. La technicité
-    du parcours"
+    compte ces 3 indicateurs :"
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
 - template: textarea
-  content: "Tout d'abord, il faut savoir que pour des personnes novices dans la randonnée,
-    la vitesse moyenne va être de 2km/h à Il aura donc plusieurs niveaux de difficulté
-    selon ces trois indicateurs. Le kilomètre et le dénivelé sont deux paramètres
-    qui se lient pour votre tracé. Plus il y a aura de dénivelé et moins il y aura
-    de kilomètres alors les montées seront très raide.  \nL'important, c'est de commencer
-    par des parcours faciles et de comprendre ces indicateurs et sa forme physique
-    durant l'effort. Vous pourrez alors jauger et vous aventurer sur des parcours
-    plus long ou non.\n\nEn ce qui concerne la technicité du parcours, vous pourrez
-    retrouver les différentes informations si vous trouvez des descriptions des parcours,
-    des topos, etc. Un terrain technique, c'est par exemple des sentiers avec énormément
+  content: "1. Les kilomètres\n2. Le dénivelé\n3. La technicité du parcours\n\nTout
+    d'abord, il faut savoir que pour des personnes novices dans la randonnée, la vitesse
+    moyenne va être de 2km/h à Il aura donc plusieurs niveaux de difficulté selon
+    ces trois indicateurs. Le kilomètre et le dénivelé sont deux paramètres qui se
+    lient pour votre tracé. Plus il y a aura de dénivelé et moins il y aura de kilomètres
+    alors les montées seront très raide.  \nL'important, c'est de commencer par des
+    parcours faciles et de comprendre ces indicateurs et sa forme physique durant
+    l'effort. Vous pourrez alors jauger et vous aventurer sur des parcours plus long
+    ou non.\n\nEn ce qui concerne la technicité du parcours, vous pourrez retrouver
+    les différentes informations si vous trouvez des descriptions des parcours, des
+    topos, etc. Un terrain technique, c'est par exemple des sentiers avec énormément
     de cailloux, de marcher à travers des pierriers, des chemins très raides avec
     des obstacles naturels, des racines etc. Cela va alors être plus dur physiquement
     mais aussi mentalement car la concentration sera plus importante.\n\nDécouvrez
