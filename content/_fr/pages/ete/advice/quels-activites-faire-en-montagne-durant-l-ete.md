@@ -107,6 +107,19 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
+  alt_text_for_image: Personne attaché à une corde pratiquant le canyoning dans les
+    Alpes Maritimes
+  captiontitleuppercase: Les activités aquatiques en montagne
+  title: Le Canyoning
+  content: |-
+    La montagne c'est également des activités d'eau tel que le rafting, l'hydrospeed, le canoë et bien sûr le canyoning. Le canyoning, c'est la pratique où vous découvrir des lieux que vous n'aurez jamais pu accéder. C'est découvrir la force de la nature, explorer les rivières et les cours d'eau des montagnes. C'est vivres des sensations fortes avec les sauts, les toboggans, les descentes en rappels, la marche aquatique. C'est profiter de lieux magnifiques, des roches sculpter par l'eau et le temps, offrant des formes uniques. Le canyoning est une activité pour tous, à partager en groupe. Vous trouverez différents niveaux et donc différents parcours proposer. C'est un bon moyen également de se rafraîchir durant l'été. Vous pouvez soit louer tout votre matériel de canyoning directement dans des magasins, soit lors de votre réservation d'activité, l'avoir directement avec le moniteur de canyoning.
+
+    Vous pourrez également profiter de vivre des sensations fortes avec le rafting et l'hydrospeed.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
