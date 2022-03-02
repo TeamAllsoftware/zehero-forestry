@@ -73,6 +73,20 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  title: Les autres activités Outdoor
+  content: |-
+    Val d'Isère propose un choix vaste et large, pour tout le monde, d'activité outdoor l'été.
+
+    Vous pourrez pratiquer le vélo de route et découvrir la montagne autrement. Partez grimper le fameux col de l'Iseran, plonger dans la Haute Maurienne. Il existe énormément de boucles sportives, de découvertes qui vous emmèneront également en Italie.
+
+    Toujours sur 2 roues, louer un VTT et partez sur les pistes de DH, d'enduro de Val d'Isère. Vous bénéficierez de 5 remontées mécaniques pour rouler sur les pistes et vous pourrez rejoindre également les pistes de VTT de Tignes. Vivez des sensations fortes tout en découvrant le domaine. Vous pourrez également louer un VTT électrique pour rouler plus loin et plus facilement.
+
+    Val d'Isère s'est aussi des activités aquatiques. Partez faire du rafting, de l'hydrospeed, du canoë-snake et du canyoning. Que ce soit en famille pour les amateurs, vous trouverez des parcours à votre goût.
+
+    C'est également du parapente afin de découvrir une montagne par l'air et d'en voir tous ses sommets.
+
+    Respirez et détendez-vous en pratiquant le Yoga dans la plénitude de la montagne.
 published: false
 
 ---
