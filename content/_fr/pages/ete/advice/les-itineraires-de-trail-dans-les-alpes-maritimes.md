@@ -2,9 +2,9 @@
 layout: layout_advice
 language: fr
 season: summer
-meta-title: Conseil sportif en trail, tous nos itinéraires dans les alpes maritimes et les pré alpes
-meta-description: Découvrez nos différents itinéraires de trail et de course à pied dans
-  les pré alpes et les alpes maritimes
+meta-title: Conseil trail, tous nos itinéraires dans les alpes maritimes
+meta-description: Découvrez nos différents itinéraires de trail et de course à pied
+  dans les pré alpes et les alpes maritimes
 topnav_color_text: light
 title: Les Itinéraires de Trail dans les Alpes Maritimes
 permalink: "/fr/ete/conseil/itineraires-trail-alpes-maritimes"
@@ -18,14 +18,14 @@ page_sections:
   title: Les itinéraires de trail dans les Alpes Maritimes
   content: "Afin de vous apporter des idées d'itinéraires de course à pied dans les
     Alpes Maritimes, nous avons mis en avant plusieurs parcours. Chacun des parcours
-    a été effectué par nos coureurs Ze Hero.   \nNous avons décidé de créer 3 niveaux
-    de parcours de trail :\n\n* Bleu\n* Rouge\n* Noir\n\nLes Alpes Maritimes offrent
-    de choix variés, d'une nature d'exception qui vous permettra de profiter  pleinement
-    lors de vos sorties sur chacun des parcours. De la mer à la montagne, il n'y a
-    qu'un sentier dans les Alpes maritimes"
+    a été effectué par nos coureurs Ze Hero.  \nNous avons décidé de créer 3 niveaux
+    de parcours de trail :\n\n* Vert\n* Bleu\n* Rouge\n* Noir\n\nLes Alpes Maritimes
+    offrent de choix variés, d'une nature d'exception qui vous permettra de profiter
+    \ pleinement lors de vos sorties sur chacun des parcours. De la mer à la montagne,
+    il n'y a qu'un sentier dans les Alpes maritimes"
 - template: 2colimgtxt
   title: Itinéraire Trail Le Petit Tour de Théoule
-  captiontitleuppercase: BLEU
+  captiontitleuppercase: VERT
   content: "* Distance : 9,4km\n* Niveau: Débutant\n* Dénivelé : 404 m\n* Temps estimé
     : 1h30 à 1h50\n\nUn tour parfait pour débuter le trail et surtout faire une magnifique
     balade.  \nLe départ se fait du port de Théoule.\n\nLa plus grosse difficulté
@@ -74,7 +74,7 @@ page_sections:
 
     Ce parcours magnifique reste raide et technique, avec beaucoup de virages épingles. Vous aurez en moyenne une pente a 15%. Vous profiterez de la vue arriver au sommet de Gourdon avant de repartir. Un parcours technique mais rapide qui peut être un très bon terrain pour mesurer sa forme en montée.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643298321/website/summer/la-verticale-1_gzkvdn.png
-  captiontitleuppercase: BLEU
+  captiontitleuppercase: VERT
   title: La Verticale
   button:
     text_button: ''
@@ -83,7 +83,7 @@ page_sections:
   alt_text_for_image: Itinéraire de trail à Gourdon
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643352682/website/summer/le-trail-de-gordon-1_af2yrh.png
-  captiontitleuppercase: VERT
+  captiontitleuppercase: BLEU
   content: |-
     * Distance : 14km
     * Dénivelé : 823m
@@ -138,7 +138,7 @@ page_sections:
 
     Ensuite vous descendez légèrement afin de remonter sur le 2ème sommet : le Pic de Courmettes. La descente jusqu’à Tourrettes sera technique.
   title: Trail des Pics
-  captiontitleuppercase: Vert
+  captiontitleuppercase: BLEU
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643353728/website/summer/le-trail-des-pics-2_ran3pi.png
   button:
     text_button: ''
@@ -182,7 +182,7 @@ page_sections:
 
     Maintenant demi tour dans cette descente technique et joueuse !
   title: Le KV du Cheiron
-  captiontitleuppercase: VERT
+  captiontitleuppercase: BLEU
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643354284/website/summer/le-kv-du-cheiron-1_kayf5z.png
   button:
     text_button: ''
@@ -273,7 +273,7 @@ page_sections:
     De là, vous prendrez à droite afin de finir l’ascension et d’arriver au sommet : une montée de 5,1km et 650D+. Vous longerez la route en descente jusqu’au panneau d’indication 283 et continuerez tout droit le long des crêtes.
 
     Arrivé au panneau 282, vous prendrez totalement à gauche pour faire demi-tour en prenant la direction “Les Chabanes”. Le chemin est à l’ombre et reste technique. Vous passerez ensuite dans le Village “Tourette-du-Chateau” et vous continuerez en prenant la direction de “Revest les Roches”.
-  captiontitleuppercase: VERT
+  captiontitleuppercase: BLEU
   title: Le Mont Vial
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643354628/website/summer/mont-vial-1_kfjqo7.png
   button:
