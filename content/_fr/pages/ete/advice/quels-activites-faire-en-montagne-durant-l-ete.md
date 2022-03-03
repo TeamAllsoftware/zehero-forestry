@@ -81,9 +81,12 @@ page_sections:
   alt_text_for_image: Cycliste grimpant une route de col à Méribel
   captiontitleuppercase: La montagne à vélo
   title: Le vélo de route
-  content: La montagne l'été s'est aussi le moment de monter en selle et partir à
-    l'assaut des cols. Le vélo de route vous permet de découvrir la montagne par ses
-    petites routes, ses cols, en traversant des villages
+  content: |-
+    La montagne l'été c'est aussi le moment de monter en selle et partir à l'assaut des cols. Le vélo de route vous permet de découvrir la montagne par ses petites routes, ses cols, en traversant des villages et en passant par des altitudes parfois hautes. C'est une activité idéale pour partager un moment en groupe, dans un effort et de découvrir des lieux et des paysages.
+
+    Vous pourrez alors grimper des cols mythiques comme le Madelaine, la Loze, le Galibier, le Télégraphe, la Bonette et bien d'autres.
+
+    Si vous ne pouvez pas emmener votre vélo avec vous, vous pourrez en louer directement dans les magasins de location en montagne.
   button:
     text_button: ''
     href_button: ''
