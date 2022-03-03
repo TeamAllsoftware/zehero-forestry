@@ -29,6 +29,20 @@ page_sections:
     Mais dans tous les cas, un sac à dos de randonnée de 20L à 30L est idéal pour randonner à la journée.
 
     Ensuite il faudra essayer et tester les sacs afin de ressentir la forme qui vous satisfait déjà le mieux. En magasin, il est possible d'essayer les sacs avec du poids à l'intérieur. Celui-ci doit être agréable à porter au niveau de sa longueur, de son confort dans le dos et sur les bretelles ainsi que sa ceinture ventrale. Les sacs vont ensuite se différencier sur leur ergonomie, leurs accessoires, leurs rangements, la matière et la solidité des tissus et des revêtements. Il est toujours plus agréable d'avoir un sac avec des différentes poches et différents compartiments afin d'organiser son rangement et son matériel. Certaines choses parfois simples deviennent compliquées sur certains sacs, comme chercher sa bouteille d'eau, certains accès etc.
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646301560/website/summer/ali-kazal-MzTTVl_trFw-unsplash_a8imzt.jpg
+  alt_text_for_image: Image d'un sac à dos de randonnée et de trek posé contre un
+    rocher
+  captiontitleuppercase: Que faut il prendre dans son sac ?
+  title: Les indispensables
+  content: |-
+    Lorsque l'on part à la journée randonnée, certains équipements et matériels sont indispensables. De plus, si vous partez en montagne et donc en altitude, il ne faudra pas oublier de prendre quelques équipements supplémentaires.
+
+    Tout d'abord, il faut, même s'il le soleil est présent dès votre dé
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
