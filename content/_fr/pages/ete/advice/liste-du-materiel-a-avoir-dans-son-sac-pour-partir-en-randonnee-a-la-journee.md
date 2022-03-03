@@ -119,6 +119,18 @@ page_sections:
   - Montre GPS ou Application sur Smartphone
   - 'Boussole '
   - Une frontale
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883631/website/summer/Famille-monntagne-descente_pnefzh.jpg
+  alt_text_for_image: Des randonneurs marchant sur des sentiers en montagnes portant
+    des sacs de randonnée
+  captiontitleuppercase: Les dernières choses utiles
+  title: Sécurité et pharmacie
+  content: 'La trousse de soin, de 1er secours est importante à avoir sur soi. Vous
+    pouvez en trouver de '
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
