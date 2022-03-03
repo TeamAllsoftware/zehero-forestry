@@ -5,7 +5,7 @@ season: summer
 meta-description: Si vous partez vous randonner, que ce soit pour quelques heures,
   à la journée ou plusieurs jours, il y a des équipements et du matériel indispensable
   à avoir dans son sac.
-topnav_color_text: dark
+topnav_color_text: light
 title: Liste du matériel à avoir dans son sac pour partir en randonnée à la journée
 permalink: "/fr/ete/conseil/liste-materiel-randonnee"
 meta-title: 'La liste du matériel à prendre dans son sac de randonnée '
