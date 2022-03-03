@@ -21,11 +21,11 @@ page_sections:
 
     En France, la montagne c'est un choix incroyable de massif, de parc national et régional. Ce sont également des stations très actives été comme hiver, offrant des infrastructures idéales pour vos séjours estivaux. Découvrez par exemple :
 
-    * Le Mercantour, un massif sauvage et abrupte avec vue mer
+    * Le Mercantour, un massif sauvage et abrupt avec vue mer
     * Le parc national de la Vanoise, pour des randonnées incontournable
     * L'Ecrin et sa pratique de l'alpinisme
     * Les Cévennes et ses plateaux gorgés d'histoire
-    * Les Pyrénées, une chaine frontalière avec l'Espagne
+    * Les Pyrénées, une chaîne frontalière avec l'Espagne
     * Le massif du Mont Blanc, l'unique
     * Le Jura et ses forêts
     * Et bien d'autres
@@ -44,9 +44,9 @@ page_sections:
 
     Partir en trek, c'est randonner pendant plusieurs jours soit en autonomie complète soit en semi-autonomie et s'arrêter dormir dans des refuges gardés. C'est un moyen incroyable de plonger plusieurs jours dans cette nature, de se vider la tête, et de partager des moments riches en émotions.
   button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+    text_button: Découvrir +
+    href_button: "/fr/ete/activite/randonnee-montagne"
+    alt_button: Accéder à la page sur la randonnée
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0014_d4zlv9.jpg
   alt_text_for_image: Coureur de trail grimpant une pente herbeuse avec beaucoup de
@@ -58,12 +58,12 @@ page_sections:
 
     Les stations proposent aujourd'hui de plus en plus de parcours dédiés au trail et balisés avec différents niveaux. Mais les parcours sont également tous les sentiers de montagne qui permettent aux coureurs de partir avec des sacs légers et réaliser de longues sorties. Que ce soit seul ou en groupe, le trail est un moment riche en émotions par le partage avec la nature et/ou avec le groupe. Découvrez le trail avec un accompagnateur qui vous amènera dans des lieux uniques et de vous expliquer comment bien courir en montée, en descente et comment bien s'alimenter et s'hydrater.
   button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+    text_button: Découvrir +
+    href_button: "/fr/ete/activite/trail-running"
+    alt_button: Accéder à la page sur le trail running
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/tim-foster-qrIy8dBzCVU-unsplash_t0p4kh.jpg
-  alt_text_for_image: Des VTTistes qui descendes des chemins en VTT en forêts
+  alt_text_for_image: Des VTTistes qui descendent des chemins de forêts en VTT
   captiontitleuppercase: Rouler, sauter, dévaler les sentiers
   title: Le VTT en montagne
   content: |-
@@ -73,9 +73,9 @@ page_sections:
 
     Pour ceux qui préfèrent le faire avec un effort moins intense, partez avec un VTT électrique et profiter de l'assistance électrique pour grimper les côtes plus aisément. Cela permet d'ouvrir et de permettre la pratique du VTT à plus de personne.
   button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+    text_button: Découvrir +
+    href_button: "/fr/ete/activite/vtt"
+    alt_button: Accéder à la page sur le VTT
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/51384836504_bff6429438_k_mkw8t9.jpg
   alt_text_for_image: Cycliste grimpant une route de col à Méribel
@@ -88,9 +88,9 @@ page_sections:
 
     Si vous ne pouvez pas emmener votre vélo avec vous, vous pourrez en louer directement dans les magasins de location en montagne.
   button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+    text_button: Découvrir +
+    href_button: "/fr/ete/activite/velo-de-route"
+    alt_button: Accéder à la page dédiée au vélo de route
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/pablo-heimplatz-R4679uf28lY-unsplash_ysyjkx.jpg
   alt_text_for_image: Parapente au dessus des montagnes
@@ -104,9 +104,9 @@ page_sections:
     sensations fortes et uniques. Cette activité est surtout possible pour tout le
     monde et permet de vivre un moment riche en émotion.
   button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+    text_button: Découvrir +
+    href_button: "/fr/ete/activite/parapente"
+    alt_button: Accéder à la page sur le parapente
 - template: 2colimgtxt
   title: L'escalade
   captiontitleuppercase: Grimper les falaises des montagnes
@@ -133,9 +133,9 @@ page_sections:
 
     Vous pourrez également profiter de vivre des sensations fortes avec le rafting et l'hydrospeed.
   button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+    text_button: Découvrir +
+    href_button: "/fr/ete/activite/canyoning"
+    alt_button: Accéder à la page canyoning
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646233990/website/summer/sylvain-mauroux-BN3pSWB95jw-unsplash_mtqpau.jpg
   alt_text_for_image: Alpiniste sur une crête en haute en montagne grimpant
@@ -158,7 +158,7 @@ page_sections:
   content: Vous l'avez compris, il est difficile de s'ennuyer lors d'un séjour en
     montagne. Le nombre d'activité présent dans les villes et les stations sont conséquents.
     Que ce soit pour débuter, pour apprendre, pour vous perfectionner, vivez des expériences
-    uniques. Vous trouverez également bien d'autres activité outdoor pour toute la
+    uniques. Vous trouverez également bien d'autres activités outdoor pour toute la
     famille.
 
 ---
