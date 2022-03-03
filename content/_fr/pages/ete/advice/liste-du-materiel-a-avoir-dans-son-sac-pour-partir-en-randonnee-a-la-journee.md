@@ -99,6 +99,26 @@ page_sections:
   - Pique nique
   - Réchaud de thé ou café
   - Gourde filtrante ou pastille pour l'eau des rivières
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646314205/website/summer/shaq-hossain-z1drTNJoDMU-unsplash_ur1ucx.jpg
+  alt_text_for_image: Personne lisant une carte IGN de randonnée
+  captiontitleuppercase: Ne pas se perdre
+  title: S'orienter
+  content: |-
+    Même si vous allez, la plupart du temps retrouver des balises et des indications sur les chemins, vous n'êtes jamais à l’abri de vous perdre. Vous pouvez avoir des montres GPS qui vous indiquent votre itinéraire ou alors sur votre téléphone. Mais l'idéal reste d'avoir la carte IGN du lieu où vous randonner. Si vous savez correctement lire la carte, alors vous saurez plus facilement vous orienter. Une petite boussole est toujours utile si vous savez vous en servir.
+
+    Ensuite, même si vous randonnez à la journée, prenez une frontale dans votre sac. Vous pouvez avoir des passages dans des tunnels ou grottes qui demandent de la lumière. Mais également, nous sommes jamais à l'abri de rentrer à la tombée de la nuit. On peut facilement et vite se faire rattraper par la nuit qui tombe si le chemin était plus technique ou que vous vous êtes perdus quelque part.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: liststyle01
+  title: 'Avancer sereinement avec :'
+  item:
+  - Carte IGN
+  - Montre GPS ou Application sur Smartphone
+  - 'Boussole '
+  - Une frontale
 published: false
 
 ---
