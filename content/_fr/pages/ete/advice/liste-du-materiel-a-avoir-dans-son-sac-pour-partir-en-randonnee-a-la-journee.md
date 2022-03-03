@@ -38,11 +38,27 @@ page_sections:
   content: |-
     Lorsque l'on part à la journée randonnée, certains équipements et matériels sont indispensables. De plus, si vous partez en montagne et donc en altitude, il ne faudra pas oublier de prendre quelques équipements supplémentaires.
 
-    Tout d'abord, il faut, même s'il le soleil est présent dès votre dé
+    Tout d'abord, il faut, même s'il le soleil est présent dès votre départ, prendre une veste imperméable. Le temps peut être rapidement changeant en montagne. Aujourd'hui, on trouve beaucoup de vestes imperméables qui sont légères et ne prennent pas de place. C'est vraiment le 1er équipement à toujours avoir. Il vous coupera également du vent lorsque vous vous trouvez par exemple sur une crête ou sur un sommet. Vous pouvez également avoir avec vous un petit coupe-vent déperlant.
+
+    De même que si vous partez en short, il est toujours important d'avoir un surpantalon léger ou de pluie afin de se couvrir en cas de baisse de température ou de pluie.
+
+    Dans votre sac, prévoyez généralement du change. Cela peut être un t-shirt et une paire de chaussettes si vous mettez les pieds dans l'eau par exemple. En fonction des températures, prévoyez une 2ème couche. Cela peut être une softsheel ou par exemple une microdoudoune qui sont légères et se mettent en boule dans le sac. Si vraiment le temps peut se gâter ou que le froid est présent, n'hésitez pas à mettre en plus une veste chaude type doudoune au fond du sac.
+
+    On va retrouver aussi les buffs, bonnets, petits gants, casquette. En fonction de la météo, vous pourrez adapter votre choix. Ils ne prennent pas de place et sont très légers.
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: liststyle01
+  title: 'Donc si nous résumons, sans compter vos habits que vous portez déjà sur
+    vous, on retrouve dans le sac :'
+  item:
+  - Veste imperméable et/ou coupe-vent
+  - Rechange T-shirt et chaussettes
+  - 'Surpantalon '
+  - Softsheel, polaire ou micro doudoune
+  - Doudoune si temps froid
+  - Bonnêt, buff, gants, casquette
 published: false
 
 ---
