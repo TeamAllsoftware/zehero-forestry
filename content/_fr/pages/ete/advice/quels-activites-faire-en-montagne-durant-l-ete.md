@@ -160,6 +160,5 @@ page_sections:
     Que ce soit pour débuter, pour apprendre, pour vous perfectionner, vivez des expériences
     uniques. Vous trouverez également bien d'autres activité outdoor pour toute la
     famille.
-published: false
 
 ---
