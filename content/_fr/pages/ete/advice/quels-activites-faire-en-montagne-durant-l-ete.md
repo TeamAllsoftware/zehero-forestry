@@ -77,6 +77,18 @@ page_sections:
     href_button: ''
     alt_button: ''
 - template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/51384836504_bff6429438_k_mkw8t9.jpg
+  alt_text_for_image: Cycliste grimpant une route de col à Méribel
+  captiontitleuppercase: La montagne à vélo
+  title: Le vélo de route
+  content: La montagne l'été s'est aussi le moment de monter en selle et partir à
+    l'assaut des cols. Le vélo de route vous permet de découvrir la montagne par ses
+    petites routes, ses cols, en traversant des villages
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/pablo-heimplatz-R4679uf28lY-unsplash_ysyjkx.jpg
   alt_text_for_image: Parapente au dessus des montagnes
   captiontitleuppercase: Explorer les montagnes vue du ciel
@@ -121,5 +133,30 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646233990/website/summer/sylvain-mauroux-BN3pSWB95jw-unsplash_mtqpau.jpg
+  alt_text_for_image: Alpiniste sur une crête en haute en montagne grimpant
+  captiontitleuppercase: Découvrir la haute montagne
+  title: L'alpinisme
+  content: |-
+    L'alpinisme, la marche glacière sont des pratiques qui vous emmènent en haut des cimes. Découvrez la montagne comme vous l'avez jamais vue.
+
+    Accompagné d'un guide, il vous fera découvrir une montagne belle et hostile, la magie de l'alpinisme. Partez réaliser des courses longues, en grimpant les falaises, en longeant des crêtes, en marchant avec crampons et piolets. Une activité physique, sensationnel et unique.
+
+    Le guide s'adaptera à votre niveau pour vous proposer des courses qui vous conviennent. C'est également une discipline qui demande tout de même un certain niveau physique et donc une bonne préparation. Les parcours peuvent être techniques et l'altitude ajoute une difficulté.
+
+    L'alpinisme est une expérience incroyable pour un voyage pur et sauvage dans les montagnes que vous n'oublierez jamais.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  title: Difficile de s'ennuyer en montagne
+  content: Vous l'avez compris, il est difficile de s'ennuyer lors d'un séjour en
+    montagne. Le nombre d'activité présent dans les villes et les stations sont conséquents.
+    Que ce soit pour débuter, pour apprendre, pour vous perfectionner, vivez des expériences
+    uniques. Vous trouverez également bien d'autres activité outdoor pour toute la
+    famille.
+published: false
 
 ---
