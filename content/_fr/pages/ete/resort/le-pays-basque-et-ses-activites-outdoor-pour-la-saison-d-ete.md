@@ -63,11 +63,10 @@ page_sections:
   alt_text_for_image: Paysage d'océan avec un surfeur dans le Pays Basque
   captiontitleuppercase: Les spots de surf
   title: Pays Basque, terre de surf
-  content: Avec Biarritz comme capitale du surf, le Pays Basque est une destination
-    très prisée pour la pratique du surf. Tout comme les Landes, le surf est une activité
-    très rependue et on y trouve de nombreux spots parfaits pour apprendre et même
-    se perfectionner dans la pratique. Très réputé pour sa culture de surf, les spots
-    incontournables y sont nombreux.
+  content: |-
+    Avec Biarritz comme capitale du surf, le Pays Basque est une destination très prisée pour la pratique du surf. Tout comme les Landes, le surf est une activité très répandue et on y trouve de nombreux spots parfaits pour apprendre et même se perfectionner dans la pratique. Très réputés pour sa culture de surf, les spots incontournables y sont nombreux. La plage des Anglet est très réputée et permet au tant aux écoles de surf de venir comme aux confirmés de profiter. Ensuite, vous trouverez les plages de Biarritz et si la marée est haute, les vagues seront alors destinées aux surfeurs aguerris. Vous avez également les plages de Bidart, de Guéthary, de St Jean de Luz ainsi qu'Hendaye.
+
+    Vous trouverez une centaine d'écoles de surf et de location de surf afin de prendre des cours ou des stages de surf dans le Pays Basque.
   button:
     text_button: ''
     href_button: ''
