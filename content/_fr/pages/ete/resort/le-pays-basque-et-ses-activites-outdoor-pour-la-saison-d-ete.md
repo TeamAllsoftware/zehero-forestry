@@ -52,6 +52,8 @@ page_sections:
     alt_button: ''
 - template: textarea
   content: |-
+    Le Pays Basque est aussi idéal pour partir à vélo de route. Que ce soit pour grimper les cols basques, découvrir les routes et les paysages à vélo tourisme, le bonheur des cyclistes sera comblé. Vous trouverez des séjours de plusieurs jours, avec des itinéraires à travers les montagnes ou vers St Jacques de Compostelle. Mais également des circuits à la journée pour tous les niveaux. Vous pourrez facilement louer votre matériel avec les nombreux magasins de location de vélo dans le Pays Basque.
+
     Le Pays Basque est une destination idéale pour tous les amoureux des activités des eaux vives. Vous trouverez de nombreux canyonings tels que Soussoueou, Ourdaïby, Oilloki dans la Haute Soule. Partez en groupe, passer un moment d'aventure en rafting sur la Nive ou en hydrospeed et canoë raft.
 
     Sur la mer, partez découvrir le littoral en paddle ou en kayak de mer. Découvrez les côtes basques du côté d'Abbadia et de Loïa pour des paysages sublimes. Testez-vous également à la pirogue hawaïenne à St Jean de Luz.
