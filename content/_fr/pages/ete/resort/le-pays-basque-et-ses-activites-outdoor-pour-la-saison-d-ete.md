@@ -34,6 +34,24 @@ page_sections:
     \ \nAvec ses villages et ses villes de charmes, le Pays Basque offre un caractère
     unique et traditionnel. Un lieu idéal pour séjourner et profiter d'une nature
     et d'un environnement incroyable ainsi que de nombreuses activités outdoor."
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646386756/skon-communication-rqwSdMJ8J-4-unsplash_gzsqhn.jpg
+  alt_text_for_image: Train arrivant au sommet de la Rhune, montagne dans le Pays
+    Basque
+  captiontitleuppercase: Partez randonner dans le Pays Basque
+  title: Suivez les sentiers Basques
+  content: |-
+    A coté des Pyrénées, le paysage s'élève et les montagnes se forment. Le Pays Basque c'est une terre pour randonner et découvrir des sommets. Que ce soit en famille, entre amis, en couple ou seul, vous trouverez des randonnées pour tout le monde. Partez au sommet de la Rhune, sommet mythique du Pays Basque, rencontrez les chevaux sauvages, empruntez également son petit train. Partez sur les sentiers des sommets comme le Mondarrain, les crêtes d'Iparla. Plus dans les terres et à la chaîne montagneuse des Pyrénées, vous trouverez d'innombrables sentiers de randonnée. Que ce soit en courant, en pratiquant le trail ou en randonnant, votre terrain de jeu et de découverte sera immense. Vous découvrirez des montagnes au vert éclatant pour des immersions dans des paysages uniques.
+
+    Si vous aimez partir en montagne en baskets, le Pays Basque est une terre parfaite pour tous les amoureux de trail.
+
+    Mettez votre casque, prenez votre VTT et partez sur la grande traversée VTT du Pays Basque. Un itinéraire sportif à travers les montagnes, pour une arrivée à Hendaye. Louer votre VTT et même votre VTT électrique et partez explorer les différents sentiers. Grimpez, roulez, descendez et profiter d'un cadre incroyable pour pratiquer le VTT.
+
+    Le Pays Basque est aussi idéal pour partir à vélo de route. Que ce soit pour grimper les cols basques, découvrir les routes et les paysages à vélo tourisme, le bonheur des cyclistes sera comblé. Vous trouverez des séjours de plusieurs jours, avec des itinéraires à travers les montagnes ou vers St Jacques de Compostelle. Mais également des circuits à la journée pour tous les niveaux. Vous pourrez facilement louer votre matériel avec les nombreux magasins de location de vélo dans le Pays Basque.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
