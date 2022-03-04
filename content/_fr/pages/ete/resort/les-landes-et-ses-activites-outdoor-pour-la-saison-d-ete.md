@@ -6,8 +6,9 @@ meta-description: Trouvez votre activité outdoor ou louer votre matériel dans 
   Landes. Partez surfer, rouler, vivre le plein de sensation en nature dans les Landes.
 topnav_color_text: light
 introduction:
-  you_arrive: Vous arrivez et souhaitez louer du matériel dans cette station.
-  zehero_advice: ZE HERO vous conseille pour  les activités et la location des équipements
+  you_arrive: Vous arrivez et souhaitez louer du matériel et trouver une activité
+    outdoor dans les Landes
+  zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Les Landes et ses activités outdoor pour la saison d'été
 page_title: Les Landes, les grands espaces naturels
