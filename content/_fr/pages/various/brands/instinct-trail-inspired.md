@@ -22,9 +22,9 @@ page_sections:
     d'hydratation de running et ceinture de course à pied  \nVêtement de trail technique
     : T-shirt et Short  \nAccessoires : Casquettes et manchon  \nBagagerie de voyage "
   button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+    text_button: Trouver vos sacs Instinct Trail
+    href_button: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    alt_button: Les sacs de Trail Instinct Trail
 - template: textarea
   title: Instinct Trail Inspired
   content: |-
