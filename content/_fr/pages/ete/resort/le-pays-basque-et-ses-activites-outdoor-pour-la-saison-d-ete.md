@@ -58,6 +58,20 @@ page_sections:
 
     Sur la mer, partez découvrir le littoral en paddle ou en kayak de mer. Découvrez les côtes basques du côté d'Abbadia et de Loïa pour des paysages sublimes. Testez-vous également à la pirogue hawaïenne à St Jean de Luz.
   title: ''
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646386778/les-argonautes-vaM_-VPadBU-unsplash_zchmfx.jpg
+  alt_text_for_image: Paysage d'océan avec un surfeur dans le Pays Basque
+  captiontitleuppercase: Les spots de surf
+  title: Pays Basque, terre de surf
+  content: Avec Biarritz comme capitale du surf, le Pays Basque est une destination
+    très prisée pour la pratique du surf. Tout comme les Landes, le surf est une activité
+    très rependue et on y trouve de nombreux spots parfaits pour apprendre et même
+    se perfectionner dans la pratique. Très réputé pour sa culture de surf, les spots
+    incontournables y sont nombreux.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
