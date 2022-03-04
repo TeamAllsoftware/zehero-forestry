@@ -22,7 +22,7 @@ page_sections:
     d'hydratation de running et ceinture de course à pied  \nVêtement de trail technique
     : T-shirt et Short  \nAccessoires : Casquettes et manchon  \nBagagerie de voyage "
   button:
-    text_button: Trouver vos sacs Instinct Trail
+    text_button: Acheter un sac Instinct Trail
     href_button: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
     alt_button: Les sacs de Trail Instinct Trail
 - template: textarea
@@ -99,6 +99,12 @@ page_sections:
     et sa recherche est sans cesse approfondi.  \nEtre partenaire de cette marque,
     c’est apporté aux coureurs des sacs de qualités, une marque aux valeurs importantes.
     Instinct Trail est d’ailleurs engagé écologiquement et écoresponsables."
+- template: cta
+  button:
+    href_button: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    text_button: Voir la collection
+  intro: Dans la boutique en ligne
+  headline: Toute la collection Instinct Trail à acheter dès maintenant
 baseline: Spécialiste du sac de trail
 engage: Une marque spécialisée dans les sac à dos de trail compacts
 description: La marque Instinct Trail est une marque de course à pied et trail qui
