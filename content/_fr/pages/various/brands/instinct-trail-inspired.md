@@ -104,7 +104,7 @@ page_sections:
     href_button: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
     text_button: Voir la collection
   intro: Dans la boutique en ligne
-  headline: Toute la collection Instinct Train à acheter dès maintenant
+  headline: Toute la collection Instinct Trail à acheter dès maintenant
 baseline: Spécialiste du sac de trail
 engage: Une marque spécialisée dans les sac à dos de trail compacts
 description: La marque Instinct Trail est une marque de course à pied et trail qui
