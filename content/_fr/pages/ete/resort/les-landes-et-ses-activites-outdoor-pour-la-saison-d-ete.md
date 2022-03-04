@@ -85,6 +85,5 @@ page_sections:
     d'activités outdoor diverses dans un cadre et une ambiance variées. Partez vivre
     des émotions fortes sur la côte atlantique entre océan et pins, surf et vélo,
     sport et détente.
-published: false
 
 ---
