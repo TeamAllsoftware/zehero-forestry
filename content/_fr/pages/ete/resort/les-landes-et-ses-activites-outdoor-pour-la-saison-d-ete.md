@@ -39,7 +39,7 @@ page_sections:
   alt_text_for_image: 'Surfeur avançant dans l''eau avec sa planche de surf devant
     les vagues dans les Landes '
   captiontitleuppercase: Les activités Outdoor dans les Landes
-  title: Eau et Terre
+  title: 'Eau '
   content: |-
     Si vous désirez profiter de la nature, le département des Landes est un petit paradis pour profiter de la nature, du soleil et de l'environnement. Les Landes sont connus mondialement pour le surf. Sa côte atlantique et son littoral de plus de 100km de plage offrent un choix énorme de spot de surf. C'est même la capitale européenne du surf.
 
@@ -57,7 +57,34 @@ page_sections:
     Vous pourrez également vous trouver dans des Surf Camp afin de vivre l'esprit surf durant votre séjour. Des lieux où vous pourrez trouver en plus des activités de surf, du Yoga, de vélo et bien d'autres activités outdoor.
 
     Vous l'avez compris, les Landes est paradis pour le surf et pour son ambiance unique. Partez prendre vos 1ers vagues, réalisez vos 1er take-off et vivez des émotions fortes.
+
+    Vous pourrez également pratiquer le stand-up paddle, le kitesurf. Les Landes regroupent également de magnifiques lacs et rivières où vous pourrez pratiquer le canoë kayak.
   title: ''
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646379298/website/resorts/Les%20landes/joackim-weiler-Fgu1YhXEY-E-unsplash_xyn9dj.jpg
+  alt_text_for_image: Route dans les landes avec des pins
+  captiontitleuppercase: Les activités outdoor dans les Landes
+  title: Terre
+  content: |-
+    Une fois la combinaison enlever, les landes c'est profiter de la nature et de ces forêts.
+
+    Tout d'abord, c'est un lieu idéal pour louer un vélo et partir sillonner les lignes droites sur les pistes cyclables à travers les pins et le sable. C'est environ 600km de pistes pour profiter d'en environnement naturel et d'une balade à travers une variété de paysage. Laisser votre voiture garée et partez à vélo pour votre quotidien, c'est ça aussi les Landes.
+
+    Toujours sur deux roues, le VTT est une activité phare. Que ce soit dans les forêts ou même sur les plages, vous trouverez 3500km de sentier balisés à découvrir. Des boucles pour tous les niveaux qui vous feront découvrir ces grands espaces. Ces différentes randonnées sont également à faire à pied ou en courant.
+
+    Que ce soit sur un vélo ou à pied, vous pourrez profiter de tous les sentiers des Landes entre amis, en famille ou seul.
+
+    Pour ceux qui souhaitent se détendre et méditer, vous pourrez profiter de cours de Yoga. Entre une nature reposante, les bruits des vagues, la méditation et vos étirements seront que bénéfiques pour votre corps.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  title: Un séjour bien-être
+  content: Les Landes c'est profiter d'une gastronomie locale, des fêtes landaises,
+    d'activités outdoor diverses dans un cadre et une ambiance variées. Partez vivre
+    des émotions fortes sur la côte atlantique entre océan et pins, surf et vélo,
+    sport et détente.
 published: false
 
 ---
