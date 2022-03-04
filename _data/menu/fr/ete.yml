@@ -45,6 +45,8 @@ menu:
   column-01:
   - nested: Matériel
     menu-items:
+    - title: Que mettre dans son sac de randonnée pour une journée ?
+      href: https://www.ze-hero.com/fr/ete/conseil/liste-materiel-randonnee
     - title: Comment bien s'équiper en trail ?
       href: https://www.ze-hero.com/fr/ete/conseil/equipement-trail
     - title: Comment choisir ses chaussures de trail ?
@@ -52,6 +54,8 @@ menu:
   column-02:
   - nested: Apprendre
     menu-items:
+    - title: Comment bien préparer sa sortie de randonnée à la journée
+      href: https://www.ze-hero.com/fr/ete/conseil/preparer-sa-sortie-randonnee-a-la-journee
     - title: Débuter le Trail running
       href: https://www.ze-hero.com/fr/ete/conseil/comment-debuter-trail
   - nested: Entraînement / Préparation
