@@ -5,8 +5,9 @@ season: summer
 topnav_color_text: dark
 title: Canyoning
 permalink: "/fr/ete/activite/canyoning"
-meta-title: Le canyoning est une expérience outdoor incroyable aux sensations fortes
-meta-description: L'activité du canyoning est une activité d'eau qui consiste à avancer le long d'une rivière en jouant avec les éléments de la nature.
+meta-title: Le canyoning est une expérience outdoor aux sensations fortes
+meta-description: L'activité du canyoning est une activité d'eau qui consiste à avancer
+  le long d'une rivière en jouant avec les éléments de la nature.
 baseline: Sensations, émotions et ludique
 engage: Partagez des sensations et des émotions fortes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642512714/website/summer/harry-dona-9hHTZeKKK8Q-unsplash_ejimkd.jpg
@@ -81,18 +82,9 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
   captiontitleuppercase: Où faire du canyoning
   title: Les meilleurs spots de canyoning en France
-  content: En France on va retrouver un très grand choix de canyoning dans de différentes
-    régions. On va également retrouver beaucoup de canyon pour tous les niveaux, tous
-    les gouts. Vous allez parfois avoir des canyonings magnifiques, mais qui seront
-    moins techniques. Vous aurez aussi des canyonings moins jolis, mais qui seront
-    techniques, exigeants et plus sensationnels.
-  alt_text_for_image: Personne descendant en rappel dans un canyoning
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: textarea
   content: |-
+    En France on va retrouver un très grand choix de canyoning dans de différentes régions. On va également retrouver beaucoup de canyon pour tous les niveaux, tous les gouts. Vous allez parfois avoir des canyonings magnifiques, mais qui seront moins techniques. Vous aurez aussi des canyonings moins jolis, mais qui seront techniques, exigeants et plus sensationnels.
+
     Vous allez en retrouver par exemple :
 
     * En Corse pour des lieux magiques et des canyonings très réputés
@@ -102,7 +94,11 @@ page_sections:
     * Dans les Vosges pour des sensations fortes
     * Dans les Pyrénées pour des canyonings réputés mondialement
     * Mais aussi dans le Jura, en Savoie, en Haute-Savoie...
-  title: ''
+  alt_text_for_image: Personne descendant en rappel dans un canyoning
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: cta
   intro: Réservez dès maintenant vos activités canyoning
   headline: Activités enfants et adultes sont disponibles
