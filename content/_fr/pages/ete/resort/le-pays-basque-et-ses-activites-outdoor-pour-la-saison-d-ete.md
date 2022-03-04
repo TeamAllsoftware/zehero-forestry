@@ -46,8 +46,6 @@ page_sections:
     Si vous aimez partir en montagne en baskets, le Pays Basque est une terre parfaite pour tous les amoureux de trail.
 
     Mettez votre casque, prenez votre VTT et partez sur la grande traversée VTT du Pays Basque. Un itinéraire sportif à travers les montagnes, pour une arrivée à Hendaye. Louer votre VTT et même votre VTT électrique et partez explorer les différents sentiers. Grimpez, roulez, descendez et profiter d'un cadre incroyable pour pratiquer le VTT.
-
-    Le Pays Basque est aussi idéal pour partir à vélo de route. Que ce soit pour grimper les cols basques, découvrir les routes et les paysages à vélo tourisme, le bonheur des cyclistes sera comblé. Vous trouverez des séjours de plusieurs jours, avec des itinéraires à travers les montagnes ou vers St Jacques de Compostelle. Mais également des circuits à la journée pour tous les niveaux. Vous pourrez facilement louer votre matériel avec les nombreux magasins de location de vélo dans le Pays Basque.
   button:
     text_button: ''
     href_button: ''
