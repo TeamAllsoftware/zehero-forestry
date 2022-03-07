@@ -6,8 +6,8 @@ season: winter
 topnav_color_text: dark
 title: Raquettes à neige
 meta-title: Réserver une randonnée en raquettes à neige
-meta-description: Partez faire une randonnée en raquettes à neige dans la montagne et profitez
-  du silence et de l'air pur
+meta-description: Partez faire une randonnée en raquettes à neige dans la montagne
+  et profitez du silence et de l'air pur
 baseline: Exploration, liberté et tranquilité
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080084/website/winter/jacques-dillies-eL6lwLpGgnA-unsplash_qx3ylg.jpg
 image01_alt: Des raquettes dans les domaines de Savoie
@@ -82,5 +82,8 @@ page_sections:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
 topnav_text_color: light
 engage: Les domaines skiables au dela des pistes et des cartes !
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre activité raquette
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=21%2F11%2F2021
 
 ---
