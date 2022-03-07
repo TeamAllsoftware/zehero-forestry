@@ -6,7 +6,8 @@ topnav_color_text: dark
 title: Coaching sportif à Antibes / Alpes Maritimes
 permalink: "/fr/ete/activite/coaching-sportif-antibes-alpes-maritimes"
 meta-title: Réserver un coach sportif à Antibes / Alpes Maritimes
-meta-description: Réservez une séance de coaching sportif à Antibes et dans les Alpes Maritimes
+meta-description: Réservez une séance de coaching sportif à Antibes et dans les Alpes
+  Maritimes
 baseline: Coaching Sportif Antibes
 engage: 'Réservez un cours de coaching sportif à Antibes '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/Yann_3_z49tq1.jpg
@@ -89,5 +90,8 @@ page_sections:
 
     Entre Mer et Montagne, le terrain de jeux à Antibes est incroyable. Partez à l’assaut des sentiers, trouver votre coach de trail à Antibes afin de progresser et d’atteindre vos objectifs.
   title: Les coachs trail à Antibes
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre séance de coaching de sport à Antibes
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
 
 ---
