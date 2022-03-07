@@ -5,7 +5,7 @@ season: summer
 topnav_color_text: dark
 title: Location de Canoë / Kayak
 permalink: "/fr/ete/conseil/location-canoe-kayak"
-meta-title: Louer un canoë kayak, tout ce qu'il faut savoir se trouve dans notre fiche conseil
+meta-title: Louer un canoë kayak pour lac ou mer
 meta-description: Voici nos conseils pour la location de Canoë Kayak afin de connaitre
   les différentes critères et savoir comment les louer.
 baseline: Location de Canoë Kayak
@@ -134,5 +134,8 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+button_to_link_to_ze_hero_shop:
+  button_text: Louer votre canoë kayak
+  url_to_shop_zehero: https://shop.ze-hero.com/location-materiel?equipmentslug=%2Flocation-autre&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
 
 ---
