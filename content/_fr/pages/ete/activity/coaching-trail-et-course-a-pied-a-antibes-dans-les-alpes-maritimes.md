@@ -5,8 +5,12 @@ season: summer
 topnav_color_text: dark
 title: Coaching Trail et course à pied Antibes et Alpes Maritimes
 permalink: "/fr/ete/activite/coaching-course-a-pied-trail-antibes-alpes-maritimes"
-meta-title: Réserver un coach sportif Trail et course à pied Antibes et Alpes Maritimes
-meta-description: Si vous pratiquez la course à pied sur route, le trail running et que vous désirez trouver un groupe d’entraînement encadré par un coach, vous trouverez différentes offres à Antibes. Afin de pouvoir progresser au sein d’un groupe d’entraînement, Ze Hero va proposer, par ses coachs de course à pied, différentes séances de trail et de running. 
+meta-title: 'Réserver un coach sportif Trail et course à pied Antibes '
+meta-description: Si vous pratiquez la course à pied sur route, le trail running et
+  que vous désirez trouver un groupe d’entraînement encadré par un coach, vous trouverez
+  différentes offres à Antibes. Afin de pouvoir progresser au sein d’un groupe d’entraînement,
+  Ze Hero va proposer, par ses coachs de course à pied, différentes séances de trail
+  et de running. 
 baseline: Courir, entrainement, progression
 engage: Accompagnement et progression en course à pied et Trail
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294098/website/Coaching/IMG_20200723_153328_iufidi.jpg
@@ -81,5 +85,8 @@ page_sections:
     Si vous préparez des compétitions, des objectifs de temps et de distance. Si vous voulez établir un calendrier annuel de vos compétitions de trail ou de course à pied, il est alors important **d’échanger** avec le coach. Cela déjà dans le but du travail à effectuer sur les séances de course à pied proposées, mais aussi afin d’avoir une **planification** cohérente.
 
     N’hésitez pas à **contacter** le coach afin d’échanger avec lui sur vos compétences, vos désirs, vos faiblesses. Il pourra également mettre en place, pendant les cours, une **attention** particulière à ces différents aspects.
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre cours de course à pied à Antibes
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 
 ---
