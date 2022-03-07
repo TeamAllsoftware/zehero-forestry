@@ -16,13 +16,66 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: textarea
   title: Débuter dans le canyoning
-  content: Le canyoning est un sport de sensation qui permet de vivre une expérience
-    outdoor incroyable dans des lieux sauvages façonnés par la montagne . Pour toutes
-    les personnes désirant se livrer à des sensations fortes, c'est l'activité parfaite.
-    Un sport sensationnel qui permet de vivre un moment de partage en groupe dans
-    des cadres naturels et unique. C'est un sport qui reste physique mais aussi selon
-    les canyons, mais il demande des connaissances important de techniques si vous
-    êtes autonome mais aussi du milieu naturel.
-published: false
+  content: |-
+    Débuter sans le canyoning c'est connaître quelques conseils importants. Le canyoning est un sport de sensation qui permet de vivre une expérience outdoor incroyable dans des lieux sauvages façonnés par la montagne . Pour toutes les personnes désirant se livrer à des sensations fortes, c'est l'activité parfaite. Un sport sensationnel qui permet de vivre un moment de partage en groupe dans des cadres naturels et uniques.
+
+    C'est un sport qui reste physique selon les canyons, mais il demande des connaissances techniques importantes si vous êtes autonome mais aussi du milieu naturel. Il est donc primordial d'avoir quelques bases concernant pour s'aventurer dans les canyons. En effet, c'est activité loisir peut devenir rapidement dangereuse.
+
+    Voici les différents conseils afin de bien débuter dans le canyoning :
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/IMG_2438_y5voyg.jpg
+  alt_text_for_image: Enfant descendant en rappel dans un canyoning dans les Alpes
+    Maritimes
+  captiontitleuppercase: Ne pas débuter le canyoning seul
+  title: Etre accompagné d'un professionnel
+  content: |-
+    Ne vous aventurez pas dans le canyoning seul ou en groupe si vous êtes débutant ainsi que l'ensemble des personnes le sont également. Pour débuter en canyoning, vous devez être accompagné d'un professionnel. Il aura déjà toutes les connaissances important du lieu et du canyon. Il saura donc où passer, à quel endroit sauter et où glisser etc. S'embarquer dans un canyon sans le connaître, c'est prendre des risques de sauter sur une pierre, de se faire mal.
+
+    De plus, il saura également mettre en place les différentes descentes en rappels, tyroliennes et les autres aspects techniques du canyoning. Ceci est la 1er règle très importante afin d'avoir le maximum de sécurité pour vous et pour les autres si vous êtes en groupe.
+
+    Réservez alors un cours avec un guide, qui vous fera découvrir les joies de cette discipline. Il pourra également vous apprendre quelques notions clés et importante. Il pourra également vous indiquer les différents canyons faciles qui peuvent être parfois simplement réalisables en randonné aquatique.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/IMG_4219_yu6r5e.jpg
+  alt_text_for_image: Deux enfants qui sont équipés pour faire du canyoning.
+  captiontitleuppercase: L'équipement pour pratiquer le canyoning
+  title: L'équipement
+  content: |-
+    Le canyoning demande un équipement bien spécifique à sa pratique et il est important de bien respecter le matériel.
+
+    Tout d'abord, il faut porter une combinaison spécifique au canyoning. Elle doit déjà être épaisse car l'eau des canyons est souvent froide. La combinaison va être d'environ 5mm. Elle doit vraiment être spécifique au canyoning car elle aura des renforts au niveau des fesses, des coudes et des genoux. Il ne faut pas prendre des combinaisons de surf ou de plonger qui risquent de s'abîmer et de se trouer beaucoup plus facilement.
+
+    Il faut porter des chaussures qui accrochent. Vous trouverez soient des chaussures spécifiques au canyoning, sinon vous prenez des chaussures de trail ou de randonnée (légères), qui sont donc plutôt souple et montante, pour ne pas se torde les chevilles et avec une bonne adhérence.
+
+    Le port d'un casque en canyoning est obligatoire. C'est l'équipement de sécurité primordiale à avoir lors de chaque session. Un casque d'escalade convient parfaitement pour le canyoning. Il protégera des chocs, si vous tapez la tête, des pierres qui peuvent tomber etc.
+
+    Il faudra avoir avec vous un baudrier obligatoirement. Il est similaire à celui de d'escalade mais il contient également une jupe qui protège vos fesses lors des glissades. Il sera ainsi composé d'une longe, d’un huit avec un mousqueton à vis sur le pontet. Le baudrier sera complété par des descendeurs, des mousquetons, des bloqueurs etc. Le "chef" de groupe portera dans son sac une corde semi-statique de canyoning de préférence coloré.
+
+    Le sac à dos ne sera pas forcément porté par toutes les personnes. En étant débutant vous n'aurez pas à le porter. Mais le sac de canyoning doit être résistant à l'abrasion et il est composé de trous pour évacuer l'eau. Il portera les bidons étanches, l'alimentation et l'eau et d'autres équipements de sécurité et de soin.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
+  alt_text_for_image: Saut d'une personne dans l'eau lors d'un canyoning
+  captiontitleuppercase: Quelques notions physiques à avoir
+  title: Nager, sauter, glisser
+  content: Forcément il faut savoir nager car vous allez devoir nager dans certaines
+    parties et parfois longtemps. Il faut également être à l'aise dans des zones parfois
+    étroites, escarpées. Il faudra sauter et donc parfois pousser fort sur vos jambes.
+    Il faudra garder votre corps gainé et droit et bien écouter les conseils du moniteur
+    pour réaliser le saut correctement. Bien sûr, même si nous avons envie de sauter
+    partout, il faudra le faire là où le moniteur vous le permet. On ne sait pas où
+    un rocher peut se cacher sous l'eau. Il faudra marcher également et certains canyons
+    sont parfois longs et demandent une bonne condition physique. Lorsque vous allez
+    glisser dans les toboggans, il faudra garder son corps également droit et gainé.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
