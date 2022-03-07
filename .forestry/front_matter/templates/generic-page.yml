@@ -89,12 +89,12 @@ fields:
   - name: button_text
     type: text
     config:
-      required: true
+      required: false
     label: Button text
   - name: url_to_shop_zehero
     type: text
     config:
-      required: true
+      required: false
     description: Copy / Paste ZE HERO website url refering to product/service oin the eshop
     label: URL to link to ZE HERO
   label: Button to link to ZE HERO shop
