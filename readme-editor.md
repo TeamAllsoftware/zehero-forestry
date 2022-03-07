@@ -19,7 +19,13 @@ Once you have been introduce to our system, you might want to use the block comp
 
 ## LASTEST UPDATES
 
-#### update16.02.2022 : New fields META TITLE and META DESCRIPTION
+#### update 7.03.2022 : New fields BUTTON ZE-HERO
+
+New option to add personnalize the always on page "Réserver" green button. This link will supercharge the generic link
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1646652428/website/admin%20forestry/button_ze-hero_hs53kb.png)
+
+#### update 16.02.2022 : New fields META TITLE and META DESCRIPTION
 
 These 2 fields are for SEO and are very important. META TITLE should express what the page is about. The most important keyword of the page should be in the META TITLE but should not be repeated in the title. It must appear once. META TITLE is between 35 to 65 characters long.
 
@@ -33,12 +39,12 @@ Here are some best practices to write title meta tags for your web pages.
 * Insert your primary keyword in the title tag, preferably right at the beginning.
 * Write a unique title tag for each page.
 
-#### update31.01.2022 : Add a new component: 2col txt + img
+#### update 31.01.2022 : Add a new component: 2col txt + img
 
 it is a new component that faces the other **2col img + txt**  
 this way it is possible to make a page with alternate section img+txt and the section txt+img (ex: https://www.ze-hero.com/fr/qui-sommes-nous)
 
-#### update31.01.2022 : Add Forestry sidebar FR Various pages
+#### update 31.01.2022 : Add Forestry sidebar FR Various pages
 
 Possibility to create and update various pages not in any categories and then add a link in menu or page or hidden from menu (ex: contact page, qui sommes nous page
 
