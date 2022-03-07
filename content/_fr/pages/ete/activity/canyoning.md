@@ -107,5 +107,8 @@ page_sections:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
 redirect_from:
 - "/fr/canyoning-annecy/"
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez une activité de canyoning
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
 
 ---
