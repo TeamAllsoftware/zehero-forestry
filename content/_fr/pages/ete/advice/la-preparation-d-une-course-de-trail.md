@@ -2,9 +2,9 @@
 layout: layout_advice
 language: fr
 season: summer
-meta-title: Conseil sportif en trail, bien se préparer et s'entraîner correctement
-meta-description: Il est important de bien se préparer à une course de trail et de s'entraîner
-  correctement
+meta-title: Conseil sportif en trail, bien se préparer et s'entraîner
+meta-description: Il est important de bien se préparer à une course de trail et de
+  s'entraîner correctement
 topnav_color_text: light
 title: La préparation d'une course de Trail
 permalink: "/fr/ete/conseil/preparation-course-trail"
@@ -29,8 +29,8 @@ page_sections:
     de poser les bases et d’avoir les différents éléments importants.\n\nTout d’abord,
     il ne faut pas se précipiter et vouloir trop en faire rapidement. Vous risquez
     de vous blesser et de vous fatiguer énormément. Le corps doit apprendre par la
-    progression les différents stade de l’entraînement. La récupération et le repos
-    font partie aussi de votre entraînement. Nous allons donc prendre 8 semaines d’entraînements
+    progression les différents stades de l’entraînement. La récupération et le repos
+    font aussi partie de votre entraînement. Nous allons donc prendre 8 semaines d’entraînements
     avant l’événement. Cela nous laisse du temps pour apprendre, progresser et se
     reposer."
 - template: textarea
@@ -50,7 +50,7 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643107336/website/Conseil%20Equiepement/runner-5589149_1920_ettz2o.jpg
   captiontitleuppercase: Un plan d'entraînement sur 8 semaines
   title: Préparation pour votre 1er trail
-  content: Nous allons décomposé en 8 semaines d'entraînement votre préparation à
+  content: Nous allons décomposer en 8 semaines d'entraînement votre préparation à
     un 1er trail. Nous resterons tout le long sur une base de 3 entraînements par
     semaine. Cela permet de bien récupérer et de pouvoir commencer à progresser et
     à vous améliorer. Essayer de mettre l'entraînement 3 de chaque semaine plutôt
@@ -178,6 +178,12 @@ page_sections:
     vos flasques pendant les ravitaillements et de vous alimenter un peu.\n\nLors
     de vos entraînements en sortie longue, vous avez pu constater votre vitesse. Cela
     vous aidera à prévoir environ votre temps pour votre course."
+- template: cta
+  button:
+    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    text_button: Réserver un coach sportif
+  intro: Entraînement collectif ou particulier
+  headline: Avec un coach sportif, la préparation est plus simple & motivante
 redirect_from:
 - "/fr/preparation-course-trail/"
 - "/fr/coaching-trail/coaching-trail-antibes/"
