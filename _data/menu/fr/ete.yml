@@ -25,9 +25,9 @@ menu:
   - nested: Air et eau
     menu-items:
     - title: Paddle
-      href: https://www.ze-hero.com/fr/ete/activite/paddle
+      href: /fr/ete/activite/paddle
     - title: Parapente
-      href: https://www.ze-hero.com/fr/ete/activite/parapente
+      href: /fr/ete/activite/parapente
     - title: Surf
       href: "/fr/ete/activite/surf"
     - title: Canyoning
@@ -46,26 +46,26 @@ menu:
   - nested: Matériel
     menu-items:
     - title: Que mettre dans son sac de randonnée pour une journée ?
-      href: https://www.ze-hero.com/fr/ete/conseil/liste-materiel-randonnee
+      href: /fr/ete/conseil/liste-materiel-randonnee
     - title: Comment bien s'équiper en trail ?
-      href: https://www.ze-hero.com/fr/ete/conseil/equipement-trail
+      href: /fr/ete/conseil/equipement-trail
     - title: Comment choisir ses chaussures de trail ?
-      href: https://www.ze-hero.com/fr/ete/conseil/chaussures-trail
+      href: /fr/ete/conseil/chaussures-trail
   column-02:
   - nested: Apprendre
     menu-items:
     - title: Comment bien préparer sa sortie de randonnée à la journée
-      href: https://www.ze-hero.com/fr/ete/conseil/preparer-sa-sortie-randonnee-a-la-journee
+      href: /fr/ete/conseil/preparer-sa-sortie-randonnee-a-la-journee
     - title: Débuter le Trail running
-      href: https://www.ze-hero.com/fr/ete/conseil/comment-debuter-trail
+      href: /fr/ete/conseil/comment-debuter-trail
   - nested: Entraînement / Préparation
     menu-items:
     - title: Les itinéraires de trail dans le 06
-      href: https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes
+      href: /fr/ete/conseil/itineraires-trail-alpes-maritimes
     - title: Le fractionné en Trail
-      href: https://www.ze-hero.com/fr/ete/conseil/fractionne-trail
+      href: /fr/ete/conseil/fractionne-trail
     - title: Comment se préparer à un 1er trail ?
-      href: https://www.ze-hero.com/fr/ete/conseil/preparation-course-trail
+      href: /fr/ete/conseil/preparation-course-trail
     - title: Coaching privé ou collectif
       href: "/fr/hiver/activite/coaching-sportif"
 - top-level:
@@ -91,7 +91,7 @@ menu:
   - nested: Les stations balnéaires
     menu-items:
     - title: St Brévin les pins
-      href: https://www.ze-hero.com/fr/ete/destination/st-brevin-les-pins
+      href: /fr/ete/destination/st-brevin-les-pins
     - title: Antibes
       href: "/fr/ete/destination/antibes"
   column-03:

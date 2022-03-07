@@ -1,6 +1,11 @@
 <div class="theme-demos " style="display: block;">
     <div class="buy-theme sm-display-none bg-green">
+
+        {% if page.button_to_link_to_ze_hero_shop %}
+        <a href="{{ page.button_to_link_to_ze_hero_shop.url_to_shop_zehero }}" title="{{ page.button_to_link_to_ze_hero_shop.button_text }}">
+        {% else %}
         <a href="{{ site.data.config.[page.language].modal-eshop-menu.[page.season].btn_href }}" title="{{ site.data.config.[page.language].modal-eshop-menu.[page.season].btn_href_title }}">
+        {% endif %} 
             <div class="theme-wrapper">
                 <div>
                     <i class="feather icon-feather-shopping-bag align-middle"></i>{{ site.data.config.[page.language].modal-eshop-menu.[page.season].btn_text }}
