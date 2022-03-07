@@ -5,9 +5,9 @@ season: summer
 topnav_color_text: dark
 title: Surf
 permalink: "/fr/ete/activite/surf"
-meta-title: Le surf des mers se pratique de la Bretagne au Pays Basque en passant par les Landes
-meta-description: Le surf est une activité d'eau qui permet de glisser sur les vagues et
-  de vivre des sensations uniques.
+meta-title: Le surf, une activité de sensation de glisse
+meta-description: Le surf est une activité d'eau qui permet de glisser sur les vagues
+  et de vivre des sensations uniques.
 baseline: Take-off, glisse et ride
 engage: De la mousse à la vague, apprenez à glisser en surf
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642661307/website/summer/joseph-greve-TII6axq3eo4-unsplash_ulp3bo.jpg
@@ -104,5 +104,8 @@ page_sections:
 redirect_from:
 - "/fr/surf-loire-atlantique/"
 - "/fr/surf-biarritz/"
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre activité
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 
 ---
