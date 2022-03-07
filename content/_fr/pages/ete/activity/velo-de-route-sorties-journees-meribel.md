@@ -5,11 +5,11 @@ season: summer
 topnav_color_text: dark
 title: Vélo de route - Sorties journées - Méribel
 permalink: "/fr/ete/activite/velo-de-route-journees-meribel"
-meta-title: Sortie vélo à la journée pour progresser et découvrir la région de Méribel
-meta-description: Chez Ze Hero, nous avons créé des sorties vélo de route journée en parallèle
-  du stage vélo de route de 6 jours à Méribel dans le but de progresser et découvrir
-  nos différentes vallées et lacs. Entourés de nos belles montagnes savoyardes et
-  des routes emblématiques qui caractérisent notre secteur.
+meta-title: Sortie vélo à la journée, progression et découverte de Méribel
+meta-description: Chez Ze Hero, nous avons créé des sorties vélo de route journée
+  en parallèle du stage vélo de route de 6 jours à Méribel dans le but de progresser
+  et découvrir nos différentes vallées et lacs. Entourés de nos belles montagnes savoyardes
+  et des routes emblématiques qui caractérisent notre secteur.
 baseline: Roulez et grimpez à Méribel
 engage: Six étapes de sortie vélo journée aux alentours de Méribel.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51412717941_e81ab34149_k_svjq0r.jpg
@@ -133,5 +133,8 @@ page_sections:
   title: 'Hébergement '
 redirect_from:
 - "/fr/velo-albertville/"
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre activité
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
 
 ---
