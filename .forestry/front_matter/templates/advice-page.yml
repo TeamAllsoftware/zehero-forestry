@@ -109,7 +109,7 @@ fields:
     type: text
     config:
       required: true
-    description: Copy / Paste ZE HERO website url refering to rental in this resort
+    description: Copy / Paste ZE HERO website url refering to product/service oin the eshop
     label: URL to link to ZE HERO
   label: Button to link to ZE HERO shop
 - name: page_sections

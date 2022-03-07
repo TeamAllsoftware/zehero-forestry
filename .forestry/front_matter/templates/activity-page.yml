@@ -104,6 +104,22 @@ fields:
     the background image tone (dark or light) or color (dark or light). If background
     is dark and you want a white text select "dark"
   hidden: true
+- name: button_to_link_to_ze_hero_shop
+  type: field_group
+  config: {}
+  fields:
+  - name: button_text
+    type: text
+    config:
+      required: true
+    label: Button text
+  - name: url_to_shop_zehero
+    type: text
+    config:
+      required: true
+    description: Copy / Paste ZE HERO website url refering to product/service oin the eshop
+    label: URL to link to ZE HERO
+  label: Button to link to ZE HERO shop  
 - name: page_sections
   type: blocks
   label: Page Sections
