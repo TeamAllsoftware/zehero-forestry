@@ -1,8 +1,7 @@
 ---
 layout: layout_generic
 title: Le e-shop des activités de plein air
-meta-title: Activités outdoor, boutique en ligne pour commander des activités de plein
-  air d'hiver
+meta-title: Boutique en ligne pour commander vos activités outdoors
 meta-description: ZE HERO, c'est une boutique en ligne pour commander des activités
   de plein air, louer ou acheter du matériel; et un site web avec des conseils et
   des articles de blog pour s'inspirer et progresser dans sa pratique.
@@ -29,7 +28,7 @@ page_sections:
 - template: 2coltxtimg
   blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642676740/website/winter/ze-hero-marketplace-eshop_jwwp12.png
-  alt_text_for_image: ''
+  alt_text_for_image: Le eshop dans la rubrique vente de skis d'occasion
   captiontitleuppercase: tester de nouveaux skis
   title: VIVE LES SKIS D'OCCASION !
   content: Les skis d’occasion sont parfaits pour la saison 2022. Que vous souhaitiez
@@ -66,9 +65,23 @@ page_sections:
     icon: line-icon-Cool
     title: Osez l'émotion
     content: Grâce aux activités sélectionnées et testées par nos équipes professionnelles
+  Texte 1:
+    title: Seul ou à plusieurs
+    content: A la recherche de sensations fortes ou de moments de partage, vivez une
+      expérience unique
+    icon: line-icon-Affiliate
+  Texte 2:
+    title: Sans compromis
+    content: Faites le choix de la passion, du dépassement de soi, de la fierté, du       grand
+      air et de la liberté
+    icon: line-icon-Aerobics-3
+  Texte 3:
+    title: Osez l'émotion
+    content: Grâce aux activités sélectionnées et testées par nos équipes professionnelles
+    icon: line-icon-Cool
 - template: heroImageFull
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639754132/website/winter/ethan-hu-Ouhu9FOlJnY-unsplash_cgrmw5.jpg
-  gradient: ''
+  gradient: non
   headline:
     title: L'outdoor<br> dont vous<br> êtes<br> ZE HERO
     color: white
