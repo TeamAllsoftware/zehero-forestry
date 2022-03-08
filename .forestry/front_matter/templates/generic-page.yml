@@ -129,6 +129,4 @@ fields:
   - newsletter
   config:
     min: 
-    max:
-pages:
-- content/_fr/pages/index.md
+    max: 
