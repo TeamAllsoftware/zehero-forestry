@@ -35,9 +35,8 @@ sections:
 - type: heading
   label: French hiver
 - type: document
-  path: _fr/pages/hiver/index.md
+  path: content/_fr/pages/hiver/index.md
   label: Page accueil
-  match: "**/*"
 - type: document
   path: _data/menu/fr/hiver.yml
   label: HIVER menu header
