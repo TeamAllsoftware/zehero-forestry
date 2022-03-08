@@ -2,9 +2,114 @@
 label: cta eShop 4 col
 hide_body: true
 fields:
-- name: title
-  type: text
+- name: blockBGcolor
+  type: select
+  default: blanc
   config:
     required: false
-  label: title
-  description: title is not required if you just want to add a new paragraph
+    options:
+    - gris
+    - blanc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur de fond du composant
+- name: button_2_more
+  type: boolean
+  label: Besoin du bandeau de rassurance
+- name: Image1
+  label: Image 1
+  type: field_group
+  config: {}
+  fields:
+  - name: image_href
+    type: file
+    config:
+      maxSize: 64
+      required: true
+    label: Image HREF
+  - name: alt_text
+    type: text
+    config:
+      required: true
+    label: Alt text for image
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Titre
+  - name: title_Link
+    type: text
+    config:
+      required: true
+    label: Lien du visuel
+- name: Image2
+  label: Image 2
+  type: field_group
+  config: {}
+  fields:
+  - name: image_href
+    type: file
+    config:
+      maxSize: 64
+      required: true
+    label: Image HREF
+  - name: alt_text
+    type: text
+    config:
+      required: true
+    label: Alt text for image
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Titre
+  - name: title_Link
+    type: text
+    config:
+      required: true
+    label: Lien du visuel
+- name: Image3
+  label: Image 3
+  type: field_group
+  config: {}
+  fields:
+  - name: image_href
+    type: file
+    config:
+      maxSize: 64
+      required: true
+    label: Image HREF
+  - name: alt_text
+    type: text
+    config:
+      required: true
+    label: Alt text for image
+- name: Image4
+  label: Image 4
+  type: field_group
+  config: {}
+  fields:
+  - name: image_href
+    type: file
+    config:
+      maxSize: 64
+      required: true
+    label: Image HREF
+  - name: alt_text
+    type: text
+    config:
+      required: true
+    label: Alt text for image
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Titre
+  - name: title_Link
+    type: text
+    config:
+      required: true
+    label: Lien du visuel

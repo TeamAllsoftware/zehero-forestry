@@ -13,7 +13,7 @@ fields:
   type: text
   config:
     required: true
-  label: Dégradé du fond, oui ou non ?
+  label: Dégradé du fond, non ou "Grad" ?
 - name: headline
   label: headline
   type: field_group
