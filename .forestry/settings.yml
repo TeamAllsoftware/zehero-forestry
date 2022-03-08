@@ -99,7 +99,7 @@ sections:
   label: En
   create: all
   match: "**/*"
-upload_dir: ''
+upload_dir: website
 public_path: https://res.cloudinary.com/deddrj0yb/image
 front_matter_path: ''
 use_front_matter_path: true
