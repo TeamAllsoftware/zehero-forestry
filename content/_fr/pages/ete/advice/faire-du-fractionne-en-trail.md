@@ -8,7 +8,9 @@ meta-description: Le fractionné est l’entraînement clé pour la progression 
   forcément passer par l’entraînement fractionné.
 topnav_color_text: light
 title: Faire du fractionné en Trail
-permalink: "/fr/ete/conseil/fractionne-trail"
+permalink: "/fr/ete/conseils/fractionne-trail"
+redirect_from:
+  - /fr/ete/conseil/fractionne-trail
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643381204/website/Conseil%20/sporlab-XiZ7pRvCzro-unsplash_fuh2hg.jpg
 image01_alt: Jambes d'un coureur faisant du fractionné en s'entrainant en course à
   pied avec des basquets de running.

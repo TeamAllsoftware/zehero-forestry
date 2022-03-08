@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Vélo de route
-permalink: "/fr/ete/activite/velo-de-route"
+permalink: "/fr/ete/activites/velo-de-route"
+redirect_from:
+  - /fr/ete/activite/velo-de-route
 meta-title: Sorties vélo de route pour découvrir les cols mythiques de France et se balader
 meta-description: A l'assaut des cols mythiques en France, de se balader sur les routes
   et de voir du pays en vélo de route

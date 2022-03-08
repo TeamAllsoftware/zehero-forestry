@@ -1,6 +1,8 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/surf"
+permalink: "/fr/hiver/activites/surf"
+redirect_from:
+  - /fr/hiver/activite/surf
 language: fr
 season: winter
 topnav_color_text: dark

@@ -1,0 +1,41 @@
+<section class=" padding-100px-tb {% if block.blockBGcolor == 'gris' %} bg-light-gray {% endif %}">
+    {% if block.headtitle %}
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-6 text-center margin-5-rem-bottom md-margin-4-rem-bottom wow animate__fadeIn">
+                <span class="alt-font font-weight-600 text-green text-uppercase letter-spacing-1px d-block margin-5px-bottom">{{ block.headtitle.headline }}</span>
+                <h5 class="alt-font font-weight-700 text-slate-blue letter-spacing-minus-1px text-uppercase">{{ block.headtitle.title }}</h5>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    <div class="container-fluid padding-five-lr xl-padding-two-lr lg-padding-four-lr">
+        <div class="row row-cols-1 row-cols-xl-4 row-cols-sm-2">
+            {% assign collection = site[page.collection] %}
+            {% assign serviceType = block.service %}
+            {% assign servicePath = season_language | prepend:'/' | append: '/' | append: serviceType | append: '/' %}
+            {% for service in collection %}
+            {% if service.path contains servicePath" %}
+
+            <!-- start services item -->
+            <div class="col interactive-banners-style-11 text-center lg-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.2s">
+                <div class="interactive-banners-box">
+                    <div class="interactive-banners-box-image">
+                        {% capture download_note %}{{ service.image01_href }}{% endcapture %}
+                        <img loading="lazy" src="{% include image.html file=download_note sizevar='activitylist' %}" alt="Image {{ service.title }} ">
+                        <div class="interactive-banners-text-overlay bg-slate-blue"></div>
+                        <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
+                    </div>
+                    <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
+                        <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ service.title }}</h6>
+                        <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ service.baseline }}</span>
+                        <a href="{{ service.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.[serviceType].readmore }}</a>
+                    </div>
+                </div>
+            </div>
+            <!-- end services item -->
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</section>

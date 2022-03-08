@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Ecoles de Surf à St Brevin les Pins
-permalink: "/fr/ete/activite/ecole-surf-st-brevin-les-pins"
+permalink: "/fr/ete/activites/ecole-surf-st-brevin-les-pins"
+redirect_from:
+  - /fr/ete/activite/ecole-surf-st-brevin-les-pins
 meta-title: Prendre des cours de surf adulte et enfant à Saint Brevin les Pins
 meta-description: Vous partez surfer à St Brévin les pins afin de pratiquer cette activité
   de glisse. Retrouvez les différentes écoles de surf

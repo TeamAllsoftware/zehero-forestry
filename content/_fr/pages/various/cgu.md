@@ -9,6 +9,8 @@ language: fr
 season: winter
 topnav_color_text: light
 page_sections:
+- template: heroBreadcrumb
+  title: Conditions générales d'utilisation
 - template: textarea
   content: |-
     Le Site Internet https://www.ze-hero.com est un outil d’information mis à disposition du public par la société WHITENRGY au capital de 1000 € dont le siège social est situé immeuble Chavière 73440 Les Ménuires France, immatriculée au Registre du Commerce et des Sociétés de Chambéry numéro de SIREN 838 441 244, numéro de TVA intracommunautaire FR 60 838 441 244 et au code NAF 4791A (ci après la “Société”).

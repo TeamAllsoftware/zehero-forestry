@@ -15,7 +15,9 @@ page_title: Val Thorens, voyage en altitude
 baseline: Altitude et panorama
 resort_nameid: val_thorens
 resort_naming: Val Thorens
-permalink: "/fr/ete/destination/val-thorens"
+permalink: "/fr/ete/destinations/val-thorens"
+redirect_from:
+  - /fr/ete/destination/val-thorens
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644397253/website/resorts/val-thorens/Screenshot_3_fdlwmp.jpg
 image01_alt: Vue de la station et des montagnes de Val Thorens avec le Mont Blanc
   derrière

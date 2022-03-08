@@ -4,7 +4,9 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Vol en parapente
-permalink: "/fr/hiver/activite/vol-en-parapente"
+permalink: "/fr/hiver/activites/vol-en-parapente"
+redirect_from:
+  - /fr/hiver/activite/vol-en-parapente
 meta-title: Réserver un vol en parapente au dessus des montagnes enneigées
 meta-description: Partez vous envoler au dessus des montagnes enneigées avec un vol en
   parapente en biplace

@@ -8,7 +8,9 @@ meta-description: Vous recherchez un séjour ou des activités de vélo de route
   pour 7 cyclistes
 topnav_color_text: light
 title: Séjours et activités en vélo de route
-permalink: "/fr/ete/conseil/sejours-activites-velo-de-route"
+permalink: "/fr/ete/conseils/sejours-activites-velo-de-route"
+redirect_from:
+  - /fr/ete/conseil/sejours-activites-velo-de-route
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51412717941_e81ab34149_k_svjq0r.jpg
 image01_alt: Vue d'une route de montagne à Méribel avec des cyclistes grimpant en
   vélo de route

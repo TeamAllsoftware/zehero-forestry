@@ -9,6 +9,8 @@ meta-title: Qui sommes nous, contactez notre équipe de fan d'outdoor
 meta-description: Connaissez-vous Ze Hero, la référence de l'Outdoor ? Découvrez l'équipe Ze Hero, notre histoire et les valeurs qui nous animent
 baseline: ''
 page_sections:
+- template: heroBreadcrumb
+  title: Qui sommes-nous
 - template: 2colimgtxt
   title: Choisissez le meilleur pour votre temps libre
   content: |-

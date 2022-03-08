@@ -1,0 +1,65 @@
+---
+label: heroImageFull
+hide_body: true
+fields:
+- name: image_href
+  type: file
+  config:
+    maxSize: 64
+    required: true
+  label: URL de l'image de fond
+  description: image de fond du composant
+- name: gradient
+  type: text
+  config:
+    required: true
+  label: Dégradé du fond, oui ou non ?
+- name: headline
+  label: headline
+  type: field_group
+  config:
+    required: true
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+  - name: color
+    type: text
+    config:
+      required: true
+    label: color
+  description: gros titre
+- name: Button1
+  label: Button1
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+  - name: link
+    type: text
+    config:
+      required: true
+    label: link
+- name: button_2_more
+  type: boolean
+  label: Besoin du button 2
+- name: Button2
+  label: Button2
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    label: Title
+  - name: link
+    type: text
+    label: link
+  showOnly:
+    field: button_2_more
+    value: true

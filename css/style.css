@@ -54,7 +54,9 @@ html { font-size: 14px; }
 body { font-size: 15px; line-height: 30px; font-weight: 400; color: #828282; font-family: 'Roboto', sans-serif; padding: 0; margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; word-break: break-word }
 body, html { -moz-osx-font-smoothing: grayscale; }
 a { text-decoration: none; }
+p > a { text-decoration: underline; color: #3cb5a1;}
 a:hover, a:focus { text-decoration: none; outline: none; outline-offset:0; color: #0038e3; }
+p > a:hover, p > a:focus { text-decoration: underline; outline: none; outline-offset:0; color: #239784; }
 a, a.nav-link, a:active, a:focus { color: #828282; }
 a, a.nav-link, .btn, input, textarea, select { transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -webkit-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; }
 img { max-width: 100%; height: auto; }
@@ -1022,7 +1024,7 @@ input.btn:focus { border-width: 2px; }
     09. Background image
 ====================================== */
 
-.cover-background { background-repeat: no-repeat !important; background-size: cover !important; overflow: hidden; position: relative; background-position: center center !important; }
+.cover-background { background-repeat: no-repeat !important; background-size: cover !important; overflow: hidden; position: relative; background-position: top center !important; }
 .fix-background { position: relative; background-size: cover !important; -webkit-animation-duration: 0s; -webkit-animation-fill-mode: none; overflow: hidden; background-position: center center; background-repeat: no-repeat !important; background-attachment: fixed !important; }
 .background-size-inherit { background-size: inherit; }
 .background-attachment-inherit { background-attachment: inherit; }
@@ -4494,7 +4496,7 @@ aside .instafeed-grid.gutter-double-extra-large { margin-left: -20px; margin-rig
 /* table style 01 */
 .table-style-01 { width: 100%; }
 .table-style-01 table { width: 100%; }
-.table-style-01 td, .table-style-01 th { padding: 12px 10px; text-align: center; }
+.table-style-01 td, .table-style-01 th { border-bottom: 1px solid #e8e8e8; padding: 12px 10px; text-align: center; }
 .table-style-01 tr th:first-child, .table-style-01 tr td:first-child { padding-left: 20px; text-align: left; }
 
 /* table style 02 */

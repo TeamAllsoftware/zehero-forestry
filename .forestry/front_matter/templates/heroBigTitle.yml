@@ -1,0 +1,81 @@
+---
+label: heroBigTitle
+hide_body: true
+fields:
+- name: image_bg_href
+  type: file
+  config:
+    maxSize: 64
+    required: true
+  label: URL de l'image de video
+- name: alt_text_for_image
+  type: text
+  config:
+    required: true
+  label: Alt text pour l'image représentant la vidéo
+  description: 1 ou 2 mots en gris au dessus de l'image
+- name: headline
+  type: text
+  config:
+    required: true
+  label: baseline
+  description: 1 ou 2 mots en gris au dessus de l'image
+- name: title
+  type: text
+  config:
+    required: true
+  label: titre
+  description: titre de la page. ex':' Nous créons des vêtements <span class="text-gradient-orange-pink
+    font-weight-600">élégants</span> et <span class="text-gradient-orange-pink font-weight-600">performants</span>
+- name: gradientBGcolor
+  type: text
+  config:
+    required: true
+  label: Couleur de fond du block mi image mi texte
+  description: Code couleur CSS
+  default: bg-gradient-sky-blue-pink
+- name: Texte étape 1
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Titre de l'etape
+  - name: content
+    type: text
+    config:
+      required: true
+    label: contenu texte de l'etape
+  label: etape1
+- name: Texte étape 2
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Titre de l'etape
+  - name: content
+    type: text
+    config:
+      required: true
+    label: contenu texte de l'etape
+  label: etape2
+- name: Texte étape 3
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Titre de l'etape
+  - name: content
+    type: text
+    config:
+      required: true
+    label: contenu texte de l'etape
+  label: etape3

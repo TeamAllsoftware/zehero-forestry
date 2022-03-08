@@ -1,6 +1,8 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/coaching-sportif"
+permalink: "/fr/hiver/activites/coaching-sportif"
+redirect_from:
+  - /fr/hiver/activite/coaching-sportif
 language: fr
 season: winter
 topnav_color_text: dark

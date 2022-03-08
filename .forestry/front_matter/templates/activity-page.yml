@@ -59,7 +59,7 @@ fields:
   config:
     required: true
   label: URL for this page
-  description: 'Page url''s are on this model : "/fr/hiver/activite/ski-de-randonnee"'
+  description: 'Page url''s are on this model : "/fr/hiver/activites/ski-de-randonnee"'
 - type: text
   name: baseline
   label: baseline

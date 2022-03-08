@@ -48,7 +48,7 @@ fields:
   config:
     required: true
   label: URL for this page
-  description: 'Page url''s are on this model : "/fr/hiver/conseil/ski-de-randonnee"'
+  description: 'Page url''s are on this model : "/fr/hiver/conseils/ski-de-randonnee"'
 - name: meta-title
   label: META Title
   type: text

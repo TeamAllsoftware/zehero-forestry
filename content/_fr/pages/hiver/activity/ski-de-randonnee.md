@@ -1,6 +1,8 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/ski-de-randonnee"
+permalink: "/fr/hiver/activites/ski-de-randonnee"
+redirect_from:
+  - /fr/hiver/activite/ski-de-randonnee
 language: fr
 season: winter
 topnav_color_text: dark

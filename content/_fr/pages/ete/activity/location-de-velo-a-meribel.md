@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Location de vélo à Méribel
-permalink: "/fr/ete/activite/location-velo-meribel"
+permalink: "/fr/ete/activites/location-velo-meribel"
+redirect_from:
+  - /fr/ete/activite/location-velo-meribel
 meta-title: Louer votre matériel vélo à Méribel, tout ce qu'il faut savoir se trouve dans notre fiche conseil
 meta-description: Trouver votre magasin de location de vélo à Méribel et louer tout le
   matériel nécessaire pour vos prochaines aventures

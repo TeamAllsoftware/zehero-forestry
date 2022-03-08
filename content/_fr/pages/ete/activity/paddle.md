@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Paddle
-permalink: "/fr/ete/activite/paddle"
+permalink: "/fr/ete/activites/paddle"
+redirect_from:
+  - /fr/ete/activite/paddle
 meta-title: Le paddle, découvrez toutes les activités possibles à faire sur l'eau
 meta-description: Partir naviguer en paddle sur un lac, sur la mer ou sur l'océan pour
   quelques heures, yoga, randonner ou surfer

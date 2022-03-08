@@ -14,7 +14,9 @@ page_title: La Haute Savoie
 resort_nameid: haute-savoie
 resort_naming: La Haute Savoie
 title: La Haute Savoie (74) et ses activités pour la saison d'été
-permalink: "/fr/ete/destination/haute-savoie"
+permalink: "/fr/ete/destinations/haute-savoie"
+redirect_from:
+  - /fr/ete/destination/haute-savoie
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643015412/website/summer/clemence-bergougnoux-zLIrNgNzPYs-unsplash_tk4orw.jpg
 image01_alt: Vue panorama d'un randonneur en montagne devant un lac, des montagnes
   l'été

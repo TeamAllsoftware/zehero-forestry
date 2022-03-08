@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Coaching sportif à Antibes / Alpes Maritimes
-permalink: "/fr/ete/activite/coaching-sportif-antibes-alpes-maritimes"
+permalink: "/fr/ete/activites/coaching-sportif-antibes-alpes-maritimes"
+redirect_from:
+  - /fr/ete/activite/coaching-sportif-antibes-alpes-maritimes
 meta-title: Réserver un coach sportif à Antibes / Alpes Maritimes
 meta-description: Réservez une séance de coaching sportif à Antibes et dans les Alpes Maritimes
 baseline: Coaching Sportif Antibes

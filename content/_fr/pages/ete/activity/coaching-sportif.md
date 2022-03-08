@@ -1,6 +1,8 @@
 ---
 layout: layout_activity
-permalink: "/fr/ete/activite/coaching-sportif"
+permalink: "/fr/ete/activites/coaching-sportif"
+redirect_from:
+  - /fr/ete/activite/coaching-sportif
 language: fr
 season: summer
 topnav_color_text: dark

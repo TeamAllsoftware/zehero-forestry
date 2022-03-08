@@ -1,0 +1,39 @@
+---
+label: ZEHEROintro
+hide_body: true
+fields:
+- name: image_bg_href
+  type: text
+  config:
+    required: true
+  label: URL de l'image de fond
+  description: image de fond du composant
+  default: https://res.cloudinary.com/deddrj0yb/image/upload/v1645714273/groupe/montblanc-escalade/logo/bandeau-zehero-marchand_rvjdy1.png
+- name: baseline
+  type: text
+  config:
+    required: true
+  label: baseline
+  description: baseline d'introduction
+  default: L’outdoor au rythme de vos émotions
+- name: title
+  type: text
+  config:
+    required: true
+  label: titre
+  description: titre de présentation
+  default: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
+- name: url_link
+  type: text
+  config:
+    required: true
+  label: lien du bouton
+  description: Lien vers lequel le bouton dirige
+  default: https://www.ze-hero.com/fr
+- name: title_link
+  type: text
+  config:
+    required: true
+  label: texte du bouton
+  description: Texte inscrit sur le bouton
+  default: Visiter le site ZE HERO

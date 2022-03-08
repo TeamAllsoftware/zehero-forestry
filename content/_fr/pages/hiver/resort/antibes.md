@@ -1,6 +1,8 @@
 ---
 layout: layout_resort
-permalink: "/fr/hiver/destination/antibes"
+permalink: "/fr/hiver/destinations/antibes"
+redirect_from:
+  - /fr/hiver/destination/antibes
 language: fr
 season: winter
 topnav_color_text: light

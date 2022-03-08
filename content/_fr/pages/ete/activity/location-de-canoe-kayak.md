@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Location de Canoë / Kayak
-permalink: "/fr/ete/conseil/location-canoe-kayak"
+permalink: "/fr/ete/conseils/location-canoe-kayak"
+redirect_from:
+  - /fr/ete/conseil/location-canoe-kayak
 meta-title: Louer un canoë kayak, tout ce qu'il faut savoir se trouve dans notre fiche conseil
 meta-description: Voici nos conseils pour la location de Canoë Kayak afin de connaitre
   les différentes critères et savoir comment les louer.

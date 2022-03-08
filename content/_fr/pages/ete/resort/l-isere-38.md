@@ -13,7 +13,9 @@ page_title: L'Isère
 resort_nameid: isere
 resort_naming: L'Isère
 title: L'Isère (38) et ses activités outdoor pour la saison d'été
-permalink: "/fr/ete/destination/isere"
+permalink: "/fr/ete/destinations/isere"
+redirect_from:
+  - /fr/ete/destination/isere
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643020863/website/summer/tristan-boucher-vAYnXGhpI54-unsplash_pw94ay.jpg
 image01_alt: Une très belle vue d'un décor de montagne en Isère et dans le massif
   de la Chartreuse

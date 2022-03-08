@@ -1,0 +1,10 @@
+---
+label: heroBreadcrumb
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Titre principal
+  description: Titre principal à afficher en haut de la page

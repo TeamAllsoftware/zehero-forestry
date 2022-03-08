@@ -1,0 +1,35 @@
+---
+label: heroImageTitle01
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Titre principal
+  description: Titre principal à afficher en haut de la page
+- type: text
+  name: baseline
+  label: baseline
+  description: 3 ou 4 mots pour résumer
+  config:
+    required: true
+- type: text
+  name: engage
+  label: engage
+  config:
+    required: true
+    max: 60
+    min: 40
+  description: Entre 40 et 60 caractères
+- name: image01_href
+  type: file
+  config:
+    maxSize: 64
+    required: true
+  label: Une grande et belle image
+  description: Grande image affichée pleine page avec le titre en gros dessus
+- type: text
+  name: image01_alt
+  label: Le texte alternatif de l'image de couverture
+  description: Text utile pour le référencement naturel. Ce texte doit décrire l'image

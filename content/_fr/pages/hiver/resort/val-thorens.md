@@ -1,6 +1,8 @@
 ---
 layout: layout_resort
-permalink: "/fr/hiver/destination/val-thorens"
+permalink: "/fr/hiver/destinations/val-thorens"
+redirect_from:
+  - /fr/hiver/destination/val-thorens
 language: fr
 season: winter
 topnav_color_text: light

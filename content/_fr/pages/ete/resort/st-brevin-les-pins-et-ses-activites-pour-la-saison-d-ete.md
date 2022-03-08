@@ -15,7 +15,9 @@ page_title: St Brevin les pins, émotions brutes
 baseline: Océan et nature
 resort_nameid: st brevin les pins
 resort_naming: St Brevin les pins
-permalink: "/fr/ete/destination/st-brevin-les-pins"
+permalink: "/fr/ete/destinations/st-brevin-les-pins"
+redirect_from:
+  - /fr/ete/destination/st-brevin-les-pins
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642758795/website/summer/pexels-riccardo-bertolo-4245813_npkgby.jpg
 image01_alt: Plage de la Loire Atlantique vers St Nazaire et St Brévin les Pins
 button_to_link_to_ze_hero_shop:

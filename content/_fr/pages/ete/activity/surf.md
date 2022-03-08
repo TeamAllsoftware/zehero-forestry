@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Surf
-permalink: "/fr/ete/activite/surf"
+permalink: "/fr/ete/activites/surf"
+redirect_from:
+  - /fr/ete/activite/surf
 meta-title: Le surf des mers se pratique de la Bretagne au Pays Basque en passant par les Landes
 meta-description: Le surf est une activité d'eau qui permet de glisser sur les vagues et
   de vivre des sensations uniques.

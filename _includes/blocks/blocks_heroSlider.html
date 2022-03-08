@@ -1,0 +1,79 @@
+<!-- start slider section -->
+<section class="p-0 sm-border-bottom border-color-medium-gray mobile-height" >
+    <div class="container-fluid position-relative">
+        <div class="row">
+            <div class="swiper-container full-screen p-0 md-landscape-h-600px white-move" data-slider-options='{ "slidesPerView": 1, "loop": true, "pagination": { "el": ".swiper-pagination", "clickable": true }, "navigation": { "nextEl": ".swiper-button-next-nav", "prevEl": ".swiper-button-previous-nav" }, "autoplay": { "delay": 5500, "disableOnInteraction": false }, "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "slide" }'>
+                <div class="swiper-wrapper">
+                    <!-- start slider item -->
+                    {% capture download_note %}{{ block.Slide1.image_href }}{% endcapture %}
+                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar="genhero" width="" gradient="grad" %}');">
+                        <div class="d-flex flex-column justify-content-end ms-auto w-600px h-100 xl-w-550px sm-w-70 sm-w-100">
+                            <div class="bg-white padding-7-rem-tb padding-8-rem-lr xl-padding-5-rem-tb xl-padding-6-rem-lr xs-padding-2-half-rem-all">
+                                <div class="col-12 p-0 margin-25px-bottom d-md-inline-block align-items-center justify-content-center">
+                                    <span class="alt-font text-{{ site.data.config.site-color2 }} d-inline-block font-weight-500 align-middle">01</span>
+                                    <span class="w-35px h-1px d-inline-block align-middle bg-medium-gray margin-15px-left margin-15px-right"></span>
+                                    <span class="d-inline-block alt-font text-{{ site.data.config.site-color2 }} text-uppercase font-weight-500 align-middle">{{ block.Slide1.baseline }}</span>
+                                </div>
+                                <div class="col-12 p-0 alt-font justify-content-center margin-10px-bottom">
+                                    <div class="d-flex">
+                                        <h3 class="m-0 align-self-center text-extra-dark-gray text-uppercase font-weight-700 letter-spacing-minus-2px w-80">{{ block.Slide1.title }}</h3>
+                                        <span class="align-self-center text-center margin-30px-left"><a href="#" class="d-inline-block line-height-65px rounded-circle bg-extra-dark-gray w-60px h-60px"><i class="feather icon-feather-arrow-right text-extra-large text-white"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end slider item -->
+                    <!-- start slider item -->
+                    {% capture download_note %}{{ block.Slide2.image_href }}{% endcapture %}
+                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar="genhero" width="" gradient="grad" %}');">
+                        <div class="d-flex flex-column justify-content-end ms-auto w-600px h-100 xl-w-550px sm-w-70 sm-w-100">
+                            <div class="bg-white padding-7-rem-tb padding-8-rem-lr xl-padding-5-rem-tb xl-padding-6-rem-lr xs-padding-2-half-rem-all">
+                                <div class="col-12 p-0 margin-25px-bottom d-md-inline-block align-items-center justify-content-center">
+                                    <span class="alt-font text-{{ site.data.config.site-color2 }} d-inline-block font-weight-500 align-middle">02</span>
+                                    <span class="w-35px h-1px d-inline-block align-middle bg-medium-gray margin-15px-left margin-15px-right"></span>
+                                    <span class="d-inline-block alt-font text-{{ site.data.config.site-color2 }} text-uppercase font-weight-500 align-middle">{{ block.Slide2.baseline }}</span>
+                                </div>
+                                <div class="col-12 p-0 alt-font justify-content-center margin-10px-bottom">
+                                    <div class="d-flex">
+                                        <h3 class="m-0 align-self-center text-extra-dark-gray text-uppercase font-weight-700 letter-spacing-minus-2px w-80">{{ block.Slide2.title }}</h3>
+                                        <span class="align-self-center text-center margin-30px-left"><a href="#" class="d-inline-block line-height-65px rounded-circle bg-extra-dark-gray w-60px h-60px"><i class="feather icon-feather-arrow-right text-extra-large text-white"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end slider item -->
+                    <!-- start slider item -->
+                    {% capture download_note %}{{ block.Slide3.image_href }}{% endcapture %}
+                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar="genhero" width="" gradient="grad" %}');">
+                        <div class="d-flex flex-column justify-content-end ms-auto w-600px h-100 xl-w-550px sm-w-70 sm-w-100">
+                            <div class="bg-white padding-7-rem-tb padding-8-rem-lr xl-padding-5-rem-tb xl-padding-6-rem-lr xs-padding-2-half-rem-all">
+                                <div class="col-12 p-0 margin-25px-bottom d-md-inline-block align-items-center justify-content-center">
+                                    <span class="alt-font text-{{ site.data.config.site-color2 }} d-inline-block font-weight-500 align-middle">03</span>
+                                    <span class="w-35px h-1px d-inline-block align-middle bg-medium-gray margin-15px-left margin-15px-right"></span>
+                                    <span class="d-inline-block alt-font text-{{ site.data.config.site-color2 }} text-uppercase font-weight-500 align-middle">{{ block.Slide3.baseline }}</span>
+                                </div>
+                                <div class="col-12 p-0 alt-font justify-content-center margin-10px-bottom">
+                                    <div class="d-flex">
+                                        <h3 class="m-0 align-self-center text-extra-dark-gray text-uppercase font-weight-700 letter-spacing-minus-2px w-80">{{ block.Slide3.title }}</h3>
+                                        <span class="align-self-center text-center margin-30px-left"><a href="#" class="d-inline-block line-height-65px rounded-circle bg-extra-dark-gray w-60px h-60px"><i class="feather icon-feather-arrow-right text-extra-large text-white"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end slider item -->                          
+                </div>
+                <!-- start slider arrow -->
+                <div class="swiper-button-previous-nav swiper-button-prev slider-navigation-style-05"><i class="line-icon-Arrow-OutLeft"></i></div>
+                <div class="swiper-button-next-nav swiper-button-next slider-navigation-style-05"><i class="line-icon-Arrow-OutRight"></i></div>
+                <!-- end slider arrow -->
+                <!-- start slider pagination -->
+                <div class="swiper-pagination swiper-light-pagination swiper-pagination-dot d-none d-md-block"></div>
+                <!-- end slider pagination -->
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end slider section -->

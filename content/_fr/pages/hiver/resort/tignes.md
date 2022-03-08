@@ -1,6 +1,8 @@
 ---
 layout: layout_resort
-permalink: "/fr/hiver/destination/tignes"
+permalink: "/fr/hiver/destinations/tignes"
+redirect_from:
+  - /fr/hiver/destination/tignes
 language: fr
 season: winter
 topnav_color_text: light

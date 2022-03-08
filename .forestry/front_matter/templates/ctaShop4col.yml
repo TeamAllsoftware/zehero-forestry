@@ -1,0 +1,10 @@
+---
+label: cta eShop 4 col
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: title is not required if you just want to add a new paragraph

@@ -1,6 +1,8 @@
 ---
 layout: layout_resort
-permalink: "/fr/ete/destination/meribel"
+permalink: "/fr/ete/destinations/meribel"
+redirect_from:
+  - /fr/ete/destination/meribel
 language: fr
 season: summer
 topnav_color_text: light

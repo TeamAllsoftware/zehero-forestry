@@ -1,6 +1,8 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/snowboard"
+permalink: "/fr/hiver/activites/snowboard"
+redirect_from:
+  - /fr/hiver/activite/snowboard
 language: fr
 season: winter
 topnav_color_text: dark

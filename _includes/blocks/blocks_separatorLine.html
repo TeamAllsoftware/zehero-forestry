@@ -1,0 +1,18 @@
+<section class="p-0 margin-3-rem-tb {% if block.blockBGcolor == 'gris' %} bg-light-gray {% endif %}">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="row">
+                    <!-- start separator line -->
+                    {% case block.lineColor %}
+                      {% when 'Blanc' %}
+                      <div class="bg-white h-1px"></div>
+                      {% when 'Gris' %}
+                      <div class="bg-extra-light-gray h-1px"></div>
+                    {% endcase %}
+                    <!-- end separator line -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

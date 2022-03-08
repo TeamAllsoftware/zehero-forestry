@@ -7,7 +7,9 @@ meta-description: Comment bien choisir ses chaussures de ski en fonction de la d
   de son niveau, des matériaux et de son conforts. Que faut il prendre en compte ?
 topnav_color_text: light
 title: Choisir ses chaussures de ski
-permalink: "/fr/hiver/conseil/choisir-ses-chaussures-de-ski"
+permalink: "/fr/hiver/conseils/choisir-ses-chaussures-de-ski"
+redirect_from:
+  - /fr/hiver/conseil/choisir-ses-chaussures-de-ski
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642412358/website/Conseil%20/choisir-sa-chaussure-de-ski_tfivsu.jpg
 image01_alt: Chaussures de ski alpin et de ski de freeride et de ski de randonnée
 button_to_link_to_ze_hero_shop:

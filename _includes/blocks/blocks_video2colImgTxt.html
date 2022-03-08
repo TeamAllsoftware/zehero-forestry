@@ -1,0 +1,64 @@
+<!-- start section -->
+<section class=" padding-100px-tb {% if block.blockBGcolor == 'gris' %} bg-light-gray {% endif %}">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-12 col-lg-6 position-relative text-center md-margin-30px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
+                {% capture download_note %}{{ block.image_bg_href }}{% endcapture %}
+                <img loading="lazy" src="{% include image.html file=download_note sizevar="" width="476" height="652" %}" alt="{{ block.alt_text_for_image }}" />
+                <div class="absolute-middle-center">
+                    <a href="{{ block.url_video_youtube }}" class="popup-youtube video-icon-box video-icon-large position-relative">
+                        <span>
+                            <span class="video-icon bg-white">
+                                <i class="icon-simple-line-control-play text-extra-dark-gray"></i>
+                                <span class="video-icon-sonar">
+                                    <span class="video-icon-sonar-bfr bg-white opacity-7"></span>
+                                    <span class="video-icon-sonar-afr bg-white"></span>
+                                </span>
+                            </span>
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-xl-4 col-lg-5 offset-lg-1 col-md-7">
+                <h4 class="alt-font font-weight-600 text-extra-dark-gray margin-4-half-rem-bottom letter-spacing-minus-1px text-center text-lg-start wow animate__fadeInRight" data-wow-delay="0.2s">{{ block.title }}</h4>
+                <!-- start feature box item -->
+                <div class="feature-box feature-box-left-icon-middle margin-4-half-rem-bottom wow animate__fadeInRight" data-wow-delay="0.3s">
+                    <div class="feature-box-icon feature-box-icon-rounded dark bg-white w-85px h-85px rounded-circle box-shadow-small margin-40px-right">
+                        <i class="{{ block.etape1.icon }} icon-very-medium"></i>
+                        <div class="feature-box-icon-hover bg-extra-dark-gray rounded-circle"></div>
+                    </div>
+                    <div class="feature-box-content last-paragraph-no-margin">
+                        <span class="alt-font font-weight-500 margin-5px-bottom d-block text-extra-dark-gray">{{ block.etape1.title }}</span>
+                        <p>{{ block.etape1.content }}</p>
+                    </div>
+                </div>
+                <!-- end feature box item -->
+                <!-- start feature box item -->
+                <div class="feature-box feature-box-left-icon-middle margin-4-half-rem-bottom wow animate__fadeInRight" data-wow-delay="0.4s">
+                    <div class="feature-box-icon feature-box-icon-rounded dark bg-white w-85px h-85px rounded-circle box-shadow-small margin-40px-right">
+                        <i class="{{ block.etape2.icon }} icon-very-medium"></i>
+                        <div class="feature-box-icon-hover bg-extra-dark-gray rounded-circle"></div>
+                    </div>
+                    <div class="feature-box-content last-paragraph-no-margin">
+                        <span class="alt-font font-weight-500 margin-5px-bottom d-block text-extra-dark-gray">{{ block.etape2.title }}</span>
+                        <p>{{ block.etape2.content }}</p>
+                    </div>
+                </div>
+                <!-- end feature box item -->
+                <!-- start feature box item -->
+                <div class="feature-box feature-box-left-icon-middle wow animate__fadeInRight" data-wow-delay="0.5s">
+                    <div class="feature-box-icon feature-box-icon-rounded dark bg-white w-85px h-85px rounded-circle box-shadow-small margin-40px-right">
+                        <i class="{{ block.etape3.icon }} icon-very-medium"></i>
+                        <div class="feature-box-icon-hover bg-extra-dark-gray rounded-circle"></div>
+                    </div>
+                    <div class="feature-box-content last-paragraph-no-margin">
+                        <span class="alt-font font-weight-500 margin-5px-bottom d-block text-extra-dark-gray">{{ block.etape3.title }}</span>
+                        <p>{{ block.etape3.content }}</p>
+                    </div>
+                </div>
+                <!-- end feature box item -->
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->

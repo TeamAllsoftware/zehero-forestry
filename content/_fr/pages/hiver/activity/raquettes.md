@@ -1,6 +1,8 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/raquettes-a-neige"
+permalink: "/fr/hiver/activites/raquettes-a-neige"
+redirect_from:
+  - /fr/hiver/activite/raquettes-a-neige
 language: fr
 season: winter
 topnav_color_text: dark

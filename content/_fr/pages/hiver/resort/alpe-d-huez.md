@@ -1,6 +1,8 @@
 ---
 layout: layout_resort
-permalink: "/fr/hiver/destination/alpe-d-huez"
+permalink: "/fr/hiver/destinations/alpe-d-huez"
+redirect_from:
+  - /fr/hiver/destination/alpe-d-huez
 language: fr
 season: winter
 topnav_color_text: light

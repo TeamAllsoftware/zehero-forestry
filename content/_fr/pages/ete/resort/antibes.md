@@ -1,6 +1,8 @@
 ---
 layout: layout_resort
-permalink: "/fr/ete/destination/antibes"
+permalink: "/fr/ete/destinations/antibes"
+redirect_from:
+  - /fr/ete/destination/antibes
 language: fr
 season: summer
 topnav_color_text: light

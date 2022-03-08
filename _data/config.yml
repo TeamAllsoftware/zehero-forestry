@@ -1,27 +1,43 @@
 #generic
-zehero: "ZE HERO"
-zehero_logo_white: https://res.cloudinary.com/deddrj0yb/image/upload/v1641893182/website/logo/Sur%20fond%20colore%CC%81/logo-ze-hero-sans-slogan_8_xs7f9w.png
-zehero_logo_brown: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-sans-slogan_7_navyp9.png
-zehero_logo_black: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/website/logo/Sur%20fond%20fonce%CC%81/logo-ze-hero-sans-slogan_9_nj7apy.png
+site: "ZE HERO"
+site_logo_white: https://res.cloudinary.com/deddrj0yb/image/upload/v1641893182/website/logo/Sur%20fond%20colore%CC%81/logo-ze-hero-sans-slogan_8_xs7f9w.png
+site_logo_brown: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-sans-slogan_7_navyp9.png
+site_logo_black: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/website/logo/Sur%20fond%20fonce%CC%81/logo-ze-hero-sans-slogan_9_nj7apy.png
 
 phonenumber: (+33) 4 79 22 35 27
+
+site-color: green
+site-color2: radical-red
 
 #open graph
 og_url: https://www.ze-hero.com
 
-#social networks
-facebook:
-  title: Facebook
-  facebook_username: https://www.facebook.com/Zehero73/
-linkedin:
-  title: Linkedin
-  linkedin_username:  https://www.linkedin.com/company/ze-hero-outdoor/
-instagram:
-  title: Instagram
-  instagram_username: https://www.instagram.com/zehero_officiel/
+  #social networks (3 max)
+socials:
+  - title: Facebook
+    facebook_username: https://www.facebook.com/Zehero73/
+    icon: fab fa-facebook-square
+  - title: Linkedin
+    linkedin_username:  https://www.linkedin.com/company/ze-hero-outdoor/
+    icon: fab fa-linkedin
+  - title: Instagram
+    instagram_username: https://www.instagram.com/zehero_officiel/
+    icon: fab fa-instagram
 
 #languages
-languages: [fr,en]
+multilangue: false
+languages: [fr]
+menu_lang:
+  - item: fr
+    title: Français
+    altext: Lien vers la version française du site
+    link: /fr/
+    flag_url: https://res.cloudinary.com/fausse-route/image/upload/v1646159690/website/logos/pays/france.png
+  - item: en
+    title: English
+    altext: Go to english version
+    link: /en/
+    flag_url: https://res.cloudinary.com/fausse-route/image/upload/v1646159685/website/logos/pays/United_Kingdom_Great_Britain.png
 
 #list season
 seasons: [winter,summer]
@@ -48,6 +64,9 @@ fr:
       text001: De
       text002: le
       text003: Lire tous mes articles
+    component:
+      baseline: En direct du blog
+      title: Nos dernières actualités
     related-posts:
       caption: Vous aimerez aussi
       title: Dans le même univers
@@ -129,6 +148,9 @@ en:
     placeholder: Enter your email address
     subscribe-btn: Subscribe
   blog:
+    component:
+      baseline: Live from the blog
+      title: Our latest stories & news
     related-posts:
       caption: You may also like
       title: Related posts
@@ -226,6 +248,8 @@ img:
   homeblogpostlist: c_fill,w_800,h_970/f_auto
 #blog post image hero in the post
   blogposthero: c_fill,w_1300,h_800/f_auto
+#blog post image content
+  blog_width: w_900/f_auto
 #image gallery style 2
   bigsquare: c_fill,w_800,h_803/f_auto
   rectangle: c_fill,w_800,h_387/f_auto
@@ -234,3 +258,8 @@ img:
   resorthero: c_fill,w_1200,h_700/f_auto
 #generic
   genhero: c_fill,w_1500,h_1200/f_auto
+#eshop thumb product
+  thumbstore: c_fill,w_600,h_800/f_auto
+  thumbproduct: c_fill,w_600,h_675/f_auto
+  bigproduct:  c_fill,w_800,h_1000/f_auto
+  descproduct: c_fill,w_800,h_800/f_auto

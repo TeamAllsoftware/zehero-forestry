@@ -1,0 +1,29 @@
+<!-- start section -->
+<section class="padding-100px-tb {% if block.blockBGcolor == 'gris' %} bg-light-gray {% endif %}">
+    <div class="container-fluid padding-30px-lr sm-padding-15px-lr">
+        <div class="row">
+            <div class="col-12 col-xl-3 col-md-6 padding-40px-top sm-no-padding-top sm-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">             
+                {% capture download_note %}{{ block.ImageLeft.image_href }}{% endcapture %}
+                <img src="{% include image.html file=download_note sizevar="bandeau4col" width="" height="" %}" alt="{{ block.ImageLeft.alt_text }}">
+            </div>
+            <div class="col-12 col-xl-3 col-md-6 sm-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.4s">                                               
+                {% capture download_note %}{{ block.ImageMiddle.image_href }}{% endcapture %}
+                <img src="{% include image.html file=download_note sizevar="bandeau4col" width="" height="" %}" alt="{{ block.ImageMiddle.alt_text }}">
+            </div>
+            <div class="col-12 col-xl-3 col-md-6 padding-40px-top sm-no-padding-top sm-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.6s">
+                <div class="padding-6-rem-all bg-{{ site.data.config.site-color }} text-white h-100 d-flex align-items-start flex-column justify-content-center xl-padding-2-rem-all lg-padding-6-rem-all md-padding-4-rem-all">
+                    <h6 class="alt-font w-100">{{ block.title }}</h6>
+                    <p class="opacity-6 w-100">{{ block.baseline }}</p>
+                    {% if block.button_more %}
+                    <a href="{{ block.button.href_button }}" class="btn btn-small btn-transparent-white margin-10px-top" title="{{ block.button.alt_button }}">{{ block.button.text_button }}</a>
+                    {% endif %}
+                </div> 
+            </div>
+            <div class="col-12 col-xl-3 col-md-6 wow animate__fadeIn" data-wow-delay="0.8s">                                               
+                {% capture download_note %}{{ block.ImageRight.image_href }}{% endcapture %}
+                <img src="{% include image.html file=download_note sizevar="bandeau4col" width="" height="" %}" alt="{{ block.ImageRight.alt_text }}">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->

@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Le Canyoning à Annecy
-permalink: "/fr/ete/activite/canyoning-annecy"
+permalink: "/fr/ete/activites/canyoning-annecy"
+redirect_from:
+  - /fr/ete/activite/canyoning-annecy
 meta-title: Venez faire du canyoning à Annecy et sa région
 meta-description: Profitez des différents canyonings proche d'Annecy pour des moments d'évasions
   et de sensation forte.

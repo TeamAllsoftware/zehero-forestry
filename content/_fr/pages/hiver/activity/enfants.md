@@ -1,6 +1,8 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/activites-pour-les-enfants"
+permalink: "/fr/hiver/activites/activites-pour-les-enfants"
+redirect_from:
+  - /fr/hiver/activite/activites-pour-les-enfants
 language: fr
 season: winter
 topnav_color_text: dark

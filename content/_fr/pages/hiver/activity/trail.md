@@ -4,7 +4,9 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Trail Running
-permalink: "/fr/hiver/activite/trail-running"
+permalink: "/fr/hiver/activites/trail-running"
+redirect_from:
+  - /fr/hiver/activite/trail-running
 meta-title: Réserver des sorties de trail collectives ou privées
 meta-description: Partez pratiquer le Trail Running et profiter d'un moment sportif dans
   la nature
