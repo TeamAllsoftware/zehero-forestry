@@ -18,33 +18,35 @@ page_sections:
     color: white
   Button1:
     title: Acheter des skis d'occasion
-    link: "https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion"
+    link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
   Button2:
-    title: 
-    link: 
+    title: ''
+    link: ''
   button_2_more: false
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true
   Image1:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751094/website/Instinct%20Trail/Instinct_trail_homme_collection_wbzqdp.webp
-    alt_text: 
+    alt_text: Un coureur équipé d'un sac à dos Instinct Trail
     title: Marque <br>Instinct Trail
-    title_Link: 
+    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image2:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751107/website/Instinct%20Trail/Instinct_trail_femme_collection_hrqsxb.webp
-    alt_text: 
+    alt_text: Une femme court sur un trail avec un équipement de la marque Instinct
+      Trail
     title: Sac à dos<br> trail/running
-    title_Link:
+    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646750262/website/Instinct%20Trail/Instinct_trail_accessoires_pccxqg.webp
-    alt_text: 
-    title_Link:
+    alt_text: Détail d'un sac à dos de course de trail spécialisé de la marque Instinct
+      Trail
+    title_Link: 
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751112/website/Instinct%20Trail/Instinct_trail_collection_pbjwti.webp
-    alt_text: 
+    alt_text: Les équipements Instinct Trail en vente dans la boutique ZE HERO
     title: En vente <br> dans le eShop
-    title_Link:
+    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
 - template: 2coltxtimg
   blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642676740/website/winter/ze-hero-marketplace-eshop_jwwp12.png
