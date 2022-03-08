@@ -13,7 +13,13 @@ image01_alt: Différentes planches de surf avec beaucoup de couleurs
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre cours de surf
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
-page_sections: []
+page_sections:
+- template: textarea
+  title: Les différentes planches de surf
+  content: "Les différentes planches de surf vont se distinguer selon la pratique
+    du surf ainsi que le niveau.   \nIl existe plusieurs pratiques de surf et en fonction,
+    le choix de la planche sera différente.  Le niveau à également un impact sur son
+    choix de planche de surf car vous ne débuterez pas avec une shortboard."
 published: false
 
 ---
