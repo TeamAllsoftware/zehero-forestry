@@ -1,6 +1,6 @@
 ---
 layout: layout_generic
-title: Le e-shop des activités de plein air 
+title: Le e-shop des activités de plein air
 meta-title: Boutique en ligne pour commander vos activités outdoors
 meta-description: ZE HERO, c'est une boutique en ligne pour commander des activités
   de plein air, louer ou acheter du matériel; et un site web avec des conseils et
@@ -27,25 +27,26 @@ page_sections:
   blockBGcolor: blanc
   button_2_more: true
   Image1:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751094/website/Instinct%20Trail/Instinct_trail_homme_collection_wbzqdp.webp
-    alt_text: Un coureur équipé d'un sac à dos Instinct Trail
-    title: Marque <br>Instinct Trail
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593905/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-47_wyt28z.jpg
+    alt_text: Randonnée à ski avec un polo Fausse Route composé de 100% de laine de
+      mouton mérinos
+    title: Marque <br>Fausse Route
+    title_Link: https://shop.ze-hero.com/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
   Image2:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751107/website/Instinct%20Trail/Instinct_trail_femme_collection_hrqsxb.webp
-    alt_text: 
-    title: Sac à dos<br> de trail
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593919/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-46_uv063b.jpg
+    alt_text: Un polo laine mérinos pour toutes les activités outdoors
+    title: Polo 100%<br> laine mérinos
+    title_Link: https://shop.ze-hero.com/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646750262/website/Instinct%20Trail/Instinct_trail_accessoires_pccxqg.webp
-    alt_text: Détail d'un sac à dos de course de trail spécialisé de la marque Instinct
-      Trail
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644594757/website/marques/Fausse%20Route/20201015_135621-ANIMATION_gzcibs.gif
+    alt_text: Que mettre dans son sac pour partir en randonnée vélo ou à ski, un e
+      polo Fausse Route, bien sûr
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751112/website/Instinct%20Trail/Instinct_trail_collection_pbjwti.webp
-    alt_text: Les équipements Instinct Trail en vente dans la boutique ZE HERO
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593865/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-1_lnswan.jpg
+    alt_text: Les polos Fausse Route en vente dans la boutique ZE HERO
     title: En vente <br> dans le eShop
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    title_Link: https://shop.ze-hero.com/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
 - template: 2coltxtimg
   blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642676740/website/winter/ze-hero-marketplace-eshop_jwwp12.png
@@ -134,6 +135,6 @@ author: geoffreyarduini
 baseline: ''
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: 'https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion'
+  url_to_shop_zehero: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
 
 ---
