@@ -1,24 +1,23 @@
 ---
 layout: layout_generic
-title: Le e-shop des activités de plein air 
-meta-title: Boutique en ligne pour commander vos activités outdoors
-meta-description: ZE HERO, c'est une boutique en ligne pour commander des activités
-  de plein air, louer ou acheter du matériel; et un site web avec des conseils et
-  des articles de blog pour s'inspirer et progresser dans sa pratique.
-permalink: "/fr/hiver/"
+title: Toutes les activités de l'été
+meta-title: Activités outdoor, boutique en ligne pour commander des activités de plein air d'été
+meta-description: Toutes les activités outdoor de l'été à partager en famille ou entre amis où que vous soyez en France et quelque soit votre niveau
+
+permalink: /fr/ete/
 language: fr
-season: winter
+season: summer
 topnav_color_text: dark
 page_sections:
 - template: heroImageFull
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643722344/website/winter/KariTraa_FW19_-_RT_-_Dag_2_06_40945_t7qbos.jpg
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646301600/website/summer/toomas-tartes-Yizrl9N_eDA-unsplash_rii358.jpg
   gradient: grad
   headline:
     title: L'outdoor<br> dont vous<br> êtes<br> ZE HERO
     color: white
   Button1:
-    title: Acheter des skis d'occasion
-    link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+    title: Acheter un sac à dos
+    link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Button2:
     title: ''
     link: ''
@@ -48,14 +47,11 @@ page_sections:
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
 - template: 2coltxtimg
   blockBGcolor: gris
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642676740/website/winter/ze-hero-marketplace-eshop_jwwp12.png
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645804153/website/winter/PXL_20201219_101906679_tuwz64.jpg
   alt_text_for_image: Le eshop dans la rubrique vente de skis d'occasion
-  captiontitleuppercase: tester de nouveaux skis
+  captiontitleuppercase: Fin de la saison de ski
   title: VIVE LES SKIS D'OCCASION !
-  content: Les skis d’occasion sont parfaits pour la saison 2022. Que vous souhaitiez
-    offrir des skis à un débutant ou à un enfant qui grandit, ou que vous souhaitiez
-    vous équiper à moindre coût, notre sélection de grandes marques vous tend les
-    bras.
+  content: La saison de ski de piste se termine mais la saison de ski de randonnée démarre seulement. Nous avons des skis d'occasion qui vous tendent les bras. Que vous cherchiez à tester une pratique ou à offrir des skis, acheter des skis d'occasion est une excellente idée pour éviter le consumérisme.
   button:
     text_button: Acheter maintenant
     href_button: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
@@ -65,11 +61,11 @@ page_sections:
   blockBGcolor: blanc
   headtitle:
     headline: ZE HERO propose
-    title: Des activités pour votre hiver
+    title: Des activités pour votre été
 - template: video2colImgTxt
   blockBGcolor: gris
-  image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Randonne-neige-seul_mxdyy6.jpg
-  alt_text_for_image: Une marcheur dans la neige en ascension
+  image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643816166/website/summer/japheth-mast-Ls3yexjyRpk-unsplash_uxxrwp.jpg
+  alt_text_for_image: Un randonneur en position de héros très fier de lui
   url_video_youtube: https://www.youtube.com/watch?v=PpqRPg-S-J0
   title: L’outdoor au rythme de vos émotions
   etape1:
@@ -101,14 +97,14 @@ page_sections:
     content: Grâce aux activités sélectionnées et testées par nos équipes professionnelles
     icon: line-icon-Cool
 - template: heroImageFull
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639754132/website/winter/ethan-hu-Ouhu9FOlJnY-unsplash_cgrmw5.jpg
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643722536/website/summer/krakenimages-5HsCIUSeq7Q-unsplash_fcnhy8.jpg
   gradient: non
   headline:
-    title: L'outdoor<br> entre amis<br> c'est + FUN
+    title: L'outdoor<br> en couple<br> c'est + FUN
     color: white
   Button1:
-    title: Acheter des skis d'occasion
-    link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+    title: Bien préparer sa rando !
+    link: /fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee
   Button2:
     title: Voir toutes les activités
     link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
@@ -118,7 +114,7 @@ page_sections:
   blockBGcolor: blanc
   headtitle:
     headline: ZE HERO propose
-    title: Des conseils pour votre hiver
+    title: Des conseils pour votre été
 - template: blogPostList
   blockBGcolor: gris
   postNumber: 4
@@ -134,6 +130,6 @@ author: geoffreyarduini
 baseline: ''
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: 'https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion'
+  url_to_shop_zehero: 'https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date='
 
 ---
