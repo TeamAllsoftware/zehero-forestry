@@ -3,9 +3,8 @@ label: video2colImgTxt
 hide_body: true
 fields:
 - name: image_bg_href
-  type: file
+  type: text
   config:
-    maxSize: 64
     required: true
   label: URL de l'image de video
 - name: alt_text_for_image

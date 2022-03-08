@@ -3,9 +3,8 @@ label: heroImageFull
 hide_body: true
 fields:
 - name: image_href
-  type: file
+  type: text
   config:
-    maxSize: 64
     required: true
   label: URL de l'image de fond
   description: image de fond du composant

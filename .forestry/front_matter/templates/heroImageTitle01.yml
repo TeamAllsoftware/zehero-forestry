@@ -23,9 +23,8 @@ fields:
     min: 40
   description: Entre 40 et 60 caractères
 - name: image01_href
-  type: file
+  type: text
   config:
-    maxSize: 64
     required: true
   label: Une grande et belle image
   description: Grande image affichée pleine page avec le titre en gros dessus

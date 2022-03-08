@@ -25,9 +25,8 @@ fields:
   config: {}
   fields:
   - name: image_href
-    type: file
+    type: text
     config:
-      maxSize: 64
       required: true
     label: Image HREF
   - name: alt_text
@@ -51,9 +50,8 @@ fields:
   config: {}
   fields:
   - name: image_href
-    type: file
+    type: text
     config:
-      maxSize: 64
       required: true
     label: Image HREF
   - name: alt_text
@@ -77,9 +75,8 @@ fields:
   config: {}
   fields:
   - name: image_href
-    type: file
+    type: text
     config:
-      maxSize: 64
       required: true
     label: Image HREF
   - name: alt_text
@@ -93,9 +90,8 @@ fields:
   config: {}
   fields:
   - name: image_href
-    type: file
+    type: text
     config:
-      maxSize: 64
       required: true
     label: Image HREF
   - name: alt_text
