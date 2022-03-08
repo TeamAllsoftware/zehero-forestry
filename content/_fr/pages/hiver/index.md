@@ -1,7 +1,7 @@
 ---
 layout: layout_generic
-title: Le e-shop des activités de plein air
-meta-title: Boutique en ligne pour commander vos activités outdoors
+title: Le e-shop de vos activités outdoors
+meta-title: Commander en ligne vos activités outdoors pour l'hiver
 meta-description: ZE HERO, c'est une boutique en ligne pour commander des activités
   de plein air, louer ou acheter du matériel; et un site web avec des conseils et
   des articles de blog pour s'inspirer et progresser dans sa pratique.
