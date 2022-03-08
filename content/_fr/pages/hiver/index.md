@@ -11,7 +11,7 @@ season: winter
 topnav_color_text: dark
 page_sections:
 - template: heroImageFull
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643722344/website/winter/KariTraa_FW19_-_RT_-_Dag_2_06_40945_t7qbos.jpg
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883535/website/winter/Sourire-neige-femme_rucodo.jpg
   gradient: grad
   headline:
     title: L'outdoor<br> dont vous<br> êtes<br> ZE HERO
