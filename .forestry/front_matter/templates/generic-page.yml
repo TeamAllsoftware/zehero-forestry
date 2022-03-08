@@ -125,6 +125,8 @@ fields:
   - newsletter
   - separatorLine
   - 4col2imgTxtImg
+  - video2colImgTxt
+  - newsletter
   config:
     min: 
     max:

@@ -1,6 +1,5 @@
 ---
----
-label: Liste d'éléments des services
+label: listServices
 hide_body: true
 fields:
 - name: blockBGcolor
