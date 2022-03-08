@@ -66,10 +66,10 @@ page_sections:
     color: white
   Button1:
     title: Acheter des skis d'occasion
-    link: "/fr/homme"
+    link: "https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion"
   Button2:
     title: Voir toutes les activités
-    link: "/fr/femme"
+    link: "https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion"
   button_2_more: false
 - template: listServices
   service: advice
@@ -79,7 +79,7 @@ page_sections:
     title: Des conseils pour votre hiver
 - template: blogPostList
   blockBGcolor: gris
-  postNumber: '4'
+  postNumber: 4
 - template: newsletter
   title: Recevez nos dernières informations
 - template: ZEHEROintro
