@@ -67,12 +67,13 @@
             <div class="col shop-category-style-01 wow animate__fadeIn">
                 <div class="shop-product lg-margin-30px-bottom">
                     <div class="shop-product-image">
-                        <img src="{{ block.Image1.image_href }}" class="w-100" alt="{{ block.Image1.alt_text }}"/>
+                        {% capture download_note %}{{ block.Image1.image_href }}{% endcapture %}
+                        <img src="{% include image.html file=download_note sizevar='thumbstore' width='' %}" class="w-100" alt="{{ block.Image1.alt_text }}"/>
                         <div class="shop-product-overlay bg-transparent-gradient-light-red-orange"></div>
                     </div>
                     <div class="shop-product-content d-flex align-items-center bg-white xl-padding-20px-lr padding-30px-lr padding-5px-tb">
-                        <a href="{{ block.Image1.title_link }}" class="alt-font font-weight-500 text-extra-dark-gray d-inline-block align-middle text-uppercase me-auto">{{ block.Image1.title }}</a>
-                        <a href="{{ block.Image1.title_link }}"><i class="line-icon-Arrow-OutRight icon-large text-extra-dark-gray align-middle margin-15px-left"></i></a>
+                        <a href="{{ block.Image1.title_Link }}" class="alt-font font-weight-500 text-extra-dark-gray d-inline-block align-middle text-uppercase me-auto">{{ block.Image1.title }}</a>
+                        <a href="{{ block.Image1.title_Link }}"><i class="line-icon-Arrow-OutRight icon-large text-extra-dark-gray align-middle margin-15px-left"></i></a>
                     </div>
                 </div>
             </div>
@@ -81,31 +82,34 @@
             <div class="col shop-category-style-01 wow animate__fadeIn" data-wow-delay="0.2s">
                 <div class="shop-product lg-margin-30px-bottom">
                     <div class="shop-product-image">
-                        <img src="{{ block.Image2.image_href }}" class="w-100" alt="{{ block.Image2.alt_text }}"/>
+                        {% capture download_note %}{{ block.Image2.image_href }}{% endcapture %}
+                        <img src="{% include image.html file=download_note sizevar='thumbstore' width='' %}" class="w-100" alt="{{ block.Image2.alt_text }}"/>
                         <div class="shop-product-overlay bg-transparent-gradient-light-red-orange"></div>
                     </div>
                     <div class="shop-product-content d-flex align-items-center bg-white xl-padding-20px-lr padding-30px-lr padding-5px-tb">
-                        <a href="{{ block.Image2.title_link }}" class="alt-font font-weight-500 text-extra-dark-gray d-inline-block align-middle text-uppercase me-auto">{{ block.Image2.title }}</a>
-                        <a href="{{ block.Image2.title_link }}"><i class="line-icon-Arrow-OutRight icon-large text-extra-dark-gray align-middle margin-15px-left"></i></a>
+                        <a href="{{ block.Image2.title_Link }}" class="alt-font font-weight-500 text-extra-dark-gray d-inline-block align-middle text-uppercase me-auto">{{ block.Image2.title }}</a>
+                        <a href="{{ block.Image2.title_Link }}"><i class="line-icon-Arrow-OutRight icon-large text-extra-dark-gray align-middle margin-15px-left"></i></a>
                     </div>
                 </div>
             </div>
             <!-- end category item -->
             <!-- start category banner -->
             <div class="col wow animate__fadeIn" data-wow-delay="0.4s">
-                <a href="{{ block.Image3.title_link }}"><img src="{{ block.Image3.image_href }}" class="sm-margin-30px-bottom" alt="{{ block.Image3.alt_text }}"/></a>
+                {% capture download_note %}{{ block.Image3.image_href }}{% endcapture %}
+                <a href="{{ block.Image3.title_Link }}"><img src="{% include image.html file=download_note sizevar='thumbstore' width='' %}" class="sm-margin-30px-bottom" alt="{{ block.Image3.alt_text }}"/></a>
             </div>
             <!-- start category banner -->
             <!-- start category item -->
             <div class="col shop-category-style-01 wow animate__fadeIn" data-wow-delay="0.2s">
                 <div class="shop-product lg-margin-30px-bottom">
                     <div class="shop-product-image">
-                        <img src="{{ block.Image4.image_href }}" class="w-100" alt="{{ block.Image4.alt_text }}"/>
+                        {% capture download_note %}{{ block.Image4.image_href }}{% endcapture %}
+                        <img src="{% include image.html file=download_note sizevar='thumbstore' width='' %}" class="w-100" alt="{{ block.Image4.alt_text }}"/>
                         <div class="shop-product-overlay bg-transparent-gradient-light-red-orange"></div>
                     </div>
                     <div class="shop-product-content d-flex align-items-center bg-white xl-padding-20px-lr padding-30px-lr padding-5px-tb">
-                        <a href="{{ block.Image4.title_link }}" class="alt-font font-weight-500 text-extra-dark-gray d-inline-block align-middle text-uppercase me-auto">{{ block.Image4.title }}</a>
-                        <a href="{{ block.Image4.title_link }}"><i class="line-icon-Arrow-OutRight icon-large text-extra-dark-gray align-middle margin-15px-left"></i></a>
+                        <a href="{{ block.Image4.title_Link }}" class="alt-font font-weight-500 text-extra-dark-gray d-inline-block align-middle text-uppercase me-auto">{{ block.Image4.title }}</a>
+                        <a href="{{ block.Image4.title_Link }}"><i class="line-icon-Arrow-OutRight icon-large text-extra-dark-gray align-middle margin-15px-left"></i></a>
                     </div>
                 </div>
             </div>
