@@ -83,7 +83,7 @@ page_sections:
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639754132/website/winter/ethan-hu-Ouhu9FOlJnY-unsplash_cgrmw5.jpg
   gradient: non
   headline:
-    title: L'outdoor<br> dont vous<br> êtes<br> ZE HERO
+    title: L'outdoor<br> entre amis<br> c'est<br> + FUN
     color: white
   Button1:
     title: Acheter des skis d'occasion
