@@ -34,7 +34,7 @@ page_sections:
   Image2:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751107/website/Instinct%20Trail/Instinct_trail_femme_collection_hrqsxb.webp
     alt_text: 
-    title: Sac à dos<br> trail/running
+    title: Sac à dos<br> de trail
     title_Link:
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646750262/website/Instinct%20Trail/Instinct_trail_accessoires_pccxqg.webp
