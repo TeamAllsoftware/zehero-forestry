@@ -127,6 +127,4 @@ fields:
   - 4col2imgTxtImg
   config:
     min: 
-    max:
-pages:
-- content/_fr/pages/index.md
+    max: 
