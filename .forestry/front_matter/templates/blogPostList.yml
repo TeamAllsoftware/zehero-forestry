@@ -23,7 +23,7 @@ fields:
     required: false
     options:
     - '380'
-    - ''4'
+    - '4'
     - '8'
     - '12'
     source:
