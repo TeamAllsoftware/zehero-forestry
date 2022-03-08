@@ -64,6 +64,10 @@ sections:
 - type: heading
   label: French été
 - type: document
+  path: content/_fr/pages/ete/index.md
+  label: Page d'accueil
+  match: "**/*"
+- type: document
   path: _data/menu/fr/ete.yml
   label: ETE menu header
 - type: directory
