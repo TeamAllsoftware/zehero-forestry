@@ -106,5 +106,8 @@ page_sections:
 redirect_from:
 - "/fr/surf-loire-atlantique/"
 - "/fr/surf-biarritz/"
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre activité
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 
 ---

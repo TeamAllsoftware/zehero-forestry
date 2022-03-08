@@ -119,5 +119,8 @@ redirect_from:
 - "/fr/trail-progresser-montee-descente/"
 - "/fr/faire-du-fractionne-en-trail/"
 - "/fr/course-trail/"
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre activité
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 
 ---

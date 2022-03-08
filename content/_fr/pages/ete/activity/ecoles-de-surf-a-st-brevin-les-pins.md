@@ -74,5 +74,8 @@ page_sections:
     Chacune des écoles de surf de St Brévin les pins permettront la location de matériel de surf. C'est-à-dire que vous retrouverez les planches de surf pour tous les niveaux, des leashs, ainsi que les combinaisons courtes ou longues. Si vous prenez des cours de surf, vous pourrez venir soit avec votre équipement, soit l'avoir directement sur place.
 
     Il existe aussi d'autre shop à St Brévin les pins qui proposeront la location de matériel et d'équipement de surf.
+button_to_link_to_ze_hero_shop:
+  button_text: Réserver un cours de surf
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=21%2F11%2F2021
 
 ---

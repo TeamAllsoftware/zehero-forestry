@@ -79,5 +79,29 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
+  alt_text_for_image: Personne descendant avec une corde en canyoning
+  captiontitleuppercase: La sécurité avant tout
+  title: Respecter les règles de sécurité
+  content: |-
+    Le canyoning doit se réaliser avec attention et vigilance même si on s'amuse pendant la durée de l'activité. Lors ce que vous participez à l'activité avec un groupe de canyoning, il est important de bien écouter les conseils du moniteur. En effet, par exemple lors des sauts, si le moniteur vous indique de sauter exactement ici, il faut faire exactement ce qu'il indique. Il y a parfois des accidents qui se produisent car des personnes ont alors sauté à côté et se sont blessées.
+
+    Il ne faut pas être au-dessus de ses moyens. C'est-à-dire que si vous êtes débutant, il faut l'indiquer au moniteur. Il arrive que des personnes ayant affirmé qu'ils avaient déjà pratiqué le canyoning, se trouvant bloqué car le canyon est trop difficile, trop technique. Il y a parfois quelques passages pour pouvoir s'échapper mais parfois on est bloqué et il est difficile de sortir.
+
+    L'eau est un élément qui peut surprendre. Il est important de rester tout de même vigilent lorsque les personnes s'engagent dans un passage afin de s'assurer que tout va bien.
+
+    Pour finir, prenez le temps de faire une petite pause. Il est très important de s'hydrater ainsi que de s'alimenter afin de rester lucide et d'avoir des muscles hydratés pour ne pas avoir des crampes.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  content: Partez profiter du canyoning maintenant avec tous les conseils importants.
+    Il ne vous reste plus qu'à trouver le lieux où vous désirez faire votre canyoning
+    tel que [https://www.ze-hero.com/fr/ete/activite/canyoning-alpes-maritimes](https://www.ze-hero.com/fr/ete/activite/canyoning-alpes-maritimes
+    "Les canyonings du 06") ou encore [https://www.ze-hero.com/fr/ete/activite/canyoning-annecy](https://www.ze-hero.com/fr/ete/activite/canyoning-annecy
+    "les canyonings vers Annecy").
+  title: ''
 
 ---

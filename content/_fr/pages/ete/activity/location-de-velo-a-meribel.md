@@ -77,5 +77,8 @@ page_sections:
 
     Si vous séjournez à Méribel, que vous souhaitez découvrir le vélo de route ou le VTT, que vous êtes un amateur, vous trouverez différents magasins de location de vélo de route et de VTT.
   title: ''
+button_to_link_to_ze_hero_shop:
+  button_text: Louez votre vélo
+  url_to_shop_zehero: https://shop.ze-hero.com/location-materiel?equipmentslug=%2Flocation-autre&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
 
 ---

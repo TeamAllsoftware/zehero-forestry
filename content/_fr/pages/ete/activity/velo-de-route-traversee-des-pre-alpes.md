@@ -118,5 +118,8 @@ page_sections:
   captionrightcontent: Laissez vous portez et concentrez vous sur votre vélo à profiter
     du moment.
   center_alt_text_for_image: Vue d'un lac sur une route nationale en vélo de route
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre activité
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17206-traversee-des-pre-alpes-en-velo-6-jours-activite-ze-hero
 
 ---

@@ -7,8 +7,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Coaching sportif
-meta-title: Réserver un coach sportif pour vous préparer physiquement et mentalement
-meta-description: Profitez d'un coach et d'une séance de coaching sportif afin d'atteindre vos prochains objetcifs
+meta-title: 'Réserver un coach sportif pour vous préparer physiquement '
+meta-description: Profitez d'un coach et d'une séance de coaching sportif afin d'atteindre
+  vos prochains objetcifs
 baseline: Préparation physique, dépassement, entraînement
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/victor-freitas-hOuJYX2K5DA-unsplash_gg95nq.jpg
 image01_alt: Course à pied sur piste en groupe
@@ -64,5 +65,8 @@ page_sections:
   grid_2_alt_text_for_image: Groupe de sportifs courant sur une piste d'athlétisme
 topnav_text_color: light
 engage: Une préparation pour affronter toutes les situations
+button_to_link_to_ze_hero_shop:
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+  button_text: Réservez votre coaching sportif
 
 ---
