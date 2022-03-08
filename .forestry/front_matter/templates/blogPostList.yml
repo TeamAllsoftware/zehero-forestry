@@ -18,14 +18,14 @@ fields:
   label: Couleur de fond du composant
 - name: postNumber
   type: select
-  default: '4'
+  default: 4
   config:
     required: false
     options:
-    - '380'
-    - '4'
-    - '8'
-    - '12'
+    - 380
+    - 4
+    - 8
+    - 12
     source:
       type: simple
       section: 
