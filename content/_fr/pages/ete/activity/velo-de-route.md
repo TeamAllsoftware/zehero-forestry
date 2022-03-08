@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Vélo de route
-permalink: "/fr/ete/activite/velo-de-route"
+permalink: "/fr/ete/activites/velo-de-route"
+redirect_from:
+  - /fr/ete/activite/velo-de-route
 meta-title: Sorties vélo de route pour découvrir les cols mythiques de France et se balader
 meta-description: A l'assaut des cols mythiques en France, de se balader sur les routes
   et de voir du pays en vélo de route
@@ -74,5 +76,8 @@ page_sections:
     un suivi en voiture lorsque vous partez pour plusieurs jours.
 redirect_from:
 - "/fr/velo-savoie-haute-savoie/"
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre activité
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
 
 ---

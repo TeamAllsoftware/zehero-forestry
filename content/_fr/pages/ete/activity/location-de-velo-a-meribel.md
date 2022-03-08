@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Location de vélo à Méribel
-permalink: "/fr/ete/activite/location-velo-meribel"
+permalink: "/fr/ete/activites/location-velo-meribel"
+redirect_from:
+  - /fr/ete/activite/location-velo-meribel
 meta-title: Louer votre matériel vélo à Méribel, tout ce qu'il faut savoir se trouve dans notre fiche conseil
 meta-description: Trouver votre magasin de location de vélo à Méribel et louer tout le
   matériel nécessaire pour vos prochaines aventures
@@ -75,5 +77,8 @@ page_sections:
 
     Si vous séjournez à Méribel, que vous souhaitez découvrir le vélo de route ou le VTT, que vous êtes un amateur, vous trouverez différents magasins de location de vélo de route et de VTT.
   title: ''
+button_to_link_to_ze_hero_shop:
+  button_text: Louez votre vélo
+  url_to_shop_zehero: https://shop.ze-hero.com/location-materiel?equipmentslug=%2Flocation-autre&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
 
 ---

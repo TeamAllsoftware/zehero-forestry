@@ -1,13 +1,15 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/activites-pour-les-enfants"
+permalink: "/fr/hiver/activites/activites-pour-les-enfants"
+redirect_from:
+  - /fr/hiver/activite/activites-pour-les-enfants
 language: fr
 season: winter
 topnav_color_text: dark
 title: Activités pour les enfants
-meta-title: Réserver des activités d'hiver pour vos enfants, ski, raquettes, snowboard
-meta-description: Vous pouvez réserver pour vos enfants des activités ludiques afin qu'ils
-  s'amusent pleinement durant votre séjour en montagne.
+meta-title: Réserver des activités d'hiver pour vos enfants
+meta-description: Vous pouvez réserver pour vos enfants des activités ludiques afin
+  qu'ils s'amusent pleinement durant votre séjour en montagne.
 baseline: Igloo et boules de neige
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492452/website/winter/jesse-orrico-rnguvzoG-x8-unsplash_lkfhnk.jpg
 image01_alt: Enfants qui s'amusent dans la neige
@@ -57,5 +59,8 @@ page_sections:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
 topnav_text_color: light
 engage: Des activités accessibles, ludiques et outdoor
+button_to_link_to_ze_hero_shop:
+  button_text: Trouvez une activité pour v
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=21%2F11%2F2021
 
 ---

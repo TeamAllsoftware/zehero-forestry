@@ -1,6 +1,8 @@
 ---
 layout: layout_resort
-permalink: "/fr/hiver/destination/val-d-isere"
+permalink: "/fr/hiver/destinations/val-d-isere"
+redirect_from:
+  - /fr/hiver/destination/val-d-isere
 language: fr
 season: winter
 topnav_color_text: light

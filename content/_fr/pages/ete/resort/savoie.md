@@ -13,7 +13,9 @@ page_title: La Savoie
 resort_nameid: savoie
 resort_naming: La Savoie
 title: La Savoie (73) et ses activités outdoor pour la saison d'été
-permalink: "/fr/ete/destination/savoie"
+permalink: "/fr/ete/destinations/savoie"
+redirect_from:
+  - /fr/ete/destination/savoie
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749757/website/summer/mercvrie-YlWgxkbP_pY-unsplash_yves5y.jpg
 image01_alt: Vue sur le lac du bourget
 button_to_link_to_ze_hero_shop:

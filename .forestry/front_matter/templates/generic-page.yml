@@ -82,20 +82,53 @@ fields:
     the background image tone (dark or light) or color (dark or light). If background
     is dark and you want a white text select "dark"
   hidden: false
+- name: button_to_link_to_ze_hero_shop
+  type: field_group
+  config: {}
+  fields:
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button text
+  - name: url_to_shop_zehero
+    type: text
+    config:
+      required: false
+    description: Copy / Paste ZE HERO website url refering to product/service oin
+      the eshop
+    label: URL to link to ZE HERO
+  label: Button to link to ZE HERO shop
 - name: page_sections
   type: blocks
   label: Page Sections
   template_types:
+  - heroBreadcrumb
+  - heroBigTitle
+  - heroSlider
+  - heroImageTitle01
+  - heroImageFull
   - textarea
   - 3coltxtimgtxt
   - 2colimgtxt
   - 2coltxtimg
+  - blogPostList
+  - listServices
   - parlaxgridtxtimg
   - liststyle01
   - liststyle01numbered
   - imagegallery02
   - numberinfo
   - cta
+  - ctaShop4col
+  - ZEHEROintro
+  - newsletter
+  - separatorLine
+  - 4col2imgTxtImg
+  - video2colImgTxt
+  - newsletter
   config:
     min: 
     max: 
+pages:
+- content/_fr/pages/hiver/index.md

@@ -7,7 +7,9 @@ meta-description: Si vous partez vous randonner, que ce soit pour quelques heure
   à avoir dans son sac.
 topnav_color_text: light
 title: Liste du matériel à avoir dans son sac pour partir en randonnée à la journée
-permalink: "/fr/ete/conseil/liste-materiel-randonnee"
+permalink: "/fr/ete/conseils/liste-materiel-randonnee"
+redirect_from:
+  - /fr/ete/conseil/liste-materiel-randonnee
 meta-title: 'La liste du matériel à prendre dans son sac de randonnée '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646301630/website/summer/patrick-hendry-lsJsaERGu4c-unsplash_movjar.jpg
 image01_alt: Randonneur marchant en montagne avec un gros sac à dos de randonnée

@@ -5,6 +5,8 @@ season: summer
 topnav_color_text: dark
 title: Yoga
 permalink: "/fr/ete/activite/yoga"
+redirect_from:
+  - /fr/ete/activite/yoga
 meta-title: Pratiquer le yoga pour son bien-être et la détente qu'il procure
 meta-description: Yoga, bien être et tonicité
 baseline: Respiration, calme et fortifiant

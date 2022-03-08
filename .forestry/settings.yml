@@ -6,7 +6,8 @@ webhook_url:
 sections:
 - type: document
   path: readme-editor.md
-  label: Help (updated 17 feb 22)
+  label: Help (updated 7 mar 22)
+  read_only: true
 - type: document
   path: _data/authors.yml
   label: Authors
@@ -34,6 +35,9 @@ sections:
 - type: heading
   label: French hiver
 - type: document
+  path: content/_fr/pages/hiver/index.md
+  label: Page accueil
+- type: document
   path: _data/menu/fr/hiver.yml
   label: HIVER menu header
 - type: directory
@@ -59,6 +63,9 @@ sections:
   - advice-page
 - type: heading
   label: French été
+- type: document
+  path: content/_fr/pages/ete/index.md
+  label: Page d'accueil
 - type: document
   path: _data/menu/fr/ete.yml
   label: ETE menu header
@@ -95,10 +102,10 @@ sections:
   label: En
   create: all
   match: "**/*"
-upload_dir: ''
-public_path: https://res.cloudinary.com/deddrj0yb/image
+upload_dir: website
+public_path: https://res.cloudinary.com/deddrj0yb/image/upload
 front_matter_path: ''
-use_front_matter_path: true
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:

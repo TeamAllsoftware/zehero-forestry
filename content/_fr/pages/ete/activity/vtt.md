@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: VTT
-permalink: "/fr/ete/activite/vtt"
+permalink: "/fr/ete/activites/vtt"
+redirect_from:
+  - /fr/ete/activite/vtt
 meta-title: Sortie vélo VTT pour découvrir de nouveaux horizons
 meta-description: Pratiquez le VTT pour découvrir des paysages, vivre des descentes sensationnelles
   à travers la nature.

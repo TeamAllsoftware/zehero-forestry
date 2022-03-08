@@ -1,0 +1,91 @@
+---
+label: 4col2imgTxtImg
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+    min: 35
+    max: 55
+  label: title
+- name: baseline
+  type: text
+  config:
+    required: true
+    min: 170
+    max: 190
+  label: baseline
+  description: texte sous le titre
+- name: ImageLeft
+  label: Image de gauche
+  type: field_group
+  config: {}
+  fields:
+  - name: image_href
+    type: text
+    config:
+      required: true
+    label: Image HREF
+  - name: alt_text
+    type: text
+    config:
+      required: true
+    label: Alt text for image
+- name: ImageMiddle
+  label: Image du milieu
+  type: field_group
+  config: {}
+  fields:
+  - name: image_href
+    type: text
+    config:
+      required: true
+    label: Image HREF
+  - name: alt_text
+    type: text
+    config:
+      required: true
+    label: Alt text for image
+- name: ImageRight
+  label: Image de droite
+  type: field_group
+  config: {}
+  fields:
+  - name: image_href
+    type: text
+    config:
+      required: true
+    label: Image HREF
+  - name: alt_text
+    type: text
+    config:
+      required: true
+    label: Alt text for image
+- name: button_more
+  type: boolean
+  label: Bouton avec lien
+  default: false
+- name: button
+  type: field_group
+  config: {}
+  fields:
+  - name: text_button
+    type: text
+    config:
+      required: false
+    label: Text on the button
+  - name: href_button
+    type: text
+    config:
+      required: false
+    label: url for this button
+  - name: alt_button
+    type: text
+    config:
+      required: false
+    label: alternative text for this link
+  label: button
+  showOnly:
+    field: button_more
+    value: true

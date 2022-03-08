@@ -13,7 +13,9 @@ page_title: La Loire Atlantique
 resort_nameid: loire-atlantique
 resort_naming: La Loire Atlantique
 title: La Loire Atlantique et ses activités outdoor pour la saison d'été
-permalink: "/fr/ete/destination/loire-atlantique"
+permalink: "/fr/ete/destinations/loire-atlantique"
+redirect_from:
+  - /fr/ete/destination/loire-atlantique
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642758793/website/summer/lechat-valentin-Ho17T_ZBJ5k-unsplash_xcbczl.jpg
 image01_alt: Surfeur en train de surfer une vague en bretagne sur une Longboard
 button_to_link_to_ze_hero_shop:

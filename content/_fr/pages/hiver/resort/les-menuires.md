@@ -1,6 +1,8 @@
 ---
 layout: layout_resort
-permalink: "/fr/hiver/destination/les-menuires"
+permalink: "/fr/hiver/destinations/les-menuires"
+redirect_from:
+  - /fr/hiver/destination/les-menuires
 language: fr
 season: winter
 topnav_color_text: light

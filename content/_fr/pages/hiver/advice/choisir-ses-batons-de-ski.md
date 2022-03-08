@@ -7,7 +7,9 @@ meta-description: Comment choisir ses bâtons de ski en fonction de sa disciplin
   taille et de son matériel.
 topnav_color_text: light
 title: Choisir ses bâtons de ski
-permalink: "/fr/hiver/conseil/choisir-ses-bâtons-de-ski"
+permalink: "/fr/hiver/conseils/choisir-ses-bâtons-de-ski"
+redirect_from:
+  - /fr/hiver/conseil/choisir-ses-bâtons-de-ski
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642411068/website/Conseil%20/urban-sanden-RCF-_l7vITo-unsplash_fpch78.jpg
 image01_alt: Bâtons de ski dans la neige
 button_to_link_to_ze_hero_shop:

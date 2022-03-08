@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Trail Running
-permalink: "/fr/ete/activite/trail-running"
+permalink: "/fr/ete/activites/trail-running"
+redirect_from:
+  - /fr/ete/activite/trail-running
 meta-title: Le trail, une activité outdoor à pratiquer en montagne, en forêt ou en plaine
 meta-description: Profitez de sortie de Trail Running pour découvrir la nature et vous
   perfectionner dans ce sport.
@@ -117,5 +119,8 @@ redirect_from:
 - "/fr/trail-progresser-montee-descente/"
 - "/fr/faire-du-fractionne-en-trail/"
 - "/fr/course-trail/"
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre activité
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 
 ---

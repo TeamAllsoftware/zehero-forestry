@@ -1,0 +1,79 @@
+---
+label: heroSlider
+hide_body: true
+fields:
+- name: Slide1
+  label: Slide1
+  type: field_group
+  config: {}
+  fields:
+  - name: image_href
+    type: text
+    config:
+      required: true
+    label: Image HREF
+  - name: image_alt
+    type: text
+    config:
+      required: true
+    label: Alt text for image
+  - name: baseline
+    type: text
+    config:
+      required: true
+    label: Baseline
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+- name: Slide2
+  label: Slide2
+  type: field_group
+  config: {}
+  fields:
+  - name: image_href
+    type: text
+    config:
+      required: true
+    label: Image HREF
+  - name: image_alt
+    type: text
+    config:
+      required: true
+    label: Alt text for image
+  - name: baseline
+    type: text
+    config:
+      required: true
+    label: Baseline
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+- name: Slide3
+  label: Slide3
+  type: field_group
+  config: {}
+  fields:
+  - name: image_href
+    type: text
+    config:
+      required: true
+    label: Image HREF
+  - name: image_alt
+    type: text
+    config:
+      required: true
+    label: Alt text for image
+  - name: baseline
+    type: text
+    config:
+      required: true
+    label: Baseline
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title

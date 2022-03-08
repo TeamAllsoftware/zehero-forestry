@@ -4,10 +4,12 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Trail Running
-permalink: "/fr/hiver/activite/trail-running"
+permalink: "/fr/hiver/activites/trail-running"
+redirect_from:
+  - /fr/hiver/activite/trail-running
 meta-title: Réserver des sorties de trail collectives ou privées
-meta-description: Partez pratiquer le Trail Running et profiter d'un moment sportif dans
-  la nature
+meta-description: Partez pratiquer le Trail Running et profiter d'un moment sportif
+  dans la nature
 baseline: Liberté, inspiration et dépassement
 engage: Le dépassement et la liberté sont les inspirations du trail.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883629/website/summer/Trail-foret-seul_ofxowi.jpg
@@ -104,5 +106,8 @@ page_sections:
     text_button: Réservez maintenant >
   intro: Réservez dès maintenant vos sorties de trail
   headline: Cours privés ou collectifs sont disponibles
+button_to_link_to_ze_hero_shop:
+  button_text: Trouver votre activité de trail
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 
 ---

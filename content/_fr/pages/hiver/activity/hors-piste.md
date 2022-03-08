@@ -1,11 +1,13 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/ski-freeride"
+permalink: "/fr/hiver/activites/ski-freeride"
+redirect_from:
+  - /fr/hiver/activite/ski-freeride
 language: fr
 season: winter
 topnav_color_text: dark
 title: Ski freeride
-meta-title: Réserver une activité de ski hors-piste et de freeride pour cette hiver
+meta-title: Réserver une activité de ski hors-piste
 meta-description: Partez dans les pentes vierges, volez et flottez dans la neige fraîche
   et dans les espaces sauvages loin des pistes.
 baseline: Liberté, engagement et faire sa trace
@@ -108,5 +110,8 @@ page_sections:
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
 topnav_text_color: light
 engage: 'Explorer la montagne et ses hors pistes '
+button_to_link_to_ze_hero_shop:
+  button_text: Trouvez votre cours de hors piste
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=21%2F11%2F2021
 
 ---

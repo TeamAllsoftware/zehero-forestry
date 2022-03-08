@@ -7,7 +7,9 @@ meta-description: Comment choisir ses chaussures de snowboard ? Découvrez toute
   importantes pour trouver les boots qui vous correspondent le mieux.
 topnav_color_text: light
 title: Comment choisir ses boots de snowboard
-permalink: "/fr/hiver/conseil/boots-snowboard"
+permalink: "/fr/hiver/conseils/boots-snowboard"
+redirect_from:
+  - /fr/hiver/conseil/boots-snowboard
 advice_cat: Matériel
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640262657/website/Conseil%20Equiepement/robson-hatsukami-morgan-5C6veSN6hec-unsplash_e5zqqr.jpg
 image01_alt: Snowboard dans une foret enneigée

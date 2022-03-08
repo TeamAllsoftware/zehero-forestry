@@ -7,7 +7,9 @@ meta-description: Il est important de bien se préparer à une course de trail e
   s'entraîner correctement
 topnav_color_text: light
 title: La préparation d'une course de Trail
-permalink: "/fr/ete/conseil/preparation-course-trail"
+permalink: "/fr/ete/conseils/preparation-course-trail"
+redirect_from:
+  - /fr/ete/conseil/preparation-course-trail
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643107338/website/Conseil%20Equiepement/trail-6497875_1920_jlohqf.jpg
 image01_alt: Coureur de trail courant sur un sentier en terre dans la forêt
 button_to_link_to_ze_hero_shop:

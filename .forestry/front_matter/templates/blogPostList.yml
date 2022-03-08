@@ -1,0 +1,34 @@
+---
+label: blog post liste
+hide_body: true
+fields:
+- name: blockBGcolor
+  type: select
+  default: gris
+  config:
+    required: false
+    options:
+    - gris
+    - blanc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur de fond du composant
+- name: postNumber
+  type: select
+  default: 4
+  config:
+    required: false
+    options:
+    - 380
+    - 4
+    - 8
+    - 12
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Nombre d'articles par multiple de 4

@@ -5,7 +5,9 @@ season: summer
 cat: brand
 topnav_color_text: dark
 title: Instinct Trail Inspired
-permalink: "/fr/marque/instinct-trail-inspired"
+permalink: "/fr/marques"
+redirect_from:
+  - /fr/marque/instinct-trail-inspired
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644409543/website/Instinct%20Trail/104467426_1405340209666139_5138196132130000830_n_terwzl.png
 image01_alt: Deux coureurs de trail portant les sacs et vêtement Instinct trail
 brand_logo_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644853342/website/Instinct%20Trail/logo_instinct_trail_dzori5.png

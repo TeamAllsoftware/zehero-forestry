@@ -16,7 +16,9 @@ page_title: Val d'Isère, village de charme préservé
 baseline: Village d'exepction
 resort_nameid: val_d_isere
 resort_naming: Val D'Isère
-permalink: "/fr/ete/destination/val-d-isere"
+permalink: "/fr/ete/destinations/val-d-isere"
+redirect_from:
+  - /fr/ete/destination/val-d-isere
 meta-title: Activités outdoor à Val d'Isère pour l'été
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646211895/website/resorts/alpe%20d%27huez/valdisere-00007580_j6d62m.jpg
 image01_alt: Village de la station de Val d'Isère en Savoie

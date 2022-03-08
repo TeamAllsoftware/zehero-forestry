@@ -1,6 +1,8 @@
 ---
 layout: layout_resort
-permalink: "/fr/hiver/destination/meribel"
+permalink: "/fr/hiver/destinations/meribel"
+redirect_from:
+  - /fr/hiver/destination/meribel
 language: fr
 season: winter
 topnav_color_text: light

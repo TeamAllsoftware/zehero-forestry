@@ -1,6 +1,8 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/ski-de-randonnee"
+permalink: "/fr/hiver/activites/ski-de-randonnee"
+redirect_from:
+  - /fr/hiver/activite/ski-de-randonnee
 language: fr
 season: winter
 topnav_color_text: dark
@@ -154,5 +156,8 @@ redirect_from:
 - "/fr/ski-randonnee-isere/"
 - "/fr/ski-randonnee-savoie/"
 - "/fr/ski-randonnee-haute-savoie/"
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre cours de ski
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
 
 ---

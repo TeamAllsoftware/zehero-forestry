@@ -7,10 +7,12 @@ meta-description: Un coach pour votre préparation physique et mental, que vous 
   débutant, amateur ou expert
 topnav_color_text: dark
 title: Nathan Alarçon, coach préparation physique et mentale
-permalink: "/fr/coach/nathan-alarcon"
+permalink: "/fr/coachs/nathan-alarcon"
 redirect_from:
-- "/fr/ete/coach/nathan-alarcon"
-- "/fr/hiver/coach/nathan-alarcon"
+  - "/fr/ete/coach/nathan-alarcon"
+  - "/fr/hiver/coach/nathan-alarcon"
+  - "/fr/ete/coachs/nathan-alarcon"
+  - "/fr/hiver/coachs/nathan-alarcon"
 s07:
   txt_button: Réserver un cours
   txt01: vous accompagne pour tous vos défis

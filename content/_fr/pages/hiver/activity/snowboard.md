@@ -1,12 +1,15 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/snowboard"
+permalink: "/fr/hiver/activites/snowboard"
+redirect_from:
+  - /fr/hiver/activite/snowboard
 language: fr
 season: winter
 topnav_color_text: dark
 title: Snowboard
 meta-title: Réserver des cours de snowboard pour apprendre la glisse
-meta-description: Partez rider le domaine skiable et les hors pistes en apprenant le snowboard
+meta-description: Partez rider le domaine skiable et les hors pistes en apprenant
+  le snowboard
 baseline: Fluidité, poudreuse et grands virages
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-marche_prsset.jpg
 image01_alt: Snowboard dans les domaines de Savoie
@@ -89,5 +92,8 @@ page_sections:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
 topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
+button_to_link_to_ze_hero_shop:
+  button_text: Trouvez votre cours de snowboard
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=21%2F11%2F2021
 
 ---

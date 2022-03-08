@@ -7,7 +7,9 @@ meta-description: Savoir comment débuter le trail, comment s'équiper et s'entr
   est débutant
 topnav_color_text: light
 title: Comment débuter le trail
-permalink: "/fr/ete/conseil/comment-debuter-trail"
+permalink: "/fr/ete/conseils/comment-debuter-trail"
+redirect_from:
+  - /fr/ete/conseil/comment-debuter-trail
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642663999/website/summer/alex-gorham-jqrWv4jQw88-unsplash_hrvtkn.jpg
 image01_alt: Coureur sur une crête de montagne au dessus d'une mer de nuage pratiquant
   le trail running

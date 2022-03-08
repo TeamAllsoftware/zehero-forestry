@@ -1,6 +1,8 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/ski-de-fond"
+permalink: "/fr/hiver/activites/ski-de-fond"
+redirect_from:
+  - /fr/hiver/activite/ski-de-fond
 language: fr
 season: winter
 topnav_color_text: dark

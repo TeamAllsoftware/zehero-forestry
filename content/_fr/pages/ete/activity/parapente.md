@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Parapente
-permalink: "/fr/ete/activite/parapente"
+permalink: "/fr/ete/activites/parapente"
+redirect_from:
+  - /fr/ete/activite/parapente
 meta-title: Le parapente, des sensations fortes et des paysages vus du ciel
 meta-description: Partez voler et réaliser votre baptême de parapente en découvrant
   une toute nouvelle sensation avec des panoramas à vous couper le souffle

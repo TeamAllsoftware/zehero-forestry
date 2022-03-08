@@ -4,7 +4,9 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Les canyonings dans les Alpes Maritimes
-permalink: "/fr/ete/activite/canyoning-alpes-maritimes"
+permalink: "/fr/ete/activites/canyoning-alpes-maritimes"
+redirect_from:
+  - /fr/ete/activite/canyoning-alpes-maritimes
 meta-title: Canyoning dans les Alpes maritimes pour tous les niveaux et toutes les pratique
 meta-description: Les Alpes maritimes sont un département incroyable pour les pratiquants
   de canyoning. Profitez d'un panel de canyoning pour découvrir une nouvelle activité.
@@ -75,5 +77,8 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: 'Vue d''un canyon et de l''eau '
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre activité
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
 
 ---

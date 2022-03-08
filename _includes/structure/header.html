@@ -1,4 +1,4 @@
-{% assign zehero = site.data.config.zehero %}
+{% assign zehero = site.data.config.site %}
 
 {% assign language = page.language %}
 {% assign season = page.season %}
@@ -14,20 +14,20 @@
 {% include elements/generic_variables.html %}
 
         <header>
-            <nav class="navbar navbar-expand-lg navbar-{{ page.topnav_color_text }} bg-transparent header-light fixed-top navbar-boxed header-reverse-scroll">
+            <nav class="navbar  navbar-expand-lg navbar-boxed navbar-{{ page.topnav_color_text }} bg-transparent header-light fixed-top header-reverse-scroll">
                 <div class="container-fluid nav-header-container">
-                    <div class="col-5 col-lg-2 ps-lg-0 me-auto me-lg-0">
+                    <div class="col-auto col-sm-6 col-lg-2 me-auto ps-lg-0">
                         <a class="navbar-brand" href="/{{ page.language }}/{{ season_language }}">
                             {% if page.topnav_color_text == 'light' %}
-                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="default-logo">
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="default-logo">
                             {% else %}
-                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_black | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_black | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="default-logo">
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_black | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_black | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="default-logo">
                             {% endif %}
-                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="alt-logo">
-                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.zehero_logo_brown | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="Logo ZE HERO brand" class="mobile-logo">
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="alt-logo">
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="mobile-logo">
                         </a>
                     </div>
-                    <div class="col-auto col-lg-8 md-position-initial md-no-padding">
+                    <div class="col-auto menu-order px-lg-0">
                         <button class="navbar-toggler float-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
                             <span class="navbar-toggler-line"></span>
                             <span class="navbar-toggler-line"></span>
@@ -35,16 +35,15 @@
                             <span class="navbar-toggler-line"></span>
                         </button>
                          <!-- Start menu -->
-                        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                        <div class="collapse navbar-collapse" id="navbarNav">
                             <ul class="navbar-nav alt-font">
                                 {% for nav in menu.menu %}
-                                {% if nav.top-level.id != "blog" %}
-                                <li class="nav-item dropdown megamenu">
-                                    <a href="{{ nav.top-level.title-link }}" class="nav-link">{{ nav.top-level.title }}</a>
-                                    <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                                {% if nav.id != "blog" %}
+                                <li class="nav-item dropdown megamenu" >
+                                    <a href="{{ nav.title-link }}" class="nav-link">{{ nav.title }}</a>
                                     <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
                                         <div class="d-lg-flex justify-content-center">
-                                            <ul class="d-lg-inline-block md-margin-15px-bottom">
+                                            <ul class="d-lg-inline-block">
                                                 {% for subcategory1 in nav.column-01 %}
                                                 <li class="dropdown-header">{{ subcategory1.nested }}</li>
                                                     {% for subcategory1-items in subcategory1.menu-items %}
@@ -52,13 +51,18 @@
                                                     {% endfor %}
                                                 {% endfor %}
 
-                                                {% if nav.top-level.txt-button %}
-                                                <span><a href="{{ nav.top-level.title-link }}" class="margin-25px-top btn btn-medium btn-green d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ nav.top-level.txt-button }}</a></span>
+                                                {% if nav.phrase_accroche %}
+                                                <h5>{{ nav.title }}</h5>
+                                                <div class="w-400px"><blockquote class="text-medium font-weight-300 text-medium-gray">{{ nav.phrase_accroche }}</blockquote></div>
+                                                {% endif %}
+
+                                                {% if nav.txt-button %}
+                                                <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-{{ site.data.config.site-color }} d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ nav.txt-button }}</a></span>
                                                 {% endif %}
                                             </ul>
 
                                             {% if nav.column-02 %}
-                                            <ul class="d-lg-inline-block md-margin-15px-bottom">
+                                            <ul class="d-lg-inline-block">
                                                 {% for subcategory2 in nav.column-02 %}
                                                 <li class="dropdown-header">{{ subcategory2.nested }}</li>
                                                     {% for subcategory2-items in subcategory2.menu-items %}
@@ -68,7 +72,7 @@
                                             </ul>
                                             {% endif %}
                                             {% if nav.column-03 %}
-                                            <ul class="d-lg-inline-block md-margin-15px-bottom">
+                                            <ul class="d-lg-inline-block">
                                                 {% for subcategory3 in nav.column-03 %}
                                                 <li class="dropdown-header">{{ subcategory3.nested }}</li>
                                                     {% for subcategory3-items in subcategory3.menu-items %}
@@ -80,9 +84,9 @@
                                             
                                             <ul class="d-lg-inline-block d-none no-padding-right">
                                                 <li>
-                                                    <a href="{{ nav.top-level.image-link }}" class="menu-banner-image" title="{{ config.various.link-to }} {{ nav.top-level.title }}">
-                                                        {% capture download_note %}{{ nav.top-level.image-href }}{% endcapture %} 
-                                                        <img src="{% include image.html file=download_note sizevar="" width="400" height="600" %}" alt="{{ nav.top-level.image-alt }}"/>
+                                                    <a href="{{ nav.image-link }}" class="menu-banner-image" title="{{ config.various.link-to }} {{ nav.title }}">
+                                                        {% capture download_note %}{{ nav.image-href }}{% endcapture %} 
+                                                        <img src="{% include image.html file=download_note sizevar="" width="400" height="600" %}" alt="{{ nav.image-alt }}"/>
                                                     </a>
                                                 </li>
                                             </ul>
@@ -93,13 +97,13 @@
                                 {% endfor %}
 
                                 {% for nav in menu.menu %}
-                                {% if  nav.top-level.id == "blog" %}
+                                {% if  nav.id == "blog" %}
                                 <li class="nav-item dropdown megamenu">
-                                    <a href="{{ nav.top-level.title-link }}" class="nav-link">{{ nav.top-level.title }}</a>
+                                    <a href="{{ nav.title-link }}" class="nav-link">{{ nav.title }}</a>
                                     <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                                     <div class="menu-back-div dropdown-menu megamenu-content" role="menu">
                                         <div class="d-lg-flex justify-content-center">
-                                            <ul class="d-lg-inline-block md-margin-15px-bottom list-style-02">
+                                            <ul class="d-lg-inline-block list-style-02">
                                                 {% for subcategory1 in nav.column-01 %}
                                                 <li class="dropdown-header">{{ subcategory1.nested }}</li>
                                                     {% for subcategory1-items in subcategory1.menu-items %}
@@ -109,25 +113,22 @@
 
                                                 {% assign posts = site[page.collection] | reverse | where_exp: "page" , "page.season contains season" %}
                             
-                                                {% for blogpost in posts limit:6 %}
+                                                {% for blogpost in posts limit:3 %}
                                                 {% if blogpost.path contains "/posts/" %}
                                                 <li class=""><a href="/{{ language }}/{{ blogpost.url | remove: '/fr/' }}" 
-                                                    title="Lien vers l'aticle de blog {{ blogpost.post-title }}"><i class="feather icon-feather-arrow-right-circle text-large text-green position-relative margin-10px-right" aria-hidden="true"></i><span>{{ blogpost.post-title | truncate:60 }}</span></a></li>
+                                                    title="Lien vers l'aticle de blog {{ blogpost.post-title }}"><i class="feather icon-feather-arrow-right-circle text-large text-{{ site.data.config.site-color }} position-relative margin-10px-right" aria-hidden="true"></i><span>{{ blogpost.post-title | truncate:60 }}</span></a></li>
                                                 {% endif %}
                                                 {% endfor %}
-
-                                                
-                                                {% if nav.top-level.txt-button %}
-                                                <span><a href="{{ nav.top-level.title-link }}" class="margin-25px-top btn btn-medium btn-green d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ nav.top-level.txt-button }}</a></span>
+                                                {% if nav.phrase_accroche %}
+                                                <div class="w-400px"><blockquote class="text-medium font-weight-300 text-medium-gray">{{ nav.phrase_accroche }}</blockquote></div>
                                                 {% endif %}
-                                               
+                                                <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-{{ site.data.config.site-color }} d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ nav.txt-button }}</a></span>  
                                             </ul>
-                                            
                                             
                                             <ul class="d-lg-inline-block d-none no-padding-right">
                                                 <li>
-                                                    {% capture download_note %}{{ nav.top-level.image-href }}{% endcapture %} 
-                                                    <a href="{{ nav.top-level.image-link }}" class="menu-banner-image" title="{{ config.various.link-to }} {{ nav.top-level.title }}"><img src="{% include image.html file=download_note sizevar="" width="400" height="600" %}" alt="{{ nav.top-level.image-alt }}"/></a>
+                                                    {% capture download_note %}{{ nav.image-href }}{% endcapture %} 
+                                                    <a href="{{ nav.image-link }}" class="menu-banner-image" title="{{ config.various.link-to }} {{ nav.title }}"><img src="{% include image.html file=download_note sizevar="" width="500" height="600" %}" alt="{{ nav.image-alt }}"/></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -139,26 +140,32 @@
                         </div>
                          <!-- End menu -->
                     </div> 
-                    <div class="col-auto col-lg-2 text-end hidden-xs px-lg-0">
-                        <div class="header-social-icon d-inline-block">
-
-                            <a href="/{{ language }}/{{ site.data.config.[language].season.[opposite_season]name }}" title="{{ site.data.config.[language].season.[opposite_season]icon-link-title }}">hiver <i class="{{ site.data.config.[language].season.[opposite_season]icon }}"></i> été</a>
-                            
-                            {% comment %}
-                            <a href="{{ site.data.config.[page.language].top-menu.[page.season].btn_href }}" class="btn btn-small btn-fancy btn-green btn-round-edge-small text-white" title="{{ site.data.config.[page.language].top-menu.[page.season].btn_href_title }}">{{ site.data.config.[page.language].top-menu.[page.season].btn_text }}<i class="feather icon-feather-shopping-bag right-icon"></i></a>
-                            {% endcomment %}
-
-                            {% comment %}
-                            <a href="/{{ opposite_language }}/{{ site.data.config.[opposite_language].season.[season]name }}" title="{{ site.data.config.[opposite_language].changelang }}">{{ opposite_language }}</a>
-                            {% endcomment %}
-                            {% comment %}
-                            <a href="{{ site.data.config.facebook.facebook_username }}" title="{{ site.data.config.facebook.title }}" target="_blank"><i class="fab fa-facebook-square"></i></a>
-                            <a href="{{ site.data.config.instagram.instagram_username }}" title="{{ site.data.config.instagram.title }}" target="_blank"><i class="fab fa-instagram"></i></a>
-                            <a href="{{ site.data.config.linkedin.linkedin_username }}" title="{{ site.data.config.linkedin.title }}" target="_blank"><i class="fab fa-linkedin"></i></a>
-                            
-                            <a href="/{{ language }}/contact" title="{{ site.data.config.[page.language].contact.icon-link-title }}"><i class="feather icon-feather-mail"></i></a>
-                            {% endcomment %}
+                    <div class="col-auto text-end hidden-xs pe-0">
+                        {% if site.data.config.multilangue %}
+                        <div class="header-language dropdown d-lg-inline-block">
+                            <a href="javascript:void(0);"><i class="feather icon-feather-globe"></i></a>
+                            <ul class="dropdown-menu alt-font">
+                                <!-- start sub menu column -->
+                                {% for lang in site.data.config.menu_lang %}
+                                <li class="dropdown">
+                                    <a href="{{ lang.link }}" title="{{ lang.altext }}"><span class="icon-country"><img src="{{ lang.flag_url }}" alt=""></span>{{ lang.title }}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
                         </div>
+                        {% endif %}
+                        <div class="header-social-icon  d-inline-block">
+                            <a href="/{{ language }}/{{ site.data.config.[language].season.[opposite_season]name }}" title="{{ site.data.config.[language].season.[opposite_season]icon-link-title }}">hiver <i class="{{ site.data.config.[language].season.[opposite_season]icon }}"></i> été</a>
+                        </div>
+
+                        {% comment %}
+                        {% for social in site.data.config.socials %}
+                        <div class="header-language dropdown d-lg-inline-block">
+                            <a class="nav-link no-padding-lr no-margin-lr" href="{{ social.username }}" title="{{ social.title }}" target="_blank"><i class="{{ social.icon }}"></i></a>
+                        </div>
+                        {% endfor %}
+                        {% endcomment %}
+                        
                     </div>
                 </div>
             </nav>

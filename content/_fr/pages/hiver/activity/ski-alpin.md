@@ -1,6 +1,8 @@
 ---
 layout: layout_activity
-permalink: "/fr/hiver/activite/ski-de-piste"
+permalink: "/fr/hiver/activites/ski-de-piste"
+redirect_from:
+  - /fr/hiver/activite/ski-de-piste
 language: fr
 season: winter
 topnav_color_text: dark

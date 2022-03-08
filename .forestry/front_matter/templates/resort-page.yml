@@ -74,7 +74,7 @@ fields:
   config:
     required: true
   label: URL for this page
-  description: 'Page url''s are on this model : "/fr/saison ete ou hiver/activite/ski-de-randonnee"'
+  description: 'Page url''s are on this model : "/fr/saison ete ou hiver/destinations/la-bourboule"'
 - name: meta-title
   label: META Title
   type: text
@@ -192,6 +192,3 @@ pages:
 - content/_fr/pages/ete/resort/st-brevin-les-pins-et-ses-activites-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/val-d-isere-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/val-thorens-et-ses-activites-outdoor-pour-la-saison-d-ete.md
-- content/_fr/pages/hiver/resort/les-menuires.html
-- content/_fr/pages/hiver/resort/meribel.html
-- content/_fr/pages/hiver/resort/tignes.html

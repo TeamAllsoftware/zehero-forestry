@@ -1,0 +1,19 @@
+---
+label: separatorLine
+hide_body: true
+fields:
+- type: select
+  name: lineColor
+  label: Couleur du séparateur
+  default:
+  - Gris
+  config:
+    required: false
+    options:
+    - Gris
+    - Blanc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 

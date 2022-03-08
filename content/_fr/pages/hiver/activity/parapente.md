@@ -4,10 +4,12 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Vol en parapente
-permalink: "/fr/hiver/activite/vol-en-parapente"
+permalink: "/fr/hiver/activites/vol-en-parapente"
+redirect_from:
+  - /fr/hiver/activite/vol-en-parapente
 meta-title: Réserver un vol en parapente au dessus des montagnes enneigées
-meta-description: Partez vous envoler au dessus des montagnes enneigées avec un vol en
-  parapente en biplace
+meta-description: Partez vous envoler au dessus des montagnes enneigées avec un vol
+  en parapente en biplace
 baseline: Découvrir, voler et admirer
 engage: Surplombez les montagnes l'hiver et admirez tous les sommets
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497764/website/winter/fpvmat-a-6AzbpH7Qg_k-unsplash_moojf5.jpg
@@ -42,5 +44,8 @@ page_sections:
 
     Cette activité est réservée à toutes les personnes de 5 ans à 90 ans.
   title: ''
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez votre vol de parapente
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Parapente&start-date=
 
 ---

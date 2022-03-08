@@ -48,7 +48,7 @@ fields:
   config:
     required: true
   label: URL for this page
-  description: 'Page url''s are on this model : "/fr/hiver/conseil/ski-de-randonnee"'
+  description: 'Page url''s are on this model : "/fr/hiver/conseils/ski-de-randonnee"'
 - name: meta-title
   label: META Title
   type: text
@@ -103,13 +103,14 @@ fields:
   - name: button_text
     type: text
     config:
-      required: true
+      required: false
     label: Button text
   - name: url_to_shop_zehero
     type: text
     config:
-      required: true
-    description: Copy / Paste ZE HERO website url refering to rental in this resort
+      required: false
+    description: Copy / Paste ZE HERO website url refering to product/service oin
+      the eshop
     label: URL to link to ZE HERO
   label: Button to link to ZE HERO shop
 - name: page_sections
@@ -137,6 +138,7 @@ pages:
 - content/_fr/pages/ete/advice/comment-s-equiper-en-trail.md
 - content/_fr/pages/ete/advice/faire-du-fractionne-en-trail.md
 - content/_fr/pages/ete/advice/la-preparation-d-une-course-de-trail.md
+- content/_fr/pages/ete/advice/les-differentes-planches-de-surf.md
 - content/_fr/pages/ete/advice/les-differents-conseils-pour-le-canyoning.md
 - content/_fr/pages/ete/advice/les-itineraires-de-trail-dans-les-alpes-maritimes.md
 - content/_fr/pages/ete/advice/liste-du-materiel-a-avoir-dans-son-sac-pour-partir-en-randonnee-a-la-journee.md

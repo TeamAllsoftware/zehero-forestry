@@ -11,12 +11,14 @@ introduction:
     outdoor dans le pays Basque
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
-title: Le pays basque et ses activités outdoor pour la saison d'été
+title: Le Pays Basque et ses activités outdoor pour la saison d'été
 page_title: Pays Basque, trésor de diversité
 baseline: Océan et montagne
 resort_nameid: pays_basque
 resort_naming: Le Pays Basque
-permalink: "/fr/ete/destination/pays-basque"
+permalink: "/fr/ete/destinations/pays-basque"
+redirect_from:
+  - /fr/ete/destination/pays-basque
 meta-title: Activités outdoor dans le pays basque pour l'été
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646386724/sebastian-mittermeier-zGJKL5Utq_w-unsplash_qldksv.jpg
 image01_alt: Image de surfeur dans la côte basque

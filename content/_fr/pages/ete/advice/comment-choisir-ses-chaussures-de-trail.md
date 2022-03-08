@@ -7,7 +7,9 @@ meta-description: Il est important de comprendre les différentes notions pour b
   ses chaussures de trail
 topnav_color_text: light
 title: Comment choisir ses chaussures de trail ?
-permalink: "/fr/ete/conseil/chaussures-trail"
+permalink: "/fr/ete/conseils/chaussures-trail"
+redirect_from:
+  - /fr/ete/conseil/chaussures-trail
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111394/website/Conseil%20Equiepement/IMG20210424154703_01_fatprs.jpg
 image01_alt: Coureur de trail avec des chaussures de trail
 button_to_link_to_ze_hero_shop:

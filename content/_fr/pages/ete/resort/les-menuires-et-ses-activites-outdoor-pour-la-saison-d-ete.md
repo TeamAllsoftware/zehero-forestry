@@ -15,7 +15,9 @@ page_title: Les Menuires, village d'émotion
 baseline: Emotionssimples
 resort_nameid: les_menuires
 resort_naming: Les Menuires
-permalink: "/fr/ete/destination/les-menuires"
+permalink: "/fr/ete/destinations/les-menuires"
+redirect_from:
+  - /fr/ete/destination/les-menuires
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644398781/website/resorts/les%20menuires/Myrtilliers_et_vue_sur_station-Vincent_LOTTENBERG-30356-1600px_bbaihi.jpg
 image01_alt: Vue de la station des Menuires avec les montagnes et des fleurs de montage
   devant

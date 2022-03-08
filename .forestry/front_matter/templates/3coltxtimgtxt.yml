@@ -35,3 +35,17 @@ fields:
     schema:
       format: markdown
   label: captionRightContent
+- name: blockBGcolor
+  type: select
+  default: blanc
+  config:
+    required: false
+    options:
+    - gris
+    - blanc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur de fond du composant
