@@ -2,12 +2,12 @@
 layout: layout_activity
 permalink: "/fr/hiver/activites/ski-de-piste"
 redirect_from:
-  - /fr/hiver/activite/ski-de-piste
+- "/fr/hiver/activite/ski-de-piste"
 language: fr
 season: winter
 topnav_color_text: dark
 title: Ski de piste
-meta-title: Réserver des cours de ski alpin pour apprendre ou perfectionner votre pratique du ski
+meta-title: Ski de piste, prendre des cours, puis visiter la station
 meta-description: Des premiers virages au carving, pratiquez le ski de piste et profitez
   du domaine skiable.
 baseline: Slalom, chasse-neige, tout schuss
@@ -20,10 +20,6 @@ page_sections:
     Que ce soit pour le loisir, la performance, la découverte d'un domaine ou la compétition,
     cela demande de la technique et une bonne condition physique.
   title: ''
-- template: imgWide
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833488/website/assets/SkiAlpin.png
-  alt_text_for_image: Illustration du ski de piste
-  blockBGcolor: gris
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
   captiontitleuppercase: Apprendre le ski alpin
@@ -39,6 +35,7 @@ page_sections:
     alt_button: ''
   alt_text_for_image: Skieur faisant du ski alpin sur une piste en faisant un virage
     carvé avec des skis rossignol
+  blockBGcolor: ''
 - template: liststyle01
   item:
   - Le ski zen pour profiter du paysage et du domaine
@@ -74,6 +71,10 @@ page_sections:
     raide en faisant un virage
   grid_2_alt_text_for_image: Skieur faisant du ski alpin sur une piste avec un sac
     à dos
+- template: imgWide
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833488/website/assets/SkiAlpin.png
+  alt_text_for_image: Illustration du ski de piste
+  blockBGcolor: gris
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
@@ -82,5 +83,8 @@ page_sections:
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
 topnav_text_color: light
 engage: Visiter un domaine en dévalant chaque piste
+button_to_link_to_ze_hero_shop:
+  button_text: réserver des cours de ski de piste
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
 
 ---
