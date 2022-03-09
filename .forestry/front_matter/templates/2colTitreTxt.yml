@@ -1,0 +1,29 @@
+---
+label: 2 cols Title + paragraph
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: title
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: true
+  label: content
+- name: blockBGcolor
+  type: select
+  default: blanc
+  config:
+    required: false
+    options:
+    - gris
+    - blanc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur de fond du composant
