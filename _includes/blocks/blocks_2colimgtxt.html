@@ -5,7 +5,7 @@
             <div class="col-12 col-lg-10 p-sm-0">
                 <div class="row align-items-center">
                     {% capture download_note %}{{ block.image_col_left_href }}{% endcapture %}
-                    <div class="col-12 col-md-6 sm-margin-30px-bottom wow animate__fadeIn" data-wow-delay="0.2s"><img src="{% include image.html file=download_note sizevar="" width="800" %}" alt="{{ block.alt_text_for_image }}"></div>
+                    <div class="col-12 col-md-6 sm-margin-30px-bottom wow animate__fadeIn" data-wow-delay="0.2s"><img src="{% include image.html file=download_note sizevar='' width='800' %}" alt="{{ block.alt_text_for_image }}"></div>
                     <div class="col-12 col-lg-5 offset-lg-1 col-md-6 last-paragraph-no-margin wow animate__fadeIn" data-wow-delay="0.4s"> 
                         <span class="text-orange-zest alt-font text-uppercase font-weight-500 margin-25px-bottom d-block xs-margin-15px-bottom">{{ block.captiontitleuppercase }}</span>
                         <h5 class="alt-font text-extra-dark-gray margin-35px-bottom font-weight-500 xs-margin-25px-bottom">{{ block.title }}</h5>

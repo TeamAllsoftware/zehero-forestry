@@ -1,0 +1,28 @@
+---
+label: imgWide
+hide_body: true
+fields:
+- name: image_href
+  type: text
+  config:
+    required: true
+  label: URL de l'image
+- name: alt_text_for_image
+  type: text
+  config:
+    required: true
+  label: Texte alternatif de l'image
+- name: blockBGcolor
+  type: select
+  default: blanc
+  config:
+    required: false
+    options:
+    - gris
+    - blanc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur de fond du composant

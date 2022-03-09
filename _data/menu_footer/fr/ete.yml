@@ -3,43 +3,43 @@ columns:
     title-link: /fr/ete/activites
     link:
     - subtitle: Trail running
-      subhref: "/fr/ete/activite/trail-running"
+      subhref: "/fr/ete/activites/trail-running"
     - subtitle: VTT
-      subhref: "/fr/ete/activite/vtt"
+      subhref: "/fr/ete/activites/vtt"
     - subtitle: Randonnée en montagne
-      subhref: "/fr/ete/activite/randonnee-montagne"
+      subhref: "/fr/ete/activites/randonnee-montagne"
     - subtitle: Traversée des Alpes à vélo
-      subhref: "/fr/ete/activite/traversee-des-alpes-en-velo"
+      subhref: "/fr/ete/activites/traversee-des-alpes-en-velo"
     - subtitle: Surf
-      subhref: "/fr/ete/activite/surf"
+      subhref: "/fr/ete/activites/surf"
     - subtitle: Canyoning
-      subhref: "/fr/ete/activite/canyoning"
+      subhref: "/fr/ete/activites/canyoning"
     - subtitle: Kayak
-      subhref: "/fr/ete/activite/kayak"
+      subhref: "/fr/ete/activites/kayak"
   - col: "Conseils"
     title-link: /fr/ete/conseils
     link:
     - subtitle: Comment bien s'équiper en trail ?
-      subhref: /fr/ete/conseil/equipement-trail
+      subhref: /fr/ete/conseils/equipement-trail
     - subtitle: Comment choisir ses chaussures de trail ?
-      subhref: /fr/ete/conseil/chaussures-trail
+      subhref: /fr/ete/conseils/chaussures-trail
     - subtitle: Débuter le Trail running
-      subhref: /fr/ete/conseil/comment-debuter-trail
+      subhref: /fr/ete/conseils/comment-debuter-trail
   - col: "Destinations"
     title-link: /fr/ete/destinations
     link:
     - subtitle: "Alpe d'Huez"
-      subhref: "/fr/ete/destination/alpe-d-huez"
+      subhref: "/fr/ete/destinations/alpe-d-huez"
     - subtitle: "Val-Thorens"
-      subhref: "/fr/ete/destination/val-thorens"
+      subhref: "/fr/ete/destinations/val-thorens"
     - subtitle: "Les Ménuires"
-      subhref: "/fr/ete/destination/les-menuires"
+      subhref: "/fr/ete/destinations/les-menuires"
     - subtitle: "Tignes"
-      subhref: "/fr/ete/destination/tignes"
+      subhref: "/fr/ete/destinations/tignes"
     - subtitle: "Val d'Isère"
-      subhref: "/fr/ete/destination/val-d-isere"
+      subhref: "/fr/ete/destinations/val-d-isere"
     - subtitle: "Méribel"
-      subhref: "/fr/ete/destination/meribel"
+      subhref: "/fr/ete/destinations/meribel"
 
 payment-title: Modes de paiement
 payment-txt01: Les paiements sont sécurisés par 3D Secure de Monetico Crédit Mutuel
