@@ -7,7 +7,7 @@ language: fr
 season: winter
 topnav_color_text: dark
 title: Ski de piste
-meta-title: Réserver des cours de skk alpin pour apprendre ou perfectionner votre pratique du ski
+meta-title: Réserver des cours de ski alpin pour apprendre ou perfectionner votre pratique du ski
 meta-description: Des premiers virages au carving, pratiquez le ski de piste et profitez
   du domaine skiable.
 baseline: Slalom, chasse-neige, tout schuss
@@ -20,6 +20,10 @@ page_sections:
     Que ce soit pour le loisir, la performance, la découverte d'un domaine ou la compétition,
     cela demande de la technique et une bonne condition physique.
   title: ''
+- template: imgWide
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646818320/website/assets/Ski_alpin_bxiuzz.png
+  alt_text_for_image: Illustration du ski de piste
+  blockBGcolor: gris
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
   captiontitleuppercase: Apprendre le ski alpin

@@ -127,6 +127,7 @@ fields:
   - 4col2imgTxtImg
   - video2colImgTxt
   - newsletter
+  - imgWide
   config:
     min: 
     max: 

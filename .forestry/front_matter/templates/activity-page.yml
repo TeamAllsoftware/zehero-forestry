@@ -135,6 +135,7 @@ fields:
   - imagegallery02
   - numberinfo
   - cta
+  - imgWide
   config:
     min: 
     max: 
