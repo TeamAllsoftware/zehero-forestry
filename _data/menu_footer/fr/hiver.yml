@@ -3,43 +3,43 @@ columns:
     title-link: /fr/hiver/activites
     link:
     - subtitle: 'Ski de piste'
-      subhref: /fr/hiver/activite/ski-de-piste
+      subhref: /fr/hiver/activites/ski-de-piste
     - subtitle: 'Ski de randonnée'
-      subhref: /fr/hiver/activite/ski-de-randonnee
+      subhref: /fr/hiver/activites/ski-de-randonnee
     - subtitle: 'Snowboards'
-      subhref: /fr/hiver/activite/snowboard
+      subhref: /fr/hiver/activites/snowboard
     - subtitle: 'Raquettes à neige'
-      subhref: /fr/hiver/activite/raquettes-a-neige
+      subhref: /fr/hiver/activites/raquettes-a-neige
     - subtitle: 'Ski freeride'
-      subhref: /fr/hiver/activite/ski-freeride
+      subhref: /fr/hiver/activites/ski-freeride
     - subtitle: 'Ski de fond'
-      subhref: /fr/hiver/activite/ski-de-fond
+      subhref: /fr/hiver/activites/ski-de-fond
     - subtitle: Pour les enfants
-      subhref: "/fr/hiver/activite/activites-pour-les-enfants"
+      subhref: "/fr/hiver/activites/activites-pour-les-enfants"
   - col: "Conseils"
     title-link: /fr/hiver/conseils
     link:
     - subtitle: "Choisir son magasin de location de ski"
-      subhref: "/fr/hiver/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
+      subhref: "/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
     - subtitle: "Comment choisir ses skis d'occasion"
-      subhref: "/fr/hiver/conseil/ski-d-occasion"
+      subhref: "/fr/hiver/conseils/ski-d-occasion"
     - subtitle: "Comment choisir ses boots de snowboard"
-      subhref: "/fr/hiver/conseil/boots-snowboard"
+      subhref: "/fr/hiver/conseils/boots-snowboard"
   - col: "Destinations"
     title-link: /fr/hiver/destinations
     link:
     - subtitle: "Alpe d'Huez"
-      subhref: "/fr/hiver/destination/alpe-d-huez"
+      subhref: "/fr/hiver/destinations/alpe-d-huez"
     - subtitle: "Val-Thorens"
-      subhref: "/fr/hiver/destination/val-thorens"
+      subhref: "/fr/hiver/destinations/val-thorens"
     - subtitle: "Les Ménuires"
-      subhref: "/fr/hiver/destination/les-menuires"
+      subhref: "/fr/hiver/destinations/les-menuires"
     - subtitle: "Tignes"
-      subhref: "/fr/hiver/destination/tignes"
+      subhref: "/fr/hiver/destinations/tignes"
     - subtitle: "Val d'Isère"
-      subhref: "/fr/hiver/destination/val-d-isere"
+      subhref: "/fr/hiver/destinations/val-d-isere"
     - subtitle: "Méribel"
-      subhref: "/fr/hiver/destination/meribel"
+      subhref: "/fr/hiver/destinations/meribel"
  
 payment-title: Modes de paiement
 payment-txt01: Les paiements sont sécurisés par 3D Secure de Monetico Crédit Mutuel
