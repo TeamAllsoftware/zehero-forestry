@@ -21,7 +21,7 @@ page_sections:
     cela demande de la technique et une bonne condition physique.
   title: ''
 - template: imgWide
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646818320/website/assets/Ski_alpin_bxiuzz.png
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833488/website/assets/SkiAlpin.png
   alt_text_for_image: Illustration du ski de piste
   blockBGcolor: gris
 - template: 2colimgtxt
