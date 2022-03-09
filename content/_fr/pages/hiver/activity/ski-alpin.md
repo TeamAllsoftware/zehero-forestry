@@ -14,10 +14,6 @@ baseline: Slalom, chasse-neige, tout schuss
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-groupe-amis_weuk4g.jpg
 image01_alt: Ski de piste domaine skiable montagne
 page_sections:
-- template: imgWide
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833488/website/assets/SkiAlpin.png
-  alt_text_for_image: Illustration du ski de piste
-  blockBGcolor: gris
 - template: textarea
   content: Le ski alpin est une discipline qui consiste à descendre les pistes de
     ski. Le ski alpin se pratique dans le domaine skiable et sur les pistes balisées.
@@ -75,6 +71,10 @@ page_sections:
     raide en faisant un virage
   grid_2_alt_text_for_image: Skieur faisant du ski alpin sur une piste avec un sac
     à dos
+- template: imgWide
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833488/website/assets/SkiAlpin.png
+  alt_text_for_image: Illustration du ski de piste
+  blockBGcolor: gris
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
