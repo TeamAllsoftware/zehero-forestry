@@ -35,7 +35,7 @@ sections:
 - type: heading
   label: French hiver
 - type: directory
-  path: content/_fr/pages/racine
+  path: content/_fr/pages/hiver/racine
   label: Homepages
   create: documents
   match: "**/*"
@@ -67,9 +67,13 @@ sections:
   - advice-page
 - type: heading
   label: French été
-- type: document
-  path: content/_fr/pages/ete/index.md
-  label: Page d'accueil
+- type: directory
+  path: content/_fr/pages/hiver/ete
+  label: Homepages
+  create: documents
+  match: "**/*"
+  templates:
+  - generic-page
 - type: document
   path: _data/menu/fr/ete.yml
   label: ETE menu header
