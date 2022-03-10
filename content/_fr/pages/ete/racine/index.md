@@ -10,7 +10,7 @@ season: summer
 topnav_color_text: dark
 page_sections:
 - template: heroImageFull
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646301600/website/summer/toomas-tartes-Yizrl9N_eDA-unsplash_rii358.jpg
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/a_hflip/v1646912715/website/summer/jamie-brown-BCFLDSZ-og8-unsplash.jpg
   gradient: grad
   headline:
     title: L'outdoor<br> dont vous<br> êtes<br> ZE HERO

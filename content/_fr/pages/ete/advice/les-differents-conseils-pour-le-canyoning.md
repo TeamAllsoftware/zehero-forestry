@@ -8,7 +8,7 @@ topnav_color_text: light
 title: Les différents conseils pour le canyoning
 permalink: "/fr/ete/conseils/conseils-canyoning"
 redirect_from:
-  - /fr/ete/conseil/conseils-canyoning
+- "/fr/ete/conseil/conseils-canyoning"
 meta-title: Les conseils pour bien débuter le canyoning
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
 image01_alt: Personne sautant dans l'eau dans un canyoning dans les alpes maritimes
@@ -19,7 +19,7 @@ page_sections:
 - template: textarea
   title: Débuter dans le canyoning
   content: |-
-    Débuter sans le canyoning c'est connaître quelques conseils importants. Le canyoning est un sport de sensation qui permet de vivre une expérience outdoor incroyable dans des lieux sauvages façonnés par la montagne . Pour toutes les personnes désirant se livrer à des sensations fortes, c'est l'activité parfaite. Un sport sensationnel qui permet de vivre un moment de partage en groupe dans des cadres naturels et uniques.
+    Débuter en canyoning c'est connaître quelques conseils importants. Le canyoning est un sport de sensation qui permet de vivre une expérience outdoor incroyable dans des lieux sauvages façonnés par la montagne. Pour toutes les personnes désirant se livrer à des sensations fortes, c'est l'activité parfaite. Un sport sensationnel qui permet de vivre un moment de partage en groupe dans des cadres naturels et uniques.
 
     C'est un sport qui reste physique selon les canyons, mais il demande des connaissances techniques importantes si vous êtes autonome mais aussi du milieu naturel. Il est donc primordial d'avoir quelques bases concernant pour s'aventurer dans les canyons. En effet, c'est activité loisir peut devenir rapidement dangereuse.
 
@@ -40,6 +40,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/IMG_4219_yu6r5e.jpg
   alt_text_for_image: Deux enfants qui sont équipés pour faire du canyoning.
@@ -61,6 +62,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
   alt_text_for_image: Saut d'une personne dans l'eau lors d'un canyoning
@@ -79,6 +81,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
   alt_text_for_image: Personne descendant avec une corde en canyoning
@@ -96,6 +99,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: Partez profiter du canyoning maintenant avec tous les conseils importants.
     Il ne vous reste plus qu'à trouver le lieux où vous désirez faire votre canyoning
