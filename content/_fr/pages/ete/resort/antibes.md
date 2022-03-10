@@ -58,6 +58,12 @@ page_sections:
     profiter des montagnes afin de faire du ski, du snowboard, de la raquette, ainsi
     que de l'alpinisme.
   alt_text_for_image: Vue du Fort carré avec les montagnes enneigées derrière
+- template: listServices
+  service: activity
+  blockBGcolor: gris
+  headtitle:
+    headline: ZE HERO vous propose
+    title: ses activités à Antibes
 baseline: Soleil et Panorama
 engage: 'test test test test test test test test '
 page_title: Antibes, mer et montagne

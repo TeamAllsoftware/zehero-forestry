@@ -13,7 +13,7 @@ introduction:
 title: St Brevin les pins et ses activités pour la saison d'été
 page_title: St Brevin les pins, émotions brutes
 baseline: Océan et nature
-resort_nameid: st brevin les pins
+resort_nameid: stbrevinlespins
 resort_naming: St Brevin les pins
 permalink: "/fr/ete/destinations/st-brevin-les-pins"
 redirect_from:
