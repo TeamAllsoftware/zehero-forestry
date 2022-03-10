@@ -15,7 +15,13 @@ image01_alt: Fatbike électronique posé dans la neige
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
-page_sections: []
+page_sections:
+- template: textarea
+  title: Le Fat bike
+  content: |-
+    Le Fat bike c'est un VTT qui est équipé de gros pneus afin d'adhérer sur tous les terrains et facilement. Cette discipline et pratique venue d'Alaska, ce VTT permet de se déplacer beaucoup plus facile sur des sentiers et terrains accidentés, de pouvoir rouler aisément sur la neige et sur le sable. Ses pneus sont XXL et présentent de gros crampons. Le Fat bike sera tout aussi efficace pour réaliser des petits virages comme des grands virages, d'amortir les chocs et de réaliser des sauts.
+
+    L'assistance électrique va vous permettre de vous faciliter l'effort surtout dans la neige. Grimpez plus facilement les chemins enneigés avant de les descendre à toute vitesse. Progressez dans la neige fraîche, la neige damée, la neige trafollée pour plus de sensation et de découverte.
 published: false
 
 ---
