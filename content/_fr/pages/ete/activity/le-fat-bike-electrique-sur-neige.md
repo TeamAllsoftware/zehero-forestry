@@ -22,6 +22,19 @@ page_sections:
     Le Fat bike c'est un VTT qui est équipé de gros pneus afin d'adhérer sur tous les terrains et facilement. Cette discipline et pratique venue d'Alaska, ce VTT permet de se déplacer beaucoup plus facile sur des sentiers et terrains accidentés, de pouvoir rouler aisément sur la neige et sur le sable. Ses pneus sont XXL et présentent de gros crampons. Le Fat bike sera tout aussi efficace pour réaliser des petits virages comme des grands virages, d'amortir les chocs et de réaliser des sauts.
 
     L'assistance électrique va vous permettre de vous faciliter l'effort surtout dans la neige. Grimpez plus facilement les chemins enneigés avant de les descendre à toute vitesse. Progressez dans la neige fraîche, la neige damée, la neige trafollée pour plus de sensation et de découverte.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914885/website/winter/himiway-bikes-YKlNW7ggdjU-unsplash.jpg
+  alt_text_for_image: Personne roulant en fit bike sur la neige sur une poste damée
+  captiontitleuppercase: Découvrir la montagne l'hiver autrement
+  title: De nouvelle sensation de glisse
+  content: Le Fat Bike c'est une activité outdoor qui vous emmènera découvrir la montagne
+    autrement qu'en ski ou à pied. Partez dévaler les pentes enneigées sous les sapins
+    et découvrez de nouveaux paysages.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
