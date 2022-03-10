@@ -38,7 +38,7 @@ page_sections:
   alt_text_for_image: le partage des sports et activités outdoor en famille et entre amis
   captiontitleuppercase: Outdoor à partager
   title: Pour vivre au mieux ses activités de plein air, la préparation est importante
-  content: La préparation physique est essentielle pour ne pas se blesser et profiter des activités au mieux - [Lire notre fiche conseil sur comment se préparer physiquement](/fr/hiver/conseil/comment-se-pr%C3%A9parer-physiquement-au-ski)
+  content: La préparation physique est essentielle pour ne pas se blesser et profiter des activités au mieux - [Lire notre fiche conseil sur comment se préparer physiquement](/fr/hiver/conseils/comment-se-pr%C3%A9parer-physiquement-au-ski)
   button:
     text_button: Lire cette fiche conseil
     href_button: /fr/hiver/conseil/comment-se-pr%C3%A9parer-physiquement-au-ski
@@ -50,12 +50,12 @@ page_sections:
   captiontitleuppercase: Apprendre le ski, le snowboard ou autre
   title: Découvrir, débuter, progresser ou se perfectionner…
   content: |-
-        Toutes les écoles ne ressemblent pas... certaines sont plus familiales que d’autres - [Lire notre fiche conseil sur comment choisir son école de ski](/fr/hiver/conseil/choisir-ecole-de-ski).
+        Toutes les écoles ne ressemblent pas... certaines sont plus familiales que d’autres - [Lire notre fiche conseil sur comment choisir son école de ski](/fr/hiver/conseils/choisir-ecole-de-ski).
 
-        Plutôt cours privé ou cours collectif ? Les 2 formules ont leurs avantages. Si vous êtes un adulte débutant, le cours privé vous aidera beaucoup - [Tout ce qu’il faut savoir sur les différences entre cours privé et collectif](/fr/hiver/conseil/cours-priv%C3%A9-cours-collectif).
+        Plutôt cours privé ou cours collectif ? Les 2 formules ont leurs avantages. Si vous êtes un adulte débutant, le cours privé vous aidera beaucoup - [Tout ce qu’il faut savoir sur les différences entre cours privé et collectif](/fr/hiver/conseils/cours-priv%C3%A9-cours-collectif).
   button:
     text_button: Réserver des cours de ski
-    href_button: /fr/hiver/conseil/cours-priv%C3%A9-cours-collectif
+    href_button: /fr/hiver/conseils/cours-priv%C3%A9-cours-collectif
     alt_button: 'Lien vers la réservation de cours de ski'
 - template: listServices
   service: advice

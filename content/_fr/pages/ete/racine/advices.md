@@ -39,9 +39,9 @@ page_sections:
   captiontitleuppercase: Matériel de sports pour les beaux jours
   title: De précieux conseils pour vous aider dans vos choix de randonnée, de surf, de trail...
   content: |-
-    Le trail est très technique, il nécessite un équipement poussé afin d’alier légéreté et performance - [Lire notre fiche conseil sur comment bien s’équiper en trail](/fr/ete/conseil/equipement-trail).
+    Le trail est très technique, il nécessite un équipement poussé afin d’alier légéreté et performance - [Lire notre fiche conseil sur comment bien s’équiper en trail](/fr/ete/conseils/equipement-trail).
 
-    Choisir ses chaussures de Trail n’est pas évident avec ce grand choix. Yann, notre spéialiste trail vous dit tout dans cette fiche conseil - [Tout ce qu’il faut savoir sur les chaussures de trail](https://preprod-zehero-202112.netlify.app/fr/ete/conseil/chaussures-trail).
+    Choisir ses chaussures de Trail n’est pas évident avec ce grand choix. Yann, notre spéialiste trail vous dit tout dans cette fiche conseil - [Tout ce qu’il faut savoir sur les chaussures de trail](/fr/ete/conseils/chaussures-trail).
   button:
     text_button: 
     href_button: 
@@ -53,9 +53,9 @@ page_sections:
   captiontitleuppercase: Apprendre, s’améliorer pour prendre plus de plaisir
   title: Découvrir, débuter ou se perfectionner en trail
   content: |-
-    Si vous n’êtes pas un habitué de la course de pied, allez-y de manière très progressive, Yann vous dit tout pour vous lancer dans le trail - [Lire notre fiche conseil sur comment débuter le trail](/fr/ete/conseil/comment-debuter-trail).
+    Si vous n’êtes pas un habitué de la course de pied, allez-y de manière très progressive, Yann vous dit tout pour vous lancer dans le trail - [Lire notre fiche conseil sur comment débuter le trail](/fr/ete/conseils/comment-debuter-trail).
 
-    [Yann](/fr/coachs/yann-alarcon) vous a concocté une préparation minutieuse pour votre 1er trail - [Tout ce qu’il faut savoir sur la préparation d’une course de Trail](/fr/ete/conseil/preparation-course-trail).
+    [Yann](/fr/coachs/yann-alarcon) vous a concocté une préparation minutieuse pour votre 1er trail - [Tout ce qu’il faut savoir sur la préparation d’une course de Trail](/fr/ete/conseils/preparation-course-trail).
   button:
     text_button: 
     href_button: 
