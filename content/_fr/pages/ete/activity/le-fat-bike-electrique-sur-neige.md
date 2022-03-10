@@ -43,6 +43,33 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914823/website/winter/himiway-bikes-LJ2OcgX18Yg-unsplash.jpg
+  alt_text_for_image: Fat bike électrique posé dans la neige debout devant des arbres
+    enneigées
+  captiontitleuppercase: Montez facilement et savourez la descente
+  title: S'équiper en Fat bike
+  content: |-
+    Il faudra être à l'aise pour pouvoir pédaler facilement mais garder tout de même des vêtements chauds surtout si vous pédalez la nuit. Le casque sera obligatoire et les gants sont très fortement conseillés afin de ne pas avoir les doigts gelés. Prenez également avec vous de quoi boire et vous alimenter. Les sessions peuvent aller de 1h30 à 3h.
+
+    L'assistance électrique du Fat bike vous permettra de monter beaucoup plus facilement les chemins surtout si les conditions de neige sont importantes et fraîches. Le Fat bike vous permettra ensuite de vivre des descentes agréables, avec une incroyable accroche et facilité.
+
+    Pour les plus sportifs, vous pourrez également trouver des parcours plus exigeants et techniques avec des passages plus raides, des enchaînements de virages et des sauts.
+
+    Visiter un domaine, se balader en famille ou vivre un moment de sensation forte et expérience sportive, le Fat bike sera idéal.
+
+    Partez rouler la journée sous un beau soleil sur les chemins piétons, les pistes de ski de fond ou même sur les pistes avant que le domaine ouvre. Le fat bike est également proposé la nuit, au clair de lune et à la frontale pour des sessions sur des chemins plus glacés par le froid.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  title: Où pratiquer le Fat Bike
+  content: Beaucoup de stations vont proposées directement la location de Fat Bike,
+    des cours et des sessions de Fat Bike avec des Ecoles de ski ou des indépendant.
+    Vous pouvez en pratiquer à Valmorel, aux saisies, à Valberg, en Chartreuse, le
+    Grand Colombier avec Experience Vélo, la Rosière et bien d'autre station.
 published: false
 
 ---
