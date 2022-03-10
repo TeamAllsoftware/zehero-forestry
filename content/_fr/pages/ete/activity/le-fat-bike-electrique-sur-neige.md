@@ -28,9 +28,17 @@ page_sections:
   alt_text_for_image: Personne roulant en fit bike sur la neige sur une poste damée
   captiontitleuppercase: Découvrir la montagne l'hiver autrement
   title: De nouvelle sensation de glisse
-  content: Le Fat Bike c'est une activité outdoor qui vous emmènera découvrir la montagne
-    autrement qu'en ski ou à pied. Partez dévaler les pentes enneigées sous les sapins
-    et découvrez de nouveaux paysages.
+  content: "Le Fat Bike c'est une activité outdoor qui vous emmènera découvrir la
+    montagne autrement qu'en ski ou à pied. Partez dévaler les pentes enneigées sous
+    les sapins et découvrez de nouveaux paysages. Une activité insolite que les stations
+    de ski mettent en avant aujourd'hui afin de proposer des expériences uniques en
+    journée et parfois également la nuit à la frontale. Que vous soyez un amateur
+    du VTT ou que vous soutiez simplement découvrir le VTT sur neige, vous allez vivre
+    une expérience nouvelles et unique en son genre.\n\n  \nVous allez partir sur
+    différentes randonnées, différents parcours qui vont vous amener à pédaler de
+    1h30 à plusieurs heures en fonction de ce que vous désirez faire et de ce que
+    propose le moniteur. Partez rouler pour un moment de sport, de découverte, de
+    partage et de glisse au sein des forêts, des chemins et des pistes."
   button:
     text_button: ''
     href_button: ''
