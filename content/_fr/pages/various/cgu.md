@@ -132,4 +132,3 @@ page_sections:
   title: ARTICLE 9. Droit applicable et juridiction compétente
 
 ---
-{% include generic_text_page.html %}

@@ -1,0 +1,28 @@
+<!-- start section -->
+<section id="about" class="{% if block.blockBGcolor == 'gris' %} bg-light-gray pt-0 {% endif %}">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-4 pe-lg-0 d-flex md-margin-30px-bottom">
+                {% capture download_note %}{{ block.col1.image_href }}{% endcapture %}
+                <div class="w-100 md-h-700px sm-h-550px xs-h-450px cover-background" 
+                style="background-image:url('{% include image.html file=download_note width='400' height='500' %}');"></div>
+            </div>
+            <div class="col-12 col-lg-4 col-md-6 ps-lg-0 d-flex sm-margin-30px-bottom">
+                <div class="justify-content-center w-100 d-flex flex-column bg-green padding-5-half-rem-lr lg-padding-3-rem-lr md-padding-4-rem-all">
+                    <span class="text-extra-large alt-font font-weight-500 text-white margin-20px-bottom d-block">{{ block.col1.title }}</span>
+                    <p class="text-white opacity-7">{{ block.col1.content }}</p>
+                        
+                </div>
+            </div>
+            <div class="col-12 col-lg-4 col-md-6">
+                {% capture download_note %}{{ block.col2.image_href }}{% endcapture %}
+                <img src="{% include image.html file=download_note sizevar='' width='400' height='300' %}" alt="{{ block.col2.img_alt_text }}" />
+                <div class="bg-white padding-3-half-rem-lr padding-3-rem-tb lg-padding-2-rem-all md-padding-2-half-rem-all sm-padding-4-rem-all last-paragraph-no-margin">
+                    <span class="alt-font text-extra-dark-gray font-weight-500 margin-10px-bottom d-block">{{ block.col2.title }}</span>
+                    <p>{{ block.col2.content }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->
