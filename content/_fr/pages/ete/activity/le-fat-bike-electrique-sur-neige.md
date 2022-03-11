@@ -65,5 +65,6 @@ page_sections:
     des cours et des sessions de Fat Bike avec des Ecoles de ski ou des indépendant.
     Vous pouvez en pratiquer à Valmorel, aux saisies, à Valberg, en Chartreuse, le
     Grand Colombier avec Experience Vélo, la Rosière et bien d'autre station.
+published: false
 
 ---
