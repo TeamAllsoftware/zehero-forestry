@@ -7,7 +7,7 @@ meta-title: Pédalez sur neige avec le Fat Bike Electrique
 meta-description: 'Partir pédaler dans la neige et vivre le plein de sensation avec
   le fat bike électrique '
 title: Le Fat Bike électrique sur neige
-permalink: "/fr/hiver/activite/fatbike-electrique-hiver"
+permalink: "/fr/hiver/activites/fatbike-electrique-hiver"
 baseline: Glisse, découverte et fun
 engage: Découvrez la montagne l'hiver en pédalant sur la neige
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914840/website/winter/himiway-bikes-Ww-VSIhZAD0-unsplash.jpg
@@ -17,17 +17,17 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: ''
 page_sections:
 - template: textarea
-  title: Le Fat bike
   content: |-
     Le Fat bike c'est un VTT qui est équipé de gros pneus afin d'adhérer sur tous les terrains et facilement. Cette discipline et pratique venue d'Alaska, ce VTT permet de se déplacer beaucoup plus facile sur des sentiers et terrains accidentés, de pouvoir rouler aisément sur la neige et sur le sable. Ses pneus sont XXL et présentent de gros crampons. Le Fat bike sera tout aussi efficace pour réaliser des petits virages comme des grands virages, d'amortir les chocs et de réaliser des sauts.
 
     L'assistance électrique va vous permettre de vous faciliter l'effort surtout dans la neige. Grimpez plus facilement les chemins enneigés avant de les descendre à toute vitesse. Progressez dans la neige fraîche, la neige damée, la neige trafollée pour plus de sensation et de découverte.
+  title: Le Fat bike
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914885/website/winter/himiway-bikes-YKlNW7ggdjU-unsplash.jpg
   alt_text_for_image: Personne roulant en fit bike sur la neige sur une poste damée
   captiontitleuppercase: Découvrir la montagne l'hiver autrement
-  title: De nouvelle sensation de glisse
+  title: Une nouvelle sensation de glisse
   content: |-
     Le Fat Bike c'est une activité outdoor qui vous emmènera découvrir la montagne autrement qu'en ski ou à pied. Partez dévaler les pentes enneigées sous les sapins et découvrez de nouveaux paysages. Une activité insolite que les stations de ski mettent en avant aujourd'hui afin de proposer des expériences uniques en journée et parfois également la nuit à la frontale. Que vous soyez un amateur du VTT ou que vous soutiez simplement découvrir le VTT sur neige, vous allez vivre une expérience nouvelles et unique en son genre.
 
@@ -60,11 +60,10 @@ page_sections:
     href_button: ''
     alt_button: ''
 - template: textarea
-  title: Où pratiquer le Fat Bike
   content: Beaucoup de stations vont proposées directement la location de Fat Bike,
     des cours et des sessions de Fat Bike avec des Ecoles de ski ou des indépendant.
     Vous pouvez en pratiquer à Valmorel, aux saisies, à Valberg, en Chartreuse, le
     Grand Colombier avec Experience Vélo, la Rosière et bien d'autre station.
-published: false
+  title: Où pratiquer le Fat Bike
 
 ---
