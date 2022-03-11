@@ -15,8 +15,8 @@
             {% assign serviceType = block.service %}
             {% assign servicePath = season_language | prepend:'/' | append: '/' | append: serviceType | append: '/' %}
             {% for service in collection %}
-            {% if service.path contains servicePath" %}
-
+            {% if service.path contains servicePath %}
+                
             <!-- start services item -->
             <div class="col interactive-banners-style-11 text-center lg-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn margin-30px-bottom" data-wow-delay="0.2s">
                 <div class="interactive-banners-box">
@@ -34,6 +34,7 @@
                 </div>
             </div>
             <!-- end services item -->
+                
             {% endif %}
             {% endfor %}
         </div>
