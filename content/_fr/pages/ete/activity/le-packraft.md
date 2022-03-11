@@ -40,14 +40,38 @@ page_sections:
     alt_button: ''
 - template: textarea
   title: Rando-pack, Bikeraft
+  content: "Vous décidez de descendre l'Ardeche mais aimez autant le kayak et le VTT
+    ? Avec le packraft, vous pouvez alors mixer ces deux activités. Partez alors rouler
+    sur les sentiers de VTT, rouler et longer la rivière. Vous pourrez ensuite partir,
+    en transportant votre VTT sur le packraft, sur la rivière et la descendre quelques
+    dizaines de kilomètres plus bas pour repartir en VTT ensuite.\n\nCela est identique
+    pour la randonnée, vous pouvez mixer la marche, la course avec la descente sur
+    votre packraft. Vous pourrez traverser un lac et continuer ensuite votre trek
+    ou descendre des rapides en rivières pour plus de sensation.\n\nQue ce soit pour
+    traverser un lac, descendre une rivière, longer la côte et le littoral sur mer
+    ou plonger dans des canyons, vous vivrez des expériences uniques avec le packraft.\n\nCertes
+    le matériel est alors un peu plus conséquent et vous porterez quelques kilos en
+    plus sur votre dos, mais l'aventure vous récompensera par les émotions vécues.\n\nPartez
+    alors randonner dans des lieux où vous croiserez peu de monde et découvrirez des
+    endroits cachés et inaccessibles. "
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646983759/website/summer/paxson-woelber-WKncmqLX8OY-unsplash.jpg
+  alt_text_for_image: Tentes et packraft posés sur le sol dehors
   content: |-
-    Vous décidez de descendre l'Ardeche mais aimez autant le kayak et le VTT ? Avec le packraft, vous pouvez alors mixer ces deux activités. Partez alors rouler sur les sentiers de VTT, rouler et longer la rivière. Vous pourrez ensuite partir, en transportant votre VTT sur le packraft, sur la rivière et la descendre quelques dizaines de kilomètres plus bas pour repartir en VTT ensuite.
+    Nous allons trouver de nombreux lieux où faire packraft. Tout d'abord vous pourrez en faire sur la mer facilement en longeant le littoral. Par exemple, vous traversez le massif de l'Esterel à pied ou VTT en partant de Théoule-sur-mer et arrivant à Anthéor. Puis vous revenez en longeant la côte, de quoi profiter d'un milieu naturel exceptionnel.
 
-    Cela est identique pour la randonnée, vous pouvez mixer la marche, la course avec la descente sur votre packraft. Vous pourrez traverser un lac et continuer ensuite votre trek ou descendre des rapides en rivières pour plus de sensation.
+    En rivière, vous allez trouver les gorges du Verdon, les gorges du Tarn, les gorges de l'Ardeche. Il y a bien d'autres rivières où vous pourrez également en pratiquer. Il faudra se renseigner sur les conditions de navigation et savoir également les différentes classes des rapides pour votre sécurité.
 
-    Que ce soit pour traverser un lac, descendre une rivière, longer la côte et le littoral sur mer ou plonger dans des canyons, vous vivrez des expériences uniques avec le packraft.
+    En lac, vous pourrez en pratiquer partout sur les différents lacs. Que ce soit pour les longer, les traverser, vous pourrez naviguer facilement.
 
-    Certes le matériel est alors un peu plus conséquent et vous porterez quelques kilos en plus sur votre dos, mais l'aventure vous récompensera par les émotions vécues.
+    L'environnement s'offre à vous et les possibilités d'expédition et d'aventure s'élargissent.
+  captiontitleuppercase: Partez explorer la nature
+  title: Où faire du packraft ?
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
