@@ -72,6 +72,19 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  title: La sécurité
+  content: |-
+    Il y a quelques points important de sécurité à ne pas négliger avant de partir faire du packraft.
+
+    Tout d'abord, il est important de porter un casque et un gilet de sauvetage surtout si vous être en rivière. Il faut également des vêtements adaptés à la pratique surtout si l'eau est fraîche.
+
+    Il faut se renseigner sur les conditions de l'eau, le parcours, les classes des rapides, la météo et toutes les informations importantes liées à l'environnement.
+
+    En fonction de votre choix d'activité, il est important de tracer un itinéraire et de savoir également, une fois sur l'eau, où vous en êtes. Ne prenez pas de risque en partant sur des rapides trop difficiles et dangereux.
+
+    Essayer le packraft d'abord sur des lacs ou des eaux calmes afin de comprendre correctement comment vous mettre, comment bien pagayer et vous tenir dessus.
+
+    Vivez votre 1er expérience de packraft avec Ze Hero pour un moment riche en émotion et de découverte. Partez vivre une micro-aventure toute nouvelle pour des moments uniques.
 
 ---
