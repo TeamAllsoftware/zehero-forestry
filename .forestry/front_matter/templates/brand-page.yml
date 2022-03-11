@@ -148,6 +148,17 @@ fields:
   - imagegallery02
   - numberinfo
   - cta
+  - imgWide
+  - ZEHEROintro
+  - 4col2imgTxtImg
+  - ctaShop4col
+  - 4col2imgTxtImg
+  - 2col2tiers1tiers
+  - ctaShop4col
+  - 2colTitreTxt
+  - newsletter
+  - video2colImgTxt
+  - separatorLine
   config:
     min: 
     max: 
