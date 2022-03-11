@@ -21,7 +21,14 @@ image01_alt: Surfeur sur les plages entre Messanges et Seignosse
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre cours de surf à Messanges
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-page_sections: []
+page_sections:
+- template: textarea
+  title: Messanges
+  content: "Messanges est petit village situé dans les Landes qui offre une nature
+    sauvage et belle. Entre ses kilomètres de plages, ses forêts et l'étang de Moisans
+    de Soustons plus loin, vous découvrirez des paysages uniques.  \nUn petit village
+    au patrimoine d'exception où la nature est préservé. Entre séjour sportif ou séjour
+    de détente."
 published: false
 
 ---
