@@ -6,10 +6,11 @@ topnav_color_text: dark
 title: Surf
 permalink: "/fr/ete/activites/surf"
 redirect_from:
-  - /fr/ete/activite/surf
-meta-title: Le surf des mers se pratique de la Bretagne au Pays Basque en passant par les Landes
-meta-description: Le surf est une activité d'eau qui permet de glisser sur les vagues et
-  de vivre des sensations uniques.
+- "/fr/surf-loire-atlantique/"
+- "/fr/surf-biarritz/"
+meta-title: Le surf des mers se pratique de la Bretagne au Pays Basque
+meta-description: Le surf est une activité d'eau qui permet de glisser sur les vagues
+  et de vivre des sensations uniques.
 baseline: Take-off, glisse et ride
 engage: De la mousse à la vague, apprenez à glisser en surf
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642661307/website/summer/joseph-greve-TII6axq3eo4-unsplash_ulp3bo.jpg
@@ -45,6 +46,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Plusieurs surfeurs surfant une vague
+  blockBGcolor: ''
 - template: textarea
   content: "Vous pourrez alors faire des cours collectifs ou des cours privés. Les
     cours collectifs seront moins chers, mais le moniteur ne sera pas 100% dédiée
@@ -103,9 +105,6 @@ page_sections:
     text_button: Réserver maintenant >
   intro: Réservez dès maintenant vos activités surf
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
-redirect_from:
-- "/fr/surf-loire-atlantique/"
-- "/fr/surf-biarritz/"
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
