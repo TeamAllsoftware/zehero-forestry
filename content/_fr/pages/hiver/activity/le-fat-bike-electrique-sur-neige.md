@@ -65,6 +65,5 @@ page_sections:
     Vous pouvez en pratiquer à Valmorel, aux saisies, à Valberg, en Chartreuse, le
     Grand Colombier avec Experience Vélo, la Rosière et bien d'autre station.
   title: Où pratiquer le Fat Bike
-published: false
 
 ---
