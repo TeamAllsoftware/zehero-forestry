@@ -6,8 +6,8 @@ meta-description: Découvrez toutes les activités Outdoor à Messanges. Un peti
   nature entre océan, forêts et étang.
 topnav_color_text: light
 introduction:
-  you_arrive: Vous arrivez et souhaitez louer du matériel dans cette station.
-  zehero_advice: ZE HERO vous conseille pour  les activités et la location des équipements
+  you_arrive: Trouvez votre activité et vos cours de surf à Messanges.
+  zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Messanges et ses activités outdoor pour la saison d'été
 page_title: Messanges, forêts, plages et étangs
