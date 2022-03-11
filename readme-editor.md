@@ -19,6 +19,17 @@ Once you have been introduce to our system, you might want to use the block comp
 
 ## LASTEST UPDATES
 
+#### update 11.03.2022 : Add new components
+
+* video2colImgTxt
+* heroImageFull
+* blogPostList
+* 4col2imgTxtImg
+* 2colTitreTxt
+* ZEHEROintro
+* 2colimgtxt
+* 2col2tiers1tiers
+
 #### update 7.03.2022 : New fields BUTTON ZE-HERO
 
 New option to add personnalize the always on page "Réserver" green button. This link will supercharge the generic link
@@ -70,6 +81,10 @@ block name: **2-col-img-txt**
 
 ![](https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,w_800/v1639669858/website/admin%20forestry/2-col-img-txt_gvhzo2.png)
 
+block name: **2-col-txt-img**
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1647006061/website/admin%20forestry/2colimgtxt.png)
+
 block name: **txt-paragraph**
 
 ![](https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,w_800/v1639669858/website/admin%20forestry/txt-paragraph_c9oxb2.png)
@@ -86,6 +101,10 @@ block name: **3-col-txt-img-txt**
 
 ![](https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,w_800/v1639669859/website/admin%20forestry/3-col-txt-img-txt_thmzmt.png)
 
+block name: **2col2tiers1tiers**
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1647006062/website/admin%20forestry/2col2tiers1tiers.png)
+
 block name: **image-gallery-style-02**
 
 ![](https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,w_800/v1639669861/website/admin%20forestry/image-gallery-style-02_vqcfpv.png)
@@ -101,5 +120,39 @@ block name: **counter + headline + content**
 block name: **cta** (= Call To Action) means, un block to add a button
 
 ![](https://res.cloudinary.com/deddrj0yb/image/upload/v1642758086/website/admin%20forestry/cta-block_xk4oqk.png)
+
+block name: **imageHeroFull**
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1647005695/website/admin%20forestry/heroImageFull.png)
+
+block name: **4col2imgTxtImg**
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1647005692/website/admin%20forestry/4col2imgTxtImg.png)
+
+block name: **video2colImgTxt**
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1647005692/website/admin%20forestry/video2colImgTxt.png)
+
+block name: **blogPostList**
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1647005692/website/admin%20forestry/blogPostList.png)
+
+block name: **newsletter**
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1647005691/website/admin%20forestry/newsletter.png)
+
+block name: **ZEHEROintro**
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1647005692/website/admin%20forestry/ZEHEROintro.png)
+
+block name: **2colTitreTxt**
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1647005691/website/admin%20forestry/2colTitreTxt.png)
+
+block name: **heroBreadcrumb**
+
+to use right under the the menu bar. To use with "various page template"
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1647006482/website/admin%20forestry/heroBreadcrumb.png)
 
 This is it for now
