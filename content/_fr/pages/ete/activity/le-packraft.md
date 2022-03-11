@@ -56,8 +56,8 @@ page_sections:
     endroits cachés et inaccessibles. "
 - template: 2coltxtimg
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646983759/website/summer/paxson-woelber-WKncmqLX8OY-unsplash.jpg
-  alt_text_for_image: Tentes et packraft posés sur le sol dehors
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646983748/website/summer/paxson-woelber-4RD_ixJIJUI-unsplash.jpg
+  alt_text_for_image: Personne faisant du packraft sur un lac
   content: |-
     Nous allons trouver de nombreux lieux où faire packraft. Tout d'abord vous pourrez en faire sur la mer facilement en longeant le littoral. Par exemple, vous traversez le massif de l'Esterel à pied ou VTT en partant de Théoule-sur-mer et arrivant à Anthéor. Puis vous revenez en longeant la côte, de quoi profiter d'un milieu naturel exceptionnel.
 
