@@ -60,11 +60,20 @@ page_sections:
     href_button: ''
     alt_button: ''
 - template: textarea
-  content: |-
-    Beaucoup de stations vont proposées directement la location de Fat Bike, des cours et des sessions de Fat Bike avec des Ecoles de ski ou des indépendant. Vous pouvez en pratiquer à Valmorel, aux saisies, à Valberg, en Chartreuse, le Grand Colombier avec Experience Vélo, la Rosière et bien d'autre station.
-
-    La station du Grand Revard avec Expérience Vélo propose de nombreuses activité de Fat bike qui vous feront découvrir les joies de la glisse sur la neige. Vous découvrirez les paysages sauvages, les villages traditionnelles savoyards. Vous pourrez également rouler au coucher de soleil et vivre un moment unique dans le petit Canada Savoyard.
+  content: "Beaucoup de stations vont proposées directement la location de Fat Bike,
+    des cours et des sessions de Fat Bike avec des Ecoles de ski ou des indépendant.
+    Vous pouvez en pratiquer à Valmorel, aux saisies, à Valberg, en Chartreuse, le
+    Grand Colombier avec Experience Vélo, la Rosière et bien d'autre station.\n\nLa
+    station du Grand Revard avec Expérience Vélo propose de nombreuses activité de
+    Fat bike qui vous feront découvrir les joies de la glisse sur la neige. Vous découvrirez
+    les paysages sauvages, les villages traditionnelles savoyards. Vous pourrez également
+    rouler au coucher de soleil et vivre un moment unique dans le petit Canada Savoyard
+    dans une ambiance glaciale.  \nLe Grand Revard est idéal pour la pratique du Fat
+    Bike avec ses grand plateaux, des montées plutôt douce et des descentes qui vous
+    permettront également de vous initier à la vitesse. Dans un décors vêtu de blanc,
+    vous aurez face à vous le massif de Belledonne.\n\nLe Fat Bike va permettra de
+    vivre une expérience riche en émotion et en partage. Avec Ze Hero, trouvez votre
+    activité et partez rouler sur la neige en Fat bike."
   title: Où pratiquer le Fat Bike
-published: false
 
 ---
