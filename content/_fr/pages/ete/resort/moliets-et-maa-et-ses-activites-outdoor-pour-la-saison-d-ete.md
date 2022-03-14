@@ -28,6 +28,28 @@ page_sections:
     Moliets et Maâ est un petit village typique landais situé tout prêt de l'océan. Un petit coin naturel qui bénéficie d'une nature idéal pour séjourner et profiter de la côte Atlantique. Sa réserve naturelle du courant d'Huchet lui donne le nom de l'Amazonie landaise. Découvrez alors une faune et une flore d'exception au sein de cet environnement préservé.
 
     Entre l'océan et ses longues plages de sable, ses forêts de pin de maritimes et ses étangs, la nature saura vous émerveiller à Moliet et Maâ.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647249570/website/resorts/Moliets/tim-hufner-LFC4iSvhHNQ-unsplash_1.jpg
+  alt_text_for_image: Coucher de soleil sur l'océan à Moliet et Maâ
+  captiontitleuppercase: Surfez et glissez sur les vagues
+  title: Le surf à Moliet et Maâ
+  content: |-
+    Le surf à Moliet et Maâ est parfait pour apprendre et progresser. On y retrouve un peu moins de monde que sur les spots les plus connus comme Hossegor, Cabreton... Les surfeurs confirmés pourront tout autant surfer des vagues parfaites.
+
+    Surfez à Moliets et Maâ, c'est profiter d'écoles de surf et de location de surf qui se trouvent à proximité de la plage. C'est apprendre et s'initier dans un cadre idéal, à surfer, à réaliser ses 1er take-off. C'est profiter d'un moment de partage dans des cours collectifs ou des moments d'apprentissage plus important lors des cours privés de surf à Moliets et Maâ.
+
+    Prenez des cours afin de débuter et de progresser ensuite mais également pour vous perfectionner dans le surf et réaliser de nouvelles figures, de nouvelles sensations sur les vagues.
+
+    Vous trouverez environ 4 écoles de surf et plusieurs magasins de location de surf et de combinaison à Moliets et Maâ.
+
+    Vous pourrez également vous essayer au body-board pour une glisse encore plus près de la vague. Mais également le Stand Up Paddle, pour une glisse différente sur les vagues ou simplement pour réaliser des balades et des randonnées.
+
+    Profitez de ces différentes activités outdoor à la plage centrale et la plage chêne et lièges à Moliets.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
