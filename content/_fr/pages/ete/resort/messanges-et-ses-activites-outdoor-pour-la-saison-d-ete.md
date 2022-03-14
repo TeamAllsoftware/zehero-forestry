@@ -46,6 +46,22 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647013824/website/resorts/Messanges/lopez-robin-1ofXCrIlj1Y-unsplash.jpg
+  alt_text_for_image: Forêt à Messanges de pins et de fougères
+  captiontitleuppercase: Baladez vous dans les forêts de pins
+  title: Messanges et ses activités
+  content: |-
+    Partez vous balader dans cette forêt unique, peuplée de pins maritimes, de chêne et de fougère. Vous pourrez parcourir de nombreux chemins en courant, en randonnant mais également à vélo. Il y a de nombreux magasins de location de vélo et de VTT à Messanges. Vous pourrez explorer et partir à la journée rouler et découvrir ce paysage.
+
+    Vous pourrez également, prendre le temps de méditer et de vivre un moment de plénitude en pratiquant le Yoga. Dans une nature pareille qu'à Messanges, vous bénéficierez d'un moment privilégié pour pratiquer le Yoga, guidé par une experte.
+
+    Les étangs de Messanges sont accessibles en Paddle afin de faire une randonnée sur eau en découvrant des petits coins sauvages. Certaines écoles de surf de Messanges proposent même la pirogue Hawaiienne, pour une expérience unique sur les étangs à Messanges.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
