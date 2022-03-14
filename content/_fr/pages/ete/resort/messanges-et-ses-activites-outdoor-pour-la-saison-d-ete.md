@@ -62,6 +62,12 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  title: Messanges, votre séjour plaisir
+  content: Partez séjourner à Messanges pour un séjour plaisir avec ces différentes
+    activités outdoor. Ce petit village des Landes vous permettra de découvrir son
+    océan et ses kilomètres de plages, sa nature sauvage et verte. Apprenez le surf
+    et glissez sur les vagues, rouler en VTT sur les chemins en forêts, méditez et
+    pratiquez le Yoga devant un magnifique coucher de soleil à Messanges.
 
 ---
