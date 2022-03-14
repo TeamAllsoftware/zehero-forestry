@@ -21,7 +21,16 @@ image01_alt: Deux skateurs ridant dans un skatepark dans les Landes à Seignosse
 button_to_link_to_ze_hero_shop:
   button_text: Réserver votre activité à Seignosse
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
-page_sections: []
+page_sections:
+- template: textarea
+  title: Seignosse
+  content: "Seignosse, c'est un petit paradis landais. Un lieux 100% nature qui offre
+    des lieux naturels d'exception. Un séjour à Seignosse, c'est retrouver un maximum
+    d'énergie, se vivifier dehors en pratiquant le surf, en se baladant en forêt à
+    vélo ou à pied. C'est également de détendre dans un milieu où la nature est préservé,
+    où les odeurs et les bruits nous bercent.  \nSeignosse, c'est le lieux idéal pour
+    le surf et pour le skateboard. Une petite ville maritime où la culture de la glisse
+    y est forte. La nature y est respecté et on s'y sent bien."
 published: false
 
 ---
