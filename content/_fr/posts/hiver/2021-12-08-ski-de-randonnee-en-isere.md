@@ -4,8 +4,8 @@ language: fr
 season: winter
 author: geoffreyarduini
 title: 2021-12-08-ski-de-randonnee-en-isere
-post-title: Ski de randonnée en Isère
-meta-title: Ski de randonnée en Isère
+post-title: Pratiquer le ski de randonnée en Isère
+meta-title: Pratiquer le ski de randonnée en Isère
 meta-description: Comme dans toute région montagneuse, il est possible d’effectuer un bon nombre d’activités physiques outdoor en Isère et plus particulièrement en station de ski.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Ski-randonne-ascension_g8hj01.jpg
 image01_alt: Ascension d'un col à ski de randonnée

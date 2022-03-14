@@ -26,8 +26,8 @@
                             </div>
                             <div class="post-details">
                                 <a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}" class=" text-{{ site.data.config.site-color2 }} text-{{ site.data.config.site-color2 }}-hover d-block margin-10px-bottom xs-margin-5px-bottom text-small">{{ blogpost.date | frenchDate }}</a>
-                                <a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}" class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray text-{{ site.data.config.site-color2 }}-hover d-block margin-20px-bottom xs-margin-10px-bottom">{{ blogpost.post-title }}</a>
-                                <p class="w-95">{{ blogpost.meta-description | truncate: 100 }}</p>
+                                <div class=" h-100px"><a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}" class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray text-{{ site.data.config.site-color2 }}-hover d-block margin-20px-bottom xs-margin-10px-bottom">{{ blogpost.post-title }}</a></div>
+                                <div class=" h-130px"><p class="w-95">{{ blogpost.meta-description | truncate: 100 }}</p></div>
                             </div>
                         </div>
                     </li>
