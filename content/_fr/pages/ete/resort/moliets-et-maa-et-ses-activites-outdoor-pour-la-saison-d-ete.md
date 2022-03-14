@@ -50,6 +50,29 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647249608/website/resorts/Moliets/tim-hufner-xK6_3qx0tDg-unsplash_1.jpg
+  alt_text_for_image: Coucher de soleil sur les forêts de pins à Moleits et maâ
+  captiontitleuppercase: Profitez de la nature
+  title: Les activités à Moliets et Maâ
+  content: |-
+    En plus du surf, vous trouverez différentes activités outdoor à Moliet et Maâ. Tout d'abord, ce village landais est connu également pour son golf. Vous trouverez un 18 trous avec vue sur l'océan et les forêts de pins.
+
+    Vous pourrez vous évader en louant un vélo de route et partir sur les pistes cyclables ou alors un VTT et explorer les forêts et les réserves naturelles de Moliets et Maâ.
+
+    Partez randonner à pied ou en courant, naviguer sur les étangs et la rivière en Paddle.
+
+    Un village festif ou vous retrouverez beaucoup d'animation et d'évènement afin de profiter pleinement de votre séjour.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  title: Un séjour qui vous fera du bien
+  content: |-
+    Séjourner à Moliets et Maâ, c'est profiter d'un séjour qui vous fera du bien. Dans un cadre idyllique, une nature d'exception, vous profiterez pleinement du calme, du bruit de l'océan et de l'odeur de spins maritimes.
+
+    Partez surfer le matin puis louer un VTT et rouler dans les parcs naturels à travers les fougères à Moliets et Maâ.
 
 ---
