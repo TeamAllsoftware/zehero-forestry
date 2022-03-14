@@ -21,7 +21,13 @@ image01_alt: Surfeur dans les landes à Moliets et Maâ surfant sur une vague
 button_to_link_to_ze_hero_shop:
   button_text: Réserver votre activité à Moliets et Maâ
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
-page_sections: []
+page_sections:
+- template: textarea
+  title: Moliets et Maâ
+  content: |-
+    Moliets et Maâ est un petit village typique landais situé tout prêt de l'océan. Un petit coin naturel qui bénéficie d'une nature idéal pour séjourner et profiter de la côte Atlantique. Sa réserve naturelle du courant d'Huchet lui donne le nom de l'Amazonie landaise. Découvrez alors une faune et une flore d'exception au sein de cet environnement préservé.
+
+    Entre l'océan et ses longues plages de sable, ses forêts de pin de maritimes et ses étangs, la nature saura vous émerveiller à Moliet et Maâ.
 published: false
 
 ---
