@@ -51,20 +51,17 @@ page_sections:
     alt_button: ''
   blockBGcolor: ''
 - template: textarea
-  content: "On va retrouver alors différents types de Yoga pour différentes pratiques
-    et selon les personnes.\n\n* Hatha Yoga qui est le Yoga classique où l'on va chercher
-    des postures d'étirements en se relaxant par la respiration et la méditation.\n*
-    L’Ashtanga Yoga qui consiste à enchainer 8 postures qui seront plus complexes.
-    Vous enchainerez des positions dynamique et calme. C'est une pratique qui demande
-    de la patiente et qui est exigeante.\n* Vinyasa Yoga est la pratique de la maitrise
-    de la respiration. Vous enchainerez des postures dynamiques en les coordonnant
-    avec la respiration. Une pratique plus athlétique.\n* Kindalini Yoga est le yoga
-    originel. Cette pratique est plus spéritutel car elles y introduit des cérémonies,
-    des chants.\n* Power Yoga est une pratique du Yoga plus moderne. Toutes les postures
-    vont s'enchainer rapidement et vont demander une certaines aisance. \n* Iyengar
-    Yoga est une pratique qui sera plus thérapeutique afin d'atténuer des douleurs
-    et soulager des maux.\n\nIl en existe encore d'autre, mais voici une première
-    approche des différentes pratique de Yoga."
+  content: |-
+    On va retrouver alors différents types de Yoga pour différentes pratiques et variant selon les personnes.
+
+    * Hatha Yoga qui est le Yoga classique où l'on va chercher des postures d'étirements en se relaxant par la respiration et la méditation.
+    * L’Ashtanga Yoga qui consiste à enchainer 8 postures qui seront plus complexes. Vous enchainerez des positions dynamiques et calmes. C'est une pratique qui demande de la patience et qui est exigeante.
+    * Vinyasa Yoga est la pratique de la maitrise de la respiration. Vous enchainerez des postures dynamiques en les coordonnant avec la respiration. Une pratique plus athlétique.
+    * Kindalini Yoga est le yoga originel. Cette pratique est plus spirituelle car elle y introduit des cérémonies, des chants.
+    * Power Yoga est une pratique du Yoga plus moderne. Toutes les postures vont s'enchainer rapidement et vont demander une certaines aisance.
+    * Iyengar Yoga est une pratique qui sera plus thérapeutique afin d'atténuer des douleurs et soulager des maux.
+
+    Il en existe encore d'autre, mais voici une première approche des différentes pratiques de Yoga.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643877189/website/summer/damir-spanic-JFl-QLawHX4-unsplash_io99av.jpg
