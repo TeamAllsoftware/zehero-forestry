@@ -82,7 +82,7 @@ page_sections:
   content: 'Partez grimper le fameux Col de la Madelaine, l’un des cols connus du
     tour de France, frontière entre la Tarentaise et la Maurienne. Après un départ
     de Moutiers, vous rejoindrez ce col et déjeunerez directement sur place. Vous
-    repartirez sur Moutiers, avant de remontez sur Méribel. Une journée difficile
+    repartirez sur Moutiers, avant de remonter sur Méribel. Une journée difficile
     avec 99kms / Dénivelé: 3100m D+'
   button:
     text_button: ''
