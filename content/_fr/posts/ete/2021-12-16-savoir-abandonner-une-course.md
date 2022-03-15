@@ -85,11 +85,11 @@ page_sections:
   content: |-
     Qu’est-ce que je fais ? Est-ce que je vais revenir après la montée ? Est-ce que les douleurs, les crampes vont partir ? Est-ce que je finis la course sans penser au classement ? Est-ce que j’accepte de mettre 12h, 13h, 15h au lieu de 10h30 ? Doucement je sens mon mental vaciller et la course commence doucement à m’échapper. Le plaisir disparaît totalement et c’est uniquement la lutte à chaque pas.
 
-    Après avoir eu ma chérie au téléphone afin de parler de ce moment ce doute et de questionnement, après qu’elle essaye de me pousser à aller plus loin, à tenir tout en me réconfortant, la course se dessine vers une fin moins glorieuse.
+    Après avoir eu ma chérie au téléphone afin de parler de ce moment de doute et de questionnement, après qu’elle essaye de me pousser à aller plus loin, à tenir tout en me réconfortant, la course se dessine vers une fin moins glorieuse.
 
     Vu mon état de cuisse, ma fatigue et ma difficulté à courir je sais qu’après le ravitaillement, il me reste 40km. Sur les 20 derniers kilomètres, il faut courir car c’est la partie la plus roulante. Si je continue je vais mettre 15h, je vais arriver de nuit. Dans quel état je serais ? Combien de temps après je vais mettre pour récupérer ? Est-ce que je vais prendre du plaisir à finir la course même si je zappe de ma tête la notion de performance et de résultat ?
 
-    Je me suis vite dit que “Non” et que la meilleure chose à faire était de redonner mon dossard.
+    Je me suis vite dit que “Non” et que la meilleure chose à faire était de rendre mon dossard.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639651639/website/blog/Mad%C3%A8re/IMG20211120162237_d2yqv9.jpg
   title: Ce n'est jamais facile de prendre la décision d'abandonner
