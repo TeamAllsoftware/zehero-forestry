@@ -178,7 +178,7 @@ page_sections:
 
     Le ski de randonnée demande une bonne condition physique à la montée et une technique plutôt aguerrie pour la descente. Il nécessite aussi une bonne connaissance du terrain, de la météo en montagne pour y gérer les risques associés.
 
-    Cependant, tout type de sortie reste possible: à savoir, des sorties tranquilles avec peu de dénivelé positif pour les moins initié et d’autres plus engagé pour les personnes plus aguerries en la matière.
+    Cependant, tout type de sortie reste possible: à savoir, des sorties tranquilles avec peu de dénivelé positif pour les moins initiés et d’autres plus engagées pour les personnes plus aguerries en la matière.
 
     De plus, le rythme est souvent donné par le guide qui adapte la vitesse au niveau de groupe. Le but étant de pouvoir admirer le paysage en se sentant le mieux possible, avec une notion d’effort tout de même.
 - template: textarea
