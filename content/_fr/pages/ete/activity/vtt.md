@@ -72,14 +72,14 @@ page_sections:
   title: Evasion et plaisir
   gridline1title: Le VTT comme moment de partage
   gridline1content: Selon vos désirs, vous pouvez faire de la randonnée plaisir ou
-    plus technique. Vous pourrez également partir à la journée afin de faire une vrai
+    plus technique. Vous pourrez également partir à la journée afin de faire une vraie
     visite des lieux et profiter des descentes. Si vous le souhaitez, vous pouvez
     également faire uniquement de la descente pour des sensations fortes.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592263/website/summer/pexels-eberhard-grossgasteiger-5274203_pvfoq7.jpg
   gridline2title: En famille, entre amis
   gridline2content: Le VTT est aussi une activité que se partage et vous pouvez partir
     en groupe même si les niveaux peuvent parfois être différents. Equipez vous pour,
-    en mettant également les différentes protections dont le casque et partez rouler.
+    en mettant également les différentes protections (dont le casque) et partez rouler.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638824911/website/summer/tom-conway-dU2HDmE_tgw-unsplash_pqlalr.jpg
   prlax_alt_text_for_image: Deux VTT posés sur une rembarde en bois avec les montagnes
     derrière
