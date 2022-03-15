@@ -29,13 +29,14 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641985183/website/blog/Hiver/esteban-gerard-hK19iivVGJc-unsplash_x2ewzu.jpg
   captiontitleuppercase: Les meilleurs snowparks
   title: Tout d'abord, voyons où se trouvent les meilleurs snowpark en France
-  content: 'Avoriaz : C''est une station incroyable pour le freestyle, elle dispose
-    de 4 parks différents. De quoi trouver le bonheur pour tout le monde, pour tous
-    les niveaux. On y retrouve tout d''abord le Snowpark d''Arare avec des modules
-    experts, ensuite le snowpark de la chapelle avec des modules plutôt confirmés
-    et ensuite vous avez les zones Stach et LilStach pour les débutants. Avoriaz est
-    une station de freestyleurs et surtout en snowboard. De vrais passionnés vont
-    s''occuper des parks afin que vous puissiez profiter de lignes parfaites.'
+  content: 'Avoriaz : c''est une station incroyable pour le freestyle, elle dispose
+    de 4 parks différents. De quoi trouver son bonheur, peu importe son niveau et
+    sa condition physique. Dans un premier temps, on retrouve le Snowpark d''Arare
+    avec des modules experts. Ensuite, le snowpark de la chapelle permettra aux confirmés
+    de s''éclater grâce à des modules plus avancés. Finalement, vous retrouverez les
+    zones Stach et LilStach pour les débutants. Avoriaz est une station de freestyleurs
+    et ce, particulièrement en snowboard. De vrais passionnés s''occupent des parks
+    afin que vous puissiez profiter de lignes parfaites.'
   alt_text_for_image: Snowboardeur faisant une figure sur une barre de slide
 - template: textarea
   content: |-
