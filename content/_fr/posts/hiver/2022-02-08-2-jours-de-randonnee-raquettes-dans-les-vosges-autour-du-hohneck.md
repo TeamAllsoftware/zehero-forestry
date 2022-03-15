@@ -153,8 +153,8 @@ page_sections:
   atl_text_image_04: Le massif des Vosges et son climat comparé à l'Ecosse et à l'Islande
   title: ''
 - template: textarea
-  content: Nous filons à travers la magnifique foret et ses cours d’eau qui offrent
-    un spectacle magnifique de vert est blanc. Le tout a des airs de Norvège ou de
+  content: Nous filons à travers la magnifique forêt et ses cours d’eau qui offrent
+    un spectacle magnifique de vert et blanc. Le tout a des airs de Norvège ou de
     Canada, ou simplement de Vosges. Il suffisait de l’imprimer dans la rétine pour
     que ce paysage devienne une référence vosgienne.
   title: ''
