@@ -53,7 +53,7 @@ page_sections:
     de randonnée ou encore aller surfer les vagues et glisser. Bien sûr en fonction
     des pratiques on retrouvera des planches de paddle de tailles et/ou formes différentes.
     \ \nAujourd'hui vous pouvez réserver des cours, prendre un moniteur pour des expéditions
-    en paddle, des cours de yoga paddle ou simplement aller louer des paddle.\n\nQuoi
+    en paddle, des cours de yoga paddle ou simplement aller louer des paddles.\n\nQuoi
     de mieux que d'être au soleil, à ramer et en profitant de la nature et des panoramas.
     Faite de votre entraînements une pratique ludique, agréable et magnifique à la
     fois."
