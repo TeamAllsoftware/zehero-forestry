@@ -16,7 +16,7 @@ baseline: Traversée des Pré-Alpes
 engage: Traversez les Pré-Alpes en vélo pendant 6 jours
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292454/website/V%C3%A9lo/adrien-delforge-P3fHc5zSy8Q-unsplash_hariws.jpg
 image01_alt: Route du mont ventoux en vélo
-categorie: vélo
+categorie: Vélo
 page_sections:
 - template: textarea
   content: |-
