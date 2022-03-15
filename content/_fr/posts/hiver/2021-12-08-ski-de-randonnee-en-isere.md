@@ -185,7 +185,7 @@ page_sections:
   textarea: Comme vous l'aurez compris, le ski de randonnée est une approche différente
     mais tout aussi appréciable que le ski alpin classique alors n'attendez plus et
     faites vous votre propre expérience.
-  title: Les stations ou vous serez sûr de trouver du ski de randonnée encadré
+  title: Les stations où vous serez sûr de trouver du ski de randonnée encadré
   content: |-
     * [Alpe d’Huez](http://localhost:3000/fr/actualites/2021/12/08/ski-de-randonnee-en-isere/fr/hiver/station/alpe-d-huez "Les locations à l'Alpe d'Huez")
     * Alpe du Grand Serre
