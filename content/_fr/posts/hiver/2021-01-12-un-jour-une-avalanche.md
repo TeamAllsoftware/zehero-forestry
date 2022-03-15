@@ -82,7 +82,7 @@ page_sections:
   content: |-
     J'ai su plus tard, que mon père avait pris sur lui et il avait eu un contrecoup de cette expérience avec moi. Il a su se gérer et continuer consciemment et prudemment cette fin de montée. Il le faisait pour moi comme pour lui, afin de surpasser la peur que l'on venait de vivre.
 
-    Aujourd'hui, cette expérience a laissé une trace dans ma pratique du ski. Je fais beaucoup plus attention, je lis attentivement les Topos, je me renseigne vraiment sur les conditions de neige, sur le BRA ainsi que sur les règles à avoir en ski de randonnée. Le fait que j'ai été loin de mon père et d'avoir laissé de l'espace nous a permis de ne pas se retrouver dans une situation critique. Malgré, que les pisteurs nous aient assuré que le risque était faible, il a été présent. Il faut alors redoubler de vigilance.
+    Aujourd'hui, cette expérience a laissé une trace dans ma pratique du ski. Je fais beaucoup plus attention, je lis attentivement les Topos, je me renseigne vraiment sur les conditions de neige, sur le BRA ainsi que sur les règles à suivre en ski de randonnée. Le fait que j'ai été loin de mon père et d'avoir laissé de l'espace nous a permis de ne pas se retrouver dans une situation critique. Malgré le faible danger assuré par les pisteurs, cette fois-ci il était bel et bien présent. Il faut alors redoubler de vigilance.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_114107_nkqabg.jpg
