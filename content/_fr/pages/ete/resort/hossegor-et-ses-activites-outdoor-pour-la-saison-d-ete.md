@@ -37,17 +37,42 @@ page_sections:
   alt_text_for_image: Un surfeur dans l'eau face aux vagues à Hossegor
   captiontitleuppercase: 'La capital du surf : Hossegor'
   title: Le surf, activité incontournable
-  content: "Difficile de se trouver dans la capitale européenne du surf sans en faire.
-    Le surf est ici une culture, un mode de vie également. C'est le lieu incontournable
-    pour voir des surfeurs expérimenter surfer les vagues aux spots les plus connues.
-    Mais c'est aussi un lieu parfait pour apprendre et s'initier à la pratique du
-    surf. Que ce soit en cours collectif, en stage ou en cours privé, vous trouverez
-    environ 12 écoles de surf qui vous proposeront leurs services. Vous pourrez alors
-    être encadré par un professionnelle afin d'apprendre, de vous initier, de progresser
-    et aussi de vous perfectionner dans la technique.  \nVous pourrez également, dans
-    les écoles de surf et dans les shops, louer votre planche de surf et/ou votre
-    combinaison de surf à Hossegor. Que ce soit des longboard, des shortsboard, des
-    guns, des fishs, vous trouverez avec les conseils des experts, votre bonheur."
+  content: |-
+    Difficile de se trouver dans la capitale européenne du surf sans en faire. Le surf est ici une culture, un mode de vie également. C'est le lieu incontournable pour voir des surfeurs expérimentés surfer les vagues aux spots les plus connues. Mais c'est aussi un lieu parfait pour apprendre et s'initier à la pratique du surf. Que ce soit en cours collectif, en stage ou en cours privé, vous trouverez environ 12 écoles de surf à Hossegor qui vous proposeront leurs services. Vous pourrez alors être encadré par un professionnel afin d'apprendre, de vous initier, de progresser et aussi de vous perfectionner dans la technique.
+
+    Vous pourrez également, dans les écoles de surf et dans les shops d'Hossegor, louer votre planche de surf et/ou votre combinaison de surf. Que ce soit des longboards, des shortsboards, des guns, des fishs, vous trouverez avec les conseils des experts, votre bonheur.
+
+    De la mousse aux vagues du large, glissez et volez.
+
+    Vous pourrez également louer un stand up paddle et vous s'initier à cette pratique ou vous perfectionner. Ramer à l'aide de la pagaie et tenir en équilibre quand les vagues commencent à vous pousser.
+
+    Vous pourrez également, pour les amateurs de glisse et de sensation, louer un bodyboard. Vous glisserez au plus près de la vague.
+
+    A Hossegor, le surf c'est l'activité numéro 1.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647274177/website/resorts/Hossegor/sam-sanchez-ZvV3VjGXpOY-unsplash.jpg
+  alt_text_for_image: Lac de Hossegor
+  captiontitleuppercase: Du surf mais pas uniquement
+  title: Les activités à Hossegor
+  content: |-
+    Hossegor ce n'est pas uniquement le surf et vous trouverez de nombreuses activités.
+
+    Vous pourrez pratiquer de nombreuses activités nautiques tel que le rafting, le canoë-kayak, le canyoning à quelques kilomètres d'Hossegor.
+
+    Partez faire du paddle sur le lac en toute tranquillité, naviguez et randonnez ou pratiquez le Yoga paddle sur le lac d'Hossegor.
+
+    Louer un VTT à Hossegor et partez rouler sur les sentiers en forêt, explorer cette végétation, cette faune et flore maritime. Il y a également de nombreuses pistes cyclables qui vous permettent de rouler à vélo de route des kilomètres et des kilomètres.
+
+    Les amoureux de trail running pourront également se faire plaisir sur les nombreux chemins en forêts et les parcours dédiés à la course à pied.
+
+    Les amoureux de Golf pourront faire un 18 trous classés dans le top 50 de France des Golf.
+
+    Toujours dans la culture de la glisse, vous pourrez pratiquer le skateboard. Il existe de nombreux skateparks à Hossegor ainsi que des clubs qui peuvent encadrer des cours collectifs ou privés afin de vous initier à ce sport.
   button:
     text_button: ''
     href_button: ''
