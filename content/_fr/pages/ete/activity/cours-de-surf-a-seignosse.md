@@ -47,6 +47,15 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  title: Les cours de surf collectifs à Seignosse
+  content: "Vous pourrez réserver des cours collectifs de surf à Seignosse quelque
+    soit votre niveau. Chaque cours sera adapté à votre niveau et vous saurez dans
+    un groupe avec un niveau homogène. Vous retrouverez différentes possibilités de
+    cours de surf : \n\n* quelques heures \n* à la journée \n* plusieurs jours, sous
+    forme de stage\n\nLes groupes des cours collectifs seront par niveau mais aussi
+    par âge pour les enfants.  \nLes cours collectifs de surf vont varier de 1h30
+    à 2h de temps et les groupes seront jusqu'à 8 à 10 personnes."
 published: false
 
 ---
