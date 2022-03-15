@@ -7,7 +7,8 @@ topnav_color_text: dark
 title: 2021-01-12-un-jour-une-avalanche
 post-title: Un jour, une avalanche, mon père et moi
 meta-title: Un jour, une avalanche, mon père et moi
-meta-description: Ma 1ère expérience face à une avalanche qui a emporter mon père sans l'ensevelir.
+meta-description: Ma 1ère expérience face à une avalanche qui a emporté mon père sans
+  l'ensevelir.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_105259_c53ror.jpg
 image01_alt: Montagne enneigé et avalanche avec une personne hors de l'avalanche
 page_sections:
