@@ -41,7 +41,7 @@ page_sections:
     text_button: Réservez
     alt_button: " "
   content: 'Cette 1er étape est au départ de Méribel. Vous descendrez à Moutiers afin
-    de remontez en direction de Bozel puis du Praz afin de rejoindre Méribel. Une
+    de remonter en direction de Bozel puis du Praz afin de rejoindre Méribel. Une
     boucle de 48kms / Dénivelé: 1330m D+. Visualisation des niveaux et lancement de
     la semaine. 60€'
   alt_text_for_image: Journée 1 de vélo de route à Méribel et ses alentours
