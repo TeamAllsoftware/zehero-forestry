@@ -6,15 +6,16 @@ topnav_color_text: dark
 title: Randonner en montagne
 permalink: "/fr/ete/activites/randonnee-montagne"
 redirect_from:
-  - /fr/ete/activite/randonnee-montagne
+- "/fr/ete/activite/randonnee-montagne"
 meta-title: Randonnée en montagne, comment la pratiquer au mieux
-meta-description: Pratiquez la randonnée en montagne ou en plaine à la découverte de la
-  nature en famille, entre amis ou seul.
+meta-description: Pratiquez la randonnée en montagne ou en plaine à la découverte
+  de la nature en famille, entre amis ou seul.
 baseline: Découvrir, marcher et respirer
 engage: Partez découvrir les secrets des montagnes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582618/website/summer/pexels-eric-sanman-1365425_uouohg.jpg
-image01_alt: Groupe de marcheurs et de randonneurs en montagnes qui marchent sur un
+image01_alt: Groupe de marcheurs et de randonneurs en montagne qui marchent sur un
   sentier
+categorie: Randonnée
 page_sections:
 - template: textarea
   title: La randonnée en montagne
@@ -47,19 +48,20 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Prendre un guide, un accompagnateur de moyenne montagne permet d'avoir
-    toutes les informations sur comment bien randonnée. C'est-à-dire, qu'il va vous
+    toutes les informations sur comment bien randonner. C'est-à-dire, qu'il va vous
     expliquer déjà comment bien s'équiper et les erreurs à ne pas faire. Il va vous
-    expliquer également que prendre dans son sac d'indispensable pour une journée
-    de randonnée ou pour plusieurs jours. Il vous expliquera ensuite comment bien
-    marcher, comment s'économiser, quand faire des pauses pour boire et manger.  \nLe
-    point ensuite important, c'est qui vous fera découvrir la montagne comme vous
-    ne l'avez jamais vu. Il vous montrera et vous expliquera les différentes fleurs,
-    la végétation en montagne. Il vous fera découvrir la faune avec les marmottes,
-    les chamois, les bouquetins, mais aussi les différents oiseaux et rapaces.  \nL'avantage
-    d'avoir un guide, c'est de pouvoir randonnée tout en apprenant, en comprenant
-    mieux la montagne sur tout son écosystème."
+    expliquer également quoi prendre dans son sac en priorité pour une journée de
+    randonnée ou pour plusieurs jours. Il vous expliquera ensuite comment bien marcher,
+    comment s'économiser, quand faire des pauses pour boire et manger.  \nLe point
+    ensuite important, c'est qui vous fera découvrir la montagne comme vous ne l'avez
+    jamais vu. Il vous montrera et vous expliquera les différentes fleurs, la végétation
+    en montagne. Il vous fera découvrir la faune avec les marmottes, les chamois,
+    les bouquetins, mais aussi les différents oiseaux et rapaces.  \nL'avantage d'avoir
+    un guide, c'est de pouvoir randonner tout en apprenant, en comprenant mieux la
+    montagne sur tout son écosystème."
   title: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883628/website/summer/Paysage-montagne-randonnee_okgfs3.jpg
@@ -68,8 +70,8 @@ page_sections:
   gridline1title: Partez à la journée ou plusieurs jours
   gridline1content: 'Vous pouvez partir à la journée pour une belle randonnée ou alors
     partir plusieurs jours. Vous pourrez alors soit dormir en refuge soit bivouaquer.
-    Attention de prendre lire les règlements surtout si vous êtes dans le cœur d''un
-    parc national. '
+    Attention à bien lire les règlements surtout si vous êtes dans le cœur d''un parc
+    national. '
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883623/website/summer/Tente-aventure-plein-air_ksfsyq.jpg
   gridline2title: Partez découvrir des régions
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-henrik-pfitzenmaier-6916165_efoi8c.jpg
@@ -88,36 +90,40 @@ page_sections:
 
     * de bonnes chaussures de marche qui accrochent et qui maintiennent les chevilles (tige haute)
     * des vêtements techniques respirants
-    * de bonnes chaussettes qui évite les frictions
+    * de bonnes chaussettes qui évitent les frictions
     * des vêtements chauds dans le sac parce qu'en montagne il peut faire froid très rapidement
-    * lunette et casquette
+    * lunettes et casquette
     * crème solaire
     * des bâtons pour ceux qui aiment s'appuyer dessus
-    * un sac à dos avec de l'eau, un piquenique, une petite trousse de secours
+    * un sac à dos avec de l'eau, un pique-nique, une petite trousse de secours
 
-    Cela évolue si vous partez pour une itinérance de plusieurs jours. Mais ce sont la base à avoir. Si vous êtes avec un enfant, n'oubliez pas de transporter également de l'eau pour lui.
+    Cela évolue si vous partez pour une itinérance de plusieurs jours. Mais ce sont les éléments de base à avoir. Si vous êtes avec un enfant, n'oubliez pas de transporter également de l'eau pour lui.
   title: Bien randonner en montagne
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-ian-beckley-2440078_ueovj0.jpg
   captiontitleuppercase: Profiter de la montagne en la respectant
   title: Où en faire ?
-  content: 'Il existe un choix énorme en France avec nos différentes montagneuses
-    tel que les Pyrénées, la Vanoise, le Jura, les Vosges, le Mercantour, les Bauges,
-    les Ecrins, le Queyras, la vallée de Chamonix et bien d''autre. On retrouve des
+  content: Il existe un choix énorme en France avec nos différentes montagnes telles
+    que les Pyrénées, la Vanoise, le Jura, les Vosges, le Mercantour, les Bauges,
+    les Ecrins, le Queyras, la vallée de Chamonix et bien d'autre. On retrouve des
     parcs bien différents avec des végétations qui changent, des lieux plus minérales
-    ou plus boisés, des lieux avec des glaciers et d''autres entourés de sapins. Vous
-    avez le choix, de plus les différents GR vous amènent à travers des lieux uniques. '
+    ou plus boisés, des lieux avec des glaciers et d'autres entourés de sapins. Vous
+    avez le choix, de plus les différents GR vous amènent à travers des lieux uniques.
   alt_text_for_image: Vue d'un couché de soleil du sommet d'une montagne avec des
     arbres et des montagnes lors d'une randonnée
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: La montagne vous attend
   content: Venez respirer l'air pur de la montagne, admirez les lacs de haute altitude,
-    regardez les chamois et leurs agilités incroyables, observez la pureté des fleurs
-    de montagne. Venez partager un moment de bien-être en marchands sur les sentiers
-    qui vous éloigne du monde et vous rapproche de la liberté.
+    regardez les chamois et leur agilité incroyable, observez la pureté des fleurs
+    de montagne. Venez partager un moment de bien-être en marchant sur les sentiers
+    qui vous éloignent du monde et vous rapprochent de la liberté.
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---

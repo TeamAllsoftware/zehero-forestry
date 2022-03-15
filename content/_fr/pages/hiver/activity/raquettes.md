@@ -2,7 +2,7 @@
 layout: layout_activity
 permalink: "/fr/hiver/activites/raquettes-a-neige"
 redirect_from:
-  - /fr/hiver/activite/raquettes-a-neige
+- "/fr/hiver/activite/raquettes-a-neige"
 language: fr
 season: winter
 topnav_color_text: dark
@@ -36,6 +36,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: La balade en raquette est une activité qui permet de diversifier son séjour
     en montagne. Contrairement au ski, vous n'avez pas à payer un forfait. Vous avez
@@ -87,5 +88,6 @@ engage: Les domaines skiables au dela des pistes et des cartes !
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité raquette
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=21%2F11%2F2021
+categorie: Raquettes
 
 ---

@@ -6,14 +6,15 @@ topnav_color_text: dark
 title: Location de vélo à Méribel
 permalink: "/fr/ete/activites/location-velo-meribel"
 redirect_from:
-  - /fr/ete/activite/location-velo-meribel
-meta-title: Louer votre matériel vélo à Méribel, tout ce qu'il faut savoir se trouve dans notre fiche conseil
-meta-description: Trouver votre magasin de location de vélo à Méribel et louer tout le
-  matériel nécessaire pour vos prochaines aventures
+- "/fr/ete/activite/location-velo-meribel"
+meta-title: Louer votre matériel vélo à Méribel
+meta-description: Trouver votre magasin de location de vélo à Méribel et louer tout
+  le matériel nécessaire pour vos prochaines aventures
 baseline: Location Vélo Méribel
 engage: Louer votre vélo de route ou VTT et partez rouler à Méribel
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987030/website/V%C3%A9lo/48230596357_cd65f57885_k_glfk0s.jpg
 image01_alt: 'Vue du cadre de vélo de route '
+categorie: Vélo
 page_sections:
 - template: textarea
   title: La location de vélo de route de Méribel
@@ -46,6 +47,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: La location de VTT à Méribel
   content: Méribel est une station incontournable pour le VTT. Que ce soit pour de
@@ -71,6 +73,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Pour les personnes désirant profiter de la montagne en VTT, mais avec une assistance, elles pourront louer un VTT électrique. Vous pourrez alors aller plus loin, plus haut en forçant un peu moins sur vos cuisses. Une pratique parfaite pour ceux qui veulent rouler sans trop d'effort et pouvoir partager cette activité avec toute la famille.

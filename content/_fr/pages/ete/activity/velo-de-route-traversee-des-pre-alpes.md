@@ -6,16 +6,17 @@ topnav_color_text: dark
 title: Vélo de route - Traversée des Pré-Alpes
 permalink: "/fr/ete/activites/traversee-des-pre-alpes-en-velo"
 redirect_from:
-  - /fr/ete/activite/traversee-des-pre-alpes-en-velo
-meta-title: Sortie vélo de route, la traversée des pré-alpes et ses cols mythiques comme le Ventoux
-meta-description: 'La traversée des pré-alpes en vélo : Que ce soit de par la beauté de
-  ses paysages ou son dénivelé, ce format n’a rien à envier au format “Grands Cols”.
+- "/fr/ete/activite/traversee-des-pre-alpes-en-velo"
+meta-title: 'Vélo de route : traversée des pré-alpes et de cols mythiques '
+meta-description: 'La traversée des pré-alpes en vélo : Que ce soit de par la beauté
+  de ses paysages ou son dénivelé, ce format n’a rien à envier au format “Grands Cols”.
   Il offre également, en prime, la possibilité de gravir plusieurs cols mythiques
   tel que le Mont Ventoux.'
 baseline: Traversée des Pré-Alpes
-engage: Traversez les Pré-Alpes en vélo d'une durée 6 jours
+engage: Traversez les Pré-Alpes en vélo pendant 6 jours
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292454/website/V%C3%A9lo/adrien-delforge-P3fHc5zSy8Q-unsplash_hariws.jpg
 image01_alt: Route du mont ventoux en vélo
+categorie: Vélo
 page_sections:
 - template: textarea
   content: |-
@@ -39,13 +40,14 @@ page_sections:
   title: Traversée du massif de la Chartreuse
   content: 'Après un départ de Chambéry, la 1er ascension sera le col du Granier,
     puis le petit col de la placette à la fin du parcours. Vous terminerez cette 1er
-    étape à Tullin. Une 1er journée de 76 kms / Dénivelé: 1380m D+ qui vous mettre
+    étape à Tullin. Une 1er journée de 76 kms / Dénivelé: 1380m D+ qui vous mettra
     en jambes.'
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
   alt_text_for_image: Journée 1 de la traversée des Préalpes en vélo
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292603/website/V%C3%A9lo/collage1_7_lpos0k.png
   title: Traversée du massif du Vercors
@@ -60,6 +62,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Journée 2 de la traversée des Préalpes en vélo
+  blockBGcolor: ''
 - template: 2colimgtxt
   captiontitleuppercase: Journée 3
   title: L’approche vers le Mythe
@@ -72,19 +75,21 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Journée 3 de la traversée des Préalpes en vélo
+  blockBGcolor: ''
 - template: 2colimgtxt
   title: La mythique ascension du Mont Ventoux
   captiontitleuppercase: Journée 4
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292604/website/V%C3%A9lo/collage1_9_mnftcd.png
   content: 'Cette étape c''est l''ascension du mythique Mont Ventoux, cette terre
     lunaire et ce col difficile où parfois les conditions y sont dures. Une fois arrivé
-    au sommet, vous rejoindrez Sault vous la pause repas avant de repartir jusqu''à
+    au sommet, vous rejoindrez Sault pour la pause repas avant de repartir jusqu''à
     Manosque. Distance: 117 kms / Dénivelé: 2551m D+'
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
   alt_text_for_image: Journée 4 de la traversée des Préalpes en vélo
+  blockBGcolor: ''
 - template: 2colimgtxt
   title: Traversée des gorges du Verdon
   captiontitleuppercase: Journée 5
@@ -98,26 +103,29 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Journée 5 de la traversée des Préalpes en vélo
+  blockBGcolor: ''
 - template: 2colimgtxt
   title: L’arrière pays Niçois = Les pieds dans l’eau
   captiontitleuppercase: Journée 6
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292604/website/V%C3%A9lo/collage1_11_w1w0ye.png
   content: 'Cette dernière journée de vélo vous amène à Coursegoule, petit village
-    de l''arrière pays niçois pause une pause sandwich. Après un passage dans le village
-    de St Jeannet, vous terminerez votre périple à Cagnes sur Mer. Distance: 103 kms
-    / Dénivelé: 1446m D+'
+    de l''arrière pays niçois à découvrir lors d''une pause sandwich. Après un passage
+    dans le village de St Jeannet, vous terminerez votre périple à Cagnes sur Mer.
+    Distance: 103 kms / Dénivelé: 1446m D+'
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
   alt_text_for_image: Journée 6 de la traversée des Préalpes en vélo
+  blockBGcolor: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521349/website/V%C3%A9lo/traversee-pre-alpes_mmfnjh.png
   captionleftcontent: Un séjour en vélo à travers des paysages sauvages et montagneux
   captionrighttitle: A partir de 990€
-  captionrightcontent: Laissez vous portez et concentrez vous sur votre vélo à profiter
+  captionrightcontent: Laissez vous porter et concentrez vous sur votre vélo à profiter
     du moment.
   center_alt_text_for_image: Vue d'un lac sur une route nationale en vélo de route
+  blockBGcolor: ''
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17206-traversee-des-pre-alpes-en-velo-6-jours-activite-ze-hero

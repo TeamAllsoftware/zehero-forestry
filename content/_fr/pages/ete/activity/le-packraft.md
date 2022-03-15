@@ -12,6 +12,7 @@ baseline: Aventure, sensation et plaisir
 engage: Le packraft est un kayak ultra léger et gonflable.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646983748/website/summer/paxson-woelber-4RD_ixJIJUI-unsplash_1.jpg
 image01_alt: Personne pratiquant le Packraft sur un lac
+categorie: "Eaux vives"
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''

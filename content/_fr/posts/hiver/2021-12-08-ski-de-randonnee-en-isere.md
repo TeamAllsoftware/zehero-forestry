@@ -4,9 +4,11 @@ language: fr
 season: winter
 author: geoffreyarduini
 title: 2021-12-08-ski-de-randonnee-en-isere
-post-title: Ski de randonnée en Isère
-meta-title: Ski de randonnée en Isère
-meta-description: Comme dans toute région montagneuse, il est possible d’effectuer un bon nombre d’activités physiques outdoor en Isère et plus particulièrement en station de ski.
+post-title: Pratiquer le ski de randonnée en Isère
+meta-title: Pratiquer le ski de randonnée en Isère
+meta-description: Comme dans toute région montagneuse, il est possible d’effectuer
+  un bon nombre d’activités physiques outdoor en Isère et plus particulièrement en
+  station de ski.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Ski-randonne-ascension_g8hj01.jpg
 image01_alt: Ascension d'un col à ski de randonnée
 topnav_color_text: dark
@@ -46,7 +48,7 @@ page_sections:
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav/v1638883541/website/winter/Ski-marche-groupe_snuwan.jpg
   captionrighttitle: 'Vive l''Isère et la Savoie pour la diversité incroyable de paysages. '
   captionrightcontent: Mais tout cela n'est rien sans les savoyards qui sont toujours
-    la pour donner un coup demain.
+    là pour donner un coup demain.
   center_alt_text_for_image: Groupe de skieurs marchand sur la neige en montagne en
     portant leurs skis sur les épaules
 - template: textarea
@@ -99,7 +101,7 @@ page_sections:
     * Pantalons spécifique (moins chaud et bien étanche)
   title: Le ski de randonnée c’est quoi ?
   content: |-
-    Le ski de randonnée est une discipline sportive faisant partie de celle du ski. Elle se pratique sur des terrains enneigés en milieu le plus souvent sauvages.
+    Le ski de randonnée est une discipline sportive faisant partie de celle du ski. Elle se pratique sur des terrains enneigés en milieu le plus souvent sauvage.
 
     Très prisée par les amateurs de grands espaces, elle ne nécessite pas d’aménagements spécifiques aux domaines skiables comme la pratique du ski alpin classique. Elle peut être pratiquée pour le plaisir mais il existe aussi un grand nombre de compétitions comme, par exemple, la Pierra Menta, une de plus réputée.
 
@@ -116,9 +118,9 @@ page_sections:
     * Matériel de sécurité : pelle, sonde...
   title: Le matériel
   content: |-
-    * Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien plus souples au niveau de la cheville pour permettre le mouvement de flexion dont on nécessite pour pour monter les skis au pieds)
+    * Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien plus souples au niveau de la cheville pour permettre le mouvement de flexion dont on nécessite pour monter les skis aux pieds)
     * Bâtons de ski spécifiques à ce type de ski (télescopiques ou monobrins)
-    * Pantalons spécifique (moins chaud et bien étanche)
+    * Pantalon spécifique (moins chaud et bien étanche)
 - template: textarea
   textarea: |-
     ### Une liberté qui n'exclut aucuns risques
@@ -127,7 +129,7 @@ page_sections:
   title: Les accessoires
   content: |-
     * Casque de ski (très important et différent de celui d’alpin avec plus d’aérations et plus léger)
-    * Lunette de soleil ou masque
+    * Lunettes de soleil ou masque
     * Accessoires techniques type DVA (détecteur de victime en avalanche)
     * Matériel de sécurité : pelle, sonde…
 - template: textarea
@@ -145,8 +147,8 @@ page_sections:
     De plus, le rythme est souvent donné par le guide qui adapte la vitesse au niveau de groupe. Le but étant de pouvoir admirer le paysage en se sentant le mieux possible, avec une notion d'effort tout de même.
   title: Une liberté qui n’exclut aucuns risques
   content: Il ne faut, tout de même, ne pas oublier que la montagne est un environnement
-    sauvage et complexe qui peut s’avérer dangereux si l’on n’anticipent pas les risques
-    probable au maximum. C’est la raison pour laquelle les équipements de sécurité
+    sauvage et complexe qui peut s’avérer dangereux si l’on n’anticipe pas les risques
+    probables au maximum. C’est la raison pour laquelle les équipements de sécurité
     sont primordiaux, mais le principal étant de savoir s’en servir !
 - template: textarea
   textarea: |-
@@ -176,14 +178,14 @@ page_sections:
 
     Le ski de randonnée demande une bonne condition physique à la montée et une technique plutôt aguerrie pour la descente. Il nécessite aussi une bonne connaissance du terrain, de la météo en montagne pour y gérer les risques associés.
 
-    Cependant, tout type de sortie reste possible: à savoir, des sorties tranquilles avec peu de dénivelé positif pour les moins initié et d’autres plus engagé pour les personnes plus aguerries en la matière.
+    Cependant, tout type de sortie reste possible: à savoir, des sorties tranquilles avec peu de dénivelé positif pour les moins initiés et d’autres plus engagées pour les personnes plus aguerries en la matière.
 
     De plus, le rythme est souvent donné par le guide qui adapte la vitesse au niveau de groupe. Le but étant de pouvoir admirer le paysage en se sentant le mieux possible, avec une notion d’effort tout de même.
 - template: textarea
   textarea: Comme vous l'aurez compris, le ski de randonnée est une approche différente
     mais tout aussi appréciable que le ski alpin classique alors n'attendez plus et
     faites vous votre propre expérience.
-  title: Les stations ou vous serez sûr de trouver du ski de randonnée encadré
+  title: Les stations où vous serez sûr de trouver du ski de randonnée encadré
   content: |-
     * [Alpe d’Huez](http://localhost:3000/fr/actualites/2021/12/08/ski-de-randonnee-en-isere/fr/hiver/station/alpe-d-huez "Les locations à l'Alpe d'Huez")
     * Alpe du Grand Serre

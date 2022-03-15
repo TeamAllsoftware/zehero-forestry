@@ -136,6 +136,11 @@ fields:
   - imagegallery02
   - numberinfo
   - cta
+  - ZEHEROintro
+  - 4col2imgTxtImg
+  - 2col2tiers1tiers
+  - 2colTitreTxt
+  - video2colImgTxt
   config:
     min: 
     max: 

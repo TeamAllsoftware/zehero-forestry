@@ -6,29 +6,30 @@ topnav_color_text: dark
 title: Vélo de route - Sorties journées - Méribel
 permalink: "/fr/ete/activites/velo-de-route-journees-meribel"
 redirect_from:
-  - /fr/ete/activite/velo-de-route-journees-meribel
-meta-title: Sortie vélo à la journée pour progresser et découvrir la région de Méribel
-meta-description: Chez Ze Hero, nous avons créé des sorties vélo de route journée en parallèle
-  du stage vélo de route de 6 jours à Méribel dans le but de progresser et découvrir
-  nos différentes vallées et lacs. Entourés de nos belles montagnes savoyardes et
-  des routes emblématiques qui caractérisent notre secteur.
+- "/fr/velo-albertville/"
+meta-title: Sortie vélo à la journée pour découvrir la région de Méribel
+meta-description: Chez Ze Hero, nous avons créé des sorties vélo de route à la journée
+  en parallèle du stage vélo de route de 6 jours à Méribel dans le but de progresser
+  et découvrir nos différentes vallées et lacs. Entourés de nos belles montagnes savoyardes
+  et des routes emblématiques qui caractérisent notre secteur.
 baseline: Roulez et grimpez à Méribel
 engage: Six étapes de sortie vélo journée aux alentours de Méribel.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51412717941_e81ab34149_k_svjq0r.jpg
 image01_alt: Deux cycliste faisant du vélo à Méribel
+categorie: Vélo
 page_sections:
 - template: textarea
   title: 'Vélo de route - 6 sorties journée - Méribel '
   content: |-
     Chez Ze Hero, nous avons créé des sorties vélo journée dans le but de progresser et découvrir les différentes vallées et lacs à Méribel. Entourés des belles montagnes savoyardes et des routes emblématiques qui caractérisent le secteur de Méribel. Nous tenons à offrir la possibilité à chacun de se mesurer à quelques-uns des plus beaux cols des derniers Tours de France. Sans oublier le col devenu mythique : Le col de La Loze et ses passages à plus de 20% de pente.
 
-    Nous sommes conscients que que 6 jours de vélo ne peuvent convenir à tous pour diverses raisons. Néanmoins, vous restez passionné de vélo et peut être que vous aimeriez vous joindre à nous pour une ou plusieurs sorties vélo journée. C’est la raison pour laquelle nous proposons des options à la journée, avec ou sans location de matériel.
+    Nous sommes conscients que 6 jours de vélo ne peuvent convenir à tous pour diverses raisons. Néanmoins, vous restez passionné de vélo et peut être que vous aimeriez vous joindre à nous pour une ou plusieurs sorties vélo journée. C’est la raison pour laquelle nous proposons des options à la journée, avec ou sans location de matériel.
 - template: textarea
   title: Les différents parcours
   content: "Nous vous proposons 6 journées de vélo de route à Méribel et dans son
-    secteur. Chaque journées est indépendante de l'ensemble du séjour. Vous pouvez
+    secteur. Chaque journée est indépendante de l'ensemble du séjour. Vous pouvez
     donc réserver les journées qui vous intéressent le plus.\n\nLe prix des sorties
-    vélo journée comprend :  \n\\- Encadrement – Moniteurs diplômés d’État   \n\\-
+    vélo journée comprend :  \n\\- Encadrement – Moniteurs diplômés d’État  \n\\-
     Ravitaillement en eau lors des étapes  \n\\- Suivi technique et logistique (transports
     bagages et vélos)"
 - template: 2colimgtxt
@@ -40,10 +41,11 @@ page_sections:
     text_button: Réservez
     alt_button: " "
   content: 'Cette 1er étape est au départ de Méribel. Vous descendrez à Moutiers afin
-    de remontez en direction de Bozel puis du Praz afin de rejoindre Méribel. Une
+    de remonter en direction de Bozel puis du Praz afin de rejoindre Méribel. Une
     boucle de 48kms / Dénivelé: 1330m D+. Visualisation des niveaux et lancement de
     la semaine. 60€'
   alt_text_for_image: Journée 1 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage2_ilhebt.png
   captiontitleuppercase: Journée 2
@@ -57,6 +59,7 @@ page_sections:
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17213-col-du-petit-saint-bernard-activite-ze-hero
     alt_button: ''
   alt_text_for_image: Journée 2 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage3_vnw1tf.png
   title: Col de la Madeleine
@@ -64,13 +67,14 @@ page_sections:
   content: 'Partez grimper le fameux Col de la Madelaine, l’un des cols connus du
     tour de France, frontière entre la Tarentaise et la Maurienne. Après un départ
     de Moutiers, vous rejoindrez ce col et déjeunerez directement sur place. Vous
-    repartirez sur Moutiers, avant de remontez sur Méribel. Une journée difficile
+    repartirez sur Moutiers, avant de remonter sur Méribel. Une journée difficile
     avec 99kms / Dénivelé: 3100m D+. 100€'
   button:
     text_button: Réservez
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17215-col-de-la-madeleine-activite-ze-hero
     alt_button: ''
   alt_text_for_image: Journée 3 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage4_vbcw2p.png
   captiontitleuppercase: Journée 4
@@ -83,6 +87,7 @@ page_sections:
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17219-col-de-la-loze-par-meribel-activite-ze-hero
     alt_button: ''
   alt_text_for_image: Journée 4 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage5_ul9hd3.png
   captiontitleuppercase: Journée 5
@@ -96,11 +101,12 @@ page_sections:
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17209-cormet-de-roselend-activite-ze-hero
     alt_button: ''
   alt_text_for_image: Journée 5 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: 2colimgtxt
   title: Annecy par les cols
   captiontitleuppercase: Journée 6
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage6_wuyrnq.png
-  content: 'Cette dernier journée vous amène entre lac et montagnes. En partant de
+  content: 'Cette dernière journée vous amène entre lac et montagnes. En partant de
     Méribel, vous rejoindrez Albertville et grimperez le Col de Tamié. Ensuite, vous
     prendrez la direction de Faverges pour rejoindre le Col de la Forclaz qui sera
     plutôt raide mais la vue en vaut le coup. Vous redescendrez pour finir sur la
@@ -111,6 +117,7 @@ page_sections:
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17212-annecy-ses-lacs-et-ses-montagnes-repas-et-apres-midi-au-lac-compris-activite-ze-hero
     alt_button: ''
   alt_text_for_image: Journée 6 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: textarea
   title: Infos pratiques
   content: |-
@@ -122,9 +129,9 @@ page_sections:
 
     ##### Déroulement des sorties Vélo Journée :
 
-    La première sortie du dimanche après-midi va, tout d’abord, nous permettre de nous connaître, de discuter des différentes attentes mais aussi des options qui s’offrent à nous sur la semaine en fonction des niveaux relevés et des conditions météorologiques.
+    La première sortie du dimanche après-midi va, tout d’abord, nous permettre de nous connaître, de discuter des différentes attentes mais aussi des options qui s’offrent à nous sur la semaine en fonction des niveaux et des conditions météorologiques.
 
-    En revanche, pas de stress sur les niveaux, nous vous demandons simplement une expérience de vélo de route avec un peu de dénivelé et, également, d’arriver avec un foncier suffisant pour tenir physiquement sur 6 jours. Par exemple, nous recommandons un minimum de 1000 kms dans les jambes et 10.000 m de dénivelé avant de nous rejoindre. Lors de la première journée, nous verrons toutefois si il y a de grosses différences de niveaux et si nous devrons adapter les groupes et les sorties.
+    En revanche, pas de stress sur les niveaux, nous vous demandons simplement une expérience de vélo de route avec un peu de dénivelé et, également, d’arriver avec un foncier suffisant pour tenir physiquement sur 6 jours. Par exemple, nous recommandons un minimum de 1000 kms dans les jambes et 10.000 m de dénivelé avant de nous rejoindre. Lors de la première journée, nous verrons toutefois si il y a de grosses différences de niveaux et si nous devons adapter les groupes et les sorties.
 
     Ensuite, nous vous garantissons les plus beaux paysages possibles et une belle ambiance pour que votre séjour soit le meilleur possible. Au programme des stages autour du lac d’Annecy, du Cormet de Roseland, Col du petit Saint Bernard, Col de la Madeleine… Des déjeuners tous ensemble avec des points de vue à couper le souffle. Suivant les sorties, vous aurez également des options bis plus ou moins difficiles afin d’être en phase avec vos attentes.
 - template: textarea
@@ -133,8 +140,6 @@ page_sections:
 
     Néanmoins, vous pourrez également prendre un hébergement autre. Nous sommes alors là pour vous conseiller si vous souhaitez des appartements ou des prestations hôtelières précises.
   title: 'Hébergement '
-redirect_from:
-- "/fr/velo-albertville/"
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=

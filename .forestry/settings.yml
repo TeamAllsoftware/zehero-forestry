@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: readme-editor.md
-  label: Help (updated 7 mar 22)
+  label: Help (updated 11 mar 22)
   read_only: true
 - type: document
   path: _data/authors.yml
@@ -14,6 +14,9 @@ sections:
 - type: document
   path: _data/tags.yml
   label: Tags
+- type: document
+  path: _data/cat-activity.yml
+  label: Category labels
 - type: heading
   label: FRENCH
 - type: directory

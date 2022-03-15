@@ -14,6 +14,7 @@ baseline: Canyoning dans le 06
 engage: Les meilleurs canyoning des alpes maritimes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
 image01_alt: Personne sautant dans l'eau dans un canyoning dans les alpes maritimes
+categorie: "Eaux vives"
 page_sections:
 - template: textarea
   title: Le canyoning dans les Alpes Maritimes

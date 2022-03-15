@@ -2,7 +2,7 @@
 layout: layout_activity
 permalink: "/fr/hiver/activites/ski-de-fond"
 redirect_from:
-  - /fr/hiver/activite/ski-de-fond
+- "/fr/hiver/activite/ski-de-fond"
 language: fr
 season: winter
 topnav_color_text: dark
@@ -44,6 +44,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "La deuxième discipline est le skating. Celle-ci est plus complexe et technique
     que le classique. En effet, le pas ici sera celui du patineur. Une pratique plus
@@ -68,6 +69,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     La pratique du ski de fond même si elle est plus facile d'accès que le ski alpin, demande tout de même une bonne technique ainsi qu'une bonne condition physique. C'est un sport très complet qui demande une forte dépense énergétique, un travail important de tout le corps, des muscles des jambes et des bras.
@@ -82,6 +84,7 @@ page_sections:
   captionrighttitle: Une balade physique pour un bien être total
   center_alt_text_for_image: Une personne faisant du skating sur une piste de ski
     de fond dans la forêt
+  blockBGcolor: ''
 - template: textarea
   title: Où en pratiquer ?
   content: |-
@@ -100,5 +103,9 @@ page_sections:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski+de+fond&start-date=
 topnav_text_color: light
 engage: Explorer les forêts par des parcours vallonés
+categorie: Ski
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---

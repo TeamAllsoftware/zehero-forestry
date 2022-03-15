@@ -7,9 +7,10 @@ topnav_color_text: dark
 title: 2021-01-12-un-jour-une-avalanche
 post-title: Un jour, une avalanche, mon père et moi
 meta-title: Un jour, une avalanche, mon père et moi
-meta-description: Ma 1er expérience face à une avalanche qui a embarqué mon père s'en l'ensevelir.
+meta-description: Ma 1ère expérience face à une avalanche qui a emporté mon père sans
+  l'ensevelir.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_105259_c53ror.jpg
-image01_alt: Montagne enneigé et avalanche avec une personne hors de l'avalanche
+image01_alt: Montagne enneigée et avalanche avec une personne hors de l'avalanche
 page_sections:
 - template: textarea
   title: Une journée qui démarre plutôt bien
@@ -43,7 +44,7 @@ page_sections:
 
     Quand j'ai commencé à visualiser que ce bruit était en fait une avalanche, la réalité m'a frappé de plein fouet. J'ai compris qu'une plaque venait de partir au moins 50m au dessus de nous. Elle était assez large mais pas trop épaisse, elle n'est donc pas partie vite. Cela m'a permis de reculer le plus rapidement possible. Je criais sur mon père en ayant peur qu'il se fasse prendre. Lui courait, essayant tant bien que mal d'esquiver l'avalanche. Par chance, elle n'a pas eu le temps de prendre beaucoup de vitesse, elle était lourde et glissait doucement avec de la neige compacte. Mon père est tombé en essayant de courir avec les skis.
 
-    A ce moment là, j'ai eu très peur mais j'étais très concentré sur le fait de surveiller où mon père pouvait être traîné et embarqué. Mon but était de garder mon sang froid et toute la concentration possible pour dégainer et sortir mon DVA et le chercher.
+    À ce moment là, j'ai eu très peur mais j'étais très concentré sur le fait de surveiller où mon père pouvait être traîné et embarqué. Mon but était de garder mon sang froid et toute la concentration possible pour dégainer et sortir mon DVA et le chercher.
 
     Ce jour-là, mon père a eu le bon réflexe de se tourner face à l'avalanche et de bloquer avec ses skis la neige. Vu que la coulée n'était pas très rapide ni trop forte, elle l'emporta tout doucement. Elle le traîna plusieurs mètres plus bas, sans l'ensevelir. En fin de compte, il se stoppa, la neige jusqu'au cou. L'avalanche, elle, avait gonflé sur son flanc gauche et était descendue bien bas.
   title: ''
@@ -69,19 +70,19 @@ page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001283/website/blog/Avalanche/FB_IMG_1521828361575_ircxpo.jpg
   captiontitleuppercase: Son attitude m'a permis de garder confiance
-  title: Sans cela je n'aurai surement pas pu continuer
-  content: On a pu finir cette montée, on a bu du thé et des barres de céréales au
-    sommet en regardant la magnifique vue du sommet. La descente face Sud était assez
-    gelée au départ puis on a pu faire quelques virages parfaits dans une neige fraîche.
-    La descente était un petit régal mais je sentais que je n'avais plus beaucoup
-    de force et que le stress avait pris toutes mes calories.
+  title: Sans cela je n'aurai sûrement pas pu continuer
+  content: On a pu finir cette montée, on a bu du thé et mangé des barres de céréales
+    au sommet en regardant la magnifique vue du sommet. La descente face Sud était
+    assez gelée au départ puis on a pu faire quelques virages parfaits dans une neige
+    fraîche. La descente était un petit régal mais je sentais que je n'avais plus
+    beaucoup de force et que le stress avait pris toutes mes calories.
   alt_text_for_image: Une personne grimpant à quatre pattes la montagne avec ses skis
     de randonnée dans le dos à Valmorel
 - template: textarea
   content: |-
     J'ai su plus tard, que mon père avait pris sur lui et il avait eu un contrecoup de cette expérience avec moi. Il a su se gérer et continuer consciemment et prudemment cette fin de montée. Il le faisait pour moi comme pour lui, afin de surpasser la peur que l'on venait de vivre.
 
-    Aujourd'hui, cette expérience a laissé une trace dans ma pratique du ski. Je fais beaucoup plus attention, je lis attentivement les Topos, je me renseigne vraiment sur les conditions de neige, sur le BRA ainsi que sur les règles à avoir en ski de randonnée. Le fait que j'ai été loin de mon père et d'avoir laissé de l'espace nous a permis de ne pas se retrouver dans une situation critique. Malgré, que les pisteurs nous aient assuré que le risque était faible, il a été présent. Il faut alors redoubler de vigilance.
+    Aujourd'hui, cette expérience a laissé une trace dans ma pratique du ski. Je fais beaucoup plus attention, je lis attentivement les Topos, je me renseigne vraiment sur les conditions de neige, sur le BRA ainsi que sur les règles à suivre en ski de randonnée. Le fait que j'ai été loin de mon père et d'avoir laissé de l'espace nous a permis de ne pas se retrouver dans une situation critique. Malgré le faible danger assuré par les pisteurs, cette fois-ci il était bel et bien présent. Il faut alors redoubler de vigilance.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001284/website/blog/Avalanche/20180323_114107_nkqabg.jpg

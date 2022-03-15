@@ -2,7 +2,7 @@
 layout: layout_activity
 permalink: "/fr/ete/activites/coaching-sportif"
 redirect_from:
-  - /fr/ete/activite/coaching-sportif
+- "/fr/ete/activite/coaching-sportif"
 language: fr
 season: summer
 topnav_color_text: dark
@@ -13,6 +13,7 @@ meta-description: Profitez d'un coach et d'une séance de coaching sportif afin 
 baseline: Préparation physique, dépassement, entraînement
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/victor-freitas-hOuJYX2K5DA-unsplash_gg95nq.jpg
 image01_alt: Course à pied sur piste en groupe
+categorie: Eaux vives
 page_sections:
 - template: textarea
   content: |-

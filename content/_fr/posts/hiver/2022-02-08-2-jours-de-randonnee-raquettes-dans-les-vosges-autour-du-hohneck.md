@@ -7,7 +7,9 @@ topnav_color_text: dark
 title: 2022-02-08-2-jours-de-randonnee-raquettes-dans-les-vosges autour-du-hohneck
 post-title: 2 jours de randonnée raquettes dans Les Vosges autour du Hohneck
 meta-title: 2 jours de randonnée raquettes dans Les Vosges autour du Hohneck
-meta-description: 'Il est environ 9h lorsque nous atteignons le point de départ de notre aventure: Les 3 Fours et la promesse d’une vue spectaculaire sur la Combe du Wormspel et le sommet du Hohneck.'
+meta-description: 'Il est environ 9h lorsque nous atteignons le point de départ de
+  notre aventure: Les 3 Fours et la promesse d’une vue spectaculaire sur la Combe
+  du Wormspel et le sommet du Hohneck.'
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499340/website/blog/2-jours-raquettes-vosges/PXL_20220205_081503351_if4ae5.jpg
 image01_alt: Une groupe de randonneurs en raquettes dans la neige sur la crête du
   Hohneck dans les Vosges
@@ -28,6 +30,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: Nous retrouver pour 2 jours autour du Hohneck, dans Les Vosges, en espérant
     que la neige soit de la partie pour une randonnée en raquettes. Et pour Hugues
@@ -65,11 +68,12 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Les jours précédents notre arrivée au refuge du Sotré, la météo annonçait des précipitations et des vents “violents” mais pas très froid. Le moral était bas car nous envisagions la pluie, ce qui était le pire scénario, mais ce ne fût pas le cas.
 
-    Arrivées de Paris à Nancy par le TGV, nous retrouvons nos trois accolytes (Joao, Ludovic et Sébastien) dans la voiture qui nous conduit sous la pluie jusqu’à Xonrupt-Longemer. Mais dans l’ascension du Col de la Schlucht, les sourires se dessinent sur nos visages lorsque la neige se transforme et nous déroule un joli tapis blanc jusqu’au parking du refuge du Sotré au pied du Hohneck.
+    Arrivés de Paris à Nancy par le TGV, nous retrouvons nos trois acolytes (Joao, Ludovic et Sébastien) dans la voiture qui nous conduit sous la pluie jusqu’à Xonrupt-Longemer. Mais dans l’ascension du Col de la Schlucht, les sourires se dessinent sur nos visages lorsque la neige se transforme et nous déroule un joli tapis blanc jusqu’au parking du refuge du Sotré au pied du Hohneck.
   title: ''
 - template: 2colimgtxt
   title: 'Jour 1 : Refuge du Sotré - Lac de Blanchemer'
@@ -94,6 +98,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499347/website/blog/2-jours-raquettes-vosges/PXL_20220205_085625897_y1tvl9.jpg
   prlax_alt_text_for_image: Le refuge du Hohneck fermé en hiver dans la tempête de
@@ -116,7 +121,7 @@ page_sections:
   grid_2_alt_text_for_image: Un bon équipement est nécessaire pour une expédition
     en montagne
 - template: textarea
-  content: Arrivée en bas, nous serpentons entre les lacs de Schiessrothried et de
+  content: Arrivé en bas, nous serpentons entre les lacs de Schiessrothried et de
     Fischboedle où il est l’heure de déjeuner. Ce lac encaissé ne nous laisse pas
     beaucoup de temps au soleil pour profiter de notre pause. Le froid s’insinue de
     partout et l’humidité du lac se fait très vite sentir. Il n’est pas l’heure de
@@ -148,8 +153,8 @@ page_sections:
   atl_text_image_04: Le massif des Vosges et son climat comparé à l'Ecosse et à l'Islande
   title: ''
 - template: textarea
-  content: Nous filons à travers la magnifique foret et ses cours d’eau qui offrent
-    un spectacle magnifique de vert est blanc. Le tout a des airs de Norvège ou de
+  content: Nous filons à travers la magnifique forêt et ses cours d’eau qui offrent
+    un spectacle magnifique de vert et blanc. Le tout a des airs de Norvège ou de
     Canada, ou simplement de Vosges. Il suffisait de l’imprimer dans la rétine pour
     que ce paysage devienne une référence vosgienne.
   title: ''
@@ -159,8 +164,8 @@ page_sections:
     ce soit le chemin à suivre. Cependant c’est le plus “facile” à emprunter car marcher
     de travers en raquettes s’avère très difficile et douloureux pour les pieds et
     les chevilles. La pente est vraiment abrupte et il faut faire très attention.
-    Ludovic l’a appris à ses dépends, il a manqué un pas et s’est vu glisser de coté
-    sur 10 mètres sans pouvoir faire quoique ce soit. Une branche d’arbre salvatrice
+    Ludovic l’a appris à ses dépends, il a manqué un pas et s’est vu glisser de côté
+    sur 10 mètres sans pouvoir faire quoi que ce soit. Une branche d’arbre salvatrice
     lui a évité de glisser plus longtemps.
   title: Le versant sud est réconfortant
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499340/website/blog/2-jours-raquettes-vosges/PXL_20220205_143052210_f3gkoe.jpg
@@ -171,6 +176,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: 2coltxtimg
   content: |-
     Il est 16h50 et le jour décline. Certes le spectacle est magnifique avec ce coucher de soleil sur la montagne et les forêts mais nous ne sommes pas arrivés et le froid s’intensifie.
@@ -186,10 +192,11 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: Un tarp est une bâche de grande taille imperméable qui peut faire office
-    d’abris ou autre. La mienne est carrée et fait 3 mètres de coté. Associée à 2
-    batons de randonnée, quelques sardines et de la cordelette le dispositif fait
+    d’abris ou autre. La mienne est carrée et fait 3 mètres de côté. Associée à 2
+    bâtons de randonnée, quelques sardines et de la cordelette, le dispositif fait
     une tente légère. Pourquoi un tarp et pas une tente ? Car, je n’ai pas de tente,
     et ce tarp me permet d’envelopper mon vélo afin d’en faire une housse pour prendre
     le TGV. Avec ce tarp j’ai 2 usages (housse et tente) avec un seul article.
@@ -203,6 +210,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: Souvent, on me demande pourquoi dormir dehors dans le froid, le vent, la
     pluie quand il y a des refuges ou des tentes bien fermées disponibles. Je réponds
@@ -227,6 +235,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499357/website/blog/2-jours-raquettes-vosges/PXL_20220205_202444591.PORTRAIT_hwwpjq.jpg
   atl_text_image_01: Hugues fait du feu dans le poêle du refuge de Blanchemer
@@ -249,7 +258,7 @@ page_sections:
     {: .list-style-05}
 
     Réveil naturel à 7h30 avec la vue sur le lac gelé. Un vent important a soufflé toute la nuit et souffle encore. Je m’extirpe de mon sac de couchage et me dirige vers le lac pour apprécier la vue et le moment. Hugues et moi sommes reposés et plutôt fiers de notre nuit de bivouac hivernal dans la neige et le vent.
-    
+
     Nous retrouvons nos trois compères dans le refuge. Il ne faut pas traîner car les conditions météorologiques s’annoncent mauvaises. Nous petit-déjeunons et faisons les sacs rapidement. Le trajet initialement prévu devait faire 20 km, mais nous avons réduit de beaucoup car la neige qui tombe depuis minuit a déjà déposé 10 bons centimètres et le vent qui souffle fort rend les
     conditions peu propices à la promenade.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499339/website/blog/2-jours-raquettes-vosges/PXL_20220205_163504344_dlats5.jpg
@@ -259,6 +268,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Cela dit, cette météo transforme notre aventure en expédition polaire. Nous avons l’impression d’être des explorateurs dans une contrée reculée. Le dépaysement est total. C’est exactement ce que nous voulions sans oser l’imaginer.
@@ -314,8 +324,9 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
-  content: Arrivée devant le refuge, la batterie externe et celle de mon smartphone
+  content: Arrivés devant le refuge, la batterie externe et celle de mon smartphone
     rendent l’âme, le froid aura eu raison des derniers pourcents. Dans le vent, et
     en hurlant pour nous faire comprendre, nous convenons de rejoindre le parking
     du Sotré par la route des crêtes et non pas le sentier qui passe par le sommet
@@ -331,6 +342,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: 2coltxtimg
   content: |-
     Notre ultime refuge sera la voiture qui nous conduira à Nancy pour notre train. Mais avant cela, il faut la déneiger, la réchauffer, la dégivrer, la chausser de chaînes et nous changer à l’intérieur. Une expédition à part entière qui prendra une bonne heure encore.
@@ -346,6 +358,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: Le lendemain, l’Est Républicain faisait le récit d’une jeune femme de 34
     ans qui, ce même dimanche 6 février 2022, s’était perdue sur la route des crêtes
@@ -359,7 +372,7 @@ page_sections:
   content: |-
     > Nous avons partagé tous les cinq une micro-aventure dont nous nous souviendrons longtemps et qui restera gravée dans nos mémoires.
 
-    P.S.: La montagne peut être dangereuse, il ne faut pas prendre à la légère la préparation et le matériel nécessaire à une sortie en montagne. C’est parce que nous avions bien préparé le weekend que nous avons profité un maximum, même dans des conditions difficiles. Le tracé était programmé, nous avions une carte papier et la trace GPX dans nos smartphones. Chacun d’entre nous avait le matériel nécessaire pour avoir chaud, se protéger du vent et de la pluie, de quoi manger pour l’ensemble des repas et le matériel nécessaire pour dormir par des températures négatives.
+    P.S.: La montagne peut être dangereuse, il ne faut pas prendre à la légère la préparation et le matériel nécessaires à une sortie en montagne. C’est parce que nous avions bien préparé le weekend que nous avons profité un maximum, même dans des conditions difficiles. Le tracé était programmé, nous avions une carte papier et la trace GPX dans nos smartphones. Chacun d’entre nous avait le matériel nécessaire pour avoir chaud, se protéger du vent et de la pluie, de quoi manger pour l’ensemble des repas et le matériel nécessaire pour dormir par des températures négatives.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644505506/website/blog/2-jours-raquettes-vosges/20220206_170810_esdx3l.jpg
   alt_text_for_image: 5 amis pour une micro-aventure hivernale dans le massif des
     Vosges les 5 et 6 février 2022
@@ -367,6 +380,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Pour vous donner une idée, je vous partage le contenu de mon sac à dos (poids total de 8,5 kg)
@@ -419,5 +433,8 @@ tags:
 - randonnée
 - raquettes
 - entre amis
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---

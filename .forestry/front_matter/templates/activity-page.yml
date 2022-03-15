@@ -54,6 +54,19 @@ fields:
   config:
     required: true
   label: Title
+- name: categorie
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: documents
+      section: category-labels
+      file: _data/cat-activity.yml
+      path: Cat activity
+  label: categorie
+  description: Category label activity page, include in the filter
 - name: permalink
   type: text
   config:
@@ -136,6 +149,16 @@ fields:
   - numberinfo
   - cta
   - imgWide
+  - ZEHEROintro
+  - 4col2imgTxtImg
+  - ctaShop4col
+  - 4col2imgTxtImg
+  - 2col2tiers1tiers
+  - ctaShop4col
+  - 2colTitreTxt
+  - newsletter
+  - video2colImgTxt
+  - separatorLine
   config:
     min: 
     max: 
@@ -143,6 +166,7 @@ pages:
 - content/_fr/pages/ete/activity/canyoning.md
 - content/_fr/pages/ete/activity/coaching-sportif-a-antibes-alpes-maritimes.md
 - content/_fr/pages/ete/activity/coaching-trail-et-course-a-pied-a-antibes-dans-les-alpes-maritimes.md
+- content/_fr/pages/ete/activity/cours-de-surf-a-seignosse.md
 - content/_fr/pages/ete/activity/ecoles-de-surf-a-st-brevin-les-pins.md
 - content/_fr/pages/ete/activity/kayak.md
 - content/_fr/pages/ete/activity/la-canyoning-a-annecy.md

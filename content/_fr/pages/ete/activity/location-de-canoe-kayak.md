@@ -6,14 +6,15 @@ topnav_color_text: dark
 title: Location de Canoë / Kayak
 permalink: "/fr/ete/conseils/location-canoe-kayak"
 redirect_from:
-  - /fr/ete/conseil/location-canoe-kayak
-meta-title: Louer un canoë kayak, tout ce qu'il faut savoir se trouve dans notre fiche conseil
+- "/fr/ete/conseil/location-canoe-kayak"
+meta-title: Louer un canoë kayak pour votre prochaine aventure
 meta-description: Voici nos conseils pour la location de Canoë Kayak afin de connaitre
   les différentes critères et savoir comment les louer.
 baseline: Location de Canoë Kayak
 engage: Partez à l'aventure en naviguant sur un Kayak ou un Canoë
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588328/website/summer/jeff-isaak-p7nrRdMDebM-unsplash_wxc6gr.jpg
 image01_alt: Femme naviguant dans un canoë kayak sur un lac avec la montagne derrière
+categorie: "Eaux vives"
 page_sections:
 - template: textarea
   content: |-
@@ -41,6 +42,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Le choix des pagaies tient compte de :
@@ -70,6 +72,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Kayak rigide
   content: Depuis des millénaires, les hommes utilisent des kayaks rigides pour se
@@ -136,6 +139,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 button_to_link_to_ze_hero_shop:
   button_text: Louer votre canoë kayak
   url_to_shop_zehero: https://shop.ze-hero.com/location-materiel?equipmentslug=%2Flocation-autre&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1

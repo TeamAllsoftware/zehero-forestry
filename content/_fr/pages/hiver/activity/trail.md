@@ -6,7 +6,7 @@ topnav_color_text: dark
 title: Trail Running
 permalink: "/fr/hiver/activites/trail-running"
 redirect_from:
-  - /fr/hiver/activite/trail-running
+- "/fr/hiver/activite/trail-running"
 meta-title: Réserver des sorties de trail collectives ou privées
 meta-description: Partez pratiquer le Trail Running et profiter d'un moment sportif
   dans la nature
@@ -39,6 +39,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: liststyle01
   title: Les différentes courses
   item:
@@ -86,6 +87,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Le trail ce pratique toute l'année même l'hiver. L'encadrement en trail est idéal si vous souhaitez progresser, découvrir et partager. Un coach en trail running vous permettra d'évoluer et de progresser que ce soit en montée, en descente, sur plat. Cela pourra se travailler sur des séances dîtes spécifiques.
@@ -100,6 +102,7 @@ page_sections:
     nous ressentons tous le même plaisir après avoir foulé les sentiers.
   center_alt_text_for_image: Une fille de dos faisant du trail et courant en montagne
     face au Lac des Merveilles
+  blockBGcolor: ''
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
@@ -109,5 +112,6 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: Trouver votre activité de trail
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+categorie: Running / Trail
 
 ---
