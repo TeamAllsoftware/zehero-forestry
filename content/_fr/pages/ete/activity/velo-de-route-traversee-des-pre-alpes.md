@@ -122,7 +122,7 @@ page_sections:
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521349/website/V%C3%A9lo/traversee-pre-alpes_mmfnjh.png
   captionleftcontent: Un séjour en vélo à travers des paysages sauvages et montagneux
   captionrighttitle: A partir de 990€
-  captionrightcontent: Laissez vous portez et concentrez vous sur votre vélo à profiter
+  captionrightcontent: Laissez vous porter et concentrez vous sur votre vélo à profiter
     du moment.
   center_alt_text_for_image: Vue d'un lac sur une route nationale en vélo de route
   blockBGcolor: ''
