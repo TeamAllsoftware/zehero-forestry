@@ -326,7 +326,7 @@ page_sections:
     alt_button: ''
   blockBGcolor: ''
 - template: 2colimgtxt
-  content: Arrivée devant le refuge, la batterie externe et celle de mon smartphone
+  content: Arrivés devant le refuge, la batterie externe et celle de mon smartphone
     rendent l’âme, le froid aura eu raison des derniers pourcents. Dans le vent, et
     en hurlant pour nous faire comprendre, nous convenons de rejoindre le parking
     du Sotré par la route des crêtes et non pas le sentier qui passe par le sommet
