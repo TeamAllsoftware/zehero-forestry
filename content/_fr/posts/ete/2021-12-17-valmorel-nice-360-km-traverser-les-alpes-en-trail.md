@@ -49,7 +49,7 @@ page_sections:
 - template: textarea
   content: "Le trajet, c'est en gros 360 km et 20 000 de dénivelé positif. Si je partais
     avec ma tente, il me fallait du matériel adapté : sac, tente ultra-light, duvet,
-    réchaud…  \nFinalement, j’arrivais avec un poids de sac presque à 10kg. Si je
+    réchaud…  \nFinalement, j’arrivais avec un poids de sac à presque 10kg. Si je
     dormais dans les refuges, j’avais un sac de 5kg donc vraiment plus léger.  \nJ’ai
     opté pour la traversée option confort. Cela me permettait d’une certaine manière
     d’avoir des journées moins longues et de bien dormir. C’était aussi sympa de se
