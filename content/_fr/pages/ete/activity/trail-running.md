@@ -109,7 +109,7 @@ page_sections:
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg
   captionleftcontent: Soyez le Hero, courez et découvrez de nouveau horizon
   captionrighttitle: Ne courez pas après le temps, appréciez en chaque seconde
-  captionrightcontent: Quelque soit le niveau, le plaisir de courir reste le même
+  captionrightcontent: Quel que soit le niveau, le plaisir de courir reste le même
   center_alt_text_for_image: 'Deux personnes faisant du trail running courant dans
     la neige '
   blockBGcolor: ''
