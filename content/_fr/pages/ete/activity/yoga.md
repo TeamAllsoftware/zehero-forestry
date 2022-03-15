@@ -65,16 +65,16 @@ page_sections:
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643877189/website/summer/damir-spanic-JFl-QLawHX4-unsplash_io99av.jpg
-  alt_text_for_image: Homme assis en tailleur avec les mains collés faisant du Yoga
+  alt_text_for_image: Homme assis en tailleur avec les mains collées faisant du Yoga
     en position de méditation
-  captiontitleuppercase: Les biens fait du Yoga
+  captiontitleuppercase: Les bienfaits du Yoga
   title: Respirez et inspirez
   content: |-
     Chaque pratique du Yoga va vous apporter différentes choses, car vous effectuerez des postures différentes avec des intensités différentes. Mais le Yoga va vous permettre de vous assouplir, de venir étirer vos muscles et tout votre corps. Cela va vous permettre de vous relaxer en vous étirant, de prévenir des blessures et de sentir bien. Il va également vous permettre de tonifier votre corps et vos muscles, de vous muscler et de vous renforcer. Il va aussi réduire le stress et l'anxiété, vous permettre d'être dans une bulle en vous faisant du bien, en pensant à vous pendant un laps de temps. Il soulagera vos articulations, vos blessures et vos tensions. Il améliorera aussi votre endurance, votre résistance et votre équilibre.
 
-    Il vous permettra d'acquérir une meilleure condition physique, une meilleure santé physique et mentale. La détente et la méditation vous fera lâcher prise afin de faire le plein d'énergie et de ressource.
+    Il vous permettra d'acquérir une meilleure condition physique, une meilleure santé physique et mentale. La détente et la méditation vous fera lâcher prise afin de faire le plein d'énergie et de ressources.
 
-    Quoi de mieux que d'être au bord de la mer, d'écouter le bruit des vagues ou être dans une plaine, entouré de sapin et de verdure et pratiquer le Yoga pour se relaxer.
+    Quoi de mieux que d'être au bord de la mer, d'écouter le bruit des vagues ou être dans une plaine, entouré de sapins et de verdure et pratiquer le Yoga pour se relaxer.
   button:
     text_button: ''
     href_button: ''
