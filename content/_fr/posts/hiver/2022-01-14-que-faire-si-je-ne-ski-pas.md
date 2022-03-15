@@ -34,17 +34,17 @@ page_sections:
 - template: textarea
   title: Les activités de plein air
   content: |-
-    Aujourd'hui difficile de ne pas trouver une activité à son gout parmi tout ce que les stations proposent. Vous allez trouver des activités de sensation fortes tel que :
+    Aujourd'hui difficile de ne pas trouver une activité à son gout parmi tout ce que les stations proposent. Vous allez trouver des activités de sensation fortes telles que :
 
     * Le parapente, pour des panoramas magiques
     * ULM, pour voler au dessus des montagnes enneigées
     * De la motoneige pour des sensations fortes
-    * Conduite de rallye ou de quart sur neige
+    * Conduite de rallye ou de kart sur neige
 
     Pour des moments de liberté et de plénitude, vous pourrez faire :
 
     * Des balades sur les chemins piétons à travers les forêts
-    * Des randonnées en raquette pour découvrir les montagne
+    * Des randonnées en raquette pour découvrir les montagnes
     * De la tyrolienne pour une glisse au dessus des pistes
     * Des spas et massages pour des moments de bien-être
 - template: 2colimgtxt
