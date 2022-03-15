@@ -6,10 +6,10 @@ topnav_color_text: dark
 title: VTT
 permalink: "/fr/ete/activites/vtt"
 redirect_from:
-  - /fr/ete/activite/vtt
+- "/fr/ete/activite/vtt"
 meta-title: Sortie vélo VTT pour découvrir de nouveaux horizons
-meta-description: Pratiquez le VTT pour découvrir des paysages, vivre des descentes sensationnelles
-  à travers la nature.
+meta-description: Pratiquez le VTT pour découvrir des paysages, vivre des descentes
+  sensationnelles à travers la nature.
 baseline: Vitesse, sensation et randonnée
 engage: Faites le plein de sensation à travers les pistes de VTT
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/lachlan-cruickshank-S9v_EPJfGys-unsplash_b5jpdh.jpg
@@ -23,10 +23,10 @@ page_sections:
     de terre, de cailloux et dont les descentes vont secouer un peu. C’est pour cela
     qu’on retrouve différentes suspensions sur la fourche avant et parfois aussi au
     niveau de la scelle. Le VTT vous permet de partir en groupe explorer la nature
-    et faire de longues distances à travers les forêts, les bois. En montagne s’est
+    et faire de longues distances à travers les forêts, les bois. En montagne c’est
     aussi l’occasion de partir faire des randonnées combinant les montées et les descentes.
-    Mais vous pourrez également réaliser uniquement les descentes en prenants les
-    remontées mécaniques à vélo.
+    Mais vous pourrez également réaliser uniquement les descentes en prenant les remontées
+    mécaniques à vélo.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/tim-foster-qrIy8dBzCVU-unsplash_t0p4kh.jpg
@@ -52,6 +52,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Pour qui ?
   content: "Le VTT se pratique dès 6 ans et c'est une activité qui est ouverte à tout
@@ -99,5 +100,8 @@ page_sections:
 
     Mais vous allez également retrouver des parcours sublimes dans les Cévennes, dans l'Esterel et vers le Roquebrune, dans le Mercantour, dans le Jura...
   title: Où en faire ?
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---
