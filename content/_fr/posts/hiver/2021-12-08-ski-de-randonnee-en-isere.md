@@ -6,7 +6,9 @@ author: geoffreyarduini
 title: 2021-12-08-ski-de-randonnee-en-isere
 post-title: Pratiquer le ski de randonnée en Isère
 meta-title: Pratiquer le ski de randonnée en Isère
-meta-description: Comme dans toute région montagneuse, il est possible d’effectuer un bon nombre d’activités physiques outdoor en Isère et plus particulièrement en station de ski.
+meta-description: Comme dans toute région montagneuse, il est possible d’effectuer
+  un bon nombre d’activités physiques outdoor en Isère et plus particulièrement en
+  station de ski.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Ski-randonne-ascension_g8hj01.jpg
 image01_alt: Ascension d'un col à ski de randonnée
 topnav_color_text: dark
@@ -46,7 +48,7 @@ page_sections:
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav/v1638883541/website/winter/Ski-marche-groupe_snuwan.jpg
   captionrighttitle: 'Vive l''Isère et la Savoie pour la diversité incroyable de paysages. '
   captionrightcontent: Mais tout cela n'est rien sans les savoyards qui sont toujours
-    la pour donner un coup demain.
+    là pour donner un coup demain.
   center_alt_text_for_image: Groupe de skieurs marchand sur la neige en montagne en
     portant leurs skis sur les épaules
 - template: textarea
