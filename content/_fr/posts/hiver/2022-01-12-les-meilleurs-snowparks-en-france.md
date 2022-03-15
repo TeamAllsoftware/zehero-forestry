@@ -21,9 +21,9 @@ page_sections:
     sont les meilleurs snowparks de France aujourd’hui et où se situent-ils ? Où se
     trouvent les Half-pipe ?  \nQue ce soit pour le boardercross, le slopestyle, le
     JIB ou bien pour enchaîner les tricks dans un half-pipe, découvrez où se trouvent
-    les meilleures stations en France.\n\nDans chaque snowpark, il y aura systématiquement
-    une zone pour les débutants et ensuite on évolue si le park le permet vers des
-    modules confirmés à experts."
+    les meilleures stations en France.\n\nDans chacun des snowparks, il y aura systématiquement
+    une zone pour les débutants. Ensuite, si le park le permet, on retrouvera des
+    modules pour des niveaux confirmés à experts."
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641985183/website/blog/Hiver/esteban-gerard-hK19iivVGJc-unsplash_x2ewzu.jpg
