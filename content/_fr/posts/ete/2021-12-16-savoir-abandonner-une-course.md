@@ -71,7 +71,7 @@ page_sections:
   content: |-
     Au 30 ème kilomètre, je m'arrête environ 4mn au ravitaillement et prends le temps. C’est la partie la plus dure de la course qui va suivre. Une montée de 1400D+ sur 10,5km et le chemin est loin d’être simple. Je constate que derrière, c'est à 5 mn et devant le 3ᵉ également. Je me dis que je pourrais le rattraper après la montée.
 
-    J’ai à peine commencé la montée que les crampes arrivent très fortement, avec un coup de fatigue et un mal de dos. Je me dis que c’est passager et comme dans chaque ultra, on vit tous un ou des moments durs. J’avance avec les crampes, je vois mes quadriceps se contracter et je pourrais presque distinguer les fibres musculaires, les tendons tellement les crampes sont fortes. À partir de ce moment, c'est la descente aux enfers. Malgré des pauses, après avoir ralenti, je sens que ça va être compliqué.
+    J’ai à peine commencé la montée que les crampes arrivent très fortement, avec un coup de fatigue et un mal de dos. Je me dis que c’est passager et comme dans chaque ultra, on vit tous un ou des moments durs. J’avance avec les crampes, je vois mes quadriceps se contracter et je pourrais presque distinguer les fibres musculaires et les tendons tellement les crampes sont fortes. À partir de ce moment, c'est la descente aux enfers. Malgré des pauses, après avoir ralenti, je sens que ça va être compliqué.
 
     À ce moment on peut se poser beaucoup de questions et la gestion de course peut s'avérer totalement différente.
 
