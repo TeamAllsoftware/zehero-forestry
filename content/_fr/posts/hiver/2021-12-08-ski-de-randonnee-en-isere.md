@@ -147,8 +147,8 @@ page_sections:
     De plus, le rythme est souvent donné par le guide qui adapte la vitesse au niveau de groupe. Le but étant de pouvoir admirer le paysage en se sentant le mieux possible, avec une notion d'effort tout de même.
   title: Une liberté qui n’exclut aucuns risques
   content: Il ne faut, tout de même, ne pas oublier que la montagne est un environnement
-    sauvage et complexe qui peut s’avérer dangereux si l’on n’anticipent pas les risques
-    probable au maximum. C’est la raison pour laquelle les équipements de sécurité
+    sauvage et complexe qui peut s’avérer dangereux si l’on n’anticipe pas les risques
+    probables au maximum. C’est la raison pour laquelle les équipements de sécurité
     sont primordiaux, mais le principal étant de savoir s’en servir !
 - template: textarea
   textarea: |-
