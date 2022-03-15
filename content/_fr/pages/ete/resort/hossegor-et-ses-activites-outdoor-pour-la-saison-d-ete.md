@@ -77,6 +77,11 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  title: Un séjour de glisse
+  content: |-
+    Séjourner à Hossegor c'est vivre au rythme des marrés, du surf. C'est ressentir cette ambiance cool et chic, cette nature sauvage et ces vagues mythiques. C'est méditer sur la plage en pratiquant le Yoga devant ces couchers de soleil unique parmi ces kilomètres de plages.
+
+    Vivez un séjour sportif ou de détente, de glisse et de découverte dans cette ville landaise mondialement connue, Hossegor.
 
 ---
