@@ -61,10 +61,10 @@ fields:
     required: true
     options: []
     source:
-      type: pages
+      type: documents
       section: category-labels
-      file: 
-      path: 
+      file: _data/cat-activity.yml
+      path: Cat activity
   label: categorie
   description: Category label activity page, include in the filter
 - name: permalink
