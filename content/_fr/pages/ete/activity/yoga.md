@@ -83,13 +83,13 @@ page_sections:
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643877189/website/summer/eneko-urunuela-I2YSmEUAgDY-unsplash_ycyjgg.jpg
   prlax_alt_text_for_image: Femme debout au sommet d'une montagne au lever de soleil
-    faisant des étirement de Yoga
+    faisant des étirements de Yoga
   captionabovetitle: Prenez du temps pour vous
   title: Le Yoga est fait pour vous
   gridline1title: Trouvez vos séances de Yoga
   gridline1content: Le Yoga se pratique partout et demande très peu de matériel. Une
     tenue de sport, un tapis et parfois quelques accessoires en plus. Vous pouvez
-    en faire en intérieur et en extérieur. Les activités de Yoga en extérieur apporte
+    en faire en intérieur et en extérieur. Les activités de Yoga en extérieur apportent
     une touche supplémentaire de bien être via les bruits de la nature.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643877189/website/summer/kaylee-garrett-GaprWyIw66o-unsplash_eoxnfm.jpg
   grid_1_alt_text_for_image: Un groupe de personne faisant du Yoga en s'étirant
