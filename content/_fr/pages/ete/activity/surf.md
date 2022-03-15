@@ -78,7 +78,7 @@ page_sections:
     sur la vague. Un sport exigeant et physique mais qui offre des sensations incroyables
     de glisse.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642661311/website/summer/carles-rabada-TbJg-UB7mGs-unsplash_1_nz9e4g.jpg
-  gridline2content: On débute toujours avec des longboard. Ce sont des planches plus
+  gridline2content: On débute toujours avec des longboards. Ce sont des planches plus
     grandes et plus lourdes, qui vont permettre d'avoir un volume plus important et
     de flotter plus facilement. De ce fait, il sera plus facile de partir sur la vague,
     de tenir sur la planche et donc d'apprendre.
@@ -87,8 +87,8 @@ page_sections:
   prlax_alt_text_for_image: Surfeur faisant une figure de surf sur une vague
   grid_1_alt_text_for_image: Vue du ciel d'une vague arrivant sur un surfeur qui rame
     pour la prendre
-  grid_2_alt_text_for_image: Vue d'une planche de surf de longboard jaune posé droite
-    et debout sur la plage avec l'océan à coté
+  grid_2_alt_text_for_image: Vue d'une planche de surf de longboard jaune posée droite
+    et debout sur la plage avec l'océan à côté
 - template: textarea
   title: Les différentes planches
   content: "Ils existent un vaste choix de planche de surf. Chacune va évoluer en
