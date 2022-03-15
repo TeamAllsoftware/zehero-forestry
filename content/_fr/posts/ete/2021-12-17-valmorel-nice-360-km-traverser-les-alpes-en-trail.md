@@ -43,7 +43,7 @@ page_sections:
     je partais avec ma tente et mon réchaud, soit je faisais des étapes et je dormais
     dans des refuges le soir. Ce qui me permettait de courir en journée.  \nChoix
     pas évident, car pour le 1er, l’avantage, c'est qu’on s’arrête dormir quand on
-    veut et où on veut. Le 2ᵉ choix, l’avantage, c'est que j’ai un lit, un bon repas
+    veut et où l'on veut. Le 2ᵉ choix, l’avantage, c'est que j’ai un lit, un bon repas
     chaud et surtout un sac très léger…"
   alt_text_for_image: Enfant dehors ouvrant une carte ign
 - template: textarea
