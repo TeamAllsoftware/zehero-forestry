@@ -2,7 +2,7 @@
 layout: layout_activity
 permalink: "/fr/hiver/activites/activites-pour-les-enfants"
 redirect_from:
-  - /fr/hiver/activite/activites-pour-les-enfants
+- "/fr/hiver/activite/activites-pour-les-enfants"
 language: fr
 season: winter
 topnav_color_text: dark
@@ -45,6 +45,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Les différentes structures qui mettent en place ses activités proposent chaque jour une activité différente. Un système de garderie sera également en place. Elles auront lieu généralement l'après-midi ainsi que le soir en fonction de l'activité mise en place : marche en raquette dans les bois, construction d'igloo la nuit...
@@ -62,5 +63,6 @@ engage: Des activités accessibles, ludiques et outdoor
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez une activité pour v
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=21%2F11%2F2021
+categorie: Pour les enfants
 
 ---
