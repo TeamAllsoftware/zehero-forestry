@@ -118,9 +118,9 @@ page_sections:
     * Matériel de sécurité : pelle, sonde...
   title: Le matériel
   content: |-
-    * Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien plus souples au niveau de la cheville pour permettre le mouvement de flexion dont on nécessite pour pour monter les skis au pieds)
+    * Chaussures de ski de randonnée, différentes de la chaussure de ski alpin (elles sont bien plus souples au niveau de la cheville pour permettre le mouvement de flexion dont on nécessite pour monter les skis aux pieds)
     * Bâtons de ski spécifiques à ce type de ski (télescopiques ou monobrins)
-    * Pantalons spécifique (moins chaud et bien étanche)
+    * Pantalon spécifique (moins chaud et bien étanche)
 - template: textarea
   textarea: |-
     ### Une liberté qui n'exclut aucuns risques
