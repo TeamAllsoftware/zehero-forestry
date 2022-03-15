@@ -372,7 +372,7 @@ page_sections:
   content: |-
     > Nous avons partagé tous les cinq une micro-aventure dont nous nous souviendrons longtemps et qui restera gravée dans nos mémoires.
 
-    P.S.: La montagne peut être dangereuse, il ne faut pas prendre à la légère la préparation et le matériel nécessaire à une sortie en montagne. C’est parce que nous avions bien préparé le weekend que nous avons profité un maximum, même dans des conditions difficiles. Le tracé était programmé, nous avions une carte papier et la trace GPX dans nos smartphones. Chacun d’entre nous avait le matériel nécessaire pour avoir chaud, se protéger du vent et de la pluie, de quoi manger pour l’ensemble des repas et le matériel nécessaire pour dormir par des températures négatives.
+    P.S.: La montagne peut être dangereuse, il ne faut pas prendre à la légère la préparation et le matériel nécessaires à une sortie en montagne. C’est parce que nous avions bien préparé le weekend que nous avons profité un maximum, même dans des conditions difficiles. Le tracé était programmé, nous avions une carte papier et la trace GPX dans nos smartphones. Chacun d’entre nous avait le matériel nécessaire pour avoir chaud, se protéger du vent et de la pluie, de quoi manger pour l’ensemble des repas et le matériel nécessaire pour dormir par des températures négatives.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644505506/website/blog/2-jours-raquettes-vosges/20220206_170810_esdx3l.jpg
   alt_text_for_image: 5 amis pour une micro-aventure hivernale dans le massif des
     Vosges les 5 et 6 février 2022
