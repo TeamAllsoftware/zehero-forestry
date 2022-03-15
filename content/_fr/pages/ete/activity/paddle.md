@@ -6,15 +6,15 @@ topnav_color_text: dark
 title: Paddle
 permalink: "/fr/ete/activites/paddle"
 redirect_from:
-  - /fr/ete/activite/paddle
-meta-title: Le paddle, découvrez toutes les activités possibles à faire sur l'eau
-meta-description: Partir naviguer en paddle sur un lac, sur la mer ou sur l'océan pour
-  quelques heures, yoga, randonner ou surfer
+- "/fr/ete/activite/paddle"
+meta-title: Le paddle, une activité pour naviguer sur l'eau debout
+meta-description: Partir naviguer en paddle sur un lac, sur la mer ou sur l'océan
+  pour quelques heures, yoga, randonner ou surfer
 baseline: Balade, randonné et glisse
 engage: Partez randonner en Stand up paddle sur lac ou sur mer
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121216/website/summer/damir-spanic-yG_kRzUtajU-unsplash_bgrwuc.jpg
 image01_alt: Personne faisant du stand up paddle sur la mer au coucher de soleil
-categorie: "Eaux vives"
+categorie: Eaux vives
 page_sections:
 - template: textarea
   title: Le paddle
@@ -45,6 +45,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Une activité pour tous
   content: "Le paddle, quelque soit le lieu de pratique, sera praticable par tout
@@ -89,5 +90,8 @@ page_sections:
     Ponçons.  \nOn retrouve aujourd'hui des compétitions de paddle sur les rivières,
     les lacs et la mer en été comme hiver.\n\nÉvadez vous en paddle, musclez-vous,
     aérez-vous, randonnez et profitez."
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---
