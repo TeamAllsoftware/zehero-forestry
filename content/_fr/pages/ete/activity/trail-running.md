@@ -49,7 +49,7 @@ page_sections:
     son bien-être physique et mental. Mais aussi pour le partager en groupe, avec
     des amis lors de sorties longues. C'est également la compétition afin d'essayer
     de se dépasser soi-même avec l'émulsion des participants et parfois des parcours
-    uniques et magnifique. La compétition en trail est un moyen de fixer ses propres
+    uniques et magnifiques. La compétition en trail est un moyen de fixer ses propres
     objectifs.
 - template: liststyle01
   title: Les différentes courses
