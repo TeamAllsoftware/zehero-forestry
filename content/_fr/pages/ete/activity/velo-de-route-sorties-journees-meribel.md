@@ -106,7 +106,7 @@ page_sections:
   title: Annecy par les cols
   captiontitleuppercase: Journée 6
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage6_wuyrnq.png
-  content: 'Cette dernier journée vous amène entre lac et montagnes. En partant de
+  content: 'Cette dernière journée vous amène entre lac et montagnes. En partant de
     Méribel, vous rejoindrez Albertville et grimperez le Col de Tamié. Ensuite, vous
     prendrez la direction de Faverges pour rejoindre le Col de la Forclaz qui sera
     plutôt raide mais la vue en vaut le coup. Vous redescendrez pour finir sur la
