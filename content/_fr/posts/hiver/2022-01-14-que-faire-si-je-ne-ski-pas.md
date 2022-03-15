@@ -5,20 +5,22 @@ season: winter
 author: yannalarcon
 topnav_color_text: dark
 title: 2022-01-14-que-faire-si-je-ne-ski-pas
-post-title: Que faire en station de ski lorsque je ne fais pas de ski ou de snowboard ?
-meta-title: Que faire en station de ski lorsque je ne fais pas de ski ou de snowboard ?
-meta-description: Si nous ne désirons pas faire de ski, quelles sont les différentes options qui s'offrent à nous comme activités.
+post-title: Que faire en station de ski lorsque je ne fais pas de ski ou de snowboard
+  ?
+meta-title: Que faire en station lorsque je ne fais ni ski ni snowboard ?
+meta-description: Si nous ne désirons pas faire de ski, quelles sont les différentes
+  options qui s'offrent à nous comme activités.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642165833/website/Conseil%20/alain-wong-f-oxr0Lk5EU-unsplash_ths7rd.jpg
 image01_alt: Chemin dans la forêt de sapin dans la neige
 page_sections:
 - template: textarea
   title: La montagne sans le ski ?
-  content: 'Vous désirez aller à la montagne et profiter d''un séjour à la neige ?
-    Mais vous ne souhaitez pas faire de ski ou de snowboard. Il est vrai que c''est
-    l''activité principale de la plupart des les stations de ski. Aujourd''hui, beaucoup
-    de stations proposent diverses activités non-ski. Mais il est toujours judicieux
-    de regarder sur le site de l''office du tourisme et se renseigner sur les différentes
-    activités que la station propose. '
+  content: Vous désirez aller à la montagne et profiter d'un séjour à la neige ? Mais
+    vous ne souhaitez pas faire de ski ou de snowboard. Il est vrai que c'est l'activité
+    principale de la plupart des stations de ski. Aujourd'hui, beaucoup de stations
+    proposent diverses activités non-ski. Cependant, il est toujours judicieux de
+    regarder sur le site de l'office du tourisme et de se renseigner sur les différentes
+    activités que la station propose.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642165834/website/Conseil%20/benjamin-zanatta-WUdA1_7Lqlw-unsplash_crfnpj.jpg
   captiontitleuppercase: Les différentes activités en montagne l'hiver
