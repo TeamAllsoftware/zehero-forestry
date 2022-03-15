@@ -52,21 +52,21 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: "Vous pourrez alors faire des cours collectifs ou des cours privés. Les
-    cours collectifs seront moins chers, mais le moniteur ne sera pas 100% dédiée
-    à vous. Mais vous pourrez profiter de l'ambiance et de l'émulsion du groupe. Il
-    existe aussi beaucoup de Surf Camp qui permettent d'avoir des cours de surf en
-    proposant également le logement et la restauration.  \nLes cours de Surf peuvent
-    fluctuer en fonction des marées. Les heures de cours changeront alors selon les
-    heures des marées.  \nEn surf, les vagues ne s'étirent pas sur tout l'océan et
-    comme évoqué plus haut, il y a des zones où les vagues se forment. De ce fait,
-    il peut y avoir beaucoup de monde au même endroit. C'est pour cela qu'il est important
-    de bien apprendre à surfer et de connaitre les règles du surf (priorité la personne
-    de notre droite).\n\nLorsque l'on débute, on va d'abord commencer par apprendre
-    à surfer les mousses, ce qui permet d'être au bord, de ne pas s'épuiser à aller
-    au pic. Mais s'est également avoir une vague de mousse qui permettre d'apprendre
-    à bien se levé. Une fois que ce niveau est acquis, vous commencerez à essayer
-    de prendre les vagues qui se forment plus aux larges et de bien réussir son départ
-    sur la vague."
+    cours collectifs seront moins chers, mais le moniteur ne sera pas 100% dédié à
+    votre progression. Mais vous pourrez profiter de l'ambiance et de l'émulsion du
+    groupe. Il existe aussi beaucoup de Surf Camp qui permettent d'avoir des cours
+    de surf en proposant également le logement et la restauration.  \nLes cours de
+    Surf peuvent fluctuer en fonction des marées. Les heures de cours changeront alors
+    selon les heures des marées.  \nEn surf, les vagues ne s'étirent pas sur tout
+    l'océan et comme évoqué plus haut, il y a des zones où les vagues se forment.
+    De ce fait, il peut y avoir beaucoup de monde au même endroit. C'est pour cela
+    qu'il est important de bien apprendre à surfer et de connaitre les règles du surf
+    (priorité à la personne à notre droite).\n\nLorsque l'on débute, on va d'abord
+    commencer par apprendre à surfer les mousses, ce qui permet d'être au bord, de
+    ne pas s'épuiser à aller au pic. Mais c'est également avoir une vague de mousse
+    qui permettra d'apprendre à bien se lever. Une fois que ce niveau est acquis,
+    vous commencerez à essayer de prendre les vagues qui se forment plus au large
+    et de bien réussir son départ sur la vague."
   title: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1641562732/website/summer/cedric-frixon-G9Rfc1qccH4-unsplash_gr8ksg.jpg
