@@ -191,7 +191,7 @@ page_sections:
   content: "J'en suis à la moitié, et j'entame la descente en passant à travers un
     imposant troupeau de mouton. J'ai toujours peur qu'un Patou n'apprécie guère ma
     foulée à côté de lui. Après une mauvaise expérience en Bolivie, j'ai toujours
-    une crainte quand je cours prêt des chiens. En tout cas, j'avance correctement
+    une crainte quand je cours près des chiens. En tout cas, j'avance correctement
     et facilement jusqu'à Larche en passant par le Col de Mallemort.  \n6h30 de course,
     j'ai le temps de me mettre dans le hamac et de profiter de la fin de journée avant
     le meilleur repas de ma semaine en refuge."
