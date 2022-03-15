@@ -126,13 +126,13 @@ page_sections:
   content: |-
     J’ai eu un regret… Ne pas avoir abandonné au prochain ravitaillement 9km plus loin. Avoir stoppé ma course au Pico Ruivo n'était pas du tout la meilleure idée. Ce Pico n'était pas du tout bien situé pour que je puisse rentrer facilement à Machico, contrairement au Pico de Arieiro.
 
-    On m’annonce qu’il faut 12 abandons pour qu’un petit bus nous ramène. Bon, je ne souhaite pas que ces 12 personnes abandonnent mais ça risque d’être long. Après une petite sieste, j’étais gelé, une constante brume se figer à ce Pico. Il y avait un parking à 2km, et la route ensuite descendait à Santana. Après 3h d’attente, 4 cafés, quelques poignées de fromage et de chips, je suis partie à pied au parking pour faire du stop et descendre à Santana.
+    On m’annonce qu’il faut 12 abandons pour qu’un petit bus nous ramène. Bon, je ne souhaite pas que ces 12 personnes abandonnent mais ça risque d’être long. Après une petite sieste, j’étais gelé, une constante brume se figer à ce Pico. Il y avait un parking à 2km, et la route ensuite descendait à Santana. Après 3h d’attente, 4 cafés, quelques poignées de fromage et de chips, je suis parti à pieds au parking pour faire du stop et descendre à Santana.
 
     J’ai réussi à être pris en stop jusqu’à Santana, puis pour aller à Machico j’ai pu prendre un taxi car le stop ne fonctionnait plus très bien.
 
     Soulagement d’arriver à Machico et retrouver tous les autres qui ont pu faire une belle course.
 
-    Je me dis qu’au moins je serais le seul à bien dormir cette nuit car après 80km généralement on dort toujours très mal.
+    Je me dis qu’au moins je serai le seul à bien dormir cette nuit car après 80km généralement on dort toujours très mal.
 - template: 3coltxtimgtxt
   captionleftcontent: Demain je rentrerai, je m’occuperai de ma chérie enceinte.
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1639651640/website/blog/Mad%C3%A8re/IMG20211121152328_tjrevq.jpg
