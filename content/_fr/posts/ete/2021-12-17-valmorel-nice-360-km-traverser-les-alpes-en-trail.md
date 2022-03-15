@@ -269,8 +269,8 @@ page_sections:
   content: Après une belle nuit en compagnie d'Eve, je me lève pour la dernière journée
     de cette traversée. C'est bizarre de se dire que ça va s'arrêter ensuite. Mais
     en tout cas, ce matin je rigole moins et mes ampoules me font mal. Mes pieds se
-    sont transformées en guirlande de Noël. Je peine à courir au début mais je me
-    force car Eve et sa Grand mère me regardent partir.
+    sont transformés en guirlande de Noël. Je peine à courir au début mais je me force
+    car Eve et sa Grand mère me regardent partir.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733477/website/blog/Valmorel%20-%20Nice/IMG_20200713_112518_mimoua.jpg
   captiontitleuppercase: En route pour la mer
