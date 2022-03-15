@@ -180,7 +180,7 @@ page_sections:
 - template: textarea
   content: J'arrive ensuite au lac miroir puis au lac St Anne. Le Queyras est incroyable,
     c'est un mélange des Alpes du Nord et du Sud. Il est verdoyant et minéral, j'avoue
-    avoir eu petit coup de cœur pour ce lieu.  Au col Girardin je prend une pause,
+    avoir eu un petit coup de cœur pour ce lieu.  Au col Girardin je prend une pause,
     je suis ému car les émotions sont fortes. Je suis là, je suis içi, courir c'est
     profiter de l'instant présent et le vivre pleinement.
   title: ''
