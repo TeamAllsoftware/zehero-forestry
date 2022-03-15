@@ -6,7 +6,7 @@ topnav_color_text: dark
 title: Yoga
 permalink: "/fr/ete/activite/yoga"
 redirect_from:
-  - /fr/ete/activite/yoga
+- "/fr/ete/activite/yoga"
 meta-title: Pratiquer le yoga pour son bien-être et la détente qu'il procure
 meta-description: Yoga, bien être et tonicité
 baseline: Respiration, calme et fortifiant
@@ -18,15 +18,15 @@ categorie: yoga
 page_sections:
 - template: textarea
   title: Présentation Yoga
-  content: 'Le Yoga, d''une manière générale, est une pratique de bien-être, de détente,
+  content: Le Yoga, d'une manière générale, est une pratique de bien-être, de détente,
     de méditation mais aussi de tonicité. On va y retrouver alors de la gymnastique
     douce, différentes postures et enchainement de gestes, de la respiration, des
     étirements. Elle aura pour effet la relaxation mentale et physique. Elle est accessible
     pour tout le monde, des enfants aux adultes, pour tous les niveaux. Le Yoga se
     pratique partout, avec ou sans tapis, vous pourrez réaliser vos postures et votre
-    respiration. Aujourd''hui vous pouvez trouver des séances de Yoga qui vont se
-    dérouler dans des cadres idyllique tel qu''à la mer, en montagne, en forêt afin
-    de vous plonger dans un moment de plénitude. '
+    respiration. Aujourd'hui vous pouvez trouver des séances de Yoga qui vont se dérouler
+    dans des cadres idylliques tels qu'à la mer, en montagne, en forêt afin de vous
+    plonger dans un moment de plénitude.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643877189/website/summer/amauri-mejia-n5trbdfW7fM-unsplash_cdxg7l.jpg
   alt_text_for_image: Personne faisant du Yoga dans une forêt faisant un étirement
@@ -49,6 +49,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "On va retrouver alors différents types de Yoga pour différentes pratiques
     et selon les personnes.\n\n* Hatha Yoga qui est le Yoga classique où l'on va chercher
@@ -81,6 +82,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643877189/website/summer/eneko-urunuela-I2YSmEUAgDY-unsplash_ycyjgg.jpg
   prlax_alt_text_for_image: Femme debout au sommet d'une montagne au lever de soleil
@@ -100,5 +102,8 @@ page_sections:
   gridline2content: Profitez d'une séance en plein air dans des lieux apaisants. Les
     séances se déroulent en groupe entre 1h et 1h30, quelque soit votre niveau. Vous
     pourrez alors profiter de ces séances de Yoga le matin ou en fin de journée.
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---
