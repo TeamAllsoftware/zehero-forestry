@@ -63,8 +63,8 @@ page_sections:
   title: Bien être
   gridline1title: Quelle paddle pour vous ?
   gridline1content: Les paddles longs et larges seront pour les personnes souhaitant
-    faire du yoga, se promener à plusieurs dessus, ceux qui cherchent un paddle faciles
-    et stables. Un paddle au boit pointu, plus fin mais long sera pour des randonnées
+    faire du yoga, se promener à plusieurs dessus, ceux qui cherchent un paddle facile
+    et stable. Un paddle au bout pointu, plus fin mais long sera pour des randonnées
     longues et de la vitesse. Un paddle petit sera parfait pour le surf.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121216/website/summer/daniel-frank-ipombqoEXpE-unsplash_i5tdyz.jpg
   gridline2title: Rigide ou gonflable
