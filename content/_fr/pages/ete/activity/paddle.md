@@ -9,8 +9,8 @@ redirect_from:
 - "/fr/ete/activite/paddle"
 meta-title: Le paddle, une activité pour naviguer sur l'eau debout
 meta-description: Partir naviguer en paddle sur un lac, sur la mer ou sur l'océan
-  pour quelques heures, yoga, randonner ou surfer
-baseline: Balade, randonné et glisse
+  pour quelques heures
+baseline: Balade, randonnée et glisse
 engage: Partez randonner en Stand up paddle sur lac ou sur mer
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121216/website/summer/damir-spanic-yG_kRzUtajU-unsplash_bgrwuc.jpg
 image01_alt: Personne faisant du stand up paddle sur la mer au coucher de soleil
@@ -18,16 +18,14 @@ categorie: Eaux vives
 page_sections:
 - template: textarea
   title: Le paddle
-  content: "Le paddle c'est une activité qui consister à avancer debout sur un grande
-    planche en s'aidant d'une pagaie. On peut alors se déplacer sur un lac, sur la
-    mer, sur une rivière et même sur les vagues. C'est activité plutôt récente qui
-    a su prendre beaucoup d'ampleur depuis quelques années. Cela est surtout dû à
-    la mise en place des stands up paddle gonflables. Un paddle c'est une longue planche
-    qui peut mesurer de 10 à 14 pied. Aujourd'hui on trouve des planches en époxy,
-    en fibre, en carbone mais également en PVC gonflable à haute pression. Cette activité
-    est aujourd'hui présente dans de nombreuse utilité :\n\n* La randonnée\n* S'amuser
-    en famille et se promener\n* Le yoga\n* Des compétitions de rapidité \n* Le paddle
-    surf"
+  content: |-
+    Le paddle c'est une activité qui consiste à avancer debout sur un grande planche en s'aidant d'une pagaie. On peut alors se déplacer sur un lac, sur la mer, sur une rivière et même sur les vagues. Cette activité plutôt récente a su prendre beaucoup d'ampleur depuis quelques années. Cela est surtout dû à la mise en place des stands up paddle gonflables. Un paddle c'est une longue planche qui peut mesurer de 10 à 14 pied. Aujourd'hui on trouve des planches en époxy, en fibre, en carbone mais également en PVC gonflable à haute pression. Cette activité est aujourd'hui présente dans de nombreuses utilités :
+
+    * La randonnée
+    * S'amuser en famille et se promener
+    * Le yoga
+    * Des compétitions de rapidité
+    * Le paddle surf
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/hanif-mahmad-CbMLzxrvwcg-unsplash_ugwttz.jpg
   captiontitleuppercase: Se promener en se musclant
