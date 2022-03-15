@@ -119,9 +119,9 @@ page_sections:
 - template: textarea
   title: La montagne vous attend
   content: Venez respirer l'air pur de la montagne, admirez les lacs de haute altitude,
-    regardez les chamois et leurs agilités incroyables, observez la pureté des fleurs
-    de montagne. Venez partager un moment de bien-être en marchands sur les sentiers
-    qui vous éloigne du monde et vous rapproche de la liberté.
+    regardez les chamois et leur agilité incroyable, observez la pureté des fleurs
+    de montagne. Venez partager un moment de bien-être en marchant sur les sentiers
+    qui vous éloignent du monde et vous rapprochent de la liberté.
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
