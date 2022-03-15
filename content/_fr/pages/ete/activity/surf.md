@@ -34,15 +34,16 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642605798/website/summer/victoria-palacios-scIXeTCipZA-unsplash_dhmqlq.jpg
   captiontitleuppercase: Le surf pour tout le monde
   title: Apprenez à surfer
-  content: Le surf s'apprend difficile seul, sans l'aide de moniteur. Tout d'abord
+  content: Le surf s'apprend difficilement seul (sans l'aide de moniteur). Tout d'abord
     il faut bien choisir sa planche et sa taille. On ne débutera pas avec des planches
     petites, mais généralement des longues planches qui permettront de partir plus
     facilement sur une vague. De plus, les planches de surf seront souvent en mousse
     pour les débutants. Ensuite, il faut connaitre les spots de surf, car les vagues
     se formes en fonction des baïns. Plus haut dans l'Atlantique, on peut retrouver
     des vagues proches des roches, avec de fort courant. La technique de surf demande
-    d'avoir des conseils. Le take-off c'est le fait de se lever sur la planche le
-    plus rapidement et efficacement possible afin de bien glisser sur la vague.
+    bien souvent d'être accompagné pour bénéficier de conseils. Le take-off c'est
+    le fait de se lever sur la planche le plus rapidement et efficacement possible
+    afin de bien glisser sur la vague.
   button:
     text_button: ''
     href_button: ''
