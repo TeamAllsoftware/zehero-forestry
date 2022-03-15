@@ -14,7 +14,7 @@ baseline: Location de Canoë Kayak
 engage: Partez à l'aventure en naviguant sur un Kayak ou un Canoë
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588328/website/summer/jeff-isaak-p7nrRdMDebM-unsplash_wxc6gr.jpg
 image01_alt: Femme naviguant dans un canoë kayak sur un lac avec la montagne derrière
-categorie: Eaux vives
+categorie: "Eaux vives"
 page_sections:
 - template: textarea
   content: |-

@@ -14,7 +14,7 @@ baseline: Balade, randonnée et glisse
 engage: Partez randonner en Stand up paddle sur lac ou sur mer
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121216/website/summer/damir-spanic-yG_kRzUtajU-unsplash_bgrwuc.jpg
 image01_alt: Personne faisant du stand up paddle sur la mer au coucher de soleil
-categorie: Eaux vives
+categorie: "Eaux vives"
 page_sections:
 - template: textarea
   title: Le paddle
