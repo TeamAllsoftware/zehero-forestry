@@ -40,11 +40,11 @@ page_sections:
     bien grand mot dans la mesure où j’avais du mal à respirer avec cette crève. Mais
     j’avais envie, l’excitation de la course était revenue, de voir cette île, ces
     falaises imposantes, cette île verdoyante. Avec Cédric nous sommes allés trottiner
-    sur le bout est de l’île à Ponta de Saõ Lourenço. Les jambes étaient plutôt bonnes
-    et le souffle aussi. Quel pied de pouvoir courir. Je n'étais pas à 100% mais j’étais
-    mieux. Je ne voulais plus réfléchir sur mon état, ni penser à si j’étais prêt.
-    Je pensais seulement à vivre le moment présent et faire ce que je peux faire,
-    le reste sera du bonus.
+    sur le bout Est de l’île à Ponta de Saõ Lourenço. Les jambes étaient plutôt bonnes
+    et le souffle aussi. Quel pied de pouvoir courir. Je n'étais pas à 100% de ma
+    forme mais j’étais mieux. Je ne voulais plus réfléchir sur mon état, ni penser
+    à si j’étais prêt. Je pensais seulement à vivre le moment présent et faire ce
+    que je peux faire, le reste sera du bonus.
   alt_text_for_image: Coureur se prenant un photo en courant à Madère avec une tenue
     de la marque Instinct Trail
 - template: 3coltxtimgtxt
