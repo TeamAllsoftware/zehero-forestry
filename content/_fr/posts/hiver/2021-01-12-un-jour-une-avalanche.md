@@ -44,7 +44,7 @@ page_sections:
 
     Quand j'ai commencé à visualiser que ce bruit était en fait une avalanche, la réalité m'a frappé de plein fouet. J'ai compris qu'une plaque venait de partir au moins 50m au dessus de nous. Elle était assez large mais pas trop épaisse, elle n'est donc pas partie vite. Cela m'a permis de reculer le plus rapidement possible. Je criais sur mon père en ayant peur qu'il se fasse prendre. Lui courait, essayant tant bien que mal d'esquiver l'avalanche. Par chance, elle n'a pas eu le temps de prendre beaucoup de vitesse, elle était lourde et glissait doucement avec de la neige compacte. Mon père est tombé en essayant de courir avec les skis.
 
-    A ce moment là, j'ai eu très peur mais j'étais très concentré sur le fait de surveiller où mon père pouvait être traîné et embarqué. Mon but était de garder mon sang froid et toute la concentration possible pour dégainer et sortir mon DVA et le chercher.
+    À ce moment là, j'ai eu très peur mais j'étais très concentré sur le fait de surveiller où mon père pouvait être traîné et embarqué. Mon but était de garder mon sang froid et toute la concentration possible pour dégainer et sortir mon DVA et le chercher.
 
     Ce jour-là, mon père a eu le bon réflexe de se tourner face à l'avalanche et de bloquer avec ses skis la neige. Vu que la coulée n'était pas très rapide ni trop forte, elle l'emporta tout doucement. Elle le traîna plusieurs mètres plus bas, sans l'ensevelir. En fin de compte, il se stoppa, la neige jusqu'au cou. L'avalanche, elle, avait gonflé sur son flanc gauche et était descendue bien bas.
   title: ''
