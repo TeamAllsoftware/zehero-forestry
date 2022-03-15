@@ -88,9 +88,9 @@ page_sections:
     lac derrière
 - template: textarea
   content: |-
-    Si vous souhaitez découvrir des lieux par des grande balades, le VTT est l'activité parfaite. Si vous désirez travailler vos jambes, votre cardio tout en aimant la vitesse, et les sensations fortes alors le VTT est la discipline parfaite.
+    Si vous souhaitez découvrir des lieux par des grandes balades, le VTT est l'activité parfaite. Si vous désirez travailler vos jambes, votre cardio tout en aimant la vitesse, et les sensations fortes alors le VTT est la discipline parfaite.
 
-    Le VTT se pratique partout, mais si vous désirez aller dans les coins en France où la pratique est importante, où le lieu permet des balades incroyables. Beaucoup de station un panel de parcours avec des supers aménagements, tel que :
+    Le VTT se pratique partout, mais si vous désirez aller dans les coins en France où la pratique est importante, où le lieu permet des balades incroyables, suivez notre guide ! Beaucoup de stations proposent un panel de parcours avec des supers aménagements, tel que :
 
     * Les Saisies avec la piste "les Bikettes"
     * La Clusaz et sa piste "La trace du Bélier"
