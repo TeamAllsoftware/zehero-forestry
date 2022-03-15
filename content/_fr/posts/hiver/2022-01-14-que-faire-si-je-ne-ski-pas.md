@@ -59,7 +59,7 @@ page_sections:
     * De la patinoire
     * Snake glisse pour rigoler sur les pistes en luge
     * Le chien de traineau pour des moments inoubliables
-    * Pour les enfants, ils existent beaucoup d'activités amusantes que la station et les activités proposent
+    * Pour les enfants, ils existent beaucoup d'activités amusantes que la station propose
   alt_text_for_image: Femme marchand sur la neige en tirant son enfant dans une luge
 - template: textarea
   title: Pour les plus sportifs
