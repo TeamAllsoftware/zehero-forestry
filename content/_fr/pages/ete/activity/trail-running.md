@@ -100,12 +100,10 @@ page_sections:
     alt_button: ''
   blockBGcolor: ''
 - template: textarea
-  content: "Si vous souhaitez progresser, comprendre les clés de l'entrainement et
-    de la préparation, avoir un entraîneur est alors idéale. L'encadrement en trail
-    permet également de découvrir des lieux et de partager ses séances en groupe.
-    Il vous permettra d'évoluer et de progresser. \n\nVous pourrez également participer
-    à des sorties de trail longues. Elles permettront de découvrir un lieu, un environnement
-    avec un groupe."
+  content: |-
+    Si vous souhaitez progresser, comprendre les clés de l'entrainement et de la préparation, avoir un entraîneur est alors idéal. L'encadrement en trail permet également de découvrir des lieux et de partager ses séances en groupe. Il vous permettra d'évoluer et de progresser.
+
+    Vous pourrez également participer à des sorties de trail longues. Elles permettront de découvrir un lieu, un environnement avec un groupe.
   title: Etre encadré
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg
