@@ -285,7 +285,7 @@ page_sections:
     fasse beaucoup trop chaud. J'ai même le droit à un peu de pluie et de jolies sons
     d'orage ainsi qu'une couleuvre énorme. Je vois la mer et je suis ému, je pense
     à Eve qui m'attend à la mer à Nice. Je pense à cette traversée, ce que j'ai vécu,
-    ces souvenirs. Quelle aventure, c'est unique et fort, riches en émotions.  \nJ'entame
+    ces souvenirs. Quelle aventure, c'est unique et fort, riche en émotions.  \nJ'entame
     la fin et j'arrive dans Nice. Je sens que je suis heureux d'arriver, de prendre
     Eve dans mes bras. Par contre, je n'étais pas prêt à ce bruit de ville, ces voitures,
     ce monde. Je ressens de l'irritation, trop de bruit, je suis gêné et perdu. J'étais
