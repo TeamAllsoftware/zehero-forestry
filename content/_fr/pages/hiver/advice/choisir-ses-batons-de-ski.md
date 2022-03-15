@@ -12,6 +12,7 @@ redirect_from:
   - /fr/hiver/conseil/choisir-ses-bâtons-de-ski
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642411068/website/Conseil%20/urban-sanden-RCF-_l7vITo-unsplash_fpch78.jpg
 image01_alt: Bâtons de ski dans la neige
+categorie: blabla
 button_to_link_to_ze_hero_shop:
   button_text: Louer vos skis
   url_to_shop_zehero: https://shop.ze-hero.com/location-materiel/location-ski/location-ski-enfant

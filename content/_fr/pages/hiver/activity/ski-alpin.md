@@ -13,6 +13,7 @@ meta-description: Des premiers virages au carving, pratiquez le ski de piste et 
 baseline: Slalom, chasse-neige, tout schuss
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-groupe-amis_weuk4g.jpg
 image01_alt: Ski de piste domaine skiable montagne
+categorie: ski
 page_sections:
 - template: textarea
   content: Le ski alpin est une discipline qui consiste à descendre les pistes de

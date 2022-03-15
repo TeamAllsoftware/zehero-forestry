@@ -14,6 +14,7 @@ baseline: Vitesse, sensation et randonnée
 engage: Faites le plein de sensation à travers les pistes de VTT
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/lachlan-cruickshank-S9v_EPJfGys-unsplash_b5jpdh.jpg
 image01_alt: Groupe de personne faisant du VTT sur un sentier de terre face à la montagne
+categorie: vélo
 page_sections:
 - template: textarea
   content: Le VTT, appelé également le mountain bike, le vélo tout terrain ou encore

@@ -14,6 +14,7 @@ baseline: Traversé, endurance et liberté
 engage: Traversez les Alpes à vélo par les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642520843/website/summer/pexels-pavel-danilyuk-5807686_jcwovf.jpg
 image01_alt: Groupe de 3 personnes faisant du vélo sur une route bordée de pins
+categorie: vélo
 page_sections:
 - template: textarea
   content: "La grande traversée des Alpes à vélo est un voyage incroyable à travers

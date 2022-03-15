@@ -15,6 +15,7 @@ engage: Partez découvrir les secrets des montagnes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582618/website/summer/pexels-eric-sanman-1365425_uouohg.jpg
 image01_alt: Groupe de marcheurs et de randonneurs en montagnes qui marchent sur un
   sentier
+categorie: Randonnée
 page_sections:
 - template: textarea
   title: La randonnée en montagne

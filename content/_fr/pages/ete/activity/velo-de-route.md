@@ -15,6 +15,7 @@ engage: Explorez de nouveaux horizons et grimpez les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883618/website/summer/velo-duo-descente-col_bqhfjm.jpg
 image01_alt: 'Deux cycliste faisant du vélo de route dans une descente d''une route
   ensoleillé '
+categorie: vélo
 page_sections:
 - template: textarea
   content: "Le vélo de route est une activité physique qui permet de partir sur de

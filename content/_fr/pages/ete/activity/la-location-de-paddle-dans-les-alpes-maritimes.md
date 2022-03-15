@@ -14,6 +14,7 @@ baseline: Location Paddle Alpes Maritimes
 engage: Explorez les Alpes Maritimes en Paddle sur lac ou mer
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643972871/website/Conseil%20Equiepement/dieter-schafer-b6NiWBQ8kno-unsplash_xnsmg1.jpg
 image01_alt: Vue de la mer dans le massif de l'Esterel
+categorie: "Eaux vives"
 page_sections:
 - template: textarea
   title: Activité Paddle dans les Alpes Maritimes

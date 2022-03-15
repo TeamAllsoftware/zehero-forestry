@@ -14,6 +14,7 @@ engage: Accompagnement et progression en course à pied et Trail
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294098/website/Coaching/IMG_20200723_153328_iufidi.jpg
 image01_alt: Deux coureurs sur les crêtes du Cheiron lors d'un entraînement de trail
   dans les pré alpes d'Azur
+categorie: coaching
 page_sections:
 - template: textarea
   content: Si vous pratiquez la course à pied sur route, le trail running et que vous

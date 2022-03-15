@@ -14,6 +14,7 @@ baseline: Sensations, émotions et ludique
 engage: Partagez des sensations et des émotions fortes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642512714/website/summer/harry-dona-9hHTZeKKK8Q-unsplash_ejimkd.jpg
 image01_alt: Groupe de personne faisant du canyoning
+categorie: "Eaux vives"
 page_sections:
 - template: textarea
   title: Qu'est ce que le canyoning ?

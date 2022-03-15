@@ -13,6 +13,7 @@ baseline: Location équipement surf
 engage: Trouvez votre magasin de location de surf / Loire Atlantique
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643807238/website/summer/nico-bhlr-QT-l619id6w-unsplash_lxgnzq.jpg
 image01_alt: Plusieurs planches de surf côte à côte
+categorie: surf
 page_sections:
 - template: textarea
   title: Location de surf en Loire Atlantique

@@ -16,6 +16,7 @@ engage: De la mousse à la vague, apprenez à glisser en surf
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642661307/website/summer/joseph-greve-TII6axq3eo4-unsplash_ulp3bo.jpg
 image01_alt: Surfeur en train de surfer une vague dans un paysage avec des collines
   derrières.
+categorie: surf
 page_sections:
 - template: textarea
   title: Le surf

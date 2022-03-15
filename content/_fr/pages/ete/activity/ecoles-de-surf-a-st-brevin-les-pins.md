@@ -15,6 +15,7 @@ engage: 'Apprenez à surfer en Loire Atlantique   '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7712_jj6zyy.jpg
 image01_alt: Groupe de personne faisant du surf courant dans l'eau à St Brévin les
   pins lors d'un cours de Surf
+categorie: surf
 page_sections:
 - template: textarea
   title: Surfer à St Brévin les Pins

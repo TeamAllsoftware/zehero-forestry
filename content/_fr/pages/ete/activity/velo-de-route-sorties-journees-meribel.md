@@ -16,6 +16,7 @@ baseline: Roulez et grimpez à Méribel
 engage: Six étapes de sortie vélo journée aux alentours de Méribel.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51412717941_e81ab34149_k_svjq0r.jpg
 image01_alt: Deux cycliste faisant du vélo à Méribel
+categorie: vélo
 page_sections:
 - template: textarea
   title: 'Vélo de route - 6 sorties journée - Méribel '

@@ -14,6 +14,7 @@ baseline: Canyoning autour d'Annecy
 engage: Du fun et du sport avec le canyoning à Annecy
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643642798/website/Canyon%2074/aurelien-krier-pwyueOgekMM-unsplash_1_x234ex.jpg
 image01_alt: Image du ciel du lac et des montagnes d'Annecy
+categorie: "Eaux vives"
 page_sections:
 - template: textarea
   title: Annecy et le canyoning

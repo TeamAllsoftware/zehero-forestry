@@ -14,6 +14,7 @@ baseline: Coaching Sportif Antibes
 engage: 'Réservez un cours de coaching sportif à Antibes '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/Yann_3_z49tq1.jpg
 image01_alt: Vue des chaussures de sport sur un stade athlétisme
+categorie: coaching
 page_sections:
 - template: textarea
   title: Votre coaching privé à Antibes et dans les Alpes Maritimes

@@ -15,6 +15,7 @@ engage: Explorez et découvrez en glissant sur l'eau
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588328/website/summer/jeff-isaak-p7nrRdMDebM-unsplash_wxc6gr.jpg
 image01_alt: Randonnée en kayak avec une personne dans un kayak sur un lac face à
   la montagne
+categorie: "Eaux vives"
 page_sections:
 - template: textarea
   content: Le Kayak est une activité qui permet de partir randonner sur des lacs,

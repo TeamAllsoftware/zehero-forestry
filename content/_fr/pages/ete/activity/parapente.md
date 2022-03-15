@@ -15,6 +15,7 @@ engage: Survolez les montagnes et découvrez les sommets
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/juliette-g-bmBLu_oAEj8-unsplash_ozjgu4.jpg
 image01_alt: Un parapentiste allant décoller avec son parapente avec un coucher de
   soleil
+categorie: 'Dans les airs'
 page_sections:
 - template: textarea
   title: Le parapente

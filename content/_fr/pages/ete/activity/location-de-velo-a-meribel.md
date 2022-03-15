@@ -14,6 +14,7 @@ baseline: Location Vélo Méribel
 engage: Louer votre vélo de route ou VTT et partez rouler à Méribel
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987030/website/V%C3%A9lo/48230596357_cd65f57885_k_glfk0s.jpg
 image01_alt: 'Vue du cadre de vélo de route '
+categorie: vélo
 page_sections:
 - template: textarea
   title: La location de vélo de route de Méribel
