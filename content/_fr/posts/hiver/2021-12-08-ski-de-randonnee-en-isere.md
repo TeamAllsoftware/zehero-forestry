@@ -101,7 +101,7 @@ page_sections:
     * Pantalons spécifique (moins chaud et bien étanche)
   title: Le ski de randonnée c’est quoi ?
   content: |-
-    Le ski de randonnée est une discipline sportive faisant partie de celle du ski. Elle se pratique sur des terrains enneigés en milieu le plus souvent sauvages.
+    Le ski de randonnée est une discipline sportive faisant partie de celle du ski. Elle se pratique sur des terrains enneigés en milieu le plus souvent sauvage.
 
     Très prisée par les amateurs de grands espaces, elle ne nécessite pas d’aménagements spécifiques aux domaines skiables comme la pratique du ski alpin classique. Elle peut être pratiquée pour le plaisir mais il existe aussi un grand nombre de compétitions comme, par exemple, la Pierra Menta, une de plus réputée.
 
