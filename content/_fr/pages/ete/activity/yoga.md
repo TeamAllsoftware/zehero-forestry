@@ -14,7 +14,7 @@ engage: Profitez d'une séance de Yoga en plein air
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643877190/website/summer/kike-vega-F2qh3yjz6Jk-unsplash_isuas9.jpg
 image01_alt: Femme faisant du Yoga sur un tapis au coucher de soleil dans une position
   d'étirement
-categorie: yoga
+categorie: Yoga
 page_sections:
 - template: textarea
   title: Présentation Yoga

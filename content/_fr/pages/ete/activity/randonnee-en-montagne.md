@@ -90,14 +90,14 @@ page_sections:
 
     * de bonnes chaussures de marche qui accrochent et qui maintiennent les chevilles (tige haute)
     * des vêtements techniques respirants
-    * de bonnes chaussettes qui évite les frictions
+    * de bonnes chaussettes qui évitent les frictions
     * des vêtements chauds dans le sac parce qu'en montagne il peut faire froid très rapidement
-    * lunette et casquette
+    * lunettes et casquette
     * crème solaire
     * des bâtons pour ceux qui aiment s'appuyer dessus
-    * un sac à dos avec de l'eau, un piquenique, une petite trousse de secours
+    * un sac à dos avec de l'eau, un pique-nique, une petite trousse de secours
 
-    Cela évolue si vous partez pour une itinérance de plusieurs jours. Mais ce sont la base à avoir. Si vous êtes avec un enfant, n'oubliez pas de transporter également de l'eau pour lui.
+    Cela évolue si vous partez pour une itinérance de plusieurs jours. Mais ce sont les éléments de base à avoir. Si vous êtes avec un enfant, n'oubliez pas de transporter également de l'eau pour lui.
   title: Bien randonner en montagne
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-ian-beckley-2440078_ueovj0.jpg
