@@ -37,7 +37,7 @@ page_sections:
     d'air chaud et avec une grande maitrise. Voler, faire son baptême de parapente,
     c'est admirer le paysage, prendre un grand bol d'air et se laisser aller.
   alt_text_for_image: Un parapentiste qui va décoller avec son parapente lors d'un
-    couché de soleil
+    coucher de soleil
   button:
     text_button: ''
     href_button: ''
