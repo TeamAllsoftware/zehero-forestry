@@ -21,12 +21,12 @@ page_sections:
     trouver des objectifs ?\n\nDepuis quelques temps, je voulais faire un projet perso
     qui dure plusieurs jours. Une aventure, une traversée, une boucle, je ne savais
     pas encore quoi, mais je savais que je voulais courir, courir longtemps.\n\nMa
-    chérie est à Antibes et moi à Valmorel, souvent les week-ends, je prenais la voiture
+    chérie est à Antibes et moi à Valmorel. Souvent les week-ends, je prenais la voiture
     pour aller la voir. Je prenais généralement la route de Napoléon, je voyais ces
     montagnes au loin et c’était magnifique. Puis un jour, je me suis rappelé que
     le GR5 arrivait à Nice. Je savais qu’il ne passait pas très loin de Valmorel aussi.
     L’idée fleurissait doucement.  \nLe jour du confinement, j'étais descendu à Antibes,
-    je savais que j’allais déménager et vivre dans le Sud prêt de la mer. C’était
+    je savais que j’allais déménager et vivre dans le Sud près de la mer. C’était
     une nouvelle page pour moi, une nouvelle vie. J’ai eu l’idée alors de venir en
     courant de Valmorel à Nice. C’était symbolique, c’était pour moi ma façon de venir
     de la plus belle des manières dans ma nouvelle maison, ma nouvelle vie. C’était
