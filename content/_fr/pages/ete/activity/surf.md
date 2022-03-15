@@ -91,17 +91,13 @@ page_sections:
     et debout sur la plage avec l'océan à côté
 - template: textarea
   title: Les différentes planches
-  content: "Ils existent un vaste choix de planche de surf. Chacune va évoluer en
-    fonction de sa taille et de son shape. En surf les tailles sont définis en pied,
-    ce qui correspond à un pied = 0,33cm. Vous allez retrouver ces différents planches
-    :\n\n* **Shortboard** : c'est le surf le plus petit allant de 5' à 6'10. C'est
-    une planche pour les personnes confirmés à expertes. Elle est parfaite pour un
-    surf agressif, technique et très maniable.\n* **Longboard** : c'est le surf le
-    plus grand mesurant de 8 à 12'. Il permet de pouvoir se déplacer sur la planche
-    et d'avoir un surf plus doux\n* **Fish** est une board petite mais large parfaite
-    pour des vagues pas très grandes mais pour réaliser un panel de figure.\n* **Guns**
-    sont des planches concues surtout pour des vagues grosses et grandes. Elles sont
-    donc dédiées aux surfeurs expérimentés. "
+  content: |-
+    Il existe un vaste choix de planches de surf. Chacune va évoluer en fonction de sa taille et de son shape. En surf les tailles sont définies en pieds. Pour information : un pied = 0,33cm. Vous allez retrouver ces différents planches :
+
+    * **Shortboard** : c'est le surf le plus petit allant de 5' à 6'10. C'est une planche pour les personnes confirmées à expertes. Elle est parfaite pour un surf agressif, technique et très maniable.
+    * **Longboard** : c'est le surf le plus grand mesurant de 8 à 12'. Il permet de se déplacer sur la planche et d'avoir un surf plus doux
+    * **Fish** est une board petite mais large, parfaite pour des vagues pas très grandes mais pour réaliser un panel de figures.
+    * **Guns** sont des planches conçues surtout pour des vagues grosses et grandes. Elles sont donc dédiées aux surfeurs expérimentés.
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
