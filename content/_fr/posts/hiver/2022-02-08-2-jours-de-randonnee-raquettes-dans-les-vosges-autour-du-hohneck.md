@@ -121,7 +121,7 @@ page_sections:
   grid_2_alt_text_for_image: Un bon équipement est nécessaire pour une expédition
     en montagne
 - template: textarea
-  content: Arrivée en bas, nous serpentons entre les lacs de Schiessrothried et de
+  content: Arrivé en bas, nous serpentons entre les lacs de Schiessrothried et de
     Fischboedle où il est l’heure de déjeuner. Ce lac encaissé ne nous laisse pas
     beaucoup de temps au soleil pour profiter de notre pause. Le froid s’insinue de
     partout et l’humidité du lac se fait très vite sentir. Il n’est pas l’heure de
