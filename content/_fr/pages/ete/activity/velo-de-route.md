@@ -72,8 +72,8 @@ page_sections:
 - template: textarea
   title: Etre encadré
   content: Si vous réservez une sortie à vélo, cela vous permet d'avoir une personne
-    qui va donc bien vous expliquez comment bien rouler et être efficace sur son vélo.
-    Mais, cela peut permettre également de se laisser guider sur des jolies parcours,
+    qui va donc bien vous expliquer comment bien rouler et être efficace sur son vélo.
+    Mais, cela peut permettre également de se laisser guider sur de jolis parcours,
     de réaliser des ascensions. Parfois, cela vous permet également d'avoir un ravitaillement,
     un suivi en voiture lorsque vous partez pour plusieurs jours.
 button_to_link_to_ze_hero_shop:
