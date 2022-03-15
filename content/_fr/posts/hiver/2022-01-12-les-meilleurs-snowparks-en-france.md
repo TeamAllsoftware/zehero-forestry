@@ -39,16 +39,24 @@ page_sections:
     afin que vous puissiez profiter de lignes parfaites.'
   alt_text_for_image: Snowboardeur faisant une figure sur une barre de slide
 - template: textarea
-  content: |-
-    On retrouve ensuite Les 2 Alpes, qui été comme hiver offrent un park incroyable. On y retrouve énormément de modules différents pour tous les niveaux et les pratiques. Il y a plusieurs zones différentes pour varier les plaisirs ainsi qu'une zone dédiée au freestyle pour les enfants.
-
-    Le snowpark de Méribel est aussi un incontournable avec l'Element Park à Méribel pour tous les niveaux ainsi que l'Open Park à Méribel Mottaret. Vous retrouverez également plusieurs bordercross. L'avantage également est que vous trouvez dans le domaine des 3 vallées et vous pouvez également bénéficier du Snowpark de Valthorens. Il bénéficie de deux téléskis afin d'avoir des rotations plus rapides et de 7000m2 de modules.
-
-    On retrouve évidemment les stations de Tignes et Val d'Isère. Terre d'accueil des X-Games, vous trouverez le DC Park de Tignes. Vous trouverez deux zones, celle pour les débutants ainsi qu'une pour les confirmés et les experts.
-
-    Les Arc ainsi que le parc de Vars et de Chamrousse sont également des stations qui offrent des snowparks parfaits, ludiques et pour tous les niveaux. On y retrouve des lignes de kick taillées à la lame, des rails et des modules originaux.
-
-    Pour finir on retrouve également le Snowpark d'Isola 2000 ainsi que celui de Saint Lary dans les Pyrénnés.
+  content: "On retrouve ensuite la station Les 2 Alpes, qui, été comme hiver offre
+    un park incroyable. On y retrouve énormément de modules différents adaptés à tous
+    les niveaux et aux diverses pratiques. De plus, les différentes zones sont idéales
+    pour varier les plaisirs. Une zone dédiée au freestyle est même disponible pour
+    les enfants.\n\nLe snowpark de Méribel est aussi un incontournable ! L'Element
+    Park (à Méribel) ainsi que l'Open Park (à Méribel Mottaret) sont un bon choix
+    pour prendre du plaisir peu importe votre niveau. Vous retrouverez également plusieurs
+    bordercross. L'avantage est que vous vous trouvez dans le domaine des 3 vallées,
+    vous pouvez ainsi bénéficier du Snowpark de Val Thorens. Il bénéficie de deux
+    téléskis, ce qui est idéal pour profiter des 7000m2 de modules sans difficulté.
+    \n\nOn retrouve évidemment les stations de Tignes et Val d'Isère. Terre d'accueil
+    des X-Games, vous reconnaitrez le DC Park de Tignes. Deux zones se distinguent,
+    celle pour les débutants ainsi qu'une pour les confirmés et les experts.\n\nLes
+    Arc ainsi que le parc de Vars et de Chamrousse sont également des stations qui
+    offrent des snowparks parfaits, ludiques et pour tous les niveaux. On y retrouve
+    des lignes de kick taillées à la lame, des rails et des modules originaux.\n\nPour
+    finir on retrouve également le Snowpark d'Isola 2000 ainsi que celui de Saint
+    Lary dans les Pyrénées."
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641985183/website/blog/Hiver/fred-heap-2dViAX55Q2k-unsplash_m5fo4f.jpg
