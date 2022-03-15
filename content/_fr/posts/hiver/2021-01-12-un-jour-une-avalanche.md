@@ -70,7 +70,7 @@ page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642001283/website/blog/Avalanche/FB_IMG_1521828361575_ircxpo.jpg
   captiontitleuppercase: Son attitude m'a permis de garder confiance
-  title: Sans cela je n'aurai surement pas pu continuer
+  title: Sans cela je n'aurai sûrement pas pu continuer
   content: On a pu finir cette montée, on a bu du thé et des barres de céréales au
     sommet en regardant la magnifique vue du sommet. La descente face Sud était assez
     gelée au départ puis on a pu faire quelques virages parfaits dans une neige fraîche.
