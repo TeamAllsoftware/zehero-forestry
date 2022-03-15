@@ -15,7 +15,7 @@ baseline: Un séjour sportif
 engage: Un séjour de 6 journées de vélo aux alentours de Méribel.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269873/website/M%C3%A9ribel/51382970215_d27314dc26_k_omvvhh.jpg
 image01_alt: Plusieurs cyclistes faisant du vélo à Méribel
-categorie: vélo
+categorie: Vélo
 page_sections:
 - template: textarea
   title: 'Vélo de route - Séjour de 6 journées - Méribel '
