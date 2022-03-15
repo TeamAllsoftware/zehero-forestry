@@ -64,9 +64,10 @@ page_sections:
   title: 'Malgré des supers snowparks, les halfs-pipes disparaissent '
   content: Aujourd'hui en France, les half-pipe sont de moins en moins présents. En
     effet, l'entretien demande des formations très spécifiques pour les shapeurs et
-    coûte cher à l'entretien à la station. De ce fait, beaucoup ont disparu et cela
-    est bien triste car c'est une discipline olympique et incroyable. Heureusement,
-    en France quelques stations ont réussi à garder et à entretenir leur Half-Pipe.
+    représente un coût important à la station pour l'entretien. De ce fait, beaucoup
+    ont disparu et cela est bien triste car c'est une discipline olympique incroyable.
+    Heureusement, en France nous avons la chance d'avoir quelques Half-Pipe dans certaines
+    stations.
   alt_text_for_image: Snowboardeuse en snowboard dans un Half-pipe lors d'une compétition
 - template: liststyle01
   title: Les stations comportant un half-pipe
