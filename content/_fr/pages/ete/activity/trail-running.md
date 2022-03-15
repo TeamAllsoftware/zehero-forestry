@@ -18,7 +18,7 @@ engage: Partez fouler chaque sentier en vous dépassant
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642664026/website/summer/kalen-emsley-7bwQXzbF6KE-unsplash_ht13it.jpg
 image01_alt: Femme courant en trail sur le long d'une crête de montagne lors du levé
   du soleil
-categorie: Running / trail
+categorie: Running / Trail
 page_sections:
 - template: textarea
   content: |-
