@@ -29,9 +29,9 @@ page_sections:
 - template: textarea
   title: Ca commence mal !
   content: |-
-    J’ai mis du temps à faire le pas du vaccin et il a fallu que je fasse ma 2e dose 10 jours avant la compétition. Je me disais “bon, j'aurai sûrement un peu mal à la tête, je vais me reposer et ça ira." Malheureusement, je n’ai pas vécu seulement cela. Mon corps a trop réagi à la 2ᵉ doses et j’ai été cloué au lit 5 jours. Entre fièvre, courbature, fatigue et migraine, rien n’était de bon augure pour ma course. Je commençais sérieusement à douter de pouvoir y aller et de pouvoir courir là-bas. Je n'avais pas couru depuis presque 7 jours et c’est une chose que je ne supporte pas avant une course. Le fait de trop me reposer avant un départ me fatigue encore plus, j’ai besoin de tourner les jambes. Mais là, je n’avais pas le choix.
+    J’ai mis du temps à faire le pas du vaccin et il a fallu que je fasse ma 2e dose 10 jours avant la compétition. Je me disais “bon, j'aurai sûrement un peu mal à la tête, je vais me reposer et ça ira." Malheureusement, je n’ai pas vécu seulement cela. Mon corps a trop réagi à la 2ᵉ dose et j’ai été cloué au lit 5 jours. Entre fièvre, courbature, fatigue et migraine, rien n’était de bon augure pour ma course. Je commençais sérieusement à douter de pouvoir y aller et de pouvoir courir là-bas. Je n'avais pas couru depuis presque 7 jours et c’est une chose que je ne supporte pas avant une course. Le fait de trop me reposer avant un départ me fatigue encore plus, j’ai besoin de tourner les jambes. Mais là, je n’avais pas le choix.
 
-    Le mercredi, je prenais l’avion depuis Nice pour atterrir à Funchal. Après 3 jours d’antibiotique, j’ai décidé d’y aller même si je savais que ça serait Rock and Roll. Je retrouverai en tout cas le team Instinct Trail avec Sean et Cédric.
+    Le mercredi, je prenais l’avion depuis Nice pour atterrir à Funchal. Après 3 jours d’antibiotique, j’ai décidé d’y aller même si je savais que ce serait Rock and Roll. Je retrouverai en tout cas le team Instinct Trail avec Sean et Cédric.
 - template: 2colimgtxt
   captiontitleuppercase: 'Post départ '
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639661304/website/blog/Mad%C3%A8re/GOPR0103_ALTA1642458316780515_1_eezzxk.jpg
