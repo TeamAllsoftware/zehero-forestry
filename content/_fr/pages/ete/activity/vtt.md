@@ -57,15 +57,15 @@ page_sections:
   title: Pour qui ?
   content: "Le VTT se pratique dès 6 ans et c'est une activité qui est ouverte à tout
     le monde. Vous pouvez le pratiquer quelque soit votre niveau. Le VTT va permettre
-    au tout débutant de s'initier sur des parcours adapté à eux. En plus du parcours
-    qui peut être plus ou moins technique, vous pouvez également choisir aussi la
-    difficulté physique et la longueur afin de l'adapté à vos besoins et votre forme
-    physique.  \nDès que vous allez commencer à avoir un niveau plus confirmé, vous
-    trouverez ensuite des parcours pour vous, avec des difficulté supplémentaires.\n\nTout
+    au tout débutant de s'initier sur des parcours adaptés à eux. En plus du parcours
+    qui peut être plus ou moins technique, vous pouvez également choisir la difficulté
+    physique et la longueur afin de l'adapter à vos besoins et votre forme physique.
+    \ \nDès que vous allez commencer à avoir un niveau plus confirmé, vous trouverez
+    ensuite des parcours pour vous, avec des difficultés supplémentaires.\n\nTout
     comme le ski, on peut retrouver sur les pistes de VTT des couleurs afin d'annoncer
     le niveau de la descente. Vous pourrez alors retrouver du bleu, du rouge et du
-    noir. Cela vous donnera une bonne indication afin de ne pas plongez dans une noire
-    alors que c'est votre 1er fois en VTT. Vous risquerez de vite descendre du VTT."
+    noir. Cela vous donnera une bonne indication afin de ne pas plonger dans une noire
+    alors que c'est votre 1er fois en VTT. Vous risqueriez de vite descendre du VTT."
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592263/website/summer/pexels-daniel-frank-10883501_bmmpot.jpg
   captionabovetitle: Dépensez vous en vous amusant
