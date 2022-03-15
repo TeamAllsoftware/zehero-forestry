@@ -6,23 +6,23 @@ topnav_color_text: dark
 title: Parapente
 permalink: "/fr/ete/activites/parapente"
 redirect_from:
-  - /fr/ete/activite/parapente
+- "/fr/ete/activite/parapente"
 meta-title: Le parapente, des sensations fortes et des paysages vus du ciel
-meta-description: Partez voler et réaliser votre baptême de parapente en découvrant
-  une toute nouvelle sensation avec des panoramas à vous couper le souffle
+meta-description: Partez voler et réalisez votre baptême de parapente en découvrant
+  une toute nouvelle sensation avec des panoramas à couper le souffle
 baseline: Voler, admirer et profiter
 engage: Survolez les montagnes et découvrez les sommets
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/juliette-g-bmBLu_oAEj8-unsplash_ozjgu4.jpg
 image01_alt: Un parapentiste allant décoller avec son parapente avec un coucher de
   soleil
-categorie: 'Dans les airs'
+categorie: Dans les airs
 page_sections:
 - template: textarea
   title: Le parapente
-  content: En quête de sensation forte, de paysages sublimes et grands panoramas,
+  content: En quête de sensations fortes, de paysages sublimes et grands panoramas,
     partez voler en biplace en parapente. Vous découvrirez une nouvelle expérience
     mémorable en volant au-dessus des montagnes ou des lacs, vous verrez le paysage
-    différemment avec des sensations fortes. Laissez-vous portez et guider en profitant
+    différemment avec des sensations inédites. Laissez-vous porter et guider en profitant
     d'une vue magnifique et des rayons du soleil.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010435/website/summer/juliette-g-jX61Kll0Q5g-unsplash_1_pjksgv.jpg
@@ -42,6 +42,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Le déroulement d'un vol en biplace
   content: "Il faudra alors s'habiller en fonction de la météo et de la température,
@@ -75,5 +76,8 @@ page_sections:
   prlax_alt_text_for_image: 'Vol en biplace de parapente lors d''un décollage en montagne '
   grid_1_alt_text_for_image: Parapentiste volant en parapente dans le ciel
   grid_2_alt_text_for_image: Parapentiste volant en parapente prêt d'une falaise
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---
