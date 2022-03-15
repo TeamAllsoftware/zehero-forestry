@@ -6,15 +6,15 @@ topnav_color_text: dark
 title: La traversée des Alpes en vélo
 permalink: "/fr/ete/activites/traversee-des-alpes-en-velo"
 redirect_from:
-  - /fr/ete/activite/traversee-des-alpes-en-velo
-meta-title: Bikepacking pour la traversée des Alpes, une randonnée vélo extraordinaire
+- "/fr/velo-gravel-corsica-gravel-tour/"
+meta-title: Bikepacking en traversant les Alpes, une belle randonnée à vélo
 meta-description: Réalisez la traversée des Alpes en Vélo. Partagez des moments inoubliables
   en roulant à travers des paysages magnifiques
 baseline: Traversé, endurance et liberté
 engage: Traversez les Alpes à vélo par les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642520843/website/summer/pexels-pavel-danilyuk-5807686_jcwovf.jpg
 image01_alt: Groupe de 3 personnes faisant du vélo sur une route bordée de pins
-categorie: vélo
+categorie: Vélo
 page_sections:
 - template: textarea
   content: "La grande traversée des Alpes à vélo est un voyage incroyable à travers
@@ -43,6 +43,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Vue d'une route face à un lac dans des routes des montagnes
+  blockBGcolor: ''
 - template: textarea
   title: Le parcours
   content: "Le parcours que nous proposons est donc de 630km avec environ 15 000 m
@@ -66,6 +67,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Etape 1 de la traversée des Alpes en vélo de route
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-2-GRANDS-COLS_tepatv.png
   captiontitleuppercase: Etape 2
@@ -80,6 +82,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Etape 2 de la traversée des Alpes en vélo de route
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-3-GRANDS-COLS_v3pqyi.png
   captiontitleuppercase: Etape 3
@@ -95,6 +98,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Etape 3 de la traversée des Alpes en vélo de route
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521346/website/V%C3%A9lo/ETAPE-4-CAYOLLE_jiy3h9.png
   captiontitleuppercase: 'Etape 4 '
@@ -109,6 +113,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Etape 4 de la traversée des Alpes en vélo de route
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/ETAPE-5-BIS_ilgp7o.png
   captiontitleuppercase: La dernière étape
@@ -123,6 +128,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Etape 5 de la traversée des Alpes en vélo de route
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Ce séjour organisé vélo comprend :
@@ -151,7 +157,8 @@ page_sections:
   atl_text_image_03: Deux cyclistes en vélo de route posés dans une route de montagne
   atl_text_image_04: Arrivé de la traversée des alpes en vélo de route sur la voix
     cyclable à Nice
-redirect_from:
-- "/fr/velo-gravel-corsica-gravel-tour/"
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---
