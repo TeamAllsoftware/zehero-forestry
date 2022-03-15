@@ -7,7 +7,8 @@ topnav_color_text: dark
 title: 2021-12-17-valmorel-nice-360-km-traverser-les-alpes-en-trail
 post-title: Valmorel - Nice, une traversée vers une nouvelle vie
 meta-title: Valmorel - Nice, une traversée vers une nouvelle vie
-meta-description: Partir de Valmorel et réjoindre en courant Nice par le GR5. Récit d'une aventure en montagne.
+meta-description: Partir de Valmorel et rejoindre en courant Nice par le GR5. Récit
+  d'une aventure en montagne.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732890/website/blog/Valmorel%20-%20Nice/IMG_20200709_084734_si85oi.jpg
 image01_alt: Couse à pied, montagne et lac
 page_sections:
@@ -17,8 +18,8 @@ page_sections:
     une période particulière. Qu’elle se soit bien passée ou non, elle aura impacté
     notre quotidien et notre esprit. Traileur et compétiteur, il n’y avait plus aucun
     événement possible en France. Comment garder la motivation de s’entraîner ? Où
-    trouver des objectifs ?\n\nDepuis quelque temps, je voulais faire un projet perso
-    qui dure quelques jours. Une aventure, une traversée, une boucle, je ne savais
+    trouver des objectifs ?\n\nDepuis quelques temps, je voulais faire un projet perso
+    qui dure plusieurs jours. Une aventure, une traversée, une boucle, je ne savais
     pas encore quoi, mais je savais que je voulais courir, courir longtemps.\n\nMa
     chérie est à Antibes et moi à Valmorel, souvent les week-ends, je prenais la voiture
     pour aller la voir. Je prenais généralement la route de Napoléon, je voyais ces
