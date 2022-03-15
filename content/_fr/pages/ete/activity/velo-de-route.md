@@ -6,10 +6,10 @@ topnav_color_text: dark
 title: Vélo de route
 permalink: "/fr/ete/activites/velo-de-route"
 redirect_from:
-  - /fr/ete/activite/velo-de-route
-meta-title: Sorties vélo de route pour découvrir les cols mythiques de France et se balader
-meta-description: A l'assaut des cols mythiques en France, de se balader sur les routes
-  et de voir du pays en vélo de route
+- "/fr/velo-savoie-haute-savoie/"
+meta-title: Sorties vélo de route pour découvrir les cols mythiques de France
+meta-description: A l'assaut des cols mythiques en France, baladez-vous sur les routes
+  et découvrez les plus belles régions en vélo de route
 baseline: Explorer, rouler et grimper
 engage: Explorez de nouveaux horizons et grimpez les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883618/website/summer/velo-duo-descente-col_bqhfjm.jpg
@@ -20,10 +20,10 @@ page_sections:
 - template: textarea
   content: "Le vélo de route est une activité physique qui permet de partir sur de
     belles routes découvrir de nouveaux endroits, de partager un moment en groupe,
-    de grimper des cols mythiques. Que ce soit pour le plaisir, la performance, vous
-    trouverez dans le vélo le dépassement de soi, la découverte, mais également de
-    fortes sensations en descente.  \nQue ce soit en montagne, dans les plaines, sur
-    des routes sauvages, vous trouverez des itinéraires magnifiques et surprenantes."
+    de grimper des cols mythiques. Que ce soit pour le plaisir ou la performance,
+    vous trouverez dans le vélo le dépassement de soi, la découverte, mais également
+    de fortes sensations en descente.  \nQue ce soit en montagne, dans les plaines,
+    sur des routes sauvages, vous trouverez des itinéraires magnifiques et surprenants."
   title: Le vélo de route
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642669650/website/summer/mizzi-westphal-LIdAmXo7eqA-unsplash_c7pfwz.jpg
@@ -41,6 +41,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Une activité partout en France
   content: |-
@@ -75,8 +76,6 @@ page_sections:
     Mais, cela peut permettre également de se laisser guider sur des jolies parcours,
     de réaliser des ascensions. Parfois, cela vous permet également d'avoir un ravitaillement,
     un suivi en voiture lorsque vous partez pour plusieurs jours.
-redirect_from:
-- "/fr/velo-savoie-haute-savoie/"
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
