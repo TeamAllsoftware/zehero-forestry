@@ -28,13 +28,13 @@ page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642669650/website/summer/mizzi-westphal-LIdAmXo7eqA-unsplash_c7pfwz.jpg
   captiontitleuppercase: Partager un moment sur la route
-  title: Rouler et dépasser vous
-  content: 'Le vélo de route est accessible à tous et permet de partager des moments
-    en groupe dans un environnement et un cadre parfois magnifique. C''est une activité
-    physique mais en fonction des parcours, elle peut être plus adapté à des personnes
+  title: Roulez et dépassez-vous
+  content: Le vélo de route est accessible à tous et permet de partager des moments
+    en groupe dans un environnement et un cadre parfois magnifique. C'est une activité
+    physique mais en fonction des parcours, elle peut être plus adaptée à des personnes
     désirant des itinéraires moins longs et avec moins de dénivelé. Aller grimper
-    les cols, c''est atteindre des sommets mythiques en vélo et avoir des panoramas
-    grandioses. '
+    les cols, c'est atteindre des sommets mythiques en vélo et avoir des panoramas
+    grandioses.
   alt_text_for_image: Femme faisant du vélo de route dans une montée en direction
     d'un col en montagne
   button:
@@ -56,10 +56,10 @@ page_sections:
   gridline1content: Le vélo de route vous permet de partir quelques heures sur un
     parcours, une boucle ou simplement un ascension d'un ou deux cols. Mais il permet
     également de partir en itinéraire sur plusieurs jours afin de réaliser des traversées
-    tel que la traversée des Alpes.
+    telle que la traversée des Alpes.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642520836/website/summer/pexels-pavel-danilyuk-5807677_qkak2i.jpg
   gridline2title: Des parcours uniques
-  gridline2content: Vous trouverez un panel d'itinéraire et de parcours varié qui
+  gridline2content: Vous trouverez un panel d'itinéraires et de parcours variés qui
     vous permettront de découvrir des lieux tout en se dépensant physiquement et mentalement.
     Vous pouvez également venir sans vélo de route et le louer là où vous souhaitez
     rouler.
