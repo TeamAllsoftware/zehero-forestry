@@ -6,22 +6,25 @@ topnav_color_text: dark
 title: Trail Running
 permalink: "/fr/ete/activites/trail-running"
 redirect_from:
-  - /fr/ete/activite/trail-running
-meta-title: Le trail, une activité outdoor à pratiquer en montagne, en forêt ou en plaine
-meta-description: Profitez de sortie de Trail Running pour découvrir la nature et vous
-  perfectionner dans ce sport.
+- "/fr/itineraire-trail-alpes-maritimes/"
+- "/fr/trail-progresser-montee-descente/"
+- "/fr/faire-du-fractionne-en-trail/"
+- "/fr/course-trail/"
+meta-title: Le trail, une activité outdoor à pratiquer en montagne, forêt...
+meta-description: Profitez de sortie de Trail Running pour découvrir la nature et
+  vous perfectionner dans ce sport.
 baseline: Dépassement, liberté et partage
 engage: Partez fouler chaque sentier en vous dépassant
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642664026/website/summer/kalen-emsley-7bwQXzbF6KE-unsplash_ht13it.jpg
-image01_alt: Femme courant en trail sur le long du d'une crête de montagne lors du
-  levé du soleil
-categorie: "Running / trail"
+image01_alt: Femme courant en trail sur le long d'une crête de montagne lors du levé
+  du soleil
+categorie: Running / trail
 page_sections:
 - template: textarea
   content: |-
     Le trail signifie "sentier" en anglais. Que ce soit en montagne, en plaine, dans la forêt, vous retrouverez ce sentier qui monte, qui descend et qui tourne. Ce chemin peut être technique avec des cailloux et des racines, mais aussi lisse et roulant.
 
-    Le trail est une pratique sportive de course à pied qui se trouve en nature et quelques fois dans la ville (urbain trail). Quelle que soit le parcours, il présentera du dénivelé. C'est-à-dire que vous trouverez des montées et des descentes, ce que l'on nomme le D+.
+    Le trail est une pratique sportive de course à pied qui se trouve en nature et quelques fois dans la ville (urbain trail). Quel que soit le parcours, il présentera du dénivelé. C'est-à-dire que vous trouverez des montées et des descentes, ce que l'on nomme le D+.
   title: Le trail running
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200627_075555_ocn4rk.jpg
@@ -39,6 +42,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Pour le plaisir et aussi la compétition
   content: Le trail, c'est une activité que l'on fait pour le plaisir, pour soi, pour
@@ -94,6 +98,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Si vous souhaitez progresser, comprendre les clés de l'entrainement et
     de la préparation, avoir un entraîneur est alors idéale. L'encadrement en trail
@@ -109,17 +114,13 @@ page_sections:
   captionrightcontent: Quelque soit le niveau, le plaisir de courir reste le même
   center_alt_text_for_image: 'Deux personnes faisant du trail running courant dans
     la neige '
+  blockBGcolor: ''
 - template: cta
   intro: Réservez dès maintenant vos sorties trail
   headline: Cours privés ou collectifs sont disponibles
   button:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     text_button: Réserver maintenant >
-redirect_from:
-- "/fr/itineraire-trail-alpes-maritimes/"
-- "/fr/trail-progresser-montee-descente/"
-- "/fr/faire-du-fractionne-en-trail/"
-- "/fr/course-trail/"
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
