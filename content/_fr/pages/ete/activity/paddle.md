@@ -30,13 +30,13 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/hanif-mahmad-CbMLzxrvwcg-unsplash_ugwttz.jpg
   captiontitleuppercase: Se promener en se musclant
   title: Un loisir physique
-  content: 'Le paddle est aujourd''hui une activité qui vous permet de découvrir des
+  content: Le paddle est aujourd'hui une activité qui vous permet de découvrir des
     lieux, de longer le littoral de la mer, de trouver une petite plage, une petite
-    crique caché. C''est aussi naviguer sur le lac paisiblement et découvrir des paysages
-    d''un autre point de vue. Mais c''est également une activité physique qui demande
-    de l''équilibre, de la proprioception. Elle va également faire travailler tout
+    crique cachée. C'est aussi naviguer sur le lac paisiblement et découvrir des paysages
+    d'un autre point de vue. Mais c'est également une activité physique qui demande
+    de l'équilibre, de la proprioception. Elle va également faire travailler tout
     votre corps en commençant par les épaules et les bras, la ceinture abdominale
-    et dorsale, en finissant par les jambes. '
+    et dorsale, en finissant par les jambes.
   alt_text_for_image: Deux personnes faisant du paddle sur la mer avec des paddles
     gonflables
   button:
