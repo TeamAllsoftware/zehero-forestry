@@ -2,7 +2,9 @@
 layout: layout_activity
 permalink: "/fr/hiver/activites/ski-de-randonnee"
 redirect_from:
-  - /fr/hiver/activite/ski-de-randonnee
+- "/fr/ski-randonnee-isere/"
+- "/fr/ski-randonnee-savoie/"
+- "/fr/ski-randonnee-haute-savoie/"
 language: fr
 season: winter
 topnav_color_text: dark
@@ -31,6 +33,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Le ski de randonnée reste une activité physique car la montée demande
     une bonne condition physique. Le dénivelé positif sera exigeant pour vos jambes,
@@ -75,6 +78,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Certains skis sont dédiés uniquement à la pratique du ski de randonnée,
     d'autres seront adaptés pour une pratique freeride et de randonnée. Mais l'idéal
@@ -102,6 +106,7 @@ page_sections:
     vous permettrons de partager un moment riche en émotions et en apprentissage.
   center_alt_text_for_image: Une personne faisant du ski de randonnée la nuit à la
     frontale en montagne sous un ciel étoilé
+  blockBGcolor: ''
 - template: textarea
   title: Plutôt freeride ou collant pipette ?
   content: "Le ski de randonnée est aujourd'hui de plus en plus pratiqué. Vous trouverez
@@ -152,12 +157,9 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
-redirect_from:
-- "/fr/ski-randonnee-isere/"
-- "/fr/ski-randonnee-savoie/"
-- "/fr/ski-randonnee-haute-savoie/"
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre cours de ski
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
+categorie: Ski
 
 ---

@@ -51,17 +51,17 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: "Prendre un guide, un accompagnateur de moyenne montagne permet d'avoir
-    toutes les informations sur comment bien randonnée. C'est-à-dire, qu'il va vous
+    toutes les informations sur comment bien randonner. C'est-à-dire, qu'il va vous
     expliquer déjà comment bien s'équiper et les erreurs à ne pas faire. Il va vous
-    expliquer également que prendre dans son sac d'indispensable pour une journée
-    de randonnée ou pour plusieurs jours. Il vous expliquera ensuite comment bien
-    marcher, comment s'économiser, quand faire des pauses pour boire et manger.  \nLe
-    point ensuite important, c'est qui vous fera découvrir la montagne comme vous
-    ne l'avez jamais vu. Il vous montrera et vous expliquera les différentes fleurs,
-    la végétation en montagne. Il vous fera découvrir la faune avec les marmottes,
-    les chamois, les bouquetins, mais aussi les différents oiseaux et rapaces.  \nL'avantage
-    d'avoir un guide, c'est de pouvoir randonnée tout en apprenant, en comprenant
-    mieux la montagne sur tout son écosystème."
+    expliquer également quoi prendre dans son sac en priorité pour une journée de
+    randonnée ou pour plusieurs jours. Il vous expliquera ensuite comment bien marcher,
+    comment s'économiser, quand faire des pauses pour boire et manger.  \nLe point
+    ensuite important, c'est qui vous fera découvrir la montagne comme vous ne l'avez
+    jamais vu. Il vous montrera et vous expliquera les différentes fleurs, la végétation
+    en montagne. Il vous fera découvrir la faune avec les marmottes, les chamois,
+    les bouquetins, mais aussi les différents oiseaux et rapaces.  \nL'avantage d'avoir
+    un guide, c'est de pouvoir randonner tout en apprenant, en comprenant mieux la
+    montagne sur tout son écosystème."
   title: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883628/website/summer/Paysage-montagne-randonnee_okgfs3.jpg
