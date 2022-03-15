@@ -7,7 +7,8 @@ topnav_color_text: dark
 title: 2021-12-17-valmorel-nice-360-km-traverser-les-alpes-en-trail
 post-title: Valmorel - Nice, une traversée vers une nouvelle vie
 meta-title: Valmorel - Nice, une traversée vers une nouvelle vie
-meta-description: Partir de Valmorel et réjoindre en courant Nice par le GR5. Récit d'une aventure en montagne.
+meta-description: Partir de Valmorel et rejoindre en courant Nice par le GR5. Récit
+  d'une aventure en montagne.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732890/website/blog/Valmorel%20-%20Nice/IMG_20200709_084734_si85oi.jpg
 image01_alt: Couse à pied, montagne et lac
 page_sections:
@@ -17,15 +18,15 @@ page_sections:
     une période particulière. Qu’elle se soit bien passée ou non, elle aura impacté
     notre quotidien et notre esprit. Traileur et compétiteur, il n’y avait plus aucun
     événement possible en France. Comment garder la motivation de s’entraîner ? Où
-    trouver des objectifs ?\n\nDepuis quelque temps, je voulais faire un projet perso
-    qui dure quelques jours. Une aventure, une traversée, une boucle, je ne savais
+    trouver des objectifs ?\n\nDepuis quelques temps, je voulais faire un projet perso
+    qui dure plusieurs jours. Une aventure, une traversée, une boucle, je ne savais
     pas encore quoi, mais je savais que je voulais courir, courir longtemps.\n\nMa
-    chérie est à Antibes et moi à Valmorel, souvent les week-ends, je prenais la voiture
+    chérie est à Antibes et moi à Valmorel. Souvent les week-ends, je prenais la voiture
     pour aller la voir. Je prenais généralement la route de Napoléon, je voyais ces
     montagnes au loin et c’était magnifique. Puis un jour, je me suis rappelé que
     le GR5 arrivait à Nice. Je savais qu’il ne passait pas très loin de Valmorel aussi.
     L’idée fleurissait doucement.  \nLe jour du confinement, j'étais descendu à Antibes,
-    je savais que j’allais déménager et vivre dans le Sud prêt de la mer. C’était
+    je savais que j’allais déménager et vivre dans le Sud près de la mer. C’était
     une nouvelle page pour moi, une nouvelle vie. J’ai eu l’idée alors de venir en
     courant de Valmorel à Nice. C’était symbolique, c’était pour moi ma façon de venir
     de la plus belle des manières dans ma nouvelle maison, ma nouvelle vie. C’était
@@ -42,13 +43,13 @@ page_sections:
     je partais avec ma tente et mon réchaud, soit je faisais des étapes et je dormais
     dans des refuges le soir. Ce qui me permettait de courir en journée.  \nChoix
     pas évident, car pour le 1er, l’avantage, c'est qu’on s’arrête dormir quand on
-    veut et où on veut. Le 2ᵉ choix, l’avantage, c'est que j’ai un lit, un bon repas
+    veut et où l'on veut. Le 2ᵉ choix, l’avantage, c'est que j’ai un lit, un bon repas
     chaud et surtout un sac très léger…"
   alt_text_for_image: Enfant dehors ouvrant une carte ign
 - template: textarea
   content: "Le trajet, c'est en gros 360 km et 20 000 de dénivelé positif. Si je partais
     avec ma tente, il me fallait du matériel adapté : sac, tente ultra-light, duvet,
-    réchaud…  \nFinalement, j’arrivais avec un poids de sac presque à 10kg. Si je
+    réchaud…  \nFinalement, j’arrivais avec un poids de sac à presque 10kg. Si je
     dormais dans les refuges, j’avais un sac de 5kg donc vraiment plus léger.  \nJ’ai
     opté pour la traversée option confort. Cela me permettait d’une certaine manière
     d’avoir des journées moins longues et de bien dormir. C’était aussi sympa de se
@@ -114,7 +115,7 @@ page_sections:
     en tenant des bâtons
   grid_1_alt_text_for_image: Deux coureurs courant en montagne dans un petit sentier
     en forêt
-  grid_2_alt_text_for_image: Coureur de trail sur les sentiers prêt de Méribel avec
+  grid_2_alt_text_for_image: Coureur de trail sur les sentiers près de Méribel avec
     le mont blanc derrière
 - template: textarea
   title: Méribel - Névache
@@ -179,7 +180,7 @@ page_sections:
 - template: textarea
   content: J'arrive ensuite au lac miroir puis au lac St Anne. Le Queyras est incroyable,
     c'est un mélange des Alpes du Nord et du Sud. Il est verdoyant et minéral, j'avoue
-    avoir eu petit coup de cœur pour ce lieu.  Au col Girardin je prend une pause,
+    avoir eu un petit coup de cœur pour ce lieu.  Au col Girardin je prend une pause,
     je suis ému car les émotions sont fortes. Je suis là, je suis içi, courir c'est
     profiter de l'instant présent et le vivre pleinement.
   title: ''
@@ -190,7 +191,7 @@ page_sections:
   content: "J'en suis à la moitié, et j'entame la descente en passant à travers un
     imposant troupeau de mouton. J'ai toujours peur qu'un Patou n'apprécie guère ma
     foulée à côté de lui. Après une mauvaise expérience en Bolivie, j'ai toujours
-    une crainte quand je cours prêt des chiens. En tout cas, j'avance correctement
+    une crainte quand je cours près des chiens. En tout cas, j'avance correctement
     et facilement jusqu'à Larche en passant par le Col de Mallemort.  \n6h30 de course,
     j'ai le temps de me mettre dans le hamac et de profiter de la fin de journée avant
     le meilleur repas de ma semaine en refuge."
@@ -236,8 +237,8 @@ page_sections:
     faire attention aux patous un peu plus loin, je repris ma petite route.  \nLa
     1er montée était magnifique, je partais rejoindre le Col de Crousette. Je croisa
     1, puis 2, puis 3 patous. J'avais le cœur qui tapait fort, je ressentais un peu
-    de stress. Puis un patou à décidé de me suivre pendant 30mn à 10cm de mes mollets
-    : Patou, pas touches à mes mollets. Arrivé en haut, je voyais ce Mont Mounier,
+    de stress. Puis un patou a décidé de me suivre pendant 30mn à 10cm de mes mollets
+    : Patou, pas touche à mes mollets. Arrivé en haut, je voyais ce Mont Mounier,
     cette ambiance assez unique."
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733479/website/blog/Valmorel%20-%20Nice/IMG_20200712_090024_dadfq5.jpg
@@ -268,8 +269,8 @@ page_sections:
   content: Après une belle nuit en compagnie d'Eve, je me lève pour la dernière journée
     de cette traversée. C'est bizarre de se dire que ça va s'arrêter ensuite. Mais
     en tout cas, ce matin je rigole moins et mes ampoules me font mal. Mes pieds se
-    sont transformées en guirlande de Noël. Je peine à courir au début mais je me
-    force car Eve et sa Grand mère me regardent partir.
+    sont transformés en guirlande de Noël. Je peine à courir au début mais je me force
+    car Eve et sa Grand mère me regardent partir.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733477/website/blog/Valmorel%20-%20Nice/IMG_20200713_112518_mimoua.jpg
   captiontitleuppercase: En route pour la mer
@@ -284,7 +285,7 @@ page_sections:
     fasse beaucoup trop chaud. J'ai même le droit à un peu de pluie et de jolies sons
     d'orage ainsi qu'une couleuvre énorme. Je vois la mer et je suis ému, je pense
     à Eve qui m'attend à la mer à Nice. Je pense à cette traversée, ce que j'ai vécu,
-    ces souvenirs. Quelle aventure, c'est unique et fort, riches en émotions.  \nJ'entame
+    ces souvenirs. Quelle aventure, c'est unique et fort, riche en émotions.  \nJ'entame
     la fin et j'arrive dans Nice. Je sens que je suis heureux d'arriver, de prendre
     Eve dans mes bras. Par contre, je n'étais pas prêt à ce bruit de ville, ces voitures,
     ce monde. Je ressens de l'irritation, trop de bruit, je suis gêné et perdu. J'étais
