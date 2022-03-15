@@ -2,7 +2,7 @@
 layout: layout_activity
 permalink: "/fr/hiver/activites/coaching-sportif"
 redirect_from:
-  - /fr/hiver/activite/coaching-sportif
+- "/fr/hiver/activite/coaching-sportif"
 language: fr
 season: winter
 topnav_color_text: dark
@@ -36,6 +36,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Coaching sportif Privé
   content: 'Le coaching sportif privé lui, va permettre d''avoir un coach qui sera
@@ -78,5 +79,6 @@ engage: Une préparation pour affronter toutes les situations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre session de coaching sportif
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=21%2F11%2F2021
+categorie: Coaching
 
 ---

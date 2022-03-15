@@ -70,8 +70,8 @@ page_sections:
   gridline1title: Partez à la journée ou plusieurs jours
   gridline1content: 'Vous pouvez partir à la journée pour une belle randonnée ou alors
     partir plusieurs jours. Vous pourrez alors soit dormir en refuge soit bivouaquer.
-    Attention de prendre lire les règlements surtout si vous êtes dans le cœur d''un
-    parc national. '
+    Attention à bien lire les règlements surtout si vous êtes dans le cœur d''un parc
+    national. '
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883623/website/summer/Tente-aventure-plein-air_ksfsyq.jpg
   gridline2title: Partez découvrir des régions
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-henrik-pfitzenmaier-6916165_efoi8c.jpg
