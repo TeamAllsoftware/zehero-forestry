@@ -140,7 +140,7 @@ page_sections:
     2022. '
   captionrightcontent: Je suis loin d’être le plus fort, mais je suis prêt à devenir
     meilleur.
-  center_alt_text_for_image: Aile d'une avion au dessus des nuages
+  center_alt_text_for_image: Aile d'un avion au dessus des nuages
 tags:
 - entraînement
 - compétition
