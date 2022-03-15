@@ -6,9 +6,9 @@ topnav_color_text: dark
 title: Vélo de route - Séjour 6 jours - Méribel
 permalink: "/fr/ete/activites/velo-de-route-sejour-6-jours-meribel"
 redirect_from:
-  - /fr/ete/activite/velo-de-route-sejour-6-jours-meribel
+- "/fr/ete/activite/velo-de-route-sejour-6-jours-meribel"
 meta-title: Séjour de 6 jours de vélo aux alentours de la station de Méribel
-meta-description: Chez Ze Hero, avec l’appui de Prosneige, nous avons créer ce séjour
+meta-description: Chez Ze Hero, avec l’appui de Prosneige, nous avons créé ce séjour
   vélo de découverte et progression à Méribel. Venez ainsi découvrir nos différentes
   vallées et lacs entourés de nos belles montagnes.
 baseline: Un séjour sportif
@@ -30,8 +30,9 @@ page_sections:
   title: 6 jours de vélo
   content: Ce stage de 6 jours de vélo à Méribel, c'est un total de 466km avec 12
     464 de dénivelé. Vous retrouverez alors des journées plus sportives que d'autres
-    avec des ascensions raides et difficiles. Vous plongerez dans les décors montagneux,
-    minéral pour finir les pieds dans le lac d'Annecy.
+    avec des ascensions raides et difficiles. Vous plongerez dans les décors montagneux
+    avant de découvrir le paysage minéral qui vous conduira enfin les pieds dans le
+    lac d'Annecy.
   button:
     text_button: ''
     href_button: ''
@@ -39,6 +40,7 @@ page_sections:
   captiontitleuppercase: Toutes les étapes
   alt_text_for_image: Carte du trajet de toutes les étapes du séjour de vélo de route
     à Méribel
+  blockBGcolor: ''
 - template: textarea
   title: Le séjour
   content: "Le prix du séjour vélo comprend\n\n● Encadrement – Moniteurs diplômés
@@ -58,6 +60,7 @@ page_sections:
     boucle de 48kms / Dénivelé: 1330m D+. Visualisation des niveaux et lancement de
     la semaine. '
   alt_text_for_image: Journée 1 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage2_ilhebt.png
   captiontitleuppercase: Journée 2
@@ -71,6 +74,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Journée 2 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage3_vnw1tf.png
   title: Col de la Madeleine
@@ -85,6 +89,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Journée 3 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage4_vbcw2p.png
   captiontitleuppercase: Journée 4
@@ -97,6 +102,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Journée 4 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage5_ul9hd3.png
   captiontitleuppercase: Journée 5
@@ -110,6 +116,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Journée 5 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: 2colimgtxt
   title: Annecy par les cols
   captiontitleuppercase: Journée 6
@@ -125,6 +132,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Journée 6 de vélo de route à Méribel et ses alentours
+  blockBGcolor: ''
 - template: textarea
   title: Infos pratiques
   content: |-
