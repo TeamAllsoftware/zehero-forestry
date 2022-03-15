@@ -25,11 +25,11 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642165834/website/Conseil%20/benjamin-zanatta-WUdA1_7Lqlw-unsplash_crfnpj.jpg
   captiontitleuppercase: Les différentes activités en montagne l'hiver
   title: Que faire quand on ne fais pas de ski ?
-  content: 'La montagne offre une multitude d''activité, de balade et de découverte
-    que l''on soit seul ou accompagné lorsque nous ne pratiquons pas le ski. Si on
-    aime la nature, les paysages blanc, l''air frais il y a bon nombre d''activité.
-    Si le temps ne permet pas d''être dehors, certaines stations offres des infrastructures
-    permettant de ne jamais s''ennuyer et de toujours profiter. '
+  content: La montagne offre une multitude d'activités, de balades et de découvertes
+    que l'on soit seul ou accompagné lorsque nous ne pratiquons pas le ski. Si on
+    aime la nature, les paysages blancs, l'air frais, il y a bon nombre d'activités.
+    Si le temps ne permet pas d'être dehors, certaines stations offrent des infrastructures
+    permettant de ne jamais s'ennuyer et de toujours profiter.
   alt_text_for_image: Des chiens de traineau courant dans la neige
 - template: textarea
   title: Les activités de plein air
