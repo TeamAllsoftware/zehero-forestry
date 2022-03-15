@@ -69,9 +69,9 @@ page_sections:
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121216/website/summer/daniel-frank-ipombqoEXpE-unsplash_i5tdyz.jpg
   gridline2title: Rigide ou gonflable
   gridline2content: Le paddle rigide sera beaucoup plus résistant et permettra d'avoir
-    une planche plus performante. Mais son inconvénient est le transport. Alors le
-    paddle gonflable se met dans un grand sac à dos avec la pompe et la pagaie et
-    vous pourrez le transporter partout et avoir un paddle de qualité.
+    une planche plus performante. Mais son inconvénient est le transport. À l'inverse,
+    le paddle gonflable sera plus pratique. Il se met dans un grand sac à dos avec
+    la pompe et la pagaie pour faciliter le transport.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/tower-paddle-boards-u-l-P4agRpk-unsplash_v7mozk.jpg
   prlax_alt_text_for_image: Femme faisant du paddle sur l'océan avec une vague lors
     du coucher de soleil
