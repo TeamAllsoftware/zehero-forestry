@@ -115,7 +115,7 @@ page_sections:
     en tenant des bâtons
   grid_1_alt_text_for_image: Deux coureurs courant en montagne dans un petit sentier
     en forêt
-  grid_2_alt_text_for_image: Coureur de trail sur les sentiers prêt de Méribel avec
+  grid_2_alt_text_for_image: Coureur de trail sur les sentiers près de Méribel avec
     le mont blanc derrière
 - template: textarea
   title: Méribel - Névache
