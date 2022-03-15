@@ -2,7 +2,7 @@
 layout: layout_activity
 permalink: "/fr/hiver/activites/ski-freeride"
 redirect_from:
-  - /fr/hiver/activite/ski-freeride
+- "/fr/hiver/activite/ski-freeride"
 language: fr
 season: winter
 topnav_color_text: dark
@@ -36,6 +36,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Dès que l'on quitte les pistes sécurisés, nous sommes face à la montagne
     et donc à des risques plus élevés. La plus courante reste l'avalanche, mais il
@@ -61,6 +62,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     On retrouve le ski hors piste dès qu'on s'écarte des pistes. Parfois il y a certains hors-piste qui se font facilement, par exemple sous un télésiège ou proche d'une piste, une combe qui rejoint une autre piste également. Il y a également des stations de ski qui mettent des zones spécialement dédiées au hors piste qui sont indiquées sur le plan des pistes du domaine skiable.
@@ -80,6 +82,7 @@ page_sections:
   captionrightcontent: Le freeride, c'est découvrir la montagne sauvage, dans son
     milieu naturel.
   center_alt_text_for_image: Skieur en freeride sautant un rocher dans la poudreuse
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
   captiontitleuppercase: Le matériel
@@ -94,6 +97,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Plongez dans l'univers majestueux du hors-piste, apprenez à connaitre
     la montagne, ses pentes, sa neige et ses risques.   \nProgressez techniquement
@@ -113,5 +117,6 @@ engage: 'Explorer la montagne et ses hors pistes '
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre cours de hors piste
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=21%2F11%2F2021
+categorie: Ski
 
 ---
