@@ -47,15 +47,16 @@ page_sections:
 - template: textarea
   title: Une activité pour tous
   content: "Le paddle, quelque soit le lieu de pratique, sera praticable par tout
-    le monde et pour tout les niveaux. Si vous désirez vous baladez à plusieurs dessus
-    le paddle, ou simplement faire du Yoga et du renforcement sur votre paddle. Mais
-    également réaliser des traverser ou des sorties sportives de randonnée ou encore
-    aller surfer les vagues et glisser. Bien sûr en fonction des pratiques on retrouvera
-    des planches de paddle qui seront différentes.  \nAujourd'hui vous pouvez réserver
-    des cours, prendre un moniteur pour des expéditions en paddle, des cours de yoga
-    paddle ou simplement aller louer des paddle.\n\nQuoi de mieux que d'être au soleil,
-    à ramer et en profitant de la nature et des panoramas. Faite de votre entraînements
-    une pratique ludique, agréable et magnifique à la fois."
+    le monde et pour tous les niveaux. Si vous désirez vous balader à plusieurs, ou
+    simplement faire du Yoga et du renforcement, votre paddle remplira sa mission.
+    Il est également possible de réaliser des traversées ou des sorties sportives
+    de randonnée ou encore aller surfer les vagues et glisser. Bien sûr en fonction
+    des pratiques on retrouvera des planches de paddle de tailles et/ou formes différentes.
+    \ \nAujourd'hui vous pouvez réserver des cours, prendre un moniteur pour des expéditions
+    en paddle, des cours de yoga paddle ou simplement aller louer des paddle.\n\nQuoi
+    de mieux que d'être au soleil, à ramer et en profitant de la nature et des panoramas.
+    Faite de votre entraînements une pratique ludique, agréable et magnifique à la
+    fois."
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/reynzo-u5vx3Ke0_RM-unsplash_korw9x.jpg
   captionabovetitle: La polyvalence sur eau
