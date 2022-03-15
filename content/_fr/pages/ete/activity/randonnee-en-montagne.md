@@ -103,12 +103,12 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-ian-beckley-2440078_ueovj0.jpg
   captiontitleuppercase: Profiter de la montagne en la respectant
   title: Où en faire ?
-  content: 'Il existe un choix énorme en France avec nos différentes montagneuses
-    tel que les Pyrénées, la Vanoise, le Jura, les Vosges, le Mercantour, les Bauges,
-    les Ecrins, le Queyras, la vallée de Chamonix et bien d''autre. On retrouve des
+  content: Il existe un choix énorme en France avec nos différentes montagnes telles
+    que les Pyrénées, la Vanoise, le Jura, les Vosges, le Mercantour, les Bauges,
+    les Ecrins, le Queyras, la vallée de Chamonix et bien d'autre. On retrouve des
     parcs bien différents avec des végétations qui changent, des lieux plus minérales
-    ou plus boisés, des lieux avec des glaciers et d''autres entourés de sapins. Vous
-    avez le choix, de plus les différents GR vous amènent à travers des lieux uniques. '
+    ou plus boisés, des lieux avec des glaciers et d'autres entourés de sapins. Vous
+    avez le choix, de plus les différents GR vous amènent à travers des lieux uniques.
   alt_text_for_image: Vue d'un couché de soleil du sommet d'une montagne avec des
     arbres et des montagnes lors d'une randonnée
   button:
