@@ -195,8 +195,8 @@ page_sections:
   blockBGcolor: ''
 - template: 2colimgtxt
   content: Un tarp est une bâche de grande taille imperméable qui peut faire office
-    d’abris ou autre. La mienne est carrée et fait 3 mètres de coté. Associée à 2
-    batons de randonnée, quelques sardines et de la cordelette le dispositif fait
+    d’abris ou autre. La mienne est carrée et fait 3 mètres de côté. Associée à 2
+    bâtons de randonnée, quelques sardines et de la cordelette, le dispositif fait
     une tente légère. Pourquoi un tarp et pas une tente ? Car, je n’ai pas de tente,
     et ce tarp me permet d’envelopper mon vélo afin d’en faire une housse pour prendre
     le TGV. Avec ce tarp j’ai 2 usages (housse et tente) avec un seul article.
