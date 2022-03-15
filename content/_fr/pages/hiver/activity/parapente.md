@@ -6,7 +6,7 @@ topnav_color_text: dark
 title: Vol en parapente
 permalink: "/fr/hiver/activites/vol-en-parapente"
 redirect_from:
-  - /fr/hiver/activite/vol-en-parapente
+- "/fr/hiver/activite/vol-en-parapente"
 meta-title: Réserver un vol en parapente au dessus des montagnes enneigées
 meta-description: Partez vous envoler au dessus des montagnes enneigées avec un vol
   en parapente en biplace
@@ -38,6 +38,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Les vols vont durer entre 10 et 30 mn en fonction de la météo et des départs donnés. Le vol biplace vous permettra d’admirer la vue, de vivre une nouvelle expérience, ainsi que des sensations fortes. Les moniteurs en fonction ainsi de votre aisance peuvent vous faire tenir les commandes et réaliser des vols plus sensationnels. Vous pourrez aussi bénéficier de vidéo et de photo qui sont proposées par les moniteurs de parapente.
@@ -47,5 +48,6 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre vol de parapente
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Parapente&start-date=
+categorie: Dans les airs
 
 ---
