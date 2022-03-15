@@ -82,7 +82,7 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292604/website/V%C3%A9lo/collage1_9_mnftcd.png
   content: 'Cette étape c''est l''ascension du mythique Mont Ventoux, cette terre
     lunaire et ce col difficile où parfois les conditions y sont dures. Une fois arrivé
-    au sommet, vous rejoindrez Sault vous la pause repas avant de repartir jusqu''à
+    au sommet, vous rejoindrez Sault pour la pause repas avant de repartir jusqu''à
     Manosque. Distance: 117 kms / Dénivelé: 2551m D+'
   button:
     text_button: ''
