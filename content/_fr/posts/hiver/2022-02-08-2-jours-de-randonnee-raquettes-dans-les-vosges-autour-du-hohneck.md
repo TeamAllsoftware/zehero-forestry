@@ -164,8 +164,8 @@ page_sections:
     ce soit le chemin à suivre. Cependant c’est le plus “facile” à emprunter car marcher
     de travers en raquettes s’avère très difficile et douloureux pour les pieds et
     les chevilles. La pente est vraiment abrupte et il faut faire très attention.
-    Ludovic l’a appris à ses dépends, il a manqué un pas et s’est vu glisser de coté
-    sur 10 mètres sans pouvoir faire quoique ce soit. Une branche d’arbre salvatrice
+    Ludovic l’a appris à ses dépends, il a manqué un pas et s’est vu glisser de côté
+    sur 10 mètres sans pouvoir faire quoi que ce soit. Une branche d’arbre salvatrice
     lui a évité de glisser plus longtemps.
   title: Le versant sud est réconfortant
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644499340/website/blog/2-jours-raquettes-vosges/PXL_20220205_143052210_f3gkoe.jpg
