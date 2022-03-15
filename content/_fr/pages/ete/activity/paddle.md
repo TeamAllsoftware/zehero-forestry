@@ -82,13 +82,13 @@ page_sections:
   content: "Si vous partez sur la côte Atlantique, vous pourrez alors faire deux types
     de paddle. Vous irez donc surfer les vagues, cela vous demandera une bonne maitrise
     de la planche. Ensuite, vous pourrez également faire des traversées dans l'océan
-    et jouer et avec la houle pour avancer plus vite.  \nDe l'autre côté, vous pourrez
-    faire de belles balades, découvrir les calanques ou la Côte d'Azur, tout réaliser
-    des challenges de traverser.  \nTous les lacs sont des lieux propices à la pratique
-    du paddle comme le lac d'Annecy, de St Cassien, de St Croix ou encore de Serre
-    Ponçons.  \nOn retrouve aujourd'hui des compétitions de paddle sur les rivières,
-    les lacs et la mer en été comme hiver.\n\nÉvadez vous en paddle, musclez-vous,
-    aérez-vous, randonnez et profitez."
+    et jouer avec la houle pour avancer plus vite.  \nDe l'autre côté, vous pourrez
+    faire de belles balades, découvrir les calanques ou la Côte d'Azur, ou encore
+    réaliser des challenges de traversée.  \nTous les lacs sont des lieux propices
+    à la pratique du paddle. On retrouve par exemple le lac d'Annecy, de St Cassien,
+    de St Croix ou encore de Serre Ponçons.  \nOn retrouve aujourd'hui des compétitions
+    de paddle sur les rivières, les lacs et la mer en été comme hiver.\n\nÉvadez-vous
+    en paddle, musclez-vous, aérez-vous, randonnez et profitez."
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
