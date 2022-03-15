@@ -70,9 +70,9 @@ page_sections:
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010435/website/summer/franck-belin-NZHouAGfeds-unsplash_kapfoo.jpg
   gridline2title: Où voler en parapente ?
   gridline2content: La plupart des vols de parapente vont se trouver en montagne.
-    Dans la région Rhône Alpes, il y a énormément de spots pour voler tout comme dans
-    les Pyrénées. Bien sûr, vous en trouverez également vers la Côte d'Azur, dans
-    le centre et même en Bretagne.
+    Dans la région Rhône Alpes, il y a énormément de spots pour voler. Il en est de
+    même pour les Pyrénées. Bien sûr, vous en trouverez également vers la Côte d'Azur,
+    dans le centre et même en Bretagne.
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/nicolas-lafargue-BgFhs1MIHXM-unsplash_axpexv.jpg
   prlax_alt_text_for_image: 'Vol en biplace de parapente lors d''un décollage en montagne '
   grid_1_alt_text_for_image: Parapentiste volant en parapente dans le ciel
