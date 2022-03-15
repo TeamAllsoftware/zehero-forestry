@@ -81,7 +81,7 @@ page_sections:
     devant un lac de montagne
 - template: textarea
   content: |-
-    En fonction des parcours et des distances, la pratique du trail sera différente. Lorsque le parcours sera plus court, l'engagement physique sera alors plus important. Inversement, lorsque le parcours sera plus long, on retrouvera un aspect plus important de gestion, mentale, physique et nutritionnel. Tous ces paramètres rendent l'activité plus riche et intéressante.
+    En fonction des parcours et des distances, la pratique du trail sera différente. Lorsque le parcours sera plus court, l'engagement physique sera alors plus important. Inversement, lorsque le parcours sera plus long, on retrouvera un aspect plus important de gestion, mental, physique et nutritionnel. Tous ces paramètres rendent l'activité plus riche et intéressante.
 
     La pratique du trail comporte un équipement spécifique par ses chaussures de trail, ses vêtements techniques et légers, ses sacs à dos d'hydratation, le port de bâtons pour ceux qui le souhaitent etc.
   title: ''
