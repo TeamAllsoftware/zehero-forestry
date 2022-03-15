@@ -16,7 +16,7 @@ page_sections:
   captiontitleuppercase: Madère
   title: Ultra Trail de l'île de Madère 85km 2021
   content: |-
-    Avant le départ à Madère, la saison avait été vraiment superbe. Je savais que c’était la dernière de l’année, mais aussi mon dernier petit ultra avant un moment, car je serais Papa en mai. Un nouvel Ultra où les nuits peuvent être longues, les ravitos courts, mais le chemin y est unique, magnifique, un partage en duo pour la vie.
+    Avant le départ à Madère, la saison avait été vraiment superbe. Je savais que c’était la dernière de l’année, mais aussi mon dernier petit ultra avant un moment, car je serai Papa en mai. Un nouvel Ultra où les nuits peuvent être longues, les ravitos courts, mais le chemin y est unique, magnifique, un partage en duo pour la vie.
 
     Madère serait la ‘der, elle avait donc un goût particulier.
   alt_text_for_image: Chemin de randonnée au Pico à Madère
