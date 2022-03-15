@@ -54,7 +54,7 @@ page_sections:
 - template: liststyle01
   title: Les différentes courses
   item:
-  - 'Kilomètre Verticaux '
+  - 'Kilomètres Verticaux '
   - Trail Court < 30km
   - Trail Long < 80km
   - Ultra Trail > 100km
