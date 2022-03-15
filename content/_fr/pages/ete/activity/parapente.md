@@ -65,8 +65,8 @@ page_sections:
   gridline1title: Pour qui ?
   gridline1content: Le parapente et le baptême en biplace, est une activité pour tout
     le monde. Dès 5ans et jusqu'à environ 100 kg, vous pourrez profiter de cette activité
-    de pleine air. Vous pourrez trouver des vols biplaces de randonnée, de sensation,
-    de découverte et bien d'autre.
+    de plein air. Vous pourrez trouver des vols biplaces de randonnée, de sensation,
+    de découverte et bien d'autres.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010435/website/summer/franck-belin-NZHouAGfeds-unsplash_kapfoo.jpg
   gridline2title: Où voler en parapente ?
   gridline2content: La plupart des vols de parapente vont se trouver en montagne.
