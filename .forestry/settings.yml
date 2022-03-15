@@ -17,7 +17,6 @@ sections:
 - type: document
   path: _data/cat-activity.yml
   label: Category labels
-  match: "**/*"
 - type: heading
   label: FRENCH
 - type: directory

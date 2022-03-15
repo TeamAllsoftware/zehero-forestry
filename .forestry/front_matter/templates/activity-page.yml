@@ -54,6 +54,19 @@ fields:
   config:
     required: true
   label: Title
+- name: categorie
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: category-labels
+      file: 
+      path: 
+  label: categorie
+  description: Category label activity page, include in the filter
 - name: permalink
   type: text
   config:
