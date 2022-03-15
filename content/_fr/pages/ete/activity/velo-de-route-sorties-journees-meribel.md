@@ -27,9 +27,9 @@ page_sections:
 - template: textarea
   title: Les différents parcours
   content: "Nous vous proposons 6 journées de vélo de route à Méribel et dans son
-    secteur. Chaque journées est indépendante de l'ensemble du séjour. Vous pouvez
+    secteur. Chaque journée est indépendante de l'ensemble du séjour. Vous pouvez
     donc réserver les journées qui vous intéressent le plus.\n\nLe prix des sorties
-    vélo journée comprend :  \n\\- Encadrement – Moniteurs diplômés d’État   \n\\-
+    vélo journée comprend :  \n\\- Encadrement – Moniteurs diplômés d’État  \n\\-
     Ravitaillement en eau lors des étapes  \n\\- Suivi technique et logistique (transports
     bagages et vélos)"
 - template: 2colimgtxt
