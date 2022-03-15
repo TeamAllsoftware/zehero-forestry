@@ -7,8 +7,8 @@ topnav_color_text: dark
 title: 2022-01-12-les-meilleurs-snowparks-en-france
 post-title: Liste des meilleurs snowparks de France
 meta-title: Liste des meilleurs snowparks de France
-meta-description: Où trouver les meilleurs snowparks en france ? Dans quelles stations
-  peut on trouver des half-pipe ?
+meta-description: Où trouver les meilleurs snowparks en France ? Dans quelles stations
+  peut-on trouver des half-pipe ?
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641985183/website/blog/Hiver/jproducer-n708F8cxtBY-unsplash_qb4dhj.jpg
 image01_alt: Half Pipe compétition de snowboard dans la station de Laax
 page_sections:
