@@ -45,18 +45,19 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   title: Le déroulement d'un vol en biplace
-  content: "Il faudra alors s'habiller en fonction de la météo et de la température,
-    mais venez avec des chaussures types baskets ainsi qu'un pantalon et une veste
-    type coupe-vent. Une fois que vous serez au sommet avec le moniteur, il va ensuite
-    vous faire le briefing de sécurité.   \nVous serez ainsi attaché à votre moniteur
-    et vous pourrez enfin commencer à courir avec lui pour décoller dans les airs.
-    À partir de là, vous serez confortablement assis et vous volerez paisiblement
-    en profitant du paysage. En fonction de votre aisance, le moniteur peut vous donner
+  content: "Il faudra alors s'habiller en fonction de la météo et de la température.
+    Nous vous conseillons de venir avec des chaussures types baskets ainsi qu'un pantalon
+    et une veste type coupe-vent. Une fois au sommet avec le moniteur, celui-ci vous
+    fera le briefing de sécurité.  \nVous serez ainsi attaché à votre moniteur et
+    vous pourrez enfin commencer à courir avec lui pour décoller dans les airs. À
+    partir de là, vous serez confortablement assis et vous volerez paisiblement en
+    profitant du paysage. En fonction de votre aisance, le moniteur peut vous donner
     les commandes du parapente et vous pourrez alors diriger la voile. Il peut également
-    en fin de vol, vous faire tournez à toute vitesse afin de vous faire vivre des
+    en fin de vol, vous faire tourner à toute vitesse afin de vous faire vivre des
     sensations encore plus fortes.  \nLors de l'atterrissage, il faudra alors se mettre
-    en position debout et courir avec le moniteur et de bien tenir sur vos jambes
-    pour atterrir en toute douceur."
+    en position debout et courir avec le moniteur. Pour atterrir en douceur, il est
+    primordial de tenir fermement sur vos jambes. L'ensemble des ces consignes vous
+    seront évidemment données par l'instructeur."
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/pablo-heimplatz-R4679uf28lY-unsplash_ysyjkx.jpg
   captionabovetitle: Le parapente, pour tout le monde
