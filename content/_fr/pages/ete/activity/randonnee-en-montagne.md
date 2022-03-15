@@ -6,14 +6,14 @@ topnav_color_text: dark
 title: Randonner en montagne
 permalink: "/fr/ete/activites/randonnee-montagne"
 redirect_from:
-  - /fr/ete/activite/randonnee-montagne
+- "/fr/ete/activite/randonnee-montagne"
 meta-title: Randonnée en montagne, comment la pratiquer au mieux
-meta-description: Pratiquez la randonnée en montagne ou en plaine à la découverte de la
-  nature en famille, entre amis ou seul.
+meta-description: Pratiquez la randonnée en montagne ou en plaine à la découverte
+  de la nature en famille, entre amis ou seul.
 baseline: Découvrir, marcher et respirer
 engage: Partez découvrir les secrets des montagnes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582618/website/summer/pexels-eric-sanman-1365425_uouohg.jpg
-image01_alt: Groupe de marcheurs et de randonneurs en montagnes qui marchent sur un
+image01_alt: Groupe de marcheurs et de randonneurs en montagne qui marchent sur un
   sentier
 categorie: Randonnée
 page_sections:
@@ -48,6 +48,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Prendre un guide, un accompagnateur de moyenne montagne permet d'avoir
     toutes les informations sur comment bien randonnée. C'est-à-dire, qu'il va vous
@@ -114,11 +115,15 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: La montagne vous attend
   content: Venez respirer l'air pur de la montagne, admirez les lacs de haute altitude,
     regardez les chamois et leurs agilités incroyables, observez la pureté des fleurs
     de montagne. Venez partager un moment de bien-être en marchands sur les sentiers
     qui vous éloigne du monde et vous rapproche de la liberté.
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---

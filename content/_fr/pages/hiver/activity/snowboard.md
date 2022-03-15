@@ -2,7 +2,7 @@
 layout: layout_activity
 permalink: "/fr/hiver/activites/snowboard"
 redirect_from:
-  - /fr/hiver/activite/snowboard
+- "/fr/hiver/activite/snowboard"
 language: fr
 season: winter
 topnav_color_text: dark
@@ -34,6 +34,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: liststyle01
   title: Dans quel sens ?
   item:
@@ -54,6 +55,7 @@ page_sections:
     sont pas évidents mais ensuite la progression va plus vite qu''en ski. '
   center_alt_text_for_image: Snowboardeur sautant un saut en faisant un grab et une
     figure en snowboard
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Le snowboard, à la différence du ski, nécessite des boots pour sa pratique. Elles sont beaucoup plus confortables et vous pouvez alors marcher plus facilement avec. Afin de pouvoir rider et être maintenu sur la planche, les boots seront fixées aux fixations du snowboard. Vous trouverez aujourd'hui différents types de fixation et aussi différentes en fonction des marques.
@@ -95,5 +97,6 @@ engage: Apprenez tous les secrets du snowboard et de son style
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre cours de snowboard
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=21%2F11%2F2021
+categorie: Snowboard
 
 ---
