@@ -109,9 +109,9 @@ page_sections:
   captiontitleuppercase: Journée 6
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292604/website/V%C3%A9lo/collage1_11_w1w0ye.png
   content: 'Cette dernière journée de vélo vous amène à Coursegoule, petit village
-    de l''arrière pays niçois pause une pause sandwich. Après un passage dans le village
-    de St Jeannet, vous terminerez votre périple à Cagnes sur Mer. Distance: 103 kms
-    / Dénivelé: 1446m D+'
+    de l''arrière pays niçois à découvrir lors d''une pause sandwich. Après un passage
+    dans le village de St Jeannet, vous terminerez votre périple à Cagnes sur Mer.
+    Distance: 103 kms / Dénivelé: 1446m D+'
   button:
     text_button: ''
     href_button: ''
