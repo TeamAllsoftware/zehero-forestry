@@ -129,7 +129,7 @@ page_sections:
   title: Les accessoires
   content: |-
     * Casque de ski (très important et différent de celui d’alpin avec plus d’aérations et plus léger)
-    * Lunette de soleil ou masque
+    * Lunettes de soleil ou masque
     * Accessoires techniques type DVA (détecteur de victime en avalanche)
     * Matériel de sécurité : pelle, sonde…
 - template: textarea
