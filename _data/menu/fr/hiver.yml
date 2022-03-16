@@ -87,6 +87,10 @@ menu:
     - title: Antibes
       href: "/fr/hiver/destinations/antibes"
   column-03:
+  - nested: Les régions
+    menu-items:
+    - title: Savoie
+      href: "/fr/hiver/destinations"
 - title: Team ZE HERO
   id: "4"
   title-link: "#"
