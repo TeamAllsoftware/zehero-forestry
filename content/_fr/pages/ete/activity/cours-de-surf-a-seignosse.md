@@ -56,6 +56,27 @@ page_sections:
     forme de stage\n\nLes groupes des cours collectifs seront par niveau mais aussi
     par âge pour les enfants.  \nLes cours collectifs de surf vont varier de 1h30
     à 2h de temps et les groupes seront jusqu'à 8 à 10 personnes."
-published: false
+- template: textarea
+  title: Les cours privés de surf à Seignosse
+  content: |-
+    Les cours privés de surf à Seignosse vont vous permettre d'avoir un moniteur dédié à vous pendant 1h30 à 2h. Il restera avec vous afin de regarder chacun de vos gestes, de vos mouvements. Il vous permettra alors d'apprendre et de progresser beaucoup plus vite qu'en cours collectif. Un moniteur spécifique pour vous qui vous accompagnera dans votre progression et dans vos objectifs.
+
+    Les cours privés de surf peuvent être dédiés pour 1 personne, pour 2 personnes et pour 3 personnes maximum.
+
+    A Seignosse, vous retrouverez le moniteur de surf Morgan d'Avezac. Il vous transmettra toutes ses compétences techniques, physiques. Un moniteur qui a pratiqué la compétition à haut niveau pendant 10 années et qui sera à l'écoute pour vous apporter les meilleurs conseils.
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647264217/website/resorts/Seignosse/tom-wolff-XYCIp21GBQQ-unsplash.jpg
+  alt_text_for_image: Personne en surf sautant une vague à Seignosse
+  captiontitleuppercase: Partez surfer à Seignosse
+  title: Réservez votre cours de surf à Seignosse
+  content: "Réservez votre cours de surf à Seignosse afin d'apprendre et de vous initier
+    à cette discipline de glisse.  \nTrouver le cours qui vous correspondant, cours
+    collectif ou cours privé à Seignosse.  \nAvec Ze Hero, trouvez le meilleur pour
+    vous et surfez sur les vagues des Landes."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
