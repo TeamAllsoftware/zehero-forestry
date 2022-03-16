@@ -19,14 +19,14 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: textarea
   title: Cours de surf à Seignosse
-  content: "Les cours de surf à Seignosse vont pouvoir se faire tout d'abord à différentes
-    plages et spots. Vous allez donc retrouvez la plage des Casernes, la plage du
-    Penon, la plage des Bourdaines et la plage des Estagnots.  \nPour trouver un cours
-    de surf à Seignosse, vous avez avoir plusieurs écoles de surf. Elles sont au nombre
-    de 22 et vous allez avoir également des moniteurs de surf indépendant comme Morgan
-    D'Avezac.  \nApprenez le surf, partez surfer en longboard, en shortboard, en stand-up
-    paddle.  \nUn large choix choix s'offre à vous pour trouver votre cours de surf
-    ou simplement de louer votre matériel de surf à Seignosse."
+  content: |-
+    Les cours de surf à Seignosse vont pouvoir se faire tout d'abord à différentes plages et spots. Vous allez donc retrouver la plage des Casernes, la plage du Penon, la plage des Bourdaines et la plage des Estagnots.
+
+    Pour trouver un cours de surf à Seignosse, vous allez avoir plusieurs écoles de surf. Elles sont au nombre de 22 et vous allez avoir également des moniteurs de surf indépendant comme Morgan D'Avezac.
+
+    Apprenez le surf, partez surfer en longboard, en shortboard, en stand-up paddle.
+
+    Un large choix s'offre à vous pour trouver votre cours de surf ou simplement de louer votre matériel de surf à Seignosse.
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647362603/website/resorts/Seignosse/jeffrey-brandjes-IYN2sh976Ac-unsplash_1.jpg
@@ -49,13 +49,14 @@ page_sections:
     alt_button: ''
 - template: textarea
   title: Les cours de surf collectifs à Seignosse
-  content: "Vous pourrez réserver des cours collectifs de surf à Seignosse quelque
-    soit votre niveau. Chaque cours sera adapté à votre niveau et vous saurez dans
-    un groupe avec un niveau homogène. Vous retrouverez différentes possibilités de
-    cours de surf : \n\n* quelques heures \n* à la journée \n* plusieurs jours, sous
-    forme de stage\n\nLes groupes des cours collectifs seront par niveau mais aussi
-    par âge pour les enfants.  \nLes cours collectifs de surf vont varier de 1h30
-    à 2h de temps et les groupes seront jusqu'à 8 à 10 personnes."
+  content: "Vous pourrez réserver des cours collectifs de surf à Seignosse, que vous
+    soyez débutant ou confirmé, les cours sont pour tous les niveaux. Chaque cours
+    sera adapté à votre niveau et vous saurez dans un groupe avec un niveau homogène.
+    Vous retrouverez différentes possibilités de cours de surf :\n\n* quelques heures\n*
+    à la journée\n* plusieurs jours, sous forme de stage\n\nLes groupes des cours
+    collectifs seront par niveau mais aussi par âge pour les enfants.  \nLes cours
+    collectifs de surf vont varier de 1h30 à 2h de temps et les groupes seront jusqu'à
+    8 à 10 personnes."
 - template: textarea
   title: Les cours privés de surf à Seignosse
   content: |-
@@ -71,7 +72,7 @@ page_sections:
   captiontitleuppercase: Partez surfer à Seignosse
   title: Réservez votre cours de surf à Seignosse
   content: "Réservez votre cours de surf à Seignosse afin d'apprendre et de vous initier
-    à cette discipline de glisse.  \nTrouver le cours qui vous correspondant, cours
+    à cette discipline de glisse.  \nTrouvez le cours qui vous correspondant, cours
     collectif ou cours privé à Seignosse.  \nAvec Ze Hero, trouvez le meilleur pour
     vous et surfez sur les vagues des Landes."
   button:
