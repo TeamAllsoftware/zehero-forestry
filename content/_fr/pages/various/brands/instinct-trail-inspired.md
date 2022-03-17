@@ -5,7 +5,7 @@ season: summer
 cat: brand
 topnav_color_text: dark
 title: Instinct Trail Inspired
-permalink: "/fr/marques"
+permalink: "/fr/marques/instinct-trail-inspired"
 redirect_from:
   - /fr/marque/instinct-trail-inspired
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644409543/website/Instinct%20Trail/104467426_1405340209666139_5138196132130000830_n_terwzl.png
