@@ -24,12 +24,20 @@
                     {% assign itemList =  service | map: 'categorie' | uniq | compact | sort_natural %}
                    
                     <li class="nav active"><a data-filter="*" href="#">Tout ({{ service | size }})</a></li>                
-                       
+                        {% assign counter = '0' %}
                         {% for item in itemList  %}
-                            {% if item %}
-                            <li class="nav"><a data-filter=".{{ item | remove: ' ' | remove: '/'  }}" href="#">{{ item }}</a></li>
-                            {% else %}
-                            {% endif %}          
+                            
+                            {% for page in service %}
+                                {% for tag in page.categorie %}
+                                    {% if tag == 'Vélo' %}
+                                        {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
+                                                {% if item %}
+                                                <li class="nav"><a data-filter=".{{ item | remove: ' ' | remove: '/'  }}" href="#">{{ item }} ({{ counter }})</a></li>
+                                                {% else %}
+                                                {% endif %}
+                                    {% endif %}
+                                {% endfor %}
+                            {% endfor %}
                         {% endfor %}
                 </ul>
                 <!-- end filter navigation -->
