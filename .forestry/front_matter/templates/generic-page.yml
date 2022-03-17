@@ -130,6 +130,7 @@ fields:
   - newsletter
   - separatorLine
   - video2colImgTxt
+  - videoPopup
   config:
     min: 
     max: 

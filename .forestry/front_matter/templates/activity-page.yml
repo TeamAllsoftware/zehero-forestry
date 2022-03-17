@@ -158,6 +158,7 @@ fields:
   - 2colTitreTxt
   - newsletter
   - video2colImgTxt
+  - videoPopup
   - separatorLine
   config:
     min: 

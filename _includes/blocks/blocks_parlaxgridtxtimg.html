@@ -6,7 +6,7 @@
         <div class="row justify-content-center">
             <div class="col-12 col-lg-7 col-md-9 col-sm-10 position-relative text-center overlap-gap-section wow animate__fadeIn">
                 <span class="text-white d-block margin-15px-bottom text-uppercase alt-font font-weight-500">{{ block.captionabovetitle }}</span>
-                <h4 class="alt-font font-weight-500 text-white margin-8-rem-bottom sm-no-margin-bottom">{{ block.title }}</h4>
+                <h2 class="h1 alt-font font-weight-500 text-white margin-8-rem-bottom sm-no-margin-bottom">{{ block.title }}</h2>
             </div>
         </div>
     </div>
@@ -19,7 +19,7 @@
             <div class="d-flex flex-column">
                 <div class="row m-lg-0">
                     <div class="col-12 col-md-6 order-2 order-md-1 bg-light-cream text-center padding-6-half-rem-all lg-padding-4-rem-all last-paragraph-no-margin wow animate__fadeIn" data-wow-delay="0.2s">
-                        <h6 class="alt-font text-extra-dark-gray font-weight-500 d-inline-block">{{ block.gridline1title }}</h6>
+                        <h3 class="h2 alt-font text-extra-dark-gray font-weight-500 d-inline-block">{{ block.gridline1title }}</h3>
                         {{ block.gridline1content | markdownify }}
                     </div>
                     {% capture download_note %}{{ block.gridline1img }}{% endcapture %}
@@ -29,7 +29,7 @@
                     {% capture download_note %}{{ block.gridline2img }}{% endcapture %}
                     <div class="col-12 col-md-6 hover-option-6 cover-background sm-h-300px wow animate__fadeIn" data-wow-delay="0.8s" style="background-image: url('{% include image.html file=download_note sizevar="" width="700" %}')"></div>
                     <div class="col-12 col-md-6 bg-light-cream text-center padding-6-half-rem-all lg-padding-4-rem-all last-paragraph-no-margin wow animate__fadeIn" data-wow-delay="0.6s">
-                        <h6 class="alt-font text-extra-dark-gray font-weight-500 d-inline-block">{{ block.gridline2title }}</h6>
+                        <h3 class="h2 alt-font text-extra-dark-gray font-weight-500 d-inline-block">{{ block.gridline2title }}</h3>
                         {{ block.gridline2content | markdownify }}
                     </div>
                 </div>
