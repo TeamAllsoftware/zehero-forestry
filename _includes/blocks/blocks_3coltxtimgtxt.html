@@ -4,12 +4,12 @@
         <div class="row">
             <div class="col-12 col-xl-4 col-md-6 order-md-2 order-xl-1 bg-orange-zest text-white d-flex flex-column justify-content-center padding-8-half-rem-all xl-padding-5-half-rem-all md-padding-4-half-rem-all wow animate__fadeIn" data-wow-delay="0.2s">
                 <i class="ti-quote-left icon-large margin-2-rem-bottom opacity-4"></i>
-                <h6 class="alt-font font-weight-300 margin-30px-bottom">{{ block.captionleftcontent | markdownify }}</h6>
+                <h2 class="h2 alt-font font-weight-300 margin-30px-bottom">{{ block.captionleftcontent | markdownify }}</h2>
             </div>
             {% capture download_note %}{{ block.imagecenter }}{% endcapture %}
             <div class="col-12 col-xl-4 order-md-1 order-xl-2 cover-background lg-h-500px wow animate__fadeIn" data-wow-delay="0.4s" style="background-image: url('{% include image.html file=download_note sizevar="" width="600" %}');"></div>
             <div class="col-12 col-xl-4 col-md-6 order-md-3 bg-extra-dark-gray padding-8-half-rem-all last-paragraph-no-margin xl-padding-5-half-rem-all md-padding-4-half-rem-all wow animate__fadeIn" data-wow-delay="0.6s">  
-                <h5 class="alt-font text-white">{{ block.captionrighttitle }}</h5>
+                <h3 class="h1 alt-font text-white">{{ block.captionrighttitle }}</h3>
                 <p>{{ block.captionrightcontent | markdownify }}</p>
             </div>
         </div>

@@ -138,6 +138,7 @@ fields:
   - newsletter
   - video2colImgTxt
   - separatorLine
+  - videoPopup
   config:
     min: 
     max: 
