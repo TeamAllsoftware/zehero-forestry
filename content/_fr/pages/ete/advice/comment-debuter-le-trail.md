@@ -3,13 +3,18 @@ layout: layout_advice
 language: fr
 season: summer
 meta-title: Conseil sportif pour bien débuter en trail en tant que débutant
-meta-description: Savoir comment débuter le trail, comment s'équiper et s'entrainer lorsqu'on
-  est débutant
+meta-description: Savoir comment débuter le trail, comment s'équiper et s'entrainer
+  lorsqu'on est débutant
 topnav_color_text: light
 title: Comment débuter le trail
 permalink: "/fr/ete/conseils/comment-debuter-trail"
 redirect_from:
-  - /fr/ete/conseil/comment-debuter-trail
+- "/fr/comment-debuter-le-trail/"
+- "/fr/trail-progresser-montee-descente/"
+- "/fr/faire-du-fractionne-en-trail/"
+- "/fr/course-trail/"
+- "/fr/sortie-trail-groupe/"
+- "/fr/trail-groupe-antibes/"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642663999/website/summer/alex-gorham-jqrWv4jQw88-unsplash_hrvtkn.jpg
 image01_alt: Coureur sur une crête de montagne au dessus d'une mer de nuage pratiquant
   le trail running
@@ -29,7 +34,7 @@ page_sections:
   title: Débuter le trail
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643038697/website/summer/117444833_3228512423882343_2122646883182493095_n_pymt7i.jpg
-  captiontitleuppercase: Débuter s'est progresser
+  captiontitleuppercase: Débuter c'est progresser
   title: Commencez par des parcours faciles
   content: Tout d’abord, vous allez commencer par courir sur des parcours simples
     et faciles. Le plat est forcément très bien pour commencer. Si vous avez un parc
@@ -46,6 +51,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: numberinfo
   counter: "2"
   text_refers_to_counter: 'séances par semaine '
@@ -73,6 +79,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: numberinfo
   counter: "1"
   text_refers_to_counter: 'sortie avec du D+    '
@@ -135,12 +142,6 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-redirect_from:
-- "/fr/comment-debuter-le-trail/"
-- "/fr/trail-progresser-montee-descente/"
-- "/fr/faire-du-fractionne-en-trail/"
-- "/fr/course-trail/"
-- "/fr/sortie-trail-groupe/"
-- "/fr/trail-groupe-antibes/"
+  blockBGcolor: ''
 
 ---
