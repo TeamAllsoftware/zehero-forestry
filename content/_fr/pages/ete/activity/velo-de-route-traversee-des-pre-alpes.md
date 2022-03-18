@@ -20,13 +20,13 @@ categorie: Vélo
 page_sections:
 - template: textarea
   content: |-
-    Lorsque l’on parle de **traversée des Alpes**, on pense directement à la Grande Traversée qui part de Thonon les Bains en **Haute Savoie** et qui arrive à **Nice**. Plusieurs formats s’offrent alors à vous mais le plus connu reste le format 8 jours.
+    Lorsque l’on parle de [**traversée des Alpes**](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo), on pense directement à la Grande Traversée qui part de Thonon les Bains en [**Haute Savoie**](https://www.ze-hero.com/fr/ete/destinations/haute-savoie) et qui arrive à **Nice**. Plusieurs formats s’offrent alors à vous mais le plus connu reste le format 8 jours.
 
     Néanmoins, nous avons tout testé pour vous et nous sommes tombés amoureux d’un format “**Traversée des Pré-Alpes**“. En effet, que ce soit de par la beauté de ses paysages ou son dénivelé, ce format n’a rien à envier au format “Grands Cols”. Il offre également, en prime, la possibilité de gravir plusieurs cols mythiques tel que le **Mont Ventoux**.
 
     Ainsi, nous sommes heureux de vous proposer cette traversée des **Pré-Alpes** : un parcours de **650kms pour 12000m de dénivelé en 6 étapes !**
 
-    Au départ de **Chambéry** vous traverserez la **Chartreuse**, le **Vercors**, les **Monts du Vaucluse** avec le **Ventoux**, sans oublier les **gorges du Verdon** pour, finalement, traverser l**‘arrière pays Niçois** et arriver à **Nice.**
+    Au départ de **Chambéry** vous traverserez la **Chartreuse**, le **Vercors**, les **Monts du Vaucluse** avec le **Ventoux**, sans oublier les **gorges du Verdon** pour, finalement, traverser l‘arrière pays Niçois et arriver à **Nice.**
   title: La traversée des Pré-Alpes
 - template: textarea
   content: "● Encadrement – Moniteurs diplômés d’État  \n● Hébergement en gîte et

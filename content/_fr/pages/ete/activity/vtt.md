@@ -95,10 +95,10 @@ page_sections:
     * Les Saisies avec la piste "les Bikettes"
     * La Clusaz et sa piste "La trace du Bélier"
     * La Grave
-    * Méribel avec la Corbassière
+    * [Méribel ](https://www.ze-hero.com/fr/ete/destinations)avec la Corbassière
     * et bien d'autres
 
-    Mais vous allez également retrouver des parcours sublimes dans les Cévennes, dans l'Esterel et vers le Roquebrune, dans le Mercantour, dans le Jura...
+    Mais vous allez également retrouver des parcours sublimes dans les Cévennes, dans [l'Esterel ](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes)et vers le Roquebrune, dans le [Mercantour](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes), dans le Jura...
   title: Où en faire ?
 button_to_link_to_ze_hero_shop:
   button_text: ''

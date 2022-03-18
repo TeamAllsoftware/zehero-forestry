@@ -2,7 +2,7 @@
 layout: layout_resort
 permalink: "/fr/ete/destinations/meribel"
 redirect_from:
-  - /fr/ete/destination/meribel
+- "/fr/ete/destination/meribel"
 language: fr
 season: summer
 topnav_color_text: light
@@ -10,7 +10,9 @@ resort_nameid: meribel
 resort_naming: Méribel
 title: Méribel et ses activités outdoor pour la saison d'été
 meta-title: Activités outdoor à Méribel pour l'été
-meta-description: Méribel est composé de plusieurs villages et elle fait parti du domaine les 3 Vallées. Entre le charme des ses villages, cette station sera féérique entre son domaine skiable grandiose, ses forêts de sapin et son architecture.
+meta-description: Méribel est composé de plusieurs villages et elle fait parti du
+  domaine les 3 Vallées. Entre le charme des ses villages, cette station sera féérique
+  entre son domaine skiable grandiose, ses forêts de sapin et son architecture.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51413475434_999c49bc4f_k_tzeznm.jpg
 image01_alt: Vue des montagnes à Méribel en Savoie.
 page_sections:
@@ -27,7 +29,7 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269871/website/M%C3%A9ribel/48230749811_989a61d1d1_k_pk9iwg.jpg
   captiontitleuppercase: Charme et volupté
   title: Familiale, sportif et détente
-  content: 'Profitez d''une station très active l''été avec de nombreuses activités.
+  content: 'Profitez d''une station très active l''été avec de nombreuses [activités](https://www.ze-hero.com/fr/ete/conseils/activites-montagne-ete).
     Méribel s''est aussi une réserve naturelle : Tueda. Un espace préservé, qui est
     plongé dans le parc national de la Vanoise. Admirez et profitez d''un espace naturel
     entre lac et montagne. Entre village et nature, vous bénéficierez de moment au
@@ -35,21 +37,23 @@ page_sections:
   alt_text_for_image: Lac en montagne avec une flore présente et les montagnes à cotés
 - template: textarea
   content: L'été, plusieurs remontées mécaniques vont être en marche. Vous pourrez
-    profiter en tant que piéton et accéder directement à des randonnées proches des
-    crêtes et des sommets. Mais vous pourrez également en profiter pour pratiquer
-    le VTT et le VTT électrique. Méribel est une station qui offre un incroyable parc
-    de VTT. Vous trouverez énormément de pistes de descente pour tous les niveaux
-    ainsi que des balades d'exception pour les familles et les plus sportifs.
+    profiter en tant que piéton et accéder directement à des [randonnées ](https://www.ze-hero.com/fr/ete/activites/randonnee-montagne)proches
+    des crêtes et des sommets. Mais vous pourrez également en profiter pour pratiquer
+    le [VTT ](https://www.ze-hero.com/fr/ete/activites/vtt)et le VTT électrique. Méribel
+    est une station qui offre un incroyable parc de VTT. Vous trouverez énormément
+    de pistes de descente pour tous les niveaux ainsi que des balades d'exception
+    pour les familles et les plus sportifs.
   title: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51413714050_374a9a4e10_k_kk6wwz.jpg
   captionleftcontent: Le plaisir avant tout
   captionrighttitle: Prenez un bol d'air
   captionrightcontent: Méribel est un petit coin de paradis aux grands espaces. Profitez
-    de la montagne pour partir faire du Yoga et de la relaxation au bord du lac de
-    Tueda. Mais également des randonnées initiatique et ludique, des ateliers de respirations
-    et de Qi-Gong. Vous pourrez aussi profiter des espaces bien-être et vous relaxez
-    dans les jacuzzis, hammam, saunas et les massages.
+    de la montagne pour partir faire du [Yoga ](https://www.ze-hero.com/fr/ete/activite/yoga)et
+    de la relaxation au bord du lac de Tueda. Mais également des randonnées initiatique
+    et ludique, des ateliers de respirations et de Qi-Gong. Vous pourrez aussi profiter
+    des espaces bien-être et vous relaxez dans les jacuzzis, hammam, saunas et les
+    massages.
   center_alt_text_for_image: Trois femmes faisant du Yoga à Méribel au lac de Tueda
     le matin
 - template: 2colimgtxt
@@ -61,7 +65,7 @@ page_sections:
     de Tougnète et bien d'autres. Profitez de sentiers à travers des lieux sauvages
     où vous pourrez apercevoir des marmottes, des chamois, des bouquetins. Accompagné
     d'un guide, vous pourrez découvrir une nouvelle facette de cette montagne, de
-    sa faune et de sa flore. C'est également une station propice au Trail Running,
+    sa faune et de sa flore. C'est également une station propice au [Trail Running](https://www.ze-hero.com/fr/ete/activites/trail-running),
     avec des sentiers balisés, des compétitions.
   alt_text_for_image: Trois coureurs faisant du trail à Méribel en montagne avec une
     mer de nuage derrière eux
@@ -71,14 +75,16 @@ page_sections:
     sont des activités comme le tir à l'arc, la trottinette électrique tout terrain.
     Vous pourrez aussi faire de la Via Ferrata et faire le plein de sensation forte
     en grimpant des parois verticales. Vous pourrez également trouver de l'escalade
-    ainsi que des canyonings. Si vous aimez l'outdoor et ses activités alors vous
-    trouverez tout ce que vous aimez à Méribel. Vous pourrez par ailleurs travailler
-    votre Swing dans le magnifique Golf que propose Méribel. Un golf unique plongez
-    au cœur des montagnes.  \nC'est également le lieu idéal pour faire son baptême
-    de parapente et voler au-dessus des villages de Méribel et de ses sommets.\n\nC'est
-    aussi du vélo de route avec de nombreuses ascensions et parcours qui vous feront
-    découvrir les paysages de montagne et de Savoie. Lancez-vous dans des défis sportifs
-    en grimpant le fameux col de la Loze."
+    ainsi que des [canyonings](https://www.ze-hero.com/fr/ete/activites/canyoning).
+    Si vous aimez l'outdoor et ses activités alors vous trouverez tout ce que vous
+    aimez à Méribel. Vous pourrez par ailleurs travailler votre Swing dans le magnifique
+    Golf que propose Méribel. Un golf unique plongez au cœur des montagnes.  \nC'est
+    également le lieu idéal pour faire son baptême de [parapente ](https://www.ze-hero.com/fr/ete/activites/parapente)et
+    voler au-dessus des villages de Méribel et de ses sommets.\n\nC'est aussi du [vélo
+    de route](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)
+    avec de nombreuses ascensions et parcours qui vous feront découvrir les paysages
+    de montagne et de Savoie. Lancez vous dans des défis sportifs en grimpant le fameux
+    col de la Loze."
   title: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269873/website/M%C3%A9ribel/51412716796_70cc7b315e_k_plp4js.jpg
