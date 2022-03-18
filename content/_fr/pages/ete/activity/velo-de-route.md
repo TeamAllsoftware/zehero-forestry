@@ -33,8 +33,8 @@ page_sections:
     en groupe dans un environnement et un cadre parfois magnifique. C'est une activité
     physique mais en fonction des parcours, elle peut être plus adaptée à des personnes
     désirant des itinéraires moins longs et avec moins de dénivelé. Aller grimper
-    les cols, c'est atteindre des sommets mythiques en vélo et avoir des panoramas
-    grandioses.
+    les cols, c'est atteindre des [sommets mythiques](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)
+    en vélo et avoir des panoramas grandioses.
   alt_text_for_image: Femme faisant du vélo de route dans une montée en direction
     d'un col en montagne
   button:
