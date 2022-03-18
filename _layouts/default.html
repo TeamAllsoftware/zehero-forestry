@@ -1,3 +1,9 @@
+{% if jekyll.environment == 'production' %}
+---
+layout: compress
+---
+{% endif %}
+
 {% include structure/head.html %}
 {% include structure/header.html %}
     {{ content }}
