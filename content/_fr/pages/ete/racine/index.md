@@ -1,7 +1,7 @@
 ---
 layout: layout_generic
 title: Toutes les activités de l'été
-meta-title: Activités outdoor, boutique en ligne pour commander des activités de plein air d'été
+meta-title: Activités outdoor et boutique en ligne pour l'été
 meta-description: Toutes les activités outdoor de l'été à partager en famille ou entre amis où que vous soyez en France et quelque soit votre niveau
 
 permalink: /fr/ete/

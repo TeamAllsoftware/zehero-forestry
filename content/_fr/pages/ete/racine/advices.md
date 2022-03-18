@@ -1,7 +1,7 @@
 ---
 layout: layout_generic
 title: Liste de tous les conseils pour un été outdoor
-meta-title: Activités outdoor, notre liste de tous les conseils pour un été outdoor
+meta-title: Activités outdoor, notre liste de conseils pour votre été
 meta-description: Liste de tous les conseils outdoor de l'été à partager en famille ou entre amis où que vous soyez en France et quelque soit votre niveau
 
 permalink: /fr/ete/conseils
