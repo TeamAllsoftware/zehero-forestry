@@ -6,15 +6,16 @@ topnav_color_text: dark
 title: Coaching Trail et course à pied Antibes et Alpes Maritimes
 permalink: "/fr/ete/activites/coaching-course-a-pied-trail-antibes-alpes-maritimes"
 redirect_from:
-  - /fr/ete/activite/coaching-course-a-pied-trail-antibes-alpes-maritimes
-meta-title: Réserver un coach sportif Trail et course à pied Antibes et Alpes Maritimes
-meta-description: Si vous pratiquez la course à pied sur route, le trail running et que vous désirez trouver un groupe d’entraînement encadré par un coach, vous trouverez différentes offres à Antibes. Afin de pouvoir progresser au sein d’un groupe d’entraînement, Ze Hero va proposer, par ses coachs de course à pied, différentes séances de trail et de running. 
+- "/fr/ete/activite/coaching-course-a-pied-trail-antibes-alpes-maritimes"
+meta-title: Votre coach sportif Trail et Running à Antibes et Alpes Maritimes
+meta-description: Découvrez, progressez et atteignez vos objectifs grâce à un coach
+  sportif professionnel spécialisé en trail running
 baseline: Courir, entrainement, progression
 engage: Accompagnement et progression en course à pied et Trail
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294098/website/Coaching/IMG_20200723_153328_iufidi.jpg
 image01_alt: Deux coureurs sur les crêtes du Cheiron lors d'un entraînement de trail
   dans les pré alpes d'Azur
-categorie: coaching
+categorie: Eaux vives
 page_sections:
 - template: textarea
   content: Si vous pratiquez la course à pied sur route, le trail running et que vous
@@ -50,6 +51,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Coach sportif courant dans les escaliers du fort carré à Antibes
+  blockBGcolor: ''
 - template: textarea
   content: Des sorties “[**endurance trail**](https://shop.ze-hero.com/activites-Outdoor/Coaching/16010-esterel-83-trail-sortie-longue-mercredi-apres-midi-3h-activite-ze-hero)”
     sont aussi programmées tous les mercredis après-midi dans le massif de l’Estérel
@@ -74,6 +76,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Vue du sommet du baou de St Jeannet
+  blockBGcolor: ''
 - template: textarea
   title: Les avantages de ces entraînements
   content: |-
