@@ -8,8 +8,7 @@ permalink: "/fr/ete/activites/canyoning-alpes-maritimes"
 redirect_from:
 - "/fr/ete/activite/canyoning-alpes-maritimes"
 meta-title: 'Canyoning Alpes Maritimes : les meilleurs endroits pour pratiquer'
-meta-description: Les Alpes maritimes est un département incroyable pour les pratiquants
-  de canyoning. Découvrez les meilleurs endroits pour faire du canyoning.
+meta-description: Les Alpes maritimes, un département idéal pour pratiquer le canyoning.
 baseline: Canyoning dans le 06
 engage: Le meilleur du canyoning dans les Alpes Maritimes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
