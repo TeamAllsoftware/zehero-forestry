@@ -2,17 +2,17 @@
 layout: layout_coach
 language: fr
 season: summer
-meta-title: Coach sportif Yann Alarçon, préparateur physique pour vos prochains défis
+meta-title: Coach sportif Yann Alarçon spécialisé en course à pied
 meta-description: Un coach pour votre préparation physique et vos prochains défis,
   que vous soyez débutant, amateur ou expert
 topnav_color_text: dark
 title: Yann Alarçon, coach et préparateur physique
 permalink: "/fr/coachs/yann-alarcon"
 redirect_from:
-  - "/fr/ete/coach/yann-alarcon"
-  - "/fr/hiver/coach/yann-alarcon"
-  - "/fr/ete/coachs/yann-alarcon"
-  - "/fr/hiver/coachs/yann-alarcon"
+- "/fr/ete/coach/yann-alarcon"
+- "/fr/hiver/coach/yann-alarcon"
+- "/fr/ete/coachs/yann-alarcon"
+- "/fr/hiver/coachs/yann-alarcon"
 s01:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642065243/website/Coaching/IMG_20210716_180932_893_idwzlg.jpg
   firstname: Yann
