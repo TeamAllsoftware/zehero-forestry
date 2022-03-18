@@ -53,9 +53,9 @@ page_sections:
     alt_button: ''
 - template: textarea
   content: |-
-    Seignosse est également connu pour ses compétitions internationales avec Hossegor de surf. Vous trouverez ici les meilleurs spots de beach break. Vous trouverez toujours une école près de vous, d'un shop qui vous louera une planche ou autre. Que ce soit pour des cours collectifs, des cours privé ou des stages, chacun trouvera son bonheur.
+    Seignosse est également connu pour ses compétitions internationales avec [Hossegor ](https://www.ze-hero.com/fr/ete/destination/hossegor)de surf. Vous trouverez ici les meilleurs spots de beach break. Vous trouverez toujours une école près de vous, d'un shop qui vous louera une planche ou autre. Que ce soit pour des cours collectifs, des cours privé ou des stages, chacun trouvera son bonheur.
 
-    Vous pourrez également pratiquer le body board ou le stand up paddle.
+    Vous pourrez également pratiquer le body board ou le [stand up paddle](https://www.ze-hero.com/fr/ete/activites/paddle).
   title: ''
 - template: 2coltxtimg
   blockBGcolor: blanc
@@ -66,13 +66,13 @@ page_sections:
   content: |-
     Les activités à Seignosse ça ne manque pas. Vous trouverez un large choix de différentes activités outdoor. Seignosse c'est plusieurs skateparks magnifiques où vous pourrez pratiquer le skate pour le plaisir ou alors prendre des cours avec une école de skate.
 
-    C'est louer un VTT ou un vélo de route et partir rouler sur les pistes cyclables ou les pistes forestières. C'est découvrir ces lieux au charme landais, entre les pins et les dunes de sable.
+    C'est louer un [VTT ](https://www.ze-hero.com/fr/ete/activites/vtt)ou un [vélo de route](https://www.ze-hero.com/fr/ete/activites/velo-de-route) et partir rouler sur les pistes cyclables ou les pistes forestières. C'est découvrir ces lieux au charme landais, entre les pins et les dunes de sable.
 
-    C'est également des activités d'eaux vives que propose Seignosse à quelques kilomètres d'elle. Vous trouverez du rafting, du canyoning, de canoë-kayak ainsi que de l'escalade.
+    C'est également des activités d'eaux vives que propose Seignosse à quelques kilomètres d'elle. Vous trouverez du rafting, du [canyoning](https://www.ze-hero.com/fr/ete/activites/canyoning), de [canoë-kayak](https://www.ze-hero.com/fr/ete/activites/kayak) ainsi que de l'escalade.
 
     Seignosse c'est aussi le lieu idéal pour les amateurs de golf. Son parcours rentre dans le top 10 des golfs en France. De quoi ravir les amateurs de swing.
 
-    Mais cette petite ville sera également un lieu parfait pour la détente et le yoga sur la plage devant un coucher de soleil. Respirez profondément l'air marrant et méditer afin de vivre uniquement le moment présent.
+    Mais cette petite ville sera également un lieu parfait pour la détente et le [yoga ](https://www.ze-hero.com/fr/ete/activite/yoga)sur la plage devant un coucher de soleil. Respirez profondément l'air marrant et méditer afin de vivre uniquement le moment présent.
   button:
     text_button: ''
     href_button: ''
