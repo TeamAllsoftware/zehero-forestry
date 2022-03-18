@@ -10,6 +10,7 @@ season: summer
 topnav_color_text: dark
 page_sections:
 - template: heroImageFull
+  top: oui
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7712_jj6zyy.jpg
   gradient: grad
   headline:
