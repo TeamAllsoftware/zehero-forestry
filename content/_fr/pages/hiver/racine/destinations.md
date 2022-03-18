@@ -1,6 +1,6 @@
 ---
 layout: layout_generic
-title: Rejoignez une de nos destinations et réservez votre activité outdoor de l'hiver
+title: Nos destinations d'activité outdoor pour l'hiver
 meta-title: Nos destinations où réserver une activité outdoor en hiver
 meta-description: Dans nos destinations d'hiver vous trouverez les activités de vos
   prochaines aventures et miro-aventures pour vous dépasser et trouver une satisfaction
