@@ -7,7 +7,7 @@ title: Vélo de route
 permalink: "/fr/ete/activites/velo-de-route"
 redirect_from:
 - "/fr/velo-savoie-haute-savoie/"
-meta-title: Sorties vélo de route pour découvrir les cols mythiques de France
+meta-title: Sorties en vélo de route, parcours et cols
 meta-description: 'A l''assaut des cols mythiques en France : découvrez les plus belles
   régions en vélo de route'
 baseline: Explorer, rouler et grimper
