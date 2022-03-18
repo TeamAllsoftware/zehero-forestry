@@ -2,14 +2,14 @@
 layout: layout_advice
 language: fr
 season: winter
-meta-title: Conseil ski, comment bien se préparer physiquement pour le ski alpin
-meta-description: Afin d'être en forme physiquement avant votre séjour au ski, voilà quelques
-  exercices à faire pour se préparer pour le ski.
+meta-title: Conseil de préparation physique avant d'aller au ski
+meta-description: Afin d'être en forme physiquement avant votre séjour au ski, voilà
+  quelques exercices à faire pour se préparer pour le ski.
 topnav_color_text: light
 title: Comment se préparer physiquement au ski ?
 permalink: "/fr/hiver/conseils/comment-se-préparer-physiquement-au-ski"
 redirect_from:
-  - /fr/hiver/conseil/comment-se-préparer-physiquement-au-ski
+- "/fr/conseils-preparation-physique-ski/"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883617/website/summer/Coach-prive-entrainement_k9n3ap.jpg
 image01_alt: Salle de sport entrainement physique et musculation
 button_to_link_to_ze_hero_shop:
@@ -43,6 +43,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: ''
   content: "Ces exercices sont dans le but de vous préparer. Adaptez-les en fonction
@@ -77,6 +78,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     On débute avec 3 exercices pour se préparer au ski. Vous retrouverez donc les Squats. La chaise, qui est un classique du renforcement musculaire et surtout des exercices de musculation en ski. Et enfin un classique, du gainage. On va donc cibler quadriceps et fessiers, de la résistance et ensuite on cible les abdominaux et lombaires.
@@ -151,7 +153,5 @@ page_sections:
     tour est validé. Vous devez alors faire le maximum de tours possibles pendant
     15 mn."
   title: La piste noire
-redirect_from:
-- "/fr/conseils-preparation-physique-ski/"
 
 ---
