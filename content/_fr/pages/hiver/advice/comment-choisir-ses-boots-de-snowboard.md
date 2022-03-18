@@ -2,14 +2,14 @@
 layout: layout_advice
 language: fr
 season: winter
-meta-title: Conseil snowboard, comment bien choisir vos boots de snowboard
-meta-description: Comment choisir ses chaussures de snowboard ? Découvrez toutes les informations
-  importantes pour trouver les boots qui vous correspondent le mieux.
+meta-title: Nos conseils pour bien choisir ses boots de snowboard
+meta-description: Comment choisir ses chaussures de snowboard ? Découvrez toutes les
+  informations importantes pour trouver les boots qui vous correspondent le mieux.
 topnav_color_text: light
 title: Comment choisir ses boots de snowboard
 permalink: "/fr/hiver/conseils/boots-snowboard"
 redirect_from:
-  - /fr/hiver/conseil/boots-snowboard
+- "/fr/hiver/conseil/boots-snowboard"
 advice_cat: Matériel
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640262657/website/Conseil%20Equiepement/robson-hatsukami-morgan-5C6veSN6hec-unsplash_e5zqqr.jpg
 image01_alt: Snowboard dans une foret enneigée
@@ -36,6 +36,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     La plupart des chaussures que l’on retrouve sur le marché ont un flex **intermédiaire**. C’est la gamme sur laquelle quasi toutes les marques se positionnent. Elles répondent aux besoins de tous les pratiquants sur tout type de terrain. Le maintien est bon et la boots laisse quand même de la liberté au pied et aux mouvements.
@@ -61,6 +62,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Le système simple BOA est le plus rapide. Il nécessite cependant que votre
     boot soit parfaitement adapté à votre pied car il n’agit que sur le coup de pied.
