@@ -1,21 +1,23 @@
 ---
 layout: layout_generic
 title: Rejoignez une de nos destinations et réservez votre activité outdoor de l'hiver
-meta-title: Destinations outdoor dans lesquelles réserver des activités de plein air en hiver
-meta-description: Dans nos destinations d'hiver vous trouverez les activités de vos prochaines aventures et miro-aventures pour vous dépasser et trouver une satisfaction personnelle immense, que ce soit seul, entre amis ou en famille
-
-permalink: /fr/hiver/destinations
+meta-title: Nos destinations où réserver une activité outdoor en hiver
+meta-description: Dans nos destinations d'hiver vous trouverez les activités de vos
+  prochaines aventures et miro-aventures pour vous dépasser et trouver une satisfaction
+  personnelle immense, que ce soit seul, entre amis ou en famille
+permalink: "/fr/hiver/destinations"
 language: fr
 season: winter
 topnav_color_text: light
-
 page_sections:
 - template: heroImage50percentHigh
   title: Montagne, fôret, plage, campagne
   content: des destinations outdoor pour l'hiver
 - template: 2colTitreTxt
   title: Animées, Enneigées, Dépaysantes.
-  content: Chaque destination que nous proposons a ses particularités, altitude, grand domaine skiable, des forêts à perte de vue etc. Vous avez le choix de la destination, nous nous occupons de vos activités
+  content: Chaque destination que nous proposons a ses particularités, altitude, grand
+    domaine skiable, des forêts à perte de vue etc. Vous avez le choix de la destination,
+    nous nous occupons de vos activités
 - template: listServices
   service: resort
   blockBGcolor: gris
