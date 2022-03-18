@@ -2,7 +2,7 @@
 layout: layout_advice
 language: fr
 season: winter
-meta-title: Conseil cours de ski ou snowboard, choisir des cours privés ou collectifs
+meta-title: Que choisir entre cours privé ou cours collectif ?
 meta-description: Il est difficile de choisir entre un cours privé ou un cours collectif
   en ski ou en snowboard. Voici les différentes conseilles pour vous aider à mieux
   comprendre.
@@ -10,7 +10,10 @@ topnav_color_text: light
 title: Cours privé ou cours collectif
 permalink: "/fr/hiver/conseils/cours-prive-cours-collectif"
 redirect_from:
-  - /fr/hiver/conseil/cours-prive-cours-collectif
+- "/fr/coaching-sportif/coaching-prive/"
+- "/fr/coaching-sportif/coaching-prive/coaching-prive-antibes/"
+- "/fr/coaching-sportif/coaching-prive/coaching-prive-lyon/"
+- "/fr/coaching-sportif/coaching-prive/e-coaching/"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825160/website/winter/cristina-munteanu-qOFS-GJme60-unsplash_lzh1qe.jpg
 image01_alt: Groupe de snowboard sur une piste de ski en montagne
 button_to_link_to_ze_hero_shop:
@@ -37,6 +40,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Les avantages du cours collectif
   content: |-
@@ -62,6 +66,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Les avantages des cours de ski privés
   content: |-
@@ -82,10 +87,5 @@ page_sections:
     tous les cas, choisissez le cours qui vous convient et où vous vous sentirez au
     mieux.
   title: En résumé
-redirect_from:
-- "/fr/coaching-sportif/coaching-prive/"
-- "/fr/coaching-sportif/coaching-prive/coaching-prive-antibes/"
-- "/fr/coaching-sportif/coaching-prive/coaching-prive-lyon/"
-- "/fr/coaching-sportif/coaching-prive/e-coaching/"
 
 ---
