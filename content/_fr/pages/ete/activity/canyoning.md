@@ -6,7 +6,7 @@ topnav_color_text: dark
 title: Canyoning
 permalink: "/fr/ete/activites/canyoning"
 redirect_from:
-  - /fr/ete/activite/canyoning
+- "/fr/canyoning-annecy/"
 meta-title: Le canyoning est une expérience outdoor aux sensations fortes
 meta-description: L'activité du canyoning est une activité d'eau qui consiste à avancer
   le long d'une rivière en jouant avec les éléments de la nature.
@@ -14,7 +14,7 @@ baseline: Sensations, émotions et ludique
 engage: Partagez des sensations et des émotions fortes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642512714/website/summer/harry-dona-9hHTZeKKK8Q-unsplash_ejimkd.jpg
 image01_alt: Groupe de personne faisant du canyoning
-categorie: "Eaux vives"
+categorie: Eaux vives
 page_sections:
 - template: textarea
   title: Qu'est ce que le canyoning ?
@@ -49,6 +49,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Le matériel
   content: |-
@@ -73,6 +74,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Il faut prévoir un maillot de bain, une serviette et donc une tenue de rechange. Mais aussi, une bouteille d'eau qui peut être amener par le moniteur ainsi qu'une barre énergétique.
@@ -80,6 +82,8 @@ page_sections:
     C'est une activité qui peut se faire seul en se greffant à un groupe, ou avec des amis, mais également avec ses enfants. Ce qui permet de vivre une expérience riche en émotion en profitant de s'amuser et jouer.
 
     Les canyonings ne doivent pas être réalisés sans matériel et sans moniteur. Si vous tentez de réaliser le canyoning sans connaitre les règles et surtout le lieu, cela peut s'avérer très dangereux où l'accès aux sauveteurs n'est pas toujours simple. Le canyoning est par ailleurs un lieu naturel qui bouge et se transforme chaque année et en fonction des conditions météorologiques.
+
+    Voici une page qui vous présente les différents conseils pour [bien débuter le canyoning](https://www.ze-hero.com/fr/ete/conseils/conseils-canyoning).
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
@@ -93,23 +97,22 @@ page_sections:
     * En Corse pour des lieux magiques et des canyonings très réputés
     * En Ardèche pour des canyons plus sauvages et préservés
     * Dans le Verdon pour ces couleurs sublimes et de belles randonnées aquatiques
-    * Dans les Alpes-Maritimes pour des canyonings mixtes
+    * Dans les [Alpes-Maritimes ](https://www.ze-hero.com/fr/ete/activites/canyoning-alpes-maritimes)pour des canyonings mixtes
     * Dans les Vosges pour des sensations fortes
     * Dans les Pyrénées pour des canyonings réputés mondialement
-    * Mais aussi dans le Jura, en Savoie, en Haute-Savoie...
+    * Mais aussi dans le Jura, en [Savoie](https://www.ze-hero.com/fr/ete/activites/canyoning-annecy), en Haute-Savoie...
   alt_text_for_image: Personne descendant en rappel dans un canyoning
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: cta
   intro: Réservez dès maintenant vos activités canyoning
   headline: Activités enfants et adultes sont disponibles
   button:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
-redirect_from:
-- "/fr/canyoning-annecy/"
 button_to_link_to_ze_hero_shop:
   button_text: Réservez une activité de canyoning
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
