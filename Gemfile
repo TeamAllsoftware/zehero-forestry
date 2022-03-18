@@ -20,7 +20,6 @@ group :jekyll_plugins do
   gem "jekyll-liquify"
   gem "jekyll-sitemap"
   gem "jekyll-redirect-from"
-  gem 'jekyll-simple-assets', '~> 0.6.1'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
