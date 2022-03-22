@@ -60,15 +60,15 @@ page_sections:
     alt_button: ''
   blockBGcolor: ''
 - template: textarea
-  content: Il est important ensuite d'apprendre des connaissance sur la description
-    du ski, de le connaître. C'est de savoir pour quelle utilité est il destinée,
-    pour quel niveau et quel maitrise. C'est de savoir également la taille adapté
-    pour vous pour tel ou tel modèle.
+  content: Il est important ensuite d'assimiler les caractéristiques principales mentionnées
+    lors de la description du ski. L'important est de savoir pour quelle utilité est
+    il destiné, pour quel niveau et quelle maitrise. Savoir identifier la taille adaptée
+    vous sera utile pour profiter pleinement de votre matériel.
   title: Connaître le ski
 - template: textarea
-  content: Il faut ensuite savoir si le ski a été beaucoup utilisé. Vous aurez donc
-    une 1er information par son année de sorti et d'où provient le ski. Il faut alors
-    savoir alors son usage pour savoir s'il a beaucoup été utilisé et bien entretenu.
+  content: Il faut ensuite savoir si le ski a été beaucoup utilisé ou non. Vous aurez
+    donc une 1er information par son année de sortie et d'où provient le ski. Il faut
+    ensuite identifier son usage pour savoir s'il a beaucoup été utilisé et bien entretenu.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330389/website/Conseil%20Equiepement/kipras-streimikis-39-0VXkvcbw-unsplash_crjyty.jpg
