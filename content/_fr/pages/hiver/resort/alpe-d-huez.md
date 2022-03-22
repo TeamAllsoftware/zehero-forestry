@@ -67,9 +67,9 @@ page_sections:
     accompagné en ski de randonnée, chaque école de ski proposera différentes offres.
     Vous retrouverez toutes les activités de glisse, encadrées par des moniteurs.
 - template: textarea
-  content: 'Que ce soit des écoles indépendantes ou l''ESF, chacune propose des services
-    et des offres différentes. Que ce soit pour des cours collectifs ou privées, vous
-    retrouverez des services pour tous les niveaux et tous les âges. '
+  content: Que ce soit des écoles indépendantes ou l'ESF, chacune propose des services
+    et des offres différentes. Que ce soit pour des cours collectifs ou privés, vous
+    retrouverez des services pour tous les niveaux et tous les âges.
   title: ''
 - template: numberinfo
   text_refers_to_counter: Magasins de location
