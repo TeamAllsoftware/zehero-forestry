@@ -61,15 +61,15 @@ page_sections:
   captionabovetitle: Découvrir l'effort physique et la montagne
   title: De quelques heures aux longues randonnées
   gridline1title: Les différentes utilités des raquettes
-  gridline1content: La randonnée en raquette va être dédié à une famille voulant faire
-    une petite balade en forêt. Tout comme à des randonneurs expérimentés, s'aventurant
+  gridline1content: La randonnée en raquette va être dédiée à une famille voulant
+    faire une petite balade en forêt. Tout comme à des randonneurs expérimentés, s'aventurant
     à la journée en montagne. On retrouvera aussi parfois des snowboardeurs, évoluant
     en raquettes, grimpant un sommet pour savourer la descente.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080312/website/winter/mael-balland-MXJ3QUxhNrY-unsplash_popvon.jpg
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080311/website/winter/else-marie-de-leeuw-Y9PrWAYlwVo-unsplash_yeipbi.jpg
   gridline2title: A la recherche de liberté et d'évasion
-  gridline2content: Aujourd'hui, beaucoup cherchent de plus en plus ce moment d'évasion
-    liée à l'effort. La raquette est une activité parfaite pour passer un moment agréable
+  gridline2content: Aujourd'hui, nombreux sont les personnes cherchant ce moment d'évasion
+    lié à l'effort. La raquette est une activité parfaite pour passer un moment agréable
     seul, en famille, en couple ou entre amis. Que ce soit sous les rayons du soleil
     ou sous la neige, la montagne se découvre à tout temps.
   prlax_alt_text_for_image: photo des jambes et des pieds avec des raquettes à neige
