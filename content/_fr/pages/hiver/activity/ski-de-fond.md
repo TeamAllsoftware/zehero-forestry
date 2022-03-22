@@ -19,10 +19,10 @@ page_sections:
     dans les pays nordiques. C’était à l’époque un moyen de déplacement et c’est aujourd’hui
     une pratique très rependue, devenue ludique, sportive et de partage.  \nLe ski
     de fond se pratique plus facilement que le ski alpin, mais reste technique et
-    difficile selon les parcours et les pratiques. On ne retrouve donc aucunes remontées
-    mécaniques pour cette discipline. On la retrouve généralement dans les stations
+    difficile selon les parcours et les pratiques. On ne retrouve donc aucune remontée
+    mécanique pour cette discipline. On la retrouve généralement dans les stations
     plus basses en altitude et est généralement plus à l’écart du domaine skiable.
-    \ \nLes pistes de ski de fond sont damés spécifiquement et vont comporter deux
+    \ \nLes pistes de ski de fond sont damées spécifiquement et vont comporter deux
     rails parallèles sur le côté de la piste."
   title: ''
 - template: 2colimgtxt
