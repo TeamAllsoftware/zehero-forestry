@@ -99,7 +99,7 @@ page_sections:
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540484/website/winter/robson-hatsukami-morgan-bkdzvgBB7rQ-unsplash_bnafvq.jpg
   captionrighttitle: Découvrez, progressez, dépassez-vous
   captionrightcontent: Laissez guider par un guide afin de suivre des itinéraires
-    sûres. Il vous permettra de vous accompagner seul ou en groupe, dans les coins
+    sûrs. Il vous permettra de vous accompagner seul ou en groupe, dans les coins
     magiques en fonction des conditions de neige et de météo. Il vous apprendra cette
     pratique mais également les différentes notions à avoir sur la qualité de neige,
     des différentes couches, des risques d'avalanches. Toutes ces informations essentielles,
