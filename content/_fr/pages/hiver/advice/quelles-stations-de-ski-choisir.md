@@ -96,15 +96,15 @@ page_sections:
     La Plagne, l'Espace Killy, Les portes du soleil, La Clusaz et bien d'autre  \nVous
     pourrez ensuite faire votre choix en fonction du charme des stations, de l'architecture,
     de la beauté du paysage. Les grosses stations de ski vont, le plus souvent, comporter
-    beaucoup d'important bâtiment, parfois même haut tel que des tours. Cela casse
-    le charme que certaines station de ski conservent. Si vous rêvez de station parsemé
-    de beaux chalets, de bâtiments harmonieux, de petit cocon vous pourrez trouver
-    les stations de ski tel que Méribel, Valmorel, Mégève, La Rosière, Aussois, Saint
-    Lary, Val d'Isère, Areche-Beaufort...  \nSi vous désirez des stations avec une
-    très bonne qualité de neige, opté pour les stations haute en altitude ou bien
-    exposé tel que Tignes, Val Thorens, Saint Foy en Tarentaise...  \nCertaines stations
-    offre des jours d'ensoleillement incroyables comme les stations de ski de Serre
-    Chevalier ou alors l'Alpe d'Huez."
+    d'imposants bâtiments qui ne seront pas idéals si vous cherchez un cadre naturel.
+    Cela casse le charme que certaines station de ski conservent. Si vous rêvez de
+    stations parsemées de beaux chalets, de bâtiments harmonieux, de petits cocons
+    vous pourrez trouver les stations de ski telles que Méribel, Valmorel, Mégève,
+    La Rosière, Aussois, Saint Lary, Val d'Isère, Areche-Beaufort...  \nSi vous désirez
+    des stations avec une très bonne qualité de neige, optez pour les stations hautes
+    en altitude ou bien exposées telles que Tignes, Val Thorens, Saint Foy en Tarentaise...
+    \ \nCertaines stations offrent des jours d'ensoleillement incroyables comme les
+    stations de ski de Serre Chevalier ou alors l'Alpe d'Huez."
   title: Moderne, charme ou sportive ?
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641994384/website/Conseil%20/ines-alvarez-fdez-F-gfrzSIPZo-unsplash_qkyvuy.jpg
