@@ -43,8 +43,8 @@ page_sections:
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640266010/website/resorts/alpe%20d%27huez/Alpes_dhuez_envzu0.jpg
   captionleftcontent: La montagne d'émotions
   captionrighttitle: Chaleureux, détente et sportif
-  captionrightcontent: Elu meilleure station de ski Européenne en 2020, seul, en famille,
-    en couple ou entre amis, profitez d'un séjour incroyable.
+  captionrightcontent: Elue meilleure station de ski Européenne en 2020, seul, en
+    famille, en couple ou entre amis, profitez d'un séjour incroyable.
   center_alt_text_for_image: Vue de la station de ski de l'Alpe d'Huez avec les montagnes
     derrière l'hiver.
 - template: 2colimgtxt
