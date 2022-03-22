@@ -26,10 +26,10 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/v2f-ulodjS9910U-unsplash_rpg51d.jpg
   captiontitleuppercase: Mer, Montagne et Soleil
   title: Le Plaisir des activités Outdoor
-  content: 'Profitez de plusieurs parc tel que le parc de la Valmasque et de Vaugrenier
-    qui vous permet de courir, de faire des activités physiques mais aussi du VTT.
-    Antibes est aussi une terre de cyclisme avec les nombreux parcours sur le bord
-    de mer, et vers les Préalpes Maritimes. '
+  content: Profitez de plusieurs parcs tels que le parc de la Valmasque et de Vaugrenier
+    qui vous permettent de courir, de faire des activités physiques mais aussi du
+    VTT. Antibes est aussi une terre de cyclisme avec les nombreux parcours sur le
+    bord de mer, et vers les Préalpes Maritimes.
   alt_text_for_image: Plage de galet à Antibes avec la mer et le soleil
 - template: textarea
   content: "Le stade du fort carré est ouvert au public et permet d'avoir une piste
