@@ -27,9 +27,9 @@ page_sections:
   captiontitleuppercase: Les bases du Freeride
   title: On ne s'improvise pas Freerideur, car il y a de nombreuses notions importantes
     à connaître
-  content: 'Le freeride implique de connaître la montagne et ses risques. Outre le
+  content: Le freeride implique de connaître la montagne et ses risques. Outre le
     fait que cette discipline est également physique et demande une très bonne technique
-    de glisse, il est important d''en connaître ses aspects sécurités. '
+    de glisse, il est important d'en connaître ses aspects sécurité.
   alt_text_for_image: Personne faisant du ski freeride en hors piste dans une pente
     raide
   button:
