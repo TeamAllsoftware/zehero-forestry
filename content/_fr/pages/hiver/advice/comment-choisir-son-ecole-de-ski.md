@@ -2,14 +2,14 @@
 layout: layout_advice
 language: fr
 season: winter
-meta-title: Conseil école de ski, comment bien choisir votre cours de ski particulier ou collectif
+meta-title: Conseil école de ski, comment bien choisir son cours de ski ?
 meta-description: Comment choisir son école de ski ? Il existe parfois dans une station
-  différent type d'école de ski.
+  différents types d'école de ski.
 topnav_color_text: light
 title: Comment choisir son école de ski
 permalink: "/fr/hiver/conseils/choisir-ecole-de-ski"
 redirect_from:
-  - /fr/hiver/conseil/choisir-ecole-de-ski
+- "/fr/choisir-ecole-ski/"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641568162/website/Conseil%20/toa-heftiba-D_mFA0GZuAs-unsplash_ao9yg7.jpg
 image01_alt: Vue de skieurs dans une pente de ski, cours de ski
 button_to_link_to_ze_hero_shop:
@@ -38,6 +38,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: 'Les écoles de ski vont se différencier par : '
   content: |-
@@ -53,12 +54,11 @@ page_sections:
     d'avoir des retours des différentes expériences des personnes.
   center_alt_text_for_image: Moniteur de snowboard en cours privé aidant en enfant
     à faire du snowboard au sommet d'un télésiège
+  blockBGcolor: ''
 - template: textarea
   title: 'Les derniers points importants '
   content: |-
     * Il est important de prendre en compte le point de rdv des cours de ski. Surtout si vous avez des enfants.
     * Selon ce que vous recherchez, il est important de demander directement vos spécificités. Si vous souhaitez visiter le domaine skiable, apprendre le freestyle, sortir en hors-piste, l’école de ski aura à disposition des moniteurs spécifiques.
-redirect_from:
-- "/fr/choisir-ecole-ski/"
 
 ---
