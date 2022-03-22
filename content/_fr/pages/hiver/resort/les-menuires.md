@@ -74,7 +74,7 @@ page_sections:
     du ski de randonnée. Du débutant à l'expert, pour tout le monde et tout les goûts,
     profitez de leurs services. Vous aurez le choix entre cours privé et collectif.
 - template: textarea
-  content: Il y a aura différentes écoles, tel que l'ESF et des écoles indépendantes.  Chacune
+  content: Il y a aura différentes écoles, telles que l'ESF et des écoles indépendantes.  Chacune
     se différenciera par sa taille, ses services et ses offres et ses pratiques.
   title: ''
 - template: numberinfo
