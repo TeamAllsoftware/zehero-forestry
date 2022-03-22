@@ -51,7 +51,7 @@ page_sections:
     physique, plus technique, mais où la recherche de vitesse sera plus importante
     qu'en classique. Son ski présente juste une semelle lisse, mais sera plus rigide
     et plus court que le ski de classique. Il s'exercera, non pas dans les rails,
-    mais sur la piste damé.  \nLa technique ne s'acquiert pas aussi facilement et
+    mais sur la piste damée.  \nLa technique ne s'acquiert pas aussi facilement et
     il sera plus physiquement plus difficile."
   title: Le Skating
 - template: 2colimgtxt
