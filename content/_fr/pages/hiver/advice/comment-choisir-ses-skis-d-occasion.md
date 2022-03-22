@@ -3,13 +3,13 @@ layout: layout_advice
 language: fr
 season: winter
 meta-title: Conseil ski, comment bien choisir vos skis d'occasion
-meta-description: Comment choisir ses skis d'occasions? Il est important de prendre en
-  comptes plusieurs informations importantes.
+meta-description: Comment choisir ses skis d'occasions? Il est important de prendre
+  en compte plusieurs informations importantes.
 topnav_color_text: light
 title: Comment choisir ses skis d'occasion
 permalink: "/fr/hiver/conseils/ski-d-occasion"
 redirect_from:
-  - /fr/hiver/conseil/ski-d-occasion
+- "/fr/hiver/conseil/ski-d-occasion"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330388/website/Conseil%20Equiepement/jeremy-bezanger-jW1I1M9TdRA-unsplash_urapcp.jpg
 image01_alt: Ski de piste, ski de freeride, ski all mountain
 button_to_link_to_ze_hero_shop:
@@ -58,6 +58,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: Il est important ensuite d'apprendre des connaissance sur la description
     du ski, de le connaître. C'est de savoir pour quelle utilité est il destinée,
@@ -82,6 +83,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Le **top sheet** : Vous pouvez y trouver des marques, des rayures, des trous etc… Il faut bien vérifier que celles-ci ne soient pas trop importantes, car l’eau pourrait alors s’infiltrer. Mais attention le Top Sheet peut être trompeur. Parfois certains skis vont présenter beaucoup de rayures sur le dessus alors que le ski sera en parfait état. Alors que certaines fois, vous trouverez un Top Sheet impeccable, mais le ski aura pris de l’usure sur le dessous. Cela dépend de la marque et de sa fabrication sur le Top Sheet.
