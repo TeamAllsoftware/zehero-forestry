@@ -63,13 +63,15 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642516880/website/summer/pexels-julia-volk-6152738_q30qqg.jpg
   captiontitleuppercase: Comment se déroule un activité de Canyoning
   title: Plusieurs éléments
-  content: Tout d'abord, vous allez retrouver deux formules. Soit les cours collectifs
-    ou alors vous privatiser le moniteur pour vous seul ou pour un groupe de personne.
-    Selon les canyonings mais aussi des personnes et de l'évolution, la durée peut
-    être de 2h à une demi-journée et parfois à la journée entière. Cela reste tout
-    de même physique et demande beaucoup d'énergie. Les canyons, selon leurs sources,
-    leurs expositions et leurs situations géographiques peuvent être très froids.
-  alt_text_for_image: Vue d'une rivières et de l'eau qui coule avec des trous d'eau
+  content: Tout d'abord, vous allez retrouver deux formules. Soit des cours collectifs,
+    soit des cours privés. Pour ce dernier, un moniteur est privatisé. Vous pouvez
+    ainsi profiter d'un moniteur pour vous seul ou pour un groupe de personne défini.
+    Selon les canyonings mais aussi les personnes et l'évolution, la durée varie entre
+    2h et une demi-journée. Elle peut parfois même s'étendre à la journée entière.
+    Cela reste tout de même physique et demande beaucoup d'énergie. Les canyons, selon
+    leurs sources, leurs expositions et leurs situations géographiques peuvent être
+    très froids.
+  alt_text_for_image: Vue d'une rivière et de l'eau qui coule avec des trous d'eau
   button:
     text_button: ''
     href_button: ''
