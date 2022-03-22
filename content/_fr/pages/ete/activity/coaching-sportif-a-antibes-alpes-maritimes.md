@@ -6,7 +6,7 @@ topnav_color_text: dark
 title: Coaching sportif à Antibes / Alpes Maritimes
 permalink: "/fr/ete/activites/coaching-sportif-antibes-alpes-maritimes"
 redirect_from:
-  - /fr/ete/activite/coaching-sportif-antibes-alpes-maritimes
+- "/fr/ete/activite/coaching-sportif-antibes-alpes-maritimes"
 meta-title: Réserver un coach sportif à Antibes / Alpes Maritimes
 meta-description: Réservez une séance de coaching sportif à Antibes et dans les Alpes
   Maritimes
@@ -14,19 +14,19 @@ baseline: Coaching Sportif Antibes
 engage: 'Réservez un cours de coaching sportif à Antibes '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/Yann_3_z49tq1.jpg
 image01_alt: Vue des chaussures de sport sur un stade athlétisme
-categorie: coaching
+categorie: Coaching
 page_sections:
 - template: textarea
   title: Votre coaching privé à Antibes et dans les Alpes Maritimes
   content: |-
-    Vous cherchez un **coach sportif** à **Antibes** et dans les **Alpes Maritimes** afin d’avoir des séances de coaching privé ? Vous cherchez une personne qualifiée qui vous accompagne et vous motive ? Le coach sportif vous donne toutes les clés en main afin de programmer vos séances, le **matériel**. Vous avez seulement besoin de venir en tenue.
+    Vous cherchez un **coach sportif** à [**Antibes** ](https://www.ze-hero.com/fr/ete/destinations/antibes)et dans les [**Alpes Maritimes**](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes) afin d’avoir des séances de coaching privé ? Vous cherchez une personne qualifiée qui vous accompagne et vous motive ? Le coach sportif vous donne toutes les clés en main afin de programmer vos séances, le **matériel**. Vous avez seulement besoin de venir en tenue.
 
     ###### Le coaching à Antibes
 
     * A la maison
     * En extérieur
 
-    Vous pouvez donc choisir entre réaliser le **coaching à domicile** ou en **extérieur**. À Antibes et dans les Alpes Maritimes, on profite généralement du soleil et de la température idéale même en hiver. Vous trouverez différents lieux parfait pour retrouver un coach et vous **entraîner**. Que ce soit pour **courir**, pour faire de la **musculation** ou du **renforcement musculaire**, il y a de nombreux espaces qui seront parfaits. Et surtout, vous pourrez profiter d’un cadre idyllique entre mer et montagnes.
+    Vous pouvez donc choisir entre réaliser le [**coaching à domicile**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=) ou en [**extérieur**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=). À Antibes et dans les Alpes Maritimes, on profite généralement du soleil et de la température idéale même en hiver. Vous trouverez différents lieux parfait pour retrouver un coach et vous **entraîner**. Que ce soit pour **courir**, pour faire de la **musculation** ou du **renforcement musculaire**, il y a de nombreux espaces qui seront parfaits. Et surtout, vous pourrez profiter d’un cadre idyllique entre mer et montagnes.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294098/website/Coaching/IMG_20201022_150218_ek4t5r.jpg
   alt_text_for_image: Coureur courant dans un coaching sportif sur le littotal d'Antibes
@@ -43,6 +43,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Que faire et comment choisir son coach sportif à Antibes ?
   content: |-
@@ -87,6 +88,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Vous trouverez plusieurs coachs trail sur Antibes et dans les environs (Alpes-Maritimes 06). Chacun apporte sa propre méthode et sa vision du trail. Il est important alors pour vous de choisir le coach qui vous correspond le mieux par rapport à sa façon de travailler. Son expérience, son expertise, son état d’esprit et sa pédagogie sont importants à connaître. Il est crucial que vous définissiez dès le départ vos désirs, vos objectifs et vos projets afin de savoir avec le coach où aller et surtout comment y aller.

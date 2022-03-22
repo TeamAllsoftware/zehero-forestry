@@ -18,16 +18,16 @@ categorie: Vélo
 page_sections:
 - template: textarea
   title: La location de vélo de route de Méribel
-  content: "Vous séjournez à Méribel et vous ne pouvez pas amener votre vélo ? Vous
-    souhaitez louer un vélo de route directement sur place ? Vous trouverez tout ce
-    qu'il vous fait dans les différents magasins de location.  \nMéribel est une destination
-    incroyable pour tous les amoureux des deux roues. Vous trouverez d'incroyables
-    balades pour découvrir la montagne, son environnement, les villages voisins ainsi
-    que de nouvelles vallées. Vous pourrez réaliser de grande boucle et grimper des
-    cols mythiques tel que le col de la Loze, le Cormet de Roseland, le col de la
-    Madelaine, le col du Petit St Bernard...  \nQue vous soyez entre amis, seul ou
-    en famille, vous trouverez des balades en vélo de route pour tout le monde, pour
-    tous les niveaux."
+  content: "Vous séjournez à [Méribel ](https://www.ze-hero.com/fr/ete/destinations/meribel)et
+    vous ne pouvez pas amener votre vélo ? Vous souhaitez louer un vélo de route directement
+    sur place ? Vous trouverez tout ce qu'il vous fait dans les différents magasins
+    de location.  \nMéribel est une destination incroyable pour tous les amoureux
+    des deux roues. Vous trouverez d'incroyables balades pour découvrir la montagne,
+    son environnement, les villages voisins ainsi que de nouvelles vallées. Vous pourrez
+    réaliser de grande boucle et grimper des cols mythiques tel que le col de la Loze,
+    le Cormet de Roseland, le col de la Madelaine, le col du Petit St Bernard...  \nQue
+    vous soyez entre amis, seul ou en famille, vous trouverez des balades en vélo
+    de route pour tout le monde, pour tous les niveaux."
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/51384836504_bff6429438_k_mkw8t9.jpg
   alt_text_for_image: Cycliste roulant sur son vélo à Méribel devant un peloton de

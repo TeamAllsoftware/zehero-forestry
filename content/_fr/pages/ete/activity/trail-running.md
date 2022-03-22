@@ -18,7 +18,7 @@ engage: Partez fouler chaque sentier en vous dépassant
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642664026/website/summer/kalen-emsley-7bwQXzbF6KE-unsplash_ht13it.jpg
 image01_alt: Femme courant en trail sur le long d'une crête de montagne lors du levé
   du soleil
-categorie: "Running / Trail"
+categorie: Running / Trail
 page_sections:
 - template: textarea
   content: |-
@@ -35,7 +35,7 @@ page_sections:
     Le trail combine l'amour de la nature, des panoramas, des sentiers avec le plaisir
     d'engagement physique et musculaire. C'est une activité qui permet de découvrir
     des lieux, en allant vite et s'amusant avec le terrain, seul ou à plusieurs. Courir
-    des heures en nature, plonge le corps et l'esprit dans un moment de plénitude.
+    des heures en nature, plonge le corps et l'esprit dans un moment de [plénitude](https://www.ze-hero.com/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret).
   alt_text_for_image: Deux coureurs de trail courant dans une montagne avec beaucoup
     de cailloux
   button:
@@ -101,9 +101,9 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: |-
-    Si vous souhaitez progresser, comprendre les clés de l'entrainement et de la préparation, avoir un entraîneur est alors idéal. L'encadrement en trail permet également de découvrir des lieux et de partager ses séances en groupe. Il vous permettra d'évoluer et de progresser.
+    Si vous souhaitez progresser, comprendre les clés de l'entrainement et de la [préparation](https://www.ze-hero.com/fr/ete/conseils/preparation-course-trail), avoir un entraîneur est alors idéal. L'encadrement en trail permet également de découvrir des lieux et de partager ses séances en groupe. Il vous permettra d'évoluer et de progresser.
 
-    Vous pourrez également participer à des sorties de trail longues. Elles permettront de découvrir un lieu, un environnement avec un groupe.
+    Vous pourrez également participer à des [sorties de trail longues](https://www.ze-hero.com/fr/ete/activites/coaching-course-a-pied-trail-antibes-alpes-maritimes). Elles permettront de découvrir un lieu, un environnement avec un groupe.
   title: Etre encadré
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg

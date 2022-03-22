@@ -71,12 +71,12 @@ page_sections:
   title: 'Les différents lieux '
   content: "En France, il existe énormément de lieux où pratiquer le kayak. Vous allez
     retrouver donc beaucoup de location et de randonnée sur mer avec des lieux parfaits
-    pour randonner à la journée tel que les Calanques, le Cap d'Antibes et l'Esterel,
-    Porquerolles et la Corse.  \nEnsuite on va retrouver le kayak sur lac avec l'incontournable
-    lac de St Croix, le lac d'Annecy, le Lac de St Cassien, le lac de Serre Ponçon.
-    \ \nPour finir, vous pourrez partir sur des les rivières et faire du kayak dans
-    les gorges de l'Ardeche, les gorges du Tarn, les gorges du Verdon ainsi que dans
-    la Roya Vésubie."
+    pour randonner à la journée tel que les Calanques, le Cap [d'Antibes ](https://www.ze-hero.com/fr/ete/destinations/antibes)et
+    l'Esterel, Porquerolles et la Corse.  \nEnsuite on va retrouver le kayak sur lac
+    avec l'incontournable lac de St Croix, le lac d'Annecy, le Lac de St Cassien,
+    le lac de Serre Ponçon.  \nPour finir, vous pourrez partir sur des les rivières
+    et faire du kayak dans les gorges de l'Ardeche, les gorges du Tarn, les gorges
+    du Verdon ainsi que dans la Roya Vésubie."
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''

@@ -50,7 +50,7 @@ page_sections:
   content: |-
     Les différentes structures qui mettent en place ses activités proposent chaque jour une activité différente. Un système de garderie sera également en place. Elles auront lieu généralement l'après-midi ainsi que le soir en fonction de l'activité mise en place : marche en raquette dans les bois, construction d'igloo la nuit...
 
-    Retrouvez toutes les activités non-ski pour vos enfants.
+    Retrouvez toutes les [activités non-ski ](https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=)pour vos enfants.
   title: ''
 - template: cta
   intro: Réservez dès maintenant vos activités pour enfants
