@@ -70,7 +70,7 @@ page_sections:
   title: ''
 - template: textarea
   content: |-
-    Le Freeride se pratique à plusieurs afin d'avoir toujours une ou des personnes qui assurent la sécurité quand l'un part faire sa ligne. C'est partager un moment loin de la foule, dans une montagne calme et belle afin de faire le plein d'adrénaline et de sensations forte. C'est vivre un moment mort, c'est choisir où passer, analyser la trajectoire pour laisser la plus belle trace possible.
+    Le Freeride se pratique à plusieurs afin d'avoir toujours une ou des personnes qui assurent la sécurité quand l'un part faire sa ligne. C'est partager un moment loin de la foule, dans une montagne calme et belle afin de faire le plein d'adrénaline et de sensations fortes. C'est vivre un moment mort, c'est choisir où passer, analyser la trajectoire pour laisser la plus belle trace possible.
 
     Si vous êtes un bon skieur mais que vous êtes débutant en freeride, réservez une journée découverte du freeride afin d'avoir toutes les premières connaissances de la montagne, de la sécurité, de la technique du ski.
   title: ''
