@@ -2,7 +2,7 @@
 layout: layout_resort
 permalink: "/fr/hiver/destinations/val-d-isere"
 redirect_from:
-  - /fr/hiver/destination/val-d-isere
+- "/fr/hiver/destination/val-d-isere"
 language: fr
 season: winter
 topnav_color_text: light
@@ -10,14 +10,14 @@ resort_nameid: val_d_isere
 resort_naming: Val D'Isère
 title: Val d'Isère et ses activités outdoor d'hiver
 meta-title: Activités outdoor à Val-d'Isère pour l'hiver
-meta-description: 'Cette station situé dans la Haute Tarentaise à 1850m d''altitude est
-  couplé avec Tignes pour créer "l''Espace Killy". Une station élégante qui accueille
-  un grand nombre de compétition international de ski.  '
+meta-description: 'Cette station située dans la Haute Tarentaise à 1850m d''altitude
+  est couplée avec Tignes pour créer "l''Espace Killy". Une station élégante qui accueille
+  un grand nombre de compétitions internationales de ski.  '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338305/website/resorts/val-d-isere/yann-allegre-jk9B7M0OSnE-unsplash_i5yqk3.jpg
 image01_alt: Vue des montagnes et des pistes de Val d'Isère en Savoie
 page_sections:
 - template: textarea
-  content: La station de ski de Val d'Isère est village authentique et très élégant
+  content: La station de ski de Val d'Isère est un village authentique et très élégant
     situé à 1850m d'altitude. Située dans la Haute Tarentaise, cette station offre
     un panel d'activité, un domaine skiable incroyable et d'un enneigement exceptionnel.
     Vous pourrez glisser sur 146 pistes et un espace de 300km de piste relié à Tignes
