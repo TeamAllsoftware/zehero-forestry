@@ -29,9 +29,9 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640588493/website/resorts/Tignes/tim-arnold-ezvv6bj5SsU-unsplash_gp8f2h.jpg
   captiontitleuppercase: Tendance et performance
   title: 'Du ski par excellence '
-  content: Réputé mondialement, Tignes offre une qualité de neige incroyable. Ses
-    pistes sont très bien entretenus et très diverses pour permettre un ski de qualité.
-    On retrouve des remontés mécaniques dernières génération, des complexes sportifs
+  content: Réputée mondialement, Tignes offre une qualité de neige incroyable. Ses
+    pistes sont très bien entretenues et très diverses pour permettre un ski de qualité.
+    On retrouve des remontés mécaniques dernière génération, des complexes sportifs
     ainsi que de nombreux commerces. Avec l'altitude le ski entre les sapins se fera
     rare, mais le ski sera technique.
   alt_text_for_image: Vue de Tignes le lac et de Tignes Val Claret l'hiver sous la
