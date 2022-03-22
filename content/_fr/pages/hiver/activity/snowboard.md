@@ -25,7 +25,7 @@ page_sections:
   captiontitleuppercase: Les pratiques du snowboard
   title: Mets ton casque, c'est parti
   content: 'Le snowboard présente plusieurs disciplines qu''on retrouve par exemple
-    au Jeux Olympiques : Half Pipe // Slopestyle // Bordercross // Slalom //Freeride.
+    aux Jeux Olympiques : Half Pipe // Slopestyle // Bordercross // Slalom //Freeride.
     Outre ces disciplines, on va donc pratiquer le snowboard et pouvoir carver sur
     les pistes, faire quelques jumps et slider quelques rails ainsi que flotter en
     hors-piste.'
