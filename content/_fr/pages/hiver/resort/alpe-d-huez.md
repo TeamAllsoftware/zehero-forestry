@@ -52,10 +52,10 @@ page_sections:
   captiontitleuppercase: Station art de vivre
   title: Les activités à l'Alpe d'Huez
   content: Vous trouverez alors un escape game, des manèges, du yoga, du ski jöering,
-    un centre spa et détente, des luge sur rail, des balades en raquette, une patinoire.
-    Mais aussi des chiens de traineau, des balades en en hélicoptère en avion, en
-    ULM et en parapente ainsi que des activité mécaniques. Vous retrouverez ensuite
-    toutes les différentes écoles de ski.
+    un centre spa et détente, des luges sur rail, des balades en raquette, une patinoire.
+    Mais aussi des chiens de traineau, des balades en hélicoptère, en ULM et en parapente
+    ainsi que des activités mécaniques. Vous retrouverez ensuite toutes les différentes
+    écoles de ski.
   alt_text_for_image: La station de ski de l'Alpe d'Huez avec les pistes et une mer
     de nuage l'hiver
 - template: numberinfo
