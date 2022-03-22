@@ -79,7 +79,7 @@ page_sections:
   title: Chaque station va également se caractériser selon ses offres et ses services
   content: On va retrouver différents Labels qui vont permettre d'apporter un élément
     important sur la station. Les stations de ski avec le Label Famille Plus sont
-    des stations de ski qui répondent à des et exigences et des engagements strictes
+    des stations de ski qui répondent à des exigences et des engagements strictes
     pour les enfants. Leurs buts sont d'offrir des moments inoubliables pour les familles.
     On retrouve par exemple les stations comme l'Alpe d'Huez, La Clusaz, Les Orres,
     Méribel, Les Houches et bien d'autres encore.
