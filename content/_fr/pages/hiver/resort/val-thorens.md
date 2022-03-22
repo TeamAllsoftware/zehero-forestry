@@ -67,9 +67,9 @@ page_sections:
     Cela également pour tous les niveaux et tous les styles. Vous trouverez également
     des cours particuliers et cours collectifs ainsi des jardins d'enfants.
 - template: textarea
-  content: 'Vous trouverez des écoles indépendantes ainsi que l''ESF. Les tailles
-    d''une école de ski à une autre sera également différentes. Elles mettront alors
-    en place des offres, des services et des prestations différentes. '
+  content: Vous trouverez des écoles indépendantes ainsi que l'ESF. Les tailles d'une
+    école de ski à une autre sera également différente. Elles mettront alors en place
+    des offres, des services et des prestations différentes.
   title: ''
 - template: textarea
   title: Les différents magasins de location à Val Thorens
