@@ -69,13 +69,13 @@ page_sections:
   captionabovetitle: On a l'impression de flotter en poudreuse avec un snowboard
   title: Le snowboard, c'est une activité pour tous
   gridline1content: Burton, Rome, Bataleon, Salomon, Ride et bien d'autres, ont fait
-    évolués le snowboard aujourd'hui pour offrir des planches exceptionnelles. Il
+    évoluer le snowboard aujourd'hui pour offrir des planches exceptionnelles. Il
     existe aujourd'hui une multitude de snowboard pour tous les styles. Elles sont
     toutes performantes aux technologies avancées.
   gridline1title: L'avancé du snowboard
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Snowboard-freestyle-ride_luennl.jpg
   gridline2title: Soyez votre propre rider, soyez Ze Hero
-  gridline2content: N'ayez pas peur des débuts parfois difficile du snowboard. Vous
+  gridline2content: N'ayez pas peur des débuts parfois difficiles du snowboard. Vous
     pourrez ensuite progresser et jouer avec votre planche là où vous vous sentirez
     à l'aise. Que ce soit sur la piste, dans les snowparks ou dans les hors-pistes,
     le snowboard n'attend que vous.
