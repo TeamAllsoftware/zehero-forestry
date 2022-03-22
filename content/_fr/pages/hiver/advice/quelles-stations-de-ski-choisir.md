@@ -32,9 +32,9 @@ page_sections:
     toutes les mêmes infrastructures, les mêmes domaines skiables. On va retrouver
     des stations plus petites avec du charme, des chalets, certaines seront beaucoup
     plus grosses avec des bâtiments plus importants donc moins esthétiques. On retrouve
-    également des stations familiales et d'autre plus sportive, voire plus festive.
-    Certaines vont être réputées même pour leurs restaurants, leurs activités, leurs
-    panoramas, leur neige, leur météo etc
+    également des stations familiales et d'autres plus sportives, voire plus festives.
+    Certaines vont être réputées pour leurs restaurants, leurs activités, leurs panoramas,
+    leur neige, leur météo etc
   alt_text_for_image: Vue d'une station de ski avec des chalets sous la neige au début
     de la nuit
   button:
