@@ -17,9 +17,9 @@ image01_alt: Course à pied en fôret
 page_sections:
 - template: textarea
   content: |-
-    Le trail signifie "sentier" en anglais. C'est ce petit chemin en forêt, en montagne ou dans la jungle qui monte et qui descend, qui tourne et vivote. Ce petit chemin parfois technique, raide, lisse ou rempli de cailloux ou de racine.
+    Le trail signifie "sentier" en anglais. C'est ce petit chemin en forêt, en montagne ou dans la jungle qui monte et qui descend, qui tourne et vivote. Ce petit chemin parfois technique, raide, lisse ou rempli de cailloux ou de racines.
 
-    Le trail est une pratique sportive de course à pied en nature et quelques fois urbain. Quelle que soit la course, il présentera du dénivelé. C'est-à-dire que vous trouverez des montées et des descentes.
+    Le trail est une pratique sportive de course à pied en nature et quelques fois dans le milieu urbain. Quelle que soit la course, il présentera du dénivelé. C'est-à-dire que vous trouverez des montées et des descentes.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640069842/website/summer/IMG_20210716_180932_893_spbn5s.jpg
