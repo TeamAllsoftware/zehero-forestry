@@ -52,7 +52,7 @@ page_sections:
   captiontitleuppercase: La liberté
   title: Faire sa trace sur les pentes vierges
   content: |-
-    Cette pratique demande déjà un niveau de ski important. La technique de glisse en hors-piste est totalement différente de celle sur la piste. Cela va aussi varier en fonction de la qualité de neige. On peut retrouve une poudreuse importante, une neige de printemps, une neige parfois crouté, une neige trafollée. Cela va changer également en fonction du degré de la pente.
+    Cette pratique demande déjà un niveau de ski important. La technique de glisse en hors-piste est totalement différente de celle sur la piste. Cela va aussi varier en fonction de la qualité de neige. On peut retrouver une poudreuse importante, une neige de printemps, une neige parfois croutée, une neige trafolée. Cela va changer également en fonction du degré de la pente.
 
     On retrouve le ski hors piste dès qu'on s'écarte des pistes. Parfois il y a certains hors-piste qui se font facilement, par exemple sous un télésiège ou proche d'une piste, une combe qui rejoint une autre piste également. Il y a également des stations de ski qui mettent des zones spécialement dédiées au hors piste qui sont indiquées sur le plan des pistes du domaine skiable.
   alt_text_for_image: Snowboardeur faisant du snowboard freeride face à un sommet
