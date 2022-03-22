@@ -92,19 +92,19 @@ page_sections:
 - template: textarea
   content: "Ensuite on retrouve des stations plus sportives pour les personnes cherchant
     des grands domaines skiables. Pour ceux qui souhaitent avoir des stations bénéficiant
-    de nombreuses pistes sont par exemples les stations des 3 Vallées, Les Arcs et
-    La Plagne, l'Espace Killy, Les portes du soleil, La Clusaz et bien d'autre  \nVous
-    pourrez ensuite faire votre choix en fonction du charme des stations, de l'architecture,
-    de la beauté du paysage. Les grosses stations de ski vont, le plus souvent, comporter
-    d'imposants bâtiments qui ne seront pas idéals si vous cherchez un cadre naturel.
-    Cela casse le charme que certaines station de ski conservent. Si vous rêvez de
-    stations parsemées de beaux chalets, de bâtiments harmonieux, de petits cocons
-    vous pourrez trouver les stations de ski telles que Méribel, Valmorel, Mégève,
-    La Rosière, Aussois, Saint Lary, Val d'Isère, Areche-Beaufort...  \nSi vous désirez
-    des stations avec une très bonne qualité de neige, optez pour les stations hautes
-    en altitude ou bien exposées telles que Tignes, Val Thorens, Saint Foy en Tarentaise...
-    \ \nCertaines stations offrent des jours d'ensoleillement incroyables comme les
-    stations de ski de Serre Chevalier ou alors l'Alpe d'Huez."
+    de nombreuses pistes, on retrouve par exemple les stations des 3 Vallées, Les
+    Arcs et La Plagne, l'Espace Killy, Les portes du soleil, La Clusaz et bien d'autres.
+    \ \nVous pourrez ensuite faire votre choix en fonction du charme des stations,
+    de l'architecture, de la beauté du paysage. Les grosses stations de ski vont,
+    le plus souvent, comporter d'imposants bâtiments qui ne seront pas idéals si vous
+    cherchez un cadre naturel. Cela casse le charme que certaines station de ski conservent.
+    Si vous rêvez de stations parsemées de beaux chalets, de bâtiments harmonieux,
+    de petits cocons vous pourrez trouver les stations de ski telles que Méribel,
+    Valmorel, Mégève, La Rosière, Aussois, Saint Lary, Val d'Isère, Areche-Beaufort...
+    \ \nSi vous désirez des stations avec une très bonne qualité de neige, optez pour
+    les stations hautes en altitude ou bien exposées telles que Tignes, Val Thorens,
+    Saint Foy en Tarentaise...  \nCertaines stations offrent des jours d'ensoleillement
+    incroyables comme les stations de ski de Serre Chevalier ou alors l'Alpe d'Huez."
   title: Moderne, charme ou sportive ?
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641994384/website/Conseil%20/ines-alvarez-fdez-F-gfrzSIPZo-unsplash_qkyvuy.jpg
