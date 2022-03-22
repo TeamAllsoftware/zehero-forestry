@@ -123,7 +123,7 @@ page_sections:
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883537/website/winter/Montagne-randonnee-blizzard_imccfq.jpg
   captionabovetitle: Physique à la montée, technique à la descente
   title: La montagne pour vous seul
-  gridline1title: Quelque soit votre niveau, ne partez jamais sans le matériel de
+  gridline1title: Quel que soit votre niveau, ne partez jamais sans le matériel de
     sécurité et sans avoir vérifier les conditions
   gridline1content: Le ski de randonnée demande une bonne condition physique à la
     montée et une technique plutôt aguerrie pour la descente. Il nécessite aussi une
@@ -138,9 +138,9 @@ page_sections:
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/jon-flobrant-wElgJTwsibs-unsplash_mo3el7.jpg
   prlax_alt_text_for_image: trois personnes faisant du ski de randonnée et alpinisme
     sur une trace en haute montagne avec du vent
-  grid_1_alt_text_for_image: Deux skieurs de randonné montant à pied dans la montagne
+  grid_1_alt_text_for_image: Deux skieurs de randonnée montant à pied dans la montagne
     avec les skis accrochés au sac
-  grid_2_alt_text_for_image: Une personne faisant du ski de randonné en montant en
+  grid_2_alt_text_for_image: Une personne faisant du ski de randonnée en montant en
     hors-piste dans une pente vierge avec quelques arbres autour de lui
 - template: textarea
   content: "Vous trouverez en France un choix gigantesque de randonnée à faire. Que
