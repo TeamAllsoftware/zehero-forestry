@@ -95,7 +95,7 @@ page_sections:
 - template: textarea
   title: Les différents magasins de location à l'Alpe Huez
   content: "Certains de ces magasins seront affiliés aux enseignes telles que Sport
-    2000, Skiset, Skimium, Netski etc. Tant dis que d’autres seront indépendants et
+    2000, Skiset, Skimium, Netski etc. Tandis que d’autres seront indépendants et
     proposeront des offres spécifiques. Vous trouverez également des écoles de ski
     disposant de **magasin de location** afin de réserver des cours de ski et de louer
     des skis.\n\nIl y aura donc des magasins de **location ski**, de **location snowboard**
