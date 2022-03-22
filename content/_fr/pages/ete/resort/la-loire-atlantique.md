@@ -3,8 +3,9 @@ layout: layout_resort
 language: fr
 season: summer
 meta-title: Activités outdoor en Loire Atlantique pour l'été
-meta-description: Département situé dans la Bretagne, venez profiter d'activité nautique tel que le surf.
-topnav_color_text: dark
+meta-description: Département situé dans la Bretagne, venez profiter d'activité nautique
+  tel que le surf.
+topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités et la location dans la Loire Atlantique.
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
@@ -15,7 +16,7 @@ resort_naming: La Loire Atlantique
 title: La Loire Atlantique et ses activités outdoor pour la saison d'été
 permalink: "/fr/ete/destinations/loire-atlantique"
 redirect_from:
-  - /fr/ete/destination/loire-atlantique
+- "/fr/ete/destination/loire-atlantique"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642758793/website/summer/lechat-valentin-Ho17T_ZBJ5k-unsplash_xcbczl.jpg
 image01_alt: Surfeur en train de surfer une vague en bretagne sur une Longboard
 button_to_link_to_ze_hero_shop:
