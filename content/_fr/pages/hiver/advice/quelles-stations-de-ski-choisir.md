@@ -44,13 +44,13 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: "On peut alors se poser la question de savoir avec qui vous allez séjourner
-    en montagne, pour quelle discipline, dans quelle cadre (isolé, charme, moderne...),
+    en montagne, pour quelle discipline, dans quel cadre (isolé, charme, moderne...),
     quel budget, etc.\n\nTout d'abord, il faut prendre en considération si vous partez
     seul, en couple, entre amis ou en famille. Cela changera en fonction, car vous
     trouverez alors des stations plus adaptées :  \n\\- Entre amis, vous allez surement
     vouloir trouver une station sportive, qui vit également la nuit, avec un domaine
     incroyable, beaucoup d'activités...  \n\\- En couple, vous allez peut-être désirer
-    trouver une station qui offre de belle piste, de joli panorama et des chalets
+    trouver une station qui offre de belles pistes, de jolis panoramas et des chalets
     cocooning.  \n\\- En famille et si vous êtes avec vos enfants, vous allez plutôt
     chercher une station qui permet d'avoir de nombreuses activités dédiées aux enfants.
     Les stations Label Famille Plus.  \nBien sûr, ce sont uniquement des exemples,
