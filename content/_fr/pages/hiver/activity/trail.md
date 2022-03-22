@@ -90,7 +90,7 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: |-
-    Le trail ce pratique toute l'année même l'hiver. L'encadrement en trail est idéal si vous souhaitez progresser, découvrir et partager. Un coach en trail running vous permettra d'évoluer et de progresser que ce soit en montée, en descente, sur plat. Cela pourra se travailler sur des séances dîtes spécifiques.
+    Le trail se pratique toute l'année même l'hiver. L'encadrement en trail est idéal si vous souhaitez progresser, découvrir et partager. Un coach en trail running vous permettra d'évoluer et de progresser que ce soit en montée, en descente, sur plat. Cela pourra se travailler sur des séances dîtes spécifiques.
 
     Vous pourrez également participer à des sorties de trail longues. Elles permettront de découvrir un lieu, un environnement avec un groupe.
   title: ''
