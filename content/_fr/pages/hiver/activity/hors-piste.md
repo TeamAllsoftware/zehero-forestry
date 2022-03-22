@@ -39,8 +39,8 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: "Dès que l'on quitte les pistes sécurisées, nous sommes face à la montagne
-    et donc à des risques plus élevés. La plus courante reste l'avalanche, mais il
-    y aussi les crevasses, les barres rocheuses, la météo qui se dégrade. Ces différents
+    et donc face à des risques plus élevés. La plus courante reste l'avalanche, mais
+    il y aussi les crevasses, les barres rocheuses, la météo qui se dégrade. Ces différents
     paramètres sont importants à connaître avant de se lancer en hors-piste. Un guide
     ou un moniteur peuvent vous expliquer tous ces paramètres lors d'une journée d'encadrement
     en freeride.  \nIl est également important d'avoir systématiquement sur soi le
