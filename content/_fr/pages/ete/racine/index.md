@@ -2,9 +2,9 @@
 layout: layout_generic
 title: Toutes les activités de l'été
 meta-title: Activités outdoor et boutique en ligne pour l'été
-meta-description: Toutes les activités outdoor de l'été à partager en famille ou entre amis où que vous soyez en France et quelque soit votre niveau
-
-permalink: /fr/ete/
+meta-description: Toutes les activités outdoor de l'été à partager en famille ou entre
+  amis où que vous soyez en France et quelque soit votre niveau
+permalink: "/fr/ete/"
 language: fr
 season: summer
 topnav_color_text: dark
@@ -33,7 +33,7 @@ page_sections:
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image2:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751107/website/Instinct%20Trail/Instinct_trail_femme_collection_hrqsxb.webp
-    alt_text: 
+    alt_text: Une traileuse qui court avec un sac à dos Instinct
     title: Sac à dos<br> de trail
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image3:
@@ -52,7 +52,10 @@ page_sections:
   alt_text_for_image: Le eshop dans la rubrique vente de skis d'occasion
   captiontitleuppercase: Fin de la saison de ski
   title: VIVE LES SKIS D'OCCASION !
-  content: La saison de ski de piste se termine mais la saison de ski de randonnée démarre seulement. Nous avons des skis d'occasion qui vous tendent les bras. Que vous cherchiez à tester une pratique ou à offrir des skis, acheter des skis d'occasion est une excellente idée pour éviter le consumérisme.
+  content: La saison de ski de piste se termine mais la saison de ski de randonnée
+    démarre seulement. Nous avons des skis d'occasion qui vous tendent les bras. Que
+    vous cherchiez à tester une pratique ou à offrir des skis, acheter des skis d'occasion
+    est une excellente idée pour éviter le consumérisme.
   button:
     text_button: Acheter maintenant
     href_button: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
@@ -105,13 +108,13 @@ page_sections:
     color: white
   Button1:
     title: Bien préparer sa rando !
-    link: /fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee
+    link: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
   Button2:
     title: Voir toutes les activités
     link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
   button_2_more: false
 - template: listServices
-  service: advice
+  service: activity
   blockBGcolor: blanc
   headtitle:
     headline: ZE HERO propose
@@ -131,6 +134,6 @@ author: geoffreyarduini
 baseline: ''
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: 'https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date='
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
 
 ---
