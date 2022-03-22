@@ -59,19 +59,19 @@ page_sections:
 - template: textarea
   content: "Le choix de la station de ski va varier en fonction de votre pratique.
     Tout d'abord, si vous êtes un ou des passionnés de ski de fond alors séjourner
-    dans une station de ski alpin tel que Val Thorens, Les Arcs ou encore Tignes ne
-    sera pas l'idéal. Il faudra plutôt cibler des stations comme Les Rousses, La Forclaz,
-    Les Saisies...  \nSi vous êtes un mordu de freestyle, il y a aussi certaines stations
-    qui offrent de meilleur snowpark tel que Avoriaz, Les 2 Alpes, Les Arc, Vars ou
-    encore Tignes.  \nSi c'est uniquement le freeride qui vous importe, et que vous
-    ne souhaitez pas totalement skier sur les pistes, il faudra également bien choisir
-    sa station. Vous pourrez trouver des stations parfaites pour le freeride tels
-    que La Grave, Chamonix, Les Arcs, Sainte Foy en Tarentaise, Grand Tourmalet, Tignes,
-    Serre Chevalier ou alors l'Alpe d'Huez.  \nSi vous êtes un passionné des pistes
-    noires, des pistes longues et raides où vous allez chercher de la vitesse, du
-    carving et à réaliser un maximum de rotation, vous pourrez trouver les stations
+    dans une station de ski alpin telle que Val Thorens, Les Arcs ou encore Tignes
+    ne sera pas l'idéal. Il faudra plutôt cibler des stations comme Les Rousses, La
+    Forclaz, Les Saisies...  \nSi vous êtes un mordu de freestyle, il y a aussi certaines
+    stations qui offrent de meilleurs snowpark tels que Avoriaz, Les 2 Alpes, Les
+    Arc, Vars ou encore Tignes.  \nSi c'est uniquement le freeride qui vous importe,
+    et que vous ne souhaitez pas totalement skier sur les pistes, il faudra également
+    bien choisir sa station. Vous pourrez trouver des stations parfaites pour le freeride
+    telles que La Grave, Chamonix, Les Arcs, Sainte Foy en Tarentaise, Grand Tourmalet,
+    Tignes, Serre Chevalier ou alors l'Alpe d'Huez.  \nSi vous êtes un passionné des
+    pistes noires, des pistes longues et raides où vous allez chercher de la vitesse,
+    du carving et à réaliser un maximum de rotation, vous pourrez trouver les stations
     comme : Méribel, Courchevel, Val Thorens, Tignes et Val d'Isère, Chamonix, La
-    Plagne, l'Alpe d'Huez avec sa piste de noir de 16 km."
+    Plagne, l'Alpe d'Huez avec sa piste noire de 16 km."
   title: Quelle pratique ?
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641996517/website/Conseil%20/yann-allegre-aUjwjVJvJrU-unsplash_z9epra.jpg
