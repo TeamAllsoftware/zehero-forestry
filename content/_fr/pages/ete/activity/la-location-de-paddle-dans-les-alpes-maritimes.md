@@ -6,7 +6,7 @@ topnav_color_text: dark
 title: La location de Paddle dans les Alpes Maritimes
 permalink: "/fr/ete/activites/location-paddle-alpes-maritimes"
 redirect_from:
-  - /fr/ete/activite/location-paddle-alpes-maritimes
+- "/fr/ete/activite/location-paddle-alpes-maritimes"
 meta-title: Venez faire du paddle dans les eaux des Alpes Maritimes
 meta-description: Partez explorer les lacs et le littoral des Alpes Maritimes en louant
   un paddle.
@@ -14,7 +14,7 @@ baseline: Location Paddle Alpes Maritimes
 engage: Explorez les Alpes Maritimes en Paddle sur lac ou mer
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643972871/website/Conseil%20Equiepement/dieter-schafer-b6NiWBQ8kno-unsplash_xnsmg1.jpg
 image01_alt: Vue de la mer dans le massif de l'Esterel
-categorie: "Eaux vives"
+categorie: Eaux vives
 page_sections:
 - template: textarea
   title: Activité Paddle dans les Alpes Maritimes
@@ -44,7 +44,7 @@ page_sections:
   captiontitleuppercase: Les Alpes Maritimes, paradis naturel
   title: Le paddle dans les Alpes Maritimes
   content: |-
-    Les Alpes Maritimes est un département qui regorge de lieux idéal pour la pratique du Paddle. C'est un paradis pour tous les amoureux de la nature, d'explorer des lieux au paysages uniques. Le 06 offre une diversification incroyable de nature, de végétation. Entre la mer et la montagne, mais aussi les lacs, vous trouverez des excursions incroyables, des randonnées pour tout le monde à faire en paddle.
+    Les [Alpes Maritimes](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes) est un département qui regorge de lieux idéal pour la pratique du Paddle. C'est un paradis pour tous les amoureux de la nature, d'explorer des lieux au paysages uniques. Le 06 offre une diversification incroyable de nature, de végétation. Entre la mer et la montagne, mais aussi les lacs, vous trouverez des excursions incroyables, des randonnées pour tout le monde à faire en paddle.
 
     Le littoral de la Côte d'Azur offre d'incroyables balades de paddle à faire. Vous trouverez le massif de l'Esterel et sa roche rouge, le cap d'Antibes, le tour de St Jean Cap Ferrat etc. Que ce soit pour des randonnées, pour regarder les poissons plus large ou même faire du yoga, le paddle sur la mer sera un lieu parfait.
 
@@ -53,6 +53,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: La location de paddle dans les Alpes Maritimes
   content: "Dans les Alpes-Maritimes, vous trouverez un large choix de shop pour la
@@ -64,5 +65,8 @@ page_sections:
     Eshop nos différentes locations de paddle dans le 06.  \nPrêt du lac de St Cassien
     et de la rivière \"La Siagne\", vous pourrez également louer votre paddle dans
     des bases nautiques."
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---
