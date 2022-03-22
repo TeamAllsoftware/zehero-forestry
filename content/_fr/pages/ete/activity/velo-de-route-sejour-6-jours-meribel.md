@@ -158,7 +158,7 @@ page_sections:
   headline: Séjours de 6 jours de vélo de route à Méribel et en Savoie
   button:
     text_button: Réserver maintenant >
-    href_button: https://shop.ze-hero.com/sejour/sejour-velo-route/13306-sejour-meribel-en-velo-6-jours-activite-ze-hero
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero

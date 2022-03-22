@@ -8,7 +8,7 @@ topnav_color_text: light
 title: Comment bien préparer sa sortie de randonnée à la journée
 permalink: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
 redirect_from:
-  - /fr/ete/conseil/preparer-sa-sortie-randonnee-a-la-journee
+- "/fr/ete/conseil/preparer-sa-sortie-randonnee-a-la-journee"
 meta-title: Préparer sa sortie de randonnée à la journée
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646130600/website/Conseil%20/laurentiu-morariu-zWGhVgY-GmY-unsplash_bwcsmi.jpg
 image01_alt: Deux randonneurs marchant en montagne arrivant à un sommet au dessus
@@ -49,6 +49,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "1. Les kilomètres\n2. Le dénivelé\n3. La technicité du parcours\n\nTout
     d'abord, il faut savoir que pour des personnes novices dans la randonnée, la vitesse
@@ -99,6 +100,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Aujourd'hui, nous faisons facilement confiance à nos téléphones et nos
     montres GPS. Mais parfois, le réseau n'est plus présent, la batterie est à plat,
@@ -107,7 +109,7 @@ page_sections:
     est un plus si vous savez l'utiliser.\n\nEn partant à la journée, il n'est pas
     utile de trop charger son sac. Et pour ce qui concerne le sac et sa taille, un
     sac de 20L à 30L est idéal pour ce type de randonnée. Le sac doit également être
-    bien ajusté en fonction de votre morphologie. Découvrez également nos [https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running,](https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running,
+    bien ajusté en fonction de votre morphologie. Découvrez également nos [https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running,](https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
     \"sacs de trail Instinct Trail\") qui peuvent vous accompagner pour une journée
     de randonnée.\n\nL'eau ne sera jamais de trop dans votre sac de randonnée. Une
     gourde de 1L est le minimum à avoir sur soi. Selon le parcours et votre itinéraire
@@ -141,6 +143,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Les derniers petits conseils
   content: "Lorsque l'on part en randonnée et si nous sommes seuls, il est important
