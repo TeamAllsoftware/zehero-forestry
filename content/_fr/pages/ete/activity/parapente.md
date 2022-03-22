@@ -47,7 +47,7 @@ page_sections:
 - template: textarea
   title: Le déroulement d'un vol en biplace
   content: "Il faudra alors s'habiller en fonction de la météo et de la température.
-    Nous vous conseillons de venir avec des chaussures types baskets ainsi qu'un pantalon
+    Nous vous conseillons de venir avec des chaussures type baskets ainsi qu'un pantalon
     et une veste type coupe-vent. Une fois au sommet avec le moniteur, celui-ci vous
     fera le briefing de sécurité.  \nVous serez ainsi attaché à votre moniteur et
     vous pourrez enfin commencer à courir avec lui pour décoller dans les airs. À
