@@ -40,10 +40,10 @@ page_sections:
 - template: textarea
   content: Méribel, c'est un énorme choix de piste qui varie selon tous les niveaux
     et les goûts. C'est 152 pistes à travers des paysages magnifiques, des forêts
-    enchantées. Méribel est également labellisé Family Plus ce qui permet d'avoir
-    diverses infrastructure pour les enfants. Que ce soit pour apprendre le ski, découvrir
-    la montagne, s'amuser avec d'autres activités que le ski, Méribel sera un petit
-    coin de paradis pour vous.
+    enchantées. Méribel est également labellisée Family Plus ce qui permet d'avoir
+    diverses infrastructures pour les enfants. Que ce soit pour apprendre le ski,
+    découvrir la montagne, s'amuser avec d'autres activités que le ski, Méribel sera
+    un petit coin de paradis pour vous.
   title: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640612369/website/resorts/meribel/adrien-613m3PPmssA-unsplash_t5lzyn.jpg
