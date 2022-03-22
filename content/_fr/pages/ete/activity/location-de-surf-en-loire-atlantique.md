@@ -18,13 +18,19 @@ categorie: Surf
 page_sections:
 - template: textarea
   title: Location de surf en Loire Atlantique
-  content: "La location de surf en Loire Atlantique va se trouver principalement sur
-    le littoral du département 44. Si vous séjournez en Loire Atlantique et que vous
-    désirez louer du matériel de surf, vous pourrez trouver différents lieux où les
-    louer.\n\nVous trouverez donc de quoi louer votre matériel de surf au niveau de
-    :\n\n* Pornic \n* La Plaine sur Mer\n* St Brévin les Pins\n* St Nazaire\n* Pornichet\n*
-    Guérande\n\nSelon où séjournez pour surfer, vous pourrez donc louer votre matériel
-    dans ces différents lieux de la Loire Atlantique."
+  content: |-
+    La location de surf en [Loire Atlantique](https://www.ze-hero.com/fr/ete/destinations/loire-atlantique) va se trouver principalement sur le littoral du département 44. Si vous séjournez en Loire Atlantique et que vous désirez louer du matériel de surf, vous pourrez trouver différents lieux où les louer.
+
+    Vous trouverez donc de quoi louer votre matériel de surf au niveau de :
+
+    * Pornic
+    * La Plaine sur Mer
+    * St Brévin les Pins
+    * St Nazaire
+    * Pornichet
+    * Guérande
+
+    Selon où séjournez pour [surfer](https://www.ze-hero.com/fr/ete/activites/surf), vous pourrez donc louer votre matériel dans ces différents lieux de la Loire Atlantique.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643807238/website/summer/paje-victoria-FXB79QuRX3M-unsplash_nupdzn.jpg
   alt_text_for_image: Plusieurs planches de surf alignés les unes derrières les autres
