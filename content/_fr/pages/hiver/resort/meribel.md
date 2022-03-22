@@ -49,10 +49,10 @@ page_sections:
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640612369/website/resorts/meribel/adrien-613m3PPmssA-unsplash_t5lzyn.jpg
   captionleftcontent: Le plaisir avant tout
   captionrighttitle: Freestyle, freeride et carving
-  captionrightcontent: 'Méribel fait parti des meilleures station d''Europe. C''est
-    aussi un coin de paradis pour le hors-piste et le ski de randonnée avec ses montagnes
-    au cœur du parc national de la Vanoise. Elle possède également l''un des meilleures
-    snowpark de France pour tous les plus grands freestyleurs. '
+  captionrightcontent: Méribel fait parti des meilleures station d'Europe. C'est aussi
+    un coin de paradis pour le hors-piste et le ski de randonnée avec ses montagnes
+    au cœur du parc national de la Vanoise. Elle possède également l'un des meilleurs
+    snowpark de France pour tous les plus grands freestyleurs.
   center_alt_text_for_image: 'Bâtons de ski plantés dans la neige dans le domaine
     skiable de Méribel '
 - template: 2colimgtxt
