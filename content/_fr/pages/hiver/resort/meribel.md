@@ -28,8 +28,8 @@ page_sections:
   captiontitleuppercase: Charme et volupté
   title: Familiale, sportif et détente
   content: Profitez d'un domaine pour tout le monde, où faire du ski fera le bonheur
-    de tous les niveaux. Que ce soit des pistes rouge ou noir pour les plus sportifs,
-    des espaces ludiques dans la forêts avec le Yooni le Yéti, la mascotte de Méribel,
+    de tous les niveaux. Que ce soit des pistes rouges ou noires pour les plus sportifs,
+    des espaces ludiques dans la forêt avec le Yooni le Yéti, la mascotte de Méribel,
     vous profiterez pleinement. Vous trouverez également un des meilleurs snowpark
     d'Europe avec le DC Area 43.
   alt_text_for_image: Skieur de dos regardant les montagnes de la station de Méribel
