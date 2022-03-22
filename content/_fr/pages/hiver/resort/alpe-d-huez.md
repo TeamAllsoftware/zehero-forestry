@@ -29,7 +29,7 @@ page_sections:
   title: Activités, espace et plaisir
   content: Son sommet le Pic Blanc culmine à 3330m d'altitude, vous pourrez alors
     dévaler des pistes de 2000m de dénivelé négatif. Pour tous les amoureux de la
-    glisse et pour les plus sportifs, vous skierez sur un domaine skiable de 260km
+    glisse et pour les plus sportifs, vous profiterez d'un domaine skiable de 260km
     de piste.
   alt_text_for_image: Piste de ski de l'Alpe d'Huez avec de la neige fraiche et des
     traces de ski et de snowboard
