@@ -74,8 +74,9 @@ page_sections:
   title: Tignes
   headline: 18 Ecoles de ski et de snowboard au sein de la station
   content: Vous trouverez de multiples écoles de ski dont certaines seront spécialement
-    anglaises, d'autre spécialisé uniquement dans le snowboard ou le ski de randonnée.
-    Vous trouverez alors tous les disciplines, pour les niveaux et tous les goûts.
+    anglaises, d'autre spécialisées uniquement dans le snowboard ou le ski de randonnée.
+    Vous trouverez alors pour toutes les disciplines, pour les niveaux et tous les
+    goûts.
 - template: textarea
   content: Indépendantes ou Françaises, certaines de ces écoles de ski proposeront
     des cours privés et aussi des cours collectifs. Elles se différencieront par les
