@@ -35,8 +35,8 @@ page_sections:
     traces de ski et de snowboard
 - template: textarea
   content: 'La station Alpe d''Huez est composée de 3 villages : Huez Village, Alpe
-    d''Huez. En Isère, cette station ensoleillé offre un choix très large d''activité
-    pour toutes les personnes. Vous pourrez profiter d''évènement et de détente dans
+    d''Huez. En Isère, cette station ensoleillée offre un choix très large d''activités
+    pour toutes les personnes. Vous pourrez profiter d''évènements et de détente dans
     un cadre magnifique.'
   title: ''
 - template: 3coltxtimgtxt
