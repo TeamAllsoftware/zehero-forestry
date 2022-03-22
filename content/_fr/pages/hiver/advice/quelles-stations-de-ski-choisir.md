@@ -110,10 +110,10 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641994384/website/Conseil%20/ines-alvarez-fdez-F-gfrzSIPZo-unsplash_qkyvuy.jpg
   captiontitleuppercase: Les derniers points importants
   title: Période
-  content: Il est important de choisir également sa station en fonction de la période
-    dont vous partez. Certaines stations ne sont pas forcément hautes en altitudes
-    ou ont une exposition Sud, vont avoir moins de neige en début de saison et en
-    fin de saison. Il y aura donc plus de chance que la station manque d'enneigement.
+  content: Il est également important de choisir sa station en fonction de la période
+    à laquelle vous partez. Certaines stations ne sont pas forcément hautes en altitude
+    ou ont une exposition Sud. Celles-ci vont avoir moins de neige en début de saison
+    et en fin de saison. Il y aura donc plus de chance que la station manque d'enneigement.
     Il se peut alors que certaines pistes soient fermées et que la neige soit surtout
     artificielle, s'il fait assez froid.
   alt_text_for_image: Vue des sommets de plusieurs montagnes enneigés avec des nuages
