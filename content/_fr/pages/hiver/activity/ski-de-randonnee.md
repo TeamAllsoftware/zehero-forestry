@@ -39,11 +39,11 @@ page_sections:
     une bonne condition physique. Le dénivelé positif sera exigeant pour vos jambes,
     votre cardio ainsi que pour les bras. La technique de montée s'apprend afin d'être
     plus efficace sur la poussée du bâton et sur les pas en fonction du degré de la
-    pente. Vous apprendrez ensuite à réaliser des conversions qui seront nécessaire
+    pente. Vous apprendrez ensuite à réaliser des conversions qui seront nécessaires
     pour monter en zig-zag.  \nPartez atteindre les sommets afin d'avoir des points
     de vue uniques. Respirez l'air pur, écoutez le silence, admirez la plénitude de
     la montagne vierge et sauvage. Tracez vos propres lignes en hors-piste et profitez
-    du hors-piste pour flotter sur la neige. "
+    du hors-piste pour flotter sur la neige."
   title: ''
 - template: textarea
   textarea: Et je peux en ajouter un au dessus histoire d'ajouter du contenu à ma
