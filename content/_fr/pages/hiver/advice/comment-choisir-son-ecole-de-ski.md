@@ -50,8 +50,9 @@ page_sections:
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641568162/website/Conseil%20/lex-valishvili-d0daXphrFlw-unsplash_g9engo.jpg
   captionleftcontent: ESF, ESI, Indépendante
   captionrighttitle: Renseignez vous sur le service et la qualité de l'école de ski
-  captionrightcontent: Vous pouvez également vérifier les avis sur TripAdvisor afin
-    d'avoir des retours des différentes expériences des personnes.
+  captionrightcontent: Vous pouvez également vérifier les avis sur des plateformes
+    comme TripAdvisor afin d'avoir des retours des différentes expériences des précédents
+    clients.
   center_alt_text_for_image: Moniteur de snowboard en cours privé aidant en enfant
     à faire du snowboard au sommet d'un télésiège
   blockBGcolor: ''
