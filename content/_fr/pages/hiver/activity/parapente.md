@@ -17,8 +17,8 @@ image01_alt: Vol de parapente pendant l'hiver avec des montagnes recouvertes de 
 page_sections:
 - template: textarea
   content: Vivez l’unique expérience de voler au-dessus du domaine skiable et des
-    sommets. Après avoir glissé sur les pistes et admirez les panoramas d’en bas,
-    vous pourrez faire un baptême de parapente l’hiver afin de découvrir les montagnes
+    sommets. Après avoir glissé sur les pistes et admiré les panoramas d’en bas, vous
+    pourrez faire un baptême de parapente l’hiver afin de découvrir les montagnes
     d’au-dessus. Vivez un moment agréable dans les airs en profitant des vues splendides
     des montagnes et des différents sommets. Vous pourrez alors profiter d’un moment
     de calme et d’admiration au-dessus de vos amis en parapente.
@@ -41,7 +41,7 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: |-
-    Les vols vont durer entre 10 et 30 mn en fonction de la météo et des départs donnés. Le vol biplace vous permettra d’admirer la vue, de vivre une nouvelle expérience, ainsi que des sensations fortes. Les moniteurs en fonction ainsi de votre aisance peuvent vous faire tenir les commandes et réaliser des vols plus sensationnels. Vous pourrez aussi bénéficier de vidéo et de photo qui sont proposées par les moniteurs de parapente.
+    Les vols vont durer entre 10 et 30 mn en fonction de la météo et des départs donnés. Le vol biplace vous permettra d’admirer la vue, de vivre une nouvelle expérience, ainsi que des sensations fortes. Les moniteurs, en fonction de votre aisance, peuvent vous faire tenir les commandes et réaliser des vols plus sensationnels. Vous pourrez aussi bénéficier de vidéos et de photos qui sont proposées par les moniteurs de parapente.
 
     Cette activité est réservée à toutes les personnes de 5 ans à 90 ans.
   title: ''

@@ -19,17 +19,17 @@ page_sections:
     qui consiste à aller en dehors des pistes balisées, sécurisées. En dehors de ces
     pistes damées, on y retrouve une autre montagne. Que ce soit juste sur le bord
     des pistes ou beaucoup plus loin des remontées mécaniques, nous mettons nos skis
-    en freeride. Le freeride reste une discipline où sont environnement doit être
-    connu par des connaissances approfondies.
+    en freeride. Le freeride reste une discipline où son environnement nécessite des
+    connaissances approfondies.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/sophie-the-laya-yogis-Yf-EC_VWYwY-unsplash_fqd8ow.jpg
   captiontitleuppercase: Les bases du Freeride
   title: On ne s'improvise pas Freerideur, car il y a de nombreuses notions importantes
     à connaître
-  content: 'Le freeride implique de connaître la montagne et ses risques. Outre le
+  content: Le freeride implique de connaître la montagne et ses risques. Outre le
     fait que cette discipline est également physique et demande une très bonne technique
-    de glisse, il est important d''en connaître ses aspects sécurités. '
+    de glisse, il est important d'en connaître ses aspects sécurité.
   alt_text_for_image: Personne faisant du ski freeride en hors piste dans une pente
     raide
   button:
@@ -38,21 +38,21 @@ page_sections:
     alt_button: ''
   blockBGcolor: ''
 - template: textarea
-  content: "Dès que l'on quitte les pistes sécurisés, nous sommes face à la montagne
-    et donc à des risques plus élevés. La plus courante reste l'avalanche, mais il
-    y aussi les crevasses, les barres rocheuses, la météo qui se dégrade. Ces différents
+  content: "Dès que l'on quitte les pistes sécurisées, nous sommes face à la montagne
+    et donc face à des risques plus élevés. La plus courante reste l'avalanche, mais
+    il y aussi les crevasses, les barres rocheuses, la météo qui se dégrade. Ces différents
     paramètres sont importants à connaître avant de se lancer en hors-piste. Un guide
-    ou un moniteur peuvent vous expliquer tous ses paramètres lors d'une journée d'encadrement
-    en freeride.  \nIl est également important d'avoir systématiques sur soi le matériel
-    de sécurité :  \n\\- DVA  \n\\- Pelle  \n\\- Sonde  \nMais aussi un casque et
-    parfois des protections supplémentaires telle qu'une dorsale etc."
+    ou un moniteur peuvent vous expliquer tous ces paramètres lors d'une journée d'encadrement
+    en freeride.  \nIl est également important d'avoir systématiquement sur soi le
+    matériel de sécurité :  \n\\- DVA  \n\\- Pelle  \n\\- Sonde  \nMais aussi un casque
+    et parfois des protections supplémentaires telles qu'une dorsale etc."
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/go-montgenevre-SRbczzaRQBc-unsplash_lkadef.jpg
   captiontitleuppercase: La liberté
   title: Faire sa trace sur les pentes vierges
   content: |-
-    Cette pratique demande déjà un niveau de ski important. La technique de glisse en hors-piste est totalement différente de celle sur la piste. Cela va aussi varier en fonction de la qualité de neige. On peut retrouve une poudreuse importante, une neige de printemps, une neige parfois crouté, une neige trafollée. Cela va changer également en fonction du degré de la pente.
+    Cette pratique demande déjà un niveau de ski important. La technique de glisse en hors-piste est totalement différente de celle sur la piste. Cela va aussi varier en fonction de la qualité de neige. On peut retrouver une poudreuse importante, une neige de printemps, une neige parfois croutée, une neige trafolée. Cela va changer également en fonction du degré de la pente.
 
     On retrouve le ski hors piste dès qu'on s'écarte des pistes. Parfois il y a certains hors-piste qui se font facilement, par exemple sous un télésiège ou proche d'une piste, une combe qui rejoint une autre piste également. Il y a également des stations de ski qui mettent des zones spécialement dédiées au hors piste qui sont indiquées sur le plan des pistes du domaine skiable.
   alt_text_for_image: Snowboardeur faisant du snowboard freeride face à un sommet
@@ -70,7 +70,7 @@ page_sections:
   title: ''
 - template: textarea
   content: |-
-    Le Freeride se pratique à plusieurs afin d'avoir toujours une ou des personnes qui assurent la sécurité quand l'un part faire sa ligne. C'est partager un moment loin de la foule, dans une montagne calme et belle afin de faire le plein d'adrénaline et de sensations forte. C'est vivre un moment mort, c'est choisir où passer, analyser la trajectoire pour laisser la plus belle trace possible.
+    Le Freeride se pratique à plusieurs afin d'avoir toujours une ou des personnes qui assurent la sécurité quand l'un part faire sa ligne. C'est partager un moment loin de la foule, dans une montagne calme et belle afin de faire le plein d'adrénaline et de sensations fortes. C'est vivre un moment mort, c'est choisir où passer, analyser la trajectoire pour laisser la plus belle trace possible.
 
     Si vous êtes un bon skieur mais que vous êtes débutant en freeride, réservez une journée découverte du freeride afin d'avoir toutes les premières connaissances de la montagne, de la sécurité, de la technique du ski.
   title: ''
@@ -99,8 +99,8 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: "Plongez dans l'univers majestueux du hors-piste, apprenez à connaitre
-    la montagne, ses pentes, sa neige et ses risques.   \nProgressez techniquement
-    grâce à un professionnel de la montagne qui sera vous montrez comment skier en
+    la montagne, ses pentes, sa neige et ses risques.  \nProgressez techniquement
+    grâce à un professionnel de la montagne qui sera vous montrer comment skier en
     hors piste dans toutes les neiges et les pentes.\n\nLe freeride vous fera vivre
     un moment inoubliable. L'implication physique et mentale est forte, à vous de
     laisser votre trace."

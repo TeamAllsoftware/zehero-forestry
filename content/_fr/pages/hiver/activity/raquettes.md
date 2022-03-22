@@ -26,7 +26,7 @@ page_sections:
   title: Les joies de la montagne pour tous les niveaux
   content: La pratique de la randonnée en raquette permet de partager un moment en
     groupe. Elle consiste donc à marcher dans la neige molle ou dure, en s’aidant
-    de bâton de marche doté de rondelle. Il existe aujourd’hui des chemins balisés
+    de bâtons de marche dotés de rondelle. Il existe aujourd’hui des chemins balisés
     afin de réaliser des parcours en totale autonomie. Sinon, un accompagnateur vous
     accompagne afin de vous amener dans les lieux les plus jolis, les plus préservés
     et vous parlez des secrets de la montagne.
@@ -40,7 +40,7 @@ page_sections:
 - template: textarea
   content: La balade en raquette est une activité qui permet de diversifier son séjour
     en montagne. Contrairement au ski, vous n'avez pas à payer un forfait. Vous avez
-    donc besoin uniquement du matériel et de vêtement adaptés à cette pratique.
+    donc besoin uniquement du matériel et de vêtements adaptés à cette pratique.
   title: ''
 - template: liststyle01
   title: 'L''équipement '
@@ -61,15 +61,15 @@ page_sections:
   captionabovetitle: Découvrir l'effort physique et la montagne
   title: De quelques heures aux longues randonnées
   gridline1title: Les différentes utilités des raquettes
-  gridline1content: La randonnée en raquette va être dédié à une famille voulant faire
-    une petite balade en forêt. Tout comme à des randonneurs expérimentés, s'aventurant
+  gridline1content: La randonnée en raquette va être dédiée à une famille voulant
+    faire une petite balade en forêt. Tout comme à des randonneurs expérimentés, s'aventurant
     à la journée en montagne. On retrouvera aussi parfois des snowboardeurs, évoluant
     en raquettes, grimpant un sommet pour savourer la descente.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080312/website/winter/mael-balland-MXJ3QUxhNrY-unsplash_popvon.jpg
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080311/website/winter/else-marie-de-leeuw-Y9PrWAYlwVo-unsplash_yeipbi.jpg
   gridline2title: A la recherche de liberté et d'évasion
-  gridline2content: Aujourd'hui, beaucoup cherchent de plus en plus ce moment d'évasion
-    liée à l'effort. La raquette est une activité parfaite pour passer un moment agréable
+  gridline2content: Aujourd'hui, nombreux sont les personnes cherchant ce moment d'évasion
+    lié à l'effort. La raquette est une activité parfaite pour passer un moment agréable
     seul, en famille, en couple ou entre amis. Que ce soit sous les rayons du soleil
     ou sous la neige, la montagne se découvre à tout temps.
   prlax_alt_text_for_image: photo des jambes et des pieds avec des raquettes à neige

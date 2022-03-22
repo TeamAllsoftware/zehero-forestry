@@ -17,16 +17,16 @@ image01_alt: Groupe de personne faisant du canyoning
 categorie: Eaux vives
 page_sections:
 - template: textarea
-  title: Qu'est ce que le canyoning ?
+  title: Qu'est-ce que le canyoning ?
   content: "Vivez une expérience outdoor incroyable ainsi que des sensations fortes
     dans des cadres naturels magnifiques. Le canyoning, c'est une activité d'eau qui
-    permet à avancer le long d'une rivière, dans des gorges, des cascades, un torrent.
+    permet d'évoluer le long d'une rivière, dans des gorges, des cascades, un torrent.
     Cela se fera par la marche, la nage, l'escalade, des descentes en toboggans naturels,
-    des sauts ainsi que des descentes en rappel ou tyrolienne crées par le moniteur.
+    des sauts ainsi que des descentes en rappel ou tyroliennes créés par le moniteur.
     \ \nUn sport de sensation et de plein air qui permet de partager un moment en
-    groupe et dans des lieux uniques. Selon les canyons, certaines seront beaucoup
-    plus difficiles que d'autre avec des sauts et des rappels parfois très hauts.
-    Certains seront, à l'inverse, beaucoup facile et plus adapté à des enfants ou
+    groupe et dans des lieux uniques. Selon les canyons, certaines voies seront beaucoup
+    plus difficiles que d'autres avec des sauts et des rappels parfois très hauts.
+    Certaines seront, à l'inverse, plus faciles et plus adaptées à des enfants ou
     des personnes désirant seulement faire une randonnée aquatique avec quelques sauts
     et glissades."
 - template: 2colimgtxt
@@ -63,13 +63,15 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642516880/website/summer/pexels-julia-volk-6152738_q30qqg.jpg
   captiontitleuppercase: Comment se déroule un activité de Canyoning
   title: Plusieurs éléments
-  content: Tout d'abord, vous allez retrouver deux formules. Soit les cours collectifs
-    ou alors vous privatiser le moniteur pour vous seul ou pour un groupe de personne.
-    Selon les canyonings mais aussi des personnes et de l'évolution, la durée peut
-    être de 2h à une demi-journée et parfois à la journée entière. Cela reste tout
-    de même physique et demande beaucoup d'énergie. Les canyons, selon leurs sources,
-    leurs expositions et leurs situations géographiques peuvent être très froids.
-  alt_text_for_image: Vue d'une rivières et de l'eau qui coule avec des trous d'eau
+  content: Tout d'abord, vous allez retrouver deux formules. Soit des cours collectifs,
+    soit des cours privés. Pour ce dernier, un moniteur est privatisé. Vous pouvez
+    ainsi profiter d'un moniteur pour vous seul ou pour un groupe de personne défini.
+    Selon les canyonings mais aussi les personnes et l'évolution, la durée varie entre
+    2h et une demi-journée. Elle peut parfois même s'étendre à la journée entière.
+    Cela reste tout de même physique et demande beaucoup d'énergie. Les canyons, selon
+    leurs sources, leurs expositions et leurs situations géographiques peuvent être
+    très froids.
+  alt_text_for_image: Vue d'une rivière et de l'eau qui coule avec des trous d'eau
   button:
     text_button: ''
     href_button: ''
@@ -90,13 +92,13 @@ page_sections:
   captiontitleuppercase: Où faire du canyoning
   title: Les meilleurs spots de canyoning en France
   content: |-
-    En France on va retrouver un très grand choix de canyoning dans de différentes régions. On va également retrouver beaucoup de canyon pour tous les niveaux, tous les gouts. Vous allez parfois avoir des canyonings magnifiques, mais qui seront moins techniques. Vous aurez aussi des canyonings moins jolis, mais qui seront techniques, exigeants et plus sensationnels.
+    En France on va retrouver un très grand choix de canyoning dans différentes régions. Ces différents canyons correspondront à tous les niveaux et tous les goûts. Vous allez parfois avoir des canyonings magnifiques, mais qui seront moins techniques. Vous aurez aussi des canyonings moins jolis, mais qui seront techniques, exigeants et plus sensationnels.
 
     Vous allez en retrouver par exemple :
 
     * En Corse pour des lieux magiques et des canyonings très réputés
     * En Ardèche pour des canyons plus sauvages et préservés
-    * Dans le Verdon pour ces couleurs sublimes et de belles randonnées aquatiques
+    * Dans le Verdon pour ses couleurs sublimes et de belles randonnées aquatiques
     * Dans les [Alpes-Maritimes ](https://www.ze-hero.com/fr/ete/activites/canyoning-alpes-maritimes)pour des canyonings mixtes
     * Dans les Vosges pour des sensations fortes
     * Dans les Pyrénées pour des canyonings réputés mondialement

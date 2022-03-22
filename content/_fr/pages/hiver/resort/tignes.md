@@ -2,7 +2,7 @@
 layout: layout_resort
 permalink: "/fr/hiver/destinations/tignes"
 redirect_from:
-  - /fr/hiver/destination/tignes
+- "/fr/hiver/destination/tignes"
 language: fr
 season: winter
 topnav_color_text: light
@@ -10,15 +10,15 @@ resort_nameid: tignes
 resort_naming: Tignes
 title: Tignes et ses activités outdoor d'hiver
 meta-title: Activités outdoor à Tignes pour l'hiver
-meta-description: Cette station situé dans la Haute Tarentaise à 2000 m d'altitude est
-  couplé avec Val d'Isère pour créer "l'Espace Killy". Une station sportive de haute
-  altitude au style moderne.
+meta-description: Cette station située dans la Haute Tarentaise à 2000 m d'altitude
+  est couplée avec Val d'Isère pour créer "l'Espace Killy". Une station sportive de
+  haute altitude au style moderne.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640588508/website/resorts/Tignes/tim-arnold-4L_EZk4HG1A-unsplash_w4zb0q.jpg
 image01_alt: Vue des montagnes et des pistes de Tignes en Savoie
 page_sections:
 - template: textarea
-  content: "La station de ski de Tignes est une station situé à 2100m d'altitude.
-    Elle est composée de 5 villages qui sont situé à différents étages :  \n\\- Les
+  content: "La station de ski de Tignes est une station située à 2100m d'altitude.
+    Elle est composée de 5 villages qui sont situés à différents étages :  \n\\- Les
     Brevieres  \n\\- Tignes 1800  \n\\- Le Lavachet  \n\\- Tignes Lac  \n\\- Tignes
     Val Claret\n\nOuverte de Septembre à Mai et même l'été grâce au glacier de la
     grande motte, Tignes offre une incroyable qualité de neige et de piste. Avec l'Espace
@@ -29,9 +29,9 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640588493/website/resorts/Tignes/tim-arnold-ezvv6bj5SsU-unsplash_gp8f2h.jpg
   captiontitleuppercase: Tendance et performance
   title: 'Du ski par excellence '
-  content: Réputé mondialement, Tignes offre une qualité de neige incroyable. Ses
-    pistes sont très bien entretenus et très diverses pour permettre un ski de qualité.
-    On retrouve des remontés mécaniques dernières génération, des complexes sportifs
+  content: Réputée mondialement, Tignes offre une qualité de neige incroyable. Ses
+    pistes sont très bien entretenues et très diverses pour permettre un ski de qualité.
+    On retrouve des remontés mécaniques dernière génération, des complexes sportifs
     ainsi que de nombreux commerces. Avec l'altitude le ski entre les sapins se fera
     rare, mais le ski sera technique.
   alt_text_for_image: Vue de Tignes le lac et de Tignes Val Claret l'hiver sous la
@@ -41,17 +41,17 @@ page_sections:
     href_button: ''
     alt_button: ''
 - template: textarea
-  content: 'Pistes au pied des logements, le domaine s''ouvre à vous avec un panorama
+  content: Pistes au pied des logements, le domaine s'ouvre à vous avec un panorama
     grandiose. Tignes est une station parfaite pour tous les sportifs et skieurs chevronnés
     ainsi que ceux qui veulent skier et faire la fête. Vous trouverez également de
-    très bon restaurants et de nombreux établissement. '
+    très bons restaurants et de nombreux établissements.
   title: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640588471/website/resorts/Tignes/robert-bye-xFunHeSh3kU-unsplash_bdqviq.jpg
   captionleftcontent: La passion du ski
   captionrighttitle: Prenez de l'altitude
   captionrightcontent: Sa qualité de neige est due à son altitude mais également à
-    sa très bonne orientation. Tignes s'est aussi de nombreux stade de slalom, des
+    sa très bonne orientation. Tignes c'est aussi de nombreux stades de slalom, des
     snowpark et un half-pipe, des bordercross, un stade de bosse. Détente, fête, sport,
     ski, gastronomie, chacun pourra trouver son bonheur.
   center_alt_text_for_image: 'Snowboardeur faisant du snowboard sur une piste à Tignes '
@@ -59,7 +59,7 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640588504/website/resorts/Tignes/gaspard-guillod-KhOo3PqkFcA-unsplash_aidvtj.jpg
   captiontitleuppercase: Les différentes activités à Tignes
   title: Le plein de sensation
-  content: Vous trouverez un large choix d'activité et très diverse. Il y aura par
+  content: Vous trouverez un large choix d'activités et très diverses. Il y aura par
     exemple le centre sportif, la plongée sous glace, le chien de traineau, le snowtubing
     la cascade de glace, la motoneige, l'hélicoptère, raquette et VTT. Vous trouverez
     également de la conduite sur glace, de l'ULM, le Bun J ride et bien d'autre encore.
@@ -74,8 +74,9 @@ page_sections:
   title: Tignes
   headline: 18 Ecoles de ski et de snowboard au sein de la station
   content: Vous trouverez de multiples écoles de ski dont certaines seront spécialement
-    anglaises, d'autre spécialisé uniquement dans le snowboard ou le ski de randonnée.
-    Vous trouverez alors tous les disciplines, pour les niveaux et tous les goûts.
+    anglaises, d'autre spécialisées uniquement dans le snowboard ou le ski de randonnée.
+    Vous trouverez alors pour toutes les disciplines, pour les niveaux et tous les
+    goûts.
 - template: textarea
   content: Indépendantes ou Françaises, certaines de ces écoles de ski proposeront
     des cours privés et aussi des cours collectifs. Elles se différencieront par les
@@ -92,8 +93,8 @@ page_sections:
   counter: "23"
 - template: textarea
   title: Les différents magasins de location à Tignes
-  content: "igCertains de ces magasins seront affiliés aux enseignes telles que Sport
-    2000, Skiset, Skimium, Netski etc. Tant dis que d’autres seront indépendants et
+  content: "Certains de ces magasins seront affiliés aux enseignes telles que Sport
+    2000, Skiset, Skimium, Netski etc. Tandis que d’autres seront indépendants et
     proposeront des offres spécifiques. Vous trouverez également des écoles de ski
     disposant de **magasin de location** afin de réserver des cours de ski et de louer
     des skis.\n\nIl y aura donc des magasins de **location ski**, de **location snowboard**

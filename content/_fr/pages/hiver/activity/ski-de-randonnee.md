@@ -39,11 +39,11 @@ page_sections:
     une bonne condition physique. Le dénivelé positif sera exigeant pour vos jambes,
     votre cardio ainsi que pour les bras. La technique de montée s'apprend afin d'être
     plus efficace sur la poussée du bâton et sur les pas en fonction du degré de la
-    pente. Vous apprendrez ensuite à réaliser des conversions qui seront nécessaire
+    pente. Vous apprendrez ensuite à réaliser des conversions qui seront nécessaires
     pour monter en zig-zag.  \nPartez atteindre les sommets afin d'avoir des points
     de vue uniques. Respirez l'air pur, écoutez le silence, admirez la plénitude de
     la montagne vierge et sauvage. Tracez vos propres lignes en hors-piste et profitez
-    du hors-piste pour flotter sur la neige. "
+    du hors-piste pour flotter sur la neige."
   title: ''
 - template: textarea
   textarea: Et je peux en ajouter un au dessus histoire d'ajouter du contenu à ma
@@ -99,7 +99,7 @@ page_sections:
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540484/website/winter/robson-hatsukami-morgan-bkdzvgBB7rQ-unsplash_bnafvq.jpg
   captionrighttitle: Découvrez, progressez, dépassez-vous
   captionrightcontent: Laissez guider par un guide afin de suivre des itinéraires
-    sûres. Il vous permettra de vous accompagner seul ou en groupe, dans les coins
+    sûrs. Il vous permettra de vous accompagner seul ou en groupe, dans les coins
     magiques en fonction des conditions de neige et de météo. Il vous apprendra cette
     pratique mais également les différentes notions à avoir sur la qualité de neige,
     des différentes couches, des risques d'avalanches. Toutes ces informations essentielles,
@@ -110,20 +110,20 @@ page_sections:
 - template: textarea
   title: Plutôt freeride ou collant pipette ?
   content: "Le ski de randonnée est aujourd'hui de plus en plus pratiqué. Vous trouverez
-    alors la pratique de la découverte des grand espace, des itinéraires plaisirs
+    alors la pratique de la découverte des grands espaces, des itinéraires plaisirs
     afin de profiter d'une descente agréable. Mais aussi, ceux qui partiront vers
     des sommets plus engagés, dans des pentes raides, voir plusieurs jours en dormants
     dans des refuges. On y découvre aussi le ski de randonnée de compétition. Du matériel
     ultra-light afin de réaliser des montées, des descentes très rapides. On y retrouve
     parfois des montées sèches, des compétitions qui mixent montées et descentes.
-    Vous avez peut-être déjà entendu parlé de la Pierra Menta ?   \nDiscipline devenu
-    aujourd'hui olympique, elle demande une très forte dépense énergétiques car elle
+    Vous avez peut-être déjà entendu parlé de la Pierra Menta ?  \nDiscipline devenu
+    aujourd'hui olympique, elle demande une très forte dépense énergétique car elle
     très complète et physique."
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883537/website/winter/Montagne-randonnee-blizzard_imccfq.jpg
   captionabovetitle: Physique à la montée, technique à la descente
   title: La montagne pour vous seul
-  gridline1title: Quelque soit votre niveau, ne partez jamais sans le matériel de
+  gridline1title: Quel que soit votre niveau, ne partez jamais sans le matériel de
     sécurité et sans avoir vérifier les conditions
   gridline1content: Le ski de randonnée demande une bonne condition physique à la
     montée et une technique plutôt aguerrie pour la descente. Il nécessite aussi une
@@ -138,9 +138,9 @@ page_sections:
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/jon-flobrant-wElgJTwsibs-unsplash_mo3el7.jpg
   prlax_alt_text_for_image: trois personnes faisant du ski de randonnée et alpinisme
     sur une trace en haute montagne avec du vent
-  grid_1_alt_text_for_image: Deux skieurs de randonné montant à pied dans la montagne
+  grid_1_alt_text_for_image: Deux skieurs de randonnée montant à pied dans la montagne
     avec les skis accrochés au sac
-  grid_2_alt_text_for_image: Une personne faisant du ski de randonné en montant en
+  grid_2_alt_text_for_image: Une personne faisant du ski de randonnée en montant en
     hors-piste dans une pente vierge avec quelques arbres autour de lui
 - template: textarea
   content: "Vous trouverez en France un choix gigantesque de randonnée à faire. Que

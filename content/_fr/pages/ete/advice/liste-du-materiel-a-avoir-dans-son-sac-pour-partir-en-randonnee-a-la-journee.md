@@ -9,7 +9,7 @@ topnav_color_text: light
 title: Liste du matériel à avoir dans son sac pour partir en randonnée à la journée
 permalink: "/fr/ete/conseils/liste-materiel-randonnee"
 redirect_from:
-  - /fr/ete/conseil/liste-materiel-randonnee
+- "/fr/ete/conseil/liste-materiel-randonnee"
 meta-title: 'La liste du matériel à prendre dans son sac de randonnée '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646301630/website/summer/patrick-hendry-lsJsaERGu4c-unsplash_movjar.jpg
 image01_alt: Randonneur marchant en montagne avec un gros sac à dos de randonnée
@@ -20,7 +20,7 @@ page_sections:
 - template: textarea
   title: Le sac de randonnée pour une journée
   content: |-
-    Lorsque nous partons randonner de quelques heures à une journée, il est important d'avoir certains équipement et matériels dans son sac de randonnée. Nous allons voir les indispensables à ne pas oublier ainsi que ceux qui sont nécessaires de les avoir.
+    Lorsque nous partons [randonner ](https://www.ze-hero.com/fr/ete/activites/randonnee-montagne)de quelques heures à une journée, il est important d'avoir certains équipement et matériels dans son sac de randonnée. Nous allons voir les indispensables à ne pas oublier ainsi que ceux qui sont nécessaires de les avoir.
 
     Partir plusieurs jours randonner ou seulement un jour, le sac ne présentera pas le même contenu.
 
@@ -51,6 +51,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: liststyle01
   title: 'Donc si nous résumons, sans compter vos habits que vous portez déjà sur
     vous, on retrouve dans le sac :'
@@ -93,6 +94,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: liststyle01
   title: Ne jamais oublier l'eau et l'alimentation
   item:
@@ -114,6 +116,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: liststyle01
   title: 'Avancer sereinement avec :'
   item:
@@ -140,5 +143,6 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 
 ---

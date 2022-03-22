@@ -22,7 +22,7 @@ page_sections:
   content: |-
     Les cours de surf à [Seignosse ](https://www.ze-hero.com/fr/ete/destination/seignosse)vont pouvoir se faire tout d'abord à différentes plages et spots. Vous allez donc retrouver la plage des Casernes, la plage du Penon, la plage des Bourdaines et la plage des Estagnots.
 
-    Pour trouver un cours de surf à Seignosse, vous allez avoir plusieurs écoles de surf. Elles sont au nombre de 22 et vous allez avoir également des moniteurs de surf indépendant comme Morgan D'Avezac.
+    Pour trouver un cours de surf à Seignosse, vous allez avoir plusieurs écoles de surf. Elles sont au nombre de 22 et vous allez avoir également des moniteurs de surf indépendants comme Morgan D'Avezac.
 
     Apprenez le surf, partez surfer en longboard, en shortboard, en stand-up paddle.
 
@@ -72,9 +72,9 @@ page_sections:
   captiontitleuppercase: Partez surfer à Seignosse
   title: Réservez votre cours de surf à Seignosse
   content: "Réservez votre cours de surf à Seignosse afin d'apprendre et de vous initier
-    à cette discipline de glisse.  \nTrouvez le cours qui vous correspondant, cours
-    collectif ou cours privé à Seignosse.  \nAvec Ze Hero, trouvez le meilleur pour
-    vous et surfez sur les vagues des Landes."
+    à cette discipline de glisse.  \nTrouvez le cours qui vous correspond, cours collectif
+    ou cours privé à Seignosse.  \nAvec Ze Hero, trouvez le meilleur pour vous et
+    surfez sur les vagues des Landes."
   button:
     text_button: ''
     href_button: ''

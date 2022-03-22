@@ -9,7 +9,7 @@ topnav_color_text: light
 title: Les Itinéraires de Trail dans les Alpes Maritimes
 permalink: "/fr/ete/conseils/itineraires-trail-alpes-maritimes"
 redirect_from:
-  - /fr/ete/conseil/itineraires-trail-alpes-maritimes
+- "/fr/ete/conseil/itineraires-trail-alpes-maritimes"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643297082/website/summer/pexels-oliver-schmid-4395510_mdyii0.jpg
 image01_alt: Image de la nature et de la mer et des falaises du massif et de l'Esterel
 button_to_link_to_ze_hero_shop:
@@ -18,13 +18,14 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: textarea
   title: Les itinéraires de trail dans les Alpes Maritimes
-  content: "Afin de vous apporter des idées d'itinéraires de course à pied dans les
-    Alpes Maritimes, nous avons mis en avant plusieurs parcours. Chacun des parcours
-    a été effectué par nos coureurs Ze Hero.  \nNous avons décidé de créer 3 niveaux
-    de parcours de trail :\n\n* Vert\n* Bleu\n* Rouge\n* Noir\n\nLes Alpes Maritimes
-    offrent de choix variés, d'une nature d'exception qui vous permettra de profiter
-    \ pleinement lors de vos sorties sur chacun des parcours. De la mer à la montagne,
-    il n'y a qu'un sentier dans les Alpes maritimes"
+  content: "Afin de vous apporter des idées d'itinéraires de [trail ](https://www.ze-hero.com/fr/ete/activites/trail-running)dans
+    le[s Alpes Maritimes](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes),
+    nous avons mis en avant plusieurs parcours. Chacun des parcours a été effectué
+    par nos coureurs Ze Hero.  \nNous avons décidé de créer 3 niveaux de parcours
+    de trail :\n\n* Vert\n* Bleu\n* Rouge\n* Noir\n\nLes Alpes Maritimes offrent de
+    choix variés, d'une nature d'exception qui vous permettra de profiter  pleinement
+    lors de vos sorties sur chacun des parcours. De la mer à la montagne, il n'y a
+    qu'un sentier dans les Alpes maritimes"
 - template: 2colimgtxt
   title: Itinéraire Trail Le Petit Tour de Théoule
   captiontitleuppercase: VERT
@@ -43,6 +44,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Itinéraire de trail dans l'Esterel
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
     * Distance : 22,3km
@@ -65,6 +67,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Itinéraire de trail dans l'Esterel
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
     * Distance : 5,3km
@@ -83,6 +86,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Itinéraire de trail à Gourdon
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643352682/website/summer/le-trail-de-gordon-1_af2yrh.png
   captiontitleuppercase: BLEU
@@ -103,6 +107,7 @@ page_sections:
     alt_button: ''
   title: Trail de Gourdon
   alt_text_for_image: Itinéraire de trail à Gourdon
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
     * Distance : 24,2km
@@ -125,6 +130,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Itinéraire de trail à Gourdon
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
     * Distance : 14,8km
@@ -147,6 +153,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Itinéraire de trail à Tourrettes sur Loup
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
     * Distance : 26.2km
@@ -169,6 +176,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Itinéraire de trail à Tourrettes-sur-Loup
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
     * Distance : 11,5km
@@ -191,6 +199,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Itinéraire de trail à Gréolières
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
     * Distance : 11.2km
@@ -215,6 +224,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Itinéraire de trail à St Jeannet
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
     * Distance : 18,6km
@@ -237,6 +247,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Itinéraire de trail à Levens
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
     * Distance : 18,6km
@@ -261,6 +272,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Itinéraire de trail à Utelle
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
     * Distance : 12.1km
@@ -283,5 +295,6 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Itinéraire de trail au Mont Vial
+  blockBGcolor: ''
 
 ---

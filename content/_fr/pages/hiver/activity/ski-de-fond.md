@@ -19,10 +19,10 @@ page_sections:
     dans les pays nordiques. C’était à l’époque un moyen de déplacement et c’est aujourd’hui
     une pratique très rependue, devenue ludique, sportive et de partage.  \nLe ski
     de fond se pratique plus facilement que le ski alpin, mais reste technique et
-    difficile selon les parcours et les pratiques. On ne retrouve donc aucunes remontées
-    mécaniques pour cette discipline. On la retrouve généralement dans les stations
+    difficile selon les parcours et les pratiques. On ne retrouve donc aucune remontée
+    mécanique pour cette discipline. On la retrouve généralement dans les stations
     plus basses en altitude et est généralement plus à l’écart du domaine skiable.
-    \ \nLes pistes de ski de fond sont damés spécifiquement et vont comporter deux
+    \ \nLes pistes de ski de fond sont damées spécifiquement et vont comporter deux
     rails parallèles sur le côté de la piste."
   title: ''
 - template: 2colimgtxt
@@ -51,7 +51,7 @@ page_sections:
     physique, plus technique, mais où la recherche de vitesse sera plus importante
     qu'en classique. Son ski présente juste une semelle lisse, mais sera plus rigide
     et plus court que le ski de classique. Il s'exercera, non pas dans les rails,
-    mais sur la piste damé.  \nLa technique ne s'acquiert pas aussi facilement et
+    mais sur la piste damée.  \nLa technique ne s'acquiert pas aussi facilement et
     il sera plus physiquement plus difficile."
   title: Le Skating
 - template: 2colimgtxt
@@ -59,7 +59,7 @@ page_sections:
   captiontitleuppercase: Les grand espaces pour vous
   title: Pour tout le monde et tous les niveaux
   content: Afin de pratiquer le ski de fond, il faut donc avoir le matériel adéquat
-    et il faut payer un forfait à l'entré des différents parcours. Dans certaines
+    et il faut payer un forfait à l'entrée des différents parcours. Dans certaines
     stations, cela est gratuit, mais il y aura peu de choix de parcours. Tout comme
     le ski alpin, vous trouverez différents niveaux de parcours. En effet, il y aura
     des bleues, des rouges et des noires. Ce sont en conséquence la distance qui va
@@ -93,7 +93,7 @@ page_sections:
     * Le Jura avec la station les Rousses, Chapelle les Bois et bien d'autre. C'est le paradis du ski de fond, des kilomètres de piste entourés de sapin
     * Autrans Méaudre dans le Vercors, elle dispose de 180 km de piste
     * La Féclaz en Savoie est un joli terrain de balade avec une vue sur le Mont Blanc
-    * Dans les Vosges, vous trouverez un grand de piste de ski de fond dans les différents domaines
+    * Dans les Vosges, vous trouverez un large choix de pistes de ski de fond dans les différents domaines
     * Les Saisies, sur son plateau elle est dotée d'une très bonne qualité de neige
 - template: cta
   intro: Réservez vos activités ski de fond

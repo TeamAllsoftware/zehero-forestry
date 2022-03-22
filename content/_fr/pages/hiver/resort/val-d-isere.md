@@ -2,7 +2,7 @@
 layout: layout_resort
 permalink: "/fr/hiver/destinations/val-d-isere"
 redirect_from:
-  - /fr/hiver/destination/val-d-isere
+- "/fr/hiver/destination/val-d-isere"
 language: fr
 season: winter
 topnav_color_text: light
@@ -10,14 +10,14 @@ resort_nameid: val_d_isere
 resort_naming: Val D'Isère
 title: Val d'Isère et ses activités outdoor d'hiver
 meta-title: Activités outdoor à Val-d'Isère pour l'hiver
-meta-description: 'Cette station situé dans la Haute Tarentaise à 1850m d''altitude est
-  couplé avec Tignes pour créer "l''Espace Killy". Une station élégante qui accueille
-  un grand nombre de compétition international de ski.  '
+meta-description: 'Cette station située dans la Haute Tarentaise à 1850m d''altitude
+  est couplée avec Tignes pour créer "l''Espace Killy". Une station élégante qui accueille
+  un grand nombre de compétitions internationales de ski.  '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338305/website/resorts/val-d-isere/yann-allegre-jk9B7M0OSnE-unsplash_i5yqk3.jpg
 image01_alt: Vue des montagnes et des pistes de Val d'Isère en Savoie
 page_sections:
 - template: textarea
-  content: La station de ski de Val d'Isère est village authentique et très élégant
+  content: La station de ski de Val d'Isère est un village authentique et très élégant
     situé à 1850m d'altitude. Située dans la Haute Tarentaise, cette station offre
     un panel d'activité, un domaine skiable incroyable et d'un enneigement exceptionnel.
     Vous pourrez glisser sur 146 pistes et un espace de 300km de piste relié à Tignes
@@ -27,14 +27,14 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338319/website/resorts/val-d-isere/kamala-bright-HqknZ4LufDE-unsplash_swsl2n.jpg
   captiontitleuppercase: Enneigement parfait
   title: Hors-piste hors pair
-  content: Considéré comme l'une des meilleures stations de France, elle offre une
+  content: Considérée comme l'une des meilleures stations de France, elle offre une
     qualité de ski haut de gamme, une station de prestige et de charme. Son domaine
     est aussi réputé mondialement pour son hors piste. Vous trouverez également des
     snowpark et bordercross pour tous les amoureux du freestyle.
   alt_text_for_image: 'Rue piétonne de Val d''Isère l''hiver la nuit avec des piétons '
 - template: textarea
   content: La station est un grand village authentique et très élégant. C'est une
-    station où les pistes sont très proches du villages et vous permettes alors de
+    station où les pistes sont très proches du villages et vous permettent alors de
     partir rapidement skis aux pieds.
   title: ''
 - template: 3coltxtimgtxt
@@ -64,7 +64,7 @@ page_sections:
   title: Val d'Isère
   headline: 18 Ecoles de ski et de snowboard au sein de la station
   content: Vous trouverez de multiples écoles de ski dont certaines seront spécialement
-    anglaises, d'autre spécialisé uniquement dans le snowboard ou le ski de randonnée.
+    anglaises, d'autre spécialisées uniquement dans le snowboard ou le ski de randonnée.
     Vous trouverez alors tous les disciplines, pour les niveaux et tous les goûts.
 - template: textarea
   content: Indépendantes ou Françaises, certaines de ces écoles de ski proposeront
