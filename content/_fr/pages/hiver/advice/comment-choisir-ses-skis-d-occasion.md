@@ -90,7 +90,7 @@ page_sections:
 
     La **semelle** : La qualité de la semelle va permettre d’avoir un bon indice du ski et de son usure. Il faut donc vérifier si elle présente des rayures, des accros, des trous. Si le trou est trop important, alors il ne faut pas prendre le ski, car il serait trop fragile et l’eau peut s’infiltrer.
 
-    Les **carres** : Il faut vérifier qu’elles ne présentent aucunes bosses ou fissures afin d’avoir des carres qui restent de qualités. En effet, une carre fragile, c’est un ski qui ne tiendra pas longtemps.
+    Les **carres** : Il faut vérifier qu’elles ne présentent aucunes bosses ou fissures afin d’avoir des carres qui restent de qualité. En effet, une carre fragile, c’est un ski qui ne tiendra pas longtemps.
   title: ''
 - template: imagegallery02
   title: Exemple de ski d'occasion
