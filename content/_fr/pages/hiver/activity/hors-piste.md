@@ -45,17 +45,16 @@ page_sections:
     ou un moniteur peuvent vous expliquer tous ses paramètres lors d'une journée d'encadrement
     en freeride.  \nIl est également important d'avoir systématiques sur soi le matériel
     de sécurité :  \n\\- DVA  \n\\- Pelle  \n\\- Sonde  \nMais aussi un casque et
-    parfois des protection supplémentaires telle qu'une dorsale etc."
+    parfois des protections supplémentaires telle qu'une dorsale etc."
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/go-montgenevre-SRbczzaRQBc-unsplash_lkadef.jpg
   captiontitleuppercase: La liberté
   title: Faire sa trace sur les pentes vierges
-  content: 'Cette pratique demande déjà un niveau de ski important. La technique de
-    glisse en hors-piste est totalement différente de celle sur la piste. Cela va
-    aussi varier en fonction de la qualité de neige. On peut retrouve une poudreuse
-    importante, une neige de printemps, une neige parfois crouté, une neige trafollée.
-    Cela va changer également en fonction du degré de la pente. '
+  content: |-
+    Cette pratique demande déjà un niveau de ski important. La technique de glisse en hors-piste est totalement différente de celle sur la piste. Cela va aussi varier en fonction de la qualité de neige. On peut retrouve une poudreuse importante, une neige de printemps, une neige parfois crouté, une neige trafollée. Cela va changer également en fonction du degré de la pente.
+
+    On retrouve le ski hors piste dès qu'on s'écarte des pistes. Parfois il y a certains hors-piste qui se font facilement, par exemple sous un télésiège ou proche d'une piste, une combe qui rejoint une autre piste également. Il y a également des stations de ski qui mettent des zones spécialement dédiées au hors piste qui sont indiquées sur le plan des pistes du domaine skiable.
   alt_text_for_image: Snowboardeur faisant du snowboard freeride face à un sommet
     en montagne
   button:
@@ -64,10 +63,10 @@ page_sections:
     alt_button: ''
   blockBGcolor: ''
 - template: textarea
-  content: |-
-    On retrouve le ski hors piste dès qu'on s'écarte des pistes. Parfois il y a certains hors-piste qui se font facilement, par exemple sous un télésiège ou proche d'une piste, une combe qui rejoint une autre piste également. Il y a également des stations de ski qui mettent des zones spécialement dédiées au hors piste qui sont indiquées sur le plan des pistes du domaine skiable.
-
-    Sinon il faut parfois marcher après avoir pris une remontée mécanique, continuer soit à pied soit en ski de randonnée. Certains ski de freeride vont avoir une fixation de randonnée ainsi qu'une peau adaptée à leurs dimensions. Cela dans le but plutôt de faire de marche d'approche que de la randonnée pure.
+  content: Sinon il faut parfois marcher après avoir pris une remontée mécanique,
+    continuer soit à pied soit en ski de randonnée. Certains ski de freeride vont
+    avoir une fixation de randonnée ainsi qu'une peau adaptée à leurs dimensions.
+    Cela dans le but plutôt de faire de marche d'approche que de la randonnée pure.
   title: ''
 - template: textarea
   content: |-

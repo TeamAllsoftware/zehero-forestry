@@ -22,14 +22,16 @@ page_sections:
   title: Le surf
   content: "Le surf, c'est le fait de glisser sur un vague en étant debout sur une
     planche. Aujourd'hui c'est une activité qui a énormément évolué et est très rependue
-    sur la côte Atlantique surtout dans les Landes et le pays Basque ainsi que dans
-    la Bretagne.  \nCette activité est une pratique physique. En effet il est nécessaire
-    de \"ramer\" avec la force de ses bras afin de prendre une vague. Le même mouvement
-    est requis pour se repositionner et affronter les prochaines vagues. En France
-    avec les bancs de sables et les baïnes, le surf nécessite également d'avoir des
-    connaissances au niveau de ces éléments.\n\nC'est une activité de glisse qui demande
-    une bonne condition physique, de l'équilibre et une connaissance spécifique de
-    l'environnement dans lequel on évolue."
+    sur la côte Atlantique surtout dans les [Landes ](https://www.ze-hero.com/fr/ete/destinations/les-landes)et
+    le [Pays Basque](https://www.ze-hero.com/fr/ete/destinations/pays-basque) ainsi
+    que dans la [Bretagne](https://www.ze-hero.com/fr/ete/destinations/loire-atlantique).
+    \ \nCette activité est une pratique physique. En effet il est nécessaire de \"ramer\"
+    avec la force de ses bras afin de prendre une vague. Le même mouvement est requis
+    pour se repositionner et affronter les prochaines vagues. En France avec les bancs
+    de sables et les baïnes, le surf nécessite également d'avoir des connaissances
+    au niveau de ces éléments.\n\nC'est une activité de glisse qui demande une bonne
+    condition physique, de l'équilibre et une connaissance spécifique de l'environnement
+    dans lequel on évolue."
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642605798/website/summer/victoria-palacios-scIXeTCipZA-unsplash_dhmqlq.jpg
   captiontitleuppercase: Le surf pour tout le monde

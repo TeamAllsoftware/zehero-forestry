@@ -15,13 +15,15 @@ engage: Accompagnement et progression en course à pied et Trail
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294098/website/Coaching/IMG_20200723_153328_iufidi.jpg
 image01_alt: Deux coureurs sur les crêtes du Cheiron lors d'un entraînement de trail
   dans les pré alpes d'Azur
-categorie: Eaux vives
+categorie: Running / Trail
 page_sections:
 - template: textarea
-  content: Si vous pratiquez la course à pied sur route, le trail running et que vous
-    désirez trouver un groupe d’entraînement encadré par un coach, vous trouverez
-    différentes offres à Antibes et dans les Alpes Maritimes. Afin de pouvoir **progresser**
-    au sein d’un groupe d’entraînement, Ze Hero va proposer, par ses coachs de course
+  content: Si vous pratiquez la course à pied sur route, le [trail running](https://www.ze-hero.com/fr/ete/activites/trail-running)
+    et que vous désirez trouver un groupe d’entraînement encadré par un coach, vous
+    trouverez différentes offres à [Antibes ](https://www.ze-hero.com/fr/ete/destinations/antibes)et
+    dans les[ Alpes Maritimes](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes).
+    Afin de pouvoir [**progresser** ](https://www.ze-hero.com/fr/ete/conseils/comment-debuter-trail)au
+    sein d’un groupe d’entraînement, Ze Hero va proposer, par ses coachs de course
     à pied, différentes séances de trail et de running.
   title: Coaching trail et course à pied à Antibes
 - template: textarea

@@ -19,21 +19,22 @@ categorie: Surf
 page_sections:
 - template: textarea
   title: Surfer à St Brévin les Pins
-  content: "St Brévin les pins est un lieu parfait pour apprendre à surfer. Si vous
-    venez séjourner dans la Loire-Atlantique et que vous aimerez vous initier au surf,
-    vous êtes au bon endroit. Avec ses 8km de plages de sable, la nature offre des
-    spots parfaits pour apprendre le surf.  \nLes plages de St Brévin les pins vont
-    permettre aux débutants d'apprendre à surfer et ensuite se perfectionner sur les
-    vagues. Les vagues y sont plus faciles à prendre, moins puissantes et seront plutôt
-    longues. Tout cela combiné vous permettra de réussir à surfer et d'apprendre correctement.
-    On retrouvera également quelques spots où les bancs de sable vont former des vagues
-    beaucoup plus puissante et donc réserver pour des personnes expertes en surf."
+  content: "[St Brévin les pins](https://www.ze-hero.com/fr/ete/destinations/st-brevin-les-pins)
+    est un lieu parfait pour apprendre à surfer. Si vous venez séjourner dans la [Loire-Atlantique](https://www.ze-hero.com/fr/ete/destinations/loire-atlantique)
+    et que vous aimerez vous initier au surf, vous êtes au bon endroit. Avec ses 8km
+    de plages de sable, la nature offre des spots parfaits pour apprendre le [surf](https://www.ze-hero.com/fr/ete/activites/surf).
+    \ \nLes plages de St Brévin les pins vont permettre aux débutants d'apprendre
+    à surfer et ensuite se perfectionner sur les vagues. Les vagues y sont plus faciles
+    à prendre, moins puissantes et seront plutôt longues. Tout cela combiné vous permettra
+    de réussir à surfer et d'apprendre correctement. On retrouvera également quelques
+    spots où les bancs de sable vont former des vagues beaucoup plus puissante et
+    donc réserver pour des personnes expertes en surf."
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624275/website/Surf%20Atlantic/DSC_1440_ruy2qd.jpg
   captiontitleuppercase: Apprendre à Surfer
   title: Les écoles de surf à ST Brévin les Pins
   content: |-
-    Il existe plusieurs écoles de Surf à St Brévin les pins. Vous trouverez différentes écoles de surf si vous désirez apprendre le surf pour la 1re fois, que vous désirez progresser sur les vagues, vous perfectionner et avoir un meilleur niveau.
+    Il existe plusieurs écoles de [Surf à St Brévin les pins](https://www.ze-hero.com/fr/ete/activites/ecole-surf-st-brevin-les-pins). Vous trouverez différentes écoles de surf si vous désirez apprendre le surf pour la 1re fois, que vous désirez progresser sur les vagues, vous perfectionner et avoir un meilleur niveau.
 
     À St Brévin les pins, vous retrouverez deux écoles surf dont Atlantic surf Academy. Chacune de ses écoles proposerons des cours de surf privé, des cours de surf collectifs. Vous trouverez donc des séances de surf à la carte, mais aussi des stages de plusieurs jours et des stages de surf se déroulant uniquement le week-end. Il sera possible de prendre des cours de surf par pack de 10 par exemple.
 
@@ -76,7 +77,7 @@ page_sections:
   content: |-
     Chacune des écoles de surf de St Brévin les pins permettront la location de matériel de surf. C'est-à-dire que vous retrouverez les planches de surf pour tous les niveaux, des leashs, ainsi que les combinaisons courtes ou longues. Si vous prenez des cours de surf, vous pourrez venir soit avec votre équipement, soit l'avoir directement sur place.
 
-    Il existe aussi d'autre shop à St Brévin les pins qui proposeront la location de matériel et d'équipement de surf.
+    Il existe aussi d'autre shop à St Brévin les pins qui proposeront la [location ](https://www.ze-hero.com/fr/ete/activites/location-surf-loire-atlantique)de matériel et d'équipement de surf.
 button_to_link_to_ze_hero_shop:
   button_text: Réserver un cours de surf
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=21%2F11%2F2021

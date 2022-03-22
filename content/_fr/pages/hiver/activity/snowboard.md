@@ -58,7 +58,7 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: |-
-    Le snowboard, à la différence du ski, nécessite des boots pour sa pratique. Elles sont beaucoup plus confortables et vous pouvez alors marcher plus facilement avec. Afin de pouvoir rider et être maintenu sur la planche, les boots seront fixées aux fixations du snowboard. Vous trouverez aujourd'hui différents types de fixation et aussi différentes en fonction des marques.
+    Le snowboard, à la différence du ski, nécessite des boots pour sa pratique. Elles sont beaucoup plus confortables et vous pouvez alors marcher plus facilement avec. Afin de pouvoir rider et être maintenu sur la planche, les [boots ](https://www.ze-hero.com/fr/hiver/conseils/boots-snowboard)seront fixées aux fixations du snowboard. Vous trouverez aujourd'hui différents types de fixation et aussi différentes en fonction des marques.
 
     Le snowboard est un sport physique et il demande d'avoir une bonne condition musculaire. En effet, il faudra avoir sur votre planche de la souplesse, de l'agilité, de l'impulsivité. Mais également un bon renforcement musculaire au niveau des jambes, des abdominaux et des lombaires.
 
