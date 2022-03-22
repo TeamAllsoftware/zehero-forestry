@@ -46,7 +46,7 @@ page_sections:
     avez un contrôle et très bon niveau de pratique, le risque peut venir des autres.
     Il est alors important de toujours avoir un œil sur les lieux critiques, sur les
     personnes qui perdent le contrôle. Si vous êtes au Snowpark, il est important
-    d'être sûre que personne n'est derrière la bosse. Les personnes s'asseyant derrière
+    d'être sûr que personne n'est derrière la bosse. Les personnes s'asseyant derrière
     une bute prennent un risque d'avoir un accident car personne ne peut les voir
     d'en haut.
   alt_text_for_image: Panneau de signalisation de danger en ski
