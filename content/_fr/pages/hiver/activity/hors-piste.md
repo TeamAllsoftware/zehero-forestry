@@ -99,8 +99,8 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: "Plongez dans l'univers majestueux du hors-piste, apprenez à connaitre
-    la montagne, ses pentes, sa neige et ses risques.   \nProgressez techniquement
-    grâce à un professionnel de la montagne qui sera vous montrez comment skier en
+    la montagne, ses pentes, sa neige et ses risques.  \nProgressez techniquement
+    grâce à un professionnel de la montagne qui sera vous montrer comment skier en
     hors piste dans toutes les neiges et les pentes.\n\nLe freeride vous fera vivre
     un moment inoubliable. L'implication physique et mentale est forte, à vous de
     laisser votre trace."
