@@ -71,7 +71,7 @@ sections:
 - type: heading
   label: French été
 - type: directory
-  path: content/_fr/pages/ete
+  path: content/_fr/pages/ete/racine
   label: Homepages
   create: documents
   match: "**/*"
