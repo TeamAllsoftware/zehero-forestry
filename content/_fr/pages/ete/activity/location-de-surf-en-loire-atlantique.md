@@ -25,7 +25,7 @@ page_sections:
 
     * Pornic
     * La Plaine sur Mer
-    * St Brévin les Pins
+    * [St Brévin les Pins](https://www.ze-hero.com/fr/ete/destinations/st-brevin-les-pins)
     * St Nazaire
     * Pornichet
     * Guérande
