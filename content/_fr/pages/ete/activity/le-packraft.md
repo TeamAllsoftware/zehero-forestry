@@ -12,7 +12,7 @@ baseline: Aventure, sensation et plaisir
 engage: Le packraft est un kayak ultra léger et gonflable.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646983748/website/summer/paxson-woelber-4RD_ixJIJUI-unsplash_1.jpg
 image01_alt: Personne pratiquant le Packraft sur un lac
-categorie: "Eaux vives"
+categorie: Eaux vives
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
@@ -20,7 +20,7 @@ page_sections:
 - template: textarea
   title: Le Packraft
   content: |-
-    Le Packraft est un concept assez récent qui va vous permettre de mixer plusieurs disciplines pour des micros aventures en eaux vives. Vous pourrez en une journée rouler en VTT, ou randonner à pied, et pagayer en packraft. Une nouvelle discipline, une nouvelle activité qui permet d'en mixer plusieurs et de vivre des itinéraires uniques. Que ce soit en eau calme ou en eau vive, vous pourrez pratiquer le packraft.
+    Le Packraft est un concept assez récent qui va vous permettre de mixer plusieurs disciplines pour des micros aventures en eaux vives. Vous pourrez en une journée rouler en [VTT](https://www.ze-hero.com/fr/ete/activites/vtt), ou [randonner à pied](https://www.ze-hero.com/fr/ete/activites/randonnee-montagne), et pagayer en packraft. Une nouvelle discipline, une nouvelle activité qui permet d'en mixer plusieurs et de vivre des itinéraires uniques. Que ce soit en eau calme ou en eau vive, vous pourrez pratiquer le packraft.
 
     Le packraft est une embarcation gonflable de rivière, lac et mer qui ressemble au kayak. Il est très léger (de 2kg à 6kg pour les doubles sièges) et très compact (il se range dans un sac à dos ou une sacoche de selle de vélo) et se gonfle en 5 minutes avec son sac de glonflage. Il se dégonfle également très facilement et rapidement pour se ranger directement dans son sac ultra-compact. Vous pourrez alors le mettre dans votre sac de randonnée. Il est très facile d'utilisation et ne demande pas d'avoir une pratique accrue du kayak pour pouvoir le maîtriser. Par sa taille et son volume, il sera très facilement maniable et sera très stable.
 
