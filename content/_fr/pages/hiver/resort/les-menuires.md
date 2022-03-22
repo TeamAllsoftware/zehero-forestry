@@ -82,8 +82,8 @@ page_sections:
   title: Savoie
   headline: 30 magasins de location de matériel aux Menuires
   content: 'Les différents magasins de location vont se trouver dans les 6 villages
-    des Menuires, ils sont donc disperser. Ils se trouvent prêt des pistes et des
-    autres commerces tel qu''à la Croisette et aux Bruyères. '
+    des Menuires, ils sont donc dispersés. Ils se trouvent près des pistes et des
+    autres commerces tels qu''à la Croisette et aux Bruyères. '
   counter: "30"
 - template: textarea
   title: Les différents magasins de location aux Menuires
