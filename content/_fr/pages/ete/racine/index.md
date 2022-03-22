@@ -114,7 +114,7 @@ page_sections:
     link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
   button_2_more: false
 - template: listServices
-  service: activity
+  service: advice
   blockBGcolor: blanc
   headtitle:
     headline: ZE HERO propose
