@@ -33,11 +33,11 @@ page_sections:
   alt_text_for_image: Plage de galet à Antibes avec la mer et le soleil
 - template: textarea
   content: "Le stade du fort carré est ouvert au public et permet d'avoir une piste
-    récente et très bien entretenu. L'hiver, quelques vagues se forment au fort carré
-    mais aussi vers le cap d'Antibes, ce qui permet aux surfeurs d'enfiler leurs combinaison
-    et de surfer.   \nAntibes est aux portes d'un grand nombre d'activité tel que
-    l'escalade en falaise, le cayonning, le ski et le ski de randonnée l'hiver, le
-    parapente, le VTT ainsi que toutes les activités nautiques."
+    récente et très bien entretenue. L'hiver, quelques vagues se forment au fort carré
+    mais aussi vers le cap d'Antibes, ce qui permet aux surfeurs d'enfiler leurs combinaisons
+    et de surfer.  \nAntibes est aux portes d'un grand nombre d'activités telles que
+    l'escalade en falaise, le canyoning, le ski et le ski de randonnée pendant l'hiver,
+    le parapente, le VTT ainsi que toutes les activités nautiques."
   title: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/anthony-s-I1hzGTtKMgU-unsplash_opyeq6.jpg
