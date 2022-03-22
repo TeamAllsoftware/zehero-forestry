@@ -34,7 +34,7 @@ page_sections:
   alt_text_for_image: 'Rue piétonne de Val d''Isère l''hiver la nuit avec des piétons '
 - template: textarea
   content: La station est un grand village authentique et très élégant. C'est une
-    station où les pistes sont très proches du villages et vous permettes alors de
+    station où les pistes sont très proches du villages et vous permettent alors de
     partir rapidement skis aux pieds.
   title: ''
 - template: 3coltxtimgtxt
