@@ -2,7 +2,7 @@
 layout: layout_resort
 permalink: "/fr/hiver/destinations/meribel"
 redirect_from:
-  - /fr/hiver/destination/meribel
+- "/fr/hiver/destination/meribel"
 language: fr
 season: winter
 topnav_color_text: light
@@ -10,18 +10,18 @@ resort_nameid: meribel
 resort_naming: Méribel
 title: Méribel et ses activités outdoor d'hiver
 meta-title: Activités outdoor à Méribel pour l'hiver
-meta-description: Méribel est composé de plusieurs villages et fait parti du domaine les
-  3 Vallées. Entre le charme des ses villages, cette station sera féérique avec son
-  domaine skiable grandiose, ses forêts de sapin et son architecture.
+meta-description: Méribel est composé de plusieurs villages et fait parti du domaine
+  les 3 Vallées. Entre le charme des ses villages, cette station sera féérique avec
+  son domaine skiable grandiose, ses forêts de sapin et son architecture.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640611880/website/resorts/meribel/spurwing-agency-k_4m9_0PO3Q-unsplash_zjsfry.jpg
 image01_alt: Vue des montagnes à Méribel en Savoie.
 page_sections:
 - template: textarea
-  content: "La station de ski de Méribel est composé de plusieurs villages :  \n\\-
+  content: "La station de ski de Méribel est composée de plusieurs villages :  \n\\-
     Les Allues  \n\\- Méribel Centre  \n\\- Méribel Village  \n\\- Méribel Mottaret
-    \ \nSitué entre 1400m et 1800m d'altitude, Méribel est une station au charme traditionnelle
-    savoyard avec ses chalets en bois et en pierre. Avec les 3 vallées, elle bénéficie
-    du plus grand domaine du monde.  "
+    \ \nSituée entre 1400m et 1800m d'altitude, Méribel est une station au charme
+    traditionnelle savoyard avec ses chalets en bois et en pierre. Avec les 3 vallées,
+    elle bénéficie du plus grand domaine du monde."
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640611854/website/resorts/meribel/antwon-i-bPsY__UVZHA-unsplash_zx4fs5.jpg
