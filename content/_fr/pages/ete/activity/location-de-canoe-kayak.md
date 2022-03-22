@@ -14,7 +14,7 @@ baseline: Location de Canoë Kayak
 engage: Partez à l'aventure en naviguant sur un Kayak ou un Canoë
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588328/website/summer/jeff-isaak-p7nrRdMDebM-unsplash_wxc6gr.jpg
 image01_alt: Femme naviguant dans un canoë kayak sur un lac avec la montagne derrière
-categorie: "Eaux vives"
+categorie: Eaux vives
 page_sections:
 - template: textarea
   content: |-
@@ -90,7 +90,7 @@ page_sections:
 
     ###### Kayak de course
 
-    Restons dans la vitesse avec le kayak de course. Sa forme très étroite et son profil en V le rendent idéal pour fendre l’eau et donc gagner en vitesse. Ils sont naturellement plus instables qu’un kayak de mer et se dirigent grâce à un gouvernail actionné avec les pieds. Le kayak de course est parfaitement adapté à la compétition et est plutôt réservé aux kayakistes chevronnés.
+    Restons dans la vitesse avec le kayak de course. Sa forme très étroite et son profil en V le rende idéal pour fendre l’eau et donc gagner en vitesse. Ils sont naturellement plus instables qu’un kayak de mer et se dirigent grâce à un gouvernail actionné avec les pieds. Le kayak de course est parfaitement adapté à la compétition et est plutôt réservé aux kayakistes chevronnés.
 
     ###### Kayak de pêche
 
