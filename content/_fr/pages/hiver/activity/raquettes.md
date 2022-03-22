@@ -26,7 +26,7 @@ page_sections:
   title: Les joies de la montagne pour tous les niveaux
   content: La pratique de la randonnée en raquette permet de partager un moment en
     groupe. Elle consiste donc à marcher dans la neige molle ou dure, en s’aidant
-    de bâton de marche doté de rondelle. Il existe aujourd’hui des chemins balisés
+    de bâtons de marche dotés de rondelle. Il existe aujourd’hui des chemins balisés
     afin de réaliser des parcours en totale autonomie. Sinon, un accompagnateur vous
     accompagne afin de vous amener dans les lieux les plus jolis, les plus préservés
     et vous parlez des secrets de la montagne.
