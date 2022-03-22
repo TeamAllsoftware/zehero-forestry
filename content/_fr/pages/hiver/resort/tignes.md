@@ -59,7 +59,7 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640588504/website/resorts/Tignes/gaspard-guillod-KhOo3PqkFcA-unsplash_aidvtj.jpg
   captiontitleuppercase: Les différentes activités à Tignes
   title: Le plein de sensation
-  content: Vous trouverez un large choix d'activité et très diverse. Il y aura par
+  content: Vous trouverez un large choix d'activités et très diverses. Il y aura par
     exemple le centre sportif, la plongée sous glace, le chien de traineau, le snowtubing
     la cascade de glace, la motoneige, l'hélicoptère, raquette et VTT. Vous trouverez
     également de la conduite sur glace, de l'ULM, le Bun J ride et bien d'autre encore.
