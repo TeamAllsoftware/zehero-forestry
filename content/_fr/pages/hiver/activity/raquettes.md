@@ -40,7 +40,7 @@ page_sections:
 - template: textarea
   content: La balade en raquette est une activité qui permet de diversifier son séjour
     en montagne. Contrairement au ski, vous n'avez pas à payer un forfait. Vous avez
-    donc besoin uniquement du matériel et de vêtement adaptés à cette pratique.
+    donc besoin uniquement du matériel et de vêtements adaptés à cette pratique.
   title: ''
 - template: liststyle01
   title: 'L''équipement '
