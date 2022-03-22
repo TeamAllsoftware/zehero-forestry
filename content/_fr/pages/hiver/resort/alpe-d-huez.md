@@ -2,7 +2,7 @@
 layout: layout_resort
 permalink: "/fr/hiver/destinations/alpe-d-huez"
 redirect_from:
-  - /fr/hiver/destination/alpe-d-huez
+- "/fr/hiver/destination/alpe-d-huez"
 language: fr
 season: winter
 topnav_color_text: light
@@ -10,18 +10,18 @@ resort_nameid: alpe-d-huez
 resort_naming: Alpe Huez
 title: L'Alpe d'Huez et ses activités outdoor d'hiver
 meta-title: Activités outdoor à l'Alpe d'Huez pour l'hiver
-meta-description: De renommé international, cette station est baigné par le soleil. Situé
-  à 1860m d'altitude, cette station sera un paradis pour tous les sportifs et toutes
-  les familles.
+meta-description: De renommée internationale, cette station est baignée par le soleil.
+  Située à 1860m d'altitude, cette station sera un paradis pour tous les sportifs
+  et toutes les familles.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072447/website/resorts/alpe%20d%27huez/filip-bunkens-iQA5fUR3vHg-unsplash_zwsee6.jpg
 image01_alt: Vue des montagnes à l'Alpe d'Huez, en Isère.
 page_sections:
 - template: textarea
-  content: 'La station de ski de l''Alpe Huez est situé à sur un plateau 1800m d''altitude
-    dans le département de l''Isère. Ses 250km de pistes offre un vaste un domaine
-    d''exception. Cette station profite d''un parfait ensoleillement qui permettra
-    de profiter du soleil tous les jours. Reliée à Oz, Vaujany et Oris en Oisans,
-    son domaine est d''une grande qualité. '
+  content: La station de ski de l'Alpe Huez est située sur un plateau à 1800m d'altitude
+    dans le département de l'Isère. Ses 250km de pistes offrent un vaste domaine d'exception.
+    Cette station profite d'un parfait ensoleillement qui permettra de profiter du
+    soleil tous les jours. Reliée à Oz, Vaujany et Oris en Oisans, son domaine est
+    d'une grande qualité.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640265906/website/resorts/alpe%20d%27huez/robin-goutard-hyRwAIek2Dg-unsplash_i2kkxh.jpg
