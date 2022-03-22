@@ -59,7 +59,7 @@ page_sections:
   captiontitleuppercase: Les grand espaces pour vous
   title: Pour tout le monde et tous les niveaux
   content: Afin de pratiquer le ski de fond, il faut donc avoir le matériel adéquat
-    et il faut payer un forfait à l'entré des différents parcours. Dans certaines
+    et il faut payer un forfait à l'entrée des différents parcours. Dans certaines
     stations, cela est gratuit, mais il y aura peu de choix de parcours. Tout comme
     le ski alpin, vous trouverez différents niveaux de parcours. En effet, il y aura
     des bleues, des rouges et des noires. Ce sont en conséquence la distance qui va
