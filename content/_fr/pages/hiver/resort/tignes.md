@@ -51,7 +51,7 @@ page_sections:
   captionleftcontent: La passion du ski
   captionrighttitle: Prenez de l'altitude
   captionrightcontent: Sa qualité de neige est due à son altitude mais également à
-    sa très bonne orientation. Tignes s'est aussi de nombreux stade de slalom, des
+    sa très bonne orientation. Tignes c'est aussi de nombreux stades de slalom, des
     snowpark et un half-pipe, des bordercross, un stade de bosse. Détente, fête, sport,
     ski, gastronomie, chacun pourra trouver son bonheur.
   center_alt_text_for_image: 'Snowboardeur faisant du snowboard sur une piste à Tignes '
