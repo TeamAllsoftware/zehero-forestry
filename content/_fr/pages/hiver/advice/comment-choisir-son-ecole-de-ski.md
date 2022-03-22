@@ -28,11 +28,11 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641568162/website/Conseil%20/maarten-duineveld-BWI3aaS-_Ao-unsplash_rkervd.jpg
   captiontitleuppercase: Les écoles de ski
   title: Indépendantes, françaises, privées
-  content: Dans certaines stations, ils existent maintenant énormément d'écoles de
-    ski. Chacune proposent des offres et des services différents et donc un moyen
-    de fonctionnement différemment. Elles seront alors parfois spécialisées dans certaines
-    activités en proposant des services de qualité.
-  alt_text_for_image: Arrivé d'un télésiège avec des skieurs d'une groupe de cours
+  content: Dans certaines stations, il existe bien souvent plusieurs écoles de ski.
+    Chacune propose des offres et des services différents et donc un moyen de fonctionnement
+    différent. Elles seront alors parfois spécialisées dans certaines activités en
+    proposant des services de qualité.
+  alt_text_for_image: Arrivée d'un télésiège avec des skieurs d'une groupe de cours
     de ski d'une école de ski
   button:
     text_button: ''
