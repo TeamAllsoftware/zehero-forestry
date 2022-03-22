@@ -3,14 +3,14 @@ layout: layout_advice
 language: fr
 season: summer
 meta-title: Conseil sportif de vélo de route, tous nos séjours
-meta-description: Vous recherchez un séjour ou des activités de vélo de route sur les pentes
-  et cols mythiques des alpes avec une assistance technique et 1 capitaine de route
-  pour 7 cyclistes
+meta-description: Vous recherchez un séjour ou des activités de vélo de route sur
+  les pentes et cols mythiques des alpes avec une assistance technique et 1 capitaine
+  de route pour 7 cyclistes
 topnav_color_text: light
 title: Séjours et activités en vélo de route
 permalink: "/fr/ete/conseils/sejours-activites-velo-de-route"
 redirect_from:
-  - /fr/ete/conseil/sejours-activites-velo-de-route
+- "/fr/ete/conseil/sejours-activites-velo-de-route"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51412717941_e81ab34149_k_svjq0r.jpg
 image01_alt: Vue d'une route de montagne à Méribel avec des cyclistes grimpant en
   vélo de route
@@ -30,13 +30,14 @@ page_sections:
   captiontitleuppercase: Stage à la journée aux alentours de Méribel
   title: Vélo de route à Méribel
   content: |-
-    Rejoignez-nous à Méribel pour une journée de découverte encadrée et sécurisée, journée où la bonne humeur, le partage et les défis seront au rendez-vous.
+    Rejoignez nous à [Méribel ](https://www.ze-hero.com/fr/ete/destinations/meribel)pour une journée de découverte encadrée et sécurisée, journée où la bonne humeur, le partage et les défis seront au rendez-vous.
 
     Niveau : Débutant - Intermédiaire
   button:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
     text_button: 'Réservez '
     alt_button: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   captiontitleuppercase: Séjour à travers les cols de la vallée de Méribel
   content: "Stage de découverte et progression en altitude, venez découvrir nos différentes
@@ -50,6 +51,7 @@ page_sections:
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
     text_button: Réservez
     alt_button: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-de-route-traversee-de-route_onnjic.jpg
   alt_text_for_image: Cycliste grimpant un col dans les préalpes en vélo de route
@@ -63,9 +65,10 @@ page_sections:
     text_button: Réservez
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17206-traversee-des-pre-alpes-en-velo-6-jours-activite-ze-hero
     alt_button: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
-    Le Stage des amoureux des routes de Montagne et des dénivelés. Les cols mythiques des derniers tours de France avec les  paysages alpins hors du commun s’offrent à vous. Il s’agit du stage incontournable pour les pratiquants de vélo de route.
+    Le Stage des amoureux des routes de Montagne et des dénivelés. Les cols mythiques des derniers tours de France avec les paysages alpins hors du commun s’offrent à vous. Il s’agit du stage incontournable pour les pratiquants de vélo de route.
 
     Niveau : Confirmé - Expert
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643967577/website/V%C3%A9lo/IMG_5275_hprxqn.jpg
@@ -76,6 +79,7 @@ page_sections:
     text_button: Réservez
     href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17211-traversee-des-alpes-en-velo-par-les-cols-mythiques-6-jours-activite-ze-hero
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Organisateurs de séjours en vélos de route pour votre plaisir
   content: |-
@@ -97,7 +101,7 @@ page_sections:
 
     Si vous aimez découvrir de nouveaux paysages, entourés d’amoureux de ce sport, et que vous aimez vous dépasser, tout en passant de bons moments les soirs aux repas, ou les fins de journée à l’apéro tout en jouant à la pétanque ou simplement se reposer pour les ascensions des lendemains, alors vous êtes au bon endroit.
 
-    Toutes nos offres “Traversées des Alpes” ont l’hébergement, petit déjeuner, et déjeuner/snack inclus, tarif ne comprenant pas les repas et boissons du soir. Nous avons des offres pour les compagnes ou compagnons non-cyclistes (contactez-nous). En ce qui concerne nos **Stages sur Méribel** à la semaine, nous les proposons sans hébergement pour vous donner plus de flexibilité, cependant nous pouvons vous orienter vers des chalets où vous pourrez être plusieurs **cyclistes** du stage ensemble, ou alors vous conseillez des prestations hôtelières ou appartements en fonction de vos besoins.
+    Toutes nos offres “[Traversées des Alpes](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)” ont l’hébergement, petit déjeuner, et déjeuner/snack inclus, tarif ne comprenant pas les repas et boissons du soir. Nous avons des offres pour les compagnes ou compagnons non-cyclistes ([contactez-nous](https://www.ze-hero.com/fr/contact)). En ce qui concerne nos **Stages sur Méribel** à la semaine, nous les proposons sans hébergement pour vous donner plus de flexibilité, cependant nous pouvons vous orienter vers des chalets où vous pourrez être plusieurs **cyclistes** du stage ensemble, ou alors vous conseillez des prestations hôtelières ou appartements en fonction de vos besoins.
 
     Veuillez trouver les profils types de nos étapes sur chacun des **séjours en vélo de route** proposés. Vous y trouverez les kilométrages proposés et les dénivelés qui peuvent variés suivant les niveaux des uns et des autres.
 - template: 2colimgtxt
@@ -126,6 +130,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "**Oubliez vos appareils photos et concentrez vous sur votre effort**\n\nNous
     nous occupons du reportage photo et nous serons aux endroits stratégiques pour
