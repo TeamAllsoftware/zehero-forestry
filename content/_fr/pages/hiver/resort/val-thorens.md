@@ -31,7 +31,7 @@ page_sections:
   title: 'Plaisir, performance et famille '
   content: Son sommet de la Cime Caron culmine a 3200 m et vous permettra d'avoir
     des descentes de 1300 m de dénivelé négatif. Des descentes qui pourront bien vous
-    faire travailler les cuisses. Vous trouverez de multiples espaces dédiée à toutes
+    faire travailler les cuisses. Vous trouverez de multiples espaces dédiés à toutes
     les pratiques et tous les niveaux. Passant d'un Familypark, au Bordercross, au
     Snowpark, une piste de luge et bien d'autre, il y aura toujours de quoi profiter.
   alt_text_for_image: Station de Val Thorens avec un grand soleil
@@ -45,7 +45,7 @@ page_sections:
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640165708/website/resorts/val-thorens/winter-1285952_1920_llqczc.jpg
   captionleftcontent: Ouverture de Novembre à Mai
   captionrighttitle: Froid, altitude et grand espace
-  captionrightcontent: Cette station vous promet des vacances sportives et de nombreuse
+  captionrightcontent: Cette station vous promet des vacances sportives et de nombreuses
     activités.
   center_alt_text_for_image: Val thorens et le bas de ses pistes avec des départs
     de télésièges
