@@ -38,14 +38,14 @@ page_sections:
     alt_button: ''
   blockBGcolor: ''
 - template: textarea
-  content: "Dès que l'on quitte les pistes sécurisés, nous sommes face à la montagne
+  content: "Dès que l'on quitte les pistes sécurisées, nous sommes face à la montagne
     et donc à des risques plus élevés. La plus courante reste l'avalanche, mais il
     y aussi les crevasses, les barres rocheuses, la météo qui se dégrade. Ces différents
     paramètres sont importants à connaître avant de se lancer en hors-piste. Un guide
-    ou un moniteur peuvent vous expliquer tous ses paramètres lors d'une journée d'encadrement
-    en freeride.  \nIl est également important d'avoir systématiques sur soi le matériel
-    de sécurité :  \n\\- DVA  \n\\- Pelle  \n\\- Sonde  \nMais aussi un casque et
-    parfois des protections supplémentaires telle qu'une dorsale etc."
+    ou un moniteur peuvent vous expliquer tous ces paramètres lors d'une journée d'encadrement
+    en freeride.  \nIl est également important d'avoir systématiquement sur soi le
+    matériel de sécurité :  \n\\- DVA  \n\\- Pelle  \n\\- Sonde  \nMais aussi un casque
+    et parfois des protections supplémentaires telles qu'une dorsale etc."
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/go-montgenevre-SRbczzaRQBc-unsplash_lkadef.jpg
