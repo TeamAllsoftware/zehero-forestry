@@ -27,7 +27,7 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338319/website/resorts/val-d-isere/kamala-bright-HqknZ4LufDE-unsplash_swsl2n.jpg
   captiontitleuppercase: Enneigement parfait
   title: Hors-piste hors pair
-  content: Considéré comme l'une des meilleures stations de France, elle offre une
+  content: Considérée comme l'une des meilleures stations de France, elle offre une
     qualité de ski haut de gamme, une station de prestige et de charme. Son domaine
     est aussi réputé mondialement pour son hors piste. Vous trouverez également des
     snowpark et bordercross pour tous les amoureux du freestyle.
