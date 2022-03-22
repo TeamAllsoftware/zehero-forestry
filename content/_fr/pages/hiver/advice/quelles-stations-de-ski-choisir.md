@@ -126,10 +126,10 @@ page_sections:
   title: Budget
   content: "Forcément, c'est un point important, car il s'agit du prix de votre séjour.
     En fonction des infrastructures, des domaines skiables et des lieux, le prix peut
-    beaucoup évoluer. Il va surtout également beaucoup changé si vous partez pendant
-    les vacances scolaires. C'est dans ces périodes que les prix sont les plus chers.
-    Le meilleur moment pour partir reste janvier parce qu'il fait plutôt froid et
-    on trouve une neige excellente ainsi qu'un beau soleil.   \nEn fonction de la
+    beaucoup évoluer. Il va surtout également beaucoup changer si vous partez pendant
+    les vacances scolaires. C'est dans ces périodes que les prix sont les plus hauts.
+    Le meilleur moment pour partir reste en janvier parce qu'il fait plutôt froid
+    et on trouve une neige excellente ainsi qu'un beau soleil.  \nEn fonction de la
     station et de votre niveau, il est aussi important de voir les activités disponibles
     gratuitement (notamment pour les enfants) et si la station met à disposition des
     zones gratuites pour les débutants."
