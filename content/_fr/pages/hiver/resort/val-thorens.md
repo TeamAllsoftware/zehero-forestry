@@ -2,7 +2,7 @@
 layout: layout_resort
 permalink: "/fr/hiver/destinations/val-thorens"
 redirect_from:
-  - /fr/hiver/destination/val-thorens
+- "/fr/hiver/destination/val-thorens"
 language: fr
 season: winter
 topnav_color_text: light
@@ -10,16 +10,17 @@ resort_nameid: val_thorens
 resort_naming: Val-Thorens
 title: Val-Thorens et ses activités outdoor d'hiver
 meta-title: Activités outdoor à Val-Thorens pour l'hiver
-meta-description: Découvrez cette station de ski perché à 2300m d'altitude dans la vallée
-  des Belleville. Elle fait parti du domaine 3 vallées qui offres 600km de piste.
+meta-description: Découvrez cette station de ski perché à 2300m d'altitude dans la
+  vallée des Belleville. Elle fait parti du domaine 3 vallées qui offres 600km de
+  piste.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640010902/website/resorts/val-thorens/joan-oger-CFntYTHRfRc-unsplash_qzraqh.jpg
 image01_alt: Vue des pistes à la station de ski de Val-Thorens en Savoie, France
 page_sections:
 - template: textarea
   content: La station de Val Thorens est la station la plus haute d'Europe. Elle est
-    situé à 2300m d'altitude. Cela permet d'avoir tout l'hiver une quantité de neige
+    située à 2300m d'altitude. Cela permet d'avoir tout l'hiver une quantité de neige
     idéale pour toute la saison. Elle offre des infrastructures importantes et des
-    remontées mécanique dernières générations. Elu à de multiples reprises "Meilleure
+    remontées mécaniques dernière génération. Elue à de multiples reprises "Meilleure
     station du monde", les pistes seront destinées à tous les adeptes et tous les
     niveaux de ski. Située dans le domaine des 3 Vallées, vous pourrez parcourir 600
     km de piste sans relâche.
