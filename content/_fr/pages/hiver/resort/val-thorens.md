@@ -73,17 +73,16 @@ page_sections:
   title: ''
 - template: textarea
   title: Les différents magasins de location à Val Thorens
-  content: "Il y a beaucoup d’accès aux pistes à Val Thorens, de ce fait, beaucoup
-    de magasins se trouvent près de ces accès. Cela dans le but de faciliter les démarches
-    pour louer vos skis et partir directement. \nCertains de ces shops seront affiliés
-    aux enseignes telles que Sport 2000, Skiset, Skimium etc. Tant dis que d’autres
-    seront indépendants.\n\nVous trouverez des magasins de location ski, de location
-    snowboard pour les  enfants et pour les adultes. \n\nCertains proposeront des
-    offres plus spécialisées et spécifiques avec de la location de matériel haut de
-    gamme, de la location de splitboard, de ski de randonnée et de freeride.\n\nVous
-    trouverez également de la location de raquette et de luge.\n\nN’oubliez pas de
-    bien spécifier vos informations lorsque vous désirez louer votre matériel : niveau
-    poids //  taille // pointure"
+  content: |-
+    Il y a beaucoup d’accès aux pistes à Val Thorens, de ce fait, beaucoup de magasins se trouvent près de ces accès. Cela dans le but de faciliter les démarches pour louer vos skis et partir directement. Certains de ces shops seront affiliés aux enseignes telles que Sport 2000, Skiset, Skimium etc. Tandis que d’autres seront indépendants.
+
+    Vous trouverez des magasins de location ski, de location snowboard pour les  enfants et pour les adultes.
+
+    Certains proposeront des offres plus spécialisées et spécifiques avec de la location de matériel haut de gamme, de la location de splitboard, de ski de randonnée et de freeride.
+
+    Vous trouverez également de la location de raquette et de luge.
+
+    N’oubliez pas de bien spécifier vos informations lorsque vous désirez louer votre matériel : niveau poids //  taille // pointure
 - template: numberinfo
   counter: "19"
   text_refers_to_counter: Magasins de location
