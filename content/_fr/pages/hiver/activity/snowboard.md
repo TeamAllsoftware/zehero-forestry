@@ -43,7 +43,7 @@ page_sections:
 - template: textarea
   content: "Le snowboard présente deux sens en fonction de votre pied avant sur la
     planche.  \nSi votre pied avant est le droit alors vous êtes Goofy.  \nSi votre
-    pied avant est le gauche alors vous êtes Régular.\n\nLorsqu'on change de sens
+    pied avant est le gauche alors vous êtes Regular.\n\nLorsqu'on change de sens
     en ski, on se retrouve en arrière. En snowboard, rider en switch c'est donc changer
     de Goofy à Regular ou inversement."
   title: ''
