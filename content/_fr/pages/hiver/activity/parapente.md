@@ -41,7 +41,7 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: |-
-    Les vols vont durer entre 10 et 30 mn en fonction de la météo et des départs donnés. Le vol biplace vous permettra d’admirer la vue, de vivre une nouvelle expérience, ainsi que des sensations fortes. Les moniteurs en fonction ainsi de votre aisance peuvent vous faire tenir les commandes et réaliser des vols plus sensationnels. Vous pourrez aussi bénéficier de vidéo et de photo qui sont proposées par les moniteurs de parapente.
+    Les vols vont durer entre 10 et 30 mn en fonction de la météo et des départs donnés. Le vol biplace vous permettra d’admirer la vue, de vivre une nouvelle expérience, ainsi que des sensations fortes. Les moniteurs, en fonction de votre aisance, peuvent vous faire tenir les commandes et réaliser des vols plus sensationnels. Vous pourrez aussi bénéficier de vidéos et de photos qui sont proposées par les moniteurs de parapente.
 
     Cette activité est réservée à toutes les personnes de 5 ans à 90 ans.
   title: ''
