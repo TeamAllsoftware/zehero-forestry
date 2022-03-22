@@ -58,21 +58,21 @@ page_sections:
 - template: textarea
   title: Les règles en ski de randonnée
   content: "Outre que les règles de sécurité concernant le hors-piste et la météo,
-    la pratique du ski de randonnée est parfois réalisé dans l'espace du domaine skiable.
-    En effet, il y a de plus en plus de personnes faisant du ski de randonnée sur
-    le bord des pistes.   \nCe qui est important à savoir, c'est que les personnes
+    la pratique du ski de randonnée est parfois réalisée dans l'espace du domaine
+    skiable. En effet, il y a de plus en plus de personnes faisant du ski de randonnée
+    sur le bord des pistes.  \nCe qui est important à savoir, c'est que les personnes
     faisant du ski de randonnée sur les pistes ne sont pas prioritaires. Ce sont les
     personnes usant des remontées mécaniques qui seront prioritaires. De ce fait,
     la montée doit s'effectuer le plus au bord de la piste et en file indienne si
     vous êtes un groupe. Vous devez rester très attentif aux skieurs et snowbordeurs.
-    Les skieurs de randonnées doit assumer entièrement leurs responsabilité dans cette
-    pratique. Si vous devez traverser une piste, attendez d'avoir un maximum de visibilité
-    avant de le faire.  \nIl ne faut pas emprunter les pistes fermées, vous devez
-    respecter le balisage et les indications misent par les pisteurs.  \nSi vous réaliser
-    du ski de randonnée le soir ou avant que le domaine ouvre, vous devez impérativement
-    éviter les pistes qui sont damés avec un treuil. Elles seront soient fermés soit
-    la station met à disposition les informations concernant quelles pistes sont damés
-    via un treuil. C'est un risque de danger de mort."
+    Les skieurs de randonnées doivent entièrement assumer leur responsabilité dans
+    cette pratique. Si vous devez traverser une piste, attendez d'avoir un maximum
+    de visibilité avant de le faire.  \nIl ne faut pas emprunter les pistes fermées,
+    vous devez respecter le balisage et les indications misent par les pisteurs.  \nSi
+    vous réalisez du ski de randonnée le soir ou avant que le domaine ouvre, vous
+    devez impérativement éviter les pistes qui sont damées avec un treuil. Elles seront
+    soient fermées soit la station met à disposition les informations concernant quelles
+    pistes sont damées via un treuil. C'est un risque de danger de mort."
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641974261/website/Conseil%20/bradley-king-3m6vbzY69s4-unsplash_jjtr1b.jpg
   captiontitleuppercase: La montagne en sécurité
