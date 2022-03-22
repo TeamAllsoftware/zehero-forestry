@@ -55,7 +55,7 @@ page_sections:
   title: Les activités à Val Thorens
   content: 'Il y a en pour tout le monde : des balades en raquettes, de la motoneige,
     une tyrolienne, du parapente, karting sur neige, apnée sous glace, cascade de
-    glace, fatbike, luge etc. Il y aura ensuite toutes les différentes école de ski
+    glace, fatbike, luge etc. Il y aura ensuite toutes les différentes écoles de ski
     et snowboard.'
   alt_text_for_image: Val Thorens l'hiver avec la montagne et glacier de Peclet
 - template: numberinfo
