@@ -17,16 +17,16 @@ image01_alt: Groupe de personne faisant du canyoning
 categorie: Eaux vives
 page_sections:
 - template: textarea
-  title: Qu'est ce que le canyoning ?
+  title: Qu'est-ce que le canyoning ?
   content: "Vivez une expérience outdoor incroyable ainsi que des sensations fortes
     dans des cadres naturels magnifiques. Le canyoning, c'est une activité d'eau qui
-    permet à avancer le long d'une rivière, dans des gorges, des cascades, un torrent.
+    permet d'évoluer le long d'une rivière, dans des gorges, des cascades, un torrent.
     Cela se fera par la marche, la nage, l'escalade, des descentes en toboggans naturels,
-    des sauts ainsi que des descentes en rappel ou tyrolienne crées par le moniteur.
+    des sauts ainsi que des descentes en rappel ou tyroliennes créés par le moniteur.
     \ \nUn sport de sensation et de plein air qui permet de partager un moment en
-    groupe et dans des lieux uniques. Selon les canyons, certaines seront beaucoup
-    plus difficiles que d'autre avec des sauts et des rappels parfois très hauts.
-    Certains seront, à l'inverse, beaucoup facile et plus adapté à des enfants ou
+    groupe et dans des lieux uniques. Selon les canyons, certaines voies seront beaucoup
+    plus difficiles que d'autres avec des sauts et des rappels parfois très hauts.
+    Certaines seront, à l'inverse, plus faciles et plus adaptées à des enfants ou
     des personnes désirant seulement faire une randonnée aquatique avec quelques sauts
     et glissades."
 - template: 2colimgtxt
