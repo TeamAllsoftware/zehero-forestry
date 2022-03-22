@@ -41,10 +41,10 @@ page_sections:
     href_button: ''
     alt_button: ''
 - template: textarea
-  content: 'Pistes au pied des logements, le domaine s''ouvre à vous avec un panorama
+  content: Pistes au pied des logements, le domaine s'ouvre à vous avec un panorama
     grandiose. Tignes est une station parfaite pour tous les sportifs et skieurs chevronnés
     ainsi que ceux qui veulent skier et faire la fête. Vous trouverez également de
-    très bon restaurants et de nombreux établissement. '
+    très bons restaurants et de nombreux établissements.
   title: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640588471/website/resorts/Tignes/robert-bye-xFunHeSh3kU-unsplash_bdqviq.jpg
