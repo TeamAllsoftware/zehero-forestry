@@ -2,7 +2,7 @@
 layout: layout_resort
 permalink: "/fr/hiver/destinations/les-menuires"
 redirect_from:
-  - /fr/hiver/destination/les-menuires
+- "/fr/hiver/destination/les-menuires"
 language: fr
 season: winter
 topnav_color_text: light
@@ -10,19 +10,19 @@ resort_nameid: les_menuires
 resort_naming: Les Menuires
 title: Les Menuires et ses activités outdoor d'hiver
 meta-title: Activités outdoor aux Ménuires pour l'hiver
-meta-description: Station conviviale située à 1850m d'altitude, elle offre un domaine de
-  ski incroyable. Conviviale et chaleureuse, elle sera parfaite pour les familles
+meta-description: Station conviviale située à 1850m d'altitude, elle offre un domaine
+  de ski incroyable. Conviviale et chaleureuse, elle sera parfaite pour les familles
   et les sportifs.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640075420/website/resorts/les%20menuires/yann-allegre-dabLvaCrd1M-unsplash_xdjd2l.jpg
 image01_alt: Vue des pistes à la station de ski des Menuires en Savoie, France
 page_sections:
 - template: textarea
-  content: La station de ski Les Menuires est situé dans la vallée des Bellevilles.
-    Ski au pieds devant votre logement, profitez de cette station au tempérament familiale,
-    conviviale et sportive. Plongé dans le domaine Les 3 Vallées, le ski n'aura pas
-    de limite. Une station authentique et contemporaine par son architecture.  Elle
-    offrira un belle ensoleillement et une très bonne qualité de neige par son altitude
-    et sa température.
+  content: La station de ski Les Menuires est située dans la vallée des Bellevilles.
+    Ski aux pieds devant votre logement, profitez de cette station au tempérament
+    familiale, conviviale et sportive. Plongé dans le domaine Les 3 Vallées, le ski
+    n'aura pas de limite. Une station authentique et contemporaine par son architecture.
+    Elle offrira un bel ensoleillement et une très bonne qualité de neige par son
+    altitude et sa température.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
