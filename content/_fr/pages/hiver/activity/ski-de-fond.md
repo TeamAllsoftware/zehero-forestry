@@ -93,7 +93,7 @@ page_sections:
     * Le Jura avec la station les Rousses, Chapelle les Bois et bien d'autre. C'est le paradis du ski de fond, des kilomètres de piste entourés de sapin
     * Autrans Méaudre dans le Vercors, elle dispose de 180 km de piste
     * La Féclaz en Savoie est un joli terrain de balade avec une vue sur le Mont Blanc
-    * Dans les Vosges, vous trouverez un grand de piste de ski de fond dans les différents domaines
+    * Dans les Vosges, vous trouverez un large choix de pistes de ski de fond dans les différents domaines
     * Les Saisies, sur son plateau elle est dotée d'une très bonne qualité de neige
 - template: cta
   intro: Réservez vos activités ski de fond
