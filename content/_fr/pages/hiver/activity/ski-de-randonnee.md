@@ -110,14 +110,14 @@ page_sections:
 - template: textarea
   title: Plutôt freeride ou collant pipette ?
   content: "Le ski de randonnée est aujourd'hui de plus en plus pratiqué. Vous trouverez
-    alors la pratique de la découverte des grand espace, des itinéraires plaisirs
+    alors la pratique de la découverte des grands espaces, des itinéraires plaisirs
     afin de profiter d'une descente agréable. Mais aussi, ceux qui partiront vers
     des sommets plus engagés, dans des pentes raides, voir plusieurs jours en dormants
     dans des refuges. On y découvre aussi le ski de randonnée de compétition. Du matériel
     ultra-light afin de réaliser des montées, des descentes très rapides. On y retrouve
     parfois des montées sèches, des compétitions qui mixent montées et descentes.
-    Vous avez peut-être déjà entendu parlé de la Pierra Menta ?   \nDiscipline devenu
-    aujourd'hui olympique, elle demande une très forte dépense énergétiques car elle
+    Vous avez peut-être déjà entendu parlé de la Pierra Menta ?  \nDiscipline devenu
+    aujourd'hui olympique, elle demande une très forte dépense énergétique car elle
     très complète et physique."
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883537/website/winter/Montagne-randonnee-blizzard_imccfq.jpg
