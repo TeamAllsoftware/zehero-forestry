@@ -10,7 +10,7 @@ topnav_color_text: light
 title: Quelles stations de ski choisir ?
 permalink: "/fr/hiver/conseils/choisir-station-ski"
 redirect_from:
-  - /fr/hiver/conseil/choisir-station-ski
+- "/fr/hiver/conseil/choisir-station-ski"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641994384/website/Conseil%20/ines-alvarez-fdez-F-gfrzSIPZo-unsplash_qkyvuy.jpg
 image01_alt: Vue panoramique des montagnes à st martin de belleville
 button_to_link_to_ze_hero_shop:
@@ -18,11 +18,11 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
 page_sections:
 - template: textarea
-  content: Vous vous posez la question de savoir dans quelle station séjournez afin
-    de profiter du ski, de la montagne, de l’air frai, mais vous ne savez pas où aller.
-    Outre parfois les différences de prix entre certaines stations tel qu'en Tarentaise
-    et celle du Jura par exemple, il y a différents critères à prendre en compte afin
-    de bien choisir votre prochaine destination de ski.
+  content: Vous vous posez la question de savoir dans quelle station séjourner afin
+    de profiter du ski, de la montagne, de l’air frais, mais vous ne savez pas où
+    aller ? Outre parfois les différences de prix entre certaines stations telles
+    qu'en Tarentaise et celle du Jura par exemple, il y a différents critères à prendre
+    en compte afin de bien choisir votre prochaine destination de ski.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641994384/website/Conseil%20/teo-leguay-cwL11264paM-unsplash_xqkfej.jpg
@@ -41,6 +41,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "On peut alors se poser la question de savoir avec qui vous allez séjourner
     en montagne, pour quelle discipline, dans quelle cadre (isolé, charme, moderne...),
@@ -87,6 +88,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Ensuite on retrouve des stations plus sportives pour les personnes cherchant
     des grands domaines skiables. Pour ceux qui souhaitent avoir des stations bénéficiant
@@ -119,6 +121,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Budget
   content: "Forcément, c'est un point important, car il s'agit du prix de votre séjour.
