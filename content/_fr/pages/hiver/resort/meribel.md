@@ -59,12 +59,12 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640611898/website/resorts/meribel/adrien-W_Qx14PIXw8-unsplash_averf1.jpg
   captiontitleuppercase: Des séjours riches en émotions
   title: Les activités à Méribel
-  content: 'Vous trouverez un panel d''activité tel que des balades à cheval, de la
-    raquettes dans le magnifique parc naturel de Tueda. Mais également du ski de fond,
-    de la moto neige, du ski de randonnée, du parapente. Méribel dispose également
-    d''un parc olympique qui compose une piscine, une patinoire, un fitness, un mur
-    d''escalade et un bowling. Pour la détente il y aura également un spa ainsi que
-    des massage et du yoga. '
+  content: Vous trouverez un panel d'activité telles que des balades à cheval, de
+    la raquette dans le magnifique parc naturel de Tueda. Mais également du ski de
+    fond, de la moto neige, du ski de randonnée, du parapente. Méribel dispose également
+    d'un parc olympique qui compose une piscine, une patinoire, un fitness, un mur
+    d'escalade et un bowling. Pour la détente il y aura également un spa ainsi que
+    des massages et du yoga.
   alt_text_for_image: Télésiège lors d'un coucher de soleil sur les pistes de Méribel
   button:
     text_button: ''
