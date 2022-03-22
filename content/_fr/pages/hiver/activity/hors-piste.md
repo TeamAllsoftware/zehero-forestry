@@ -19,8 +19,8 @@ page_sections:
     qui consiste à aller en dehors des pistes balisées, sécurisées. En dehors de ces
     pistes damées, on y retrouve une autre montagne. Que ce soit juste sur le bord
     des pistes ou beaucoup plus loin des remontées mécaniques, nous mettons nos skis
-    en freeride. Le freeride reste une discipline où sont environnement doit être
-    connu par des connaissances approfondies.
+    en freeride. Le freeride reste une discipline où son environnement nécessite des
+    connaissances approfondies.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/sophie-the-laya-yogis-Yf-EC_VWYwY-unsplash_fqd8ow.jpg
