@@ -19,7 +19,7 @@ page_sections:
   content: Le ski alpin est une discipline qui consiste à descendre les pistes de
     ski. Le ski alpin se pratique dans le domaine skiable et sur les pistes balisées.
     Que ce soit pour le loisir, la performance, la découverte d'un domaine ou la compétition,
-    cela demande de la technique et une bonne condition physique.
+    cela demande de la technique et une [bonne condition physique](https://www.ze-hero.com/fr/hiver/conseils/comment-se-pr%C3%A9parer-physiquement-au-ski).
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
@@ -28,7 +28,7 @@ page_sections:
   content: Le ski s'apprend dès 3 ans dans les écoles de ski qui proposent la garderie
     et l'apprentissage du ski. Vous pouvez ensuite, à tout âge, apprendre le ski que
     ce soit en cours collectif ou en cours privé. Chaque domaine skiable sera composé
-    de piste bleu, verte, rouge et noir, qui seront donc synonyme de la difficulté
+    de piste verte, bleue, rouge et noire, qui seront donc synonyme de la difficulté
     de la piste. Le plaisir du ski alpin va varier en fonction de votre style de ski.
   button:
     text_button: ''
