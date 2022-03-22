@@ -35,7 +35,7 @@ page_sections:
   title: Les différents types de Yoga
   content: "Il existe plusieurs types de Yoga, mais voyons tout d'abord en quoi consiste
     le Yoga.  \nLe Yoga va commencer avec les postures physiques. Des postures d'étirement
-    où l'on va étirer les muscules, le corps, les articulations. Mais l'on va également
+    où l'on va étirer les muscles, le corps, les articulations. Mais l'on va également
     se muscler en profondeur, travailler son équilibre en douceur tout en améliorant
     son système cardiaque.  \nLors de la réalisation des postures, on va alors travailler
     sa respiration. Il est très important de savoir correctement respirer, car vous
