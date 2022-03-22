@@ -33,8 +33,8 @@ page_sections:
   captiontitleuppercase: Les lieux en extérieur
   title: Les lieux principaux de coaching sportif à Anrtibes
   content: |-
-    * Le stade du fort carré avec sa piste d’athlétisme, son espace en herbe au milieu et ses escaliers juste à côté. Il y a aussi un chemin qui fait le tour du fort qui est pourvue de bancs. Un lieu parfait pour s’entraîner
-    * Le bord de mer avec les plages en gravier
+    * Le stade du fort carré avec sa piste d’athlétisme, son espace en herbe au milieu et ses escaliers juste à côté. Il y a aussi un chemin qui fait le tour du fort qui est pourvu de bancs. Un lieu parfait pour s’entraîner
+    * Le bord de mer avec ses plages en gravier
     * Vers la plage de la Salis, vous trouverez du matériel de musculation à disposition
     * A Decathlon, il y a disposition un lieu ouvert à tous pour la musculation et le fitness
     * Le Parc de la Valmasque
