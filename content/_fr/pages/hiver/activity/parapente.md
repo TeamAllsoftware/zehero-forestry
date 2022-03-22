@@ -17,8 +17,8 @@ image01_alt: Vol de parapente pendant l'hiver avec des montagnes recouvertes de 
 page_sections:
 - template: textarea
   content: Vivez l’unique expérience de voler au-dessus du domaine skiable et des
-    sommets. Après avoir glissé sur les pistes et admirez les panoramas d’en bas,
-    vous pourrez faire un baptême de parapente l’hiver afin de découvrir les montagnes
+    sommets. Après avoir glissé sur les pistes et admiré les panoramas d’en bas, vous
+    pourrez faire un baptême de parapente l’hiver afin de découvrir les montagnes
     d’au-dessus. Vivez un moment agréable dans les airs en profitant des vues splendides
     des montagnes et des différents sommets. Vous pourrez alors profiter d’un moment
     de calme et d’admiration au-dessus de vos amis en parapente.
