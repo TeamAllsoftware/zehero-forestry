@@ -22,7 +22,7 @@ page_sections:
 
     Quelle école de ski choisir, à quoi faire attention ?
 
-    Nous allons tenter de vous apporter le plus d’éléments possible pour vous aider à décider et à comprendre comment bien choisir. Nos experts école de ski sont eux mêmes client d’école ou bien responsable d’école de ski.
+    Nous allons tenter de vous apporter le plus d’éléments possible pour vous aider à décider et à comprendre comment bien choisir. Nos experts école de ski sont eux mêmes client d’école ou bien responsables d’école de ski.
   title: Choisir son école de ski
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641568162/website/Conseil%20/maarten-duineveld-BWI3aaS-_Ao-unsplash_rkervd.jpg
