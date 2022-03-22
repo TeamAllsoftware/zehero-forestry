@@ -72,9 +72,9 @@ page_sections:
   captiontitleuppercase: Partez surfer à Seignosse
   title: Réservez votre cours de surf à Seignosse
   content: "Réservez votre cours de surf à Seignosse afin d'apprendre et de vous initier
-    à cette discipline de glisse.  \nTrouvez le cours qui vous correspondant, cours
-    collectif ou cours privé à Seignosse.  \nAvec Ze Hero, trouvez le meilleur pour
-    vous et surfez sur les vagues des Landes."
+    à cette discipline de glisse.  \nTrouvez le cours qui vous correspond, cours collectif
+    ou cours privé à Seignosse.  \nAvec Ze Hero, trouvez le meilleur pour vous et
+    surfez sur les vagues des Landes."
   button:
     text_button: ''
     href_button: ''
