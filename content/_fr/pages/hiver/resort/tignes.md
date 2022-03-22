@@ -2,7 +2,7 @@
 layout: layout_resort
 permalink: "/fr/hiver/destinations/tignes"
 redirect_from:
-  - /fr/hiver/destination/tignes
+- "/fr/hiver/destination/tignes"
 language: fr
 season: winter
 topnav_color_text: light
@@ -10,15 +10,15 @@ resort_nameid: tignes
 resort_naming: Tignes
 title: Tignes et ses activités outdoor d'hiver
 meta-title: Activités outdoor à Tignes pour l'hiver
-meta-description: Cette station situé dans la Haute Tarentaise à 2000 m d'altitude est
-  couplé avec Val d'Isère pour créer "l'Espace Killy". Une station sportive de haute
-  altitude au style moderne.
+meta-description: Cette station située dans la Haute Tarentaise à 2000 m d'altitude
+  est couplée avec Val d'Isère pour créer "l'Espace Killy". Une station sportive de
+  haute altitude au style moderne.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640588508/website/resorts/Tignes/tim-arnold-4L_EZk4HG1A-unsplash_w4zb0q.jpg
 image01_alt: Vue des montagnes et des pistes de Tignes en Savoie
 page_sections:
 - template: textarea
-  content: "La station de ski de Tignes est une station situé à 2100m d'altitude.
-    Elle est composée de 5 villages qui sont situé à différents étages :  \n\\- Les
+  content: "La station de ski de Tignes est une station située à 2100m d'altitude.
+    Elle est composée de 5 villages qui sont situés à différents étages :  \n\\- Les
     Brevieres  \n\\- Tignes 1800  \n\\- Le Lavachet  \n\\- Tignes Lac  \n\\- Tignes
     Val Claret\n\nOuverte de Septembre à Mai et même l'été grâce au glacier de la
     grande motte, Tignes offre une incroyable qualité de neige et de piste. Avec l'Espace
