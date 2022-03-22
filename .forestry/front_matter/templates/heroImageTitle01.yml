@@ -2,6 +2,21 @@
 label: heroImageTitle01
 hide_body: true
 fields:
+- type: select
+  name: top
+  label: 1er block de la page ?
+  default:
+  - oui
+  config:
+    required: false
+    options:
+    - oui
+    - non
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
 - name: title
   type: text
   config:

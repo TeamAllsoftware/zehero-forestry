@@ -1,20 +1,18 @@
 ---
 layout: layout_generic
 title: Liste de tous les articles de blog de l'hiver
-meta-title: Activités outdoor, notre liste de tous les articles de blog de l'hiver
-meta-description: Liste de tous les articles de blog outdoor de l'hiver à partager en famille ou entre amis où que vous soyez en France et quelque soit votre niveau
-
-permalink: /fr/hiver/blog
+meta-title: liste de nos articles de blog de l'hiver
+meta-description: Liste de tous les articles de blog outdoor de l'hiver à partager
+  en famille ou entre amis où que vous soyez en France et quelque soit votre niveau
+permalink: "/fr/hiver/blog"
 language: fr
 season: winter
 topnav_color_text: light
 redirect_from:
-    - /fr/blog/
-
+- "/fr/blog/"
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistwinter=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
-
 page_sections:
 - template: heroImage50percentHigh
   title: le blog outdoor de l'hiver

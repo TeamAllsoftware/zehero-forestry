@@ -2,14 +2,14 @@
 layout: layout_advice
 language: fr
 season: winter
-meta-title: Conseil ski, bien choisir votre cours et le niveau qui vous correspond
-meta-description: 'Pas simple de s’évaluer pour choisir le bon cours - Nous avons une fiche
-  conseil qui vous simplifie la vie '
+meta-title: Choisir son cours de ski en fonction de son niveau
+meta-description: 'Pas simple de s’évaluer pour choisir le bon cours - Nous avons
+  une fiche conseil qui vous simplifie la vie '
 topnav_color_text: light
-title: Quels cours de ski et de snowboard et quel niveau choisir ?
+title: Choisir son cours de ski en fonction de son niveau
 permalink: "/fr/hiver/conseils/choisir-niveau-ski-snowboard"
 redirect_from:
-  - /fr/hiver/conseil/choisir-niveau-ski-snowboard
+- "/fr/hiver/conseil/choisir-niveau-ski-snowboard"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641910676/website/winter/daniel-frank-z971mh5y47c-unsplash_fwn0fu.jpg
 image01_alt: Descente d'un skieur dans une piste de ski face à un sommet
 button_to_link_to_ze_hero_shop:
@@ -42,6 +42,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Ensuite on retrouve le niveau 2 pour les personnes qui ont skiés plusieurs
     fois et plusieurs semaines déjà. Ils sauront alors à l'aise sur pistes vertes
@@ -70,6 +71,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Pour les tous petits (dès 3ans) qui n'auront jamais skier, ils vont apprendre
     à glisser et à avancer avec les skis. C'est le 1er niveau pour les enfants qui
@@ -104,6 +106,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Pour le niveau 2, les rideurs vont alors commencer à réaliser les virages
     backside et frontside sur des pistes vertes voir rouge doucement. Ils vont également

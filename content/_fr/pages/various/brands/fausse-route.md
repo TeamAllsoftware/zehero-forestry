@@ -7,9 +7,10 @@ topnav_color_text: dark
 title: Fausse Route
 permalink: "/fr/marques/fausseroute"
 redirect_from:
-  - /fr/marque/fausseroute
-meta-title: Fausse Route, la marque de vêtements 100% laine mérinos pour les aventures outdoor à vélo et en randonnée
-meta-description: Marque de vêtements pour Gentle[wo]man cyclist. Des vêtements aussi à l'aise en velotaf, au bureau qu'en randonnée vélo bikepacking
+- "/fr/marque/fausseroute"
+meta-title: Fausse Route, la marque de vêtements 100% laine mérinos
+meta-description: Marque de vêtements pour Gentle[wo]man cyclist. Des vêtements aussi
+  à l'aise en velotaf, au bureau qu'en randonnée vélo bikepacking
 baseline: Elégant et performant
 engage: Des vêtements 100% laine mérinos pour l'outdoor
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593881/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-20_jny6lv.jpg
@@ -31,6 +32,7 @@ page_sections:
     href_button: https://shop.ze-hero.com/achat-neuf/vetement-neuf/sous-vetement-technique-neuf
     text_button: Acheter maintenant
     alt_button: Consulter les articles Fausse Route dans la boutique en ligne ZE HERO
+  blockBGcolor: ''
 - template: textarea
   title: Un vestiaire élégant et confortable pour gentle[wo]man cyclist
   content: |-
@@ -99,5 +101,8 @@ page_sections:
     text_button: Voir la collection
     href_button: https://shop.ze-hero.com/achat-neuf/vetement-neuf/sous-vetement-technique-neuf
 categorie: ''
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---

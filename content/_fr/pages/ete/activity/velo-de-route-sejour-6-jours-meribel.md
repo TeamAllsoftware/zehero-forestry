@@ -28,11 +28,11 @@ page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643194501/website/V%C3%A9lo/parcours-etoile_ubxtjh.png
   title: 6 jours de vélo
-  content: Ce stage de 6 jours de vélo à Méribel, c'est un total de 466km avec 12
-    464 de dénivelé. Vous retrouverez alors des journées plus sportives que d'autres
-    avec des ascensions raides et difficiles. Vous plongerez dans les décors montagneux
-    avant de découvrir le paysage minéral qui vous conduira enfin les pieds dans le
-    lac d'Annecy.
+  content: Ce stage de 6 jours de vélo à [Méribel](https://www.ze-hero.com/fr/ete/destinations/meribel),
+    c'est un total de 466km avec 12 464 de dénivelé. Vous retrouverez alors des journées
+    plus sportives que d'autres avec des ascensions raides et difficiles. Vous plongerez
+    dans les décors montagneux avant de découvrir le paysage minéral qui vous conduira
+    enfin les pieds dans le lac d'Annecy.
   button:
     text_button: ''
     href_button: ''
@@ -79,7 +79,7 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189946/website/V%C3%A9lo/collage3_vnw1tf.png
   title: Col de la Madeleine
   captiontitleuppercase: Journée 3
-  content: 'Partez grimper le fameux Col de la Madelaine, l’un des cols connus du
+  content: 'Partez grimper le fameux Col de la Madeleine, l’un des cols connus du
     tour de France, frontière entre la Tarentaise et la Maurienne. Après un départ
     de Moutiers, vous rejoindrez ce col et déjeunerez directement sur place. Vous
     repartirez sur Moutiers, avant de remonter sur Méribel. Une journée difficile
@@ -158,7 +158,7 @@ page_sections:
   headline: Séjours de 6 jours de vélo de route à Méribel et en Savoie
   button:
     text_button: Réserver maintenant >
-    href_button: https://shop.ze-hero.com/sejour/sejour-velo-route/13306-sejour-meribel-en-velo-6-jours-activite-ze-hero
+    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero

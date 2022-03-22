@@ -7,9 +7,9 @@ title: Vélo de route
 permalink: "/fr/ete/activites/velo-de-route"
 redirect_from:
 - "/fr/velo-savoie-haute-savoie/"
-meta-title: Sorties vélo de route pour découvrir les cols mythiques de France
-meta-description: A l'assaut des cols mythiques en France, baladez-vous sur les routes
-  et découvrez les plus belles régions en vélo de route
+meta-title: Sorties en vélo de route, parcours et cols
+meta-description: 'A l''assaut des cols mythiques en France : découvrez les plus belles
+  régions en vélo de route'
 baseline: Explorer, rouler et grimper
 engage: Explorez de nouveaux horizons et grimpez les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883618/website/summer/velo-duo-descente-col_bqhfjm.jpg
@@ -33,8 +33,8 @@ page_sections:
     en groupe dans un environnement et un cadre parfois magnifique. C'est une activité
     physique mais en fonction des parcours, elle peut être plus adaptée à des personnes
     désirant des itinéraires moins longs et avec moins de dénivelé. Aller grimper
-    les cols, c'est atteindre des sommets mythiques en vélo et avoir des panoramas
-    grandioses.
+    les cols, c'est atteindre des [sommets mythiques](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)
+    en vélo et avoir des panoramas grandioses.
   alt_text_for_image: Femme faisant du vélo de route dans une montée en direction
     d'un col en montagne
   button:

@@ -21,7 +21,7 @@ page_sections:
 - template: textarea
   title: 'Vélo de route - 6 sorties journée - Méribel '
   content: |-
-    Chez Ze Hero, nous avons créé des sorties vélo journée dans le but de progresser et découvrir les différentes vallées et lacs à Méribel. Entourés des belles montagnes savoyardes et des routes emblématiques qui caractérisent le secteur de Méribel. Nous tenons à offrir la possibilité à chacun de se mesurer à quelques-uns des plus beaux cols des derniers Tours de France. Sans oublier le col devenu mythique : Le col de La Loze et ses passages à plus de 20% de pente.
+    Chez Ze Hero, nous avons créé des sorties vélo journée dans le but de progresser et découvrir les différentes vallées et lacs à [Méribel](https://www.ze-hero.com/fr/ete/destinations/meribel). Entourés des belles montagnes savoyardes et des routes emblématiques qui caractérisent le secteur de Méribel. Nous tenons à offrir la possibilité à chacun de se mesurer à quelques-uns des plus beaux cols des derniers Tours de France. Sans oublier le col devenu mythique : Le col de La Loze et ses passages à plus de 20% de pente.
 
     Nous sommes conscients que 6 jours de vélo ne peuvent convenir à tous pour diverses raisons. Néanmoins, vous restez passionné de vélo et peut être que vous aimeriez vous joindre à nous pour une ou plusieurs sorties vélo journée. C’est la raison pour laquelle nous proposons des options à la journée, avec ou sans location de matériel.
 - template: textarea

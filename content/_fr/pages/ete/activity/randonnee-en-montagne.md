@@ -25,12 +25,12 @@ page_sections:
     animaux et ses sommets. Partir en randonnée, c’est faire une activité physique
     agréable dans un cadre magnifique. C’est également aller dans des lieux inaccessibles
     en voiture, c’est profiter de la nature, pour connaitre la faune et la flore,
-    mais également pour se vider la tête. Elle peut se pratiquer seul ou en groupe,
-    accompagné ou non d’un accompagnateur de moyenne montagne. Dès que vous allez
-    en montagne ou dans les Préalpes, les sentiers seront balisés par des panneaux,
-    vous retrouverez également des marques au sol de peinture par exemple jaune, blanche
-    et rouge pour les GR (grande randonnée) mais aussi des cairns (petite pyramide
-    de pierre faite par l’homme).
+    mais également pour [se vider la tête](https://www.ze-hero.com/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret).
+    Elle peut se pratiquer seul ou en groupe, accompagné ou non d’un accompagnateur
+    de moyenne montagne. Dès que vous allez en montagne ou dans les Préalpes, les
+    sentiers seront balisés par des panneaux, vous retrouverez également des marques
+    au sol de peinture par exemple jaune, blanche et rouge pour les GR (grande randonnée)
+    mais aussi des cairns (petite pyramide de pierre faite par l’homme).
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-krivec-ales-554609_soqspx.jpg
   captiontitleuppercase: Partir randonner avec un guide
@@ -98,6 +98,8 @@ page_sections:
     * un sac à dos avec de l'eau, un pique-nique, une petite trousse de secours
 
     Cela évolue si vous partez pour une itinérance de plusieurs jours. Mais ce sont les éléments de base à avoir. Si vous êtes avec un enfant, n'oubliez pas de transporter également de l'eau pour lui.
+
+    Voici un article qui vous aidera à savoir ce qu'il faut mettre dans [son sac de randonnée à la journée](https://www.ze-hero.com/fr/ete/conseils/liste-materiel-randonnee).
   title: Bien randonner en montagne
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-ian-beckley-2440078_ueovj0.jpg

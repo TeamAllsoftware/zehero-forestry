@@ -1,7 +1,7 @@
 ---
 layout: layout_generic
 title: Toutes les activités de l'été
-meta-title: Activités outdoor, boutique en ligne pour commander des activités de plein air d'été
+meta-title: Activités outdoor et boutique en ligne pour l'été
 meta-description: Toutes les activités outdoor de l'été à partager en famille ou entre amis où que vous soyez en France et quelque soit votre niveau
 
 permalink: /fr/ete/
@@ -10,6 +10,7 @@ season: summer
 topnav_color_text: dark
 page_sections:
 - template: heroImageFull
+  top: oui
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7712_jj6zyy.jpg
   gradient: grad
   headline:

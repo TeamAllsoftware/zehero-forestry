@@ -5,8 +5,8 @@ season: winter
 author: geoffreyarduini
 topnav_color_text: dark
 title: 2022-02-08-2-jours-de-randonnee-raquettes-dans-les-vosges autour-du-hohneck
-post-title: 2 jours de randonnée raquettes dans Les Vosges autour du Hohneck
-meta-title: 2 jours de randonnée raquettes dans Les Vosges autour du Hohneck
+post-title: '2 jours de randonnée raquettes dans les Vosges '
+meta-title: 2 jours de randonnée raquettes dans les Vosges
 meta-description: 'Il est environ 9h lorsque nous atteignons le point de départ de
   notre aventure: Les 3 Fours et la promesse d’une vue spectaculaire sur la Combe
   du Wormspel et le sommet du Hohneck.'

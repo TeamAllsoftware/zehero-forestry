@@ -6,16 +6,16 @@ topnav_color_text: dark
 title: Kayak
 permalink: "/fr/ete/activites/kayak"
 redirect_from:
-  - /fr/ete/activite/kayak
-meta-title: Le kayak est une activité qui permet de partir randonner sur l'eau
-meta-description: Le kayak peut se pratiquer seul, à deux ou trois que ce soit sur des
-  lacs, des rivières comme sur la mer.
-baseline: Naviguez, glisser, profiter
-engage: Explorez et découvrez en glissant sur l'eau
+- "/fr/kayak-savoie-haute-savoie/"
+meta-title: Le kayak, l'activité idéale pour explorer depuis l'eau
+meta-description: " Seul, ou à plusieurs, sur lacs, rivières ou même sur la mer, le
+  kayak vous offre une expérience hors du commun !"
+baseline: Naviguez, glissez, profitez
+engage: Explorez et (re)découvrez en glissant sur l'eau
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588328/website/summer/jeff-isaak-p7nrRdMDebM-unsplash_wxc6gr.jpg
 image01_alt: Randonnée en kayak avec une personne dans un kayak sur un lac face à
   la montagne
-categorie: "Eaux vives"
+categorie: Eaux vives
 page_sections:
 - template: textarea
   content: Le Kayak est une activité qui permet de partir randonner sur des lacs,
@@ -46,6 +46,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883631/website/summer/Kayak-groupe-lac_l1awzz.jpg
   captionabovetitle: Une randonnée rafraichissante
@@ -76,7 +77,8 @@ page_sections:
     \ \nPour finir, vous pourrez partir sur des les rivières et faire du kayak dans
     les gorges de l'Ardeche, les gorges du Tarn, les gorges du Verdon ainsi que dans
     la Roya Vésubie."
-redirect_from:
-- "/fr/kayak-savoie-haute-savoie/"
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: layout_generic
 title: Rejoignez une de nos destinations et réservez votre activité outdoor de l'été
-meta-title: Destinations outdoor dans lesquelles réserver des activités de plein air en été
+meta-title: Destinations outdoor pour réserver vos activités en été
 meta-description: Dans nos destinations d'été vous trouverez les activités de vos prochaines aventures et miro-aventures pour vous dépasser et trouver une satisfaction personnelle immense, que ce soit seule, entre amis ou en famille
 
 permalink: /fr/ete/destinations
