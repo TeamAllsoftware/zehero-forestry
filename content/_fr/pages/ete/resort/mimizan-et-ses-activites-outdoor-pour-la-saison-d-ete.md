@@ -21,7 +21,12 @@ image01_alt: Femmes portant leurs planches de surf au coucher de soleil vers Mim
 button_to_link_to_ze_hero_shop:
   button_text: Réserver votre activité à Mimizan
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
-page_sections: []
-published: false
+page_sections:
+- template: textarea
+  title: Mimizan
+  content: |-
+    Mimizan est une petite ville située dans les Landes, au bord de la côte Atlantique. Un lieu au charme landais pour un séjour familial, calme et dans une nature d'exception.
+
+    Mimizan c'est 10km de plage, c'est le lac d’Aureilhan avec une flore incroyable, c'est également le courant le Mimizan ainsi que la réserve biologique de Malloueyre. Un concentré de nature entre océan, dune, lac, marais, forêts pour un environnement préservé.
 
 ---
