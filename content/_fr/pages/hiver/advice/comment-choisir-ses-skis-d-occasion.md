@@ -104,9 +104,9 @@ page_sections:
   atl_text_image_04: Vue des skis d'occasion Dynastar au niveau des bas des skis
 - template: textarea
   content: "N'hésitez pas à demander plus d'information sur les skis que vous désirez,
-    sur leurs états.  \nUn ski qui aura plus de 5ans sera entre guillemets en fin
-    de vie. Il perdra de sa qualité et de son efficacité. Il est plus judicieux de
-    faire un achat plus récent afin d'avoir des skis de meilleure qualité."
+    sur leur état.  \nUn ski qui aura plus de 5ans sera entre guillemets en fin de
+    vie. Il perdra de sa qualité et de son efficacité. Il est plus judicieux de faire
+    un achat plus récent afin d'avoir des skis de meilleure qualité."
   title: ''
 advice_cat: Matériel
 
