@@ -60,6 +60,28 @@ page_sections:
     Thérapy\" avec l'école Sama Sama, pour des cours plus approfondie et également
     pour un public handicapé.  \nLes cours collectifs de surf à Mimizan vont varier
     de 1h30 à 2h de temps et les groupes seront jusqu'à 8 à 10 personnes."
-published: false
+- template: textarea
+  title: Les cours privés de surf à Mimizan
+  content: |-
+    Les cours privés de surf à Mimizan vous permettent d'avoir un moniteur qui totalement dédié à vous pendant toute la séance. Il vous accompagnera dans l'eau afin d'analyser chacun de vos gestes, de vos mouvements. Il vous permettra alors d'apprendre et de progresser beaucoup plus vite qu'en cours collectif. Pour se perfectionner et pour un cours de surf exclusif, les cours privés sont la formule idéale.
+
+    Les cours privés de surf peuvent être dédiés pour 1 personne, pour 2 personnes et pour 3 personnes maximum.
+
+    A Mimizan, vous trouverez des cours privés dans les écoles de surf mais également avec des moniteurs de surf indépendant.
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647959772/website/resorts/Mimizan/laura-ter-horst-vFeELY7i1kw-unsplash.jpg
+  alt_text_for_image: Chemin de sable sur les plages de Mimizan
+  captiontitleuppercase: Partez surfer à Mimizan
+  title: Réservez votre cours de surf à Mimizan
+  content: "Réservez votre cours de surf à Mimizan afin d'apprendre et de vous initier
+    à cette discipline de glisse. Profitez d'un moment unique dans les vagues et dans
+    un cadre magique.  \nTrouvez le cours qui vous correspond, cours collectif ou
+    cours privé de surf à Mimizan, pour un ou plusieurs jours.  \nAvec Ze Hero, trouvez
+    le meilleur pour vous et surfez sur les vagues de la côte Atlantique."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
