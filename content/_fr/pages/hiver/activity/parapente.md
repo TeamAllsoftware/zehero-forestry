@@ -12,7 +12,7 @@ meta-description: Partez vous envoler au dessus des montagnes enneigées avec un
   en parapente en biplace
 baseline: Découvrir, voler et admirer
 engage: Surplombez les montagnes l'hiver et admirez tous les sommets
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833496/website/assets/Parapente.png
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497764/website/winter/fpvmat-a-6AzbpH7Qg_k-unsplash_moojf5.jpg
 image01_alt: Vol de parapente pendant l'hiver avec des montagnes recouvertes de neige
 page_sections:
 - template: textarea
