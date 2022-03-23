@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12 text-center">
                 {% capture download_note %}{{ block.image_href }}{% endcapture %}
-                <img src="{% include image.html file=download_note sizevar='' width='1460' height='500' %}" alt="{{ block.alt_text_for_image }}" data-no-retina="">
+                <img src="{% include image.html file=download_note sizevar='illustration' width='' height='' %}" alt="{{ block.alt_text_for_image }}" data-no-retina="">
             </div>
         </div>
     </div>
