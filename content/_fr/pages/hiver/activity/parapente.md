@@ -24,6 +24,10 @@ page_sections:
     de calme et d’admiration au-dessus de vos amis en parapente.
   title: ''
   blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833493/website/assets/Paddle.png
+  alt_text_for_image: Test
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497879/website/winter/henry-perks-tkOf9gYWakA-unsplash_icnohc.jpg
   captiontitleuppercase: A pied ou à ski
