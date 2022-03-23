@@ -7,7 +7,7 @@ title: VTT
 permalink: "/fr/ete/activites/vtt"
 redirect_from:
 - "/fr/ete/activite/vtt"
-meta-title: Sortie vélo VTT pour découvrir de nouveaux horizons
+meta-title: Sortie VTT pour découvrir de nouveaux horizons
 meta-description: Pratiquez le VTT pour découvrir des paysages, vivre des descentes
   sensationnelles à travers la nature.
 baseline: Vitesse, sensation et randonnée
@@ -28,6 +28,7 @@ page_sections:
     Mais vous pourrez également réaliser uniquement les descentes en prenant les remontées
     mécaniques à vélo.
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/tim-foster-qrIy8dBzCVU-unsplash_t0p4kh.jpg
   captiontitleuppercase: S'aventurer sur tous les chemins
@@ -66,6 +67,7 @@ page_sections:
     le niveau de la descente. Vous pourrez alors retrouver du bleu, du rouge et du
     noir. Cela vous donnera une bonne indication afin de ne pas plonger dans une noire
     alors que c'est votre 1er fois en VTT. Vous risqueriez de vite descendre du VTT."
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592263/website/summer/pexels-daniel-frank-10883501_bmmpot.jpg
   captionabovetitle: Dépensez vous en vous amusant
@@ -100,6 +102,7 @@ page_sections:
 
     Mais vous allez également retrouver des parcours sublimes dans les Cévennes, dans [l'Esterel ](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes)et vers le Roquebrune, dans le [Mercantour](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes), dans le Jura...
   title: Où en faire ?
+  blockBGcolor: ''
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
