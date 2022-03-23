@@ -16,7 +16,16 @@ image01_alt: Plusieurs personnes pratiquants le rafting sur une rivière
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
-page_sections: []
+page_sections:
+- template: textarea
+  blockBGcolor: blanc
+  title: Le rafting, c'est quoi ?
+  content: |-
+    Le rafting c'est l'activité idéale pour vivre un moment en groupe et faire le plein de sensation forte. Une embarcation gonflable insubmersible qui vous permet de descendre les rivières avec des courants parfois très forts. Ce bateau est très stable et permet d'aller dans les rapides les plus forts et d'accéder à des lieux uniquement possible en rafting. En plus des sensations, de l'expérience sportive, vous allez également découvrir des lieux, des rivières.
+
+    Vous embarquerez aux nombres de 7 personnes ainsi que le moniteur pour un total de 8 personnes sur le bateau.
+
+    Vous découvrirez alors différentes formules en fonction des écoles de Rafting qui seront généralement pour découvrir ou alors pour un moment plus intense et sport.
 published: false
 
 ---
