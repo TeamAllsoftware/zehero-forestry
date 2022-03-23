@@ -34,13 +34,28 @@ page_sections:
   captiontitleuppercase: Pour une expérience unique
   title: Déroulement d'une sortie rafting
   content: Le déroulement d'une sortie rafting demande un peu de préparation. Tout
-    d'abord vous allez vous équiper. Vous serez alors muni d'un casque, d'une combinaison,
-    d'un gilet de sauvetage, d'une pagaie. Suivra ensuite un petit briefing sur les
-    règles de sécurité
+    d'abord vous allez devoir vous équiper. Vous serez alors muni d'un casque, d'une
+    combinaison, d'un gilet de sauvetage, d'une pagaie. Suivra ensuite un petit briefing
+    sur les règles de sécurité, le circuit. Le moniteur de rafting va ensuite répartir
+    les personnes sur le bateau en fonction du poids de chacun afin d'équilibrer au
+    mieux l'embarcation. Il prendra en compte votre motivation, votre implication
+    car chaque personne à un rôle important sur le rafting pour sa bonne navigation.
+    C'est un travail d'équipe alors on doit retrouver une bonne synergie et cohésion
+    afin de vivre un moment agréable mais surtout en sécurité. Les personnes les plus
+    fortes pour pagayer seront devant et le guide sera au à l'arrière et tiendra la
+    barre. Il vous guidera tout au long de la descente en vous indiquant les différents
+    gestes à faire.
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Durant la descente de rafting
+  content: |-
+    Durant la descente de rafting, vous allez devoir rester concentré à l'écoute du moniteur sur les différentes instructions qu'il donnera afin que la navigation se déroule parfaitement. Il emploiera du jargon technique mais il vous l'expliquera en amont. Parfois cela sera aux pagayeurs avant de ramer et parfois uniquement à ceux de l'arrière. Profitez alors de ce moment de sensation et de partage entre les rapides, les virages, les secousses dans des lieux riches et préservés. Vous découvrirez la rivière comme vous l'aurez rarement vue.
+
+    En fonction des lieux, vous pourrez également vous baigner parfois, sauter un petit rocher. De quoi se rafraîchir après une descente bien sportive.
 published: false
 
 ---
