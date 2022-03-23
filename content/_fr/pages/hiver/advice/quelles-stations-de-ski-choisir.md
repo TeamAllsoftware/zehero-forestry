@@ -3,9 +3,7 @@ layout: layout_advice
 language: fr
 season: winter
 meta-title: Conseil ski, bien choisir votre station de ski
-meta-description: Il existe un nombre important de station de ski en France. Mais
-  comment choisir laquelle vous conviendra le mieux ? Cela peut déprendre de beaucoup
-  de critères.
+meta-description: Il existe un nombre important de station de ski en France. Comment choisir celle qui vous conviendra le mieux ?
 topnav_color_text: light
 title: Quelles stations de ski choisir ?
 permalink: "/fr/hiver/conseils/choisir-station-ski"
