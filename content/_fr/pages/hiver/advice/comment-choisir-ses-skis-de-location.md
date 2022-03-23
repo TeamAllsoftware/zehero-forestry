@@ -3,13 +3,13 @@ layout: layout_advice
 language: fr
 season: winter
 meta-title: Conseil ski, comment bien choisir vos skis de location
-meta-description: Tous les critères important afin de savoir comment choisir ses skis et
-  son matériel de location.
+meta-description: Tous les critères importants afin de savoir comment choisir ses
+  skis et son matériel de location.
 topnav_color_text: light
 title: Comment choisir ses skis de location
 permalink: "/fr/hiver/conseils/choisir-ski-location"
 redirect_from:
-  - /fr/hiver/conseil/choisir-ski-location
+- "/fr/hiver/conseil/choisir-ski-location"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Ski-masque-equipement_jppdrj.jpg
 image01_alt: Matériel de ski sur les pistes devant les montagnes
 button_to_link_to_ze_hero_shop:
@@ -34,16 +34,17 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: ''
   content: |-
     __Les skis 1*__ : Ils sont réservés pour des personnes qui n'ont jamais skié et qui sont débutants. Ce sont des skis très maniables pour apprendre à skier.
 
-    __Les skis 2*__ : Ces skis sont réservés pour des personnes qui commencent le skieur souhaitant progresser. Ce sont des skis maniables, avec une accroche limitée.
+    __Les skis 2*__ : Ces skis sont réservés pour des personnes qui commencent, pour le skieur souhaitant progresser. Ce sont des skis maniables, avec une accroche limitée.
 
     __Les skis 3*__ : Ils sont réservés pour des personnes qui ont débuté le ski et qui souhaitent commencer à progresser Ce sont des skis maniables avec une meilleure accroche par rapport à votre niveau. Ce sont des skis qui seront adaptés pour progresser.
 
-    __Les skis 4*__ : Ces skis sont réservés pour les personnes qui ont un niveau de ski plus élevé. Ils sont donc réservés pour des skieurs à l’aise sur tous les terrains et sur des pistes rouge et noir. Ce sont des ski haut de gamme qui sont maniables et très rassurant afin de se faire plaisir en gardant de la vitesse.
+    __Les skis 4*__ : Ces skis sont réservés pour les personnes qui ont un niveau de ski plus élevé. Ils sont donc réservés pour des skieurs à l’aise sur tous les terrains et sur des pistes rouges et noires. Ce sont des skis haut de gamme qui sont maniables et très rassurants afin de se faire plaisir en gardant de la vitesse.
 
     __Les skis 5*__ : Ce sont des skis haut de gamme qui seront réservés pour des skieurs à l’aise sur toutes les pistes et tous les terrains. Ils seront destinés à des skieurs maîtrisant la vitesse, la technique et la puissance.
 - template: 2colimgtxt
@@ -64,6 +65,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Un ski que vous allez louer pour débuter et progresser en début de semaine
     peut en fin de semaine être handicapant pour vous.\n\nCe qui est important également
@@ -94,6 +96,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     "Lorsque vous louez vos skis, il est donc important de bien renseigner

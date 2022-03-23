@@ -2,14 +2,14 @@
 layout: layout_advice
 language: fr
 season: winter
-meta-title: Conseil ski, comment bien choisir votra magasin de ski
-meta-description: Parmi tous les magasins de location, voici les critères afin de le choisir
-  correctement pour répondre à vos besoins pour le ski
+meta-title: Conseil ski, comment bien choisir votre magasin de ski
+meta-description: Parmi tous les magasins de location, voici les critères afin de
+  le choisir correctement pour répondre à vos besoins pour le ski
 topnav_color_text: light
 title: Comment choisir son magasin de location ?
 permalink: "/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
 redirect_from:
-  - /fr/hiver/conseil/comment-choisir-son-magasin-de-location-de-ski-et-snowboard
+- "/fr/choisir-magasin-location-ski/"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641572791/website/Conseil%20/samuel-ferrara-FGEHnEMaZnE-unsplash_hhla21.jpg
 image01_alt: Matériel de ski sur les pistes devant les montagnes
 button_to_link_to_ze_hero_shop:
@@ -30,14 +30,15 @@ page_sections:
     Il peut être intéressant de louer dans le magasin le plus proche de votre hébergement.
     Il faut également vérifier les **horaires** du magasin. Certains magasins sont
     ouverts 7j/7 en non-stop, d’autres magasins ferment durant la journée. En cas
-    de problèmes ou bien échange c’est toujours plus simple d’avoir un magasin ouvert
+    de problème ou bien d'échange c’est toujours plus simple d’avoir un magasin ouvert
     7/7 non-stop. Pour finir, les **feedbacks** des clients du magasin  \nde location
-    de ski."
+    de ski sont un bon indicateur."
   alt_text_for_image: Vue de plusieurs skis posés debout sur un range ski
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Les différents éléments que vous pouvez demander
   content: |-
@@ -45,7 +46,5 @@ page_sections:
     * Vous avez le choix entre magasin avec enseigne (sport 2000, Ski set, Intersport, Skimium, gosport …) ou bien sans enseigne : ce sont généralement des franchises, ce qui est important c’est l’équipe sur place, sauf si vous êtes attachés à une enseigne spécifique.
     * Vous pouvez demander l’année d’achat des skis de location : ce n’est pas toujours noté sur le site.
     * Vous pouvez demander s’il existe un atelier pour l’entretien des skis. Lorsque vous louez un ski, il est important que l’entretien du ski soit effectué après chaque sortie.
-redirect_from:
-- "/fr/choisir-magasin-location-ski/"
 
 ---

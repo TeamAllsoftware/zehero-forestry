@@ -15,7 +15,7 @@ engage: Survolez les montagnes et découvrez les sommets
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/juliette-g-bmBLu_oAEj8-unsplash_ozjgu4.jpg
 image01_alt: Un parapentiste allant décoller avec son parapente avec un coucher de
   soleil
-categorie: "Dans les airs"
+categorie: Dans les airs
 page_sections:
 - template: textarea
   title: Le parapente
@@ -32,10 +32,11 @@ page_sections:
     partir facilement. Le lieu d'atterrissage lui est indiqué bien plus bas sur une
     plateforme dédiée à cela. Les parapentistes vont alors monter soit à pied, soit
     en voiture jusqu'au départ de leurs vols. Une fois dans les airs, le temps de
-    vol dépendra de multiples facteurs. Ils peuvent pour un baptême aller de 10 mn
-    à 40 mn. Des parapentistes, eux peuvent voler des heures en jouant avec les courants
-    d'air chaud et avec une grande maitrise. Voler, faire son baptême de parapente,
-    c'est admirer le paysage, prendre un grand bol d'air et se laisser aller.
+    vol dépendra de multiples facteurs. Ils peuvent, pour un baptême, aller de 10
+    mn à 40 mn. Des parapentistes, eux peuvent voler des heures en jouant avec les
+    courants d'air chaud et avec une grande maitrise. Voler, faire son baptême de
+    parapente, c'est admirer le paysage, prendre un grand bol d'air et se laisser
+    aller.
   alt_text_for_image: Un parapentiste qui va décoller avec son parapente lors d'un
     coucher de soleil
   button:
@@ -46,7 +47,7 @@ page_sections:
 - template: textarea
   title: Le déroulement d'un vol en biplace
   content: "Il faudra alors s'habiller en fonction de la météo et de la température.
-    Nous vous conseillons de venir avec des chaussures types baskets ainsi qu'un pantalon
+    Nous vous conseillons de venir avec des chaussures type baskets ainsi qu'un pantalon
     et une veste type coupe-vent. Une fois au sommet avec le moniteur, celui-ci vous
     fera le briefing de sécurité.  \nVous serez ainsi attaché à votre moniteur et
     vous pourrez enfin commencer à courir avec lui pour décoller dans les airs. À

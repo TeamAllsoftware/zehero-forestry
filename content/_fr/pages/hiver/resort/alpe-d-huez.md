@@ -2,7 +2,7 @@
 layout: layout_resort
 permalink: "/fr/hiver/destinations/alpe-d-huez"
 redirect_from:
-  - /fr/hiver/destination/alpe-d-huez
+- "/fr/hiver/destination/alpe-d-huez"
 language: fr
 season: winter
 topnav_color_text: light
@@ -10,18 +10,18 @@ resort_nameid: alpe-d-huez
 resort_naming: Alpe Huez
 title: L'Alpe d'Huez et ses activités outdoor d'hiver
 meta-title: Activités outdoor à l'Alpe d'Huez pour l'hiver
-meta-description: De renommé international, cette station est baigné par le soleil. Situé
-  à 1860m d'altitude, cette station sera un paradis pour tous les sportifs et toutes
-  les familles.
+meta-description: De renommée internationale, cette station est baignée par le soleil.
+  Située à 1860m d'altitude, cette station sera un paradis pour tous les sportifs
+  et toutes les familles.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072447/website/resorts/alpe%20d%27huez/filip-bunkens-iQA5fUR3vHg-unsplash_zwsee6.jpg
 image01_alt: Vue des montagnes à l'Alpe d'Huez, en Isère.
 page_sections:
 - template: textarea
-  content: 'La station de ski de l''Alpe Huez est situé à sur un plateau 1800m d''altitude
-    dans le département de l''Isère. Ses 250km de pistes offre un vaste un domaine
-    d''exception. Cette station profite d''un parfait ensoleillement qui permettra
-    de profiter du soleil tous les jours. Reliée à Oz, Vaujany et Oris en Oisans,
-    son domaine est d''une grande qualité. '
+  content: La station de ski de l'Alpe Huez est située sur un plateau à 1800m d'altitude
+    dans le département de l'Isère. Ses 250km de pistes offrent un vaste domaine d'exception.
+    Cette station profite d'un parfait ensoleillement qui permettra de profiter du
+    soleil tous les jours. Reliée à Oz, Vaujany et Oris en Oisans, son domaine est
+    d'une grande qualité.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640265906/website/resorts/alpe%20d%27huez/robin-goutard-hyRwAIek2Dg-unsplash_i2kkxh.jpg
@@ -29,22 +29,22 @@ page_sections:
   title: Activités, espace et plaisir
   content: Son sommet le Pic Blanc culmine à 3330m d'altitude, vous pourrez alors
     dévaler des pistes de 2000m de dénivelé négatif. Pour tous les amoureux de la
-    glisse et pour les plus sportifs, vous skierez sur un domaine skiable de 260km
+    glisse et pour les plus sportifs, vous profiterez d'un domaine skiable de 260km
     de piste.
   alt_text_for_image: Piste de ski de l'Alpe d'Huez avec de la neige fraiche et des
     traces de ski et de snowboard
 - template: textarea
   content: 'La station Alpe d''Huez est composée de 3 villages : Huez Village, Alpe
-    d''Huez. En Isère, cette station ensoleillé offre un choix très large d''activité
-    pour toutes les personnes. Vous pourrez profiter d''évènement et de détente dans
+    d''Huez. En Isère, cette station ensoleillée offre un choix très large d''activités
+    pour toutes les personnes. Vous pourrez profiter d''évènements et de détente dans
     un cadre magnifique.'
   title: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640266010/website/resorts/alpe%20d%27huez/Alpes_dhuez_envzu0.jpg
   captionleftcontent: La montagne d'émotions
   captionrighttitle: Chaleureux, détente et sportif
-  captionrightcontent: Elu meilleure station de ski Européenne en 2020, seul, en famille,
-    en couple ou entre amis, profitez d'un séjour incroyable.
+  captionrightcontent: Elue meilleure station de ski Européenne en 2020, seul, en
+    famille, en couple ou entre amis, profitez d'un séjour incroyable.
   center_alt_text_for_image: Vue de la station de ski de l'Alpe d'Huez avec les montagnes
     derrière l'hiver.
 - template: 2colimgtxt
@@ -52,10 +52,10 @@ page_sections:
   captiontitleuppercase: Station art de vivre
   title: Les activités à l'Alpe d'Huez
   content: Vous trouverez alors un escape game, des manèges, du yoga, du ski jöering,
-    un centre spa et détente, des luge sur rail, des balades en raquette, une patinoire.
-    Mais aussi des chiens de traineau, des balades en en hélicoptère en avion, en
-    ULM et en parapente ainsi que des activité mécaniques. Vous retrouverez ensuite
-    toutes les différentes écoles de ski.
+    un centre spa et détente, des luges sur rail, des balades en raquette, une patinoire.
+    Mais aussi des chiens de traineau, des balades en hélicoptère, en ULM et en parapente
+    ainsi que des activités mécaniques. Vous retrouverez ensuite toutes les différentes
+    écoles de ski.
   alt_text_for_image: La station de ski de l'Alpe d'Huez avec les pistes et une mer
     de nuage l'hiver
 - template: numberinfo
@@ -67,9 +67,9 @@ page_sections:
     accompagné en ski de randonnée, chaque école de ski proposera différentes offres.
     Vous retrouverez toutes les activités de glisse, encadrées par des moniteurs.
 - template: textarea
-  content: 'Que ce soit des écoles indépendantes ou l''ESF, chacune propose des services
-    et des offres différentes. Que ce soit pour des cours collectifs ou privées, vous
-    retrouverez des services pour tous les niveaux et tous les âges. '
+  content: Que ce soit des écoles indépendantes ou l'ESF, chacune propose des services
+    et des offres différentes. Que ce soit pour des cours collectifs ou privés, vous
+    retrouverez des services pour tous les niveaux et tous les âges.
   title: ''
 - template: numberinfo
   text_refers_to_counter: Magasins de location
@@ -83,7 +83,7 @@ page_sections:
 - template: textarea
   title: Les différents magasins de location à l'Alpe Huez
   content: "Certains de ces magasins seront affiliés aux enseignes telles que Sport
-    2000, Skiset, Skimium, Netski etc. Tant dis que d’autres seront indépendants et
+    2000, Skiset, Skimium, Netski etc. Tandis que d’autres seront indépendants et
     proposeront des offres spécifiques. Vous trouverez également des écoles de ski
     disposant de **magasin de location** afin de réserver des cours de ski et de louer
     des skis.\n\nIl y aura donc des magasins de **location ski**, de **location snowboard**

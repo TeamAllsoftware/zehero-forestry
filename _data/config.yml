@@ -250,6 +250,8 @@ img:
   blogposthero: c_fill,w_1300,h_800/f_auto
 #blog post image content
   blog_width: w_900/f_auto
+#image WIDE 
+  illustration: w_1460/f_auto
 #image gallery style 2
   bigsquare: c_fill,w_800,h_803/f_auto
   rectangle: c_fill,w_800,h_387/f_auto

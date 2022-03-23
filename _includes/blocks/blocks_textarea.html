@@ -1,11 +1,11 @@
 <!-- start section -->
-<section class="p-0 margin-3-rem-tb">
+<section class="p-0 margin-3-rem-tb {% if block.blockBGcolor == 'gris' %} bg-light-gray {% endif %}">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10">
                 <div class="row">
                     <div class="col-12 last-paragraph-no-margin wow animate__fadeIn">
-                        <h2 class="h2 alt-font text-extra-dark-gray font-weight-500 margin-20px-bottom">{{ block.title }}</h2>
+                        {% if block.title == '' %}{% else %}<h2 class="h2 alt-font text-extra-dark-gray font-weight-500 margin-20px-bottom">{{ block.title }}</h2>{% endif %}
                         {{ block.content | markdownify }}
                         
                     </div>

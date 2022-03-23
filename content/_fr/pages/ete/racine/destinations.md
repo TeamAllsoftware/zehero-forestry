@@ -2,20 +2,24 @@
 layout: layout_generic
 title: Rejoignez une de nos destinations et réservez votre activité outdoor de l'été
 meta-title: Destinations outdoor pour réserver vos activités en été
-meta-description: Dans nos destinations d'été vous trouverez les activités de vos prochaines aventures et miro-aventures pour vous dépasser et trouver une satisfaction personnelle immense, que ce soit seule, entre amis ou en famille
-
-permalink: /fr/ete/destinations
+meta-description: Dans nos destinations d'été vous trouverez les activités de vos
+  prochaines aventures et miro-aventures pour vous dépasser et trouver une satisfaction
+  personnelle immense, que ce soit seule, entre amis ou en famille
+permalink: "/fr/ete/destinations"
+redirection_from:
+  - /fr/ete/destinations/tignes
 language: fr
 season: summer
 topnav_color_text: light
-
 page_sections:
 - template: heroImage50percentHigh
   title: Montagne, fôret, plage, campagne
   content: des destinations outdoor pour l'été
 - template: 2colTitreTxt
   title: Escarpées, Ensoleillées, Renversantes.
-  content: Chaque destination que nous proposons a ses particularités, des vagues régulières, proximité avec la mer, des espaces de canyoning magnifiques etc. Vous avez le choix de la destination, nous nous occupons de vos activités
+  content: Chaque destination que nous proposons a ses particularités, des vagues
+    régulières, proximité avec la mer, des espaces de canyoning magnifiques etc. Vous
+    avez le choix de la destination, nous nous occupons de vos activités
 - template: listServices
   service: resort
   blockBGcolor: gris
@@ -32,7 +36,7 @@ page_sections:
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image2:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751107/website/Instinct%20Trail/Instinct_trail_femme_collection_hrqsxb.webp
-    alt_text: 
+    alt_text: Une traileuse avec un sac à dos Instinct Trail
     title: Sac à dos<br> de trail
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image3:
@@ -57,7 +61,7 @@ page_sections:
   Button2:
     title: 
     link: 
-  button_2_more: false  
+  button_2_more: false
 - template: heroImageFull
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/juliette-g-bmBLu_oAEj8-unsplash_ozjgu4.jpg
   gradient: non

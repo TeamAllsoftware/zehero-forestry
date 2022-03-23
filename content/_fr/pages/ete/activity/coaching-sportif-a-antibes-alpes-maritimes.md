@@ -26,15 +26,15 @@ page_sections:
     * A la maison
     * En extérieur
 
-    Vous pouvez donc choisir entre réaliser le [**coaching à domicile**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=) ou en [**extérieur**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=). À Antibes et dans les Alpes Maritimes, on profite généralement du soleil et de la température idéale même en hiver. Vous trouverez différents lieux parfait pour retrouver un coach et vous **entraîner**. Que ce soit pour **courir**, pour faire de la **musculation** ou du **renforcement musculaire**, il y a de nombreux espaces qui seront parfaits. Et surtout, vous pourrez profiter d’un cadre idyllique entre mer et montagnes.
+    Vous pouvez donc choisir entre réaliser le [**coaching à domicile**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=) ou en [**extérieur**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=). À Antibes et dans les Alpes Maritimes, on profite généralement du soleil et de la température idéale (même en hiver !). Vous trouverez différents lieux idéals pour retrouver un coach et vous **entraîner**. Que ce soit pour **courir**, pour faire de la **musculation** ou du **renforcement musculaire**, il y a de nombreux espaces propices à la pratique. Et surtout, vous pourrez profiter d’un cadre idyllique entre mer et montagnes.
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294098/website/Coaching/IMG_20201022_150218_ek4t5r.jpg
   alt_text_for_image: Coureur courant dans un coaching sportif sur le littotal d'Antibes
   captiontitleuppercase: Les lieux en extérieur
   title: Les lieux principaux de coaching sportif à Anrtibes
   content: |-
-    * Le stade du fort carré avec sa piste d’athlétisme, son espace en herbe au milieu et ses escaliers juste à côté. Il y a aussi un chemin qui fait le tour du fort qui est pourvue de bancs. Un lieu parfait pour s’entraîner
-    * Le bord de mer avec les plages en gravier
+    * Le stade du fort carré avec sa piste d’athlétisme, son espace en herbe au milieu et ses escaliers juste à côté. Il y a aussi un chemin qui fait le tour du fort qui est pourvu de bancs. Un lieu parfait pour s’entraîner
+    * Le bord de mer avec ses plages en gravier
     * Vers la plage de la Salis, vous trouverez du matériel de musculation à disposition
     * A Decathlon, il y a disposition un lieu ouvert à tous pour la musculation et le fitness
     * Le Parc de la Valmasque
@@ -59,13 +59,13 @@ page_sections:
 - template: textarea
   title: Le coaching trail à Antibes
   content: |-
-    Vous désirez trouver du coaching trail et course à pied à Antibes ?Vous pouvez choisir différentes options pour être coaché à Antibes et vous entraîner en Trail. En fonction de vos objectifs et de vos attentes, vous pourrez vous orienter sur différentes options.
+    Vous désirez trouver du coaching trail et course à pied à Antibes ? Vous pouvez choisir différentes options pour être coaché à Antibes et vous entraîner en Trail. En fonction de vos objectifs et de vos attentes, vous pourrez vous orienter sur différentes options.
 
     ###### Les différents types de coaching
 
     Le **Coaching privé** : Ce sont des séances où le coach sera avec vous tout au long de la séance afin de travailler uniquement avec vous.
 
-    Le **Coaching en groupe** : Ces séances sont motivantes par l’émulsion du groupe et permettent d’avoir plus d’échange, de rencontre. Ce sont généralement des séances à thèmes avec des axes spécifiques à travailler tel que VMA – Seuil – Travail en côte – Proprio – Allures …
+    Le **Coaching en groupe** : Ces séances sont motivantes par l’émulsion du groupe et permettent d’avoir plus d’échange, de rencontre. Ce sont généralement des séances à thèmes avec des axes spécifiques à travailler tels que VMA – Seuil – Travail en côte – Proprio – Allures …
 
     Le **Coaching en ligne** : Le coach prépare votre programme d’entraînement que vous suivez via une application ou google drive. Vous faites un retour de vos séances ensuite afin d’avoir le retour de vos ressentis. C’est le meilleur moyen d’avoir une personne qui vous suit tout au long dans un accompagnement de projet et d’entraînement de trail.
 

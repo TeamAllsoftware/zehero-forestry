@@ -14,7 +14,7 @@ baseline: Balade, randonnée et glisse
 engage: Partez randonner en Stand up paddle sur lac ou sur mer
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121216/website/summer/damir-spanic-yG_kRzUtajU-unsplash_bgrwuc.jpg
 image01_alt: Personne faisant du stand up paddle sur la mer au coucher de soleil
-categorie: "Eaux vives"
+categorie: Eaux vives
 page_sections:
 - template: textarea
   title: Le paddle
@@ -55,7 +55,7 @@ page_sections:
     \ \nAujourd'hui vous pouvez réserver des cours, prendre un moniteur pour des expéditions
     en paddle, des cours de yoga paddle ou simplement aller louer des paddles.\n\nQuoi
     de mieux que d'être au soleil, à ramer et en profitant de la nature et des panoramas.
-    Faite de votre entraînements une pratique ludique, agréable et magnifique à la
+    Faites de vos entraînements une pratique ludique, agréable et magnifique à la
     fois."
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/reynzo-u5vx3Ke0_RM-unsplash_korw9x.jpg

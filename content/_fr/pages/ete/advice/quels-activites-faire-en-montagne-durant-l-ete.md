@@ -8,7 +8,7 @@ topnav_color_text: light
 title: Quelles activités faire en montagne durant l'été
 permalink: "/fr/ete/conseils/activites-montagne-ete"
 redirect_from:
-  - /fr/ete/conseil/activites-montagne-ete
+- "/fr/ete/conseil/activites-montagne-ete"
 meta-title: Les activités en montagne à faire l'été
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643015412/website/summer/clemence-bergougnoux-zLIrNgNzPYs-unsplash_tk4orw.jpg
 image01_alt: Une personne de dos face à la montagne et un lac
@@ -40,7 +40,7 @@ page_sections:
   alt_text_for_image: Femme de dos regardant au loin devant un lac et des sommets
     de montagne avec un grand soleil
   content: |-
-    La randonnée est l'activité phare en montagne. Partir quelques heures, une journée ou même en trek sur plusieurs jours, c'est pénétrer dans l'immensité de cette nature sauvage et incroyable. L'été on y découvre énormément de chemin balisé en jaune (PR), en rouge et blanc (GR) et jaune et rouge (GR de pays) ainsi que d'autre petit sentier pas toujours balisé. Les stations ou villes mettent à disposition des listes de randonnées balisées à faire en fonction des niveaux et des envies. Réserver un accompagnateur de moyenne montagne permet également de partir sur des randonnées et d'avoir plus de connaissances et de notions sur la montagne, la faune, la flore et tout ce qui la compose.
+    La [randonnée ](https://www.ze-hero.com/fr/ete/activites/randonnee-montagne)est l'activité phare en montagne. Partir quelques heures, une journée ou même en trek sur plusieurs jours, c'est pénétrer dans l'immensité de cette nature sauvage et incroyable. L'été on y découvre énormément de chemin balisé en jaune (PR), en rouge et blanc (GR) et jaune et rouge (GR de pays) ainsi que d'autre petit sentier pas toujours balisé. Les stations ou villes mettent à disposition des listes de randonnées balisées à faire en fonction des niveaux et des envies. Réserver un accompagnateur de moyenne montagne permet également de partir sur des randonnées et d'avoir plus de connaissances et de notions sur la montagne, la faune, la flore et tout ce qui la compose.
 
     La randonnée est une activité pour tous, vous pouvez partir quelques heures avec vos enfants vers des lacs, des petits refuges afin d'y boire une grenadine, à la découverte des marmottes... Mais c'est aussi pour les plus sportifs, un moyen d'aller découvrir des sommets, de gravir des cols, des passages techniques et découvrir, loin de la station, des espaces protégés et préserver de l'activité humaine. C'est aller à la recherche du faune sauvage et d'une flore aux milles éclats qui pousse dans des endroits que vous n'aurez jamais soupçonnés.
 
@@ -49,6 +49,7 @@ page_sections:
     text_button: Découvrir +
     href_button: "/fr/ete/activite/randonnee-montagne"
     alt_button: Accéder à la page sur la randonnée
+  blockBGcolor: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0014_d4zlv9.jpg
   alt_text_for_image: Coureur de trail grimpant une pente herbeuse avec beaucoup de
@@ -56,20 +57,21 @@ page_sections:
   captiontitleuppercase: Découvrir en courant
   title: Le trail Running
   content: |-
-    Le trail running est une activité et une discipline pratiquée par énormément de personnes aujourd'hui. En plus d'être un sport de compétition, c'est surtout une activité qui permet de courir en montagne, d'aller plus vite et plus loin, de jouer avec le terrain. Courir c'est se vider la tête, se dépenser, découvrir des lieux, c'est partir loin et vivre des moments intenses.
+    Le [trail running](https://www.ze-hero.com/fr/ete/activites/trail-running) est une activité et une discipline pratiquée par énormément de personnes aujourd'hui. En plus d'être un sport de compétition, c'est surtout une activité qui permet de courir en montagne, d'aller plus vite et plus loin, de jouer avec le terrain. Courir c'est se vider la tête, se dépenser, découvrir des lieux, c'est partir loin et vivre des moments intenses.
 
     Les stations proposent aujourd'hui de plus en plus de parcours dédiés au trail et balisés avec différents niveaux. Mais les parcours sont également tous les sentiers de montagne qui permettent aux coureurs de partir avec des sacs légers et réaliser de longues sorties. Que ce soit seul ou en groupe, le trail est un moment riche en émotions par le partage avec la nature et/ou avec le groupe. Découvrez le trail avec un accompagnateur qui vous amènera dans des lieux uniques et de vous expliquer comment bien courir en montée, en descente et comment bien s'alimenter et s'hydrater.
   button:
     text_button: Découvrir +
     href_button: "/fr/ete/activite/trail-running"
     alt_button: Accéder à la page sur le trail running
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/tim-foster-qrIy8dBzCVU-unsplash_t0p4kh.jpg
   alt_text_for_image: Des VTTistes qui descendent des chemins de forêts en VTT
   captiontitleuppercase: Rouler, sauter, dévaler les sentiers
   title: Le VTT en montagne
   content: |-
-    Durant l'hiver vous dévalez les pistes et vous remontez avec les remontés mécaniques. Durant l'été vous pourrez également prendre les télésièges et télécabines et dévaler les pistes en VTT. Toutes les stations n'offrent pas les mêmes infrastructures pour la pratique du vélo tout-terrain. Mais vous pourrez pratiquer le VTT de descente (DH), l'enduro, des parcs freestyles et des randonnées. Le VTT va s'offrir à tout le monde car vous pourrez être encadré par un moniteur qui vous expliquera comment bien rouler et pratiquer le VTT dans les sentiers en descentes.
+    Durant l'hiver vous dévalez les pistes et vous remontez avec les remontés mécaniques. Durant l'été vous pourrez également prendre les télésièges et télécabines et dévaler les pistes en [VTT](https://www.ze-hero.com/fr/ete/activites/vtt). Toutes les stations n'offrent pas les mêmes infrastructures pour la pratique du vélo tout-terrain. Mais vous pourrez pratiquer le VTT de descente (DH), l'enduro, des parcs freestyles et des randonnées. Le VTT va s'offrir à tout le monde car vous pourrez être encadré par un moniteur qui vous expliquera comment bien rouler et pratiquer le VTT dans les sentiers en descentes.
 
     Tout comme les pistes, vous trouverez des pistes de VTT par couleurs qui vont indiquer la difficulté de la descente. Vous pourrez partir explorer la montagne à vélo tout en faisant le plein de sensation forte à la descente.
 
@@ -78,13 +80,14 @@ page_sections:
     text_button: Découvrir +
     href_button: "/fr/ete/activite/vtt"
     alt_button: Accéder à la page sur le VTT
+  blockBGcolor: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/51384836504_bff6429438_k_mkw8t9.jpg
   alt_text_for_image: Cycliste grimpant une route de col à Méribel
   captiontitleuppercase: La montagne à vélo
   title: Le vélo de route
   content: |-
-    La montagne l'été c'est aussi le moment de monter en selle et partir à l'assaut des cols. Le vélo de route vous permet de découvrir la montagne par ses petites routes, ses cols, en traversant des villages et en passant par des altitudes parfois hautes. C'est une activité idéale pour partager un moment en groupe, dans un effort et de découvrir des lieux et des paysages.
+    La montagne l'été c'est aussi le moment de monter en selle et partir à l'assaut des cols. Le [vélo de route](https://www.ze-hero.com/fr/ete/activites/velo-de-route) vous permet de découvrir la montagne par ses petites routes, ses cols, en traversant des villages et en passant par des altitudes parfois hautes. C'est une activité idéale pour partager un moment en groupe, dans un effort et de découvrir des lieux et des paysages.
 
     Vous pourrez alors grimper des cols mythiques comme le Madelaine, la Loze, le Galibier, le Télégraphe, la Bonette et bien d'autres.
 
@@ -93,22 +96,25 @@ page_sections:
     text_button: Découvrir +
     href_button: "/fr/ete/activite/velo-de-route"
     alt_button: Accéder à la page dédiée au vélo de route
+  blockBGcolor: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/pablo-heimplatz-R4679uf28lY-unsplash_ysyjkx.jpg
   alt_text_for_image: Parapente au dessus des montagnes
   captiontitleuppercase: Explorer les montagnes vue du ciel
   title: Le parapente
   content: En montagne, c'est le parfait d'endroit pour participer à son 1er vol de
-    parapente, pour faire son stage de parapente ou alors de le pratiquer directement.
-    Partir dans les airs, voler au-dessus des sommets des montagnes, avoir le meilleur
-    panorama et voir des sommets situés à des centaines de kilomètres. La pratique
-    du parapente, c'est découvrir la montagne sous un autre angle, c'est vivre des
-    sensations fortes et uniques. Cette activité est surtout possible pour tout le
-    monde et permet de vivre un moment riche en émotion.
+    [parapente](https://www.ze-hero.com/fr/ete/activites/parapente), pour faire son
+    stage de parapente ou alors de le pratiquer directement. Partir dans les airs,
+    voler au-dessus des sommets des montagnes, avoir le meilleur panorama et voir
+    des sommets situés à des centaines de kilomètres. La pratique du parapente, c'est
+    découvrir la montagne sous un autre angle, c'est vivre des sensations fortes et
+    uniques. Cette activité est surtout possible pour tout le monde et permet de vivre
+    un moment riche en émotion.
   button:
     text_button: Découvrir +
     href_button: "/fr/ete/activite/parapente"
     alt_button: Accéder à la page sur le parapente
+  blockBGcolor: ''
 - template: 2colimgtxt
   title: L'escalade
   captiontitleuppercase: Grimper les falaises des montagnes
@@ -124,6 +130,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
   alt_text_for_image: Personne attaché à une corde pratiquant le canyoning dans les
@@ -131,13 +138,14 @@ page_sections:
   captiontitleuppercase: Les activités aquatiques en montagne
   title: Le Canyoning
   content: |-
-    La montagne c'est également des activités d'eau tel que le rafting, l'hydrospeed, le canoë et bien sûr le canyoning. Le canyoning, c'est la pratique où vous découvrir des lieux que vous n'aurez jamais pu accéder. C'est découvrir la force de la nature, explorer les rivières et les cours d'eau des montagnes. C'est vivres des sensations fortes avec les sauts, les toboggans, les descentes en rappels, la marche aquatique. C'est profiter de lieux magnifiques, des roches sculpter par l'eau et le temps, offrant des formes uniques. Le canyoning est une activité pour tous, à partager en groupe. Vous trouverez différents niveaux et donc différents parcours proposer. C'est un bon moyen également de se rafraîchir durant l'été. Vous pouvez soit louer tout votre matériel de canyoning directement dans des magasins, soit lors de votre réservation d'activité, l'avoir directement avec le moniteur de canyoning.
+    La montagne c'est également des activités d'eau tel que le rafting, l'hydrospeed, le [canoë ](https://www.ze-hero.com/fr/ete/activites/kayak)et bien sûr le [canyoning](https://www.ze-hero.com/fr/ete/activites/canyoning). Le canyoning, c'est la pratique où vous découvrir des lieux que vous n'aurez jamais pu accéder. C'est découvrir la force de la nature, explorer les rivières et les cours d'eau des montagnes. C'est vivres des sensations fortes avec les sauts, les toboggans, les descentes en rappels, la marche aquatique. C'est profiter de lieux magnifiques, des roches sculpter par l'eau et le temps, offrant des formes uniques. Le canyoning est une activité pour tous, à partager en groupe. Vous trouverez différents niveaux et donc différents parcours proposer. C'est un bon moyen également de se rafraîchir durant l'été. Vous pouvez soit louer tout votre matériel de canyoning directement dans des magasins, soit lors de votre réservation d'activité, l'avoir directement avec le moniteur de canyoning.
 
     Vous pourrez également profiter de vivre des sensations fortes avec le rafting et l'hydrospeed.
   button:
     text_button: Découvrir +
     href_button: "/fr/ete/activite/canyoning"
     alt_button: Accéder à la page canyoning
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646233990/website/summer/sylvain-mauroux-BN3pSWB95jw-unsplash_mtqpau.jpg
   alt_text_for_image: Alpiniste sur une crête en haute en montagne grimpant
@@ -155,6 +163,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Difficile de s'ennuyer en montagne
   content: Vous l'avez compris, il est difficile de s'ennuyer lors d'un séjour en

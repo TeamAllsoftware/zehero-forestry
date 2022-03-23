@@ -17,9 +17,9 @@ categorie: Coaching
 page_sections:
 - template: textarea
   content: |-
-    Vous désirez progresser physiquement, évoluer, vous dépasser, dans un groupe ou seul avec un ou une coach ? Une séance de coaching c'est avoir un coach qui aura un regard précis sur toutes vos postures, vous accompagner dans vos exercices, un coach qui va vous suivre.
+    Vous désirez progresser physiquement, évoluer, vous dépasser, dans un groupe ou seul avec un ou une coach ? Une séance de coaching offre la possibilité d'avoir un coach avec un regard précis sur toutes vos postures, un accompagnement personnalisé dans vos exercices et un suivi sur-mesure.
 
-    Que vous souhaitez être maintenu en forme, préparer une compétition, avoir une meilleure condition physique, vous muscler, préparer un défi, le coaching sera la meilleure solution.
+    Que vous souhaitiez être maintenu en forme, préparer une compétition, avoir une meilleure condition physique, vous muscler, préparer un défi, le coaching sera la meilleure solution.
   title: Le coaching sportif
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg

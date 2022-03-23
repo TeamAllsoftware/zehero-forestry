@@ -20,6 +20,8 @@ fields:
     options:
     - gris
     - blanc
+    - blancGris
+    - grisBlanc
     source:
       type: simple
       section: 

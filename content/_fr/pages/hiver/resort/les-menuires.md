@@ -2,7 +2,7 @@
 layout: layout_resort
 permalink: "/fr/hiver/destinations/les-menuires"
 redirect_from:
-  - /fr/hiver/destination/les-menuires
+- "/fr/hiver/destination/les-menuires"
 language: fr
 season: winter
 topnav_color_text: light
@@ -10,19 +10,19 @@ resort_nameid: les_menuires
 resort_naming: Les Menuires
 title: Les Menuires et ses activités outdoor d'hiver
 meta-title: Activités outdoor aux Ménuires pour l'hiver
-meta-description: Station conviviale située à 1850m d'altitude, elle offre un domaine de
-  ski incroyable. Conviviale et chaleureuse, elle sera parfaite pour les familles
+meta-description: Station conviviale située à 1850m d'altitude, elle offre un domaine
+  de ski incroyable. Conviviale et chaleureuse, elle sera parfaite pour les familles
   et les sportifs.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640075420/website/resorts/les%20menuires/yann-allegre-dabLvaCrd1M-unsplash_xdjd2l.jpg
 image01_alt: Vue des pistes à la station de ski des Menuires en Savoie, France
 page_sections:
 - template: textarea
-  content: La station de ski Les Menuires est situé dans la vallée des Bellevilles.
-    Ski au pieds devant votre logement, profitez de cette station au tempérament familiale,
-    conviviale et sportive. Plongé dans le domaine Les 3 Vallées, le ski n'aura pas
-    de limite. Une station authentique et contemporaine par son architecture.  Elle
-    offrira un belle ensoleillement et une très bonne qualité de neige par son altitude
-    et sa température.
+  content: La station de ski Les Menuires est située dans la vallée des Bellevilles.
+    Ski aux pieds devant votre logement, profitez de cette station au tempérament
+    familiale, conviviale et sportive. Plongé dans le domaine Les 3 Vallées, le ski
+    n'aura pas de limite. Une station authentique et contemporaine par son architecture.
+    Elle offrira un bel ensoleillement et une très bonne qualité de neige par son
+    altitude et sa température.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
@@ -74,7 +74,7 @@ page_sections:
     du ski de randonnée. Du débutant à l'expert, pour tout le monde et tout les goûts,
     profitez de leurs services. Vous aurez le choix entre cours privé et collectif.
 - template: textarea
-  content: Il y a aura différentes écoles, tel que l'ESF et des écoles indépendantes.  Chacune
+  content: Il y a aura différentes écoles, telles que l'ESF et des écoles indépendantes.  Chacune
     se différenciera par sa taille, ses services et ses offres et ses pratiques.
   title: ''
 - template: numberinfo
@@ -82,13 +82,13 @@ page_sections:
   title: Savoie
   headline: 30 magasins de location de matériel aux Menuires
   content: 'Les différents magasins de location vont se trouver dans les 6 villages
-    des Menuires, ils sont donc disperser. Ils se trouvent prêt des pistes et des
-    autres commerces tel qu''à la Croisette et aux Bruyères. '
+    des Menuires, ils sont donc dispersés. Ils se trouvent près des pistes et des
+    autres commerces tels qu''à la Croisette et aux Bruyères. '
   counter: "30"
 - template: textarea
   title: Les différents magasins de location aux Menuires
   content: "Certains de ces magasins seront affiliés aux enseignes telles que Sport
-    2000, Skiset, Skimium, Netski etc. Tant dis que d’autres seront indépendants et
+    2000, Skiset, Skimium, Netski etc. Tandis que d’autres seront indépendants et
     proposeront des offres spécifiques. Vous trouverez également des écoles de ski
     disposant de **magasin de location** afin de réserver des cours de ski et de louer
     des skis.\n\nIl y aura donc des magasins de **location ski**, de **location snowboard**

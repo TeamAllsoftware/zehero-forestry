@@ -6,10 +6,11 @@ topnav_color_text: dark
 title: Trail Running
 permalink: "/fr/ete/activites/trail-running"
 redirect_from:
-- "/fr/itineraire-trail-alpes-maritimes/"
-- "/fr/trail-progresser-montee-descente/"
-- "/fr/faire-du-fractionne-en-trail/"
-- "/fr/course-trail/"
+  - "/fr/itineraire-trail-alpes-maritimes/"
+  - "/fr/trail-progresser-montee-descente/"
+  - "/fr/faire-du-fractionne-en-trail/"
+  - "/fr/course-trail/"
+  - /fr/ete/activite/trail-running
 meta-title: Le trail, une activité outdoor à pratiquer en montagne, forêt...
 meta-description: Profitez de sortie de Trail Running pour découvrir la nature et
   vous perfectionner dans ce sport.

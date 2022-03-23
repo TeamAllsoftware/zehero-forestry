@@ -3,13 +3,13 @@ layout: layout_advice
 language: fr
 season: winter
 meta-title: Conseil ski, comment bien choisir vos skis d'occasion
-meta-description: Comment choisir ses skis d'occasions? Il est important de prendre en
-  comptes plusieurs informations importantes.
+meta-description: Comment choisir ses skis d'occasions? Il est important de prendre
+  en compte plusieurs informations importantes.
 topnav_color_text: light
 title: Comment choisir ses skis d'occasion
 permalink: "/fr/hiver/conseils/ski-d-occasion"
 redirect_from:
-  - /fr/hiver/conseil/ski-d-occasion
+- "/fr/hiver/conseil/ski-d-occasion"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330388/website/Conseil%20Equiepement/jeremy-bezanger-jW1I1M9TdRA-unsplash_urapcp.jpg
 image01_alt: Ski de piste, ski de freeride, ski all mountain
 button_to_link_to_ze_hero_shop:
@@ -58,16 +58,17 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
-  content: Il est important ensuite d'apprendre des connaissance sur la description
-    du ski, de le connaître. C'est de savoir pour quelle utilité est il destinée,
-    pour quel niveau et quel maitrise. C'est de savoir également la taille adapté
-    pour vous pour tel ou tel modèle.
+  content: Il est important ensuite d'assimiler les caractéristiques principales mentionnées
+    lors de la description du ski. L'important est de savoir pour quelle utilité est
+    il destiné, pour quel niveau et quelle maitrise. Savoir identifier la taille adaptée
+    vous sera utile pour profiter pleinement de votre matériel.
   title: Connaître le ski
 - template: textarea
-  content: Il faut ensuite savoir si le ski a été beaucoup utilisé. Vous aurez donc
-    une 1er information par son année de sorti et d'où provient le ski. Il faut alors
-    savoir alors son usage pour savoir s'il a beaucoup été utilisé et bien entretenu.
+  content: Il faut ensuite savoir si le ski a été beaucoup utilisé ou non. Vous aurez
+    donc une 1er information par son année de sortie et d'où provient le ski. Il faut
+    ensuite identifier son usage pour savoir s'il a beaucoup été utilisé et bien entretenu.
   title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330389/website/Conseil%20Equiepement/kipras-streimikis-39-0VXkvcbw-unsplash_crjyty.jpg
@@ -82,13 +83,14 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Le **top sheet** : Vous pouvez y trouver des marques, des rayures, des trous etc… Il faut bien vérifier que celles-ci ne soient pas trop importantes, car l’eau pourrait alors s’infiltrer. Mais attention le Top Sheet peut être trompeur. Parfois certains skis vont présenter beaucoup de rayures sur le dessus alors que le ski sera en parfait état. Alors que certaines fois, vous trouverez un Top Sheet impeccable, mais le ski aura pris de l’usure sur le dessous. Cela dépend de la marque et de sa fabrication sur le Top Sheet.
 
     La **semelle** : La qualité de la semelle va permettre d’avoir un bon indice du ski et de son usure. Il faut donc vérifier si elle présente des rayures, des accros, des trous. Si le trou est trop important, alors il ne faut pas prendre le ski, car il serait trop fragile et l’eau peut s’infiltrer.
 
-    Les **carres** : Il faut vérifier qu’elles ne présentent aucunes bosses ou fissures afin d’avoir des carres qui restent de qualités. En effet, une carre fragile, c’est un ski qui ne tiendra pas longtemps.
+    Les **carres** : Il faut vérifier qu’elles ne présentent aucunes bosses ou fissures afin d’avoir des carres qui restent de qualité. En effet, une carre fragile, c’est un ski qui ne tiendra pas longtemps.
   title: ''
 - template: imagegallery02
   title: Exemple de ski d'occasion
@@ -102,9 +104,9 @@ page_sections:
   atl_text_image_04: Vue des skis d'occasion Dynastar au niveau des bas des skis
 - template: textarea
   content: "N'hésitez pas à demander plus d'information sur les skis que vous désirez,
-    sur leurs états.  \nUn ski qui aura plus de 5ans sera entre guillemets en fin
-    de vie. Il perdra de sa qualité et de son efficacité. Il est plus judicieux de
-    faire un achat plus récent afin d'avoir des skis de meilleure qualité."
+    sur leur état.  \nUn ski qui aura plus de 5ans sera entre guillemets en fin de
+    vie. Il perdra de sa qualité et de son efficacité. Il est plus judicieux de faire
+    un achat plus récent afin d'avoir des skis de meilleure qualité."
   title: ''
 advice_cat: Matériel
 

@@ -16,3 +16,18 @@ fields:
       file: 
       path: 
   label: Couleur de fond du composant
+- name: service
+  type: select
+  default: activity
+  config:
+    required: true
+    options:
+    - activity
+    - advice
+    - resort
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Quelle liste afficher ?

@@ -17,12 +17,17 @@ image01_alt: Vol de parapente pendant l'hiver avec des montagnes recouvertes de 
 page_sections:
 - template: textarea
   content: Vivez l’unique expérience de voler au-dessus du domaine skiable et des
-    sommets. Après avoir glissé sur les pistes et admirez les panoramas d’en bas,
-    vous pourrez faire un baptême de parapente l’hiver afin de découvrir les montagnes
+    sommets. Après avoir glissé sur les pistes et admiré les panoramas d’en bas, vous
+    pourrez faire un baptême de parapente l’hiver afin de découvrir les montagnes
     d’au-dessus. Vivez un moment agréable dans les airs en profitant des vues splendides
     des montagnes et des différents sommets. Vous pourrez alors profiter d’un moment
     de calme et d’admiration au-dessus de vos amis en parapente.
   title: ''
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833496/website/assets/Parapente.png
+  alt_text_for_image: Test
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497879/website/winter/henry-perks-tkOf9gYWakA-unsplash_icnohc.jpg
   captiontitleuppercase: A pied ou à ski
@@ -38,13 +43,14 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: |-
-    Les vols vont durer entre 10 et 30 mn en fonction de la météo et des départs donnés. Le vol biplace vous permettra d’admirer la vue, de vivre une nouvelle expérience, ainsi que des sensations fortes. Les moniteurs en fonction ainsi de votre aisance peuvent vous faire tenir les commandes et réaliser des vols plus sensationnels. Vous pourrez aussi bénéficier de vidéo et de photo qui sont proposées par les moniteurs de parapente.
+    Les vols vont durer entre 10 et 30 mn en fonction de la météo et des départs donnés. Le vol biplace vous permettra d’admirer la vue, de vivre une nouvelle expérience, ainsi que des sensations fortes. Les moniteurs, en fonction de votre aisance, peuvent vous faire tenir les commandes et réaliser des vols plus sensationnels. Vous pourrez aussi bénéficier de vidéos et de photos qui sont proposées par les moniteurs de parapente.
 
     Cette activité est réservée à toutes les personnes de 5 ans à 90 ans.
   title: ''
+  blockBGcolor: ''
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre vol de parapente
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Parapente&start-date=

@@ -11,6 +11,7 @@ season: winter
 topnav_color_text: dark
 page_sections:
 - template: heroImageFull
+  top: oui
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883535/website/winter/Sourire-neige-femme_rucodo.jpg
   gradient: grad
   headline:

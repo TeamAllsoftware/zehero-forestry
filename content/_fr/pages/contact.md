@@ -10,6 +10,8 @@ topnav_color_text: dark
 ref: contact
 
 redirect_from: 
+    - /fr/hiver/contact
+    
 ---
 
 {% include page_contact.html %}
