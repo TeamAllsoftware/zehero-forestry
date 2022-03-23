@@ -15,10 +15,6 @@ engage: Surplombez les montagnes l'hiver et admirez tous les sommets
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497764/website/winter/fpvmat-a-6AzbpH7Qg_k-unsplash_moojf5.jpg
 image01_alt: Vol de parapente pendant l'hiver avec des montagnes recouvertes de neige
 page_sections:
-- template: imgWide
-  blockBGcolor: blanc
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833496/website/assets/Parapente.png
-  alt_text_for_image: Parapente couché au sol
 - template: textarea
   content: Vivez l’unique expérience de voler au-dessus du domaine skiable et des
     sommets. Après avoir glissé sur les pistes et admiré les panoramas d’en bas, vous
@@ -28,6 +24,10 @@ page_sections:
     de calme et d’admiration au-dessus de vos amis en parapente.
   title: ''
   blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833496/website/assets/Parapente.png
+  alt_text_for_image: Parapente couché au sol
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497879/website/winter/henry-perks-tkOf9gYWakA-unsplash_icnohc.jpg
   captiontitleuppercase: A pied ou à ski
