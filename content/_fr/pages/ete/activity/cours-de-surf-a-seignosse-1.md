@@ -68,6 +68,20 @@ page_sections:
     Les cours privés de surf peuvent être dédiés pour 1 personne, pour 2 personnes et pour 3 personnes maximum.
 
     A Mimizan, vous trouverez des cours privés dans les écoles de surf mais également avec des moniteurs de surf indépendant.
-published: false
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647959772/website/resorts/Mimizan/laura-ter-horst-vFeELY7i1kw-unsplash.jpg
+  alt_text_for_image: Chemin de sable sur les plages de Mimizan
+  captiontitleuppercase: Partez surfer à Mimizan
+  title: Réservez votre cours de surf à Mimizan
+  content: "Réservez votre cours de surf à Mimizan afin d'apprendre et de vous initier
+    à cette discipline de glisse. Profitez d'un moment unique dans les vagues et dans
+    un cadre magique.  \nTrouvez le cours qui vous correspond, cours collectif ou
+    cours privé de surf à Mimizan, pour un ou plusieurs jours.  \nAvec Ze Hero, trouvez
+    le meilleur pour vous et surfez sur les vagues de la côte Atlantique."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
