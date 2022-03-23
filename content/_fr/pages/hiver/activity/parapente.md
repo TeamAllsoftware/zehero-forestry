@@ -45,6 +45,10 @@ page_sections:
 
     Cette activité est réservée à toutes les personnes de 5 ans à 90 ans.
   title: ''
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833496/website/assets/Parapente.png
+  alt_text_for_image: Parapente couché au sol
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre vol de parapente
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Parapente&start-date=
