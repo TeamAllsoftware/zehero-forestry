@@ -23,6 +23,7 @@ page_sections:
     des montagnes et des différents sommets. Vous pourrez alors profiter d’un moment
     de calme et d’admiration au-dessus de vos amis en parapente.
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497879/website/winter/henry-perks-tkOf9gYWakA-unsplash_icnohc.jpg
   captiontitleuppercase: A pied ou à ski
@@ -45,8 +46,9 @@ page_sections:
 
     Cette activité est réservée à toutes les personnes de 5 ans à 90 ans.
   title: ''
+  blockBGcolor: ''
 - template: imgWide
-  blockBGcolor: blanc
+  blockBGcolor: gris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833496/website/assets/Parapente.png
   alt_text_for_image: Parapente couché au sol
 button_to_link_to_ze_hero_shop:
