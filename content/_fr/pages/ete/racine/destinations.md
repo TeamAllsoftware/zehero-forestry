@@ -6,6 +6,8 @@ meta-description: Dans nos destinations d'été vous trouverez les activités de
   prochaines aventures et miro-aventures pour vous dépasser et trouver une satisfaction
   personnelle immense, que ce soit seule, entre amis ou en famille
 permalink: "/fr/ete/destinations"
+redirection_from:
+  - /fr/ete/destinations/tignes
 language: fr
 season: summer
 topnav_color_text: light

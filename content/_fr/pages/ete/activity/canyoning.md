@@ -6,7 +6,8 @@ topnav_color_text: dark
 title: Canyoning
 permalink: "/fr/ete/activites/canyoning"
 redirect_from:
-- "/fr/canyoning-annecy/"
+  - "/fr/canyoning-annecy/"
+  - /fr/ete/activite/canyoning
 meta-title: Le canyoning est une expérience outdoor aux sensations fortes
 meta-description: L'activité du canyoning est une activité d'eau qui consiste à avancer
   le long d'une rivière en jouant avec les éléments de la nature.

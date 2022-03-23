@@ -9,10 +9,11 @@ topnav_color_text: light
 title: Cours privé ou cours collectif
 permalink: "/fr/hiver/conseils/cours-prive-cours-collectif"
 redirect_from:
-- "/fr/coaching-sportif/coaching-prive/"
-- "/fr/coaching-sportif/coaching-prive/coaching-prive-antibes/"
-- "/fr/coaching-sportif/coaching-prive/coaching-prive-lyon/"
-- "/fr/coaching-sportif/coaching-prive/e-coaching/"
+  - "/fr/coaching-sportif/coaching-prive/"
+  - "/fr/coaching-sportif/coaching-prive/coaching-prive-antibes/"
+  - "/fr/coaching-sportif/coaching-prive/coaching-prive-lyon/"
+  - "/fr/coaching-sportif/coaching-prive/e-coaching/"
+  - /fr/hiver/conseils/cours-privé-cours-collectif
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825160/website/winter/cristina-munteanu-qOFS-GJme60-unsplash_lzh1qe.jpg
 image01_alt: Groupe de snowboard sur une piste de ski en montagne
 button_to_link_to_ze_hero_shop:

@@ -6,7 +6,8 @@ topnav_color_text: dark
 title: Vélo de route
 permalink: "/fr/ete/activites/velo-de-route"
 redirect_from:
-- "/fr/velo-savoie-haute-savoie/"
+  - "/fr/velo-savoie-haute-savoie/"
+  - /fr/ete/activite/velo-de-route
 meta-title: Sorties en vélo de route, parcours et cols
 meta-description: 'A l''assaut des cols mythiques en France : découvrez les plus belles
   régions en vélo de route'

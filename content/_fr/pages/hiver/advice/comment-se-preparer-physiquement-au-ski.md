@@ -9,7 +9,8 @@ topnav_color_text: light
 title: Comment se préparer physiquement au ski ?
 permalink: "/fr/hiver/conseils/comment-se-préparer-physiquement-au-ski"
 redirect_from:
-- "/fr/conseils-preparation-physique-ski/"
+  - "/fr/conseils-preparation-physique-ski/"
+  - /fr/hiver/conseil/comment-se-préparer-physiquement-au-ski
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883617/website/summer/Coach-prive-entrainement_k9n3ap.jpg
 image01_alt: Salle de sport entrainement physique et musculation
 button_to_link_to_ze_hero_shop:

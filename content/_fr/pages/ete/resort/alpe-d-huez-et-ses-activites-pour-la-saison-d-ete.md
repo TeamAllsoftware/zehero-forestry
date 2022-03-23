@@ -18,6 +18,7 @@ resort_naming: Alpe d'Huez
 permalink: "/fr/ete/destinations/alpe-huez"
 redirect_from:
   - /fr/ete/destination/alpe-huez
+  - /fr/ete/destinations/alpe-d-huez
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644227090/website/resorts/alpe%20d%27huez/aurele-mayol-kiW0s-RMIDk-unsplash_lzygte.jpg
 image01_alt: Vue des montagnes à l'Alpe d'Huez avec un lac et des randonneurs
 button_to_link_to_ze_hero_shop:
