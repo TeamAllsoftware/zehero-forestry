@@ -14,7 +14,7 @@ page_sections:
 ---
 
 <!-- start section -->
-<section class="">
+<section class="padding-50px-top">
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-6">
@@ -123,6 +123,7 @@ page_sections:
             </div>
         </div>
         <div class="row">
+            <div class="bg-extra-light-gray h-1px margin-40px-tb"></div>
             <div class="col-12 col-lg-6">
                 {% assign collectionFr = site.collections | where: 'label', "fr" %}
                 <h2 class="h4">DIVERS</h2>
@@ -131,6 +132,18 @@ page_sections:
                 {% assign service = catList %}
                 {% for collection in collectionFr %}
                     <h3 class="h5">Pages coachs</h3>
+                    <ol class="text-start">
+                    {% for item in service %}
+                        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                    {% endfor %}
+                    </ol>
+                {% endfor %}
+                </div>
+                <div class="margin-20px-tb">
+                {% assign catList = site[page.collection] | where_exp: 'item', "item.path contains 'various/divers' "  %}
+                {% assign service = catList %}
+                {% for collection in collectionFr %}
+                    <h3 class="h5">Pages diverses</h3>
                     <ol class="text-start">
                     {% for item in service %}
                         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
