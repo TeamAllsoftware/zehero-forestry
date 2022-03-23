@@ -56,6 +56,22 @@ page_sections:
     Durant la descente de rafting, vous allez devoir rester concentré à l'écoute du moniteur sur les différentes instructions qu'il donnera afin que la navigation se déroule parfaitement. Il emploiera du jargon technique mais il vous l'expliquera en amont. Parfois cela sera aux pagayeurs avant de ramer et parfois uniquement à ceux de l'arrière. Profitez alors de ce moment de sensation et de partage entre les rapides, les virages, les secousses dans des lieux riches et préservés. Vous découvrirez la rivière comme vous l'aurez rarement vue.
 
     En fonction des lieux, vous pourrez également vous baigner parfois, sauter un petit rocher. De quoi se rafraîchir après une descente bien sportive.
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648030115/website/summer/joris-visser-F_lRKdz8MyQ-unsplash.jpg
+  alt_text_for_image: Equipe de rafting dans une rivière entouré d'arbre
+  captiontitleuppercase: Les bonnes raisons pour une descente en rafting
+  title: Le rafting pour une nouvelle expérience
+  content: |-
+    Le rafting est l'activité idéale pour vivre une nouvelle expérience. Vous allez pouvoir découvrir un lieu, une nature, des passages accessible en canoë ou rafting sont possibles. C'est l'occasion parfaite pour partager un moment fort en sensation et en émotions avec sa famille, avec ses amis ou ses collègues du travail. Vous renforcerez les liens dans un moment riche en adrénaline.
+
+    Vous trouverez alors différents niveaux de sortie de rafting. Les cours des rivières sont classés en 6 classes. Elles varient en fonction de la force de l'eau, des obstacles, de l'élévation. En fonction de cela les sorties de rafting seront différentes. Certaines seront alors réservées à des personnes plus sportives, plus expérimentées surtout.
+
+    Accessible à tous dès 8ans (cela dépend des écoles) et à condition de savoir nager, vous pourrez bénéficier de ce loisir.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
