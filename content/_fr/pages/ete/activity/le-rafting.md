@@ -72,6 +72,15 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  blockBGcolor: blanc
+  title: Une aventure en France
+  content: "Le rafting est une aventure outdoor qui se pratique en France dans de
+    multiples lieux. En France vous trouverez un choix énorme et très varier de lieu
+    pour pratiquer le rafting : \n\n* Le Verdon\n* Les Pyrénées\n* La Savoie\n* La
+    Haute Savoie\n* La Roya\n* La Drome\n* L'Ardeche\n* L'Isère\n* L'Ariège\n* Les
+    Alpes de Haute Provence\n* Le Pays Basques\n\nLes lieux réputés vont se trouver
+    dans les gorges du Verdon, le massif des Ecrins, les gorges du Tarn, la Haute
+    Garonne, le Doron, la Dranse, le Golo et bien d'autres."
 
 ---
