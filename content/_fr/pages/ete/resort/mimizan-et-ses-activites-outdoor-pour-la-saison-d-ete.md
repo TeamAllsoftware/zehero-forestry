@@ -34,17 +34,12 @@ page_sections:
   alt_text_for_image: Surfeur dans les vagues de Mimizan
   captiontitleuppercase: Glisser sur les vagues de Mimizan
   title: Le surf à Mimizan
-  content: "Le surf à Mimizan est une activité très pratiquer tout comme le long de
-    la côte landaise. Un lieu où le surf prospère depuis bien longtemps avec de nombreux
-    champions de Surf et de Bodyboard. Vous y trouverez des vagues idéales pour débuter
-    et également pour vous perfectionner. Avec 10km de plage, vous allez trouvez de
-    nombreux spots parfait pour surfer. Vous pourrez surfer à la plage de la Garluche,
-    du centre ville, de la corniche, de l'Espécier. Pour les personnes désirant trouver
-    les spots secrets, les spots pour les plus aguerris, il faudra alors marcher quelques
-    minutes sur la plage.  \nIl y a 6 écoles de surf à Mimizan dont Sama-Sama qui
-    proposeront leurs cours. Vous pourrez prendre des cours collectifs ainsi que des
-    cours privés afin de débuter, d'apprendre, de progresser et de vous perfectionner
-    dans le surf."
+  content: |-
+    Le surf à Mimizan est une activité très pratiquée tout comme le long de la côte landaise. Un lieu où le surf prospère depuis bien longtemps avec de nombreux champions de Surf et de Bodyboard. Vous y trouverez des vagues idéales pour débuter et également pour vous perfectionner. Avec 10km de plage, vous allez trouver de nombreux spots parfaits pour surfer. Toute l'année les vagues offrent des conditions idéales pour surfer, pour tous les niveaux. Vous pourrez surfer à la plage de la Garluche, du centre-ville, de la corniche, de l’Espécier. Pour les personnes désirant trouver les spots secrets, les spots pour les plus aguerris, il faudra alors marcher quelques minutes sur la plage.
+
+    Il y a 6 écoles de surf à Mimizan dont Sama-Sama qui proposeront leurs cours. Vous pourrez prendre des cours collectifs ainsi que des cours privés afin de débuter, d’apprendre, de progresser et de vous perfectionner dans le surf. C’est l’endroit idéal pour débuter et prendre ses 1er vagues. Partez avec un moniteur de surf à l'eau, que ce soit pour un cours ou un stage de plusieurs jours. Ouvert à tous, découvrez les sensations et les joies du surf à Mimizan.
+
+    Vous pourrez également vous essayer au body-board ainsi qu'au Paddle board. En plus des écoles de surf de Mimizan, vous pourrez également louer votre planche de surf ainsi qu'une combinaison de surf.
   button:
     text_button: ''
     href_button: ''
