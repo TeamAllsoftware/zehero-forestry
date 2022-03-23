@@ -1,4 +1,4 @@
-<section class="{% if block.blockBGcolor == 'gris' %} bg-light-gray {% endif %} overflow-visible pt-md-0  pb-0">
+<section class="overflow-visible pt-md-0 pb-0 {% if block.blockBGcolor == 'gris' %} bg-light-gray {% endif %}" {% if block.blockBGcolor == 'blancGris' %}style="background: linear-gradient(to bottom, white 50%, #f7f7f7 50%);"{% elsif block.blockBGcolor == 'grisBlanc' %}style="background: linear-gradient(to bottom, #f7f7f7 50%, white 50%);"{% endif %}>
     <div class="container-fluid">
         <div class="row">
             <div class="col-12 text-center p-0">
