@@ -49,6 +49,17 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  title: Les cours de surf collectifs à Mimizan
+  content: "Vous pourrez réserver des cours collectifs de surf à Mimizan. Tous les
+    cours collectifs de surf sont adaptés à tous les niveaux : du débutant au confirmé.
+    \ Vous retrouverez différentes possibilités de cours collectif de surf :\n\n*
+    un cours de 1h30 à 2h en collectif\n* plusieurs jours, sous forme de stage\n\nPour
+    les enfants, des cours collectifs leur sont parfois totalement dédiées avec des
+    offres \"Jardin des vagues\".  \nVous trouverez aussi des offres comme le \"Surf
+    Thérapy\" avec l'école Sama Sama, pour des cours plus approfondie et également
+    pour un public handicapé.  \nLes cours collectifs de surf à Mimizan vont varier
+    de 1h30 à 2h de temps et les groupes seront jusqu'à 8 à 10 personnes."
 published: false
 
 ---
