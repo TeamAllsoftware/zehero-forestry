@@ -60,6 +60,11 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  title: Mimizan pour un séjour famille
+  content: |-
+    Découvrez cette petite ville landaise, Mimizan et laissez-vous porter par sa tranquillité, sa nature préservée et son calme. En famille, entre amis, en couple, vous découvrirez de nombreuses activités outdoor, vous pourrez profiter des plages, des forêts, des sentiers et du soleil de la côte Atlantique.
+
+    N’attendez plus, vivez votre moment, soyez le Hero.
 
 ---
