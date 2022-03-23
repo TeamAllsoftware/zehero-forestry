@@ -33,7 +33,10 @@ page_sections:
     dedans
   captiontitleuppercase: Pour une expérience unique
   title: Déroulement d'une sortie rafting
-  content: 'Le déroulement d''une sortie rafting '
+  content: Le déroulement d'une sortie rafting demande un peu de préparation. Tout
+    d'abord vous allez vous équiper. Vous serez alors muni d'un casque, d'une combinaison,
+    d'un gilet de sauvetage, d'une pagaie. Suivra ensuite un petit briefing sur les
+    règles de sécurité
   button:
     text_button: ''
     href_button: ''
