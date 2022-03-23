@@ -51,7 +51,7 @@ page_sections:
   title: Les cours de surf collectifs à Seignosse
   content: "Vous pourrez réserver des cours collectifs de surf à Seignosse, que vous
     soyez débutant ou confirmé, les cours sont pour tous les niveaux. Chaque cours
-    sera adapté à votre niveau et vous saurez dans un groupe avec un niveau homogène.
+    sera adapté à votre niveau et vous serez dans un groupe avec un niveau homogène.
     Vous retrouverez différentes possibilités de cours de surf :\n\n* quelques heures\n*
     à la journée\n* plusieurs jours, sous forme de stage\n\nLes groupes des cours
     collectifs seront par niveau mais aussi par âge pour les enfants.  \nLes cours
