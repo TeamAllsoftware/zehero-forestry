@@ -26,6 +26,18 @@ page_sections:
     Vous embarquerez aux nombres de 7 personnes ainsi que le moniteur pour un total de 8 personnes sur le bateau.
 
     Vous découvrirez alors différentes formules en fonction des écoles de Rafting qui seront généralement pour découvrir ou alors pour un moment plus intense et sport.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648030134/website/summer/lindsey-erin-ayhiuTdcUEk-unsplash.jpg
+  alt_text_for_image: Un bateau de rafting sur une rivière avec plusieurs personne
+    dedans
+  captiontitleuppercase: Pour une expérience unique
+  title: Déroulement d'une sortie rafting
+  content: 'Le déroulement d''une sortie rafting '
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
