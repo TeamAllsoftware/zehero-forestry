@@ -46,6 +46,29 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Progresser et s'amuser
+  content: |-
+    Non, l'assistance électrique ce n'est pas tricher. Elle permet de réussir des ascensions, des randonnées avec beaucoup plus de dénivelé et de kilomètres, à des personnes qui auraient plus réticent avec un VTT normal. Elle permet de progresser en VTT, de comprendre comment bien grimper, gérer ses vitesses et ses plateaux. C'est également un excellent moyen de découvrir la montagne pour des personnes qui ne veulent pas avoir une activité trop exigeante physiquement.
+
+    Le VTT électrique va présenter des pneus plutôt larges et donc très stables. Vous pourrez descendre plus sereinement des chemins de cailloux techniques. Le poids plus important d'un VTT électrique que d'un VTT classique, sera réparti vers le bas au centre du cadre. Cela apporter aussi plus de stabilité au VTT.
+
+    Il sera alors très confortable de rouler sur tous les sentiers, tous les types de terrains. Peu importe le dénivelé, les difficultés du passage et sa technicité, avec le VTT Electrique vous pourrez passer sans problème.
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648055609/website/summer/luca-beani-ht1qetmbaxs-unsplash.jpg
+  alt_text_for_image: Personne faisant du VTT électrique en forêt
+  captiontitleuppercase: Des sorties VTT en famille
+  title: Le goût de l'aventure
+  content: |-
+    L'assistance électrique va vous permettre de franchir tous les obstacles et terrains. Vous pourrez alors vous concentrer pleinement sur votre trajectoire et le chemin sur lequel vous roulez.
+
+    Les descentes en VVT Electrique seront un réel plaisir, avec un VTT qui sera stable, très joueur, rapide et maniable. Il permet "d'effacer" les grandes différences de niveau dans un groupe. Cela permet de partir dans un groupe beaucoup plus homogène qu'en VTT classique. Le goût de l'aventure ne fait que commencer et les sorties en VTT Electrique vous emmèneront découvrir de nouvelles expériences.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
