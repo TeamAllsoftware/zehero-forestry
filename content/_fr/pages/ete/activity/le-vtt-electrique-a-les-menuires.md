@@ -77,7 +77,7 @@ page_sections:
     alt_button: ''
 - template: 2colTitreTxt
   blockBGcolor: blanc
-  title: La liberté de rouler pour tous
+  title: La liberté de rouler
   content: Le VTT Electrique aux Ménuires vous permet de découvrir les plus sentiers
     de montagnes, accompagné d'un moniteur pour une expérience riche en découverte.
 
