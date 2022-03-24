@@ -2,7 +2,8 @@
 layout: layout_resort
 permalink: "/fr/hiver/destinations/tignes"
 redirect_from:
-- "/fr/hiver/destination/tignes"
+  - "/fr/hiver/destination/tignes"
+  - /fr/ete/destinations/tignes
 language: fr
 season: winter
 topnav_color_text: light
