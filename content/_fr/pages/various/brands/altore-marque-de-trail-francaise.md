@@ -5,7 +5,7 @@ language: fr
 season: summer
 topnav_color_text: dark
 title: Altore, marque de trail Française
-permalink: "/fr/marque/altore"
+permalink: "/fr/marques/altore"
 meta-title: Altore, marque d'équipement de trail running français
 meta-description: La marque française et éco-responsable Altore propose des équipement
   de grande qualité pour le trail-running.
