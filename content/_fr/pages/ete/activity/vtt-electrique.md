@@ -8,7 +8,7 @@ meta-title: Sortie VTT Electrique pour de longues randonnées
 meta-description: Pratiquez le VTT électrique pour découvrir la montagne à vélo et
   faire de longue balades
 title: VTT Electrique
-permalink: "/fr/ete/activites/vtt"
+permalink: "/fr/ete/activites/vtt-electrique"
 baseline: Balade, randonnée, découverte
 engage: Découvrez la montagne et rouler avec un E-VTT
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648055624/website/summer/julian-hochgesang-jyoTLVMv9So-unsplash.jpg
