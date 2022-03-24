@@ -77,4 +77,3 @@ introduction:
     votre famille
 
 ---
-{% include page_resort.html %}

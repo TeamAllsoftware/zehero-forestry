@@ -105,4 +105,3 @@ introduction:
     des casques et beaucoup d'autres équipements pour toute votre famille
 
 ---
-{% include page_resort.html %}
