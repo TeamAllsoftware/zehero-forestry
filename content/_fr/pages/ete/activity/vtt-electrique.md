@@ -46,6 +46,55 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  blockBGcolor: blanc
+  title: Progresser et s'amuser
+  content: |-
+    Non, l'assistance électrique ce n'est pas tricher. Elle permet de réussir des ascensions, des randonnées avec beaucoup plus de dénivelé et de kilomètres, à des personnes qui auraient plus réticent avec un VTT normal. Elle permet de progresser en VTT, de comprendre comment bien grimper, gérer ses vitesses et ses plateaux. C'est également un excellent moyen de découvrir la montagne pour des personnes qui ne veulent pas avoir une activité trop exigeante physiquement.
+
+    Le VTT électrique va présenter des pneus plutôt larges et donc très stables. Vous pourrez descendre plus sereinement des chemins de cailloux techniques. Le poids plus important d'un VTT électrique que d'un VTT classique, sera réparti vers le bas au centre du cadre. Cela apporter aussi plus de stabilité au VTT.
+
+    Il sera alors très confortable de rouler sur tous les sentiers, tous les types de terrains. Peu importe le dénivelé, les difficultés du passage et sa technicité, avec le VTT Electrique vous pourrez passer sans problème.
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648055609/website/summer/luca-beani-ht1qetmbaxs-unsplash.jpg
+  alt_text_for_image: Personne faisant du VTT électrique en forêt
+  captiontitleuppercase: Des sorties VTT en famille
+  title: Le goût de l'aventure
+  content: |-
+    L'assistance électrique va vous permettre de franchir tous les obstacles et terrains. Vous pourrez alors vous concentrer pleinement sur votre trajectoire et le chemin sur lequel vous roulez.
+
+    Les descentes en VVT Electrique seront un réel plaisir, avec un VTT qui sera stable, très joueur, rapide et maniable. Il permet "d'effacer" les grandes différences de niveau dans un groupe. Cela permet de partir dans un groupe beaucoup plus homogène qu'en VTT classique. Le goût de l'aventure ne fait que commencer et les sorties en VTT Electrique vous emmèneront découvrir de nouvelles expériences.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1648055673/website/summer/matthias-patzuda-_ezqPPf8Cpk-unsplash.jpg
+  prlax_alt_text_for_image: VTT Electrique dans un champ
+  captionabovetitle: Une pratique pour tous et partout
+  title: Le VTT Electrique plus facile, plus ludique
+  gridline1title: Où pratiquer le VTT Electrique
+  gridline1content: Il se pratique absolument partout, en montagne, en forêt, en garrigue.
+    Aujourd'hui, vous trouverez énormément de magasins de location de VTT Electrique
+    où que vous soyez. Les stations tel que Méribel, mettent aujourd'hui en place
+    des parcours spécialement dédiés aux VTT Electriques.
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1646912722/website/summer/graziano-de-maio-EhwpPCZIzf4-unsplash.jpg
+  grid_1_alt_text_for_image: Personnes descendant une piste de VTT en VTT électrique
+  gridline2title: Une sortie encadré
+  gridline2content: L’avantage d’avoir un moniteur avec vous, c’est qu’il va vous
+    expliquer comment rouler efficacement avec le VTT Electrique. Entre la technique,
+    l’économie, les gestes en descentes, vous aurez tous les secrets pour bien rouler.
+    De plus, il vous fera découvrir les plus belles randonnées des alentours.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1648110488/website/summer/IMG_20201110_155723.jpg
+  grid_2_alt_text_for_image: Personne avec un VTT électrique à Valmorel au sommet
+    de la piste de VTT
+- template: textarea
+  blockBGcolor: blanc
+  title: En selle
+  content: Vous pourrez trouver différents magasins de location de VTT Electrique
+    afin de pouvoir partir profiter de la nature et des paysages en louant votre vélo.
+    Découvrez également les différentes écoles de VTT et nos indépendants qui proposent
+    des sorties de VTT Electrique.
 
 ---
