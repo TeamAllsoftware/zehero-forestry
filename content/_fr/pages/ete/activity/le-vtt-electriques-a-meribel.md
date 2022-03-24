@@ -61,6 +61,27 @@ page_sections:
     Les sorties en groupe vont varier entre 1h30 de temps à des sorties à la journée avec des thèmes parfois différents. Ensuite vous pourrez avoir des stages de VTT que ce soit pour les enfants comme pour les adultes.
 
     Les groupes peuvent aller jusqu'à 8 personnes. Vous devrez parfois louer votre VTT Electrique afin de réaliser la sortie encadrée car certains moniteurs ou écoles ne proposent pas en plus la location de VTT. Il y a environ 6 magasins de location de VTT électrique à Méribel.
-published: false
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648132825/website/M%C3%A9ribel/50344687111_56e3ff0e88_c.jpg
+  alt_text_for_image: Trois personnes roulant en VTT électrique sur le col de la Loze
+    à Méribel
+  captiontitleuppercase: Se balader en montagne
+  title: Randonner en VTT électrique à Méribel
+  content: |-
+    Afin de comprendre toutes les facettes du VTT électrique, rouler sur les meilleurs circuits, il sera idéal de réserver une sortie encadrée par un moniteur. Vous pourrez alors randonner en VTT électrique à Méribel en vous laissant porter.
+
+    Vous pourrez sinon louer directement votre VTT dans les 6 shops de Méribel. La location de VTTAE se fait pour la demi-journée à la journée ou alors pour plusieurs. Un peu comme les skis !
+
+    Les sentiers de Méribel n'attendent que vous afin de découvrir les joies du VTT avec une assistance électrique. Découvrez les chemins, les sentiers dans une faune, une flore et nature sauvage et préservé dans la station de Méribel ainsi que tous ses petits villages.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colTitreTxt
+  blockBGcolor: blanc
+  title: Rouler en total liberté à Méribel
+  content: Le VTT Electrique à Méribel vous permet de découvrir les plus sentiers
+    de montagnes, accompagné d'un moniteur pour une expérience riche en découverte.
 
 ---
