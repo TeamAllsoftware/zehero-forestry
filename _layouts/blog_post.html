@@ -54,50 +54,25 @@ layout: default
 </section>
 <!-- end section -->
 
-{% comment %}
 <!-- start section -->
-<section class="bg-light-gray">
-  <div class="container">
-      <div class="row justify-content-center">
-          <div class="col-12 col-lg-5 col-md-6 text-center margin-5-rem-bottom wow animate__fadeIn">
-              <span class="alt-font font-weight-500 text-uppercase d-inline-block">{{ site.data.config[page.language].blog.related-posts.caption }}</span>
-              <h5 class="alt-font font-weight-500 text-extra-dark-gray letter-spacing-minus-1px">{{ site.data.config[page.language].blog.related-posts.title }}</h5>
-          </div>
-      </div>
-      <div class="row">
-          <div class="col-12 blog-content">
-              <ul class="blog-clean blog-wrapper grid grid-loading grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large">
-                  <li class="grid-sizer"></li>
-
-                    {% assign posts = site[page.collection] | reverse | where_exp: "page" , "page.season contains season" | where_exp: "page" , "page.season contains season" %}
+<section class="big-section bg-medium-light-gray wow animate__fadeIn">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-xl-6 col-lg-7 col-md-8 text-center px-md-0 wow animate__fadeIn">
+                <h4 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase d-inline-block letter-spacing-minus-1px margin-4-rem-bottom">{{ site.data.config[page.language].newsletter.title }}</h4>
+                <!-- start newsletter form -->
+                <div class="newsletter-style-01 position-relative margin-4-rem-bottom xs-margin-2-rem-bottom">
+                    <form name="newsletter-{{ page.language }}"  method="POST" data-netlify="true">
+                        <input class="border-radius-100px extra-large-input box-shadow-medium border-none padding-50px-left m-0 required" name="email" placeholder="{{ site.data.config[page.language].newsletter.placeholder }}" type="email">
+                        <!-- <input type="hidden" name="redirect" value=""> -->
+                        <button type="submit" class="btn btn-extra-large border-none text-slate-blue margin-20px-right"><i class="far fa-envelope text-gradient-light-purple-light-red left-icon"></i>{{ site.data.config[page.language].newsletter.subscribe-btn }}</button>
                         
-                    {% for blogpost in posts limit:3 %}
-                    {% if blogpost.path contains "/posts/" %}
-                  <!-- start blog item -->
-                  <li class="grid-item wow animate__fadeIn">
-                      <div class="blog-post text-center border-radius-6px bg-white box-shadow box-shadow-large-hover">
-                          <div class="blog-post-image bg-gradient-fast-blue-purple">
-                              <a href="{{ blogpost.url }}"><img src="{{ imgsize.url }}{{ imgsize.homeblogpostlist }}{{blogpost.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ blogpost.image01_alt }}')">
-                                  <div class="blog-rounded-icon bg-white border-color-white absolute-middle-center">
-                                      <i class="feather icon-feather-arrow-right text-extra-dark-gray icon-extra-small"></i>
-                                  </div>
-                              </a>
-                          </div>
-                          <div class="post-details padding-30px-all xl-padding-25px-lr">
-                              <a href="{{ blogpost.url }}" class="post-author text-medium text-uppercase">{{ blogpost.date | date_to_string }}</a>
-                              <a href="{{ blogpost.url }}" class="text-extra-dark-gray font-weight-500 alt-font d-block">{{ blogpost.post-title }}</a>
-                          </div>
-                      </div>
-                  </li>
-                  <!-- end blog item -->
-                    {% endif %}
-                    {% endfor %}
-              </ul>
-          </div>
-      </div>
-  </div>
+                    </form>
+                </div>
+                <span class="text-small w-65 d-block m-auto line-height-24px md-w-75 xs-w-100">{{ site.data.config[page.language].newsletter.privacy }}</span>
+                <!-- end newsletter form -->
+            </div>
+        </div>
+    </div>
 </section>
-<!-- start section -->
-{% endcomment %}
-
-{% include elements/subscribe.html %}
+<!-- end section -->
