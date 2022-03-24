@@ -265,3 +265,5 @@ img:
   thumbproduct: c_fill,w_600,h_675/f_auto
   bigproduct:  c_fill,w_800,h_1000/f_auto
   descproduct: c_fill,w_800,h_800/f_auto
+#image bandeau 4 colonnes 3 images verticales
+  bandeau4col: c_fill,w_400,h_490/f_auto

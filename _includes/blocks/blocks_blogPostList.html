@@ -22,7 +22,7 @@
                         <div class="blog-post">
                             <div class="blog-post-image margin-30px-bottom md-margin-20px-bottom xs-margin-10px-bottom">
                                 {% capture download_note %}{{ blogpost.image01_href }}{% endcapture %}
-                                <a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}" ><img loading="lazy" src="{% include image.html file=download_note sizevar="blogpostlist" width="" height="" %}" alt="{{ blogpost.image01_alt }}"></a>
+                                <a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}" ><img loading="lazy" src="{% include image.html file=download_note sizevar="blogpostlist" width="" height="" %}" alt="{{ blogpost.image01_alt }}" width="600px" height="450px" /></a>
                             </div>
                             <div class="post-details">
                                 <a href="{{ blogpost.url }}" title="Lien vers l'aticle de blog {{ blogpost.title }}" class=" text-{{ site.data.config.site-color2 }} text-{{ site.data.config.site-color2 }}-hover d-block margin-10px-bottom xs-margin-5px-bottom text-small">{{ blogpost.date | frenchDate }}</a>

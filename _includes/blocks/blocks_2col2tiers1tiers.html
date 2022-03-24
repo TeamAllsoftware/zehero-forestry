@@ -16,7 +16,7 @@
             </div>
             <div class="col-12 col-lg-4 col-md-6">
                 {% capture download_note %}{{ block.col2.image_href }}{% endcapture %}
-                <img src="{% include image.html file=download_note sizevar='' width='400' height='300' %}" alt="{{ block.col2.img_alt_text }}" />
+                <img src="{% include image.html file=download_note sizevar='' width='400' height='300' %}" alt="{{ block.col2.img_alt_text }}" width="400px" height="300px" />
                 <div class="bg-white padding-3-half-rem-lr padding-3-rem-tb lg-padding-2-rem-all md-padding-2-half-rem-all sm-padding-4-rem-all last-paragraph-no-margin">
                     <span class="alt-font text-extra-dark-gray font-weight-500 margin-10px-bottom d-block">{{ block.col2.title }}</span>
                     <p>{{ block.col2.content }}</p>

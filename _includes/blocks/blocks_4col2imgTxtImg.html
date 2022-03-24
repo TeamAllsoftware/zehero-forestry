@@ -4,11 +4,11 @@
         <div class="row">
             <div class="col-12 col-xl-3 col-md-6 padding-40px-top sm-no-padding-top sm-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">             
                 {% capture download_note %}{{ block.ImageLeft.image_href }}{% endcapture %}
-                <img src="{% include image.html file=download_note sizevar="bandeau4col" width="" height="" %}" alt="{{ block.ImageLeft.alt_text }}">
+                <img src="{% include image.html file=download_note sizevar="bandeau4col" width="" height="" %}" alt="{{ block.ImageLeft.alt_text }}" width="450px" height="490px" />
             </div>
             <div class="col-12 col-xl-3 col-md-6 sm-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.4s">                                               
                 {% capture download_note %}{{ block.ImageMiddle.image_href }}{% endcapture %}
-                <img src="{% include image.html file=download_note sizevar="bandeau4col" width="" height="" %}" alt="{{ block.ImageMiddle.alt_text }}">
+                <img src="{% include image.html file=download_note sizevar="bandeau4col" width="" height="" %}" alt="{{ block.ImageMiddle.alt_text }}" width="450px" height="490px" />
             </div>
             <div class="col-12 col-xl-3 col-md-6 padding-40px-top sm-no-padding-top sm-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.6s">
                 <div class="padding-6-rem-all bg-{{ site.data.config.site-color }} text-white h-100 d-flex align-items-start flex-column justify-content-center xl-padding-2-rem-all lg-padding-6-rem-all md-padding-4-rem-all">
@@ -21,7 +21,7 @@
             </div>
             <div class="col-12 col-xl-3 col-md-6 wow animate__fadeIn" data-wow-delay="0.8s">                                               
                 {% capture download_note %}{{ block.ImageRight.image_href }}{% endcapture %}
-                <img src="{% include image.html file=download_note sizevar="bandeau4col" width="" height="" %}" alt="{{ block.ImageRight.alt_text }}">
+                <img src="{% include image.html file=download_note sizevar='bandeau4col' width='' height='' %}" alt="{{ block.ImageRight.alt_text }}" width="450px" height="490px" />
             </div>
         </div>
     </div>
