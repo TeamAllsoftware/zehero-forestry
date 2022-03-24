@@ -53,6 +53,12 @@ page_sections:
     Les sorties en VTT électriques aux Ménuires sont énormes. Vous allez déjà avoir aux Ménuires 32 itinéraires avec 300km de sentiers. On y trouve également 3 circuits de VTTAE pour 4 niveaux différents (vert-bleu-rouge-noir). Vous pouvez ensuite rouler encore plus loin et grimper les sentiers pour rejoindre Val Thorens ou encore Méribel ou Mottaret. En VTT électrique, la montagne s'offre à vous et le choix d'itinéraires sera incroyable. Les 3 vallées proposent également 13 circuits de VTTAE ainsi que 19 itinéraires enduros.
 
     Un moniteur pourra alors vous accompagner afin de vous faire découvrir les meilleurs itinéraires possible en fonction de votre niveau et de vos envies. Il saura exactement quel circuit de VTT aux Ménuires sera adapté au groupe. Il adaptera ces sorties si vous préférez plutôt découvrir des lieux et panoramas sublimes, si vous préférez les descentes raides et techniques, si vous aimez les longues randonnées...
+
+    Les sorties peuvent se faire directement avec une école de VTT qui proposent alors différentes sorties de VTT électrique aux Ménuires. Vous trouverez sinon des indépendants qui proposent aussi des sorties et des randonnées de VTT électriques aux Ménuires.
+
+    Vous pourrez alors réaliser des sorties en groupe pour des durées qui vont varier entre 1h30 à la journée entière avec des thématiques parfois différentes. Ensuite vous pourrez avoir des stages de VTT que ce soit pour les enfants comme pour les adultes.
+
+    Les groupes peuvent aller jusqu'à 8 personnes. Vous devrez parfois louer votre VTT Electrique afin de réaliser la sortie encadrée car certains moniteurs ou écoles ne proposent pas en plus la location de VTT.
 published: false
 
 ---
