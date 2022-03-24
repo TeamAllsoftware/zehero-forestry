@@ -120,4 +120,3 @@ introduction:
     matériel
 
 ---
-{% include page_resort.html %}
