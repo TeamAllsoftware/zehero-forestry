@@ -69,6 +69,32 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: parlaxgridtxtimg
+  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1648055673/website/summer/matthias-patzuda-_ezqPPf8Cpk-unsplash.jpg
+  prlax_alt_text_for_image: VTT Electrique dans un champ
+  captionabovetitle: Une pratique pour tous et partout
+  title: Le VTT Electrique plus facile, plus ludique
+  gridline1title: Où pratiquer le VTT Electrique
+  gridline1content: Il se pratique absolument partout, en montagne, en forêt, en garrigue.
+    Aujourd'hui, vous trouverez énormément de magasins de location de VTT Electrique
+    où que vous soyez. Les stations tel que Méribel, mettent aujourd'hui en place
+    des parcours spécialement dédiés aux VTT Electriques.
+  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1646912722/website/summer/graziano-de-maio-EhwpPCZIzf4-unsplash.jpg
+  grid_1_alt_text_for_image: Personnes descendant une piste de VTT en VTT électrique
+  gridline2title: Une sortie encadré
+  gridline2content: L’avantage d’avoir un moniteur avec vous, c’est qu’il va vous
+    expliquer comment rouler efficacement avec le VTT Electrique. Entre la technique,
+    l’économie, les gestes en descentes, vous aurez tous les secrets pour bien rouler.
+    De plus, il vous fera découvrir les plus belles randonnées des alentours.
+  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1648110488/website/summer/IMG_20201110_155723.jpg
+  grid_2_alt_text_for_image: Personne avec un VTT électrique à Valmorel au sommet
+    de la piste de VTT
+- template: textarea
+  blockBGcolor: blanc
+  title: En selle
+  content: Vous pourrez trouver différents magasins de location de VTT Electrique
+    afin de pouvoir partir profiter de la nature et des paysages en louant votre vélo.
+    Découvrez également les différentes écoles de VTT et nos indépendants qui proposent
+    des sorties de VTT Electrique.
 
 ---
