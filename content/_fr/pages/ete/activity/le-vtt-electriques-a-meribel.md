@@ -48,6 +48,19 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Sorties en VTT électrique à Méribel
+  content: |-
+    Les sorties en VTT électriques à Méribel seront très variées. C'est de multiples choix de circuit et d'itinéraires que vous pourrez faire à Méribel. La station a également mis en place des itinéraires spécialement conçus. Vous allez en trouver au nombre de 6. La plupart des circuits seront par niveau comme les pistes de ski : verte / bleue / rouge / noire. Vous pourrez naviguer également vers les autres stations des 3 vallées, ce qui vous offre des circuits beaucoup plus long et très variés. L'avantage du VTT électrique, c'est que si vous économisez assez la batterie, vous pourrez réaliser de très longues et belles randonnées. Les 3 vallées proposent également 13 circuits de VTTAE ainsi que 19 itinéraires enduros.
+
+    Être accompagné par un moniteur de VTT à Méribel va vous permettre d'avoir les conseils d'un professionnel. Il vous apprendra comment bien rouler et se servir d'un VTT électrique, de bien gérer sa batterie, de bien descendre etc. Il vous accompagnera afin de vous faire découvrir les plus belles balades en fonction de vous envies et de votre niveau. Il saura exactement quel circuit de VTT à Méribel sera adapté au groupe. Il adaptera ces sorties si vous désirez plutôt découvrir le domaine, grimper des sommets, réaliser des descentes techniques, se balader en famille..
+
+    Les sorties peuvent se faire directement avec une école de VTT qui proposent alors différentes sorties de VTT électrique à Méribel. Vous retrouverez une école de VTT à Méribel. Vous trouverez sinon des indépendants qui proposent aussi des sorties et des randonnées de VTT électriques à Méribel.
+
+    Les sorties en groupe vont varier entre 1h30 de temps à des sorties à la journée avec des thèmes parfois différents. Ensuite vous pourrez avoir des stages de VTT que ce soit pour les enfants comme pour les adultes.
+
+    Les groupes peuvent aller jusqu'à 8 personnes. Vous devrez parfois louer votre VTT Electrique afin de réaliser la sortie encadrée car certains moniteurs ou écoles ne proposent pas en plus la location de VTT. Il y a environ 6 magasins de location de VTT électrique à Méribel.
 published: false
 
 ---
