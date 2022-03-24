@@ -79,6 +79,8 @@ page_sections:
     alt_button: ''
   alt_text_for_image: 'Vue d''un canyon et de l''eau '
   blockBGcolor: ''
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=

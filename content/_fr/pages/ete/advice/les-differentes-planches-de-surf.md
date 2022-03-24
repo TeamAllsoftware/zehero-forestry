@@ -20,6 +20,8 @@ page_sections:
     du surf ainsi que le niveau.   \nIl existe plusieurs pratiques de surf et en fonction,
     le choix de la planche sera différente.  Le niveau à également un impact sur son
     choix de planche de surf car vous ne débuterez pas avec une shortboard."
+- template: newsletter
+  title: Recevez nos dernières informations
 published: false
 
 ---

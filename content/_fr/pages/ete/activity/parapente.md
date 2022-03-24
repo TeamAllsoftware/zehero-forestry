@@ -78,6 +78,8 @@ page_sections:
   prlax_alt_text_for_image: 'Vol en biplace de parapente lors d''un décollage en montagne '
   grid_1_alt_text_for_image: Parapentiste volant en parapente dans le ciel
   grid_2_alt_text_for_image: Parapentiste volant en parapente prêt d'une falaise
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''

@@ -87,5 +87,6 @@ page_sections:
     tous les cas, choisissez le cours qui vous convient et où vous vous sentirez au
     mieux.
   title: En résumé
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

@@ -107,5 +107,7 @@ page_sections:
     "Les canyonings du 06") ou encore [https://www.ze-hero.com/fr/ete/activite/canyoning-annecy](https://www.ze-hero.com/fr/ete/activite/canyoning-annecy
     "les canyonings vers Annecy").
   title: ''
+- template: newsletter
+  title: Recevez nos dernières informations
 
 ---

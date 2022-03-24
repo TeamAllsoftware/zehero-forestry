@@ -140,6 +140,8 @@ page_sections:
     href_button: ''
     alt_button: ''
   blockBGcolor: ''
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Louer votre canoë kayak
   url_to_shop_zehero: https://shop.ze-hero.com/location-materiel?equipmentslug=%2Flocation-autre&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1

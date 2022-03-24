@@ -58,6 +58,8 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+- template: newsletter
+  title: Recevez nos dernières informations
 topnav_text_color: light
 engage: Des activités accessibles, ludiques et outdoor
 button_to_link_to_ze_hero_shop:

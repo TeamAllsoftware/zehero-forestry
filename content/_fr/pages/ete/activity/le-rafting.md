@@ -82,5 +82,6 @@ page_sections:
     Alpes de Haute Provence\n* Le Pays Basques\n\nLes lieux réputés vont se trouver
     dans les gorges du Verdon, le massif des Ecrins, les gorges du Tarn, la Haute
     Garonne, le Doron, la Dranse, le Golo et bien d'autres."
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

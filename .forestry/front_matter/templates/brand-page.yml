@@ -54,7 +54,7 @@ fields:
   config:
     required: true
   label: URL for this page
-  description: 'Page url''s are on this model : "/fr/marque/nom-de-la-marque"'
+  description: 'Page url''s are on this model : "/fr/marques/nom-de-la-marque"'
 - name: meta-title
   label: META Title
   type: text

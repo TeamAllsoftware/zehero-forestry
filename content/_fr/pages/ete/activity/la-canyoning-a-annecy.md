@@ -50,5 +50,6 @@ page_sections:
     la mine. Ce canyoning sera réservé aux sportifs et aux personnes confirmés où
     vous trouverez des sauts vertigineux, des rappels et de belles cascades."
   title: ''
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

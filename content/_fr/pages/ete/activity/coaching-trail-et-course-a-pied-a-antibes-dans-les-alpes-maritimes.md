@@ -89,6 +89,8 @@ page_sections:
     Si vous préparez des compétitions, des objectifs de temps et de distance. Si vous voulez établir un calendrier annuel de vos compétitions de trail ou de course à pied, il est alors important **d’échanger** avec le coach. Cela déjà dans le but du travail à effectuer sur les séances de course à pied proposées, mais aussi afin d’avoir une **planification** cohérente.
 
     N’hésitez pas à **contacter** le coach afin d’échanger avec lui sur vos compétences, vos désirs, vos faiblesses. Il pourra également mettre en place, pendant les cours, une **attention** particulière à ces différents aspects.
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre cours de course à pied à Antibes
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=

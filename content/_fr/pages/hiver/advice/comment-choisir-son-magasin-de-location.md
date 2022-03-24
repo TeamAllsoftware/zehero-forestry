@@ -46,5 +46,6 @@ page_sections:
     * Vous avez le choix entre magasin avec enseigne (sport 2000, Ski set, Intersport, Skimium, gosport …) ou bien sans enseigne : ce sont généralement des franchises, ce qui est important c’est l’équipe sur place, sauf si vous êtes attachés à une enseigne spécifique.
     * Vous pouvez demander l’année d’achat des skis de location : ce n’est pas toujours noté sur le site.
     * Vous pouvez demander s’il existe un atelier pour l’entretien des skis. Lorsque vous louez un ski, il est important que l’entretien du ski soit effectué après chaque sortie.
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

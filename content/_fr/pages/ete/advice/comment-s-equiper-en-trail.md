@@ -165,6 +165,8 @@ page_sections:
     d’importance à l’hydratation. Vous pouvez vous retrouver en sortie sans trouver
     de point d’eau pendant très longtemps. Alors même si cela rajoute un peu de poids,
     n’hésitez pas à toujours prévoir une flasque en plus.
+- template: newsletter
+  title: Recevez nos dernières informations
 redirect_from:
 - "/fr/equipement-trail/"
 

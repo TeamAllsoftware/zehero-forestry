@@ -150,6 +150,8 @@ page_sections:
     Comme vous l’aurez compris, le ski de randonnée est une approche différente mais tout aussi appréciable que le ski alpin classique alors n’attendez plus et faites vous votre propre expérience.
   title: En Savoie, le ski de randonnée se pratique le plus souvent dans la majorité
     des stations
+- template: newsletter
+  title: Recevez nos dernières informations
 topnav_text_color: light
 engage: De belles vagues hivernales en eau froide
 published: false

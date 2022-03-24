@@ -29,31 +29,31 @@ layout: default
     <div class="container">
         <div class="row align-items-center justify-content-center z-index-0 position-relative">
             <div class="col-12 col-lg-4 col-md-7 text-center text-lg-start last-paragraph-no-margin md-margin-30px-bottom xs-margin-30px-top  wow animate__fadeIn" data-wow-delay="0.2s">
-                <span class="alt-font font-weight-600 text-extra-dark-gray text-large text-uppercase d-block margin-20px-bottom">{{ thispage.p01[page.language] }} {{ page.s01.firstname }} {{ page.s01.lastname }}</span>
+                <h2 class="alt-font font-weight-600 text-extra-dark-gray text-large text-uppercase d-block margin-20px-bottom">{{ thispage.p01[page.language] }} {{ page.s01.firstname }} {{ page.s01.lastname }}</h2>
                 <p class="text-large line-height-38px">{{ page.s02.about | truncate:150 }} <a href="#about" class="section-link" title="">{{ config.various.readmore}}</a></p>
             </div>
             <div class="col-12 col-lg-4 offset-lg-1 col-md-6 col-sm-4 text-center text-sm-start text-md-end padding-3-half-rem-tb ps-sm-0 tilt-box lg-padding-5-rem-tb md-padding-7-rem-tb home-freelancer-bg-img sm-no-padding-tb wow animate__zoomIn" data-wow-delay="0.4s" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }' style="background: url('https://res.cloudinary.com/deddrj0yb/image/upload/v1641996813/website/global/home-freelancer-img-05_rwc8kc.png') no-repeat;">
                 <span class="text-big alt-font font-weight-600 text-uppercase text-extra-dark-gray image-mask cover-background letter-spacing-minus-10px md-letter-spacing-minus-5px xs-letter-spacing-minus-1-half" style="background-image: url('{% include image.html file=download_note sizevar="genhero" width="" height="" %}')">{{ page.s02.years_experience }}</span>
             </div>
             <div class="col-12 col-lg-3 col-md-4 col-sm-4 text-center text-sm-start wow animate__fadeInRight" data-wow-delay="0.7s">
-                <h5 class="alt-font font-weight-300 text-extra-dark-gray text-uppercase w-90 mb-0 margin-15px-left xs-no-margin-left sm-w-100">{{ thispage.p02[page.language].txt01 }} <span class="font-weight-700">{{ thispage.p02[page.language].txt02 }}</span></h5>
+                <span class="h3 alt-font font-weight-300 text-extra-dark-gray text-uppercase w-90 mb-0 margin-15px-left xs-no-margin-left sm-w-100">{{ thispage.p02[page.language].txt01 }} <span class="font-weight-700">{{ thispage.p02[page.language].txt02 }}</span></span>
             </div>
         </div>
         <div class="row row-cols-1 row-cols-md-4 row-cols-sm-2 margin-6-half-rem-top">
             <div class="col sm-margin-30px-bottom text-center text-sm-start wow animate__fadeIn" data-wow-delay="0.2s">
-                <span class="alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt01 }}</span>
+                <h3 class="h6 alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt01 }}</h3>
                 <span class="alt-font font-weight-500 text-extra-dark-gray d-block">{{ page.s03.txt01 }}</span>
             </div>
             <div class="col sm-margin-30px-bottom text-center text-sm-start wow animate__fadeIn" data-wow-delay="0.4s">
-                <span class="alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt02 }}</span>
+                <h3 class="h6 alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt02 }}</h3>
                 <span class="alt-font font-weight-500 text-extra-dark-gray d-block">{{ page.s03.txt02 }}</span>
             </div>
             <div class="col xs-margin-30px-bottom text-center text-sm-start wow animate__fadeIn" data-wow-delay="0.6s">
-                <span class="alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt03 }}</span>
+                <h3 class="h6 alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt03 }}</h3>
                 <span class="alt-font font-weight-500 text-extra-dark-gray d-block">{{ page.s03.txt03 }}</span>
             </div>
             <div class="col text-center text-sm-start wow animate__fadeIn" data-wow-delay="0.8s">
-                <span class="alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt04 }}</span>
+                <h3 class="h6 alt-font font-weight-500 letter-spacing-1px d-block text-uppercase">{{ thispage.p03[page.language].txt04 }}</h3>
                 <span class="alt-font font-weight-500 text-extra-dark-gray d-block">{{ page.s03.txt04 }}</span>
             </div>
         </div>
@@ -173,7 +173,7 @@ layout: default
                         <i class="line-icon-Archery-2 icon-large text-gradient-peacock-blue-crome-yellow-2"></i>
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin">
-                        <span class="alt-font font-weight-600 text-extra-medium margin-10px-bottom d-block text-extra-dark-gray text-uppercase letter-spacing-minus-1-half">{{ page.s05.expertise01.title }}</span>
+                        <h3 class="h6 alt-font font-weight-600 text-extra-medium margin-10px-bottom d-block text-extra-dark-gray text-uppercase letter-spacing-minus-1-half">{{ page.s05.expertise01.title }}</h3>
                         <p class="text-extra-medium line-height-32px md-w-75 xs-w-100">{{ page.s05.expertise01.content }}</p>
                     </div>
                 </div>
@@ -184,7 +184,7 @@ layout: default
                         <i class="line-icon-Cursor-Click2 icon-large text-gradient-peacock-blue-crome-yellow-2"></i>
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin">
-                        <span class="alt-font font-weight-600 text-extra-medium margin-10px-bottom d-block text-extra-dark-gray text-uppercase letter-spacing-minus-1-half">{{ page.s05.expertise02.title }}</span>
+                        <h3 class="h6 alt-font font-weight-600 text-extra-medium margin-10px-bottom d-block text-extra-dark-gray text-uppercase letter-spacing-minus-1-half">{{ page.s05.expertise02.title }}</h3>
                         <p class="text-extra-medium line-height-32px md-w-75 xs-w-100">{{ page.s05.expertise02.content }}</p>
                     </div>
                 </div>
@@ -195,7 +195,7 @@ layout: default
                         <i class="line-icon-Video-Len2 icon-large text-gradient-peacock-blue-crome-yellow-2"></i>
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin">
-                        <span class="alt-font font-weight-600 text-extra-medium margin-10px-bottom d-block text-extra-dark-gray text-uppercase letter-spacing-minus-1-half">{{ page.s05.expertise03.title }}</span>
+                        <h3 class="h6 alt-font font-weight-600 text-extra-medium margin-10px-bottom d-block text-extra-dark-gray text-uppercase letter-spacing-minus-1-half">{{ page.s05.expertise03.title }}</h3>
                         <p class="text-extra-medium line-height-32px md-w-75 xs-w-100">{{ page.s05.expertise03.content }}</p>
                     </div>
                 </div>
@@ -218,7 +218,7 @@ layout: default
             <div class="col-12 col-md-10"> 
                 <div class="row">
                     <div class="col-12 margin-9-rem-top sm-margin-50px-top last-paragraph-no-margin wow animate__fadeIn">
-                        <h6 class="alt-font text-extra-dark-gray font-weight-500 margin-20px-bottom">{{ thispage.p01[page.language] }} {{ page.s01.firstname }} {{ page.s01.lastname }}</h6>
+                        <h2 class="h4 alt-font text-extra-dark-gray font-weight-500 margin-20px-bottom">{{ thispage.p01[page.language] }} {{ page.s01.firstname }} {{ page.s01.lastname }}</h2>
                         <p><span class="alt-font text-large font-weight-500">{{ page.s02.about }}</span></p>
                     </div>
                 </div>
@@ -286,71 +286,6 @@ layout: default
     </div>
 </section>
 <!-- end section -->
-
-{% comment %}
-<!-- start section -->
-<section class="margin-75px-top overflow-visible big-section padding-5px-bottom">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 text-center overlap-section wow animate__flipInX">
-                <span class="alt-font font-weight-600 d-none d-md-inline-block text-gradient-peacock-blue-crome-yellow-2 title-extra-large-heavy letter-spacing-minus-10px">{{ thispage.p06[page.language].txt01 }}</span>
-            </div>
-        </div>
-        <div class="row justify-content-center margin-3-rem-tb sm-no-margin-top">
-            <!-- start fancy text box item -->
-            <div class="col-12 col-lg-6 col-md-8 col-sm-10 margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
-                <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
-                    <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
-                        <h4 class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px mb-0">{{ page.s06.achieve01.title }}</h4>
-                    </div>
-                    <div class="feature-box-content alt-font line-height-28px border-left border-color-medium-gray padding-45px-lr lg-padding-35px-lr xs-padding-20px-left xs-no-padding-right last-paragraph-no-margin">
-                        <span class="text-extra-dark-gray">{{ page.s06.achieve01.content }}</span>
-                    </div>
-                </div>
-            </div>
-            <!-- end fancy text box item -->
-            <!-- start fancy text box item -->
-            <div class="col-12 col-lg-6  col-md-8 col-sm-10 margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.4s">
-                <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
-                    <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
-                        <h4 class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px mb-0">{{ page.s06.achieve02.title }}</h4>
-                    </div>
-                    <div class="feature-box-content alt-font line-height-28px border-left border-color-medium-gray padding-45px-lr lg-padding-35px-lr xs-padding-20px-left xs-no-padding-right last-paragraph-no-margin">
-                        <span class="text-extra-dark-gray">{{ page.s06.achieve01.content }}</span>
-                    </div>
-                </div>
-            </div>
-            <!-- end fancy text box item -->
-            <!-- start fancy text box item -->
-            <div class="col-12 col-lg-6  col-md-8 col-sm-10 md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.6s">
-                <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
-                    <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
-                        <h4 class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px mb-0">{{ page.s06.achieve03.title }}</h4>
-                    </div>
-                    <div class="feature-box-content alt-font line-height-28px border-left border-color-medium-gray padding-45px-lr lg-padding-35px-lr xs-padding-20px-left xs-no-padding-right last-paragraph-no-margin">
-                        <span class="text-extra-dark-gray">{{ page.s06.achieve03.content }}</span>
-                    </div>
-                </div>
-            </div>
-            <!-- end fancy text box item -->
-            <!-- start fancy text box item -->
-            <div class="col-12 col-lg-6  col-md-8 col-sm-10 wow animate__fadeIn" data-wow-delay="0.8s">
-                <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
-                    <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
-                        <h4 class="alt-font text-extra-dark-gray font-weight-600 letter-spacing-minus-1px mb-0">{{ page.s06.achieve04.title }}</h4>
-                    </div>
-                    <div class="feature-box-content alt-font line-height-28px border-left border-color-medium-gray padding-45px-lr lg-padding-35px-lr xs-padding-20px-left xs-no-padding-right last-paragraph-no-margin">
-                        <span class="text-extra-dark-gray ">{{ page.s06.achieve04.content }}</span>
-                    </div>
-                </div>
-            </div>
-            <!-- end fancy text box item -->
-        </div>
-    </div>
-</section>
-<!-- end section -->
-{% endcomment %}
-
 <!-- start section -->
 <section class="big-section padding-5px-top bg-light-gray">
     <div class="container">

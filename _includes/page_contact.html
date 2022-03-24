@@ -7,10 +7,10 @@
     <div class="container">
         <div class="d-flex flex-column flex-md-row justify-content-end extra-small-screen align-items-end">
             <div class="w-100 w-md-50 page-title-extra-small">
-                <h1 class="alt-font text-white position-relative padding-90px-left padding-15px-right sm-padding-55px-left mb-md-0 sm-margin-20px-bottom"><span class="page-title-separator-line bg-white w-70px sm-w-40px"></span>{{ site.data.content.generic_contact.s01.p01.[page.language]}}</h1>
+                <h1 class="h5 alt-font text-white position-relative padding-90px-left padding-15px-right sm-padding-55px-left mb-md-0 sm-margin-20px-bottom"><span class="page-title-separator-line bg-white w-70px sm-w-40px"></span>{{ site.data.content.generic_contact.s01.p01.[page.language]}}</h1>
             </div>
             <div class="w-100 w-md-50">
-                <h4 class="alt-font font-weight-500 position-relative text-white mb-0">{{ site.data.content.generic_contact.s01.p02.[page.language]}}</h4>
+                <h2 class="alt-font font-weight-500 position-relative text-white mb-0">{{ site.data.content.generic_contact.s01.p02.[page.language]}}</h2>
             </div>
         </div>
     </div>
@@ -27,14 +27,14 @@
                         <img class="border-radius-100 w-80px xs-w-50px" src="{{ site.data.authors.geoffreyarduini.photo }}" alt="">
                     </div>
                     <div class="feature-box-content">
-                        <div class="text-large text-extra-dark-gray alt-font font-weight-500 w-90">{{ site.data.content.generic_contact.s03.p01.[page.language].txt01 }}</div>
+                        <h3 class="h5 text-large text-extra-dark-gray alt-font font-weight-500 w-90">{{ site.data.content.generic_contact.s03.p01.[page.language].txt01 }}</h3>
                     </div>
                     <p class="margin-30px-top margin-15px-bottom w-80 lg-w-100">{{ site.data.content.generic_contact.s03.p01.[page.language].txt02 }}</p>
                     <a  href="tel:{{ site.data.content.generic_contact.s03.p01.[page.language].txt03 }}" class="text-small text-extra-dark-gray font-weight-500 text-decoration-line-bottom text-uppercase">{{ site.data.content.generic_contact.s03.p01.[page.language].txt03 }}</a>
                 </div>
             </div>
             <div class="col-12 col-lg-6 offset-lg-1 col-md-8">
-                <h4 class="alt-font text-black font-weight-600">{{ site.data.content.generic_contact.s02.p01.[page.language].form_title}}</h4>
+                <h3 class="h2 alt-font text-black font-weight-600">{{ site.data.content.generic_contact.s02.p01.[page.language].form_title}}</h3>
                 <form action="/fr/contact-success" name="contact-{{ page.language }}" method="POST" data-netlify="true" class="alt-font text-extra-dark-gray">
                     <input class="input-border-bottom border-color-extra-dark-gray bg-transparent placeholder-dark large-input px-0 margin-25px-bottom border-radius-0px required" type="text" name="name" placeholder="{{ site.data.content.generic_contact.s02.p01.[page.language].form_name }}" />
                     <input class="input-border-bottom border-color-extra-dark-gray bg-transparent placeholder-dark large-input px-0 margin-25px-bottom border-radius-0px required" type="email" name="email" placeholder="{{ site.data.content.generic_contact.s02.p01.[page.language].form_email }}" />

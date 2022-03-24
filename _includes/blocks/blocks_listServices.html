@@ -23,11 +23,11 @@
                     {% assign service = catList %}
                     {% assign itemList =  service | map: 'categorie' | uniq | compact | sort_natural %}
                    
-                    <li class="nav active"><a data-filter="*" href="#">Tout ({{ service | size }})</a></li>                
+                    <li class="nav active"><a data-filter="*" href="#"><h3 class="h5">Tout ({{ service | size }})</h3></a></li>                
                        
                         {% for item in itemList  %}
                             {% if item %}
-                            <li class="nav"><a data-filter=".{{ item | remove: ' ' | remove: '/'  }}" href="#">{{ item }}</a></li>
+                            <li class="nav"><a data-filter=".{{ item | remove: ' ' | remove: '/'  }}" href="#"><h3 class="h5">{{ item }}</h3></a></li>
                             {% else %}
                             {% endif %}          
                         {% endfor %}
@@ -57,7 +57,7 @@
                                     <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
                                 </div>
                                 <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                                    <h6 class="alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ service.title }}</h6>
+                                    <h4 class="h3 alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ service.title }}</h4>
                                     <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ service.baseline }}</span>
                                     <a href="{{ service.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.[serviceType].readmore }}</a>
                                 </div>

@@ -90,5 +90,6 @@ page_sections:
     href_button: ''
     alt_button: ''
   blockBGcolor: ''
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

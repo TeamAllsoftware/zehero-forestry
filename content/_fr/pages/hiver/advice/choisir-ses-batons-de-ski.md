@@ -58,5 +58,7 @@ page_sections:
 
     Enfin, pour ce qui est des rondelles il existe plusieurs diamètres qui correspondent chacun à une pratique en particulier. Les rondelles avec un diamètre d’environ 50mm sont destinées à une pratique du ski déjà approfondie. Si l’on augmente un peu le diamètre jusqu’à 80mm, on s’adresse à tous les publics et toutes les pratiques. Finalement, les diamètres aux alentours des 100mm, les plus large, sont adaptés au freeride car ils évitent de s’enfoncer dans la neige fraîche.
   title: ''
+- template: newsletter
+  title: Recevez nos dernières informations
 
 ---

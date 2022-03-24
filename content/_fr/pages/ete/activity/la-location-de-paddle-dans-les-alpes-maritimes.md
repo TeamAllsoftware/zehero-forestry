@@ -65,6 +65,8 @@ page_sections:
     Eshop nos différentes locations de paddle dans le 06.  \nPrêt du lac de St Cassien
     et de la rivière \"La Siagne\", vous pourrez également louer votre paddle dans
     des bases nautiques."
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''

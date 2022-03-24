@@ -79,5 +79,6 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

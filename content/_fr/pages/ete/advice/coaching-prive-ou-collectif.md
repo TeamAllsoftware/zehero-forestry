@@ -102,5 +102,6 @@ page_sections:
     préférable de s'entrainer avec d'autres personnes afin de se surpasser et de se
     donner encore plus.
   title: ''
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---
