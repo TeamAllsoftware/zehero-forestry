@@ -4,16 +4,16 @@ language: fr
 season: summer
 categorie: Vélo
 topnav_color_text: dark
-meta-title: Le VTT électrique à Les Ménuires, au cœur des Bellevilles
-meta-description: Dans la stations des 3 vallées, Les Ménuires est une destination
+meta-title: Le VTT électrique à Les Menuires, au cœur des Bellevilles
+meta-description: Dans la stations des 3 vallées, Les Menuires est une destination
   idéale pour la pratique du VTT électrique. Un domaine idéale pour des balades en
   famille en montagne.
-title: Le VTT électrique à Les Ménuires
+title: Le VTT électrique à Les Menuires
 permalink: "/fr/ete/activites/vtt-electrique-les-menuires"
-baseline: VTT Electrique aux Ménuires
-engage: 'Rouler aux Ménuires en VTT électrique    '
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648112210/website/VTT%20AE/M%C3%A9nuires/VTT_electrique-Vincent_LOTTENBERG-29214.jpg
-image01_alt: Des personnes faisant du VTT électrique à Les Ménuires
+baseline: VTT Electrique aux Menuires
+engage: 'Rouler aux Menuires en VTT électrique    '
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648112274/website/VTT%20AE/M%C3%A9nuires/Balade_VTTAE_en_Famille-Jeremy_BERNARD-29072.jpg
+image01_alt: Des personnes faisant du VTT électrique à Les Menuires
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
@@ -75,5 +75,10 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2colTitreTxt
+  blockBGcolor: blanc
+  title: La liberté de rouler pour tous
+  content: Le VTT Electrique aux Ménuires vous permet de découvrir les plus sentiers
+    de montagnes, accompagné d'un moniteur pour une expérience riche en découverte.
 
 ---
