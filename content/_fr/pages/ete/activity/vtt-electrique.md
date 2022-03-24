@@ -30,6 +30,22 @@ page_sections:
     qui ne souhaitent pas ressentir cette exigence physique du VTT, de partir en balade.
     Il va permettre également de réaliser des sorties plus longues, plus facilement.
     Vous pourrez alors réaliser des sorties en famille."
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648055580/website/summer/markus-spiske-B80FcaDLWCc-unsplash.jpg
+  alt_text_for_image: Cadran d'un VTT électrique avec le guidon
+  captiontitleuppercase: Découvrir la nature plus facilement
+  title: Le VTT Electrique pour tous
+  content: |-
+    L'avantage du VTT Electrique, c'est qu'il offre l'accès au VTT à un très large public. Son assistance permet d'ouvrir les possibilités de sorties longues, d'accéder à des lieux trop dur physiquement en VTT basique.
+
+    Du fait qu'il comporte plusieurs vitesses et modes de puissance, il permet de jauger, en fonction de l'intensité que vous voulez mettre, sa vitesse. Si vous pédalez en puissance 1, la sortie sera très "sport", plus exigeante. La puissance maximale, elle va vous aider énormément mais la batterie se videra beaucoup plus vite. Par contre, l'aide de la puissance du VTT Electrique s'arrête à partir de 25km/h. Il faut trouver le bon équilibre entre l'assistance électrique, le pédalage, la difficulté, l'effort musculaire ainsi que l'économie de la batterie. L'inconvénient de ce VTT est que si votre batterie est à plat, le VTT est vraiment très lourd, il sera alors très difficile de grimper une côte sans assistance.
+
+    Vous pourrez alors commander directement sur votre guidon les différents modes de puissance pour l'assistance électrique.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
