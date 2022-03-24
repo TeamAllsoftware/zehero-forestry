@@ -11,7 +11,7 @@
         <div class="row justify-content-center">
             <div class="col-12 col-lg-8 position-relative md-margin-50px-bottom wow animate__fadeIn" data-wow-delay="0.1s">
                 {% capture download_note %}{{ block.image_href }}{% endcapture %}
-                <img src="{% include image.html file=download_note sizevar="" width="800" %}" alt="{{ block.alt_text_for_image }}" />
+                <img src="{% include image.html file=download_note sizevar="" width="800" %}" alt="{{ block.alt_text_for_image }}" width="800px" height="auto" />
                 <a href="{{ block.url_video_youtube }}" class="popup-youtube absolute-middle-center video-icon-box video-icon-large">
                     <span>
                         <span class="video-icon bg-white box-shadow-extra-large">

@@ -4,7 +4,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-12 col-lg-6 position-relative text-center md-margin-30px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
                 {% capture download_note %}{{ block.image_bg_href }}{% endcapture %}
-                <img loading="lazy" src="{% include image.html file=download_note sizevar="" width="476" height="652" %}" alt="{{ block.alt_text_for_image }}" />
+                <img loading="lazy" src="{% include image.html file=download_note sizevar="" width="476" height="652" %}" alt="{{ block.alt_text_for_image }}" width="476px" height="652px" />
                 <div class="absolute-middle-center">
                     <a href="{{ block.url_video_youtube }}" class="popup-youtube video-icon-box video-icon-large position-relative">
                         <span>

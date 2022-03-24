@@ -4,7 +4,7 @@ site_logo_white: https://res.cloudinary.com/deddrj0yb/image/upload/v1641893182/w
 site_logo_brown: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-sans-slogan_7_navyp9.png
 site_logo_black: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/website/logo/Sur%20fond%20fonce%CC%81/logo-ze-hero-sans-slogan_9_nj7apy.png
 
-phonenumber: (+33) 4 79 22 35 27
+phonenumber: (+33) 4 79 01 49 99
 
 site-color: green
 site-color2: radical-red
@@ -265,3 +265,5 @@ img:
   thumbproduct: c_fill,w_600,h_675/f_auto
   bigproduct:  c_fill,w_800,h_1000/f_auto
   descproduct: c_fill,w_800,h_800/f_auto
+#image bandeau 4 colonnes 3 images verticales
+  bandeau4col: c_fill,w_400,h_490/f_auto
