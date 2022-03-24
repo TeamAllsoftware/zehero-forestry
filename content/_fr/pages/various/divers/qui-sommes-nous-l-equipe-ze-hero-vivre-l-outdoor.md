@@ -8,6 +8,9 @@ permalink: "/fr/qui-sommes-nous"
 meta-title: Qui sommes nous, contactez notre équipe de fan d'outdoor
 meta-description: Connaissez-vous Ze Hero, la référence de l'Outdoor ? Découvrez l'équipe Ze Hero, notre histoire et les valeurs qui nous animent
 baseline: ''
+redirection_from:
+  - /fr/ete/team-zehero
+  - /fr/hiver/team-zehero
 page_sections:
 - template: heroBreadcrumb
   title: Qui sommes-nous

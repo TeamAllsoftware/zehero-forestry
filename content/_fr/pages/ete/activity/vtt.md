@@ -6,7 +6,7 @@ topnav_color_text: dark
 title: VTT
 permalink: "/fr/ete/activites/vtt"
 redirect_from:
-- "/fr/ete/activite/vtt"
+  - "/fr/ete/activite/vtt"
 meta-title: Sortie VTT pour découvrir de nouveaux horizons
 meta-description: Pratiquez le VTT pour découvrir des paysages, vivre des descentes
   sensationnelles à travers la nature.
@@ -102,12 +102,7 @@ page_sections:
 
     Mais vous allez également retrouver des parcours sublimes dans les Cévennes, dans [l'Esterel ](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes)et vers le Roquebrune, dans le [Mercantour](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes), dans le Jura...
   title: Où en faire ?
-<<<<<<< HEAD
-- template: newsletter
-  title: Recevez nos dernières informations
-=======
   blockBGcolor: ''
->>>>>>> cd7d505bd46e63a80efc6497d33fa3b3e9fcba06
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''

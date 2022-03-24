@@ -2,10 +2,11 @@
  <section class="p-0 margin-3-rem-tb">
     <div class="container">
 
-        {% if block.title %}
+        {% if block.title == '' %}
+        {% else %}
         <div class="row justify-content-center">
             <div class="col-md-10 margin-one-bottom">
-                <h6 class="alt-font text-extra-dark-gray font-weight-500 margin-20px-bottom">{{ block.title }}</h6>
+               <h3 class="h3 alt-font text-extra-dark-gray font-weight-500 margin-20px-bottom">{{ block.title }}</h3>
             </div>
         </div>
         {% endif %}
