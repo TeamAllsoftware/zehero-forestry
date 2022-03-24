@@ -89,6 +89,8 @@ page_sections:
     de St Croix ou encore de Serre Ponçons.  \nOn retrouve aujourd'hui des compétitions
     de paddle sur les rivières, les lacs et la mer en été comme hiver.\n\nÉvadez-vous
     en paddle, musclez-vous, aérez-vous, randonnez et profitez."
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''

@@ -157,6 +157,8 @@ page_sections:
   atl_text_image_03: Deux cyclistes en vélo de route posés dans une route de montagne
   atl_text_image_04: Arrivé de la traversée des alpes en vélo de route sur la voix
     cyclable à Nice
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''

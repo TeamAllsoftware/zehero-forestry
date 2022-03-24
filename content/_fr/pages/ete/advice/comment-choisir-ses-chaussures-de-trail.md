@@ -135,6 +135,8 @@ page_sections:
     de foulée en regardant l’usure de vos chaussures.  \nCertaines marques proposent
     des modèles adaptés pour ces différents types de foulées."
   title: Supination/Neutre/Pronation
+- template: newsletter
+  title: Recevez nos dernières informations
 redirect_from:
 - "/fr/chaussures-trail/"
 

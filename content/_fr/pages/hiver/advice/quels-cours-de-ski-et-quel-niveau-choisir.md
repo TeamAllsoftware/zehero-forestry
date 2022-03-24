@@ -118,5 +118,6 @@ page_sections:
     du flat.\n\nPour finir, le niveau 5 va être pour des personnes cherchant à se
     perfectionner dans le snowboard et dans la discipline qu'il préfère faire."
   title: ''
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

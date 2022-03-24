@@ -95,6 +95,8 @@ page_sections:
 
     Entre Mer et Montagne, le terrain de jeux à Antibes est incroyable. Partez à l’assaut des sentiers, trouver votre coach de trail à Antibes afin de progresser et d’atteindre vos objectifs.
   title: Les coachs trail à Antibes
+- template: newsletter
+  title: Recevez nos dernières informations  
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre séance de coaching de sport à Antibes
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=

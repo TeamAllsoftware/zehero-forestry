@@ -108,6 +108,8 @@ page_sections:
     vie. Il perdra de sa qualité et de son efficacité. Il est plus judicieux de faire
     un achat plus récent afin d'avoir des skis de meilleure qualité."
   title: ''
+- template: newsletter
+  title: Recevez nos dernières informations
 advice_cat: Matériel
 
 ---

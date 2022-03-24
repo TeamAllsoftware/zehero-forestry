@@ -99,6 +99,8 @@ page_sections:
   gridline2content: Profitez d'une séance en plein air dans des lieux apaisants. Les
     séances se déroulent en groupe entre 1h et 1h30, quelque soit votre niveau. Vous
     pourrez alors profiter de ces séances de Yoga le matin ou en fin de journée.
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''

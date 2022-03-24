@@ -79,5 +79,6 @@ page_sections:
     Alors que pour une pratique de ski plus intense, vous augmenterez dans le flex
     et vous réduirez le volume afin de trouver une chaussure plus précise. "
   title: ''
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

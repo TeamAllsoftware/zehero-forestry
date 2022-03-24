@@ -71,6 +71,8 @@ page_sections:
 
     Le Fat Bike va permettra de vivre une expérience riche en émotion et en partage. Avec Ze Hero, trouvez votre activité et partez rouler sur la neige en Fat bike.
   title: Où pratiquer le Fat Bike
+- template: newsletter
+  title: Recevez nos dernières informations
 categorie: Vélo
 
 ---

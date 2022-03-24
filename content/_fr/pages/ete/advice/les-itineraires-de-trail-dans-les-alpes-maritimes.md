@@ -296,5 +296,6 @@ page_sections:
     alt_button: ''
   alt_text_for_image: Itinéraire de trail au Mont Vial
   blockBGcolor: ''
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

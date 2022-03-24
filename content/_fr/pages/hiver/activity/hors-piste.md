@@ -111,6 +111,8 @@ page_sections:
     text_button: Réserver maintenant >
   intro: Réservez dès maintenant vos activités hors piste
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
+- template: newsletter
+  title: Recevez nos dernières informations
 topnav_text_color: light
 engage: 'Explorer la montagne et ses hors pistes '
 button_to_link_to_ze_hero_shop:

@@ -77,5 +77,6 @@ page_sections:
     à nouveau. \n\nRespirer, admirer, se promener en nature est capital pour notre
     santé. Que ce soit dans le petit parc de votre ville, ou dans les forêts aux alentours,
     dans les montagnes ou autres, sortir en nature vous fera le plus grand bien."
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

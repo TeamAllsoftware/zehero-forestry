@@ -77,6 +77,8 @@ page_sections:
     Mais, cela peut permettre également de se laisser guider sur de jolis parcours,
     de réaliser des ascensions. Parfois, cela vous permet également d'avoir un ravitaillement,
     un suivi en voiture lorsque vous partez pour plusieurs jours.
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=

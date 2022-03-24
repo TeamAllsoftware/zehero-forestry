@@ -99,5 +99,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Coureur de trail courant en montagne sur un petit chemin
+- template: newsletter
+  title: Recevez nos dernières informations
 
 ---

@@ -186,6 +186,8 @@ page_sections:
     text_button: Réserver un coach sportif
   intro: Entraînement collectif ou particulier
   headline: Avec un coach sportif, la préparation est plus simple & motivante
+- template: newsletter
+  title: Recevez nos dernières informations
 redirect_from:
 - "/fr/preparation-course-trail/"
 - "/fr/coaching-trail/coaching-trail-antibes/"

@@ -100,6 +100,8 @@ page_sections:
 
     Mais vous allez également retrouver des parcours sublimes dans les Cévennes, dans [l'Esterel ](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes)et vers le Roquebrune, dans le [Mercantour](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes), dans le Jura...
   title: Où en faire ?
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''

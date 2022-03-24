@@ -142,5 +142,6 @@ page_sections:
     pour cela que nous partons régulièrement en repérage.  \nEt pourquoi pas une traversée
     des Pyrénées, ou les plus grands cols du Giro ou de la Vuelta… Rien n’est impossible."
   title: Notre relation dépassera vos attentes
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

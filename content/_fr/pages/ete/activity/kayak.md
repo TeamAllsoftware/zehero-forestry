@@ -77,6 +77,8 @@ page_sections:
     le lac de Serre Ponçon.  \nPour finir, vous pourrez partir sur des les rivières
     et faire du kayak dans les gorges de l'Ardeche, les gorges du Tarn, les gorges
     du Verdon ainsi que dans la Roya Vésubie."
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''

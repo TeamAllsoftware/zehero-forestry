@@ -64,6 +64,8 @@ page_sections:
   grid_1_alt_text_for_image: Coach sportif avec une personne lui faisant des étirements
     de la jambes
   grid_2_alt_text_for_image: Groupe de sportifs courant sur une piste d'athlétisme
+- template: newsletter
+  title: Recevez nos dernières informations
 topnav_text_color: light
 engage: Une préparation pour affronter toutes les situations
 button_to_link_to_ze_hero_shop:

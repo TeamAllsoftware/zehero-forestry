@@ -74,6 +74,8 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+- template: newsletter
+  title: Recevez nos dernières informations
 topnav_text_color: light
 engage: Une préparation pour affronter toutes les situations
 button_to_link_to_ze_hero_shop:

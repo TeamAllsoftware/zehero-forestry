@@ -101,6 +101,8 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski+de+fond&start-date=
+- template: newsletter
+  title: Recevez nos dernières informations
 topnav_text_color: light
 engage: Explorer les forêts par des parcours vallonés
 categorie: Ski

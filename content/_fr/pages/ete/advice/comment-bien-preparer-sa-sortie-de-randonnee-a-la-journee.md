@@ -152,5 +152,6 @@ page_sections:
     moindre de problème de faire cela.  \nGarder toujours avec vous quelques euros,
     si vous désirez acheter à boire ou à manger quelques part. Cela peut toujours
     être grandement utile."
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

@@ -92,6 +92,8 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+- template: newsletter
+  title: Recevez nos dernières informations
 topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
 button_to_link_to_ze_hero_shop:

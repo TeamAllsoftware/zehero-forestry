@@ -87,5 +87,6 @@ page_sections:
     Essayer le packraft d'abord sur des lacs ou des eaux calmes afin de comprendre correctement comment vous mettre, comment bien pagayer et vous tenir dessus.
 
     Vivez votre 1er expérience de packraft avec Ze Hero pour un moment riche en émotion et de découverte. Partez vivre une micro-aventure toute nouvelle pour des moments uniques.
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---

@@ -113,5 +113,7 @@ page_sections:
     Vous pouvez également renseigner des informations supplémentaires qui peuvent être importantes. Par exemple, si vous êtes fragiles d’un genou, il est
     important de le spécifier."
   title: Important
+- template: newsletter
+  title: Recevez nos dernières informations
 
 ---

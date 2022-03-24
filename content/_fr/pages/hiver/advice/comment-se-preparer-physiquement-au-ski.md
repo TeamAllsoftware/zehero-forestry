@@ -154,5 +154,6 @@ page_sections:
     tour est validé. Vous devez alors faire le maximum de tours possibles pendant
     15 mn."
   title: La piste noire
-
+- template: newsletter
+  title: Recevez nos dernières informations
 ---
