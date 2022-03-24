@@ -2,7 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
-meta-description: 'Les activités Outdoor de la station de Val d''Isère.
+meta-description: 'Les activités Outdoor de Val d''Isère.
   Un village de charme qui vous emmènera dans une montagne sauvage et sublime du parc
   national de la Vanoise. '
 topnav_color_text: light
