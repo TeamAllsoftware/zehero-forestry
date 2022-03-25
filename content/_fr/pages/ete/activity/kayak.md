@@ -27,6 +27,7 @@ page_sections:
     permet de passer dans des rapides et demandera plus de technique et de condition
     physique afin de bien gérer les cours d'eau plus rapide et puissant.
   title: Le kayak
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
   captiontitleuppercase: Plusieurs styles de Kayak
@@ -46,7 +47,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883631/website/summer/Kayak-groupe-lac_l1awzz.jpg
   captionabovetitle: Une randonnée rafraichissante
@@ -77,6 +78,7 @@ page_sections:
     le lac de Serre Ponçon.  \nPour finir, vous pourrez partir sur des les rivières
     et faire du kayak dans les gorges de l'Ardeche, les gorges du Tarn, les gorges
     du Verdon ainsi que dans la Roya Vésubie."
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
