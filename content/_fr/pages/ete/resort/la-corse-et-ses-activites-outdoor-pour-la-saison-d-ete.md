@@ -58,6 +58,20 @@ page_sections:
 
     Laissez-vous alors embarquer en rafting dans la rivière du Golo. Profitez d'un moment de partage, de sensation forte et de découverte en groupe pour une expérience unique. Vous pourrez également en pratiquer dans les gorges de Tavignano.
   title: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648205164/website/resorts/Corse/gontran-isnard-aTGu56zPu-w-unsplash.jpg
+  alt_text_for_image: Vue du ciel de la mer et de la route en Corse
+  captiontitleuppercase: La découverte d'une Corse sauvage
+  title: La Corse, nature préservée
+  content: |-
+    Découvrez la Corse et sa nature préservée en 2 roues. Partez à vélo de route en naviguant sur les plus belles routes de Corse, vous pourrez la traverser ou même effectuer le tour de Corse à vélo.
+
+    Cela sera également le lieu parfait pour pratiquer le gravel. Avec Gravel’up, partez plusieurs jours à travers la Corse en gravel en variant les terrains et les routes. Entre bitume et sentiers, vous pourrez avoir le choix de 3 expériences inédites pour découvrir la Corse. Vous pourrez parcourir la Corse en étoiles en restant au même camp de base basé dans la région de Sartène. Vous pourrez réaliser une boucle entre mer et montagne dans toute la partie sud de Corse pour 6 jours de magie. Pour les plus sportifs, vous pourrez alors traverser la corse en gravel.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
