@@ -37,9 +37,8 @@ page_sections:
     title: Sac à dos<br> de trail
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646750262/website/Instinct%20Trail/Instinct_trail_accessoires_pccxqg.webp
-    alt_text: Détail d'un sac à dos de course de trail spécialisé de la marque Instinct
-      Trail
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196351/website/assets/Personnages%20poses/Trail.png
+    alt_text: Personnage ZE HERO en tenue de trail
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751112/website/Instinct%20Trail/Instinct_trail_collection_pbjwti.webp
