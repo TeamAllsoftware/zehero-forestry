@@ -23,7 +23,16 @@ image01_alt: Paysage de corse au coucher de soleil vers Bonifacio
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité en Corse
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-page_sections: []
+page_sections:
+- template: textarea
+  blockBGcolor: blanc
+  title: La Corse
+  content: |-
+    L'île de Corse est surnommée l'île beauté, on pourrait également la voir comme la montagne dans la mer. Cette petite île est un paradis naturel, aux décors uniques. Entre ses montagnes aux pics saillants et rocailleux, ses lacs et ses rivières ainsi que ses plaines et plages paradisiaques.
+
+    La Corse est une succession de paysages paradisiaques et très sauvages en gardant une nature très préservée. Le Monte Cinto est un sommet culmine à 27100 mètres avec également le GR20 mondialement connu. Les paysages corses sont aussi façonnés par les rivières, les fleuves, les lacs. La Corse est composée aussi de plusieurs réserves naturelles d'un parc marin international. On y trouve un panel de paysage très divers et d'une richesse incroyable dans ce petit lieu qu'est la Corse.
+
+    Pour les amoureux de la nature, c'est un lieu paradisiaque. Entre mer et montagne, plages paradisiaques et petite criques, lacs et rivières, la Corse fera le bonheur de tous.
 published: false
 
 ---
