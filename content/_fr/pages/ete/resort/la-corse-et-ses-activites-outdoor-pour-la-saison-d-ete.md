@@ -69,7 +69,7 @@ page_sections:
 
     Cela sera également le lieu parfait pour pratiquer le gravel. Avec Gravel’up, partez plusieurs jours à travers la Corse en gravel en variant les terrains et les routes. Entre bitume et sentiers, vous pourrez avoir le choix de 3 expériences inédites pour découvrir la Corse. Vous pourrez parcourir la Corse en étoiles en restant au même camp de base basé dans la région de Sartène. Vous pourrez réaliser une boucle entre mer et montagne dans toute la partie sud de Corse pour 6 jours de magie. Pour les plus sportifs, vous pourrez alors traverser la corse en gravel.
 
-    Prenez de la hauteur et découvrez la Corse vue du ciel en parapente. Quoi de mieux que de vivre son baptême dans les airs avec les paysages corse. Montagnes, mer et lac, des couleurs intenses, des paysages sauvages pour un moment unique en l'air. Les paysages seront alors impressionnant vu du ciel
+    Prenez de la hauteur et découvrez la Corse vue du ciel en parapente. Quoi de mieux que de vivre son baptême dans les airs avec les paysages corse devant vous. Montagnes, mer et lacs, des couleurs intenses, des paysages sauvages pour un moment unique dans les airs. Les paysages seront alors impressionnants vu du ciel.
   button:
     text_button: ''
     href_button: ''
