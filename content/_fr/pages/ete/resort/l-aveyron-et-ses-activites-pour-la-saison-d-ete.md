@@ -23,7 +23,21 @@ image01_alt: Paysage des plateaux du Larzac dans l'Aveyron
 button_to_link_to_ze_hero_shop:
   button_text: Les activités de Aveyron
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
-page_sections: []
+page_sections:
+- template: textarea
+  blockBGcolor: blanc
+  title: L'Aveyron
+  content: "L'Aveyron est situé dans la région de l'Occitanie. Ce département est
+    d'une richesse naturelle incroyable tout comme son patrimoine naturel et culturel.
+    Une nature très préservé avec une multitude de plateau avec une mosaïque de couleurs
+    et de variété d'environnement. Vous allez retrouver le plateau de l'Aubrac, le
+    vallon de Marcillac, le plateau du Larzac, les vallées du Ségala, les terres rouges
+    de Camarès, le haut plateau des Causses. L'Aveyron est une terre de trésor, d'une
+    nature insolite avec les fameux tourbières, ses grottes, ses dolmens et menhirs,
+    etc.  \nC'est le département où est classé le plus de villages classés \"Plus
+    beaux villages de France\". Millau, Rodez, Conques, Estaing, Peyre et bien d'autres
+    sont des villages chargés d'histoire et de culture.\n\nVivez un dépaysement total,
+    l'Aveyron est une terre où les activités outdoor prospèrent. "
 published: false
 
 ---
