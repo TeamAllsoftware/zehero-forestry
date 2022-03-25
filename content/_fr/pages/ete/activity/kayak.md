@@ -28,6 +28,10 @@ page_sections:
     physique afin de bien gérer les cours d'eau plus rapide et puissant.
   title: Le kayak
   blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195890/website/assets/Recadr%C3%A9es/kayak.png
+  alt_text_for_image: Kayak ZE HERO au bord de l'eau
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
   captiontitleuppercase: Plusieurs styles de Kayak
