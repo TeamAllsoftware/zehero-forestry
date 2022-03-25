@@ -49,6 +49,15 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Le VTT sera également une activité à faire dans les montagnes et les autres lieux nature de Corse. Que ce soit en VTT classique, en VTT électrique, vous trouverez de nombreux sentiers tel que la GT20 qui vous permet de traverser la Corse à Vélo. Vous pourrez vous aventurer vers le Niolu ou le plateau de Cuscione pour les plus sportifs. Le VTT sera également pratiqué au bord de mer. Vous pourrez alors varier les plaisirs et les lieux afin de découvrir un panel de paysage. Plusieurs organismes de séjour, de randonnée à la journée vous proposeront des sorties en groupe encadré en Corse. Vous trouverez également des moniteurs indépendants.
+
+    En montagne c'est également le lieu parfait pour la pratique du Canyoning et Corse c'est le paradis. Le terrain de jeu en Corse est incroyable et ses canyons sont également très réputés. Vous pourrez alors le pratiquer dans le massif de Bavella, les canyons de la Vacca, de la Purcaraccia, de Piscia di Gallo, de la Richiusa et de Tavignano. Que ce soit pour de la marche aquatique, pour vous initier au canyoning ou pour les plus sportifs à la recherche de sensation forte, vous trouverez votre bonheur. De plus, les canyons de Corse sont vous feront découvrir des paysages sublimes.
+
+    Laissez-vous alors embarquer en rafting dans la rivière du Golo. Profitez d'un moment de partage, de sensation forte et de découverte en groupe pour une expérience unique. Vous pourrez également en pratiquer dans les gorges de Tavignano.
+  title: ''
 published: false
 
 ---
