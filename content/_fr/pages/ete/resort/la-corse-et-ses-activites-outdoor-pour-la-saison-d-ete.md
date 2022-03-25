@@ -74,6 +74,19 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  blockBGcolor: blanc
+  title: Profitez de la mer
+  content: "La Corse offre également de multiples activités nautiques. Plongez dans
+    ses plages sublimes pour profiter d'une nature mystérieuse et sublime. Vous pourrez
+    alors pratiquer la plongée et le snorkeling. Vous aurez également la possibilité
+    de louer des kayaks de mer et de partir faire des excursions et de belles randonner.
+    Louer également un paddle pour randonner et profiter d'une journée sportive et
+    de découverte.  \nEn Corse c'est aussi un lieu idéal pour pratiquer le kitesurf
+    et de wakeboard à l'île Rousse, Calvi, Bonifacio ou encore Calcatoggio.\n\nVous
+    l’avez compris, la Corse est un paradis pour tous les amoureux de la nature, des
+    activités outdoor. Vous pourrez pratiquer toutes les meilleures activités outdoor
+    dans des cadres incroyables et uniques, des cadres comme vous ne trouverez nulle
+    part et surtout dans un petit rayon."
 
 ---
