@@ -72,6 +72,24 @@ page_sections:
     de kayak
   grid_2_alt_text_for_image: Vue d'une personne dans un kayak naviguant sur la mer
     avec les collines à cotés
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  title: 'Les différents lieux '
+  content: "En France, il existe énormément de lieux où pratiquer le kayak. Vous allez
+    retrouver donc beaucoup de location et de randonnée sur mer avec des lieux parfaits
+    pour randonner à la journée tel que les Calanques, le Cap [d'Antibes ](https://www.ze-hero.com/fr/ete/destinations/antibes)et
+    l'Esterel, Porquerolles et la Corse.  \nEnsuite on va retrouver le kayak sur lac
+    avec l'incontournable lac de St Croix, le lac d'Annecy, le Lac de St Cassien,
+    le lac de Serre Ponçon.  \nPour finir, vous pourrez partir sur des les rivières
+    et faire du kayak dans les gorges de l'Ardeche, les gorges du Tarn, les gorges
+    du Verdon ainsi que dans la Roya Vésubie."
+  captiontitleuppercase: LIEUX
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648198217/website/assets/Personnages%20poses/Kayak.png
+  alt_text_for_image: Personnage ZE HERO en tenue de Kayak avec une pagaie à la main
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: 'Les différents lieux '
   content: "En France, il existe énormément de lieux où pratiquer le kayak. Vous allez
