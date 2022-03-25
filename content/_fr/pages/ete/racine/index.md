@@ -37,7 +37,7 @@ page_sections:
     title: Sac à dos<br> de trail
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196768/website/assets/Personnages%20poses/Trail.png
+    image_href: s
     alt_text: Personnage ZE HERO en tenue de trail
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
