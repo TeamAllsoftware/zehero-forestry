@@ -54,6 +54,41 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648193860/website/summer/dmitrii-vaccinium-YEsccJQ8tpk-unsplash.jpg
+  alt_text_for_image: Personne en gravel sur un sentier de gravier
+  captiontitleuppercase: Le gravel pour de nouveau horizon
+  title: Rouler plus loin
+  content: |-
+    Le gravel permet de rouler plus loin et d’ouvrir les possibilités d’itinéraires. Il vous permet alors de réaliser des aventures incroyables en partant en bikepacking. Sacoches sur le vélo, à vous les micro-aventures, entre les cols mythiques, les sentiers rocailleux, vous serez livre de choisir où aller.
+
+    Ce vélo passe-partout est idéal pour les virés de plusieurs jours, pour des itinéraires variés afin d’emprunter tous types de chemins, de visiter des lieux où à vélo de route vous n’aurez pu passer. C’est un moyen idéal de voyager à vélo car il vous permet de bivouaquer en nature.
+
+    Pour tous les amoureux des grands espaces, les amateurs des 2 roues, les sportifs acharnés, ceux à la recherche d'aventures et de découverte, le gravel sera l'activité parfaite.
+
+    Le gravel est une activité pour tous même si elle reste assez physique et parfois technique. Bien sûr cela variera en fonction du nombre de kilomètres, des difficultés du parcours et du dénivelé.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Des expériences uniques
+  content: |-
+    Vous trouverez donc des écoles et des moniteurs indépendants qui vont proposer des sorties, des initiations à gravel. Vous pourrez partir alors pour quelques heures, comme à la journée pour des parcours en fonction des niveaux et des envies.
+
+    Vous pourrez alors également réaliser des traversés et des circuits sur plusieurs jours. Avec Gravel'up, vous pourrez alors découvrir différentes expériences :
+
+    * des expéditions de plusieurs jours en étoile autour du camp de base
+    * une boucle avec des nuits en campement ou refuge
+    * une traversée d'un point A vers B
+
+    Les distances et les dénivelés vont alors augmenter en fonction du choix des expériences. L'engagement physique sera alors plus élevé et une préparation physique sera alors importante à faire en amont.
+
+    Vous pourrez alors réaliser des traversés où vous serez tout pris en charge (hébergement / ravitaillement / repas...). Vous pourrez choisir entre des destinations comme la Corse, l'Aveyron, les Vosges et choisissant le type d'expérience que vous souhaitez.
+
+    Les groupes de gravel peuvent aller jusqu'au nombre de 10 personnes.
 published: false
 
 ---
