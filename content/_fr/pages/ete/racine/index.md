@@ -47,7 +47,7 @@ page_sections:
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
 - template: 2coltxtimg
   blockBGcolor: gris
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196354/website/assets/Personnages%20poses/Shop.png
+  image_col_left_href: s
   alt_text_for_image: Le eshop dans la rubrique vente de skis d'occasion
   captiontitleuppercase: Fin de la saison de ski
   title: VIVE LES SKIS D'OCCASION !
