@@ -89,6 +89,10 @@ page_sections:
     Vous pourrez alors réaliser des traversés où vous serez tout pris en charge (hébergement / ravitaillement / repas...). Vous pourrez choisir entre des destinations comme la Corse, l'Aveyron, les Vosges et choisissant le type d'expérience que vous souhaitez.
 
     Les groupes de gravel peuvent aller jusqu'au nombre de 10 personnes.
-published: false
+- template: 2colTitreTxt
+  blockBGcolor: blanc
+  title: Liberté, aventure, exploré
+  content: Le Gravel est plus qu'une activité de vélo, c'est une aventure, une expérience
+    riche en découverte, en paysage et en partage.
 
 ---
