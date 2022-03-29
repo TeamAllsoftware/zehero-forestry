@@ -12,7 +12,7 @@ meta-description: " Seul, ou à plusieurs, sur lacs, rivières ou même sur la m
   kayak vous offre une expérience hors du commun !"
 baseline: Naviguez, glissez, profitez
 engage: Explorez et (re)découvrez en glissant sur l'eau
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588328/website/summer/jeff-isaak-p7nrRdMDebM-unsplash_wxc6gr.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545630/website/summer/christian-bowen-uknf_4Umtqc-unsplash.jpg
 image01_alt: Randonnée en kayak avec une personne dans un kayak sur un lac face à
   la montagne
 categorie: Eaux vives
