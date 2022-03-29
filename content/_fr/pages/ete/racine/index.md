@@ -37,9 +37,8 @@ page_sections:
     title: Sac à dos<br> de trail
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646750262/website/Instinct%20Trail/Instinct_trail_accessoires_pccxqg.webp
-    alt_text: Détail d'un sac à dos de course de trail spécialisé de la marque Instinct
-      Trail
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648197165/website/assets/Personnages%20poses/Trail.png
+    alt_text: Personnage ZE HERO en tenue de trail
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751112/website/Instinct%20Trail/Instinct_trail_collection_pbjwti.webp
@@ -48,7 +47,7 @@ page_sections:
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
 - template: 2coltxtimg
   blockBGcolor: gris
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645804153/website/winter/PXL_20201219_101906679_tuwz64.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642676740/website/winter/ze-hero-marketplace-eshop_jwwp12.png
   alt_text_for_image: Le eshop dans la rubrique vente de skis d'occasion
   captiontitleuppercase: Fin de la saison de ski
   title: VIVE LES SKIS D'OCCASION !

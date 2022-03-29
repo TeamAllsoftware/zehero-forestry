@@ -12,7 +12,7 @@ meta-description: " Seul, ou à plusieurs, sur lacs, rivières ou même sur la m
   kayak vous offre une expérience hors du commun !"
 baseline: Naviguez, glissez, profitez
 engage: Explorez et (re)découvrez en glissant sur l'eau
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588328/website/summer/jeff-isaak-p7nrRdMDebM-unsplash_wxc6gr.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545630/website/summer/christian-bowen-uknf_4Umtqc-unsplash.jpg
 image01_alt: Randonnée en kayak avec une personne dans un kayak sur un lac face à
   la montagne
 categorie: Eaux vives
@@ -27,6 +27,11 @@ page_sections:
     permet de passer dans des rapides et demandera plus de technique et de condition
     physique afin de bien gérer les cours d'eau plus rapide et puissant.
   title: Le kayak
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195890/website/assets/Recadr%C3%A9es/kayak.png
+  alt_text_for_image: Kayak ZE HERO au bord de l'eau
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
   captiontitleuppercase: Plusieurs styles de Kayak
@@ -46,7 +51,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883631/website/summer/Kayak-groupe-lac_l1awzz.jpg
   captionabovetitle: Une randonnée rafraichissante
@@ -67,6 +72,24 @@ page_sections:
     de kayak
   grid_2_alt_text_for_image: Vue d'une personne dans un kayak naviguant sur la mer
     avec les collines à cotés
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  title: 'Les différents lieux '
+  content: "En France, il existe énormément de lieux où pratiquer le kayak. Vous allez
+    retrouver donc beaucoup de location et de randonnée sur mer avec des lieux parfaits
+    pour randonner à la journée tel que les Calanques, le Cap [d'Antibes ](https://www.ze-hero.com/fr/ete/destinations/antibes)et
+    l'Esterel, Porquerolles et la Corse.  \nEnsuite on va retrouver le kayak sur lac
+    avec l'incontournable lac de St Croix, le lac d'Annecy, le Lac de St Cassien,
+    le lac de Serre Ponçon.  \nPour finir, vous pourrez partir sur des les rivières
+    et faire du kayak dans les gorges de l'Ardeche, les gorges du Tarn, les gorges
+    du Verdon ainsi que dans la Roya Vésubie."
+  captiontitleuppercase: LIEUX
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648198217/website/assets/Personnages%20poses/Kayak.png
+  alt_text_for_image: Personnage ZE HERO en tenue de Kayak avec une pagaie à la main
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   title: 'Les différents lieux '
   content: "En France, il existe énormément de lieux où pratiquer le kayak. Vous allez
@@ -77,6 +100,7 @@ page_sections:
     le lac de Serre Ponçon.  \nPour finir, vous pourrez partir sur des les rivières
     et faire du kayak dans les gorges de l'Ardeche, les gorges du Tarn, les gorges
     du Verdon ainsi que dans la Roya Vésubie."
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
