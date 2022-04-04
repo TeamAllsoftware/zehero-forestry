@@ -84,11 +84,11 @@ page_sections:
   captiontitleuppercase: Emulsion d'un groupe
   title: Coaching en groupe
   content: Le coaching en groupe permet d’avoir l’émulsion des personnes qui vont
-    s’entraîner avec vous. Motivation et entraide seront présent lors de chaque séance.
-    Ce type de coaching permet de partager ces séances avec un groupe et de pouvoir
-    échanger, se dépasser également. C’est alors plus ludique, on peut créer des duels,
-    on sort de sa zone de confort, tout le monde s’encourage. Par rapport au coaching
-    privé, c’est un cours plus économique.
+    s’entraîner avec vous. Motivation et entraide seront présentes lors de chaque
+    séance. Ce type de coaching permet de partager ces séances avec un groupe et de
+    pouvoir échanger, se dépasser également. C’est alors plus ludique, on peut créer
+    des duels, on sort de sa zone de confort, tout le monde s’encourage. Par rapport
+    au coaching privé, c’est un cours plus économique.
   button:
     text_button: ''
     href_button: ''
