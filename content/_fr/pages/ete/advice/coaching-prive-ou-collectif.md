@@ -9,7 +9,7 @@ topnav_color_text: light
 title: Coaching privé ou collectif ?
 permalink: "/fr/ete/conseils/coaching-prive-collectif"
 redirect_from:
-  - /fr/ete/conseil/coaching-prive-collectif
+- "/fr/ete/conseil/coaching-prive-collectif"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062762/website/Coaching/Salle_de_sport-28_yjkjev.jpg
 image01_alt: Salle de musculation et d'entraînement
 button_to_link_to_ze_hero_shop:
@@ -22,6 +22,7 @@ page_sections:
     Vous désirez vous remettre en forme ? Faire une **préparation physique** pour un objectif ou un défi ? Vous avez du mal à vous motiver seul(e) ? Le **coaching privé** est la meilleure solution.
 
     Le coach vous est 100% dédié, il va vous accompagner et vous guider pendant chaque séance. Il permettra d’avoir un regard précis sur toutes vos postures, de vous **accompagner** dans chaque exercice et de vous suivre. Il permettra de vous faire **progresser** et de vous corriger.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062755/website/Coaching/SALLE_oxqywo.jpg
   title: Les avantages
@@ -39,12 +40,14 @@ page_sections:
     alt_button: ''
   alt_text_for_image: Un coach sportif encadrant une personne en coaching sportif
     soulevant un poid
+  blockBGcolor: ''
 - template: textarea
   title: Quelques conseils
   content: |-
     Chaque coach peut avoir sa spécialité et va permettre d’avoir des connaissances plus importantes dans un ou plusieurs domaines. Il est important alors de signaler auprès du coach vos attentes. Renseignez, vous aussi, directement sur la présentation d’un coach pour savoir ses spécialités.
 
     Le coach privé va pouvoir venir directement chez vous ou dans un lieu qui vous convient. Le lieu s’adapte aussi en fonction des exercices à faire en extérieur.
+  blockBGcolor: ''
 - template: 2colimgtxt
   content: |-
     On peut retrouver par exemple des spécialités comme :
@@ -52,7 +55,7 @@ page_sections:
     * la course à pied et trail
     * la remise en forme
     * la musculation
-    * la préparation physique général
+    * la préparation physique générale
     * la perte de poids
     * les sports de combat
     * étirement et yoga
@@ -68,12 +71,14 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Femme sautant en levant le genoux en coaching sportif
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Quel que soit votre ou vos objectifs, le coach sera là pour vous y emmener, vous accompagner. De plus, il amène le matériel adéquat pour chaque séance. En plus de son expertise professionnelle, il sera motivant pour vos séances. Il apportera également ses connaissances complémentaires sur la nutrition, la récupération…
 
     N’hésitez plus si vous désirez une séance adaptée à vous, à vos besoins pour progresser.
   title: Les objectifs
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883624/website/summer/coaching-groupe-sport_c4axh7.jpg
   captiontitleuppercase: Emulsion d'un groupe
@@ -90,6 +95,7 @@ page_sections:
     alt_button: ''
   alt_text_for_image: Groupe de personne faisant du sport lors d'un cours de coaching
     sportif
+  blockBGcolor: ''
 - template: textarea
   content: Lors d'une séance de coaching en groupe, généralement les thèmes de séances
     seront alors imposées par le coach. Vous participerez à des entraînements de groupe
@@ -102,6 +108,8 @@ page_sections:
     préférable de s'entrainer avec d'autres personnes afin de se surpasser et de se
     donner encore plus.
   title: ''
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+
 ---
