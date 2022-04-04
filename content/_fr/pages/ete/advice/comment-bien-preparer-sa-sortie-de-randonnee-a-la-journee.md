@@ -54,13 +54,13 @@ page_sections:
 - template: textarea
   content: "1. Les kilomètres\n2. Le dénivelé\n3. La technicité du parcours\n\nTout
     d'abord, il faut savoir que pour des personnes novices dans la randonnée, la vitesse
-    moyenne va être de 2km/h à Il aura donc plusieurs niveaux de difficulté selon
+    moyenne va être de 2km/h. Il y aura donc plusieurs niveaux de difficulté selon
     ces trois indicateurs. Le kilomètre et le dénivelé sont deux paramètres qui se
-    lient pour votre tracé. Plus il y a aura de dénivelé et moins il y aura de kilomètres
-    alors les montées seront très raide.  \nL'important, c'est de commencer par des
+    lient pour votre tracé. Plus il y aura de dénivelé et moins il y aura de kilomètres
+    alors les montées seront très raides.  \nL'important, c'est de commencer par des
     parcours faciles et de comprendre ces indicateurs et sa forme physique durant
-    l'effort. Vous pourrez alors jauger et vous aventurer sur des parcours plus long
-    ou non.\n\nEn ce qui concerne la technicité du parcours, vous pourrez retrouver
+    l'effort. Vous pourrez alors jauger et vous aventurer sur des parcours plus ou
+    moins longs.\n\nEn ce qui concerne la technicité du parcours, vous pourrez retrouver
     les différentes informations si vous trouvez des descriptions des parcours, des
     topos, etc. Un terrain technique, c'est par exemple des sentiers avec énormément
     de cailloux, de marcher à travers des pierriers, des chemins très raides avec
@@ -79,10 +79,10 @@ page_sections:
   content: "Partir randonner à la journée, c'est bien s'équiper afin de profiter pleinement
     de sa sortie.  \nIl sera important de prendre une paire de chaussures adaptées
     à la marche en montagne. Des chaussures qui seront à tiges hautes ou basses, avec
-    de l'accroche, qui protège vos orteils et qui maintiennent correctement votre
+    de l'accroche, qui protègent vos orteils et qui maintiennent correctement votre
     cheville. Certaines sont plus légères, voire type trail, d'autres seront plus
     lourdes pour une meilleure protection. En fonction, vous pouvez également les
-    prendre imperméables ou dotés de la membrane Gore-tex. Le plus important, c'est
+    prendre imperméables ou dotées de la membrane Gore-tex. Le plus important, c'est
     de les essayer avant de partir randonner avec.\n\nEn fonction de la période, du
     temps et de la météo, il faudra adapter votre tenue. Pantalon technique ou short,
     vêtement technique et respirant, coupe-vent, k-way et poncho, soft shell ainsi
@@ -111,8 +111,9 @@ page_sections:
     est un plus si vous savez l'utiliser.\n\nEn partant à la journée, il n'est pas
     utile de trop charger son sac. Et pour ce qui concerne le sac et sa taille, un
     sac de 20L à 30L est idéal pour ce type de randonnée. Le sac doit également être
-    bien ajusté en fonction de votre morphologie. Découvrez également nos [https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running,](https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
-    \"sacs de trail Instinct Trail\") qui peuvent vous accompagner pour une journée
+    bien ajusté en fonction de votre morphologie. Découvrez également nos [sacs de
+    trail Instinct Trail](https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    \"Sacs de trail Instinct Trail\"), qui peuvent vous accompagner pour une journée
     de randonnée.\n\nL'eau ne sera jamais de trop dans votre sac de randonnée. Une
     gourde de 1L est le minimum à avoir sur soi. Selon le parcours et votre itinéraire
     vous pouvez vous retrouver pendant plusieurs kilomètres sans aucun point d'eau.
@@ -123,7 +124,7 @@ page_sections:
     une gourde filtrant l'eau directement. Si vous désirez boire directement dans
     une rivière, il est important d'être haut en altitude afin d'éviter les alpages
     et les troupeaux. Mais l'eau est alors peu minérale et très froide, cela peut
-    être alors indigeste. Si, il y a la présence de troupeau de mouton ou de vache,
+    alors être indigeste. S'il y a la présence de troupeau de mouton ou de vache,
     il est fortement déconseillé de boire l'eau directement. Il faudrait mettre une
     pastille ou alors avoir une gourde filtrante.  \nLes cartes IGN présentent différentes
     signalisations pour indiquer des fontaines, des sources d'eau, des puits et autre
@@ -141,7 +142,7 @@ page_sections:
 
     S'alimenter en randonnée, c'est tout d'abord manger pendant l'effort. On va alors privilégier des aliments faciles à avaler et plutôt sucrés. On va retrouver les fruits secs, des pâtes de fruits, compotes, barres énergétiques / céréales, fruits... Il est important de faire une petite pause et d'avaler quelque chose le matin et en fin de journée vers l'heure du goûter. Il ne faut pas attendre de se sentir fatigué ou en hypoglycémie pour manger. Il faut toujours avoir un coup d'avance.
 
-    Le midi, vous pouvez manger un pique-nique traditionnel ou alors apporter un réchaud et vous faire cuire soit un plat déshydraté par exemple. Aujourd'hui on trouve des réchauds très faciles à transporter, avec des petites bombonnes de gaz et des casseroles légères et pratiques. Prendre un petit réchaud peut être idéal pour l'heure du café ou du thé. Sinon vous pouvez apporter un thermos afin d'en profiter facilement, tout le long de la journée.
+    Le midi, vous pouvez manger un pique-nique traditionnel ou alors apporter un réchaud et vous faire cuire un plat déshydraté par exemple. Aujourd'hui on trouve des réchauds très faciles à transporter, avec des petites bombonnes de gaz et des casseroles légères et pratiques. Prendre un petit réchaud peut être idéal pour l'heure du café ou du thé. Sinon vous pouvez apporter un thermos afin d'en profiter facilement, tout le long de la journée.
   button:
     text_button: ''
     href_button: ''
@@ -152,9 +153,9 @@ page_sections:
   content: "Lorsque l'on part en randonnée et si nous sommes seuls, il est important
     d'avoir son téléphone chargé. Mais il est aussi important de prévenir un proche
     de l'endroit où vous aller randonner. C'est toujours plus rassurant s'il y a le
-    moindre de problème de faire cela.  \nGarder toujours avec vous quelques euros,
-    si vous désirez acheter à boire ou à manger quelques part. Cela peut toujours
-    être grandement utile."
+    moindre problème de faire cela.  \nGardez toujours avec vous quelques euros, si
+    vous désirez acheter à boire ou à manger quelque part. Cela peut être grandement
+    utile."
   blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
