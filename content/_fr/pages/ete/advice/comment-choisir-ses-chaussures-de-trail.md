@@ -65,9 +65,9 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: |-
-    Si vous courez un terrain plutôt forêt, sec et polyvalent, une chaussure plus souple sera idéale. Il ne sera pas nécessaire d’avoir des crampons importants dessus. Afin de garder le maximum d’efficacité, prenez donc une chaussure plutôt légère et souple. Si vous courez dans la neige, il faudra surtout chercher une chaussure avec des crampons beaucoup plus grands, plutôt imperméables accompagnés de guêtres.
+    Si vous courez sur un terrain de type forêt, sec et polyvalent, une chaussure plus souple sera idéale. Il ne sera pas nécessaire d’avoir des crampons importants dessus. Afin de garder le maximum d’efficacité, prenez donc une chaussure plutôt légère et souple. Si vous courez dans la neige, il faudra surtout chercher une chaussure avec des crampons beaucoup plus grands, plutôt imperméables accompagnés de guêtres.
 
-    La forme des crampons a une importance dans le bon maintien et dans l’accroche de la chaussure sur le terrain. Ils sont généralement placés avec la pointe vers l’avant pour l’avant du pied et inversement pour l’arrière. Lorsque les formes de crampons changent, c’est aussi pour améliorer la qualité de l’accroche. Cela est surtout fait pour améliorer l’accroche dans des terrains techniques lorsqu’il y a des appuis fuyants et des changements de direction. La gomme du crampon a aussi son importance. Une gomme plus tendre permettra d’avoir une meilleure tenue sur des parties glissantes et lisses, et une gomme dure aura une meilleure dans des terrains plutôt mou.
+    La forme des crampons a une importance dans le bon maintien et dans l’accroche de la chaussure sur le terrain. Ils sont généralement placés avec la pointe vers l’avant pour l’avant du pied et inversement pour l’arrière. Lorsque les formes de crampons changent, c’est aussi pour améliorer la qualité de l’accroche. Cela est surtout fait pour améliorer l’accroche dans des terrains techniques lorsqu’il y a des appuis fuyants et des changements de direction. La gomme du crampon a aussi son importance. Une gomme plus tendre permettra d’avoir une meilleure tenue sur des parties glissantes et lisses, et une gomme dure aura une meilleure adhérence dans des terrains plutôt mous.
   title: ''
   blockBGcolor: ''
 - template: 2colimgtxt
