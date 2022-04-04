@@ -57,9 +57,9 @@ page_sections:
   title: Quand les kilomètres défilent
   gridline1title: De quelques heures à plusieurs jours
   gridline1content: Le vélo de route vous permet de partir quelques heures sur un
-    parcours, une boucle ou simplement un ascension d'un ou deux cols. Mais il permet
+    parcours, une boucle ou simplement une ascension d'un ou deux cols. Mais il permet
     également de partir en itinéraire sur plusieurs jours afin de réaliser des traversées
-    telle que la traversée des Alpes.
+    telles que la traversée des Alpes.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642520836/website/summer/pexels-pavel-danilyuk-5807677_qkak2i.jpg
   gridline2title: Des parcours uniques
   gridline2content: Vous trouverez un panel d'itinéraires et de parcours variés qui
