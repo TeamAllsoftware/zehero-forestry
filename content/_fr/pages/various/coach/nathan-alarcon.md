@@ -68,7 +68,7 @@ s04:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062762/website/Coaching/Salle_de_sport-28_yjkjev.jpg
     alt: Salle de musculation avec beaucoup de matériel de musculation et d'exercice
     txt01: Salle de coaching
-    txt02: Tout le matériel pour des entraînements optimales
+    txt02: Tout le matériel pour des entraînements optimaux
 s05:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062755/website/Coaching/SALLE_oxqywo.jpg
   image01_alt: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062754/website/Coaching/8_pgeprx.jpg
