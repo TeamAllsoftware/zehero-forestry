@@ -79,7 +79,7 @@ s05:
     title: Ces préstations
     content: Je vous propose des séances de coaching personnalisé et un accompagnement
       individuel à Lyon. Je suis là pour vous motiver et vous aider à atteindre un
-      bien-être physique et mental à travere pratique sportive régulière et adaptée.
+      bien-être physique et mental à travers la pratique sportive régulière et adaptée.
       Coaching en salle, à domicile, en extérieur ou en groupe
   expertise03:
     title: Spécialités
