@@ -46,9 +46,9 @@ page_sections:
   title: De précieux conseils pour vous aider dans vos choix de randonnée, de surf,
     de trail...
   content: |-
-    Le trail est très technique, il nécessite un équipement poussé afin d’alier légéreté et performance - [Lire notre fiche conseil sur comment bien s’équiper en trail](/fr/ete/conseils/equipement-trail).
+    Le trail est très technique, il nécessite un équipement poussé afin d’allier légèreté et performance - [Lire notre fiche conseil sur comment bien s’équiper en trail](/fr/ete/conseils/equipement-trail).
 
-    Choisir ses chaussures de Trail n’est pas évident avec ce grand choix. Yann, notre spéialiste trail vous dit tout dans cette fiche conseil - [Tout ce qu’il faut savoir sur les chaussures de trail](/fr/ete/conseils/chaussures-trail).
+    Choisir ses chaussures de Trail n’est pas évident avec ce grand choix. Yann, notre spécialiste trail vous dit tout dans cette fiche conseil - [Tout ce qu’il faut savoir sur les chaussures de trail](/fr/ete/conseils/chaussures-trail).
   button:
     text_button: 
     href_button: 
