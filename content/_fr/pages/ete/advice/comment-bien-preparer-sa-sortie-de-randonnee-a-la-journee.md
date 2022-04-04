@@ -142,7 +142,7 @@ page_sections:
 
     S'alimenter en randonnée, c'est tout d'abord manger pendant l'effort. On va alors privilégier des aliments faciles à avaler et plutôt sucrés. On va retrouver les fruits secs, des pâtes de fruits, compotes, barres énergétiques / céréales, fruits... Il est important de faire une petite pause et d'avaler quelque chose le matin et en fin de journée vers l'heure du goûter. Il ne faut pas attendre de se sentir fatigué ou en hypoglycémie pour manger. Il faut toujours avoir un coup d'avance.
 
-    Le midi, vous pouvez manger un pique-nique traditionnel ou alors apporter un réchaud et vous faire cuire soit un plat déshydraté par exemple. Aujourd'hui on trouve des réchauds très faciles à transporter, avec des petites bombonnes de gaz et des casseroles légères et pratiques. Prendre un petit réchaud peut être idéal pour l'heure du café ou du thé. Sinon vous pouvez apporter un thermos afin d'en profiter facilement, tout le long de la journée.
+    Le midi, vous pouvez manger un pique-nique traditionnel ou alors apporter un réchaud et vous faire cuire un plat déshydraté par exemple. Aujourd'hui on trouve des réchauds très faciles à transporter, avec des petites bombonnes de gaz et des casseroles légères et pratiques. Prendre un petit réchaud peut être idéal pour l'heure du café ou du thé. Sinon vous pouvez apporter un thermos afin d'en profiter facilement, tout le long de la journée.
   button:
     text_button: ''
     href_button: ''
