@@ -106,9 +106,9 @@ page_sections:
     Cela est plus confortable et protège mieux lors des impacts et des chocs. Il est
     donc important d’analyser votre foulée car si vous prenez un drop trop faible
     et que cela ne correspond pas à votre foulée, vous risquez de vous blesser.\n\n*
-    Si vous posez votre talon directement au sol, prenez plutôt un drop de plus de
-    6mm\n* Si vous posez le milieu du pied au devant du pieds, prenez plutôt un drop
-    de moins de 6mm"
+    Si vous posez votre talon directement au sol, prenez de préférence un drop supérieur
+    à 6mm\n* Si vous posez le milieu du pied au devant du pieds, prenez de préférence
+    un drop inférieur à 6mm"
   title: Le drop
   blockBGcolor: ''
 - template: 2colimgtxt
