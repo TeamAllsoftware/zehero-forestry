@@ -45,7 +45,7 @@ page_sections:
     vallonnés avec des petites bosses, des sentiers ou un terrain un peu plus instable.
     Le but est de travailler les changements de rythme, de renforcer les muscles et
     d’améliorer la proprioception dans des terrains plus techniques. Lors des montées,
-    il est important que vous commenciez par marché. En trail, vous marcherez beaucoup
+    il est important que vous commenciez par marcher. En trail, vous marcherez beaucoup
     en montée, votre corps doit s’habituer à cet effort difficile.
   alt_text_for_image: Coureur de trail de dos grimpant une montagne
   button:
