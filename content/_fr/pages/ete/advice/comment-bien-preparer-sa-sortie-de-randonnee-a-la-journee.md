@@ -59,8 +59,8 @@ page_sections:
     lient pour votre tracé. Plus il y aura de dénivelé et moins il y aura de kilomètres
     alors les montées seront très raides.  \nL'important, c'est de commencer par des
     parcours faciles et de comprendre ces indicateurs et sa forme physique durant
-    l'effort. Vous pourrez alors jauger et vous aventurer sur des parcours plus long
-    ou non.\n\nEn ce qui concerne la technicité du parcours, vous pourrez retrouver
+    l'effort. Vous pourrez alors jauger et vous aventurer sur des parcours plus ou
+    moins longs.\n\nEn ce qui concerne la technicité du parcours, vous pourrez retrouver
     les différentes informations si vous trouvez des descriptions des parcours, des
     topos, etc. Un terrain technique, c'est par exemple des sentiers avec énormément
     de cailloux, de marcher à travers des pierriers, des chemins très raides avec
