@@ -103,10 +103,11 @@ page_sections:
     des terrains trop techniques et accidentés.  \nSi vous pouvez avoir 3 entraînements/semaine
     c’est idéal pour progresser. Plus vous avancez dans les semaines, plus vous augmenterez
     le dénivelé. Pensez aussi à intégrer des séances de vitesse en fractionné (se
-    référer au texte comment faire du fractionné).  \nIl est aussi efficace de placer
-    des entraînements par la suite de Up/Down. C’est un entraînement qui consiste
-    à faire sur une même côte des allers/retours à différentes allures afin de travailler
-    son efficacité en côte et en descente."
+    référer au texte [comment faire du fractionné](https://preprod-zehero-202112.netlify.app/fr/ete/conseils/fractionne-trail
+    \"Comment faire du fractionné\")).  \nIl est aussi efficace de placer des entraînements
+    par la suite de Up/Down. C’est un entraînement qui consiste à faire sur une même
+    côte des allers/retours à différentes allures afin de travailler son efficacité
+    en côte et en descente."
   blockBGcolor: ''
 - template: textarea
   title: Faire de la Préparation Physique Générale
