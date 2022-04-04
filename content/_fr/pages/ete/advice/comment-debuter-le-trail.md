@@ -128,9 +128,11 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg
   captiontitleuppercase: Bien s'équiper, bien s'alimenter
   title: Les différentes notions
-  content: Vous pouvez regardez nos autres articles qui expliquent “comment bien s’équiper
-    en trail” et “comment choisir ses chaussures de trail”. En ce qui concerne l'alimentation,
-    lors de chaque sortie en trail, il est primordial de savoir gérer son alimentation
+  content: Vous pouvez regarder nos autres articles qui expliquent “[comment bien
+    s’équiper en trail](https://preprod-zehero-202112.netlify.app/fr/ete/conseils/equipement-trail
+    "Bien s'équiper en trail")” et “[comment choisir ses chaussures de trail](https://preprod-zehero-202112.netlify.app/fr/ete/conseils/chaussures-trail
+    "Bien choisir ses chaussures de trail")”. En ce qui concerne l'alimentation, lors
+    de chaque sortie en trail, il est primordial de savoir gérer son alimentation
     et son hydratation. L’objectif est d’emporter sur soi assez d’eau pour toute la
     durée de votre entraînement. Essayez de boire des petites gorgées toutes les 15mn.
     Il est conseillé de ne pas boire trop rapidement et en trop grande quantité. Vous
