@@ -58,7 +58,7 @@ page_sections:
   text_refers_to_counter: 'séances par semaine '
   title: Débuter
   content: 'Commencez par 2 sorties par semaine par des tours de 40mn max. Après deux
-    semaines, vous pourrez commencez le dénivelé et faire des entraînements avec fractionné
+    semaines, vous pourrez commencer le dénivelé et faire des entraînements avec fractionné
     et intensité.                                      '
   headline: '2 entraînements de 40mn                               '
 - template: 2colimgtxt
