@@ -24,14 +24,15 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: textarea
   content: "Il est fréquent de voir des personnes démarrer la course à pied trop violemment
-    et qui se sentent mal physiquement dès les premières sorties. Très souvent, on
-    commence l’entraînement trop rapidement, trop intensément et nos muscles et notre
-    rythme cardiaque ne le supportent pas.  \nSi vous n’êtes pas un habitué de la
-    course de pied, allez y de manière très progressive.\n\nPour débuter le trail,
-    il y a quelques notions à prendre en compte :\n\n* Commencer sur des parcours
-    faciles\n* Marcher en montée\n* Suivre un plan d’entraînement \n* Faire de la
-    Préparation Physique Générale\n* Avoir le bon matériel\n* Bien manger et s’hydrater"
+    et se sentir mal physiquement dès les premières sorties. Très souvent, on commence
+    l’entraînement trop rapidement, trop intensément et nos muscles et notre rythme
+    cardiaque ne le supportent pas.  \nSi vous n’êtes pas un habitué de la course
+    de pied, allez-y de manière très progressive.\n\nPour débuter le trail, il y a
+    quelques notions à prendre en compte :\n\n* Commencer sur des parcours faciles\n*
+    Marcher en montée\n* Suivre un plan d’entraînement\n* Faire de la Préparation
+    Physique Générale\n* Avoir le bon matériel\n* Bien manger et s’hydrater"
   title: Débuter le trail
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643038697/website/summer/117444833_3228512423882343_2122646883182493095_n_pymt7i.jpg
   captiontitleuppercase: Débuter c'est progresser
@@ -106,6 +107,7 @@ page_sections:
     par la suite de Up/Down. C’est un entraînement qui consiste à faire sur une même
     côte des allers/retours à différentes allures afin de travailler son efficacité
     en côte et en descente."
+  blockBGcolor: ''
 - template: textarea
   title: Faire de la Préparation Physique Générale
   content: "En trail, il est important d’avoir des muscles solides au niveau des jambes,
@@ -120,6 +122,7 @@ page_sections:
     jack, de la chaise… Vous travaillerez votre renforcement musculaire, votre proprioception
     et votre explosivité.  \nPensez également aux exercices sur banc, qui sont très
     efficaces."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg
   captiontitleuppercase: Bien s'équiper, bien s'alimenter
