@@ -56,7 +56,7 @@ page_sections:
   captiontitleuppercase: Apprendre le ski, le snowboard ou autre
   title: Découvrir, débuter, progresser ou se perfectionner…
   content: |-
-    Toutes les écoles ne ressemblent pas... certaines sont plus familiales que d’autres - [Lire notre fiche conseil sur comment choisir son école de ski](/fr/hiver/conseils/choisir-ecole-de-ski).
+    Toutes les écoles ne se ressemblent pas... certaines sont plus familiales que d’autres - [Lire notre fiche conseil sur comment choisir son école de ski](/fr/hiver/conseils/choisir-ecole-de-ski).
 
     Plutôt cours privé ou cours collectif ? Les 2 formules ont leurs avantages. Si vous êtes un adulte débutant, le cours privé vous aidera beaucoup - [Tout ce qu’il faut savoir sur les différences entre cours privé et collectif](/fr/hiver/conseils/cours-priv%C3%A9-cours-collectif).
   button:

@@ -6,8 +6,8 @@ topnav_color_text: dark
 title: Vélo de route
 permalink: "/fr/ete/activites/velo-de-route"
 redirect_from:
-  - "/fr/velo-savoie-haute-savoie/"
-  - /fr/ete/activite/velo-de-route
+- "/fr/velo-savoie-haute-savoie/"
+- "/fr/ete/activite/velo-de-route"
 meta-title: Sorties en vélo de route, parcours et cols
 meta-description: 'A l''assaut des cols mythiques en France : découvrez les plus belles
   régions en vélo de route'
@@ -26,6 +26,7 @@ page_sections:
     de fortes sensations en descente.  \nQue ce soit en montagne, dans les plaines,
     sur des routes sauvages, vous trouverez des itinéraires magnifiques et surprenants."
   title: Le vélo de route
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642669650/website/summer/mizzi-westphal-LIdAmXo7eqA-unsplash_c7pfwz.jpg
   captiontitleuppercase: Partager un moment sur la route
@@ -46,18 +47,19 @@ page_sections:
 - template: textarea
   title: Une activité partout en France
   content: |-
-    Hormis en hiver où cette activité est moins pratiqué, le vélo de route se fait partout en France et quasiment toute l'année. Bien-sûr si vous désirez absolument réaliser des cols routiers, il faudra se rapprocher des montagnes, sinon il y aura de magnifiques routes à travers les campagnes, les forêts, le littoral et bien d'autre.
+    Hormis en hiver où cette activité est moins pratiquée, le vélo de route se fait partout en France et quasiment toute l'année. Bien-sûr si vous désirez absolument réaliser des cols routiers, il faudra se rapprocher des montagnes, sinon il y aura de magnifiques routes à travers les campagnes, les forêts, le littoral et bien d'autre.
 
-    La technique à vélo s'apprend afin de monter efficacement et de moins s'épuiser mais également gérer ses pauses et son ravitaillement. L'avantage de vélo de route en groupe est que vous pouvez échanger et partager un bon moment. L'émulsion d'un groupe va permettre de vous motiver également et d'être tiré par les autres mais également de moins de se fatiguer lorsque vous prenez l'aspiration.
+    Afin de monter efficacement et atténuer son épuisement, il est essentiel d'apprendre la partie technique du vélo. Ces connaissances vous permettront par exemple de bien gérer vos pauses et votre ravitaillement. L'avantage du vélo de route en groupe est la possibilité d'échanger et partager un bon moment avec d'autres personnes. L'émulsion d'un groupe vous offre bien souvent de la motivation supplémentaire et rend l'effort physique plus facile ! Les sorties en groupe permettent également de moins se fatiguer en bénéficiant de l'aspiration.
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883619/website/summer/Velo-duo-amis_rnipw2.jpg
   captionabovetitle: Plaisir et performance
   title: Quand les kilomètres défilent
   gridline1title: De quelques heures à plusieurs jours
   gridline1content: Le vélo de route vous permet de partir quelques heures sur un
-    parcours, une boucle ou simplement un ascension d'un ou deux cols. Mais il permet
+    parcours, une boucle ou simplement une ascension d'un ou deux cols. Mais il permet
     également de partir en itinéraire sur plusieurs jours afin de réaliser des traversées
-    telle que la traversée des Alpes.
+    telles que la traversée des Alpes.
   gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642520836/website/summer/pexels-pavel-danilyuk-5807677_qkak2i.jpg
   gridline2title: Des parcours uniques
   gridline2content: Vous trouverez un panel d'itinéraires et de parcours variés qui
@@ -67,16 +69,18 @@ page_sections:
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642671861/website/summer/viktor-bystrov-Gi0OMNguFaw-unsplash_mekt50.jpg
   prlax_alt_text_for_image: Deux personnes faisant du vélo de route sur une route
     de campagne
-  grid_1_alt_text_for_image: Trois personne faisant du vélo de route sur une route
+  grid_1_alt_text_for_image: Trois personnes faisant du vélo de route sur une route
     bordée de pins
   grid_2_alt_text_for_image: Cycliste faisant du vélo de route sur une route de montagne
 - template: textarea
   title: Etre encadré
-  content: Si vous réservez une sortie à vélo, cela vous permet d'avoir une personne
-    qui va donc bien vous expliquer comment bien rouler et être efficace sur son vélo.
-    Mais, cela peut permettre également de se laisser guider sur de jolis parcours,
-    de réaliser des ascensions. Parfois, cela vous permet également d'avoir un ravitaillement,
-    un suivi en voiture lorsque vous partez pour plusieurs jours.
+  content: En réservant une sortie à vélo, vous bénéficiez des conseils d'un professionnel
+    qui guidera votre sortie. Il sera en mesure de vous expliquer comment bien rouler
+    et être efficace sur son vélo. Il sera également possible de se laisser guider
+    sur de jolis parcours, de réaliser des ascensions. De plus, vous pourrez profiter
+    d'un ravitaillement et un suivi en voiture lorsque vous partez pour plusieurs
+    jours.
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:

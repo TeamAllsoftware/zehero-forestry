@@ -9,10 +9,10 @@ topnav_color_text: dark
 title: Nathan Alarçon, coach préparation physique et mentale
 permalink: "/fr/coachs/nathan-alarcon"
 redirect_from:
-  - "/fr/ete/coach/nathan-alarcon"
-  - "/fr/hiver/coach/nathan-alarcon"
-  - "/fr/ete/coachs/nathan-alarcon"
-  - "/fr/hiver/coachs/nathan-alarcon"
+- "/fr/ete/coach/nathan-alarcon"
+- "/fr/hiver/coach/nathan-alarcon"
+- "/fr/ete/coachs/nathan-alarcon"
+- "/fr/hiver/coachs/nathan-alarcon"
 s07:
   txt_button: Réserver un cours
   txt01: vous accompagne pour tous vos défis
@@ -56,7 +56,7 @@ s04:
   image04:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/9_qhdb7d.jpg
     alt: Coach sportif regardant son ordinateur afin de planifier les entraînements
-    txt01: Suivi personallisé
+    txt01: Suivi personnalisé
     txt02: E-coaching
   image05:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062746/website/Coaching/5_vovphc.jpg
@@ -68,7 +68,7 @@ s04:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062762/website/Coaching/Salle_de_sport-28_yjkjev.jpg
     alt: Salle de musculation avec beaucoup de matériel de musculation et d'exercice
     txt01: Salle de coaching
-    txt02: Tout le matériel pour des entraînements optimales
+    txt02: Tout le matériel pour des entraînements optimaux
 s05:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062755/website/Coaching/SALLE_oxqywo.jpg
   image01_alt: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062754/website/Coaching/8_pgeprx.jpg
@@ -79,13 +79,13 @@ s05:
     title: Ces préstations
     content: Je vous propose des séances de coaching personnalisé et un accompagnement
       individuel à Lyon. Je suis là pour vous motiver et vous aider à atteindre un
-      bien-être physique et mental à travere pratique sportive régulière et adaptée.
+      bien-être physique et mental à travers la pratique sportive régulière et adaptée.
       Coaching en salle, à domicile, en extérieur ou en groupe
   expertise03:
     title: Spécialités
-    content: 'Je suis spécialisé dans la course à pied, ainsi que le renforcement
-      musculaire el musculation. Mais j''affectionne également la remise en forme,
-      le sport perte de poids et la gym sénior, '
+    content: Je suis spécialisé dans la course à pied, ainsi que le renforcement musculaire
+      et musculation. Mais j'affectionne également la remise en forme, le sport perte
+      de poids et la gym sénior
 s06:
   achieve01:
     title: Compétitions
