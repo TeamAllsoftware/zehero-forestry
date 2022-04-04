@@ -77,7 +77,7 @@ page_sections:
 - template: 2colTitreTxt
   title: Conseils, Materiels, Itinéraires.
   content: De précieux conseils pour vous aider dans vos choix de vélo, de chaussures
-    de trail, ainsi que les meilleurs activités outdoor en station de montagne pour
+    de trail, ainsi que les meilleures activités outdoor en station de montagne pour
     partager des sensations fortes ou calmes, et surtout pour profiter pleinement
     de vacances et weekend magnifiques.
 - template: newsletter
