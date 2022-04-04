@@ -69,7 +69,7 @@ page_sections:
   gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642671861/website/summer/viktor-bystrov-Gi0OMNguFaw-unsplash_mekt50.jpg
   prlax_alt_text_for_image: Deux personnes faisant du vélo de route sur une route
     de campagne
-  grid_1_alt_text_for_image: Trois personne faisant du vélo de route sur une route
+  grid_1_alt_text_for_image: Trois personnes faisant du vélo de route sur une route
     bordée de pins
   grid_2_alt_text_for_image: Cycliste faisant du vélo de route sur une route de montagne
 - template: textarea
