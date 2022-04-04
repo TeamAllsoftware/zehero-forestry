@@ -127,12 +127,12 @@ page_sections:
     alt_button: ''
   blockBGcolor: ''
 - template: textarea
-  content: Le pied peut gonfler pendant la course, c’est aussi pour cela qu’il est
-    parfois important de prendre une demi à une pointure au-dessus. Mais il est important
-    d’essayer car en fonction des marques, les pointures ne sont pas identiques. Si
-    votre chaussure est trop petite, vous risquez pendant les descentes, de vous abîmer
-    vos orteils et d’avoir mal. Si vous avez des semelles orthopédiques, il faut aussi
-    les prendre en considération car cela changera l’espace de votre chaussure. Le
+  content: Le pied peut gonfler pendant la course, c’est pour cela qu’il est parfois
+    conseillé de prendre une demi à une pointure au-dessus. L'idéal est d’essayer
+    car en fonction des marques, les pointures ne sont pas identiques. Si votre chaussure
+    est trop petite, vous risquez pendant les descentes, de vous abîmer vos orteils
+    et d’avoir mal. Si vous avez des semelles orthopédiques, il faut aussi les prendre
+    en considération car cela changera l’espace disponible dans votre chaussure. Le
     plus important est d’avoir le maximum de confort dans votre chaussure.
   title: Le choix des pointures
   blockBGcolor: ''
