@@ -25,6 +25,7 @@ page_sections:
     En effet, on sera alors attentif à l'équipement, au tracé, à la météo, à l'hydratation
     et l'alimentation. Nous allons apporter, dans cet article, un maximum de conseil
     pouvant vous aider au mieux à bien préparer votre sortie et avoir les bases.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646130612/website/Conseil%20/anders-nielsen-8jQFXXSTvbw-unsplash_hsdiwr.jpg
   alt_text_for_image: Deux marcheurs qui randonnent sur un sentier de montagne
@@ -35,16 +36,16 @@ page_sections:
     et les suivre via son téléphone ou sa montre GPS. On peut également construire
     son tracé avec une carte IGN si on sait alors lire ces différentes cartes. Ce
     qui est important, c'est d'adapter déjà la randonnée en fonction de votre niveau.
-    Vous allez avoir des informations importantes tels que les kilomètres et le dénivelé
-    qui seront des indicateurs de la difficulté.  \nTout d'abord, il faut savoir que
-    pour des personnes novices dans la randonnée, la vitesse moyenne va être de 2km/h
-    à 4km/h en fonction du dénivelé. Vous retrouverez également une moyenne de 300m
-    à 400m de dénivelé par heure environ pour des personnes novices Cela peut vous
-    donner une idée de nombre que vous aurez à faire en fonction du nombre de kilomètre.
-    Cela évolue en fonction de votre condition physique mais également en fonction
-    du terrain de marche. Un terrain très technique va vous ralentir et sera beaucoup
-    plus exigeant physiquement et mentalement. Il sera important de bien prendre en
-    compte ces 3 indicateurs :"
+    Vous allez avoir des informations importantes telles que les kilomètres et le
+    dénivelé qui seront des indicateurs de la difficulté.  \nTout d'abord, il faut
+    savoir que pour des personnes novices dans la randonnée, la vitesse moyenne va
+    être de 2km/h à 4km/h en fonction du dénivelé. Vous retrouverez également une
+    moyenne de 300m à 400m de dénivelé par heure environ pour des personnes novices
+    Cela peut vous donner une idée de nombre que vous aurez à faire en fonction du
+    nombre de kilomètre. Cela évolue en fonction de votre condition physique mais
+    également en fonction du terrain de marche. Un terrain très technique va vous
+    ralentir et sera beaucoup plus exigeant physiquement et mentalement. Il sera important
+    de bien prendre en compte ces 3 indicateurs :"
   button:
     text_button: ''
     href_button: ''
@@ -53,7 +54,7 @@ page_sections:
 - template: textarea
   content: "1. Les kilomètres\n2. Le dénivelé\n3. La technicité du parcours\n\nTout
     d'abord, il faut savoir que pour des personnes novices dans la randonnée, la vitesse
-    moyenne va être de 2km/h à Il aura donc plusieurs niveaux de difficulté selon
+    moyenne va être de 2km/h. Il y aura donc plusieurs niveaux de difficulté selon
     ces trois indicateurs. Le kilomètre et le dénivelé sont deux paramètres qui se
     lient pour votre tracé. Plus il y a aura de dénivelé et moins il y aura de kilomètres
     alors les montées seront très raide.  \nL'important, c'est de commencer par des
@@ -69,6 +70,7 @@ page_sections:
     et en courant dans les Préalpes d'Azur et dans l'Esterel : [https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes](https://www.ze-hero.com/fr/ete/conseil/itineraires-trail-alpes-maritimes
     \"Les parcours de trail 06\")"
   title: ''
+  blockBGcolor: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646138026/website/Conseil%20/oriol-pascual-l5VCmqQbP_g-unsplash_mzu8yf.jpg
   alt_text_for_image: 'Sac à dos de randonnée, de trekking '
@@ -127,6 +129,7 @@ page_sections:
     signalisations pour indiquer des fontaines, des sources d'eau, des puits et autre
     afin de vous permettre de savoir où il y a de l'eau."
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646144788/website/Conseil%20/alireza-shojaei-9v5GBFfnnlU-unsplash_fnkdah.jpg
   alt_text_for_image: Un réchaud devant une tente entrain de chauffer de l'eau lors
@@ -152,6 +155,8 @@ page_sections:
     moindre de problème de faire cela.  \nGarder toujours avec vous quelques euros,
     si vous désirez acheter à boire ou à manger quelques part. Cela peut toujours
     être grandement utile."
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+
 ---
