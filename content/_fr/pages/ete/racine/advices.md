@@ -22,7 +22,7 @@ page_sections:
   col1:
     title: Vous prévoyez des activités en plein air mais ne savez pas par où commencer
       ?
-    content: Nous avons préparé une série de fiches conseils pour vous aidez dans
+    content: Nous avons préparé une série de fiches conseils pour vous aider dans
       votre préparation. Que ce soit pour choisir une activité et apprendre la technique,
       sélectionner du matériel ou vous préparer physiquement.
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883619/website/summer/Activite-groupe-amis_xxcdut.jpg
