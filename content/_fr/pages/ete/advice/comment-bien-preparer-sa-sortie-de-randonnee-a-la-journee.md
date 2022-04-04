@@ -56,8 +56,8 @@ page_sections:
     d'abord, il faut savoir que pour des personnes novices dans la randonnée, la vitesse
     moyenne va être de 2km/h. Il y aura donc plusieurs niveaux de difficulté selon
     ces trois indicateurs. Le kilomètre et le dénivelé sont deux paramètres qui se
-    lient pour votre tracé. Plus il y a aura de dénivelé et moins il y aura de kilomètres
-    alors les montées seront très raide.  \nL'important, c'est de commencer par des
+    lient pour votre tracé. Plus il y aura de dénivelé et moins il y aura de kilomètres
+    alors les montées seront très raides.  \nL'important, c'est de commencer par des
     parcours faciles et de comprendre ces indicateurs et sa forme physique durant
     l'effort. Vous pourrez alors jauger et vous aventurer sur des parcours plus long
     ou non.\n\nEn ce qui concerne la technicité du parcours, vous pourrez retrouver
