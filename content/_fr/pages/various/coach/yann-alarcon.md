@@ -43,7 +43,7 @@ s04:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062840/website/Coaching/G0190431_1638033833951-min_u4n7bh.jpg
     alt: Entrainement à Antibes au stade dans des escaliers avec préparation physique
     txt01: Préparation physique
-    txt02: Travaille de renforcement musculaire
+    txt02: Travail de renforcement musculaire
   image03:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062841/website/Coaching/1_wcquwr.png
     alt: Coureur courant dans les montagne du Mercantour lors d'un trail à Saint Martin
