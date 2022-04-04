@@ -109,7 +109,7 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: "Les sacs de portages et les ceintures de portages dotées de leurs flasques
-    se sont peu à peu imposés. On retrouve donc de moins en moins de portes bidons
+    se sont peu à peu imposées. On retrouve donc de moins en moins de portes bidons
     aujourd’hui. Ces sacs de portage sont aujourd’hui très légers et très fonctionnels.
     On peut tout emporter de façon ultra light sur soi. Sur les poches avant, tout
     est conçu pour que vous puissiez avoir des flasques d’eau à portée de main afin
