@@ -83,9 +83,9 @@ s05:
       Coaching en salle, à domicile, en extérieur ou en groupe
   expertise03:
     title: Spécialités
-    content: 'Je suis spécialisé dans la course à pied, ainsi que le renforcement
-      musculaire et musculation. Mais j''affectionne également la remise en forme,
-      le sport perte de poids et la gym sénior, '
+    content: Je suis spécialisé dans la course à pied, ainsi que le renforcement musculaire
+      et musculation. Mais j'affectionne également la remise en forme, le sport perte
+      de poids et la gym sénior.
 s06:
   achieve01:
     title: Compétitions
