@@ -74,11 +74,12 @@ page_sections:
   grid_2_alt_text_for_image: Cycliste faisant du vélo de route sur une route de montagne
 - template: textarea
   title: Etre encadré
-  content: Si vous réservez une sortie à vélo, cela vous permet d'avoir une personne
-    qui va donc bien vous expliquer comment bien rouler et être efficace sur son vélo.
-    Mais, cela peut permettre également de se laisser guider sur de jolis parcours,
-    de réaliser des ascensions. Parfois, cela vous permet également d'avoir un ravitaillement,
-    un suivi en voiture lorsque vous partez pour plusieurs jours.
+  content: En réservant une sortie à vélo, vous bénéficiez des conseils d'un professionnel
+    qui guidera votre sortie. Il sera en mesure de vous expliquer comment bien rouler
+    et être efficace sur son vélo. Il sera également possible de se laisser guider
+    sur de jolis parcours, de réaliser des ascensions. De plus, vous pourrez profiter
+    d'un ravitaillement et un suivi en voiture lorsque vous partez pour plusieurs
+    jours.
   blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
