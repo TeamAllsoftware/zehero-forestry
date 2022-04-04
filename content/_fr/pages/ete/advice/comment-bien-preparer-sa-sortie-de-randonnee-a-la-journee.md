@@ -79,10 +79,10 @@ page_sections:
   content: "Partir randonner à la journée, c'est bien s'équiper afin de profiter pleinement
     de sa sortie.  \nIl sera important de prendre une paire de chaussures adaptées
     à la marche en montagne. Des chaussures qui seront à tiges hautes ou basses, avec
-    de l'accroche, qui protège vos orteils et qui maintiennent correctement votre
+    de l'accroche, qui protègent vos orteils et qui maintiennent correctement votre
     cheville. Certaines sont plus légères, voire type trail, d'autres seront plus
     lourdes pour une meilleure protection. En fonction, vous pouvez également les
-    prendre imperméables ou dotés de la membrane Gore-tex. Le plus important, c'est
+    prendre imperméables ou dotées de la membrane Gore-tex. Le plus important, c'est
     de les essayer avant de partir randonner avec.\n\nEn fonction de la période, du
     temps et de la météo, il faudra adapter votre tenue. Pantalon technique ou short,
     vêtement technique et respirant, coupe-vent, k-way et poncho, soft shell ainsi
