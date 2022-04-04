@@ -61,7 +61,7 @@ page_sections:
   captiontitleuppercase: Apprendre, s’améliorer pour prendre plus de plaisir
   title: Découvrir, débuter ou se perfectionner en trail
   content: |-
-    Si vous n’êtes pas un habitué de la course de pied, allez-y de manière très progressive, Yann vous dit tout pour vous lancer dans le trail - [Lire notre fiche conseil sur comment débuter le trail](/fr/ete/conseils/comment-debuter-trail).
+    Si vous n’êtes pas un habitué de la course à pied, allez-y de manière très progressive, Yann vous dit tout pour vous lancer dans le trail - [Lire notre fiche conseil sur comment débuter le trail](/fr/ete/conseils/comment-debuter-trail).
 
     [Yann](/fr/coachs/yann-alarcon) vous a concocté une préparation minutieuse pour votre 1er trail - [Tout ce qu’il faut savoir sur la préparation d’une course de Trail](/fr/ete/conseils/preparation-course-trail).
   button:
