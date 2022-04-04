@@ -100,7 +100,7 @@ page_sections:
 - template: textarea
   content: "Le drop c’est la différence entre la hauteur de l’avant du pied et l’arrière
     du pied. Lorsque nous marchons pied nu le drop est a 0. Généralement on trouve
-    des drops entre 4 mm et 12 mm. Le choix du drop est choisi en fonction de notre
+    des drops entre 4 mm et 12 mm. Le choix du drop est fait en fonction de notre
     foulée.  \nSi vous avez une attaque talon, c’est-à-dire que vous déroulez le pied
     en posant le talon directement, il est plus judicieux d’avoir un drop plus important.
     Cela est plus confortable et protège mieux lors des impacts et des chocs. Il est
