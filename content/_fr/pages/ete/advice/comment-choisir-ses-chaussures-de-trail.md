@@ -3,13 +3,13 @@ layout: layout_advice
 language: fr
 season: summer
 meta-title: Conseil sportif pour bien choisir ses chaussures de trail
-meta-description: Il est important de comprendre les différentes notions pour bien choisir
-  ses chaussures de trail
+meta-description: Il est important de comprendre les différentes notions pour bien
+  choisir ses chaussures de trail
 topnav_color_text: light
 title: Comment choisir ses chaussures de trail ?
 permalink: "/fr/ete/conseils/chaussures-trail"
 redirect_from:
-  - /fr/ete/conseil/chaussures-trail
+- "/fr/chaussures-trail/"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111394/website/Conseil%20Equiepement/IMG20210424154703_01_fatprs.jpg
 image01_alt: Coureur de trail avec des chaussures de trail
 button_to_link_to_ze_hero_shop:
@@ -30,6 +30,7 @@ page_sections:
     côtés et vers le talon afin de maintenir le pied dans l’axe\n* Un confort plus
     important parfois à l’arrière pour éviter les chocs avec un meilleur amorti\n*
     Une membrane plus résistante et très respirante"
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Si l’on découpe les différents paramètres à prendre en compte pour choisir une chaussure de trail, on retrouverai :
@@ -42,6 +43,7 @@ page_sections:
     * L’imperméabilité
     * Le confort
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111394/website/Conseil%20Equiepement/IMG_20200619_113738_lnusnr.jpg
   captiontitleuppercase: Une chaussure pour un terrain
@@ -60,12 +62,14 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
-    Si vous courez un terrain plutôt forêt, sec et polyvalent, une chaussure plus souple sera idéale. Il ne sera pas nécessaire d’avoir des crampons importants dessus. Afin de garder le maximum d’efficacité, prenez donc une chaussure plutôt légère et souple. Si vous courez dans la neige, il faudra surtout chercher une chaussure avec des crampons beaucoup plus grands, plutôt imperméables accompagnés de guêtres.
+    Si vous courez sur un terrain de type forêt, sec et polyvalent, une chaussure plus souple sera idéale. Il ne sera pas nécessaire d’avoir des crampons importants dessus. Afin de garder le maximum d’efficacité, prenez donc une chaussure plutôt légère et souple. Si vous courez dans la neige, il faudra surtout chercher une chaussure avec des crampons beaucoup plus grands, plutôt imperméables accompagnés de guêtres.
 
-    La forme des crampons a une importance dans le bon maintien et dans l’accroche de la chaussure sur le terrain. Ils sont généralement placés avec la pointe vers l’avant pour l’avant du pied et inversement pour l’arrière. Lorsque les formes de crampons changent, c’est aussi pour améliorer la qualité de l’accroche. Cela est surtout fait pour améliorer l’accroche dans des terrains techniques lorsqu’il y a des appuis fuyant et des changements de direction. La gomme du crampon a aussi son importance. Une gomme plus tendre permettra d’avoir une meilleure tenue sur des parties glissantes et lisses, et une gomme dure aura une meilleure dans des terrains plutôt mou.
+    La forme des crampons a une importance dans le bon maintien et dans l’accroche de la chaussure sur le terrain. Ils sont généralement placés avec la pointe vers l’avant pour l’avant du pied et inversement pour l’arrière. Lorsque les formes de crampons changent, c’est aussi pour améliorer la qualité de l’accroche. Cela est surtout fait pour améliorer l’accroche dans des terrains techniques lorsqu’il y a des appuis fuyants et des changements de direction. La gomme du crampon a aussi son importance. Une gomme plus tendre permettra d’avoir une meilleure tenue sur des parties glissantes et lisses, et une gomme dure aura une meilleure adhérence dans des terrains plutôt mous.
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111395/website/Conseil%20Equiepement/IMG_20200809_084058_jdej19.jpg
   title: La distance
@@ -84,26 +88,29 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Le niveau
   content: |-
     Le choix d’une chaussure ne sera pas identique en fonction de votre niveau. Si vous débutez le Trail, il ne faut pas chercher à prendre une chaussure qui demande beaucoup d’énergie et qui soit rigide.
 
-    * Si vous débutez, cherchez une chaussure plutôt légère et souple avec de l’amortie et surtout du confort.
+    * Si vous débutez, cherchez une chaussure plutôt légère et souple avec de l’amorti et surtout du confort.
     * Si vous êtes confirmé, vous pouvez avoir une chaussure plus rigide, plus technique, plus renforcée.
+  blockBGcolor: ''
 - template: textarea
   content: "Le drop c’est la différence entre la hauteur de l’avant du pied et l’arrière
     du pied. Lorsque nous marchons pied nu le drop est a 0. Généralement on trouve
-    des drops entre 4 mm et 12 mm. Le choix du drop est choisi en fonction de notre
+    des drops entre 4 mm et 12 mm. Le choix du drop est fait en fonction de notre
     foulée.  \nSi vous avez une attaque talon, c’est-à-dire que vous déroulez le pied
-    en posant le talon directement, il est plus judicieux d’avoir un drop plus important.
+    en posant le talon directement, il est plus judicieux d’avoir un drop important.
     Cela est plus confortable et protège mieux lors des impacts et des chocs. Il est
     donc important d’analyser votre foulée car si vous prenez un drop trop faible
     et que cela ne correspond pas à votre foulée, vous risquez de vous blesser.\n\n*
-    Si vous posez votre talon directement au sol, prenez plutôt un drop de plus de
-    6mm\n* Si vous posez le milieu du pied au devant du pieds, prenez plutôt un drop
-    de moins de 6mm"
+    Si vous posez votre talon directement au sol, prenez de préférence un drop supérieur
+    à 6mm\n* Si vous posez le milieu du pied au devant du pieds, prenez de préférence
+    un drop inférieur à 6mm"
   title: Le drop
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643115609/website/Conseil%20Equiepement/IMG20210709103423_mv23ov.jpg
   title: L’imperméabilité
@@ -118,26 +125,28 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
-  content: Le pied peut gonfler pendant la course, c’est aussi pour cela qu’il est
-    parfois important de prendre une demi à une pointure au-dessus. Mais il est important
-    d’essayer car en fonction des marques, les pointures ne sont pas identiques. Si
-    votre chaussure est trop petite, vous risquez pendant les descentes, de vous abîmer
-    vos orteils et d’avoir mal. Si vous avez des semelles orthopédiques, il faut aussi
-    les prendre en considération car cela changera l’espace de votre chaussure. Le
+  content: Le pied peut gonfler pendant la course, c’est pour cela qu’il est parfois
+    conseillé de prendre une demi à une pointure au-dessus. L'idéal est d’essayer
+    car en fonction des marques, les pointures ne sont pas identiques. Si votre chaussure
+    est trop petite, vous risquez pendant les descentes, de vous abîmer vos orteils
+    et d’avoir mal. Si vous avez des semelles orthopédiques, il faut aussi les prendre
+    en considération car cela changera l’espace disponible dans votre chaussure. Le
     plus important est d’avoir le maximum de confort dans votre chaussure.
   title: Le choix des pointures
+  blockBGcolor: ''
 - template: textarea
-  content: "Ces 3 termes désignent les 3 différents types de foulées. Certaines chaussures
-    sont plus axées sur certains types afin d’aider le coureur.\n\n* Supination :
-    Le déroulé du pied se fait sur l’extérieur\n* Neutre : Le déroulé se fait à plat\n*
-    Pronation : Le déroulé se fait à l’intérieur\n\nVous pouvez connaître votre type
-    de foulée en regardant l’usure de vos chaussures.  \nCertaines marques proposent
-    des modèles adaptés pour ces différents types de foulées."
+  content: "Ces 3 termes désignent les 3 différents types de foulées existants. Certaines
+    chaussures conviennent davantage à certains types de foulées. Cette spécification
+    accompagne le coureur dans son effort.\n\n* Supination : Le déroulé du pied se
+    fait sur l’extérieur\n* Neutre : Le déroulé se fait à plat\n* Pronation : Le déroulé
+    se fait à l’intérieur\n\nVous pouvez connaître votre type de foulée en observant
+    l’usure de vos chaussures.  \nCertaines marques proposent des modèles spécifiquement
+    conçus pour ces différents types de foulées."
   title: Supination/Neutre/Pronation
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
-redirect_from:
-- "/fr/chaussures-trail/"
 
 ---

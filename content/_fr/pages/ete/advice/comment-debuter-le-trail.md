@@ -24,14 +24,15 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: textarea
   content: "Il est fréquent de voir des personnes démarrer la course à pied trop violemment
-    et qui se sentent mal physiquement dès les premières sorties. Très souvent, on
-    commence l’entraînement trop rapidement, trop intensément et nos muscles et notre
-    rythme cardiaque ne le supportent pas.  \nSi vous n’êtes pas un habitué de la
-    course de pied, allez y de manière très progressive.\n\nPour débuter le trail,
-    il y a quelques notions à prendre en compte :\n\n* Commencer sur des parcours
-    faciles\n* Marcher en montée\n* Suivre un plan d’entraînement \n* Faire de la
-    Préparation Physique Générale\n* Avoir le bon matériel\n* Bien manger et s’hydrater"
+    et se sentir mal physiquement dès les premières sorties. Très souvent, on commence
+    l’entraînement trop rapidement, trop intensément et nos muscles et notre rythme
+    cardiaque ne le supportent pas.  \nSi vous n’êtes pas un habitué de la course
+    de pied, allez-y de manière très progressive.\n\nPour débuter le trail, il y a
+    quelques notions à prendre en compte :\n\n* Commencer sur des parcours faciles\n*
+    Marcher en montée\n* Suivre un plan d’entraînement\n* Faire de la Préparation
+    Physique Générale\n* Avoir le bon matériel\n* Bien manger et s’hydrater"
   title: Débuter le trail
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643038697/website/summer/117444833_3228512423882343_2122646883182493095_n_pymt7i.jpg
   captiontitleuppercase: Débuter c'est progresser
@@ -44,7 +45,7 @@ page_sections:
     vallonnés avec des petites bosses, des sentiers ou un terrain un peu plus instable.
     Le but est de travailler les changements de rythme, de renforcer les muscles et
     d’améliorer la proprioception dans des terrains plus techniques. Lors des montées,
-    il est important que vous commenciez par marché. En trail, vous marcherez beaucoup
+    il est important que vous commenciez par marcher. En trail, vous marcherez beaucoup
     en montée, votre corps doit s’habituer à cet effort difficile.
   alt_text_for_image: Coureur de trail de dos grimpant une montagne
   button:
@@ -57,7 +58,7 @@ page_sections:
   text_refers_to_counter: 'séances par semaine '
   title: Débuter
   content: 'Commencez par 2 sorties par semaine par des tours de 40mn max. Après deux
-    semaines, vous pourrez commencez le dénivelé et faire des entraînements avec fractionné
+    semaines, vous pourrez commencer le dénivelé et faire des entraînements avec fractionné
     et intensité.                                      '
   headline: '2 entraînements de 40mn                               '
 - template: 2colimgtxt
@@ -91,21 +92,23 @@ page_sections:
 - template: textarea
   title: Rythme d’entraînement
   content: "Votre rythme d’entraînement va dépendre de votre base de course à pied.
-    Cela sera différent si vous ne courez quasiment jamais ou si vous avez une base
-    d’endurance et musculaire. Dans tous les cas, on ne doit pas sauter les étapes.\n\n*
-    Commencez donc par des footings de 40/45mn sur des terrains faciles et vallonnés.
-    Environ 2 fois par semaine sur 2 semaines.\n* Ajoutez à cela une sortie avec du
-    dénivelé puis ajoutez progressivement plus de dénivelé au fil des semaines. Ne
-    pas dépasser au départ plus de 3 entraînements sur les 4 premières semaines.\n*
-    Plan idéal : 1 footing 45mn vallonnée // 1 entraînement fractionné type 10*(30/30)
-    // 1 sortie dénivelé 1h30/2h\n\nNe commencez pas dans des terrains trop techniques
-    et accidentés.  \nSi vous pouvez avoir 3 entraînements/semaine c’est idéal pour
-    progresser. Plus vous avancez dans les semaines, plus vous augmenterez le dénivelé.
-    Pensez aussi à intégrer des séances de vitesse en fractionné (se référer au texte
-    comment faire du fractionné).  \nIl est aussi efficace de placer des entraînements
+    Cela sera différent si vous ne courez quasiment jamais ou si vous avez quelques
+    bases en endurance et en préparation physique. Dans tous les cas, on ne doit pas
+    sauter les étapes.\n\n* Commencez donc par des footings de 40/45mn sur des terrains
+    faciles et vallonnés. Environ 2 fois par semaine sur 2 semaines.\n* Ajoutez à
+    cela une sortie avec du dénivelé puis augmentez progressivement le dénivelé au
+    fil des semaines. Ne pas dépasser au départ plus de 3 entraînements sur les 4
+    premières semaines.\n* Plan idéal : 1 footing 45mn vallonnée // 1 entraînement
+    fractionné type 10*(30/30) // 1 sortie dénivelé 1h30/2h\n\nNe commencez pas dans
+    des terrains trop techniques et accidentés.  \nSi vous pouvez avoir 3 entraînements/semaine
+    c’est idéal pour progresser. Plus vous avancez dans les semaines, plus vous augmenterez
+    le dénivelé. Pensez aussi à intégrer des séances de vitesse en fractionné (se
+    référer au texte [comment faire du fractionné](https://preprod-zehero-202112.netlify.app/fr/ete/conseils/fractionne-trail
+    \"Comment faire du fractionné\")).  \nIl est aussi efficace de placer des entraînements
     par la suite de Up/Down. C’est un entraînement qui consiste à faire sur une même
     côte des allers/retours à différentes allures afin de travailler son efficacité
     en côte et en descente."
+  blockBGcolor: ''
 - template: textarea
   title: Faire de la Préparation Physique Générale
   content: "En trail, il est important d’avoir des muscles solides au niveau des jambes,
@@ -120,13 +123,16 @@ page_sections:
     jack, de la chaise… Vous travaillerez votre renforcement musculaire, votre proprioception
     et votre explosivité.  \nPensez également aux exercices sur banc, qui sont très
     efficaces."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg
   captiontitleuppercase: Bien s'équiper, bien s'alimenter
   title: Les différentes notions
-  content: Vous pouvez regardez nos autres articles qui expliquent “comment bien s’équiper
-    en trail” et “comment choisir ses chaussures de trail”. En ce qui concerne l'alimentation,
-    lors de chaque sortie en trail, il est primordial de savoir gérer son alimentation
+  content: Vous pouvez regarder nos autres articles qui expliquent “[comment bien
+    s’équiper en trail](https://preprod-zehero-202112.netlify.app/fr/ete/conseils/equipement-trail
+    "Bien s'équiper en trail")” et “[comment choisir ses chaussures de trail](https://preprod-zehero-202112.netlify.app/fr/ete/conseils/chaussures-trail
+    "Bien choisir ses chaussures de trail")”. En ce qui concerne l'alimentation, lors
+    de chaque sortie en trail, il est primordial de savoir gérer son alimentation
     et son hydratation. L’objectif est d’emporter sur soi assez d’eau pour toute la
     durée de votre entraînement. Essayez de boire des petites gorgées toutes les 15mn.
     Il est conseillé de ne pas boire trop rapidement et en trop grande quantité. Vous
