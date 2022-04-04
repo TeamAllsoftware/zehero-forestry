@@ -85,7 +85,7 @@ s05:
     title: Spécialités
     content: Je suis spécialisé dans la course à pied, ainsi que le renforcement musculaire
       et musculation. Mais j'affectionne également la remise en forme, le sport perte
-      de poids et la gym sénior.
+      de poids et la gym sénior
 s06:
   achieve01:
     title: Compétitions
