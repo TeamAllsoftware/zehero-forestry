@@ -50,9 +50,9 @@ page_sections:
   content: |-
     La générosité, l’engagement, le partage et l’émotion sont les valeurs centrales de ce projet.
 
-    Que vous soyez seul, accompagné en couple ou bien en famille, l’équipe Ze Hero fera tout pour vous faire vivre un moment intense et à la hauteur de vos attentes. Notre but ? Que vous puissiez repartir muni de votre plus beau sourire et des souvenirs plein la tête.
+    Que vous soyez seul, accompagné en couple ou bien en famille, l’équipe ZE HERO fera tout pour vous faire vivre un moment intense et à la hauteur de vos attentes. Notre but ? Que vous puissiez repartir muni de votre plus beau sourire et de souvenirs plein la tête.
 
-    De plus, nous apportons une attention toute particulière à la dimension environnementale, une question centrale dans le monde d’aujourd’hui, d’autant plus importante en milieu montagnard. C’est donc avec soins que nous tentons d’organiser nos activités en limitant au maximum notre impact environnemental en passant par des prestataires locaux soucieux des enjeux environnementaux.
+    De plus, nous apportons une attention toute particulière à la dimension environnementale, une question centrale dans le monde d’aujourd’hui, d’autant plus importante en milieu montagnard. C’est donc avec soins que nous tentons d’organiser nos activités en limitant au maximum notre impact environnemental en passant par des prestataires locaux soucieux de ces enjeux.
   title: L’équipe Ze Hero
   captiontitleuppercase: nos valeurs
   alt_text_for_image: Un homme heureux et fier de lui. il vient de se dépasser lors
