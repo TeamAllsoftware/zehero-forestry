@@ -55,15 +55,16 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643097698/website/Conseil%20/sage-friedman-TT2J5t1QaMw-unsplash_eldqor.jpg
   captiontitleuppercase: Les différentes équipements
   title: Comment s'habiller en Trail ?
-  content: Vous pouvez vous référer à l’article Ze Hero qui explique “Comment choisir
-    ses chaussures de Trail”. En ce qui concerne les premières couches, on retrouve
-    différents vêtements techniques qui seront adaptés à la pratique du Trail. Il
-    faut donc impérativement que vos vêtements soient techniques et résistants. Le
-    T-shirt doit être ultra-respirant avec une mobilité importante. Il faut bannir
-    les vêtements en coton et privilégier des vêtements légers et des matières comme
+  content: 'Pour trouver la chaussure de trail qui vous convient, vous pouvez vous
+    référer à cet article : “[Comment choisir ses chaussures de Trail](https://preprod-zehero-202112.netlify.app/fr/ete/conseils/chaussures-trail
+    "Bien choisir ses chaussures de trail")”. En ce qui concerne les premières couches,
+    on retrouve différents vêtements techniques qui seront adaptés à la pratique du
+    Trail. Il faut donc impérativement que vos vêtements soient techniques et résistants.
+    Le T-shirt doit être ultra-respirant avec une mobilité importante. Il faut bannir
+    les vêtements en coton et privilégier des vêtements légers avec des matières comme
     le polyester, le polyamide ou l’élasthanne. Vous trouverez aussi des vêtements
     de compression qui favorisent la thermorégulation et l’oxygénation des muscles.
-    Ils se portent donc très prêt du corps.
+    Ils se portent donc très près du corps.'
   alt_text_for_image: Coureur de dos courant sur une route en tenant une gourde, de
     dos
   button:
