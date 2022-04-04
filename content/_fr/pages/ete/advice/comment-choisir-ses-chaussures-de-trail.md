@@ -94,7 +94,7 @@ page_sections:
   content: |-
     Le choix d’une chaussure ne sera pas identique en fonction de votre niveau. Si vous débutez le Trail, il ne faut pas chercher à prendre une chaussure qui demande beaucoup d’énergie et qui soit rigide.
 
-    * Si vous débutez, cherchez une chaussure plutôt légère et souple avec de l’amortie et surtout du confort.
+    * Si vous débutez, cherchez une chaussure plutôt légère et souple avec de l’amorti et surtout du confort.
     * Si vous êtes confirmé, vous pouvez avoir une chaussure plus rigide, plus technique, plus renforcée.
   blockBGcolor: ''
 - template: textarea
