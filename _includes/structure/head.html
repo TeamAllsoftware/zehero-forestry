@@ -107,6 +107,17 @@
             (tarteaucitron.job = tarteaucitron.job || []).push('facebookpixel');
         </script>
         <!-- end Facebook PIXEL -->
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-18RR6RPDCL"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-18RR6RPDCL');
+        </script>
+
         {% endif %}
 
         {% if jekyll.environment == 'development' OR page.noindex == true %}
