@@ -22,20 +22,17 @@ page_sections:
   blockBGcolor: blanc
   title: Le Gravel
   content: "La Gravel est un vélo de route, qui présente le même cadre, mais c'est
-    un vélo plus résistant, plus solide et composé de pneus pouvant aller sur des
-    hors sentiers. C'est un mélange de vélo de route et de VTT. Il ne présente pas,
-    par contre, de suspension. C'est donc un vélo très polyvalent, qui vous amènera
-    entre les routes de cols et les chemins 4*4, parfois sinueux, pour des circuits
-    plus sauvages. C'est une activité parfaite lorsque l'on veut mixer les disciplines,
-    les terrains, les circuits de découverte. Avec des pneus plutôt larges, il sera
-    alors plus facile de passer dans des chemins de cailloux et plus techniques. Les
-    Gravels sont beaucoup utilisés pour des \"roadtrips\", des micro-aventures, des
-    longues traversées par le fait qu'ils sont très polyvalents. Vous pourrez alors
-    facilement installer des sacs de portages dessus. Les possibilités en gravel sont
-    infinies et l'aventure ne fait que débuter lorsque vous commencez à pédaler.  \nContrairement
-    au VTT, il ne comporte pas de suspension (certains modèles commencent à en avoir),
-    il est beaucoup léger. Mais il sera parfois difficile de s'engager dans certaines
-    descentes techniques dont le VTT lui serai beaucoup plus à l'aise."
+    un vélo plus résistant, plus solide et composé de pneus pouvant aller hors des
+    sentiers. battus. C'est un mélange de vélo de route et de VTT, sans suspension.
+    \n\nC'est un vélo très polyvalent, qui vous amènera entre les routes de cols et
+    les chemins carrossables, parfois sinueux, pour des circuits plus sauvages. C'est
+    une activité parfaite lorsque l'on veut mixer les disciplines, les terrains, les
+    circuits de découverte. \n\nAvec des pneus plutôt larges, il sera alors plus facile
+    de passer dans des chemins de cailloux et plus techniques. Les Gravels sont beaucoup
+    utilisés pour des \"roadtrips\", des micro-aventures, des longues traversées car
+    ils sont très polyvalents et munis de nombreux points d'attaches pour y installer
+    des sacs de portages. Les possibilités en gravel sont infinies et l'aventure débute
+    lorsque vous commencez à pédaler."
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648136860/website/summer/dmitrii-vaccinium-GeUnKMAfX6s-unsplash.jpg
@@ -43,11 +40,11 @@ page_sections:
   captiontitleuppercase: Rouler sans limites
   title: L'aventure en gravel
   content: |-
-    Vivez l'aventure en grand avec le gravel. Léger, dynamique, ergonomique, mais également solide et robuste, vous pourrez autant profiter des routes de cols que des chemins 4*4 en forêt ou en montagne. Sa position est celle d'un vélo de route afin de garder un maximum de vitesse et sera toujours efficace dans les terrains accidentés.
+    Vivez l'aventure en grand avec le gravel. Léger, dynamique, ergonomique, mais également solide et robuste, vous pourrez autant profiter des routes de cols que des chemins 4x4 en forêt ou en montagne. Sa position est celle d'un vélo de route afin de garder un maximum de vitesse, mais sa géométrie le rendra toujours efficace dans les terrains accidentés.
 
     Le Gravel est un vélo qui s'utilise plutôt pour des sorties, qui seront variées, avec des bosses, mais également plutôt longues. À la différence d'un VTC, le gravel sera beaucoup plus sportif et rapide.
 
-    Le gravel c'est le vélo d'aventure par excellence. C'est décider de s'éloigner de la route et de prendre un petit chemin de cailloux, de terre et explorer de nouveau horizon. C'est pouvoir quitter les routes et les voitures qui vous rasent afin d'être plus à l'écart, libre, dans une nature plus préservée.
+    Le gravel c'est le vélo d'aventure par excellence. C'est décider de s'éloigner de la route et de prendre un petit chemin de cailloux, de terre et d'explorer de nouveau horizon. C'est pouvoir quitter les routes et les voitures qui vous rasent afin d'être plus à l'écart, libre, dans une nature plus préservée.
 
     Aujourd'hui, les activités de Gravel fleurissent de partout ainsi que les compétitions. Vous trouverez alors des courses de 60km à 400km sur plusieurs jours avec beaucoup de dénivelés. Des parcours de traversée, ainsi que le bikepacking à gravel sont de plus en plus nombreux.
   button:
@@ -76,22 +73,22 @@ page_sections:
   blockBGcolor: blanc
   title: Des expériences uniques
   content: |-
-    Vous trouverez donc des écoles et des moniteurs indépendants qui vont proposer des sorties, des initiations à gravel. Vous pourrez partir alors pour quelques heures, comme à la journée pour des parcours en fonction des niveaux et des envies.
+    Vous trouverez donc des écoles et des moniteurs indépendants qui vont proposer des sorties, des initiations à gravel. Vous pourrez partir pour quelques heures ou à la journée pour des parcours en fonction de votre niveau et de vos envies.
 
-    Vous pourrez alors également réaliser des traversés et des circuits sur plusieurs jours. Avec Gravel'up, vous pourrez alors découvrir différentes expériences :
+    Vous pourrez aussi réaliser des traversés et des circuits sur plusieurs jours. Avec Gravel'up, vous pourrez découvrir différentes expériences :
 
     * des expéditions de plusieurs jours en étoile autour du camp de base
     * une boucle avec des nuits en campement ou refuge
     * une traversée d'un point A vers B
 
-    Les distances et les dénivelés vont alors augmenter en fonction du choix des expériences. L'engagement physique sera alors plus élevé et une préparation physique sera alors importante à faire en amont.
+    Les distances et les dénivelés vont alors augmenter en fonction du choix des expériences. L'engagement physique sera alors plus élevé et une préparation physique sera à faire en amont.
 
-    Vous pourrez alors réaliser des traversés où vous serez tout pris en charge (hébergement / ravitaillement / repas...). Vous pourrez choisir entre des destinations comme la Corse, l'Aveyron, les Vosges et choisissant le type d'expérience que vous souhaitez.
+    Vous pourrez aussi réaliser des traversés durant lesquelles tout est pris en charge (hébergement / ravitaillement / repas...). Différentes destinations s'offrent à vous : la Corse, l'Aveyron, les Vosges.
 
-    Les groupes de gravel peuvent aller jusqu'au nombre de 10 personnes.
+    Les groupes de gravel peuvent compter jusqu'à 10 personnes.
 - template: 2colTitreTxt
   blockBGcolor: blanc
-  title: Liberté, aventure, exploré
+  title: Liberté, Aventure, Exploration
   content: Le Gravel est plus qu'une activité de vélo, c'est une aventure, une expérience
     riche en découverte, en paysage et en partage.
 

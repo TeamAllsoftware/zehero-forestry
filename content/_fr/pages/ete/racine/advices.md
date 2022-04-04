@@ -22,7 +22,7 @@ page_sections:
   col1:
     title: Vous prévoyez des activités en plein air mais ne savez pas par où commencer
       ?
-    content: Nous avons préparé une série de fiches conseils pour vous aidez dans
+    content: Nous avons préparé une série de fiches conseils pour vous aider dans
       votre préparation. Que ce soit pour choisir une activité et apprendre la technique,
       sélectionner du matériel ou vous préparer physiquement.
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883619/website/summer/Activite-groupe-amis_xxcdut.jpg
@@ -46,9 +46,9 @@ page_sections:
   title: De précieux conseils pour vous aider dans vos choix de randonnée, de surf,
     de trail...
   content: |-
-    Le trail est très technique, il nécessite un équipement poussé afin d’alier légéreté et performance - [Lire notre fiche conseil sur comment bien s’équiper en trail](/fr/ete/conseils/equipement-trail).
+    Le trail est très technique, il nécessite un équipement poussé afin d’allier légèreté et performance - [Lire notre fiche conseil sur comment bien s’équiper en trail](/fr/ete/conseils/equipement-trail).
 
-    Choisir ses chaussures de Trail n’est pas évident avec ce grand choix. Yann, notre spéialiste trail vous dit tout dans cette fiche conseil - [Tout ce qu’il faut savoir sur les chaussures de trail](/fr/ete/conseils/chaussures-trail).
+    Choisir ses chaussures de Trail n’est pas évident avec ce grand choix. Yann, notre spécialiste trail vous dit tout dans cette fiche conseil - [Tout ce qu’il faut savoir sur les chaussures de trail](/fr/ete/conseils/chaussures-trail).
   button:
     text_button: 
     href_button: 
@@ -61,7 +61,7 @@ page_sections:
   captiontitleuppercase: Apprendre, s’améliorer pour prendre plus de plaisir
   title: Découvrir, débuter ou se perfectionner en trail
   content: |-
-    Si vous n’êtes pas un habitué de la course de pied, allez-y de manière très progressive, Yann vous dit tout pour vous lancer dans le trail - [Lire notre fiche conseil sur comment débuter le trail](/fr/ete/conseils/comment-debuter-trail).
+    Si vous n’êtes pas un habitué de la course à pied, allez-y de manière très progressive, Yann vous dit tout pour vous lancer dans le trail - [Lire notre fiche conseil sur comment débuter le trail](/fr/ete/conseils/comment-debuter-trail).
 
     [Yann](/fr/coachs/yann-alarcon) vous a concocté une préparation minutieuse pour votre 1er trail - [Tout ce qu’il faut savoir sur la préparation d’une course de Trail](/fr/ete/conseils/preparation-course-trail).
   button:
@@ -77,7 +77,7 @@ page_sections:
 - template: 2colTitreTxt
   title: Conseils, Materiels, Itinéraires.
   content: De précieux conseils pour vous aider dans vos choix de vélo, de chaussures
-    de trail, ainsi que les meilleurs activités outdoor en station de montagne pour
+    de trail, ainsi que les meilleures activités outdoor en station de montagne pour
     partager des sensations fortes ou calmes, et surtout pour profiter pleinement
     de vacances et weekend magnifiques.
 - template: newsletter
