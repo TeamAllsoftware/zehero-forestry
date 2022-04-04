@@ -50,6 +50,7 @@
         <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | url_encode }}{{ page.url | url_encode }}/opengraph/1:1/smaller">
         <!-- END OPEN GRAPH -->
 
+        
         <script src="/js/tarteaucitron/tarteaucitron.js"></script>
 
         <script type="text/javascript">
@@ -59,16 +60,16 @@
           "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
           "cookieName": "tarteaucitron", /* Cookie name */
     
-          "orientation": "middle", /* Banner position (top - bottom) */
+          "orientation": "bottom", /* Banner position (top - bottom) */
        
           "groupServices": false, /* Group services by category */
                            
           "showAlertSmall": false, /* Show the small banner on bottom right */
           "cookieslist": false, /* Show the cookie list */
                            
-          "closePopup": false, /* Show a close X on the banner */
+          "closePopup": true, /* Show a close X on the banner */
 
-          "showIcon": true, /* Show cookie icon to manage cookies */
+          "showIcon": false, /* Show cookie icon to manage cookies */
           //"iconSrc": "", /* Optionnal: URL or base64 encoded image */
           "iconPosition": "BottomRight", /* BottomRight, BottomLeft, TopRight and TopLeft */
 
@@ -76,7 +77,7 @@
                            
           "DenyAllCta" : true, /* Show the deny all button */
           "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
-          "highPrivacy": true, /* HIGHLY RECOMMANDED Disable auto consent */
+          "highPrivacy": false, /* HIGHLY RECOMMANDED Disable auto consent */
                            
           "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
 
@@ -93,31 +94,25 @@
           "mandatory": true, /* Show a message about mandatory cookies */
         });
         </script>
+        <script type="text/javascript">
+            tarteaucitron.user.gtagUa = 'G-18RR6RPDCL';
+            // tarteaucitron.user.gtagCrossdomain = ['example.com', 'example2.com'];
+            tarteaucitron.user.gtagMore = function () { /* add here your optionnal gtag() */ };
+            (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
+        </script>
          
-
         
         {% if jekyll.environment == 'development' OR page.noindex == true %}
         <meta name='robots' content='noindex,nofollow' />
         {% endif %}
     
-        {% if jekyll.environment == 'production' %}
-         <!-- Global site tag (gtag.js) - Google Analytics -->
-         <script async src="https://www.googletagmanager.com/gtag/js?id=G-18RR6RPDCL"></script>
-         <script>
-           window.dataLayer = window.dataLayer || [];
-           function gtag(){dataLayer.push(arguments);}
-           gtag('js', new Date());
- 
-           gtag('config', 'G-18RR6RPDCL');
-         </script>
-        {% endif %}
+        
+         
+       
     
     </head>
+
     
-    <script type="text/javascript">
-        tarteaucitron.user.facebookpixelId = 'YOUR-ID'; tarteaucitron.user.facebookpixelMore = function () { /* add here your optionnal facebook pixel function */ };
-        (tarteaucitron.job = tarteaucitron.job || []).push('facebookpixel');
-        </script>
 
     <body data-mobile-nav-style="classic">
         <!-- start header -->
