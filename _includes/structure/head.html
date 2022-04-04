@@ -108,7 +108,15 @@
         </script>
         <!-- end Facebook PIXEL -->
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
+       
+
+        {% endif %}
+
+        {% if jekyll.environment == 'development' OR page.noindex == true %}
+        <meta name='robots' content='noindex,nofollow' />
+        {% endif %}
+
+         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-18RR6RPDCL"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
@@ -117,12 +125,6 @@
 
           gtag('config', 'G-18RR6RPDCL');
         </script>
-
-        {% endif %}
-
-        {% if jekyll.environment == 'development' OR page.noindex == true %}
-        <meta name='robots' content='noindex,nofollow' />
-        {% endif %}
         
     </head>
     <body data-mobile-nav-style="classic">
