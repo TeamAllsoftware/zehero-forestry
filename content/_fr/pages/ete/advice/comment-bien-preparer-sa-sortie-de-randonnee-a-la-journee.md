@@ -124,7 +124,7 @@ page_sections:
     une gourde filtrant l'eau directement. Si vous désirez boire directement dans
     une rivière, il est important d'être haut en altitude afin d'éviter les alpages
     et les troupeaux. Mais l'eau est alors peu minérale et très froide, cela peut
-    être alors indigeste. Si, il y a la présence de troupeau de mouton ou de vache,
+    alors être indigeste. S'il y a la présence de troupeau de mouton ou de vache,
     il est fortement déconseillé de boire l'eau directement. Il faudrait mettre une
     pastille ou alors avoir une gourde filtrante.  \nLes cartes IGN présentent différentes
     signalisations pour indiquer des fontaines, des sources d'eau, des puits et autre
