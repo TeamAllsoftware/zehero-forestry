@@ -137,12 +137,13 @@ page_sections:
   title: Le choix des pointures
   blockBGcolor: ''
 - template: textarea
-  content: "Ces 3 termes désignent les 3 différents types de foulées. Certaines chaussures
-    sont plus axées sur certains types afin d’aider le coureur.\n\n* Supination :
-    Le déroulé du pied se fait sur l’extérieur\n* Neutre : Le déroulé se fait à plat\n*
-    Pronation : Le déroulé se fait à l’intérieur\n\nVous pouvez connaître votre type
-    de foulée en regardant l’usure de vos chaussures.  \nCertaines marques proposent
-    des modèles adaptés pour ces différents types de foulées."
+  content: "Ces 3 termes désignent les 3 différents types de foulées existants. Certaines
+    chaussures conviennent davantage à certains types de foulées. Cette spécification
+    accompagne le coureur dans son effort.\n\n* Supination : Le déroulé du pied se
+    fait sur l’extérieur\n* Neutre : Le déroulé se fait à plat\n* Pronation : Le déroulé
+    se fait à l’intérieur\n\nVous pouvez connaître votre type de foulée en observant
+    l’usure de vos chaussures.  \nCertaines marques proposent des modèles spécifiquement
+    conçus pour ces différents types de foulées."
   title: Supination/Neutre/Pronation
   blockBGcolor: ''
 - template: newsletter
