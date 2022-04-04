@@ -142,12 +142,12 @@ page_sections:
     alt_button: ''
   blockBGcolor: ''
 - template: textarea
-  content: 'Aujourd’hui on retrouve énormément de montre de sport, de montre GPS et
-    de montre connectée. Ce n’est pas un outil obligatoire mais il permet d’avoir
-    différents indicateurs importants. Vous trouverez des montres vous affichant les
-    indicateurs les plus basiques : les kilomètres, le temps et la vitesse. Certaines
+  content: 'Aujourd’hui on retrouve énormément de montres de sport, de montres GPS
+    et de montres connectées. Ce n’est pas un outil obligatoire mais il permet d’avoir
+    différents indicateurs importants. Les montres les plus standards vous afficheront
+    les indicateurs les plus basiques : les kilomètres, le temps et la vitesse. Certaines
     sont dotées en plus d’un altimètre et d’un baromètre. Pour les montres les plus
-    poussées, vous retrouverez une cartographie où vous pourrez mettre des traces
+    avancées, vous retrouverez une cartographie où vous pourrez mettre des traces
     et des itinéraires à suivre.'
   title: Montres GPS
   blockBGcolor: ''
