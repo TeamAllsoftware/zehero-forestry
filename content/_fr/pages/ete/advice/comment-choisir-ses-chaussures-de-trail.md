@@ -94,21 +94,21 @@ page_sections:
   content: |-
     Le choix d’une chaussure ne sera pas identique en fonction de votre niveau. Si vous débutez le Trail, il ne faut pas chercher à prendre une chaussure qui demande beaucoup d’énergie et qui soit rigide.
 
-    * Si vous débutez, cherchez une chaussure plutôt légère et souple avec de l’amortie et surtout du confort.
+    * Si vous débutez, cherchez une chaussure plutôt légère et souple avec de l’amorti et surtout du confort.
     * Si vous êtes confirmé, vous pouvez avoir une chaussure plus rigide, plus technique, plus renforcée.
   blockBGcolor: ''
 - template: textarea
   content: "Le drop c’est la différence entre la hauteur de l’avant du pied et l’arrière
     du pied. Lorsque nous marchons pied nu le drop est a 0. Généralement on trouve
-    des drops entre 4 mm et 12 mm. Le choix du drop est choisi en fonction de notre
+    des drops entre 4 mm et 12 mm. Le choix du drop est fait en fonction de notre
     foulée.  \nSi vous avez une attaque talon, c’est-à-dire que vous déroulez le pied
-    en posant le talon directement, il est plus judicieux d’avoir un drop plus important.
+    en posant le talon directement, il est plus judicieux d’avoir un drop important.
     Cela est plus confortable et protège mieux lors des impacts et des chocs. Il est
     donc important d’analyser votre foulée car si vous prenez un drop trop faible
     et que cela ne correspond pas à votre foulée, vous risquez de vous blesser.\n\n*
-    Si vous posez votre talon directement au sol, prenez plutôt un drop de plus de
-    6mm\n* Si vous posez le milieu du pied au devant du pieds, prenez plutôt un drop
-    de moins de 6mm"
+    Si vous posez votre talon directement au sol, prenez de préférence un drop supérieur
+    à 6mm\n* Si vous posez le milieu du pied au devant du pieds, prenez de préférence
+    un drop inférieur à 6mm"
   title: Le drop
   blockBGcolor: ''
 - template: 2colimgtxt
@@ -127,22 +127,23 @@ page_sections:
     alt_button: ''
   blockBGcolor: ''
 - template: textarea
-  content: Le pied peut gonfler pendant la course, c’est aussi pour cela qu’il est
-    parfois important de prendre une demi à une pointure au-dessus. Mais il est important
-    d’essayer car en fonction des marques, les pointures ne sont pas identiques. Si
-    votre chaussure est trop petite, vous risquez pendant les descentes, de vous abîmer
-    vos orteils et d’avoir mal. Si vous avez des semelles orthopédiques, il faut aussi
-    les prendre en considération car cela changera l’espace de votre chaussure. Le
+  content: Le pied peut gonfler pendant la course, c’est pour cela qu’il est parfois
+    conseillé de prendre une demi à une pointure au-dessus. L'idéal est d’essayer
+    car en fonction des marques, les pointures ne sont pas identiques. Si votre chaussure
+    est trop petite, vous risquez pendant les descentes, de vous abîmer vos orteils
+    et d’avoir mal. Si vous avez des semelles orthopédiques, il faut aussi les prendre
+    en considération car cela changera l’espace disponible dans votre chaussure. Le
     plus important est d’avoir le maximum de confort dans votre chaussure.
   title: Le choix des pointures
   blockBGcolor: ''
 - template: textarea
-  content: "Ces 3 termes désignent les 3 différents types de foulées. Certaines chaussures
-    sont plus axées sur certains types afin d’aider le coureur.\n\n* Supination :
-    Le déroulé du pied se fait sur l’extérieur\n* Neutre : Le déroulé se fait à plat\n*
-    Pronation : Le déroulé se fait à l’intérieur\n\nVous pouvez connaître votre type
-    de foulée en regardant l’usure de vos chaussures.  \nCertaines marques proposent
-    des modèles adaptés pour ces différents types de foulées."
+  content: "Ces 3 termes désignent les 3 différents types de foulées existants. Certaines
+    chaussures conviennent davantage à certains types de foulées. Cette spécification
+    accompagne le coureur dans son effort.\n\n* Supination : Le déroulé du pied se
+    fait sur l’extérieur\n* Neutre : Le déroulé se fait à plat\n* Pronation : Le déroulé
+    se fait à l’intérieur\n\nVous pouvez connaître votre type de foulée en observant
+    l’usure de vos chaussures.  \nCertaines marques proposent des modèles spécifiquement
+    conçus pour ces différents types de foulées."
   title: Supination/Neutre/Pronation
   blockBGcolor: ''
 - template: newsletter
