@@ -102,7 +102,7 @@ page_sections:
     du pied. Lorsque nous marchons pied nu le drop est a 0. Généralement on trouve
     des drops entre 4 mm et 12 mm. Le choix du drop est fait en fonction de notre
     foulée.  \nSi vous avez une attaque talon, c’est-à-dire que vous déroulez le pied
-    en posant le talon directement, il est plus judicieux d’avoir un drop plus important.
+    en posant le talon directement, il est plus judicieux d’avoir un drop important.
     Cela est plus confortable et protège mieux lors des impacts et des chocs. Il est
     donc important d’analyser votre foulée car si vous prenez un drop trop faible
     et que cela ne correspond pas à votre foulée, vous risquez de vous blesser.\n\n*
