@@ -6,8 +6,8 @@ topnav_color_text: dark
 title: Vélo de route
 permalink: "/fr/ete/activites/velo-de-route"
 redirect_from:
-  - "/fr/velo-savoie-haute-savoie/"
-  - /fr/ete/activite/velo-de-route
+- "/fr/velo-savoie-haute-savoie/"
+- "/fr/ete/activite/velo-de-route"
 meta-title: Sorties en vélo de route, parcours et cols
 meta-description: 'A l''assaut des cols mythiques en France : découvrez les plus belles
   régions en vélo de route'
@@ -26,6 +26,7 @@ page_sections:
     de fortes sensations en descente.  \nQue ce soit en montagne, dans les plaines,
     sur des routes sauvages, vous trouverez des itinéraires magnifiques et surprenants."
   title: Le vélo de route
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642669650/website/summer/mizzi-westphal-LIdAmXo7eqA-unsplash_c7pfwz.jpg
   captiontitleuppercase: Partager un moment sur la route
@@ -46,9 +47,10 @@ page_sections:
 - template: textarea
   title: Une activité partout en France
   content: |-
-    Hormis en hiver où cette activité est moins pratiqué, le vélo de route se fait partout en France et quasiment toute l'année. Bien-sûr si vous désirez absolument réaliser des cols routiers, il faudra se rapprocher des montagnes, sinon il y aura de magnifiques routes à travers les campagnes, les forêts, le littoral et bien d'autre.
+    Hormis en hiver où cette activité est moins pratiquée, le vélo de route se fait partout en France et quasiment toute l'année. Bien-sûr si vous désirez absolument réaliser des cols routiers, il faudra se rapprocher des montagnes, sinon il y aura de magnifiques routes à travers les campagnes, les forêts, le littoral et bien d'autre.
 
     La technique à vélo s'apprend afin de monter efficacement et de moins s'épuiser mais également gérer ses pauses et son ravitaillement. L'avantage de vélo de route en groupe est que vous pouvez échanger et partager un bon moment. L'émulsion d'un groupe va permettre de vous motiver également et d'être tiré par les autres mais également de moins de se fatiguer lorsque vous prenez l'aspiration.
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883619/website/summer/Velo-duo-amis_rnipw2.jpg
   captionabovetitle: Plaisir et performance
@@ -77,6 +79,7 @@ page_sections:
     Mais, cela peut permettre également de se laisser guider sur de jolis parcours,
     de réaliser des ascensions. Parfois, cela vous permet également d'avoir un ravitaillement,
     un suivi en voiture lorsque vous partez pour plusieurs jours.
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
