@@ -9,10 +9,10 @@ topnav_color_text: dark
 title: Nathan Alarçon, coach préparation physique et mentale
 permalink: "/fr/coachs/nathan-alarcon"
 redirect_from:
-  - "/fr/ete/coach/nathan-alarcon"
-  - "/fr/hiver/coach/nathan-alarcon"
-  - "/fr/ete/coachs/nathan-alarcon"
-  - "/fr/hiver/coachs/nathan-alarcon"
+- "/fr/ete/coach/nathan-alarcon"
+- "/fr/hiver/coach/nathan-alarcon"
+- "/fr/ete/coachs/nathan-alarcon"
+- "/fr/hiver/coachs/nathan-alarcon"
 s07:
   txt_button: Réserver un cours
   txt01: vous accompagne pour tous vos défis
@@ -56,7 +56,7 @@ s04:
   image04:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/9_qhdb7d.jpg
     alt: Coach sportif regardant son ordinateur afin de planifier les entraînements
-    txt01: Suivi personallisé
+    txt01: Suivi personnalisé
     txt02: E-coaching
   image05:
     href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062746/website/Coaching/5_vovphc.jpg
