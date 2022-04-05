@@ -103,7 +103,7 @@ page_sections:
   alt_text_for_image: Parapente au dessus des montagnes
   captiontitleuppercase: Explorer les montagnes vue du ciel
   title: Le parapente
-  content: En montagne, c'est le parfait d'endroit pour participer à son 1er vol de
+  content: En montagne, c'est le parfait endroit pour participer à son 1er vol de
     [parapente](https://www.ze-hero.com/fr/ete/activites/parapente), pour faire son
     stage de parapente ou alors de le pratiquer directement. Partir dans les airs,
     voler au-dessus des sommets des montagnes, avoir le meilleur panorama et voir
