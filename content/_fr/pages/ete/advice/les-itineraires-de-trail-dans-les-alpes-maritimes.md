@@ -78,7 +78,7 @@ page_sections:
 
     Le départ se fait juste avant Pont de loup, des places de parkings sont possibles en indiquant “chemin du paradis” sur Maps. Un aller/retour à Gourdon en passant par le fameux “Chemin du Paradis”; sur le GR 51.
 
-    Ce parcours magnifique reste raide et technique, avec beaucoup de virages épingles. Vous aurez en moyenne une pente a 15%. Vous profiterez de la vue arriver au sommet de Gourdon avant de repartir. Un parcours technique mais rapide qui peut être un très bon terrain pour mesurer sa forme en montée.
+    Ce parcours magnifique reste raide et technique, avec beaucoup de virages épingles. Vous aurez en moyenne une pente à 15%. Vous profiterez de la vue arrivé au sommet de Gourdon avant de repartir. Un parcours technique mais rapide qui peut être un très bon terrain pour mesurer sa forme en montée.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643298321/website/summer/la-verticale-1_gzkvdn.png
   captiontitleuppercase: VERT
   title: La Verticale
