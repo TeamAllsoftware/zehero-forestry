@@ -52,7 +52,7 @@ page_sections:
 
     Tout d'abord, il existe des combinaisons spécifiques au canyoning. Elles sont épaisses afin de parer la fraicheur de l'eau des canyons. Elles font environ 5mm d'épaisseur. Il est important d'utiliser une combinaison spécifique au canyoning, elle aura des propriétés particulières, indispensables à la pratique. On retrouvera ainsi des renforts au niveau des fesses, des coudes et des genoux... Utiliser des combinaisons de surf ou de plongée est fortement déconseillé. Elles risqueraient de s'abîmer et de se trouer beaucoup plus facilement.
 
-    Il faut porter des chaussures qui accrochent. Vous trouverez soient des chaussures spécifiques au canyoning, sinon vous prenez des chaussures de trail ou de randonnée (légères), qui sont donc plutôt souple et montante, pour ne pas se torde les chevilles et avec une bonne adhérence.
+    Il faut porter des chaussures qui accrochent. L'idéal est d'utiliser des chaussures spécifiques au canyoning, sinon vous pouvez utiliser des chaussures de trail ou de randonnée (légères), qui seront donc plutôt souples et montantes, pour ne pas se torde les chevilles et avoir une bonne adhérence.
 
     Le port d'un casque en canyoning est obligatoire. C'est l'équipement de sécurité primordiale à avoir lors de chaque session. Un casque d'escalade convient parfaitement pour le canyoning. Il protégera des chocs, si vous tapez la tête, des pierres qui peuvent tomber etc.
 
