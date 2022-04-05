@@ -111,11 +111,11 @@ page_sections:
     alt_button: ''
   blockBGcolor: ''
 - template: textarea
-  content: Partez profiter du canyoning maintenant avec tous les conseils importants.
-    Il ne vous reste plus qu'à trouver le lieux où vous désirez faire votre canyoning
-    tel que [https://www.ze-hero.com/fr/ete/activite/canyoning-alpes-maritimes](https://www.ze-hero.com/fr/ete/activite/canyoning-alpes-maritimes
-    "Les canyonings du 06") ou encore [https://www.ze-hero.com/fr/ete/activite/canyoning-annecy](https://www.ze-hero.com/fr/ete/activite/canyoning-annecy
-    "les canyonings vers Annecy").
+  content: 'Maintenant que vous avez lu nos conseils, il est temps de profiter du
+    canyoning ! Il ne vous reste plus qu''à trouver le lieu où vous désirez faire
+    votre sortie canyoning : retrouvez par exemple nos parcours en [Alpes maritimes](https://www.ze-hero.com/fr/ete/activite/canyoning-alpes-maritimes
+    "Canyoning Alpes Maritimes") ou à [Annecy](https://www.ze-hero.com/fr/ete/activite/canyoning-annecy
+    "Canyoning Annecy").'
   title: ''
   blockBGcolor: ''
 - template: newsletter
