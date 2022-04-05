@@ -126,7 +126,7 @@ page_sections:
 
     L'escalade vous amène au cœur de la montagne en grimpant directement sur ses parois. C'est vivre des moments forts, en escaladant ses voies pour atteindre des sommets. C'est une discipline et une activité qui se partage. Chacun motive l'autre afin de réussir. Elle permet souvent de marcher en montagne avant de grimper sur les différentes voies.
 
-    Pour ceux qui préfère escalade la montagne d'une façon plus simple mais parfois plus vertigineux, vous pourrez pratiquer la via ferrata. Beaucoup de lieux en montagne proposent des parcours variés de via ferrata. Vous pouvez louer directement votre matériel dans des magasins ou venir avec le vôtre. Une activité plus facile d'accès et ouverte à plus de personne.
+    Pour ceux qui préfère escalader la montagne d'une façon plus simple (mais parfois plus vertigineuse), vous pourrez pratiquer la via ferrata. Beaucoup de lieux en montagne proposent des parcours variés de via ferrata. Vous pouvez louer directement votre matériel dans des magasins ou venir avec le vôtre. Une activité plus facile d'accès et ouverte à plus de personne.
   button:
     text_button: ''
     href_button: ''
