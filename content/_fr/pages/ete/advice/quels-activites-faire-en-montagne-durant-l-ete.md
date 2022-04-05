@@ -153,9 +153,9 @@ page_sections:
   captiontitleuppercase: Découvrir la haute montagne
   title: L'alpinisme
   content: |-
-    L'alpinisme, la marche glacière sont des pratiques qui vous emmènent en haut des cimes. Découvrez la montagne comme vous l'avez jamais vue.
+    L'alpinisme, la marche glacière sont des pratiques qui vous emmènent en haut des cimes. Découvrez la montagne comme vous ne l'avez jamais vue.
 
-    Accompagné d'un guide, il vous fera découvrir une montagne belle et hostile, la magie de l'alpinisme. Partez réaliser des courses longues, en grimpant les falaises, en longeant des crêtes, en marchant avec crampons et piolets. Une activité physique, sensationnel et unique.
+    Accompagné d'un guide, il vous fera découvrir une montagne belle et hostile, la magie de l'alpinisme. Partez réaliser des courses longues, en grimpant les falaises, en longeant des crêtes, en marchant avec crampons et piolets. Une activité physique, sensationnelle et unique.
 
     Le guide s'adaptera à votre niveau pour vous proposer des courses qui vous conviennent. C'est également une discipline qui demande tout de même un certain niveau physique et donc une bonne préparation. Les parcours peuvent être techniques et l'altitude ajoute une difficulté.
 
