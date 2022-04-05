@@ -90,14 +90,21 @@ page_sections:
   alt_text_for_image: Personne descendant avec une corde en canyoning
   captiontitleuppercase: La sécurité avant tout
   title: Respecter les règles de sécurité
-  content: |-
-    Le canyoning doit se réaliser avec attention et vigilance même si on s'amuse pendant la durée de l'activité. Lors ce que vous participez à l'activité avec un groupe de canyoning, il est important de bien écouter les conseils du moniteur. En effet, par exemple lors des sauts, si le moniteur vous indique de sauter exactement ici, il faut faire exactement ce qu'il indique. Il y a parfois des accidents qui se produisent car des personnes ont alors sauté à côté et se sont blessées.
-
-    Il ne faut pas être au-dessus de ses moyens. C'est-à-dire que si vous êtes débutant, il faut l'indiquer au moniteur. Il arrive que des personnes ayant affirmé qu'ils avaient déjà pratiqué le canyoning, se trouvant bloqué car le canyon est trop difficile, trop technique. Il y a parfois quelques passages pour pouvoir s'échapper mais parfois on est bloqué et il est difficile de sortir.
-
-    L'eau est un élément qui peut surprendre. Il est important de rester tout de même vigilent lorsque les personnes s'engagent dans un passage afin de s'assurer que tout va bien.
-
-    Pour finir, prenez le temps de faire une petite pause. Il est très important de s'hydrater ainsi que de s'alimenter afin de rester lucide et d'avoir des muscles hydratés pour ne pas avoir des crampes.
+  content: "Le canyoning doit se réaliser avec attention et vigilance même si on s'amuse
+    pendant la durée de l'activité. Lors ce que vous participez à l'activité avec
+    un groupe de canyoning, il est important de bien écouter les conseils du moniteur.
+    Le moniteur vous guidera par exemple lors des sauts. Seul lui sait où sont les
+    zones aptes à sauter et les zones à risque. Les accidents arrivent majoritairement
+    lorsque les personnes ne suivent pas les instructions et finissent par se blesser.
+    \n\nIl est inutile, et dangereux, de surestimer son niveau ou ses capacités. Si
+    vous êtes débutant, il faut l'indiquer au moniteur. Même en étant débutant il
+    est tout à fait possible de s'amuser et passer un bon moment. En avançant à votre
+    rythme, vous évitez de vous retrouver bloqué sur un canyon trop difficile, trop
+    technique et diminuez fortement le risque de blessure.\n\nL'eau est un élément
+    qui peut surprendre. Il est important de rester tout de même vigilant lorsque
+    les personnes s'engagent dans un passage.\n\nPour finir, prenez le temps de faire
+    une petite pause. Il est très important de s'hydrater ainsi que de s'alimenter
+    afin de rester lucide et d'avoir des muscles hydratés pour ne pas avoir des crampes."
   button:
     text_button: ''
     href_button: ''
