@@ -11,7 +11,7 @@ meta-description: 'Nagez dans les rivières, apprenez à lire les courants, déc
 title: L'Hydrospeed
 permalink: "/fr/ete/activites/hydrospeed"
 baseline: Surfez dans les rivières
-engage: 'Découvrez la nage en rivière en flottant '
+engage: 'Découvrez la nage en rivière             '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785318-DSC_1518.jpg
 image01_alt: Personne faisant de l'hydrospeed dans la rivière de la Dranse
 button_to_link_to_ze_hero_shop:
@@ -33,14 +33,27 @@ page_sections:
   alt_text_for_image: Personne faisant de l'hydrospeed dans la Dranse
   captiontitleuppercase: Une activité sportive et sensationnelle
   title: Jouer dans les courants des rivières
-  content: |-
-    L'hydrospeed c'est jouer dans les courants des rivières, c'est lire la puissance des courants et des vagues. Vous allez surfer dans les rivières. Muni d'un flotteur en mousse, vous serez équipé d'une combinaison néoprène, d'un casque, de palme, de chausson néoprène et d'un gilet de sauvetage. Vous vous déplacerez donc grâce aux palmes afin d'avancer et de vous guider. Le flotteur lui est très maniable. Le haut de votre corps est alors posé sur le flotteur et vos jambes pagaieront. Ce flotteur est pourvu de deux attaches pour le tenir de vos mains. Il permettra également de vous protéger des cailloux et des différents obstacles devant vous.
-
-    Il est impératif de savoir nager et donc d'être plutôt à l'aise dans l'eau. Selon les lieux et les rivières, vous allez passer dans des rapides et des courants parfois forts. Laissez-vous guider par votre guide qui vous expliquera comment bien manier l'hydrospeed, comment bien lire la rivière afin d'être de plus en plus à l'aise.
+  content: L'hydrospeed c'est jouer dans les courants des rivières, c'est lire la
+    puissance des courants et des vagues. Vous allez surfer dans les rivières. Muni
+    d'un flotteur en mousse, vous serez équipé d'une combinaison néoprène, d'un casque,
+    de palme, de chausson néoprène et d'un gilet de sauvetage. Vous vous déplacerez
+    donc grâce aux palmes afin d'avancer et de vous guider. Le flotteur lui est très
+    maniable. Le haut de votre corps est alors posé sur le flotteur et vos jambes
+    pagaieront. Ce flotteur est pourvu de deux attaches pour le tenir de vos mains.
+    Il permettra également de vous protéger des cailloux et des différents obstacles
+    devant vous.
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: Il est impératif de savoir nager et donc d'être plutôt à l'aise dans l'eau.
+    Selon les lieux et les rivières, vous allez passer dans des rapides et des courants
+    parfois forts. Laissez-vous guider par votre guide qui vous expliquera comment
+    bien manier l'hydrospeed, comment bien lire la rivière afin d'être de plus en
+    plus à l'aise.
+  title: ''
 - template: 2coltxtimg
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785324-DSC_1959.jpg
