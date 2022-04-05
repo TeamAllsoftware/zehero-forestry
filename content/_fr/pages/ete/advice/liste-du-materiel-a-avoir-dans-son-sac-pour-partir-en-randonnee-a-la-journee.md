@@ -22,11 +22,11 @@ page_sections:
   content: |-
     Lorsque nous partons [randonner ](https://www.ze-hero.com/fr/ete/activites/randonnee-montagne)de quelques heures à une journée, il est important d'avoir certains équipement et matériels dans son sac de randonnée. Nous allons voir les indispensables à ne pas oublier ainsi que le matériel qu'il est toujours très utile d'avoir.
 
-    Partir plusieurs jours randonner ou seulement un jour, le sac ne présentera pas le même contenu.
+    Si vous partez plusieurs jours randonner, vous aurez un sac rempli différemment que pour seulement une journée de marche.
 
-    Tout d'abord, nous allons voir quel sac il est adapté à la sortie à la journée et comment le choisir et le régler à votre corps.
+    Avant de parler contenu, nous allons voir quel sac est adapté à la sortie à la journée, comment le choisir et comment le régler à votre corps.
 
-    En partant randonner une journée que ce soit en montagne ou en forêt ou autre, un sac de randonnée de 20L à 30L est idéal. Bien sûr, tout dépend de ce que vous mettez dans le sac, si vous transportez également des cordes d'escalades, du matériel de ski ou autre. Mais nous allons rester sur un contenu de sac pour une randonnée d'une journée. Sa taille pourra également varier si vous avez des enfants et que vous décidez de transporter du matériel et des équipements pour eux.
+    En partant randonner une journée, que ce soit en montagne ou en forêt ou autre, un sac de randonnée de 20L à 30L est idéal. Bien sûr, tout dépend de ce que vous mettez dans le sac, si vous transportez également des cordes d'escalades, du matériel de ski ou autre, le volume pourra changer. Ici nous allons rester sur un contenu de sac classique pour une randonnée d'une journée. La taille du sac pourra également varier selon si vous avez des enfants et que vous décidez de transporter du matériel et des équipements pour eux.
 
     Mais dans tous les cas, un sac à dos de randonnée de 20L à 30L est idéal pour randonner à la journée.
 
