@@ -27,6 +27,20 @@ page_sections:
     aux sensations fortes. Vous ressentirez les mouvements de l'eau par sa puissance
     et sa vitesse. Pour les amateurs de sensation forte, l'hydrospeed sera l'activité
     parfaite.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785318-DSC_1518.jpg
+  alt_text_for_image: Personne faisant de l'hydrospeed dans la Dranse
+  captiontitleuppercase: Une activité sportive et sensationnelle
+  title: Jouer dans les courants des rivières
+  content: L'hydrospeed c'est jouer dans les courants des rivières, c'est lire la
+    puissance des courants et des vagues. Vous allez surfer dans les rivières. Muni
+    d'un flotteur en mousse, vous serez équipé d'une combinaison néoprène, d'un casque,
+    de palme, de chausson néoprène et d'un gilet de sauvetage.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
