@@ -122,7 +122,7 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646234011/website/summer/patrick-hendry-_JjBZdLFQiM-unsplash_w58ivp.jpg
   alt_text_for_image: Personne pratiquant l'escalade en train de gravir un face
   content: |-
-    L'escalade est une disciple incontournable en montagne. Une discipline physique, mentale mais également très connecté avec l'environnement. Elle demande déjà certaines connaissances importantes via le matériel, la sécurité, l'assurage et ensuite de technique. Si vous être débutant, un guide vous accompagnera afin de vous apprendre toutes les différentes facettes de l'escalade en falaise.
+    L'escalade est une disciple incontournable en montagne. Une discipline physique, mentale mais également très connectée avec l'environnement. Elle demande déjà certaines connaissances importantes au niveau du matériel, de la sécurité, l'assurage mais aussi d'autres connaissances techniques. Si vous êtes débutant, un guide vous accompagnera afin de vous apprendre les différentes facettes de l'escalade en falaise.
 
     L'escalade vous amène au cœur de la montagne en grimpant directement sur ses parois. C'est vivre des moments forts, en escaladant ses voies pour atteindre des sommets. C'est une discipline et une activité qui se partage. Chacun motive l'autre afin de réussir. Elle permet souvent de marcher en montagne avant de grimper sur les différentes voies.
 
