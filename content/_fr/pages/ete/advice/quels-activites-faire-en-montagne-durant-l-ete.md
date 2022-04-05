@@ -74,9 +74,9 @@ page_sections:
   content: |-
     Durant l'hiver vous dévalez les pistes et vous remontez avec les remontés mécaniques. Durant l'été vous pourrez également prendre les télésièges et télécabines et dévaler les pistes en [VTT](https://www.ze-hero.com/fr/ete/activites/vtt). Toutes les stations n'offrent pas les mêmes infrastructures pour la pratique du vélo tout-terrain. Mais vous pourrez pratiquer le VTT de descente (DH), l'enduro, des parcs freestyles et des randonnées. Le VTT va s'offrir à tout le monde car vous pourrez être encadré par un moniteur qui vous expliquera comment bien rouler et pratiquer le VTT dans les sentiers en descentes.
 
-    Tout comme les pistes, vous trouverez des pistes de VTT par couleurs qui vont indiquer la difficulté de la descente. Vous pourrez partir explorer la montagne à vélo tout en faisant le plein de sensation forte à la descente.
+    Tout comme les pistes de ski, vous trouverez des pistes de VTT par couleurs qui vont indiquer la difficulté de la descente. Vous pourrez partir explorer la montagne à vélo tout en faisant le plein de sensation forte à la descente.
 
-    Pour ceux qui préfèrent le faire avec un effort moins intense, partez avec un VTT électrique et profiter de l'assistance électrique pour grimper les côtes plus aisément. Cela permet d'ouvrir et de permettre la pratique du VTT à plus de personne.
+    Pour ceux qui préfèrent un effort moins intense, partez avec un VTT électrique et profitez de l'assistance électrique pour grimper les côtes plus aisément. Cela permet d'ouvrir la pratique du VTT à un public plus large.
   button:
     text_button: Découvrir +
     href_button: "/fr/ete/activite/vtt"
