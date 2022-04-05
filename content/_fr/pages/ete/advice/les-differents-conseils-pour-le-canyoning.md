@@ -36,7 +36,7 @@ page_sections:
 
     De plus, il saura également mettre en place les différentes descentes en rappels, tyroliennes et les autres aspects techniques du canyoning. Ceci est la 1ère règle très importante afin d'avoir le maximum de sécurité pour vous et pour les autres si vous êtes en groupe.
 
-    Réservez alors un cours avec un guide, qui vous fera découvrir les joies de cette discipline. Il pourra également vous apprendre quelques notions clés et importante. Il pourra également vous indiquer les différents canyons faciles qui peuvent être parfois simplement réalisables en randonné aquatique.
+    Réservez alors un cours avec un guide, qui vous fera découvrir les joies de cette discipline. Il pourra également vous apprendre quelques notions clés essentielles à la pratique. Il pourra également vous indiquer les différents canyons faciles d'accès, pouvant parfois être suivi en randonnée aquatique.
   button:
     text_button: ''
     href_button: ''
