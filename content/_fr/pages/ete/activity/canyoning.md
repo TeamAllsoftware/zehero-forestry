@@ -6,8 +6,8 @@ topnav_color_text: dark
 title: Canyoning
 permalink: "/fr/ete/activites/canyoning"
 redirect_from:
-  - "/fr/canyoning-annecy/"
-  - /fr/ete/activite/canyoning
+- "/fr/canyoning-annecy/"
+- "/fr/ete/activite/canyoning"
 meta-title: Le canyoning est une expérience outdoor aux sensations fortes
 meta-description: L'activité du canyoning est une activité d'eau qui consiste à avancer
   le long d'une rivière en jouant avec les éléments de la nature.
@@ -30,6 +30,7 @@ page_sections:
     Certaines seront, à l'inverse, plus faciles et plus adaptées à des enfants ou
     des personnes désirant seulement faire une randonnée aquatique avec quelques sauts
     et glissades."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883620/website/summer/Canyoning-activite-famille_ov6myx.jpg
   captiontitleuppercase: Le Canyoning pour qui ?
@@ -60,6 +61,7 @@ page_sections:
     * une combinaison spécifique isotherme et renforcée au niveau des fesses et des genoux ainsi que sur les coudes
     * un baudrier avec tout le matériel : descendeur, longe etc
     * des chaussures spéciales canyoning ou des chaussures qui présentent des crampons (types chaussures de trail)
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642516880/website/summer/pexels-julia-volk-6152738_q30qqg.jpg
   captiontitleuppercase: Comment se déroule un activité de Canyoning
@@ -80,14 +82,15 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   content: |-
-    Il faut prévoir un maillot de bain, une serviette et donc une tenue de rechange. Mais aussi, une bouteille d'eau qui peut être amener par le moniteur ainsi qu'une barre énergétique.
+    Il faut prévoir un maillot de bain, une serviette et donc une tenue de rechange. Mais aussi, une bouteille d'eau qui peut être amenée par le moniteur ainsi qu'une barre énergétique.
 
-    C'est une activité qui peut se faire seul en se greffant à un groupe, ou avec des amis, mais également avec ses enfants. Ce qui permet de vivre une expérience riche en émotion en profitant de s'amuser et jouer.
+    C'est une activité qui peut se faire seul en se greffant à un groupe, ou avec des amis, mais également avec ses enfants. Le canyoning est un bon moyen de vivre une expérience riche en émotion tout en s'amusant dans un cadre naturel.
 
-    Les canyonings ne doivent pas être réalisés sans matériel et sans moniteur. Si vous tentez de réaliser le canyoning sans connaitre les règles et surtout le lieu, cela peut s'avérer très dangereux où l'accès aux sauveteurs n'est pas toujours simple. Le canyoning est par ailleurs un lieu naturel qui bouge et se transforme chaque année et en fonction des conditions météorologiques.
+    Les canyonings ne doivent pas être réalisés sans matériel et sans moniteur. Si vous tentez de réaliser le canyoning sans connaitre les règles et surtout le lieu, cela peut s'avérer très dangereux. Cela est d'autant plus vrai dans les zones où l'accès aux sauveteurs n'est pas facilité. Le canyoning est par ailleurs un lieu naturel qui bouge et se transforme chaque année en fonction des conditions météorologiques.
 
     Voici une page qui vous présente les différents conseils pour [bien débuter le canyoning](https://www.ze-hero.com/fr/ete/conseils/conseils-canyoning).
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
   captiontitleuppercase: Où faire du canyoning

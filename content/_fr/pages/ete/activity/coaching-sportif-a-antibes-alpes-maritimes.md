@@ -27,6 +27,7 @@ page_sections:
     * En extérieur
 
     Vous pouvez donc choisir entre réaliser le [**coaching à domicile**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=) ou en [**extérieur**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=). À Antibes et dans les Alpes Maritimes, on profite généralement du soleil et de la température idéale (même en hiver !). Vous trouverez différents lieux idéals pour retrouver un coach et vous **entraîner**. Que ce soit pour **courir**, pour faire de la **musculation** ou du **renforcement musculaire**, il y a de nombreux espaces propices à la pratique. Et surtout, vous pourrez profiter d’un cadre idyllique entre mer et montagnes.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294098/website/Coaching/IMG_20201022_150218_ek4t5r.jpg
   alt_text_for_image: Coureur courant dans un coaching sportif sur le littotal d'Antibes
@@ -55,7 +56,8 @@ page_sections:
 
     Les séances de coaching sportif privé à Antibes sont souvent à l’unité, mais certains coachs proposent plusieurs séances telles que des carnets de 10 séances à des prix réduits. Si vous désirez vraiment progresser, avoir un réel impact physique et physiologique, réussir votre défi, il est préférable de prendre plusieurs séances.
 
-    Dépassez-vous, soyez le Héro.
+    Dépassez-vous, soyez le HERO.
+  blockBGcolor: ''
 - template: textarea
   title: Le coaching trail à Antibes
   content: |-
@@ -70,6 +72,7 @@ page_sections:
     Le **Coaching en ligne** : Le coach prépare votre programme d’entraînement que vous suivez via une application ou google drive. Vous faites un retour de vos séances ensuite afin d’avoir le retour de vos ressentis. C’est le meilleur moyen d’avoir une personne qui vous suit tout au long dans un accompagnement de projet et d’entraînement de trail.
 
     Antibes n’est pas un lieu où l’on trouve énormément de dénivelé. Il y en a très peu même. Les montées restent courtes, mais on trouve des chemins vallonnés et des parcs. Ce qui est surtout intéressant, c’est qu’à 30 mn de voiture, vous avez les Préalpes d’Azur. À partir de là vous pouvez avoir des montées de plus de 1000D+ avec des sentiers techniques.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111394/website/Conseil%20Equiepement/IMG_20200608_193006_btxb0l.jpg
   alt_text_for_image: VUe des jmabes et d'une paire de chaussures de trail dans les
@@ -95,8 +98,9 @@ page_sections:
 
     Entre Mer et Montagne, le terrain de jeux à Antibes est incroyable. Partez à l’assaut des sentiers, trouver votre coach de trail à Antibes afin de progresser et d’atteindre vos objectifs.
   title: Les coachs trail à Antibes
+  blockBGcolor: ''
 - template: newsletter
-  title: Recevez nos dernières informations  
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre séance de coaching de sport à Antibes
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
