@@ -21,11 +21,12 @@ page_sections:
   content: "Afin de vous apporter des idées d'itinéraires de [trail ](https://www.ze-hero.com/fr/ete/activites/trail-running)dans
     le[s Alpes Maritimes](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes),
     nous avons mis en avant plusieurs parcours. Chacun des parcours a été effectué
-    par nos coureurs Ze Hero.  \nNous avons décidé de créer 3 niveaux de parcours
-    de trail :\n\n* Vert\n* Bleu\n* Rouge\n* Noir\n\nLes Alpes Maritimes offrent de
-    choix variés, d'une nature d'exception qui vous permettra de profiter  pleinement
+    par nos coureurs ZE HERO.  \nNous avons décidé de créer 3 niveaux de parcours
+    de trail :\n\n* Vert\n* Bleu\n* Rouge\n* Noir\n\nLes Alpes Maritimes offrent des
+    choix variés, d'une nature d'exception qui vous permettra de profiter pleinement
     lors de vos sorties sur chacun des parcours. De la mer à la montagne, il n'y a
-    qu'un sentier dans les Alpes maritimes"
+    qu'un sentier dans les Alpes maritimes."
+  blockBGcolor: ''
 - template: 2colimgtxt
   title: Itinéraire Trail Le Petit Tour de Théoule
   captiontitleuppercase: VERT
@@ -298,4 +299,5 @@ page_sections:
   blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+
 ---
