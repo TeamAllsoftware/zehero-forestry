@@ -143,14 +143,15 @@ page_sections:
 - template: textarea
   title: L’alimentation pour préparer une course de Trail
   content: "En ce qui concerne l’alimentation, ne changez pas vos habitudes 1 semaine
-    avant la course. Adapter un régime sain et équilibré. Se remplir le ventre de
-    pâte la veille n’est pas forcément idéal non plus mais seulement un plat de glucide
-    facile à digérer.  \nEnfin, buvez énormément, et variez les eaux minérales.\n\nConcernant
-    l’alimentation pendant la course. N’attendais pas le jour de la compétition pour
-    essayer une barre énergétique, un gel ou une boisson. Vous pouvez avoir de mauvaises
-    surprises. Tester ces choses pendant vos entraînements. Vous verrez ce que vous
-    aimez manger, ce qui vous fait du bien, que vous arrivez à mâcher. Et aussi si
-    cela ne vous fait pas mal au ventre."
+    avant la course. Adaptez un régime sain et équilibré. Se remplir le ventre de
+    pâte la veille n’est pas forcément idéal non plus. L'idéal est de consommer seulement
+    un plat de glucide facile à digérer.  \nEnfin, buvez énormément, et variez les
+    eaux minérales.\n\nConcernant l’alimentation pendant la course. N’attendez pas
+    le jour de la compétition pour essayer une barre énergétique, un gel ou une boisson.
+    Vous pourriez avoir de mauvaises surprises. Faites vos tests pendant vos entraînements
+    ! Vous verrez ce que vous aimez manger, ce qui vous fait du bien, que vous arrivez
+    à mâcher.... Vous verrez également ce que votre corps supporte le mieux (pas de
+    mal au ventre etc.)."
   blockBGcolor: ''
 - template: 2colimgtxt
   captiontitleuppercase: Le jour de la compétition
