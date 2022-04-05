@@ -54,7 +54,7 @@ page_sections:
 
     Il faut porter des chaussures qui accrochent. L'idéal est d'utiliser des chaussures spécifiques au canyoning, sinon vous pouvez utiliser des chaussures de trail ou de randonnée (légères), qui seront donc plutôt souples et montantes, pour ne pas se torde les chevilles et avoir une bonne adhérence.
 
-    Le port d'un casque en canyoning est obligatoire. C'est l'équipement de sécurité primordiale à avoir lors de chaque session. Un casque d'escalade convient parfaitement pour le canyoning. Il protégera des chocs, si vous tapez la tête, des pierres qui peuvent tomber etc.
+    Le port d'un casque en canyoning est obligatoire. C'est l'équipement de sécurité primordial à avoir lors de chaque session. Un casque d'escalade convient parfaitement pour le canyoning. Il protégera des chocs, en cas de collision, de chute de pierres etc.
 
     Il faudra avoir avec vous un baudrier obligatoirement. Il est similaire à celui de d'escalade mais il contient également une jupe qui protège vos fesses lors des glissades. Il sera ainsi composé d'une longe, d’un huit avec un mousqueton à vis sur le pontet. Le baudrier sera complété par des descendeurs, des mousquetons, des bloqueurs etc. Le "chef" de groupe portera dans son sac une corde semi-statique de canyoning de préférence coloré.
 
