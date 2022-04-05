@@ -20,7 +20,7 @@ page_sections:
 - template: textarea
   title: Le sac de randonnée pour une journée
   content: |-
-    Lorsque nous partons [randonner ](https://www.ze-hero.com/fr/ete/activites/randonnee-montagne)de quelques heures à une journée, il est important d'avoir certains équipement et matériels dans son sac de randonnée. Nous allons voir les indispensables à ne pas oublier ainsi que ceux qui sont nécessaires de les avoir.
+    Lorsque nous partons [randonner ](https://www.ze-hero.com/fr/ete/activites/randonnee-montagne)de quelques heures à une journée, il est important d'avoir certains équipement et matériels dans son sac de randonnée. Nous allons voir les indispensables à ne pas oublier ainsi que le matériel qu'il est toujours très utile d'avoir.
 
     Partir plusieurs jours randonner ou seulement un jour, le sac ne présentera pas le même contenu.
 
@@ -31,6 +31,7 @@ page_sections:
     Mais dans tous les cas, un sac à dos de randonnée de 20L à 30L est idéal pour randonner à la journée.
 
     Ensuite il faudra essayer et tester les sacs afin de ressentir la forme qui vous satisfait déjà le mieux. En magasin, il est possible d'essayer les sacs avec du poids à l'intérieur. Celui-ci doit être agréable à porter au niveau de sa longueur, de son confort dans le dos et sur les bretelles ainsi que sa ceinture ventrale. Les sacs vont ensuite se différencier sur leur ergonomie, leurs accessoires, leurs rangements, la matière et la solidité des tissus et des revêtements. Il est toujours plus agréable d'avoir un sac avec des différentes poches et différents compartiments afin d'organiser son rangement et son matériel. Certaines choses parfois simples deviennent compliquées sur certains sacs, comme chercher sa bouteille d'eau, certains accès etc.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646301560/website/summer/ali-kazal-MzTTVl_trFw-unsplash_a8imzt.jpg
   alt_text_for_image: Image d'un sac à dos de randonnée et de trek posé contre un
@@ -146,4 +147,5 @@ page_sections:
   blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+
 ---
