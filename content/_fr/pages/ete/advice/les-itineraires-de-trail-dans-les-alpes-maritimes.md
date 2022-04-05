@@ -53,7 +53,7 @@ page_sections:
     * Niveau : Avancé
     * Temps estimé : 2h30 à 3h15
 
-    Un parcours qui se dit “intermédiaire” par sa distance mais aussi par sa technicité. Quelques sentiers seront difficiles par le nombreuse pierres.
+    Un parcours qui se dit “intermédiaire” par sa distance mais aussi par sa technicité. Quelques sentiers seront difficiles compte tenu des nombreuses pierres.
 
     Le départ se fait d’un grand parking, au bout de la grande rue de Théoule. Vous rejoindrez le col de Théoule progressivement, puis le col de Trayas. Vous aurez une petite portion roulante et agréable avant d’arriver à la monter des “Sommets des grosse grues”. Une montée difficile et raide, mais qui offre un beau panorama en haut. Vous descendrez légèrement une pente technique avant de remonter au “Sommet de la petit Grue”.
 
