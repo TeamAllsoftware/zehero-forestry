@@ -24,7 +24,7 @@ page_sections:
     En France, la montagne c'est un choix incroyable de massif, de parc national et régional. Ce sont également des stations très actives été comme hiver, offrant des infrastructures idéales pour vos séjours estivaux. Découvrez par exemple :
 
     * Le Mercantour, un massif sauvage et abrupt avec vue mer
-    * Le parc national de la Vanoise, pour des randonnées incontournable
+    * Le parc national de la Vanoise, pour des randonnées incontournables
     * L'Ecrin et sa pratique de l'alpinisme
     * Les Cévennes et ses plateaux gorgés d'histoire
     * Les Pyrénées, une chaîne frontalière avec l'Espagne
@@ -33,6 +33,7 @@ page_sections:
     * Et bien d'autres
 
     Voici les différentes activités que vous pouvez retrouver et réserver en montagne.
+  blockBGcolor: ''
 - template: 2colimgtxt
   captiontitleuppercase: Explorer les montagnes à pieds
   title: La randonnée en montagne
@@ -171,6 +172,8 @@ page_sections:
     Que ce soit pour débuter, pour apprendre, pour vous perfectionner, vivez des expériences
     uniques. Vous trouverez également bien d'autres activités outdoor pour toute la
     famille.
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+
 ---
