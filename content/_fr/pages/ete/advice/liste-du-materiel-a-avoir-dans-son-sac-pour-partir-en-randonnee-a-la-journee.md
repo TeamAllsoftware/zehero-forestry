@@ -70,27 +70,28 @@ page_sections:
   captiontitleuppercase: A boire et à Manger
   title: S'alimenter et s'hydrater
   content: "C'est une chose indispensable à ne pas oublier dans son sac : l'eau. Que
-    vous décidez de prendre une poche à eau, des flasques, des gourdes ou une bouteille,
-    c'est le plus important à avoir sur soi.\n\nLa gourde sera idéale pour maintenir
-    votre eau à une bonne température et selon les sacs, elle se rangera facilement
-    dans des endroits adaptés et à portés de vos mains. Vous pourrez également utiliser
-    les flasques pour boire directement et facilement grâce aux pipettes.  \nEn ce
-    qui concerne la poche à eau, l'avantage c'est que vous pouvez boire sans vous
-    arrêter et également boire beaucoup plus régulièrement. Cela est par contre plus
-    complexe lorsque vous devez la remplir car il faut tout enlever.\n\nMais pour
-    des sorties à la journée de randonnée, prévoyez environ 1,5L pour être sûr. La
-    quantité transportée va également être influencée en fonction de si vous pourrez
-    vous recharger en eau. Si vous passez proche de village, de hameau, de fontaine,
-    il sera alors facile de remplir l'eau, sinon il faudra d'avantage de litre. Vous
-    pouvez également prendre une gourde ou flasques filtrante afin de boire dans les
-    rivières sans crainte.\n\nEnsuite, il est important d'avoir sur vous, de quoi
-    s'alimenter durant votre randonnée et pour la pause de 12h. L'important avec l'effort
-    qui est constant, c'est de manger régulièrement. Vous pouvez prendre des barres
-    énergétiques, des bananes, des fruits secs et même du salé comme du saucisson.
-    Pour le midi, vous pouvez simplement vous faire un pique-nique traditionnel. Vous
-    pouvez également emporter avec vous un thermos de thé ou de café. Pour les amateurs
-    de café, vous pouvez prendre dans le sac, des petits réchauds avec cafetière et
-    vous faire couler un café au sommet d'une montagne. Le luxe !"
+    vous décidiez de prendre une poche à eau, des flasques, des gourdes ou une bouteille...
+    le plus important est d'avoir une quantité d'eau suffisante sur soi.\n\nLa gourde
+    sera idéale pour maintenir votre eau à une bonne température et selon les sacs,
+    elle se rangera facilement dans des endroits adaptés et à porté de vos mains.
+    Vous pourrez également utiliser les flasques pour boire directement et facilement
+    grâce aux pipettes.  \nEn ce qui concerne la poche à eau, l'avantage c'est que
+    vous pouvez boire sans vous arrêter et également boire beaucoup plus régulièrement.
+    Cela est par contre plus complexe lorsque vous devez la remplir car il faut tout
+    enlever.\n\nPour des sorties à la journée de randonnée, prévoyez environ 1,5L
+    pour être sûr. La quantité transportée va évidemment être influencée par la possibilité
+    ou non de se recharger en eau sur place. Si vous passez proche de village, de
+    hameau, de fontaine, il sera alors facile de remplir l'eau, sinon il faudra transporter
+    davantage de litres sur vous. Vous pouvez également prendre une gourde ou flasques
+    filtrante afin de boire dans les rivières sans crainte.\n\nEnsuite, il est important
+    d'avoir sur vous, de quoi s'alimenter durant votre randonnée et pour la pause
+    de 12h. L'important avec l'effort constant, c'est de manger régulièrement. Vous
+    pouvez prendre des barres énergétiques, des bananes, des fruits secs et même du
+    salé comme du saucisson. Pour le midi, vous pouvez simplement vous faire un pique-nique
+    traditionnel. Vous pouvez également emporter avec vous un thermos de thé ou de
+    café. Pour les amateurs de café, vous pouvez prendre dans le sac, des petits réchauds
+    avec cafetière et vous faire couler un café au sommet d'une montagne. Le luxe
+    !"
   button:
     text_button: ''
     href_button: ''
