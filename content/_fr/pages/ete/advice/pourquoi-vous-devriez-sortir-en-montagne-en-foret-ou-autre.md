@@ -8,7 +8,7 @@ topnav_color_text: light
 title: Pourquoi vous devriez sortir en montagne, en forêt ou autre
 permalink: "/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret"
 redirect_from:
-  - /fr/ete/conseil/pourquoi-sortir-en-montagne-en-foret
+- "/fr/ete/conseil/pourquoi-sortir-en-montagne-en-foret"
 meta-title: Sortir en nature pour se faire du bien
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646122670/website/Conseil%20/aaron-blanco-tejedor-L3ZShV0u_hE-unsplash_dexl3k.jpg
 image01_alt: Une personne assis dans une tente hamac dans la forêt au coucher de soleil
@@ -22,6 +22,7 @@ page_sections:
     Aller se promener, courir, méditer ou faire d'autres activités en nature, sont des moments importants pour votre corps et votre tête. En effet, sortir prendre l'air, c'est prendre soin de soi, c'est profiter de plusieurs bienfaits et de bénéfices pour le corps et la tête.
 
     Vous trouverez de nombreuses raisons d'aller profiter de la nature. Vous dépenser physiquement, pratiquer une activité énergétique, cela est bénéfique pour votre corps. Cela sera également bon pour la tête, pour vos défenses naturelles, pour votre esprit et bien d'autres choses encore.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646122684/website/Conseil%20/svyatoslav-romanov-r38u2Uq1AXk-unsplash_kuori1.jpg
   alt_text_for_image: Personne levant les bras sur un rocher devant une grande cascade
@@ -40,28 +41,22 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646122529/website/Conseil%20/casey-horner-D4TooCIEyF4-unsplash_uth6nh.jpg
   alt_text_for_image: Lumière et rayon de soleil dans la forêt avec des marcheurs
     se promenant sur un chemin de forêt
   captiontitleuppercase: Une meilleure santé physique
   title: Les bienfaits physiques
-  content: "Outre les bienfaits sur l'esprit et le mental, sortir en nature, c'est
-    également bénéficier de nombreux bienfaits physiques. Votre système respiratoire
-    ainsi que cardio-vasculaire va être activé et va s'améliorer. Se promener en forêt
-    ou en montagne, c'est aussi se muscler par la marche dans des terrains vallonnés,
-    avec des variations de pentes qui feront travailler différents groupes musculaires.
-    Que ce soit 20 minutes ou plusieurs heures, être dehors pour courir, pour marcher,
-    pour méditer aura un impact positif sur votre corps. Votre organisme profitera
-    de ce moment pour faire le plein d'énergie. \n\nS'activer physiquement s'est aussi
-    ressentir une bonne fatigue et donc de mieux dormir. Il est important d'activer
-    tout son système cardiaque et respiratoire pour être en bonne santé. Mais par
-    ailleurs de se muscler et de tonifier ses muscles et de les étirer. Votre système
-    immunitaire sera aussi renforcé lors de vos pratiques sportives en nature."
+  content: |-
+    Outre les bienfaits sur l'esprit et le mental, sortir en nature, c'est également bénéficier de nombreux bienfaits physiques. Votre système respiratoire ainsi que cardio-vasculaire va être activé et va s'améliorer. Se promener en forêt ou en montagne, c'est aussi se muscler par la marche dans des terrains vallonnés, avec des variations de pentes qui feront travailler différents groupes musculaires. Que ce soit 20 minutes ou plusieurs heures, être dehors pour courir, pour marcher, pour méditer aura un impact positif sur votre corps. Votre organisme profitera de ce moment pour faire le plein d'énergie.
+
+    S'activer physiquement c'est aussi ressentir une bonne fatigue et donc mieux dormir. Il est important d'activer tout son système cardiaque et respiratoire pour être en bonne santé. En plus de se muscler, de tonifier ses muscles et de les étirer, votre système immunitaire sera aussi renforcé lors de vos pratiques sportives en nature.
   button:
     text_button: Découvrez nos sorties trail running
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     alt_button: Sorties de trail running en montagnes et dans les préalpes
+  blockBGcolor: ''
 - template: textarea
   title: La nature comme lieu d'émerveillement
   content: "Sortir en nature c'est donc se faire du bien mentalement et physiquement.
@@ -77,6 +72,8 @@ page_sections:
     à nouveau. \n\nRespirer, admirer, se promener en nature est capital pour notre
     santé. Que ce soit dans le petit parc de votre ville, ou dans les forêts aux alentours,
     dans les montagnes ou autres, sortir en nature vous fera le plus grand bien."
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+
 ---
