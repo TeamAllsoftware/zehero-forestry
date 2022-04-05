@@ -168,7 +168,7 @@ page_sections:
 - template: textarea
   title: Difficile de s'ennuyer en montagne
   content: Vous l'avez compris, il est difficile de s'ennuyer lors d'un séjour en
-    montagne. Le nombre d'activité présent dans les villes et les stations sont conséquents.
+    montagne. Le nombre d'activité présent dans les villes et les stations est conséquent.
     Que ce soit pour débuter, pour apprendre, pour vous perfectionner, vivez des expériences
     uniques. Vous trouverez également bien d'autres activités outdoor pour toute la
     famille.
