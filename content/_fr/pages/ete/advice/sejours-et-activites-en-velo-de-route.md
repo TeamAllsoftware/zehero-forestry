@@ -24,6 +24,7 @@ page_sections:
     ​Notre accompagnement et nos parcours organisés vous proposent des **séjours en
     vélo** de route “clé en main” pour rouler en toute tranquillité et sécurité.
   title: Séjours et activité en Vélo de route
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269873/website/M%C3%A9ribel/51382970215_d27314dc26_k_omvvhh.jpg
   alt_text_for_image: Vélo de route grimpant sur la route en montagne
@@ -94,6 +95,7 @@ page_sections:
     * **2000 kms et 30.000 m** D+ minimum pour la traversée des Alpes en version Grands Cols
 
     Si vous n’êtes pas sûrs de vous, n’hésitez pas à nous contacter, nous vous conseillerons.
+  blockBGcolor: ''
 - template: textarea
   title: Des passionnés à vos côtés
   content: |-
@@ -103,7 +105,8 @@ page_sections:
 
     Toutes nos offres “[Traversées des Alpes](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)” ont l’hébergement, petit déjeuner, et déjeuner/snack inclus, tarif ne comprenant pas les repas et boissons du soir. Nous avons des offres pour les compagnes ou compagnons non-cyclistes ([contactez-nous](https://www.ze-hero.com/fr/contact)). En ce qui concerne nos **Stages sur Méribel** à la semaine, nous les proposons sans hébergement pour vous donner plus de flexibilité, cependant nous pouvons vous orienter vers des chalets où vous pourrez être plusieurs **cyclistes** du stage ensemble, ou alors vous conseillez des prestations hôtelières ou appartements en fonction de vos besoins.
 
-    Veuillez trouver les profils types de nos étapes sur chacun des **séjours en vélo de route** proposés. Vous y trouverez les kilométrages proposés et les dénivelés qui peuvent variés suivant les niveaux des uns et des autres.
+    Veuillez trouver les profils types de nos étapes sur chacun des **séjours en vélo de route** proposés. Vous y trouverez les kilométrages proposés et les dénivelés qui peuvent varier suivant les niveaux des uns et des autres.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643968879/website/V%C3%A9lo/IMG_0410_bnzcbb.jpg
   alt_text_for_image: 'Personne soulevant son vélo devant la mer '
@@ -142,6 +145,8 @@ page_sections:
     pour cela que nous partons régulièrement en repérage.  \nEt pourquoi pas une traversée
     des Pyrénées, ou les plus grands cols du Giro ou de la Vuelta… Rien n’est impossible."
   title: Notre relation dépassera vos attentes
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+
 ---
