@@ -132,15 +132,12 @@ page_sections:
     des sacs de randonnée
   captiontitleuppercase: Les dernières choses utiles
   title: Sécurité et pharmacie
-  content: "La trousse de soin, de 1er secours est importante à avoir sur soi. Vous
-    pouvez en trouver qui sont déjà toute prête et complète. Il est important d'avoir
-    sur soi des pansements, des bandes de compression, de quoi soigner des petites
-    blessures, de l'arnica etc. Important à garder sur soi, il faut avoir dans son
-    sac de randonnée une couverture de survie ainsi qu'un petit sifflet. Vous pouvez
-    également garder avec vous un couteau.\n\n  \nIl est aussi utile d'avoir sur moi
-    un peu d'argent avec quelques pièces ou billets. Cela vous permet d'acheter de
-    quoi boire ou manger dans des refuges ou boulangerie.\n\nN'oubliez pas de bien
-    charger votre téléphone avant de partir."
+  content: |-
+    La trousse de soin, de 1er secours est importante à avoir sur soi. Vous pouvez en trouver qui sont déjà toutes prêtes et qui embarquent tout le matériel de premier soin nécessaire. Il est important d'avoir sur soi des pansements, des bandes de compression, de quoi soigner des petites blessures, de l'arnica etc. Important à garder sur soi, il est très utile d'avoir dans son sac de randonnée une couverture de survie ainsi qu'un petit sifflet. Vous pouvez également garder avec vous un couteau.
+
+    Il est aussi utile d'avoir sur soi un peu d'argent avec quelques pièces ou billets. Cela vous permet d'acheter de quoi boire ou manger dans des refuges ou boulangerie.
+
+    N'oubliez pas de bien charger votre téléphone avant de partir.
   button:
     text_button: ''
     href_button: ''
