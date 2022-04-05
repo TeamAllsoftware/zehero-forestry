@@ -60,7 +60,7 @@ page_sections:
   content: |-
     Le [trail running](https://www.ze-hero.com/fr/ete/activites/trail-running) est une activité et une discipline pratiquée par énormément de personnes aujourd'hui. En plus d'être un sport de compétition, c'est surtout une activité qui permet de courir en montagne, d'aller plus vite et plus loin, de jouer avec le terrain. Courir c'est se vider la tête, se dépenser, découvrir des lieux, c'est partir loin et vivre des moments intenses.
 
-    Les stations proposent aujourd'hui de plus en plus de parcours dédiés au trail et balisés avec différents niveaux. Mais les parcours sont également tous les sentiers de montagne qui permettent aux coureurs de partir avec des sacs légers et réaliser de longues sorties. Que ce soit seul ou en groupe, le trail est un moment riche en émotions par le partage avec la nature et/ou avec le groupe. Découvrez le trail avec un accompagnateur qui vous amènera dans des lieux uniques et de vous expliquer comment bien courir en montée, en descente et comment bien s'alimenter et s'hydrater.
+    Les stations proposent aujourd'hui de plus en plus de parcours dédiés au trail et balisés avec différents niveaux. Mais les parcours sont également tous les sentiers de montagne qui permettent aux coureurs de partir avec des sacs légers et réaliser de longues sorties. Que ce soit seul ou en groupe, le trail est un moment riche en émotions par le partage avec la nature et/ou avec le groupe. Découvrez le trail avec un accompagnateur qui vous amènera dans des lieux uniques et vous expliquera comment bien courir en montée, en descente et comment bien s'alimenter et s'hydrater.
   button:
     text_button: Découvrir +
     href_button: "/fr/ete/activite/trail-running"
