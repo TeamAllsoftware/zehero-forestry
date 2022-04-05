@@ -120,7 +120,7 @@ page_sections:
 
     Vous allez monter et suivre une crête à travers parfois la forêt. Vous passerez au Colle de Rougiès et vous finirez cette ascension de 7km et 600D+. Une petite descente vous amènera à l’Observatoire de la Côte d’Azur. Au panneau 49, vous irez donc sur la gauche en rejoignant le panneau 189 afin de trouver le GR4. De là, une belle descente technique vous amène quasiment jusqu’à Cipières.
 
-    C’est une fois que vous arrivez au panneau 160, que vous prenez totalement à gauche pour retrouver le GR 51 et remontez vers le plateau de Cavillore. La montée se fera sur des petits singles et sera plutôt douce, 6km et 300 D+. Une fois en haut, vous retrouverez le même chemin qu’au départ sur le plateau. Mais cette fois ci vous irez jusqu’au panneau 11 et continuerez tout droit afin de prendre les lacets qui vous amène à Gourdon.
+    C’est une fois que vous arrivez au panneau 160, que vous prenez totalement à gauche pour retrouver le GR 51 et remontez vers le plateau de Cavillore. La montée se fera sur des petits singles et sera plutôt douce, 6km et 300 D+. Une fois en haut, vous retrouverez le même chemin qu’au départ sur le plateau. Mais cette fois ci vous irez jusqu’au panneau 11 et continuerez tout droit afin de prendre les lacets qui vous amènent à Gourdon.
 
     Une belle balade avec une vue sur Caussols, le Cheiron et la mer. Un parcours technique qui peut se faire rapidement.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643353060/website/summer/map-trail-gourdon_gxchlh.png
