@@ -33,15 +33,10 @@ page_sections:
   alt_text_for_image: Personne faisant de l'hydrospeed dans la Dranse
   captiontitleuppercase: Une activité sportive et sensationnelle
   title: Jouer dans les courants des rivières
-  content: L'hydrospeed c'est jouer dans les courants des rivières, c'est lire la
-    puissance des courants et des vagues. Vous allez surfer dans les rivières. Muni
-    d'un flotteur en mousse, vous serez équipé d'une combinaison néoprène, d'un casque,
-    de palme, de chausson néoprène et d'un gilet de sauvetage. Vous vous déplacerez
-    donc grâce aux palmes afin d'avancer et de vous guider. Le flotteur lui est très
-    maniable. Le haut de votre corps est alors posé sur le flotteur et vos jambes
-    pagaieront. Ce flotteur est pourvu de deux attaches pour le tenir de vos mains.
-    Il permettra également de vous protéger des cailloux et des différents obstacles
-    devant vous.
+  content: |-
+    L'hydrospeed c'est jouer dans les courants des rivières, c'est lire la puissance des courants et des vagues. Vous allez surfer dans les rivières. Muni d'un flotteur en mousse, vous serez équipé d'une combinaison néoprène, d'un casque, de palme, de chausson néoprène et d'un gilet de sauvetage. Vous vous déplacerez donc grâce aux palmes afin d'avancer et de vous guider. Le flotteur lui est très maniable. Le haut de votre corps est alors posé sur le flotteur et vos jambes pagaieront. Ce flotteur est pourvu de deux attaches pour le tenir de vos mains. Il permettra également de vous protéger des cailloux et des différents obstacles devant vous.
+
+    Il est impératif de savoir nager et donc d'être plutôt à l'aise dans l'eau. Selon les lieux et les rivières, vous allez passer dans des rapides et des courants parfois forts. Laissez-vous guider par votre guide qui vous expliquera comment bien manier l'hydrospeed, comment bien lire la rivière afin d'être de plus en plus à l'aise.
   button:
     text_button: ''
     href_button: ''
