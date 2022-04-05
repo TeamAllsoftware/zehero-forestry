@@ -9,7 +9,9 @@ topnav_color_text: light
 title: La préparation d'une course de Trail
 permalink: "/fr/ete/conseils/preparation-course-trail"
 redirect_from:
-  - /fr/ete/conseil/preparation-course-trail
+- "/fr/preparation-course-trail/"
+- "/fr/coaching-trail/coaching-trail-antibes/"
+- "/fr/coaching-trail/"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643107338/website/Conseil%20Equiepement/trail-6497875_1920_jlohqf.jpg
 image01_alt: Coureur de trail courant sur un sentier en terre dans la forêt
 button_to_link_to_ze_hero_shop:
@@ -35,19 +37,21 @@ page_sections:
     font aussi partie de votre entraînement. Nous allons donc prendre 8 semaines d’entraînements
     avant l’événement. Cela nous laisse du temps pour apprendre, progresser et se
     reposer."
+  blockBGcolor: ''
 - template: textarea
   content: "Le nombre d’entraînement par semaine est de 2 minimum mais si l’on veut
     vraiment progresser il faudrait en avoir 3.  \nMaintenant peu importe votre lieu
     de vie, on peut préparer quand même un trail même si vous ne vivez pas en montagne.
     Néanmoins, les séances seront forcément adaptées.\n\nLes différentes séances que
-    nous trouveront aussi sont :\n\n* des footings : il faut les faire cool, pas à
-    un rythme fort\n* du fractionné : séances avec des changements d’allures sur une
-    période donnée afin d’augmenter votre vitesse aérobie\n* des séances de côte :
-    on va travailler le renforcement de vos muscles ainsi que votre vitesse maximal
-    aérobie ascensionnel\n* des variations d’allures : varier les allures en fonction
-    des temps d’efforts, Fartleck\n* des sorties longues afin de travailler votre
-    endurance fondamental et les différentes adaptations de votre corps"
+    nous trouveront aussi sont :\n\n* des footings : intensité modérée, ne pas courir
+    à un rythme important\n* du fractionné : séances avec des changements d’allures
+    sur une période donnée afin d’augmenter votre vitesse aérobie\n* des séances de
+    côte : on va travailler le renforcement de vos muscles ainsi que votre vitesse
+    maximale aérobie ascensionnelle\n* des variations d’allures : varier les allures
+    en fonction des temps d’efforts, Fartleck\n* des sorties longues afin de travailler
+    votre endurance fondamentale et les différentes adaptations de votre corps"
   title: Les entraînements liés à la préparation d’une course de Trail
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643107336/website/Conseil%20Equiepement/runner-5589149_1920_ettz2o.jpg
   captiontitleuppercase: Un plan d'entraînement sur 8 semaines
@@ -62,53 +66,62 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     1. Footing 45mn
     2. 1H avec 2 fois (4 fois 30”/30”) Recup 2mn entre ( enchainement de 30 secondes rapide/ 30 secondes lent)
     3. Footing 1h
   title: Semaine 1
+  blockBGcolor: ''
 - template: textarea
   content: |-
     1. Footing 45mn
     2. 20mn échauffement // sur une cote légèrement raide faire 2 fois (5 fois 30 secondes de montée rapide // Récupérer en redescendant au point de départ) Récupe 2mn entre // puis 15mn de footing cool après
     3. Sortie de 1h15 vallonnée
   title: Semaine 2
+  blockBGcolor: ''
 - template: textarea
   content: |-
     1. 20mn échauffement // accélérations sur 1mn / 2mn / 3mn / 4mn / 3mn / 2mn / 1mn avec comme récupération 1mn / 1mn / 2mn / 2mn / 1 mn // Retour 15mn cool. Le but est de varier vos allures sur les minutes d’efforts. L’accélération sur les 4mn est moins importante que sur celle de 2mn
     2. Footing 45mn
     3. 2h parcours avec dénivelé en marchant dans les pentes de façon actif
   title: Semaine 3
+  blockBGcolor: ''
 - template: textarea
   content: |-
     1. Footing 1h
     2. 20mn échauffement // sur une pente raide faire 6 à 8 fois (10 squat au début / 30seconde en montée / 10 squat au sommet / descente rapide en bas/ Récup 40sec en bas)
     3. 1h15 avec 3 fois 5mn d’accélération à placer quand vous voulez
   title: Semaine 4
+  blockBGcolor: ''
 - template: textarea
   content: |-
     1. Footing 45mn
     2. Footing 1h30
   title: Semaine 5
+  blockBGcolor: ''
 - template: textarea
   content: |-
     1. Variations d’allures : 1h avec 2 fois 10mn vite
     2. 20mn échauffement // 40mn Up/Down (vous trouvez une monté raide de 100 D+, vous montez et descendez sans arrêt pendant 40mn) en alternant 1 montée en marche rapide et 1 montée en courant plus vite // 15mn retour
     3. 2h30 de course avec dénivelé
   title: Semaine 6
+  blockBGcolor: ''
 - template: textarea
   content: |-
     1. Footing 45mn
     2. Footing 1h
     3. Sortie 2h avec dénivelé
   title: Semaine 7
+  blockBGcolor: ''
 - template: textarea
   content: |-
     1. 45mn de course
     2. Veille de course : footing de 20mn
     3. COURSE
   title: Semaine 8
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643107336/website/Conseil%20Equiepement/pexels-pixabay-221210_s94tzt.jpg
   captiontitleuppercase: Bien récupérer
@@ -126,6 +139,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: L’alimentation pour préparer une course de Trail
   content: "En ce qui concerne l’alimentation, ne changez pas vos habitudes 1 semaine
@@ -137,6 +151,7 @@ page_sections:
     surprises. Tester ces choses pendant vos entraînements. Vous verrez ce que vous
     aimez manger, ce qui vous fait du bien, que vous arrivez à mâcher. Et aussi si
     cela ne vous fait pas mal au ventre."
+  blockBGcolor: ''
 - template: 2colimgtxt
   captiontitleuppercase: Le jour de la compétition
   title: Jour J
@@ -158,6 +173,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Le départ
   content: Ne partez pas trop vite et ne vous faites pas embarquer par l’effet aspirateur
@@ -170,6 +186,7 @@ page_sections:
     évidents à savoir sur la gestion de notre effort. Basez-vous sur vos sensations,
     sur les entraînements réalisés avant la course afin de savoir comment gérer votre
     vitesse. Un départ trop rapide peut causer des crampes, en plus d’une déshydratation.
+  blockBGcolor: ''
 - template: textarea
   title: L’alimentation et l’hydratation
   content: "Pendant l’effort, buvez un peu de façon régulière.. Boire 500ml d’un coup
@@ -180,6 +197,7 @@ page_sections:
     vos flasques pendant les ravitaillements et de vous alimenter un peu.\n\nLors
     de vos entraînements en sortie longue, vous avez pu constater votre vitesse. Cela
     vous aidera à prévoir environ votre temps pour votre course."
+  blockBGcolor: ''
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
@@ -188,9 +206,5 @@ page_sections:
   headline: Avec un coach sportif, la préparation est plus simple & motivante
 - template: newsletter
   title: Recevez nos dernières informations
-redirect_from:
-- "/fr/preparation-course-trail/"
-- "/fr/coaching-trail/coaching-trail-antibes/"
-- "/fr/coaching-trail/"
 
 ---
