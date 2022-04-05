@@ -160,7 +160,7 @@ page_sections:
   content: Il est important d’avoir le temps de digérer avant votre course. On recommande
     normalement environ 3h de digestion avant le départ de la course, en fonction
     de ce que vous mangez. Ne prenez pas un énorme petit déjeuner et évitez les aliments
-    lourds à digérer tel que des viennoiseries. Trente minutes avant le départ, échauffez-vous
+    lourds à digérer tels que des viennoiseries. 30 minutes avant le départ, échauffez-vous
     pendant 15/20mn. Allez faire un petit footing d’environ 8/10mn afin d’échauffer
     vos muscles et votre cœur. Vous pouvez ensuite faire quelques gammes athlétiques
     (montée de genoux, talons fesse, pas chassé) et faire quelques accélérations rapides
@@ -168,7 +168,7 @@ page_sections:
     de départ risque de vous fatiguer très rapidement, de ne pas être bien et potentiellement
     d’avoir des crampes. Prenez le matériel obligatoire que la course demande et ayez
     bien 2 flasques d’eau de 500ml ainsi que de quoi manger pendant la course. Mettez
-    les aliments dans des endroits faciles à prendre.
+    les aliments dans des endroits faciles d'accès.
   alt_text_for_image: Coureur de trail courant lors d'une course à pied dans une descente
   button:
     text_button: ''
