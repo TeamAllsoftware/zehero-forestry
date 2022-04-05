@@ -12,7 +12,7 @@ title: L'Hydrospeed
 permalink: "/fr/ete/activites/hydrospeed"
 baseline: Surfez dans les rivières
 engage: 'Découvrez la nage en rivière             '
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785318-DSC_1518.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785335-DSC_4439.jpg
 image01_alt: Personne faisant de l'hydrospeed dans la rivière de la Dranse
 button_to_link_to_ze_hero_shop:
   button_text: ''
