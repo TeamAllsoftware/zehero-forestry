@@ -47,15 +47,22 @@ page_sections:
   alt_text_for_image: Plusieurs personnes en hydrospeed avançant sur la Dranse
   captiontitleuppercase: Une activité fun et ludique
   title: L'hydrospeed, pour tous
-  content: A condition de savoir nager, l'hydrospeed est une activité pour tous. Dès
-    14ans, vous pourrez embarquer en groupe allant jusqu'à 10 personnes avec un guide
-    dans les différentes rivières de France. Vous devez simplement avoir sur vous
-    un maillot de bain et une serviette, les compagnie et organisme s'occupera de
-    vous équiper pour le reste. La plupart des act
+  content: |-
+    À condition de savoir nager, l'hydrospeed est une activité pour tous. Dès 14ans, vous pourrez embarquer en groupe allant jusqu'à 10 personnes avec un guide dans les différentes rivières de France. Vous devez simplement avoir sur vous un maillot de bain et une serviette, les compagnies et organisme s'occupera de vous équiper pour le reste. La plupart des activités d'hydrospeed dureront environ 2h en comprenant le temps d'équipement, d'explication et de la descente.
+
+    En fonction du débit et des lâchers de barrage, l’hydrospeed peut être parfois très sportif ou plus calme. Sur certains secteurs et parfois durant l’été il y a des jours impraticable à l’hydrospeed mais également si le niveau d’eau est trop faible.
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Les différents organismes proposent généralement entre deux à trois types d'activité hydrospeed : Découverte / Initié et Sportif ou Confirmé. En fonction de votre aisance, de votre âge, de votre condition physique, si vous avez déjà pratiqué l'hydrospeed, vous serez amenés à faire différents parcours. Les débutants ou ceux qui découvrent l'activité n'iront pas directement dans les rapides et les courants puissants. L'activité, même si elle reste ouverte à tous, est physique et demande une bonne quantité d'énergie. Mais vous passerez un moment inoubliable dans un groupe où le plaisir sera omniprésent. De plus, vous découvrirez des lieux magnifiques, des rivières aux roches particulières et façonnées par l'eau, des décors magiques.
+
+    Vous pourrez alors pratiquer l'Hydrospeed dans la Dranse avec 7 Aventure. La Dranse fait partie des spots les plus réputés pour la pratique de rafting, de canoë-kayak et d'hydrospeed. Avec 7 Aventures vous pourrez alors découvrir, vous perfectionner en Hydrospeed. Vous pouvez également trouver des spots d'hydrospeed incontournables tels que les gorges du Verdon, de l'Allier, de l'Aude, de l'Ubaye, de l'Isère, de la Drac et bien d'autres.
+
+    Une activité unique en son genre, au contact de l'eau comme jamais vous le vivrez. L'hydrospeed ou encore la nage en eau vive vous emportera dans une aventure aux sensations fortes.
+  title: ''
 
 ---
