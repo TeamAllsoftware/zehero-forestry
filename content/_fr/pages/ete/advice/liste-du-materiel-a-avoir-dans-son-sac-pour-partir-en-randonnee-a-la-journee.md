@@ -111,7 +111,7 @@ page_sections:
   captiontitleuppercase: Ne pas se perdre
   title: S'orienter
   content: |-
-    Même si vous allez, la plupart du temps retrouver des balises et des indications sur les chemins, vous n'êtes jamais à l’abri de vous perdre. Vous pouvez avoir des montres GPS qui vous indiquent votre itinéraire ou alors sur votre téléphone. Mais l'idéal reste d'avoir la carte IGN du lieu où vous randonner. Si vous savez correctement lire la carte, alors vous saurez plus facilement vous orienter. Une petite boussole est toujours utile si vous savez vous en servir.
+    Même si vous allez, la plupart du temps retrouver des balises et des indications sur les chemins, vous n'êtes jamais à l’abri de vous perdre. Vous pouvez avoir des montres GPS qui vous indiquent votre itinéraire ou alors sur votre téléphone. Mais l'idéal reste d'avoir la carte IGN du lieu où vous randonnez. Si vous savez correctement lire la carte, alors vous saurez plus facilement vous orienter. Une petite boussole est toujours utile si vous savez vous en servir.
 
     Ensuite, même si vous randonnez à la journée, prenez une frontale dans votre sac. Vous pouvez avoir des passages dans des tunnels ou grottes qui demandent de la lumière. Mais également, nous sommes jamais à l'abri de rentrer à la tombée de la nuit. On peut facilement et vite se faire rattraper par la nuit qui tombe si le chemin était plus technique ou que vous vous êtes perdus quelque part.
   button:
