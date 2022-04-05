@@ -41,6 +41,21 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785324-DSC_1959.jpg
+  alt_text_for_image: Plusieurs personnes en hydrospeed avançant sur la Dranse
+  captiontitleuppercase: Une activité fun et ludique
+  title: L'hydrospeed, pour tous
+  content: A condition de savoir nager, l'hydrospeed est une activité pour tous. Dès
+    14ans, vous pourrez embarquer en groupe allant jusqu'à 10 personnes avec un guide
+    dans les différentes rivières de France. Vous devez simplement avoir sur vous
+    un maillot de bain et une serviette, les compagnie et organisme s'occupera de
+    vous équiper pour le reste. La plupart des act
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
