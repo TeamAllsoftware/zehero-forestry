@@ -104,7 +104,7 @@ page_sections:
 - template: textarea
   content: |-
     1. Variations d’allures : 1h avec 2 fois 10mn vite
-    2. 20mn échauffement // 40mn Up/Down (vous trouvez une monté raide de 100 D+, vous montez et descendez sans arrêt pendant 40mn) en alternant 1 montée en marche rapide et 1 montée en courant plus vite // 15mn retour
+    2. 20mn échauffement // 40mn Up/Down (vous trouvez une montée raide de 100 D+, vous montez et descendez sans arrêt pendant 40mn) en alternant 1 montée en marche rapide et 1 montée en courant plus vite // 15mn retour
     3. 2h30 de course avec dénivelé
   title: Semaine 6
   blockBGcolor: ''
