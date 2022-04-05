@@ -69,15 +69,17 @@ page_sections:
   alt_text_for_image: Saut d'une personne dans l'eau lors d'un canyoning
   captiontitleuppercase: Quelques notions physiques à avoir
   title: Nager, sauter, glisser
-  content: Forcément il faut savoir nager car vous allez devoir nager dans certaines
-    parties et parfois longtemps. Il faut également être à l'aise dans des zones parfois
-    étroites, escarpées. Il faudra sauter et donc parfois pousser fort sur vos jambes.
-    Il faudra garder votre corps gainé et droit et bien écouter les conseils du moniteur
-    pour réaliser le saut correctement. Bien sûr, même si nous avons envie de sauter
-    partout, il faudra le faire là où le moniteur vous le permet. On ne sait pas où
-    un rocher peut se cacher sous l'eau. Il faudra marcher également et certains canyons
-    sont parfois longs et demandent une bonne condition physique. Lorsque vous allez
-    glisser dans les toboggans, il faudra garder son corps également droit et gainé.
+  content: Inévitablement, le canyoning étant une sport aquatique, il sera nécessaire
+    de savoir nager. Selon les zones, vous serez plus ou moins longtemps dans l'eau.
+    Il faut également être à l'aise dans des zones parfois étroites, escarpées. De
+    plus, certains passages demanderont de sauter, il faudra donc une condition physique
+    permettant de pousser fort sur vos jambes. Votre accompagnateur vous expliquera
+    comment garder votre corps gainé et droit pour réaliser le saut correctement.
+    Bien sûr, il est essentiel de suivre les conseils de votre moniteur pour savoir
+    où sauter sans se blesser. Certains canyons demandent de marcher parfois longtemps,
+    une bonne condition physique sera donc exigée. Enfin, pour passer les toboggans
+    sans risque, il faudra bien suivre les consignes de sécurité et garder son corps
+    droit et gainé.
   button:
     text_button: ''
     href_button: ''
