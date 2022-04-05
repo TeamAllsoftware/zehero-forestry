@@ -21,11 +21,12 @@ page_sections:
   content: "Afin de vous apporter des idées d'itinéraires de [trail ](https://www.ze-hero.com/fr/ete/activites/trail-running)dans
     le[s Alpes Maritimes](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes),
     nous avons mis en avant plusieurs parcours. Chacun des parcours a été effectué
-    par nos coureurs Ze Hero.  \nNous avons décidé de créer 3 niveaux de parcours
-    de trail :\n\n* Vert\n* Bleu\n* Rouge\n* Noir\n\nLes Alpes Maritimes offrent de
-    choix variés, d'une nature d'exception qui vous permettra de profiter  pleinement
+    par nos coureurs ZE HERO.  \nNous avons décidé de créer 3 niveaux de parcours
+    de trail :\n\n* Vert\n* Bleu\n* Rouge\n* Noir\n\nLes Alpes Maritimes offrent des
+    choix variés, d'une nature d'exception qui vous permettra de profiter pleinement
     lors de vos sorties sur chacun des parcours. De la mer à la montagne, il n'y a
-    qu'un sentier dans les Alpes maritimes"
+    qu'un sentier dans les Alpes maritimes."
+  blockBGcolor: ''
 - template: 2colimgtxt
   title: Itinéraire Trail Le Petit Tour de Théoule
   captiontitleuppercase: VERT
@@ -52,7 +53,7 @@ page_sections:
     * Niveau : Avancé
     * Temps estimé : 2h30 à 3h15
 
-    Un parcours qui se dit “intermédiaire” par sa distance mais aussi par sa technicité. Quelques sentiers seront difficiles par le nombreuse pierres.
+    Un parcours qui se dit “intermédiaire” par sa distance mais aussi par sa technicité. Quelques sentiers seront difficiles compte tenu des nombreuses pierres.
 
     Le départ se fait d’un grand parking, au bout de la grande rue de Théoule. Vous rejoindrez le col de Théoule progressivement, puis le col de Trayas. Vous aurez une petite portion roulante et agréable avant d’arriver à la monter des “Sommets des grosse grues”. Une montée difficile et raide, mais qui offre un beau panorama en haut. Vous descendrez légèrement une pente technique avant de remonter au “Sommet de la petit Grue”.
 
@@ -77,7 +78,7 @@ page_sections:
 
     Le départ se fait juste avant Pont de loup, des places de parkings sont possibles en indiquant “chemin du paradis” sur Maps. Un aller/retour à Gourdon en passant par le fameux “Chemin du Paradis”; sur le GR 51.
 
-    Ce parcours magnifique reste raide et technique, avec beaucoup de virages épingles. Vous aurez en moyenne une pente a 15%. Vous profiterez de la vue arriver au sommet de Gourdon avant de repartir. Un parcours technique mais rapide qui peut être un très bon terrain pour mesurer sa forme en montée.
+    Ce parcours magnifique reste raide et technique, avec beaucoup de virages épingles. Vous aurez en moyenne une pente à 15%. Vous profiterez de la vue arrivé au sommet de Gourdon avant de repartir. Un parcours technique mais rapide qui peut être un très bon terrain pour mesurer sa forme en montée.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643298321/website/summer/la-verticale-1_gzkvdn.png
   captiontitleuppercase: VERT
   title: La Verticale
@@ -119,7 +120,7 @@ page_sections:
 
     Vous allez monter et suivre une crête à travers parfois la forêt. Vous passerez au Colle de Rougiès et vous finirez cette ascension de 7km et 600D+. Une petite descente vous amènera à l’Observatoire de la Côte d’Azur. Au panneau 49, vous irez donc sur la gauche en rejoignant le panneau 189 afin de trouver le GR4. De là, une belle descente technique vous amène quasiment jusqu’à Cipières.
 
-    C’est une fois que vous arrivez au panneau 160, que vous prenez totalement à gauche pour retrouver le GR 51 et remontez vers le plateau de Cavillore. La montée se fera sur des petits singles et sera plutôt douce, 6km et 300 D+. Une fois en haut, vous retrouverez le même chemin qu’au départ sur le plateau. Mais cette fois ci vous irez jusqu’au panneau 11 et continuerez tout droit afin de prendre les lacets qui vous amène à Gourdon.
+    C’est une fois que vous arrivez au panneau 160, que vous prenez totalement à gauche pour retrouver le GR 51 et remontez vers le plateau de Cavillore. La montée se fera sur des petits singles et sera plutôt douce, 6km et 300 D+. Une fois en haut, vous retrouverez le même chemin qu’au départ sur le plateau. Mais cette fois ci vous irez jusqu’au panneau 11 et continuerez tout droit afin de prendre les lacets qui vous amènent à Gourdon.
 
     Une belle balade avec une vue sur Caussols, le Cheiron et la mer. Un parcours technique qui peut se faire rapidement.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643353060/website/summer/map-trail-gourdon_gxchlh.png
@@ -298,4 +299,5 @@ page_sections:
   blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+
 ---
