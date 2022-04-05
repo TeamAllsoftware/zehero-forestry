@@ -32,9 +32,9 @@ page_sections:
   captiontitleuppercase: Ne pas débuter le canyoning seul
   title: Etre accompagné d'un professionnel
   content: |-
-    Ne vous aventurez pas dans le canyoning seul ou en groupe si vous êtes débutant ainsi que l'ensemble des personnes le sont également. Pour débuter en canyoning, vous devez être accompagné d'un professionnel. Il aura déjà toutes les connaissances important du lieu et du canyon. Il saura donc où passer, à quel endroit sauter et où glisser etc. S'embarquer dans un canyon sans le connaître, c'est prendre des risques de sauter sur une pierre, de se faire mal.
+    Ne vous aventurez jamais seul (solo ou groupe) dans une sortie canyoning si vous êtes débutant(s) et qu'aucune personne ne maitrise la discipline. Pour débuter en canyoning, vous devez être accompagné d'un professionnel. Un professionnel possèdera toutes les connaissances importantes du lieu et du canyon. Il saura donc où passer, les zones à risques, à quel endroit sauter, où glisser etc. S'embarquer dans un canyon sans le connaître, c'est prendre le risque de se blesser en sautant au mauvais endroit, se bloquer dans un voie non praticable... Un accompagnateur professionnel évitera tout risque inutile pour vous garantir une belle sortie.
 
-    De plus, il saura également mettre en place les différentes descentes en rappels, tyroliennes et les autres aspects techniques du canyoning. Ceci est la 1er règle très importante afin d'avoir le maximum de sécurité pour vous et pour les autres si vous êtes en groupe.
+    De plus, il saura également mettre en place les différentes descentes en rappels, tyroliennes et les autres aspects techniques du canyoning. Ceci est la 1ère règle très importante afin d'avoir le maximum de sécurité pour vous et pour les autres si vous êtes en groupe.
 
     Réservez alors un cours avec un guide, qui vous fera découvrir les joies de cette discipline. Il pourra également vous apprendre quelques notions clés et importante. Il pourra également vous indiquer les différents canyons faciles qui peuvent être parfois simplement réalisables en randonné aquatique.
   button:
