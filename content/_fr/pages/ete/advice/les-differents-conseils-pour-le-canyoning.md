@@ -19,11 +19,12 @@ page_sections:
 - template: textarea
   title: Débuter dans le canyoning
   content: |-
-    Débuter en canyoning c'est connaître quelques conseils importants. Le canyoning est un sport de sensation qui permet de vivre une expérience outdoor incroyable dans des lieux sauvages façonnés par la montagne. Pour toutes les personnes désirant se livrer à des sensations fortes, c'est l'activité parfaite. Un sport sensationnel qui permet de vivre un moment de partage en groupe dans des cadres naturels et uniques.
+    Débuter en canyoning c'est connaître quelques règles de bases. Le canyoning est un sport de sensation qui permet de vivre une expérience outdoor incroyable dans des lieux sauvages façonnés par la montagne. Pour toutes les personnes désirant se livrer à des sensations fortes, c'est l'activité parfaite. Un sport sensationnel qui permet de vivre un moment de partage en groupe dans des cadres naturels et uniques.
 
-    C'est un sport qui reste physique selon les canyons, mais il demande des connaissances techniques importantes si vous êtes autonome mais aussi du milieu naturel. Il est donc primordial d'avoir quelques bases concernant pour s'aventurer dans les canyons. En effet, c'est activité loisir peut devenir rapidement dangereuse.
+    C'est un sport qui reste physique selon les canyons, mais il demande des connaissances techniques importantes ainsi qu'une bonne connaissance du milieu naturel si vous êtes en autonomie. Il est donc primordial d'avoir quelques bases  pour s'aventurer dans les canyons. En effet, cette activité loisir peut rapidement devenir dangereuse.
 
     Voici les différents conseils afin de bien débuter dans le canyoning :
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/IMG_2438_y5voyg.jpg
   alt_text_for_image: Enfant descendant en rappel dans un canyoning dans les Alpes
@@ -107,6 +108,7 @@ page_sections:
     "Les canyonings du 06") ou encore [https://www.ze-hero.com/fr/ete/activite/canyoning-annecy](https://www.ze-hero.com/fr/ete/activite/canyoning-annecy
     "les canyonings vers Annecy").
   title: ''
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 
