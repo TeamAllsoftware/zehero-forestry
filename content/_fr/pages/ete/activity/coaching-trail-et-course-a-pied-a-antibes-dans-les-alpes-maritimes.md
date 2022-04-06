@@ -59,7 +59,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Coach sportif courant dans les escaliers du fort carré à Antibes
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: Des sorties “[**endurance trail**](https://shop.ze-hero.com/activites-Outdoor/Coaching/16010-esterel-83-trail-sortie-longue-mercredi-apres-midi-3h-activite-ze-hero)”
     sont aussi programmées tous les mercredis après-midi dans le massif de l’Estérel
