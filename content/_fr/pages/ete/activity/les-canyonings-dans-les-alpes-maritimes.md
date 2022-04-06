@@ -50,7 +50,7 @@ page_sections:
     alt_button: ''
   alt_text_for_image: 'Enfant descendant un rappel dans un canyoning dans les Alpes
     Maritimes à Cramassouri '
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: "Les canyonings dans le Daluis :  \nC'est surtout une très belle randonnée
     aquatique dans un lieux magnifique. Une balade ludique et agréable.\n\nLes canyonings
