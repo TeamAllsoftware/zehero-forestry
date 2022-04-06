@@ -25,6 +25,11 @@ page_sections:
     mesurer à quelques-uns des plus beaux cols des derniers Tours de France. Par ailleurs,
     pour ceux qui le souhaitent, vous pourrez vous challenger avec notre col devenu
     mythique : Le col de La Loze et ses passages à plus de 20% de pente.'
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234200/website/assets/Recadr%C3%A9es/veloroute.png
+  alt_text_for_image: Vélo de route sur bitume
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643194501/website/V%C3%A9lo/parcours-etoile_ubxtjh.png
   title: 6 jours de vélo
@@ -40,13 +45,14 @@ page_sections:
   captiontitleuppercase: Toutes les étapes
   alt_text_for_image: Carte du trajet de toutes les étapes du séjour de vélo de route
     à Méribel
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Le séjour
   content: "Le prix du séjour vélo comprend\n\n● Encadrement – Moniteurs diplômés
     d’État  \n● Suivi technique et logistique (transports bagages et vélos)  \n● Ravitaillement
     en eau lors des étapes  \n● Dernière journée (repas, baignade Lac d’Annecy et
     retour navette sur Méribel)"
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189945/website/V%C3%A9lo/collage1_fmakyp.png
   captiontitleuppercase: Journée 1
@@ -147,12 +153,14 @@ page_sections:
     En revanche, pas de stress sur les niveaux, nous vous demandons simplement une expérience de vélo de route avec un peu de dénivelé et, également, d’arriver avec un foncier suffisant pour tenir physiquement sur 6 jours. Par exemple, nous recommandons un minimum de 1000 kms dans les jambes et 10.000 m de dénivelé avant de nous rejoindre. Lors de la première journée, nous verrons toutefois si il y a de grosses différences de niveaux et si nous devons adapter les groupes et les sorties.
 
     Ensuite, nous vous garantissons les plus beaux paysages possibles et une belle ambiance pour que votre séjour soit le meilleur possible. Au programme des stages autour du lac d’Annecy, du Cormet de Roseland, Col du petit Saint Bernard, Col de la Madeleine… Des déjeuners tous ensemble avec des points de vue à couper le souffle. Suivant les sorties, vous aurez également des options bis plus ou moins difficiles afin d’être en phase avec vos attentes.
+  blockBGcolor: ''
 - template: textarea
   content: |-
     En ce qui concerne les hébergements possibles, nous proposons des chambres en chalet de standing : tarif à la chambre (1 à 2 personnes) avec des prix intéressants en période estivale notamment. Finalement, notre objectif est de passer un maximum de temps ensemble. C’est pour cela que nous souhaitons que nous puissions prendre les repas du soir ensemble et, ainsi, que nos discussions tournent autour de notre passion mais pas seulement.
 
     Néanmoins, vous pourrez également prendre un hébergement autre. Nous sommes alors là pour vous conseiller si vous souhaitez des appartements ou des prestations hôtelières précises.
   title: 'Hébergement '
+  blockBGcolor: ''
 - template: cta
   intro: Réservez dès maintenant votre séjour vélo
   headline: Séjours de 6 jours de vélo de route à Méribel et en Savoie
