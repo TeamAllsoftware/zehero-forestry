@@ -29,6 +29,11 @@ page_sections:
     de réussir à surfer et d'apprendre correctement. On retrouvera également quelques
     spots où les bancs de sable vont former des vagues beaucoup plus puissante et
     donc réserver pour des personnes expertes en surf."
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
+  alt_text_for_image: Equipement de surf
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624275/website/Surf%20Atlantic/DSC_1440_ruy2qd.jpg
   captiontitleuppercase: Apprendre à Surfer
@@ -44,7 +49,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Femme surfant à St Brévin les pins sur une vague qui casse
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Les cours privés ou collectifs de surf à St Brévins les Pins
   content: |-
@@ -55,6 +60,7 @@ page_sections:
     **Cours collectif de surf :**
 
     Contrairement au cours privé de surf, ici vous êtes avec d'autres surfeurs. Le moniteur analyse donc plusieurs personnes lors de la même session de surf. Vous pourrez alors profiter d'un groupe motivant et passer un moment avec vos proches. Vous progresserez par les conseils du moniteur, mais aussi des surfeurs du groupe. Le cours collectif de surf est alors moins chère que le cours privé et sera parfait pour les débutants et ceux qui souhaitent se perfectionner.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624275/website/Surf%20Atlantic/IMG_7584_itolid.jpg
   captiontitleuppercase: Les différents spots de surf
@@ -78,6 +84,7 @@ page_sections:
     Chacune des écoles de surf de St Brévin les pins permettront la location de matériel de surf. C'est-à-dire que vous retrouverez les planches de surf pour tous les niveaux, des leashs, ainsi que les combinaisons courtes ou longues. Si vous prenez des cours de surf, vous pourrez venir soit avec votre équipement, soit l'avoir directement sur place.
 
     Il existe aussi d'autre shop à St Brévin les pins qui proposeront la [location ](https://www.ze-hero.com/fr/ete/activites/location-surf-loire-atlantique)de matériel et d'équipement de surf.
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
