@@ -8,7 +8,7 @@ meta-title: Le VTT électrique à Méribel, la montagne accessible à tous
 meta-description: LE VTT électrique à Méribel permet de réaliser de magnifiques randonnées
   en montagne. Une activité ouverte à tout le monde, pour des aventures ludiques,
   sportives et de découverte.
-title: Le VTT électriques à Méribel
+title: Le VTT électrique à Méribel
 permalink: "/fr/ete/activites/vtt-electrique-meribel"
 baseline: VTT Electrique à Méribel
 engage: Découvrez la montagne en VTT électrique à Méribel
@@ -31,8 +31,12 @@ page_sections:
     et d'aventure. Le Bikepark de Méribel est un des plus beaux des Alpes. Vous pourrez
     également emprunter différentes remontés mécaniques avec vos VTT.
   title: Sortie VTT électrique à Méribel
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234241/website/assets/Recadr%C3%A9es/vtt.png
+  alt_text_for_image: VTT au milieu de la forêt
 - template: 2colimgtxt
-  blockBGcolor: blanc
+  blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648132826/website/M%C3%A9ribel/48230034906_3f54e7e3a3_c.jpg
   alt_text_for_image: 2 personnes faisant du VTT électrique à Méribel devant le lac
     de Tueda
