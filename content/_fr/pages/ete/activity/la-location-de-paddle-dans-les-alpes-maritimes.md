@@ -38,6 +38,11 @@ page_sections:
     Les premiers débuts sont souvent périlleux mais une fois le coup pris ce n’est
     que du plaisir. C’est un sport très riche qui permet de faire travailler de nombreuses
     parties du corps sans trop de difficulté."
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234225/website/assets/Recadr%C3%A9es/paddle.png
+  alt_text_for_image: Planche de paddle sur une vague d'eau
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643972869/website/Conseil%20Equiepement/standup-paddleboarding-6342951_1920_nenixz.jpg
   alt_text_for_image: Deux personnes faisant du paddle arrivant sur une plage
@@ -65,6 +70,7 @@ page_sections:
     Eshop nos différentes locations de paddle dans le 06.  \nPrêt du lac de St Cassien
     et de la rivière \"La Siagne\", vous pourrez également louer votre paddle dans
     des bases nautiques."
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
