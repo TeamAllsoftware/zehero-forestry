@@ -30,8 +30,12 @@ page_sections:
     qui ne souhaitent pas ressentir cette exigence physique du VTT, de partir en balade.
     Il va permettre également de réaliser des sorties plus longues, plus facilement.
     Vous pourrez alors réaliser des sorties en famille."
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234241/website/assets/Recadr%C3%A9es/vtt.png
+  alt_text_for_image: VTT au milieu de la forêt
 - template: 2colimgtxt
-  blockBGcolor: blanc
+  blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648055580/website/summer/markus-spiske-B80FcaDLWCc-unsplash.jpg
   alt_text_for_image: Cadran d'un VTT électrique avec le guidon
   captiontitleuppercase: Découvrir la nature plus facilement
