@@ -30,9 +30,9 @@ page_sections:
   title: La grande traversée des Alpes en vélo
   blockBGcolor: ''
 - template: imgWide
-  blockBGcolor: blanc
+  blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234200/website/assets/Recadr%C3%A9es/veloroute.png
-  alt_text_for_image: Velo de route sur goudron
+  alt_text_for_image: Velo de route sur bitume
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521349/website/V%C3%A9lo/traversee-pre-alpes_mmfnjh.png
   captiontitleuppercase: Un trajet unique à travers les Alpes en vélo
@@ -48,7 +48,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Vue d'une route face à un lac dans des routes des montagnes
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Le parcours
   content: "Le parcours que nous proposons est donc de 630km avec environ 15 000 m
