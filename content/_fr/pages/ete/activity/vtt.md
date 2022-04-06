@@ -57,7 +57,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Pour qui ?
   content: "Le VTT se pratique dès 6 ans et c'est une activité qui est ouverte à tout
