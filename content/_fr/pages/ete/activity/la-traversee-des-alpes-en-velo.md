@@ -28,6 +28,11 @@ page_sections:
     de vélo qui sont entrainés et prêts physiquement à enchainer des journées de 100
     km à 130 km avec 3000/3500 de dénivelé."
   title: La grande traversée des Alpes en vélo
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234200/website/assets/Recadr%C3%A9es/veloroute.png
+  alt_text_for_image: Velo de route sur goudron
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521349/website/V%C3%A9lo/traversee-pre-alpes_mmfnjh.png
   captiontitleuppercase: Un trajet unique à travers les Alpes en vélo
@@ -53,6 +58,7 @@ page_sections:
     servis ! Au départ d’Annecy vous traverserez les Aravis, le Beaufortin, la Haute
     Tarentaise, la Maurienne, les Hautes-Alpes, sans oublier les Alpes du Sud pour,
     finalement, traverser l’arrière-pays Niçois et arriver à Nice."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521345/website/V%C3%A9lo/ETAPE-1-GRANDS-COLS_aowgzr.png
   captiontitleuppercase: 'L''étape 1 '
@@ -145,6 +151,7 @@ page_sections:
 
     ● Transfert retour – Véhicule Grand Confort
   title: ''
+  blockBGcolor: ''
 - template: imagegallery02
   title: Quelques images de la traversée
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521348/website/V%C3%A9lo/velo-de-route-sejour_bojhe9.jpg
