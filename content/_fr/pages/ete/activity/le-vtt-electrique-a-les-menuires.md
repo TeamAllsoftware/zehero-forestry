@@ -34,7 +34,7 @@ page_sections:
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234241/website/assets/Recadr%C3%A9es/vtt.png
   alt_text_for_image: VTT au milieu de la forêt
 - template: 2colimgtxt
-  blockBGcolor: blanc
+  blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648114187/website/VTT%20AE/M%C3%A9nuires/2018_A3V_ArthurBERTRAND-Les3Vallees-_X_HD_DSC1234_Valable-jusqu-au-31-08-2023.jpg-1600px.jpg
   alt_text_for_image: Personne en VTT électrique en descendant un sentier dans les
     3 Vallées
