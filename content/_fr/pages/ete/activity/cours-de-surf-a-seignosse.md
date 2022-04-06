@@ -33,7 +33,7 @@ page_sections:
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
   alt_text_for_image: Equipement de surf
 - template: 2colimgtxt
-  blockBGcolor: blanc
+  blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647362603/website/resorts/Seignosse/jeffrey-brandjes-IYN2sh976Ac-unsplash_1.jpg
   alt_text_for_image: Surfeur surfant une petite vague à Seignosse
   title: Les cours de surf à Seignosse, pour qui ?
