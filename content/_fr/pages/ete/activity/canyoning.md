@@ -33,7 +33,7 @@ page_sections:
   blockBGcolor: ''
 - template: imgWide
   blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195885/website/assets/Recadr%C3%A9es/canyoning.png
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649235420/website/assets/Recadr%C3%A9es/canyoning.png
   alt_text_for_image: Matériel de canyoning
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883620/website/summer/Canyoning-activite-famille_ov6myx.jpg
