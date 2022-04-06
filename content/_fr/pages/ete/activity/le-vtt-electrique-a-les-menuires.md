@@ -29,6 +29,10 @@ page_sections:
     300km de sentiers balisés. De quoi pédaler et découvrir cette nature montagneuse.
     Cinq remontés mécaniques permettront d'accéder très facilement aux différents
     sommets des pistes comme Roc 1, Bruyères 1, Saint Martin 1, Speed Mountain.
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234241/website/assets/Recadr%C3%A9es/vtt.png
+  alt_text_for_image: VTT au milieu de la forêt
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648114187/website/VTT%20AE/M%C3%A9nuires/2018_A3V_ArthurBERTRAND-Les3Vallees-_X_HD_DSC1234_Valable-jusqu-au-31-08-2023.jpg-1600px.jpg
