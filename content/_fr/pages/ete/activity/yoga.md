@@ -54,7 +54,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: |-
     On va retrouver alors différents types de Yoga pour différentes pratiques et variant selon les personnes.
