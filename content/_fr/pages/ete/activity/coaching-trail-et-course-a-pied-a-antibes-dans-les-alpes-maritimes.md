@@ -97,6 +97,10 @@ page_sections:
 
     N’hésitez pas à **contacter** le coach afin d’échanger avec lui sur vos compétences, vos désirs, vos faiblesses. Il pourra également mettre en place, pendant les cours, une **attention** particulière à ces différents aspects.
   blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649237465/website/assets/Personnages%20poses/Trail_Running.png
+  alt_text_for_image: Personnage en tenue de trail
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
