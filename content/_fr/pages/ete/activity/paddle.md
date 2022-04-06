@@ -48,7 +48,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Une activité pour tous
   content: "Le paddle, quelque soit le lieu de pratique, sera praticable par tout
