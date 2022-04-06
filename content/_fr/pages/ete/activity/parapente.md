@@ -84,6 +84,10 @@ page_sections:
   prlax_alt_text_for_image: 'Vol en biplace de parapente lors d''un décollage en montagne '
   grid_1_alt_text_for_image: Parapentiste volant en parapente dans le ciel
   grid_2_alt_text_for_image: Parapentiste volant en parapente prêt d'une falaise
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649246849/website/assets/Personnages%20poses/Poses%20format%20large/Parapente_Pose.png
+  alt_text_for_image: Personnage avec parapente au sol
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
