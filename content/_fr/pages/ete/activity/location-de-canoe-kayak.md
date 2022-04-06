@@ -22,6 +22,11 @@ page_sections:
 
     Si vous désirez voyager différemment, relever des défis nouveaux ou tout simplement partir à l’aventure le temps d’un week-end, le kayak ou le canoë deviendra vite votre moyen de déplacement favori. Evoluer en pleine **mer** ou au beau milieu d’une **rivière** à bord d’un kayak ou d’un canoë offre une sensation de liberté inégalée. Vous pourrez, en effet, accéder à des endroits uniques et reculés, souvent inaccessibles en voiture ou à pied !
   title: Location de canoë kayak
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195890/website/assets/Recadr%C3%A9es/kayak.png
+  alt_text_for_image: Kayak sur l'eau
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643958860/website/summer/noah-basle-KQljDf-X3SA-unsplash_qegbax.jpg
   alt_text_for_image: Vue des gorges du Verdon et des plusieurs personnes pratiquant
@@ -55,6 +60,7 @@ page_sections:
 
     En général, on estime que la pagaie doit arriver sous le menton, moins la hauteur du poing (10 cm en moyenne).
   title: 'Pagaies '
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588329/website/summer/drew-dau-zMSkCFHSXTU-unsplash_tbki8m.jpg
   alt_text_for_image: Plusieurs kayaks posés sur le sol pour la location
@@ -81,6 +87,7 @@ page_sections:
     matériel et de faire face à des conditions difficiles, notamment en mer. Un kayak
     rigide est robuste mais est, de fait, plus difficile à transporter et à stocker
     car il est encombrant.
+  blockBGcolor: ''
 - template: textarea
   title: Quel Kayak choisir en fonction de votre utilisation ?
   content: |-
@@ -115,6 +122,7 @@ page_sections:
     ###### Kayak pliant
 
     Un kayak pliant, enfin, peut représenter un bon compromis entre **robustesse** et **praticité**. Comme son nom l’indique, il s’agit d’un kayak démontable constitué d’une structure recouverte d’une toile. Plus long à monter qu’un kayak gonflable, il permet néanmoins d’obtenir un niveau de rigidité tout à fait satisfaisant et des performances exceptionnelles. Il se range facilement dans une valise une fois plié.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588327/website/summer/art-rachen-aKqJCZSP4t4-unsplash_b1obn5.jpg
   alt_text_for_image: Vue d'une personne dans un kayak sur la mer
