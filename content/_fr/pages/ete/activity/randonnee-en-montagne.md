@@ -132,6 +132,10 @@ page_sections:
     de montagne. Venez partager un moment de bien-être en marchant sur les sentiers
     qui vous éloignent du monde et vous rapprochent de la liberté.
   blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649247144/website/assets/Personnages%20poses/Poses%20format%20large/Randonnee_Pose.png
+  alt_text_for_image: Personnage faisant de la randonnée avec des batons
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
