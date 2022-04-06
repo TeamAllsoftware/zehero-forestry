@@ -30,7 +30,7 @@ page_sections:
   blockBGcolor: ''
 - template: imgWide
   blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195882/website/assets/Recadr%C3%A9es/coaching.png
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649236206/website/assets/Recadr%C3%A9es/coaching.png
   alt_text_for_image: Matériel coaching sportif
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294098/website/Coaching/IMG_20201022_150218_ek4t5r.jpg
