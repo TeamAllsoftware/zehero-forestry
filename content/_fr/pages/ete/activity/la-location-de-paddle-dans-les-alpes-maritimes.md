@@ -58,7 +58,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: La location de paddle dans les Alpes Maritimes
   content: "Dans les Alpes-Maritimes, vous trouverez un large choix de shop pour la
