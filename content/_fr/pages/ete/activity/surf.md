@@ -56,7 +56,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Plusieurs surfeurs surfant une vague
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: "Vous pourrez alors faire des cours collectifs ou des cours privés. Les
     cours collectifs seront moins chers, mais le moniteur ne sera pas 100% dédié à
