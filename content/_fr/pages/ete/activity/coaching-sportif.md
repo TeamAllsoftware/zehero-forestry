@@ -36,6 +36,7 @@ page_sections:
     des duels, on sort de sa zone de confort, tout le monde s'encourage. Par rapport
     au coaching privé, c'est un cours plus économique.
   alt_text_for_image: Groupe de personne en coaching sportif
+  blockBGcolor: gris
 - template: textarea
   title: Coaching sportif Privé
   content: 'Le coaching sportif privé lui, va permettre d''avoir un coach qui sera
