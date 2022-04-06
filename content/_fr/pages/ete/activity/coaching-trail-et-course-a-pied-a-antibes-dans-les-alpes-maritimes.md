@@ -99,7 +99,7 @@ page_sections:
   blockBGcolor: ''
 - template: imgWide
   blockBGcolor: blanc
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649237958/website/assets/Personnages%20poses/Trail_Running.png
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238382/website/assets/Personnages%20poses/Trail_Running.png
   alt_text_for_image: Personnage en tenue de trail
 - template: newsletter
   title: Recevez nos dernières informations
