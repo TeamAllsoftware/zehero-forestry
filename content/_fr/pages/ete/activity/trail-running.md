@@ -128,6 +128,10 @@ page_sections:
   button:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     text_button: Réserver maintenant >
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238382/website/assets/Personnages%20poses/Poses%20format%20large/Trail_Running.png
+  alt_text_for_image: Personnage célébrant son trail
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
