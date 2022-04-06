@@ -21,6 +21,11 @@ page_sections:
     Le canyoning dans les Alpes Maritimes sont un véritable paradis pour les pratiquants du canyoning. On y retrouve des canyonings très réputé dans la France et cela pour tous les niveaux et toutes les pratiques. Dans l'arrière pays niçois on retrouve alors des canyonings techniques et engagés, d'autres ludiques et familiales. On y découvre alors des paysages sublimes et unique, le 06 vous offre une diversité environnementale remarquable.
 
     Le canyoning est une activité sensationnel, ludique, sportive où vous allez vous immergez dans les cours d'eaux d'une nature sauvage. Partez glisser, sauter, nager, randonner dans les différents canyons des Alpes Maritimes. Que vous soyez seul, entre amis, en couple, en famille, vous partagerez un moment unique dans des lieux d'exception.
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649235420/website/assets/Recadr%C3%A9es/canyoning.png
+  alt_text_for_image: Equipement de canyoning
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/IMG_2438_y5voyg.jpg
   captiontitleuppercase: Le département du canyoning
@@ -56,6 +61,7 @@ page_sections:
     canyoning dans la vallée de l'Esteron avec le canyonng de Aiglun, Riolan, Monar
     et de Saint Auban."
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642516879/website/summer/pexels-aaron-kittredge-999093_stpngc.jpg
   captiontitleuppercase: Le 06, le lieux du sport nature et du canyoning
