@@ -46,7 +46,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Vue des gorges d'un canyoning en Haute Savoie
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: "Le Canyon Pont du Diable :  \nUn peu plus loin d'Annecy, à Bellecombe
     en Bauges, le Canyoning du Pont du Diable vous fera vivre une expérience unique.
