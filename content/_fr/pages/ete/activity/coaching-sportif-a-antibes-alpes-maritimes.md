@@ -48,7 +48,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Que faire et comment choisir son coach sportif à Antibes ?
   content: |-
