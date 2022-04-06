@@ -31,6 +31,11 @@ page_sections:
     sentiers seront balisés par des panneaux, vous retrouverez également des marques
     au sol de peinture par exemple jaune, blanche et rouge pour les GR (grande randonnée)
     mais aussi des cairns (petite pyramide de pierre faite par l’homme).
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195884/website/assets/Recadr%C3%A9es/randonnee.png
+  alt_text_for_image: Equipement randonnée
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-krivec-ales-554609_soqspx.jpg
   captiontitleuppercase: Partir randonner avec un guide
@@ -48,7 +53,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: "Prendre un guide, un accompagnateur de moyenne montagne permet d'avoir
     toutes les informations sur comment bien randonner. C'est-à-dire, qu'il va vous
@@ -63,6 +68,7 @@ page_sections:
     un guide, c'est de pouvoir randonner tout en apprenant, en comprenant mieux la
     montagne sur tout son écosystème."
   title: ''
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883628/website/summer/Paysage-montagne-randonnee_okgfs3.jpg
   captionabovetitle: La liberté à l'état pur
@@ -101,6 +107,7 @@ page_sections:
 
     Voici un article qui vous aidera à savoir ce qu'il faut mettre dans [son sac de randonnée à la journée](https://www.ze-hero.com/fr/ete/conseils/liste-materiel-randonnee).
   title: Bien randonner en montagne
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642582620/website/summer/pexels-ian-beckley-2440078_ueovj0.jpg
   captiontitleuppercase: Profiter de la montagne en la respectant
@@ -124,6 +131,7 @@ page_sections:
     regardez les chamois et leur agilité incroyable, observez la pureté des fleurs
     de montagne. Venez partager un moment de bien-être en marchant sur les sentiers
     qui vous éloignent du monde et vous rapprochent de la liberté.
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
