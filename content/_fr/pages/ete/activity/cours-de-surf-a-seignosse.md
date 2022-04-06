@@ -27,6 +27,11 @@ page_sections:
     Apprenez le surf, partez surfer en longboard, en shortboard, en stand-up paddle.
 
     Un large choix s'offre à vous pour trouver votre cours de surf ou simplement de louer votre matériel de surf à Seignosse.
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
+  alt_text_for_image: Equipement de surf
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647362603/website/resorts/Seignosse/jeffrey-brandjes-IYN2sh976Ac-unsplash_1.jpg
@@ -57,6 +62,7 @@ page_sections:
     collectifs seront par niveau mais aussi par âge pour les enfants.  \nLes cours
     collectifs de surf vont varier de 1h30 à 2h de temps et les groupes seront jusqu'à
     8 à 10 personnes."
+  blockBGcolor: ''
 - template: textarea
   title: Les cours privés de surf à Seignosse
   content: |-
@@ -65,6 +71,7 @@ page_sections:
     Les cours privés de surf peuvent être dédiés pour 1 personne, pour 2 personnes et pour 3 personnes maximum.
 
     A Seignosse, vous retrouverez le moniteur de surf Morgan d'Avezac. Il vous transmettra toutes ses compétences techniques, physiques. Un moniteur qui a pratiqué la compétition à haut niveau pendant 10 années et qui sera à l'écoute pour vous apporter les meilleurs conseils.
+  blockBGcolor: ''
 - template: 2coltxtimg
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647264217/website/resorts/Seignosse/tom-wolff-XYCIp21GBQQ-unsplash.jpg
@@ -81,4 +88,5 @@ page_sections:
     alt_button: ''
 - template: newsletter
   title: Recevez nos dernières informations
+
 ---
