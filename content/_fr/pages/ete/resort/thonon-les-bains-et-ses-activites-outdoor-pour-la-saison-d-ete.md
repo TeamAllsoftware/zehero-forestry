@@ -57,20 +57,22 @@ page_sections:
     les Bains
   captiontitleuppercase: Thonon-les-bains, montagnes alpines
   title: Les activité terres
-  content: "Thonon-les-Bains c'est le lieu idéal pour toutes les activités naturelles
-    et de terre. Vous pourrez alors trouver de nombreuses randonnées pédestres. Entouré
-    de montagne, prêt des stations de Chatel, d'Avoriaz, de Morzine, d'Abondance et
-    St Jean D'Aulps, le nombre de balades alpines sera énorme. Découvrez un paysage
-    unique au patrimoine riche et naturel. Accompagné d'un guide, découvrez le massif
-    du Chablais, les balcons du Lac Léman. Vous pourrez avoir une vue sur le Mont
-    Blanc et une vue sur le lac Léman. Partez au cœur de u massif des Portes du Soleil.
-    Les amoureux de la natures et les randonneurs seront au paradis. Pour tous les
-    amateurs de trail, c'est aussi le lieux idéale pour fouler les sentiers.  \nPartez
-    découvrir un faune, une flore et les secrets de la vallais du Chablais."
+  content: |-
+    Thonon-les-Bains c'est le lieu idéal pour toutes les activités naturelles et de terre. Vous pourrez alors trouver de nombreuses randonnées pédestres. Entouré de montagne, prêt des stations de Chatel, d'Avoriaz, de Morzine, d'Abondance et St Jean D'Aulps, le nombre de balades alpines sera énorme. Découvrez un paysage unique au patrimoine riche et naturel. Accompagné d'un guide, découvrez le massif du Chablais, les balcons du Lac Léman. Vous pourrez avoir une vue sur le Mont Blanc et une vue sur le lac Léman. Partez au cœur de u massif des Portes du Soleil. Les amoureux de la natures et les randonneurs seront au paradis. Pour tous les amateurs de trail, c'est aussi le lieux idéale pour fouler les sentiers.
+
+    Partez découvrir un faune, une flore et les secrets de la vallais du Chablais.
+
+    Vous pourrez également pratiquer des activités outdoor tel que l'escalade et le parapente. Le VTT sera également une activité idéale pour découvrir l'environnement dans les vallées de l'Abondance et de l'Aulps. Vous pourrez aussi partir rouler sur les terres des Portes du soleil. Les stations comme Avoriaz, Samoens seront des lieux parfaits pour la pratique du VTT.
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  blockBGcolor: blanc
+  title: Séjournez et réservez votre activité à Thonon-les-Bains
+  content: |-
+    Réservez votre prochaine activité à Thonon-les-Bains et profitez d'un séjour au cœur d'un environnement riche et préservé. Entre lac et montagne, richesse des terres, patrimoine et une nature d'exception, vous trouverez toutes les activités outdoor pour des moments riches en émotions.
+
+    Que ce soit en famille, entre amis, en couple, partez vivre de nouvelles expériences.
 
 ---
