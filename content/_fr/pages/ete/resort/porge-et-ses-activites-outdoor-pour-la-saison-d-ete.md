@@ -23,7 +23,19 @@ image01_alt: Image de plage et de forêt vers Porge
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité à Porge
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor
-page_sections: []
+page_sections:
+- template: textarea
+  blockBGcolor: blanc
+  title: Porge
+  content: Porge est une petite ville située dans la Gironde. Entre Lacanau et Arcachon,
+    profitez de petit havre paix, situé sur le littoral de l'Atlantique. Tout près
+    de Bordeau, cette ville est idéale pour des séjours nature, paisible en famille.
+    Dans un environnement naturel entre l'océan et ses forêts de pins, il fait bon
+    vivre. On retrouve également des étangs, des lacs ainsi que le bassin d'Arcachon
+    un peu plus bas. Porge est destination 100% nature où il sera possible de laisser
+    sa voiture garée. Vous pourrez alors emprunter les nombreuses pistes cyclables.
+    Une petite ville du Médoc où le patrimoine culturel, naturel et environnemental
+    se fait ressentir pour un séjour de découverte et de déconnexion.
 published: false
 
 ---
