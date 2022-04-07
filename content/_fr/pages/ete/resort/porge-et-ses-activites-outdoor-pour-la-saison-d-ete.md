@@ -55,6 +55,35 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Vous pourrez également pratiquer le stand up paddle. Que ce soit pour prendre des cours pour vous initier à cette pratique, pour vous perfectionner dans cette glisse munie d'une pagaie, vous pourrez également louer votre matériel dans les différents shops de Porge.
+
+    Partez également glisser dans les vagues en body-board. Une sensation encore plus près de l'eau où vous ne ferez plus qu'un avec l'océan et sa houle.
+  title: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649326093/website/resorts/Porge/angelo-carniato-7plcfCbPy5E-unsplash.jpg
+  alt_text_for_image: Couché de soleil sur l'océan à Porge
+  captiontitleuppercase: Petite ville nature du Médoc
+  title: Les autres activités à Porge
+  content: |-
+    En plus de ses kilomètres de place et ses belles vagues d'Atlantique, Porge regorge de petit coin nature. Les activités natures et outdoors sont alors très diverses.
+
+    Pour les amoureux des deux roues, vous trouverez un nombre important de pistes cyclable. Partez alors rouler à vélo de route à travers ces routes bordées de pins maritimes. Vous pourrez rejoindre également Lacanau, le Cap Ferret ou encore Arès. Vous pourrez également retrouver de nombreuses balades à faire en VTT et VTT électrique.
+
+    Pour les marcheurs et randonneurs, vous trouver de multiples randonnées à faire dans les différents milieux naturel de Porge. Vous y trouverez une flore et faune préservé et riche tel qu'à l'étang de Langouarde.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Porge, c'est également le lieu idéal pour embarquer dans un canoë-kayak et de glisser sur le canal des Etangs. Ce canal relit le lac de Lacanau et le bassin d'Arcachon.
+
+    Séjournez à Porge, c’est profiter d’une petite ville du Médoc, c’est se laisser pénétrer par le bien-être d’une nature préservé entre océan et pins. C’est partir surfer avec Sama Sama Surf school, c’est louer un vélo et randonner dans les zones naturelles. À quelques kilomètres de Bordeau, profitez de vous détendre à Porge, ce petit havre de paix.
+  title: ''
 
 ---
