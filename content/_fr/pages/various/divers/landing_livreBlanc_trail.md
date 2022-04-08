@@ -19,11 +19,11 @@ topnav_color_text: light
                 <h5 class="alt-font font-weight-600 text-medium-slate-blue text-uppercase margin-5px-bottom">Livre blanc gratuit</h5>
                 <h1 class="alt-font font-weight-700 text-uppercase text-green margin-25px-bottom letter-spacing-minus-1px">TRAIL Running</h1>
                 <p class="w-90 text-large line-height-30px">Tout savoir pour bien débuter dans la course Trail (équipement, entrainement, préparation...)</p>
-                <form action="email-templates/subscribe-newsletter.php" method="post">
+                <form name="livre-blanc-{{ page.language }}-trail" method="POST" data-netlify="true">
                     <div class="newsletter-email position-relative d-inline-block w-95 margin-20px-top margin-30px-bottom">
                         <input class="border-radius-5px large-input bg-white border-color-white box-shadow-large mt-0 required" name="email" placeholder="Email sur lequel envoyer le livre blanc" type="email">
-                        <input class="border-radius-5px large-input bg-white border-color-white box-shadow-large mt-0 required" name="lastname" placeholder="Votre nom" type="lastname">
-                        <input class="border-radius-5px large-input bg-white border-color-white box-shadow-large mt-0 required" name="name" placeholder="Votre prénom" type="firstname">
+                        <input class="border-radius-5px large-input bg-white border-color-white box-shadow-large mt-0 required" name="lastname" placeholder="Votre nom" type="text">
+                        <input class="border-radius-5px large-input bg-white border-color-white box-shadow-large mt-0 required" name="firstname" placeholder="Votre prénom" type="text">
                         <input type="hidden" name="redirect" value="">
                         <button class="btn border-transperent submit" type="submit"></button>
                         <div class="form-results border-radius-5px position-absolute d-none"></div>
