@@ -7,8 +7,8 @@ meta-description: Trouvez votre activité outdoor dans la ville de Thonon-les-Ba
   vous ouvre un paradis naturel.
 topnav_color_text: light
 introduction:
-  you_arrive: Vous arrivez à Thonon-lesBains et vous souhaitez louer du matériel ou
-    trouver une activité
+  you_arrive: Vous arrivez à Thonon-les-Bains et vous souhaitez louer du matériel
+    ou trouver une activité
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Thonon-les-Bains et ses activités outdoor pour la saison d'été
