@@ -135,3 +135,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- content/_fr/pages/various/divers/landing_livreBlanc_trail.md
