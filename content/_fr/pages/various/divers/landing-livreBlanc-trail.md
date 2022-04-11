@@ -18,6 +18,13 @@ page_sections:
   title: Train Running
   content: Tout savoir pour bien débuter dans la course Trail (équipement, entrainement,
     préparation...)
+- template: textarea
+  blockBGcolor: blanc
+  title: Tout ce que vous devez savoir pour débuter la course TRAIL
+  content: Aliquam quis tempus quam. Donec sit amet pulvinar justo. Suspendisse potenti.
+    Integer scelerisque nunc eu felis elementum sodales. Etiam rhoncus nibh nisl,
+    maximus lobortis libero auctor et. Lorem ipsum dolor sit amet, consectetur adipiscing
+    elit. Etiam mattis at ex sed auctor.
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
