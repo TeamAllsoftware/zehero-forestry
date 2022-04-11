@@ -20,11 +20,28 @@ page_sections:
     préparation...)
 - template: textarea
   blockBGcolor: blanc
-  title: Tout ce que vous devez savoir pour débuter la course TRAIL
-  content: Aliquam quis tempus quam. Donec sit amet pulvinar justo. Suspendisse potenti.
-    Integer scelerisque nunc eu felis elementum sodales. Etiam rhoncus nibh nisl,
-    maximus lobortis libero auctor et. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Etiam mattis at ex sed auctor.
+  title: Tout savoir pour débuter la course TRAIL
+  content: Alors téléchargez notre livre blanc rempli de trucs et astuces, de conseils
+    d'équipement, de préparation physique et bien plus encore !
+- template: 4col2imgTxtImg
+  ImageLeft:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0014_d4zlv9.jpg
+    alt_text: Le trail en montagne
+  title: Le trail pour tous... débutez dès demain !
+  baseline: Nous pensons que le trail peut se pratiquer simplement avec quelques techniques,
+    le choix du bon matériel, une préparation physique adaptée et beaucoup de motivation.
+    A vous de jouer.
+  ImageMiddle:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111394/website/Conseil%20Equiepement/IMG_20200608_193006_btxb0l.jpg
+    alt_text: Le choix du bon équipement pour le trail
+  ImageRight:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111394/website/Conseil%20Equiepement/IMG20210424154703_01_fatprs.jpg
+    alt_text: Une bonne préparation physique et mentale
+  button_more: false
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
