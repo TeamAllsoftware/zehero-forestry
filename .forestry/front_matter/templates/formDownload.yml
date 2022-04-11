@@ -1,0 +1,47 @@
+---
+label: Hero Form Download
+hide_body: true
+fields:
+- name: formName
+  type: text
+  config:
+    required: true
+  label: Form name
+- name: image_background
+  type: text
+  config:
+    required: true
+  label: Image background HERO
+- name: image_col_right_href
+  type: text
+  config:
+    required: true
+  label: Image of PDF Cover
+- name: alt_text_for_image
+  type: text
+  config:
+    required: true
+  label: Alt text for image
+- name: captiontitleuppercase
+  type: text
+  config:
+    required: true
+  label: caption Title uppercase
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: title
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: content
