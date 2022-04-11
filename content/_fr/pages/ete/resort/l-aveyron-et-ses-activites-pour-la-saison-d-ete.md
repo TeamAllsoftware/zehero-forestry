@@ -63,11 +63,37 @@ page_sections:
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  content: Pour ceux qui préfèrent chausser des baskets plutôt que des chaussures
-    de randonnée, l'Aveyron est également une terre pour le trail. Le trail dans l'Aveyron,
-    c'est le terrain de jeu parfait pour découvrir les sites naturels, pour s'amuser.
-    Vous découvrirez des centaines de sentiers balisés dédiées à la pratique du trail.
+  content: |-
+    Pour ceux qui préfèrent chausser des baskets plutôt que des chaussures de randonnée, l'Aveyron est également une terre pour le trail. Le trail dans l'Aveyron, c'est le terrain de jeu parfait pour découvrir les sites naturels, pour s'amuser. Vous découvrirez des centaines de kilomètres de sentiers balisés dédiées à la pratique du trail. Vous trouverez de nombreux lieux et spots spécialement dédié au trail. Vous découvrirez les paysages, les villages à travers des parcours balisés. L'Aveyron et le trail c'est aussi des évènements mondialement connus tel que le Festival des Templiers. Encadré par un professionnel, vous pourrez reconnaître les parcours des différents trails sur des stages et des itinérances de plusieurs jours.
+
+    Vous l'avez compris, les activités à pied sont idéales dans un environnement pareil. Mais vous pourrez également le découvrir à VTT, avec plus de sensation et des descentes techniques et sensationnelles. Vous pourrez rouler et découvrir autant de kilomètres de sentiers qu'à pied. Partez découvrir le park Duverbike. Un bike park unique en France de 8 000 m2 pour tous les niveaux de VTT. Le VTT Electrique ou VAE sera également une activité parfaite en Aveyron pour rouler en famille.
+
+    Vous pourrez trouver de nombreux magasins de location de VTT en Aveyron mais également de nombreux organismes qui proposent l'encadrement du VTT.
+
+    Pour ceux qui préfèrent rouler sur le bitume, le vélo de route vous permettra de sillonner le département. Un choix immense d'itinéraire s'offre à vous afin de découvrir les petites routes des gorges, des lacs, des cols. Partez accompagner d'un professionnel qui vous fait découvrir à la journée ou sur plusieurs routes l'Aveyron.
   title: ''
-published: false
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648216481/website/resorts/Aveyron/jonny-gios-50S5TfPsuDE-unsplash.jpg
+  alt_text_for_image: Forêt et arbres dans l'Aveyron
+  captiontitleuppercase: L'Aveyron et les activités eau
+  title: Eaux vives dans l'Aveyron
+  content: |-
+    L'Aveyron c'est également de nombreuses activités d'eaux vives. Dans les gorges du Tarn ainsi que de la Dourbie et de la Truyère. Les gorges du Tarn sont très réputées dans toutes les activités outdoor. Laissez-vous tenter au canyoning avec des canyons très réputés tel que le canyon de Bramabiau, de la Haute Dourbie et de la Dourbie. Que ce soit pour découvrir l'activité, pour de la randonnée aquatique ou plutôt du canyoning engagé et sportif, vous trouverez votre bonheur.
+
+    Sur le Tarn, vous pourrez aussi pratiquer le rafting et le canyoning et l’hydrospeed avec de nombreuses compagnies qui proposeront leurs services. Glissez et pagayez sur le Tarn qui traverse le parc national des Cévennes, un territoire classé au patrimoine de l’UNESCO. Que ce soit en rafting, en hydrospeed ou en kayak, vous découvrir une nature incroyable et d’exception dans un cadre magnifique. Que ce soit pour de la randonnée de quelques heures, pour des sensations fortes, de la découverte ou des moments plus sportifs, l’Aveyron est idéale pour les activités d’eaux vives.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Dans l'Aveyron vous pourrez également louer un paddle et vous promener sur ses rivières et ses quelques lacs tel que le lac de la Cisba, de Sarrans, de St Gervais et le lac de Pareloup.
+
+    Pour finir, vous pourrez profiter de son environnement pour faire de l'escalade. Il existe de nombreux spots pour grimper. Dans les gorges du Tarn, de la Dourbie et de la Jonte vous trouverez de nombreuses voies. Situé prêt de Millau, vous profiterez des multiples activités que cette ville offre. Grimper également en Aubrac et à Najac.
+
+    Prenez votre envol et profitez d'une vue imprenable du ciel sur les plateaux en parapente. Vous retrouverez de nombreux lieux dans tout l'Aveyron pour voler et vivre un moment unique en volant au-dessus des gorges du Tarn, de cette nature sauvage.
+  title: ''
 
 ---
