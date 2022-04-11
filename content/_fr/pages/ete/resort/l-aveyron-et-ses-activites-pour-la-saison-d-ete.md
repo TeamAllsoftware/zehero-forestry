@@ -38,6 +38,34 @@ page_sections:
     beaux villages de France\". Millau, Rodez, Conques, Estaing, Peyre et bien d'autres
     sont des villages chargés d'histoire et de culture.\n\nVivez un dépaysement total,
     l'Aveyron est une terre où les activités outdoor prospèrent. "
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648216440/website/resorts/Aveyron/philippe-bout-8SBVEQFmrOU-unsplash.jpg
+  alt_text_for_image: Paysage de l'Aveyron
+  captiontitleuppercase: Une destination 100% nature
+  title: Les activités natures
+  content: L’Aveyron est une terre incroyable pour tous les sports outdoor et nature.
+    Tous les amoureux de la marche et de la randonnée pourront trouver des itinéraires
+    uniques. Plongez dans un paradis de randonnée plus de 1250km de sentiers de GR
+    et de GR du pays ainsi que 5300km de PR (promenades et randonnées). Vous découvrez
+    un espace naturel d’exception, une nature préservé et protégé. Entre les gorges,
+    les vallées, les plateaux, les sites seront incroyables à découvrir via la randonnée.
+    Découvrez les paysages de l’Aubrac, le Larzac et sa nature sauvage, le Rougier
+    de Camarès ainsi que les gorges du Tarn. Un panel de lieu, tous uniques pour une
+    faune et une flore également préservé. Des paysages insolites que vous pourrez
+    découvrir avec un guide en profitant de ses connaissances du terroir, de la nature,
+    de la géologie et des plus beaux tours et circuit à faire. En itinérance ou à
+    la journée, vous pourrez également partir avec un âne qui transportera tous vos
+    baguages.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: 'Pour ceux qui préfèrent chausser des baskets plutôt que des chaussures
+    de randonnée, l''Aveyron est également une terre pour le trail. '
+  title: ''
 published: false
 
 ---
