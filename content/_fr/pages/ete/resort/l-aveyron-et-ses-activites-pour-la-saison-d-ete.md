@@ -63,8 +63,10 @@ page_sections:
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  content: 'Pour ceux qui préfèrent chausser des baskets plutôt que des chaussures
-    de randonnée, l''Aveyron est également une terre pour le trail. '
+  content: Pour ceux qui préfèrent chausser des baskets plutôt que des chaussures
+    de randonnée, l'Aveyron est également une terre pour le trail. Le trail dans l'Aveyron,
+    c'est le terrain de jeu parfait pour découvrir les sites naturels, pour s'amuser.
+    Vous découvrirez des centaines de sentiers balisés dédiées à la pratique du trail.
   title: ''
 published: false
 
