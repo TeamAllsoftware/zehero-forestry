@@ -20,16 +20,15 @@ topnav_color_text: light
                 <h1 class="alt-font font-weight-700 text-uppercase text-green margin-25px-bottom letter-spacing-minus-1px">TRAIL Running</h1>
                 <p class="w-90 text-large line-height-30px">Tout savoir pour bien débuter dans la course Trail (équipement, entrainement, préparation...)</p>
                 <form action="/fr/contact-success" name="livre-blanc-{{ page.language }}-trail" method="POST" data-netlify="true">
-                    <div class="newsletter-email position-relative d-inline-block w-95 margin-20px-top margin-30px-bottom">
+                    <div class=" position-relative d-inline-block w-95 margin-20px-top margin-30px-bottom">
                         <input class="border-radius-5px large-input bg-white border-color-white box-shadow-large mt-0 required" name="email" placeholder="Email sur lequel envoyer le livre blanc" type="email">
                         <input class="border-radius-5px large-input bg-white border-color-white box-shadow-large mt-0 required" name="lastname" placeholder="Votre nom" type="text">
                         <input class="border-radius-5px large-input bg-white border-color-white box-shadow-large mt-0 required" name="firstname" placeholder="Votre prénom" type="text">
                         <input type="hidden" name="redirect" value="">
-                        <button class="btn border-transperent submit" type="submit"></button>
-                        <div class="form-results border-radius-5px position-absolute d-none"></div>
+                        <button type="submit" class="btn btn-extra-large btn-round-edge btn-green margin-35px-right md-margin-20px-bottom">Recevoir le livre blanc</button>
                     </div>
                 </form>
-                <a href="pricing-packages.html" class="btn btn-extra-large btn-round-edge btn-green margin-35px-right md-margin-20px-bottom">Recevoir le livre blanc</a>
+                
              
             </div>
             <div class="col-12 col-xl-7 col-md-6 text-center text-lg-end">
