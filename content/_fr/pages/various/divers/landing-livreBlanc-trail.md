@@ -20,17 +20,18 @@ page_sections:
     course (équipement, entrainement, préparation...)
 - template: textarea
   blockBGcolor: blanc
-  title: Tout savoir pour débuter la course TRAIL
-  content: Alors téléchargez notre livre blanc rempli de trucs et astuces, de conseils
-    d'équipement, de préparation physique et bien plus encore !
+  title: Tout savoir pour bien débuter dans le monde du Trail-running
+  content: Téléchargez notre livre blanc afin de retrouver tous les conseils d'équipement,
+    de préparation et d'entraînement. Découvrez comment bien débuter dans cette discipline
+    avec la Team Ze Hero
 - template: 4col2imgTxtImg
   ImageLeft:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639734240/website/blog/Valmorel%20-%20Nice/IMG-20200707-WA0014_d4zlv9.jpg
     alt_text: Le trail en montagne
   title: Le trail pour tous... débutez dès demain !
-  baseline: Nous pensons que le trail peut se pratiquer simplement avec quelques techniques,
-    le choix du bon matériel, une préparation physique adaptée et beaucoup de motivation.
-    A vous de jouer.
+  baseline: Partez explorer les chemins et les sentiers. Découvrez la préparation
+    physique et les entraînements spécifiques afin de débuter le Trail simplement
+    et facilement. A vous de jouer !
   ImageMiddle:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111394/website/Conseil%20Equiepement/IMG_20200608_193006_btxb0l.jpg
     alt_text: Le choix du bon équipement pour le trail
@@ -47,3 +48,4 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: ''
 
 ---
+fin
