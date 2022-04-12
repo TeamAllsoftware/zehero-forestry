@@ -26,15 +26,12 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Le Bar Sur Loup
-  content: "Le Bar sur Loup est un petit village des Alpes Maritimes. Situé à mi chemin
-    entre la Méditerrané et les montagnes du Mercantour, il se trouve dans les Préalpes
-    d'Azur. Dans un espace vert, entouré de petits sommets et de villages typique,
-    ce petit village est un havre de paix. L'orange est un symbole fort et Bar sur
-    Loup est surnommé la Cité des Orangers.  \nCe village est à 30mn de la mer mais
-    aussi d'Antibes et de Cagne sur Mer. Il se trouve tout prêt également de Gréolières
-    les neiges. Le Mercantour lui, un peu loin, reste tout de même seulement à 1h15
-    de route.  \nEntouré du sommet du Pic des Courmettes, du Puy de Tourrettes, de
-    Naouri, du plateau de Caussol, il est également traversé par le Loup."
+  content: |-
+    Le Bar sur Loup est un petit village médiéval des Alpes Maritimes. Situé à mi-chemin entre la Méditerrané et les montagnes du Mercantour, il se trouve dans les Préalpes d'Azur. Entouré d'un espace vert, de petits sommets et de villages typiques, ce petit village est un havre de paix. L'orange est un symbole fort et Bar sur Loup est surnommé la Cité des Orangers.
+
+    Ce village est à 30mn de la mer mais aussi d'Antibes et de Cagne sur Mer. Il se trouve tout prêt également de Gréolières les neiges. Le Mercantour lui, un peu loin, reste tout de même seulement à 1h15 de route.
+
+    Entouré du sommet du Pic des Courmettes, du Puy de Tourrettes, de Naouri, du plateau de Caussol, il est également traversé par le Loup. Un village perché qui offre une nature d’exception, préservé et protégé. Alternant gorges et cascades, plateaux et cols, sommets et vue panoramique, ce petit village est un coin de paradis pour les activités outdoor.
 published: false
 
 ---
