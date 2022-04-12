@@ -15,9 +15,9 @@ page_sections:
   image_col_right_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643109225/website/summer/1_uga5co.png
   alt_text_for_image: Télécharger le PDF du livre blanc pour débuter le Trail
   captiontitleuppercase: Livre blanc gratuit
-  title: Train Running
-  content: Tout savoir pour bien débuter dans la course Trail (équipement, entrainement,
-    préparation...)
+  title: Trail Running
+  content: Tout savoir pour bien débuter dans le Trail et pour se préparer à sa 1ère
+    course (équipement, entrainement, préparation...)
 - template: textarea
   blockBGcolor: blanc
   title: Tout savoir pour débuter la course TRAIL
