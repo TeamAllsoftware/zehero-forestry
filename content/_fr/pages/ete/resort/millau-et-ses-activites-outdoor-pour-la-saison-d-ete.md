@@ -35,6 +35,31 @@ page_sections:
     et air, ces 3 éléments vous permettent de profiter de la nature à Millau. Entre
     un patrimoine riche culturellement, naturellement et économiquement, découvrez
     cette ville au cœur d'un parc naturel.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649839491/website/resorts/Millau/benjamin-vautier-d5EcyDvTi_I-unsplash.jpg
+  alt_text_for_image: Vue de la nature à Millau et dans le parc des Grands Causses
+  captiontitleuppercase: Millau, capitale sport nature
+  title: Randonner sur les plateau des Causses
+  content: |-
+    Millau est une destination idéale pour tous les amoureux et amateurs de la randonnée et de la marche. Découvrez des centaines de sentiers et des centaines de kilomètres de sentier balisées afin de découvrir le parc naturel régional des Grands Causses. Mais c'est également dans les gorges du Tarn, de la Jonte et de la Dourbie que vous pourrez aussi randonner et découvrir des paysages façonnés par l'eau où la végétation sera incroyable. Partez à la rencontre des troupeaux, des plateaux des causses et ses sommets, des villages troglodytiques, du viaduc de Millau. Vous pourrez également observer les vautours et autres rapaces voler au-dessus de votre tête. Explorez les sentiers du plus grand labyrinthe rocheux d'Europe à Montpellier le Vieux. Il existe énormément de circuits et d'itinérances, tout comme de nombreux GR. Un guide vous permettra de vous faire découvrir ce territoire riche et préservé, de vous apporter toutes les connaissances de cette nature mais également de son histoire.
+
+    Le Trail est une activité très prisée également à Millau. Le festival des Templiers et ses nombreuses courses sont un événement international dans le milieu du trail. Vous pourrez découvrir les nombreux parcours balisés par la ville de Millau mais également partir faire la reconnaissance des différents parcours. Des coins, des lieux où courir sera seulement plaisir et jeu.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Le VTT sera également une activité idéale pour rouler et découvrir l'environnement. Partez rouler sur la grande traversée du massif central ou traverser encore tout le parc naturel régional des Grands Causses ainsi que celui des Cévennes. À Millau, c'est 11 parcours de cross-country qui sont mis à votre disponibilité et pour tous les niveaux de pratique de VTT. Vous découvrirez également 11 parcours enduro à Millau. Pour les amateurs plutôt du bitume, Millau est un endroit parfait également pour rouler à vélo de route et découvrir ses lieux.
+
+    Le parapente est une activité qui est très pratiquée à Millau. Au sommet du Pouncho d’Agast, de Brunas, de Novis, et de la Granède vous permettez de décoller et voler au-dessus de Millau et la nature qui l'entoure. Un moment de plénitude et de contemplation devant une nature sauvage et classée au patrimoine de l'UNESCO.
+
+    Si vous aimez grimper, à Millau vous pourrez partir sur les différentes via ferrata. La Via Ferrata de Boofie qui ne vous laissera pas indifférent par ses passages vertigineux, variés. Un moment sportif pour des sensations fortes garanties.
+
+    Pour les amateurs d'escalades, vous trouverez des milliers de voies dans le parc des Causses et des Cévennes. Un choix large pour tous les niveaux et tous les goûts. Les gorges de la Jonte et de la Dourbie sont réputées pour leurs voies d'escalades. Accompagné d'un guide, vous pourrez vous s'initier à l'escalade dans ce cadre naturel.
+  title: ''
 published: false
 
 ---
