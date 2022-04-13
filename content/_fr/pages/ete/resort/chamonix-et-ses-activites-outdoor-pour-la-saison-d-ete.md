@@ -93,6 +93,12 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  blockBGcolor: blanc
+  title: Mais c'est également des activités d'eau vives
+  content: |-
+    Lacs, torrents, rivières, cascade et gorges vous permettent de pratiquer à Chamonix les différentes activités d'eau vives. Vous pourrez alors vous laisser tenter par une descente en Rafting, en Kayak, en Hydrospeed mais également en canyoning. Vous descendrez alors l'Arve à Chamonix ou plus loin la Dranse et le Griffe. De quoi vous rafraîchir durant l'été et vivre des sensations fortes.
+
+    Chamonix est idéale pour profiter d'un séjour d'activité outdoor. Vous pourrez découvrir ce massif immense et incroyable par différentes façons : randonnée, trail, VTT, vélo de route, alpinisme, escalade, via ferrata. Un guide sera grandement utile afin de découvrir et de comprendre cette nature, cette faune et flore ainsi que tous l'environnement. Vivez des émotions et des sensations fortes à Chamonix. Le Hero en vous se découvrira forcément.
 
 ---
