@@ -75,8 +75,24 @@ page_sections:
 
     Chamonix est également mondialement connue pour le trail running. En effet, l'UTMB est la course mondiale où tous les élites se retrouvent sur différents formats de course mais surtout sur le format de 170km. D'autre évènement tel que le 90km du Mont Blanc et le marathon du Mont Blanc ainsi que le Trail des Aguilles Rouge amènent encore plus de coureurs au sein de Chamonix. Chamonix met à disposition des parcours balisés pour les amoureux de la course à pied en montagne. Avec 500km de sentiers, il y a de quoi faire à Chamonix. Que ce soit pour les débutants, ceux qui veulent s'initier, pour les adeptes ou les experts, prenez une paire de baskets et partez courir.
 
-    Pour les amateurs de VTT, Chamonix est aujourd'hui une destination parfaite pour les différentes pratiques de VTT. Dépassez-vous dans un cadre unique, sur des sentiers qui offriront technicité, engagement pour les plus téméraires. Entre des sentiers de montagne, de forêts, près des lacs, vous découvrirez un large choix d'itinéraires. Partez randonner pour découvrir les points de vue les plus remarquables. Pour les familles, vous pouvez également être accompagné d'une guide et rouler en VTT Electrique. Offrez-vous des descentes incroyables et remontées en télécabines. Vous trouverez de nombreuses écoles de VTT et de shops de location de VTT qui vous offriront leurs services.
+    Pour les amateurs de VTT, Chamonix est aujourd'hui une destination parfaite pour les différentes pratiques de VTT. Dépassez vous dans un cadre unique, sur des sentiers qui offriront technicité, engagement pour les plus téméraires. Entre des sentiers de montagne, de forêts, près des lacs, vous découvrirez un large choix d'itinéraires. Partez randonner pour découvrir les points de vue les plus remarquables. Pour les familles, vous pouvez également être accompagné d'une guide et rouler en VTT Electrique. Offrez-vous des descentes incroyables et remontées en télécabines. Vous trouverez de nombreuses écoles de VTT et de shops de location de VTT qui vous offriront leurs services. Il existe des restrictions sur les chemins où les randonneurs se promènent, il est alors important de se renseigner ou de partir avec un guide VTT de Chamonix.
   title: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649831398/website/resorts/Chamonix/dash-kadam-puLcQd2l8kE-unsplash.jpg
+  alt_text_for_image: Chamois devant la vallée de Chamonix
+  captiontitleuppercase: Grimper et s'envoler
+  title: L'escalade, le parapente et l'alpinisme
+  content: |-
+    Chamonix est un lieu où énormément de grimpeurs se retrouvent. Avec sa roche solide et compacte, vous découvrirez des kilomètres de voies. Il y a également des sites pour escalader, afin de découvrir cette pratique, progresser et se perfectionner parfois avant de partir dans des longues voies plongées aux cœurs du massif du Mont Blanc. On retrouve le site d'escalade de Chavants, de Gaillands, de la Joue et bien d'autres voies. Vous pourrez également aller grimper à Houches dans la salle d'escalade Indoor. Avec guide, vous pourrez découvrir des voies adaptées à votre niveau, dans des paysages grandioses.
+
+    Le parapente est également une activité répandue à Chamonix. Quoi de mieux que de voler face au Mont Blanc, de voir tous les massifs du Mont Blanc devant soient, ses crêtes, ses pics élevés vers le ciel, ses paysages glaciaires. Un baptême que vous ne pourrez oublier. Vous trouverez de nombreuses écoles de parapente qui vous permettront de voler ou de réaliser un stage afin d’être autonome.
+
+    L'alpinisme à Chamonix, c'est comme le surf à Hossegor, c'est l'activité phare. Outre l'ascension du Mont Blanc, le choix de courses et d'itinéraires est incroyable. Que vous soyez totalement novices, amateurs ou expert, l'alpinisme s'ouvre à vous. L'alpinisme c'est plusieurs façons de grimper la montagne, que ce soit en escaladant, en randonnant sur les glaciers. Partez avec un guide qui vous emmènera découvrir le cœur de ce massif alpin. Dormez en refuge, profitez d'un lever de soleil et partez vivre un moment dont vous n'oublierez jamais.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
