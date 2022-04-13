@@ -41,6 +41,42 @@ page_sections:
     massif du Mont Blanc. Des paysages grandioses, des accès à la haute montagne et
     dans la nature, un choix incroyable d'activité tout en ayant une ville développée
     et attractive.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649831464/website/resorts/Chamonix/patrick-janser-89cATnMSEKY-unsplash_1.jpg
+  alt_text_for_image: Randonneurs en montagne à coté d'un lac
+  captiontitleuppercase: S'émerveiller devant le massif du Mont Blanc
+  title: Randonner, courir et grimper
+  content: À Chamonix, c’est le paradis pour randonner, courir et grimper, et bien
+    plus encore. Pour les amateurs et les amoureux de la randonnée, c’est le lieu
+    idéal. Ici on découvre un milieu qui offre la moyenne montagne ainsi que la haute
+    montagne. Entre les sommets vertigineux, ses glaciers, ses rivières, ses lacs
+    et ses cascades mais aussi ses plaines, sa faune et sa flore incroyable, randonner
+    à Chamonix, c’est un choix énorme de sentier, de circuit, d’ascension. Que ce
+    soit à la journée, pour quelques jours en bivouac ou en itinérance, vous trouverez
+    votre bonheur partout où vous irez. Les plus sportifs se lancent souvent dans
+    cette randonnée incroyable qui est le tour du Mont Blanc, le tour des Aiguilles
+    Rouges. Vous découvrez une variété de lacs magiques tel que le lac Blanc, les
+    lacs de Chéserys, le lac Bleu, le lac Cornu et les Lacs Noirs. Vous pourrez parfois
+    prendre une remontée afin de vous avancer plus près, pour une randonnée plus douce.
+    Vous pourrez découvrir et vous approcher de la mer de glace. À Chamonix, le choix
+    de randonnée est tellement varié qui est préférable de prendre un accompagnateur.
+    Il pourra pour emmener sur les sentiers en vous expliquant tous les secrets de
+    la montagne, sa flore mais également vous faire découvrir ses chamois, ses bouquetins,
+    ses rapaces et ses rongeurs.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Partez en famille, entre amis, en couple ou seul afin de découvrir la montagne de Chamonix. Il y en a pour tous et le choix est si varié que vous pourrez randonner tous les jours sans passer une fois au même endroit.
+
+    Chamonix est également mondialement connue pour le trail running. En effet, l'UTMB est la course mondiale où tous les élites se retrouvent sur différents formats de course mais surtout sur le format de 170km. D'autre évènement tel que le 90km du Mont Blanc et le marathon du Mont Blanc ainsi que le Trail des Aguilles Rouge amènent encore plus de coureurs au sein de Chamonix. Chamonix met à disposition des parcours balisés pour les amoureux de la course à pied en montagne. Avec 500km de sentiers, il y a de quoi faire à Chamonix. Que ce soit pour les débutants, ceux qui veulent s'initier, pour les adeptes ou les experts, prenez une paire de baskets et partez courir.
+
+    Pour les amateurs de VTT, Chamonix est aujourd'hui une destination parfaite pour les différentes pratiques de VTT. Dépassez-vous dans un cadre unique, sur des sentiers qui offriront technicité, engagement pour les plus téméraires. Entre des sentiers de montagne, de forêts, près des lacs, vous découvrirez un large choix d'itinéraires. Partez randonner pour découvrir les points de vue les plus remarquables. Pour les familles, vous pouvez également être accompagné d'une guide et rouler en VTT Electrique. Offrez-vous des descentes incroyables et remontées en télécabines. Vous trouverez de nombreuses écoles de VTT et de shops de location de VTT qui vous offriront leurs services.
+  title: ''
 published: false
 
 ---
