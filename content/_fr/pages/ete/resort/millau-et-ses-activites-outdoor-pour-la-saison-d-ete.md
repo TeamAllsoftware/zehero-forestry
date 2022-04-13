@@ -60,6 +60,30 @@ page_sections:
 
     Pour les amateurs d'escalades, vous trouverez des milliers de voies dans le parc des Causses et des Cévennes. Un choix large pour tous les niveaux et tous les goûts. Les gorges de la Jonte et de la Dourbie sont réputées pour leurs voies d'escalades. Accompagné d'un guide, vous pourrez vous s'initier à l'escalade dans ce cadre naturel.
   title: ''
-published: false
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649842562/website/resorts/Millau/thomas-de-luze-8x0THHJguiY-unsplash.jpg
+  alt_text_for_image: Image du ciel des gorges du Tarn
+  captiontitleuppercase: Millau, bonheur pour les activités d'eau vives
+  title: Eaux Vives
+  content: |-
+    Millau c'est une ville idéale pour les pratiques en eau vives. Entre les gorges du Tarn et les gorges de la Dourbie, les différentes activités d'eau vives à Millau seront variées.
+
+    Partez descendre en Rafting et profiter d'un moment en groupe pour partager des sensations fortes en équipe. Pagayez à deux ou tout seul en canoë-kayak pour des randonnées douces ou très sportives en fonction des rapides et de la force de la rivière. Un moyen parfait pour découvrir l'environnement et les paysages, tout en se dépassant physiquement. Vous pourrez également pratiquer l'Hydrospeed, pour un moment encore plus près de l'eau et des courants pour ne faire qu'un avec la rivière.
+
+    Le canyoning et la randonnée aquatique sont également très pratiqué à Millau. Des canyons réputés pour tous les niveaux que vous pourrez découvrir dans les environs de Millau. Découvrez le canyoning du Tapoul, de Bramabiau. Dans la Haute Dourbie, vous pourrez également découvrir le canyon sans matériel pour les personnes préférant s'initier sans obstacles dans cette activité.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Capitale du sport nature, avec toutes ses activités diverses, vous pourrez bénéficier à Millau de toutes les activités outdoors pour un séjour sportif et ludique.
+
+    Randonnée, trail, eaux vives, escalade, parapente, vélo et VTT, toutes ces activités sont à vos pieds et directement disponible. Millau c'est aussi le Naturel Games, un rendez-vous international de toutes ces activités outdoors.
+
+    Un séjour à Millau, c’est séjourner dans une ville au patrimoine historique incroyable dans une nature préservé et magique.
+  title: ''
 
 ---
