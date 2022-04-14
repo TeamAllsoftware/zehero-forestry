@@ -24,7 +24,17 @@ image01_alt: Image du Pont du Gard avec des canoë Kayak devant sur le Gard
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité dans le Gard
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor
-page_sections: []
+page_sections:
+- template: textarea
+  blockBGcolor: blanc
+  title: Le Gard 30
+  content: Le Gard est un département situé dans la région d'Occitanie dans le sud
+    de la France. Sa rivière "le Gard" le traverse sur sa partie Est du département.
+    Nîmes, Uzès, Alès, Le Grau du Roi et Bagnols sur Cèze sont des les principales
+    villes qui composent ce département du Sud Est de la France. Situé entre la mer
+    Méditerranée ainsi que plus plusieurs parcs naturels tel que les Cévennes, l'Ardèche,
+    et la Camargue, le Gard regorge de milieu naturel d'exception. Vous découvrirez
+    une variété de paysages surprenants et préservé
 published: false
 
 ---
