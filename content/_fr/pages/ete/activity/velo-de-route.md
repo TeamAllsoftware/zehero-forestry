@@ -27,6 +27,10 @@ page_sections:
     sur des routes sauvages, vous trouverez des itinéraires magnifiques et surprenants."
   title: Le vélo de route
   blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234200/website/assets/Recadr%C3%A9es/veloroute.png
+  alt_text_for_image: Velo de route sur bitume
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642669650/website/summer/mizzi-westphal-LIdAmXo7eqA-unsplash_c7pfwz.jpg
   captiontitleuppercase: Partager un moment sur la route
@@ -43,7 +47,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Une activité partout en France
   content: |-

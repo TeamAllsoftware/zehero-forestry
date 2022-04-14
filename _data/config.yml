@@ -4,7 +4,7 @@ site_logo_white: https://res.cloudinary.com/deddrj0yb/image/upload/v1641893182/w
 site_logo_brown: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-sans-slogan_7_navyp9.png
 site_logo_black: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/website/logo/Sur%20fond%20fonce%CC%81/logo-ze-hero-sans-slogan_9_nj7apy.png
 
-phonenumber: (+33) 4 79 01 49 99
+phonenumber: (+33) 4 79 01 49 99 
 
 site-color: green
 site-color2: radical-red
@@ -14,14 +14,14 @@ og_url: https://www.ze-hero.com
 
   #social networks (3 max)
 socials:
-  - title: Facebook
-    facebook_username: https://www.facebook.com/Zehero73/
+  facebook:
+    username: https://www.facebook.com/Zehero73/
     icon: fab fa-facebook-square
-  - title: Linkedin
-    linkedin_username:  https://www.linkedin.com/company/ze-hero-outdoor/
+  linkedin:
+    username:  https://www.linkedin.com/company/ze-hero-outdoor/
     icon: fab fa-linkedin
-  - title: Instagram
-    instagram_username: https://www.instagram.com/zehero_officiel/
+  instagram:
+    username: https://www.instagram.com/zehero_officiel/
     icon: fab fa-instagram
 
 #languages

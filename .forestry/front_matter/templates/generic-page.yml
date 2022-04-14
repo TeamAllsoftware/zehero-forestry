@@ -109,6 +109,7 @@ fields:
   - heroImageTitle01
   - heroImageFull
   - heroImage50percentHigh
+  - formDownload
   - textarea
   - 2colimgtxt
   - 2coltxtimg
@@ -134,3 +135,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- content/_fr/pages/various/divers/landing-livreBlanc-trail.md

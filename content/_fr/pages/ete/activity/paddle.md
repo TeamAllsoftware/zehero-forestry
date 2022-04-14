@@ -26,6 +26,11 @@ page_sections:
     * Le yoga
     * Des compétitions de rapidité
     * Le paddle surf
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234225/website/assets/Recadr%C3%A9es/paddle.png
+  alt_text_for_image: Planche de paddle sur l'eau
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/hanif-mahmad-CbMLzxrvwcg-unsplash_ugwttz.jpg
   captiontitleuppercase: Se promener en se musclant
@@ -43,7 +48,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Une activité pour tous
   content: "Le paddle, quelque soit le lieu de pratique, sera praticable par tout
@@ -57,6 +62,7 @@ page_sections:
     de mieux que d'être au soleil, à ramer et en profitant de la nature et des panoramas.
     Faites de vos entraînements une pratique ludique, agréable et magnifique à la
     fois."
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643121215/website/summer/reynzo-u5vx3Ke0_RM-unsplash_korw9x.jpg
   captionabovetitle: La polyvalence sur eau
@@ -89,6 +95,7 @@ page_sections:
     de St Croix ou encore de Serre Ponçons.  \nOn retrouve aujourd'hui des compétitions
     de paddle sur les rivières, les lacs et la mer en été comme hiver.\n\nÉvadez-vous
     en paddle, musclez-vous, aérez-vous, randonnez et profitez."
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:

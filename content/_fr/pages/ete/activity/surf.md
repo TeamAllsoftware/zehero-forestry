@@ -32,6 +32,11 @@ page_sections:
     au niveau de ces éléments.\n\nC'est une activité de glisse qui demande une bonne
     condition physique, de l'équilibre et une connaissance spécifique de l'environnement
     dans lequel on évolue."
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
+  alt_text_for_image: Equipement de surf
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642605798/website/summer/victoria-palacios-scIXeTCipZA-unsplash_dhmqlq.jpg
   captiontitleuppercase: Le surf pour tout le monde
@@ -51,7 +56,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Plusieurs surfeurs surfant une vague
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: "Vous pourrez alors faire des cours collectifs ou des cours privés. Les
     cours collectifs seront moins chers, mais le moniteur ne sera pas 100% dédié à
@@ -70,6 +75,7 @@ page_sections:
     vous commencerez à essayer de prendre les vagues qui se forment plus au large
     et de bien réussir son départ sur la vague."
   title: ''
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1641562732/website/summer/cedric-frixon-G9Rfc1qccH4-unsplash_gr8ksg.jpg
   captionabovetitle: Glissez sur l'eau
@@ -100,12 +106,17 @@ page_sections:
     * **Longboard** : c'est le surf le plus grand mesurant de 8 à 12'. Il permet de se déplacer sur la planche et d'avoir un surf plus doux
     * **Fish** est une board petite mais large, parfaite pour des vagues pas très grandes mais pour réaliser un panel de figures.
     * **Guns** sont des planches conçues surtout pour des vagues grosses et grandes. Elles sont donc dédiées aux surfeurs expérimentés.
+  blockBGcolor: ''
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
     text_button: Réserver maintenant >
   intro: Réservez dès maintenant vos activités surf
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238781/website/assets/Personnages%20poses/Poses%20format%20large/Surf.png
+  alt_text_for_image: 'Personnage faisant du surf '
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:

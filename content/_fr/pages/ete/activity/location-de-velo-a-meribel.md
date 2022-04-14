@@ -28,6 +28,11 @@ page_sections:
     le Cormet de Roseland, le col de la Madelaine, le col du Petit St Bernard...  \nQue
     vous soyez entre amis, seul ou en famille, vous trouverez des balades en vélo
     de route pour tout le monde, pour tous les niveaux."
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234200/website/assets/Recadr%C3%A9es/veloroute.png
+  alt_text_for_image: Velo de route sur bitume
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/51384836504_bff6429438_k_mkw8t9.jpg
   alt_text_for_image: Cycliste roulant sur son vélo à Méribel devant un peloton de
@@ -47,7 +52,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: La location de VTT à Méribel
   content: Méribel est une station incontournable pour le VTT. Que ce soit pour de
@@ -59,6 +64,7 @@ page_sections:
     en parcourant des chemins et en vivant des sensations fortes dans les descentes.
     Que ce soit pour une pratique ludique, sportive, sensationnelle ou freestyle,
     vous trouverez votre VTT à Méribel.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644221274/website/V%C3%A9lo/42919315385_3bbf12f38e_k_l9gbrx.jpg
   alt_text_for_image: 3 personnes faisant du VTT et descendant une piste de VTT à
@@ -80,6 +86,7 @@ page_sections:
 
     Si vous séjournez à Méribel, que vous souhaitez découvrir le vélo de route ou le VTT, que vous êtes un amateur, vous trouverez différents magasins de location de vélo de route et de VTT.
   title: ''
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:

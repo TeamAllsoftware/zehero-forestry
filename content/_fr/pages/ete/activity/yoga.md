@@ -27,6 +27,11 @@ page_sections:
     respiration. Aujourd'hui vous pouvez trouver des séances de Yoga qui vont se dérouler
     dans des cadres idylliques tels qu'à la mer, en montagne, en forêt afin de vous
     plonger dans un moment de plénitude.
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195881/website/assets/Recadr%C3%A9es/yoga.png
+  alt_text_for_image: Matériel de Yoga
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643877189/website/summer/amauri-mejia-n5trbdfW7fM-unsplash_cdxg7l.jpg
   alt_text_for_image: Personne faisant du Yoga dans une forêt faisant un étirement
@@ -49,7 +54,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: |-
     On va retrouver alors différents types de Yoga pour différentes pratiques et variant selon les personnes.
@@ -63,6 +68,7 @@ page_sections:
 
     Il en existe encore d'autre, mais voici une première approche des différentes pratiques de Yoga.
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643877189/website/summer/damir-spanic-JFl-QLawHX4-unsplash_io99av.jpg
   alt_text_for_image: Homme assis en tailleur avec les mains collées faisant du Yoga

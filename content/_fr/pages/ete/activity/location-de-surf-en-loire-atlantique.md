@@ -31,6 +31,11 @@ page_sections:
     * Guérande
 
     Selon où séjournez pour [surfer](https://www.ze-hero.com/fr/ete/activites/surf), vous pourrez donc louer votre matériel dans ces différents lieux de la Loire Atlantique.
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
+  alt_text_for_image: Planche de surf sur l'eau
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643807238/website/summer/paje-victoria-FXB79QuRX3M-unsplash_nupdzn.jpg
   alt_text_for_image: Plusieurs planches de surf alignés les unes derrières les autres
@@ -46,7 +51,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Location de surf pour tout le monde
   content: "Les vendeurs et les gérants des shops et des écoles seront là pour vous
@@ -55,6 +60,7 @@ page_sections:
     \ \nLa location de surf peut se faire avec différentes formules :\n\n* Location
     de surf par heure \n* Location de surf demi-journée ou journée\n* Location de
     surf pour plusieurs jours ou la semaine entière"
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643808647/website/summer/blake-hunter-p01IGh_HxtM-unsplash_hyknra.jpg
   alt_text_for_image: Surfeur marchant sur la planche en portant sa planche avec une

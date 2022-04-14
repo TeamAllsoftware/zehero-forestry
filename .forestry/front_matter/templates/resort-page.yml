@@ -188,25 +188,32 @@ fields:
   - newsletter
   - video2colImgTxt
   - separatorLine
+  - heroImageFull
   config:
     min: 
     max: 
 pages:
 - content/_fr/pages/ete/resort/alpe-d-huez-et-ses-activites-pour-la-saison-d-ete.md
+- content/_fr/pages/ete/resort/chamonix-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/hossegor-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/l-aveyron-et-ses-activites-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/l-isere-38.md
 - content/_fr/pages/ete/resort/la-corse-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/la-haute-savoie-74.md
+- content/_fr/pages/ete/resort/le-bar-sur-loup-et-ses-activites-outdoor-pour-la-saison-d-ete.md
+- content/_fr/pages/ete/resort/le-gard-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/le-pays-basque-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/les-alpes-maritimes.md
 - content/_fr/pages/ete/resort/les-landes-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/les-menuires-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/messanges-et-ses-activites-outdoor-pour-la-saison-d-ete.md
+- content/_fr/pages/ete/resort/millau-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/mimizan-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/moliets-et-maa-et-ses-activites-outdoor-pour-la-saison-d-ete.md
+- content/_fr/pages/ete/resort/porge-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/savoie.md
 - content/_fr/pages/ete/resort/seignosse-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/st-brevin-les-pins-et-ses-activites-pour-la-saison-d-ete.md
+- content/_fr/pages/ete/resort/thonon-les-bains-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/val-d-isere-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/val-thorens-et-ses-activites-outdoor-pour-la-saison-d-ete.md

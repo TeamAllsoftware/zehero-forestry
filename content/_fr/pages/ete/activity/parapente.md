@@ -24,6 +24,11 @@ page_sections:
     mémorable en volant au-dessus des montagnes ou des lacs, vous verrez le paysage
     différemment avec des sensations inédites. Laissez-vous porter et guider en profitant
     d'une vue magnifique et des rayons du soleil.
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195885/website/assets/Recadr%C3%A9es/parapente.png
+  alt_text_for_image: Parapente posé sur le sol
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010435/website/summer/juliette-g-jX61Kll0Q5g-unsplash_1_pjksgv.jpg
   captiontitleuppercase: Un baptême en parapente inoubliable
@@ -43,7 +48,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Le déroulement d'un vol en biplace
   content: "Il faudra alors s'habiller en fonction de la météo et de la température.
@@ -59,6 +64,7 @@ page_sections:
     en position debout et courir avec le moniteur. Pour atterrir en douceur, il est
     primordial de tenir fermement sur vos jambes. L'ensemble des ces consignes vous
     seront évidemment données par l'instructeur."
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643010436/website/summer/pablo-heimplatz-R4679uf28lY-unsplash_ysyjkx.jpg
   captionabovetitle: Le parapente, pour tout le monde
@@ -78,6 +84,10 @@ page_sections:
   prlax_alt_text_for_image: 'Vol en biplace de parapente lors d''un décollage en montagne '
   grid_1_alt_text_for_image: Parapentiste volant en parapente dans le ciel
   grid_2_alt_text_for_image: Parapentiste volant en parapente prêt d'une falaise
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649246849/website/assets/Personnages%20poses/Poses%20format%20large/Parapente_Pose.png
+  alt_text_for_image: Personnage avec parapente au sol
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:

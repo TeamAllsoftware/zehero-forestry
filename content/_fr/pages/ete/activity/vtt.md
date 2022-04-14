@@ -6,7 +6,7 @@ topnav_color_text: dark
 title: VTT
 permalink: "/fr/ete/activites/vtt"
 redirect_from:
-  - "/fr/ete/activite/vtt"
+- "/fr/ete/activite/vtt"
 meta-title: Sortie VTT pour découvrir de nouveaux horizons
 meta-description: Pratiquez le VTT pour découvrir des paysages, vivre des descentes
   sensationnelles à travers la nature.
@@ -29,6 +29,10 @@ page_sections:
     mécaniques à vélo.
   title: ''
   blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234241/website/assets/Recadr%C3%A9es/vtt.png
+  alt_text_for_image: VTT au milieu de la forêt
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/tim-foster-qrIy8dBzCVU-unsplash_t0p4kh.jpg
   captiontitleuppercase: S'aventurer sur tous les chemins
@@ -53,7 +57,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Pour qui ?
   content: "Le VTT se pratique dès 6 ans et c'est une activité qui est ouverte à tout

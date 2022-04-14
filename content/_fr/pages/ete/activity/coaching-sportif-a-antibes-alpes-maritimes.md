@@ -28,6 +28,10 @@ page_sections:
 
     Vous pouvez donc choisir entre réaliser le [**coaching à domicile**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=) ou en [**extérieur**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=). À Antibes et dans les Alpes Maritimes, on profite généralement du soleil et de la température idéale (même en hiver !). Vous trouverez différents lieux idéals pour retrouver un coach et vous **entraîner**. Que ce soit pour **courir**, pour faire de la **musculation** ou du **renforcement musculaire**, il y a de nombreux espaces propices à la pratique. Et surtout, vous pourrez profiter d’un cadre idyllique entre mer et montagnes.
   blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649236206/website/assets/Recadr%C3%A9es/coaching.png
+  alt_text_for_image: Matériel coaching sportif
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294098/website/Coaching/IMG_20201022_150218_ek4t5r.jpg
   alt_text_for_image: Coureur courant dans un coaching sportif sur le littotal d'Antibes
@@ -44,7 +48,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Que faire et comment choisir son coach sportif à Antibes ?
   content: |-

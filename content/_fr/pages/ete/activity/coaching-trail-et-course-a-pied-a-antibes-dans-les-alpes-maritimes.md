@@ -26,6 +26,7 @@ page_sections:
     sein d’un groupe d’entraînement, Ze Hero va proposer, par ses coachs de course
     à pied, différentes séances de trail et de running.
   title: Coaching trail et course à pied à Antibes
+  blockBGcolor: ''
 - template: textarea
   content: "Retrouvez des séances de coaching en groupe à Antibes et dans les Alpes
     Maritimes pour vos entraînement de course à pied spécifique.  \nTous les lundis,
@@ -37,6 +38,11 @@ page_sections:
     de course à pied tels que :\n\n* VMA courte // moyenne // longue\n* Seuil\n* Renforcement
     musculaire\n* Circuit Training\n* Travaille de pied, gammes, proprioception"
   title: Coaching en groupe
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
+  alt_text_for_image: 'Equipement trail '
 - template: 2colimgtxt
   content: Toutes ces spécificités seront travaillées durant ces séances. Que ce soit
     pour de la course sur route, pour du trail court ou long, ce sont des séances
@@ -53,7 +59,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Coach sportif courant dans les escaliers du fort carré à Antibes
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: Des sorties “[**endurance trail**](https://shop.ze-hero.com/activites-Outdoor/Coaching/16010-esterel-83-trail-sortie-longue-mercredi-apres-midi-3h-activite-ze-hero)”
     sont aussi programmées tous les mercredis après-midi dans le massif de l’Estérel
@@ -63,6 +69,7 @@ page_sections:
     à des compétitions de Trail. Les Alpes Maritimes offrent un espace incroyable
     pour la course à pied et la pratique du trail running.
   title: Endurance Trail
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294096/website/Coaching/IMG_20190920_072615_spnlrf.jpg
   captiontitleuppercase: Trail et endurance
@@ -89,6 +96,11 @@ page_sections:
     Si vous préparez des compétitions, des objectifs de temps et de distance. Si vous voulez établir un calendrier annuel de vos compétitions de trail ou de course à pied, il est alors important **d’échanger** avec le coach. Cela déjà dans le but du travail à effectuer sur les séances de course à pied proposées, mais aussi afin d’avoir une **planification** cohérente.
 
     N’hésitez pas à **contacter** le coach afin d’échanger avec lui sur vos compétences, vos désirs, vos faiblesses. Il pourra également mettre en place, pendant les cours, une **attention** particulière à ces différents aspects.
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238382/website/assets/Personnages%20poses/Trail_Running.png
+  alt_text_for_image: Personnage en tenue de trail
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:

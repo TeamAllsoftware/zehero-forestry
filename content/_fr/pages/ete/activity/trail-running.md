@@ -6,11 +6,11 @@ topnav_color_text: dark
 title: Trail Running
 permalink: "/fr/ete/activites/trail-running"
 redirect_from:
-  - "/fr/itineraire-trail-alpes-maritimes/"
-  - "/fr/trail-progresser-montee-descente/"
-  - "/fr/faire-du-fractionne-en-trail/"
-  - "/fr/course-trail/"
-  - /fr/ete/activite/trail-running
+- "/fr/itineraire-trail-alpes-maritimes/"
+- "/fr/trail-progresser-montee-descente/"
+- "/fr/faire-du-fractionne-en-trail/"
+- "/fr/course-trail/"
+- "/fr/ete/activite/trail-running"
 meta-title: Le trail, une activité outdoor à pratiquer en montagne, forêt...
 meta-description: Profitez de sortie de Trail Running pour découvrir la nature et
   vous perfectionner dans ce sport.
@@ -27,6 +27,11 @@ page_sections:
 
     Le trail est une pratique sportive de course à pied qui se trouve en nature et quelques fois dans la ville (urbain trail). Quel que soit le parcours, il présentera du dénivelé. C'est-à-dire que vous trouverez des montées et des descentes, ce que l'on nomme le D+.
   title: Le trail running
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
+  alt_text_for_image: Equipement de trail
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200627_075555_ocn4rk.jpg
   captiontitleuppercase: Partir s'évader
@@ -43,7 +48,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Pour le plaisir et aussi la compétition
   content: Le trail, c'est une activité que l'on fait pour le plaisir, pour soi, pour
@@ -52,6 +57,7 @@ page_sections:
     de se dépasser soi-même avec l'émulsion des participants et parfois des parcours
     uniques et magnifiques. La compétition en trail est un moyen de fixer ses propres
     objectifs.
+  blockBGcolor: ''
 - template: liststyle01
   title: Les différentes courses
   item:
@@ -86,6 +92,7 @@ page_sections:
 
     La pratique du trail comporte un équipement spécifique par ses chaussures de trail, ses vêtements techniques et légers, ses sacs à dos d'hydratation, le port de bâtons pour ceux qui le souhaitent etc.
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200809_090044_skturv.jpg
   captiontitleuppercase: Le plaisir d'épingler le dossard
@@ -106,6 +113,7 @@ page_sections:
 
     Vous pourrez également participer à des [sorties de trail longues](https://www.ze-hero.com/fr/ete/activites/coaching-course-a-pied-trail-antibes-alpes-maritimes). Elles permettront de découvrir un lieu, un environnement avec un groupe.
   title: Etre encadré
+  blockBGcolor: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg
   captionleftcontent: Soyez le Hero, courez et découvrez de nouveau horizon
@@ -120,6 +128,10 @@ page_sections:
   button:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     text_button: Réserver maintenant >
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238382/website/assets/Personnages%20poses/Poses%20format%20large/Trail_Running.png
+  alt_text_for_image: Personnage célébrant son trail
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
