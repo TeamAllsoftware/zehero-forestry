@@ -12,7 +12,7 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Le Tarn et ses activités outdoor pour la saison d'été
-page_title: Le Tarn, beau et chaleureu
+page_title: Le Tarn, beau et chaleureux
 baseline: Grands espaces
 resort_nameid: le_tarn
 resort_naming: Le Tarn
@@ -23,7 +23,21 @@ image01_alt: Eglise de pierre dans la nature dans le Tarn
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité dans le Tarn
   url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor
-page_sections: []
+page_sections:
+- template: textarea
+  blockBGcolor: blanc
+  title: Le Tarn
+  content: Le Tarn est un département situé dans la région de l'Occitanie. Situé au
+    Sud de la France, il est entouré par l'Aveyron, la Haute-Garonne, l'Hérault et
+    l'Aude. Ces principales villes sont Albi, Castres et Gaillac. Dans le Tarn, on
+    y trouve des monuments historiques, des sites classés au patrimoine de l'UNESCO,
+    les plus beaux villages de France ainsi qu'une nature d'exception et de grandes
+    réserves naturelles. Un département qui offre la possibilité de s'évader. Découvrez
+    ses villages perchés tel que Cordes. Le Tarn, c'est profiter de sa rivière, de
+    ses grands espaces et sites naturels pour flâner, randonner et pratiquer diverses
+    activités natures. Que ce soit seul, en famille ou entre amis, le Tarn vous s'émerveillera
+    par sa beauté, son calme et son ambiance chaleureuse.
+code_postal: ''
 published: false
 
 ---
