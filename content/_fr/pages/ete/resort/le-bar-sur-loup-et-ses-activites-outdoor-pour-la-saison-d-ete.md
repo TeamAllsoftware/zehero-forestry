@@ -49,7 +49,7 @@ page_sections:
 - template: heroImageFull
   top: non
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649923328/website/resorts/Le%20Bar%20sur%20Loup/Screenshot_3.jpg
-  gradient: Grad
+  gradient: grad
   headline:
     title: Réservez votre activité Trail
     color: white
