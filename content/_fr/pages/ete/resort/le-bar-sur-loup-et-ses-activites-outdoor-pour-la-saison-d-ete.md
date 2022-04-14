@@ -27,9 +27,9 @@ page_sections:
   blockBGcolor: blanc
   title: Le Bar Sur Loup
   content: |-
-    Le Bar sur Loup est un petit village médiéval des Alpes Maritimes. Situé à mi-chemin entre la Méditerrané et les montagnes du Mercantour, il se trouve dans les Préalpes d'Azur. Entouré d'un espace vert, de petits sommets et de villages typiques, ce petit village est un havre de paix. L'orange est un symbole fort et Bar sur Loup est surnommé la Cité des Orangers.
+    Le Bar sur Loup est un petit village médiéval des [Alpes Maritimes](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes). Situé à mi-chemin entre la Méditerrané et les montagnes du Mercantour, il se trouve dans les Préalpes d'Azur. Entouré d'un espace vert, de petits sommets et de villages typiques, ce petit village est un havre de paix. L'orange est un symbole fort et Bar sur Loup est surnommé la Cité des Orangers.
 
-    Ce village est à 30mn de la mer mais aussi d'Antibes et de Cagne sur Mer. Il se trouve tout prêt également de Gréolières les neiges. Le Mercantour lui, un peu loin, reste tout de même seulement à 1h15 de route.
+    Ce village est à 30mn de la mer mais aussi [d'Antibes ](https://www.ze-hero.com/fr/ete/destinations/antibes)et de Cagne sur Mer. Il se trouve tout prêt également de Gréolières les neiges. Le Mercantour lui, un peu loin, reste tout de même seulement à 1h15 de route.
 
     Entouré du sommet du Pic des Courmettes, du Puy de Tourrettes, de Naouri, du plateau de Caussol, il est également traversé par le Loup. Un village perché qui offre une nature d’exception, préservé et protégé. Alternant gorges et cascades, plateaux et cols, sommets et vue panoramique, ce petit village est un coin de paradis pour les activités outdoor.
 - template: 2colimgtxt
@@ -76,5 +76,11 @@ page_sections:
     Le Bar sur Loup est un petit village parfait si vous désirez pratiquer de multiples activités outdoor, vous laissez tenter par le canyoning, de la randonnée, du trail et du parapente. Vous pourrez également grimper les différents cols des alentours à vélo.
 
     Ici, Ze Hero est implanté en mettant en place à Bar sur Loup ses différentes offres de Canyoning mais également de trail et de randonnée.
+- template: cta
+  intro: Réservez vos activités à Le Bar sur Loup
+  button:
+    text_button: Réserver maintenant >
+    href_button: https://shop.ze-hero.com/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  headline: Trail, Canyoning, Randonnée et Escalade
 
 ---
