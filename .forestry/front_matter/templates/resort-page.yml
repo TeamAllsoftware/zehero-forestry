@@ -188,6 +188,7 @@ fields:
   - newsletter
   - video2colImgTxt
   - separatorLine
+  - heroImageFull
   config:
     min: 
     max: 
