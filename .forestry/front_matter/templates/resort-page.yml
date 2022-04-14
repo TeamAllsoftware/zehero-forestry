@@ -69,6 +69,19 @@ fields:
     required: true
   label: Resort name
   description: 'Same as Resort id (ex: alpe_huez) but readable (ex: l''Alpe d''huez)'
+- name: code_postal
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Code postal
+  description: Quel est le code postal de cette destination ?
 - name: permalink
   type: text
   config:
