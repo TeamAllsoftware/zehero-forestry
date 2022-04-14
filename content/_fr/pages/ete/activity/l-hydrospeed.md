@@ -15,8 +15,8 @@ engage: 'Découvrez la nage en rivière             '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785335-DSC_4439.jpg
 image01_alt: Personne faisant de l'hydrospeed dans la rivière de la Dranse
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Réservez votre activité d'Hydrospeed
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hydrospeed&start-date=
 page_sections:
 - template: textarea
   blockBGcolor: blanc

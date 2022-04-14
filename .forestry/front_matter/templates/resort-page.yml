@@ -69,6 +69,19 @@ fields:
     required: true
   label: Resort name
   description: 'Same as Resort id (ex: alpe_huez) but readable (ex: l''Alpe d''huez)'
+- name: code_postal
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Code postal
+  description: Quel est le code postal de cette destination ?
 - name: permalink
   type: text
   config:
@@ -203,6 +216,7 @@ pages:
 - content/_fr/pages/ete/resort/le-bar-sur-loup-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/le-gard-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/le-pays-basque-et-ses-activites-outdoor-pour-la-saison-d-ete.md
+- content/_fr/pages/ete/resort/le-tarn-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/les-alpes-maritimes.md
 - content/_fr/pages/ete/resort/les-landes-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/les-menuires-et-ses-activites-outdoor-pour-la-saison-d-ete.md
