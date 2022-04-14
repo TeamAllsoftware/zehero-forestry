@@ -46,6 +46,20 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: heroImageFull
+  top: non
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649923328/website/resorts/Le%20Bar%20sur%20Loup/Screenshot_3.jpg
+  gradient: Grad
+  headline:
+    title: Réservez votre activité Trail
+    color: white
+  Button1:
+    title: Sorties Trail pour tous les niveaux
+    link: https://shop.ze-hero.com/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  button_2_more: false
+  Button2:
+    title: ''
+    link: ''
 - template: textarea
   blockBGcolor: blanc
   content: |-
