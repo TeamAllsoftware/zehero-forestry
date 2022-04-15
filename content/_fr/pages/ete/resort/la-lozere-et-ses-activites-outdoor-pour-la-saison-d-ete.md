@@ -67,6 +67,30 @@ page_sections:
 
     En Lozère on peut également randonner à cheval ou avec âne. Un moyen différent de se déplacer mais tout aussi pur et enrichissant.
   title: ''
-published: false
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650005129/website/resorts/Loz%C3%A8re/lozere-2858844_1920.jpg
+  alt_text_for_image: Colline et village en Lozère
+  captiontitleuppercase: Un peu de sensation en Lozère
+  title: A l'eau
+  content: |-
+    La Lozère c'est différentes activités qui se passent dans l'eau. Avec ses différentes rivières ainsi que ses lacs, le choix des activités d'eau vives est alors large et il y en a pour tous les goûts.
+
+    Pour un moment de partage, de folie et de sensation forte, embarquez en Rafting et descendez les gorges du Tarn. Plusieurs bases de rafting entre Ste Enimie, le Rozier, Naussac vont vous permettre de vivre un moment de sensation forte et de découverte. Pour ceux qui préfèrent être en contact direct avec l'eau, vous trouverez dans ces différentes bases, la possibilité de vous essayer à l'hydrospeed. Une activité idéale pour se rafraîchir, découvrir le paysage et s'amuser.
+
+    Vous pourrez également pratiquer le canoë-kayak et descendre les différentes rivières ainsi que les multiples rapides. À deux ou tout seul, vivez un moment ludique.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Toujours dans l'élément aquatique, en Lozère partez faire du canyoning. Descendez les gorges et les vallons en découvrant les différents aspects végétaux, minéraux et aquatiques dans un moment sportif et sensationnel. Les différentes bases de canyoning en Lozère vont se trouver à Naussac, au Massegros, à Florac, à Meyrueis, à St Enimie et bien d'autres. Quel que soit votre niveau, votre aisance dans ce milieu, il y aura différents parcours. Vous pourrez ainsi partir sur des canyonings plutôt "Randonnée aquatique" ou des canyonings très techniques avec des descentes en rappels, des sauts beaucoup plus hauts etc.
+
+    L'escalade est très répandue en Lozère. Avec 950 voies sur 20 sites naturels, le choix est varié et il y a de quoi grimper partout en Lozère et se faire plaisir. Pour tous les niveaux, découvrez cette activité unique, physique et technique. Vous trouverez différents spots comme les gorges du haut de Chassezac, St Julien du Tournel, les falaises des gorges du Tarn et de la Jonte. Avec un accompagnateur, vous pourrez apprendre et réaliser différentes voies d'escalade dans la Lozère.
+
+    La Lozère est préservée et protégé, peu peuplé, elle offre une infinité de choix d'activité outdoor variée et unique. Ces grands espaces, son histoire, sa beauté en fait un département où votre séjour vous fera vibrer de sensations et d'émotions. Une terre d'une nature exceptionnelle pour le plaisir de tous.
+  title: ''
 
 ---
