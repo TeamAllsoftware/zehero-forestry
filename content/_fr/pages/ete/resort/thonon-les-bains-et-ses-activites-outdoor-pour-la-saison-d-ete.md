@@ -22,7 +22,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649230728/webs
 image01_alt: Photo du lac Léman
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité à Thonon-les-Bains
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   blockBGcolor: blanc
@@ -74,5 +74,6 @@ page_sections:
     Réservez votre prochaine activité à Thonon-les-Bains et profitez d'un séjour au cœur d'un environnement riche et préservé. Entre lac et montagne, richesse des terres, patrimoine et une nature d'exception, vous trouverez toutes les activités outdoor pour des moments riches en émotions.
 
     Que ce soit en famille, entre amis, en couple, partez vivre de nouvelles expériences.
+code_postal: ''
 
 ---
