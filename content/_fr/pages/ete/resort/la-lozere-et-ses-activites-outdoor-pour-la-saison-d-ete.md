@@ -40,6 +40,33 @@ page_sections:
     différents sommets tel que le Mont Lozère, le Mont Aigoual, ses grottes et ses
     lacs, ses rivières tel que le Tarn, le Lot, la Jonte.
   title: La Lozère
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650005105/website/resorts/Loz%C3%A8re/IMG_0003.jpg
+  alt_text_for_image: Coureur sur les sentiers en Lozère
+  captiontitleuppercase: Lozère, grands espaces
+  title: Destination outdoor
+  content: |-
+    La Lozère est une destination parfaite pour toutes les activité outdoor. Entre ses parcs, ses sites naturels, ses rivières et ses lacs, vous trouverez un choix varié de terrain de jeux et de découverte pour toutes vos activités outdoor.
+
+    La Lozère c’est bien sûr de la randonnée pour tous les amoureux de la marche et des longues balades. Que ce soit en famille, en couple, entre amis ou seul, petites ou longues randonnées s’offrent à vous. Une grande diversité de chemin et de parcours afin de permettre à tous les niveaux de randonneurs de parcours ces chemins. Les différents parcs et sites naturels de la Lozère en font un terrain incroyable pour la marche. Vous y trouverez des GR connus tel que le GR700, le GR670, le GR68, le GR6 et le GR65 avec le chemin de St Jacque de Compostelle. À la journée ou en itinérance, laissez-vous porter en Lozère par un guide. Il vous expliquera sa faune, sa flore, ses roches, ses plateaux mais également son terroir et son histoire. Contempler le paysage c’est merveilleux, le comprendre et le connaître plus profondément c’est encore mieux.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    En Lozère on y découvre également un faune sauvage avec les loups, les vautours, les chevaux de Przewalski et les bisons.
+
+    Le Trail est également une activité pratiquée dans la Lozère. Entre les chemins techniques, les ascensions, des sentiers escarpés, la Lozère est un vrai terrain de jeu pour le Trail-running. Vous trouverez par ailleurs 28 itinéraires spécialement conçus pour les traileurs avec des parcours pour tous les niveaux. Un moment d’évasion, de dépassement de soi dans un cadre idyllique.
+
+    Pour les amateurs de vitesse, partez rouler en VTT en Lozère. Un choix incroyable de piste de parcours pour tous les goûts, les plaisirs et les niveaux s’offre à vous. Vous retrouverez de nombreuses écoles de VTT qui vous proposeront différentes balades, randonnées, initiations mais également de la location de VTT. Pour découvrir aussi la Lozère en famille et avec un effort moins intense, vous pourrez pratiquer le VTT électrique.
+
+    Le vélo de route vous permettra de découvrir la Lozère de long en large. Par ses petites routes, partez à la rencontre des gorges du Tarn et de la Jonte, rouler à travers ses petits villages typiques.
+
+    En Lozère on peut également randonner à cheval ou avec âne. Un moyen différent de se déplacer mais tout aussi pur et enrichissant.
+  title: ''
 published: false
 
 ---
