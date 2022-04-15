@@ -48,6 +48,43 @@ page_sections:
     href_button: ''
     alt_button: ''
   captiontitleuppercase: Découvrir la Côte d'Azur
-published: false
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Découvrez également le Train des Merveilles, un des plus beaux voyages en train du monde. En partant de Nice, vous allez sillonner les Alpes Maritimes et ses montagnes et découvrir des panoramas uniques sur la vallée du Paillon, de la Roya et de la Bévéra. Un train qui part de 0m d'altitude à Nice pour finir à 1000m à Tende. De là vous pourrez partir randonner dans ces lieux incroyables : la Vallée des Merveilles.
+
+    Les traileurs, les coureurs seront également ravis de séjourner à Nice et dans ses alentours. Tout comme la randonnée, vous retrouverez tous ces différents parcours et sentiers afin de réaliser vos plus belles courses. Entre découverte des lieux et dépassement physique, vous aurez le choix. De nombreux événements importants sont également présents à Nice et dans ses alentours tel que la Prom'Classic, Nice-Cannes, l'UTMB Nice Côte d'Azur, l'UTCAM, l'Iron Man de Nice et de nombreux événements de vélo de route, de VTT mais également de ski ainsi que tous les spots nautiques.
+
+    Le VTT sera également une activité parfaite pour rouler, découvrir, vibrer de sensations fortes entre l’arrière-pays niçois, la station d’Auron et d’autres lieux. Vous découvrirez de nombreux itinéraires de VTT et de VTT électrique afin d’en profiter pour toute la famille.
+
+    En selle, sur votre vélo de route, vous vous trouverez au paradis. Ici, c'est énormément de circuits, de traversée, de cols de tour mais également de circuit sur plusieurs étapes qui vous attendent. Nice est connue par les cyclistes et on y trouve des parcours magiques, physique. Bref, il y en a pour tous les goûts et tous les niveaux.
+  title: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650013885/website/resorts/Nice/nico-bhlr-pUhcWVhekcw-unsplash.jpg
+  alt_text_for_image: Village dans les hauteurs de Nice et les pré alpes d'Azur
+  captiontitleuppercase: Sensations et émotions
+  title: 'Se rafraîchir '
+  content: |-
+    Allez-vous rafraîchir après avoir randonné, couru et rouler. Vous retrouverez déjà un choix varié d’activité sur le littoral entre les balades de kayak et de paddle. Bien sûr, pour ceux qui aiment découvrir de nouveau lieux, vous pourrez plonger en bouteille. Sur le littoral, de nombreuses bases nautiques, vous permettront de louer du matériel tel que des kayaks et des paddles mais également vous emmener randonner, vous faire découvrir le E-foil. Un moyen parfait pour profiter de nombreuses activités, se baigner mais également découvrir un littoral et des paysages magnifiques.
+
+    Un peu haut que Nice, on retrouve différentes rivières : le Loup, la Vésubie, la Tinée, la Siagne et la Roya. Qui dit rivière dit activité d'eau vive. Partez faire du canyoning, du rafting, de l'hydrospeed, du kayak et découvrez des lieux incroyables. Les canyonings de la Bollène, de Cramassouri, de la Roya sont très réputés en France et vous feront vivre des sensations fortes et une expérience inoubliable. Laissez-vous tenter et découvrez cette activité. Si vous êtes débutante, le canyoning c'est aussi la randonnée aquatique, qui demande beaucoup moins de matériel. Vous pourrez en faire par exemple à 40mn de Nice dans les gorges du loup au Bar sur Loup.
+
+    Pour les amateurs de sensations fortes, de dépaysement, de dépassement physique, juste au-dessus de Nice, vous trouverez vos activités pour vous et pour tous.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Un environnement également idéal à la pratique de l'escalade avec de nombreux sites pour grimper. Dans les Préalpes et donc dans le moyen pays, vous y trouverez de sublimes voies pour tous les niveaux allant même jusqu'à du 9a parfois. Les Gorges du loup, le baou de St Jeannet, Bonson, Gréoliere et tellement d'autres sites, vous feront découvrir des lieux somptueux tout en grimpant.
+
+    Partez également faire la Via-Ferrata réputée de la Colmiane. Des parcours pour tous les goûts avec parfois des passages vertigineux.
+
+    Les amateurs de montagnes pourront se trouver très rapidement en montagne en partant de Nice. De là, l'alpinisme sera alors idéal dans un terrain montagnard comme celui du Mercantour avec ses nombreux sommets, ses arêtes, ses lacs et ses vues incroyables.
+
+    Nice et ses alentours, c'est un choix d'activités immense. Pour tous les amoureux de la nature, il y a un large que ce soit dans la mer, dans les rivières, sur terre. C'est visiter, découvrir et se dépayser. C'est avoir des possibilités incroyables à disposition dans un rayon de 2h maximum de voiture. C'est profiter d'une nature riche et préservé, d'un dynamisme fort. Séjournez en famille, entre amis, en couple à Nice et dans ses environs, c'est profiter du soleil, d'activité sensationnel et de découverte. C'est se dépasser et se ressourcer.
+  title: ''
 
 ---
