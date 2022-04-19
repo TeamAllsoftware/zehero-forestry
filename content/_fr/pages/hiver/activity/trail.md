@@ -21,6 +21,11 @@ page_sections:
 
     Le trail est une pratique sportive de course à pied en nature et quelques fois dans le milieu urbain. Quelle que soit la course, il présentera du dénivelé. C'est-à-dire que vous trouverez des montées et des descentes.
   title: ''
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
+  alt_text_for_image: Equipement de trail
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640069842/website/summer/IMG_20210716_180932_893_spbn5s.jpg
   captiontitleuppercase: 'S''évader '
@@ -39,7 +44,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: liststyle01
   title: Les différentes courses
   item:
@@ -74,6 +79,7 @@ page_sections:
 
     La pratique du trail comporte un équipement spécifique par ses chaussures, ses vêtements, ses sacs à dos d'hydratation, le port de bâtons etc.
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200809_090044_skturv.jpg
   captiontitleuppercase: Le plaisir du dossard
@@ -94,6 +100,7 @@ page_sections:
 
     Vous pourrez également participer à des sorties de trail longues. Elles permettront de découvrir un lieu, un environnement avec un groupe.
   title: ''
+  blockBGcolor: ''
 - template: 3coltxtimgtxt
   captionleftcontent: 'Soyez le Hero, partez créer vos propres exploits '
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG20210813131314_aotkis.jpg
