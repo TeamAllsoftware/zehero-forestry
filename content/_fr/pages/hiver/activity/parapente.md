@@ -26,8 +26,8 @@ page_sections:
   blockBGcolor: ''
 - template: imgWide
   blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833496/website/assets/Parapente.png
-  alt_text_for_image: Test
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195885/website/assets/Recadr%C3%A9es/parapente.png
+  alt_text_for_image: Parapente étendu sur le sol
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642497879/website/winter/henry-perks-tkOf9gYWakA-unsplash_icnohc.jpg
   captiontitleuppercase: A pied ou à ski
