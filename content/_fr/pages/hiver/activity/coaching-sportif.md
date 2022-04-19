@@ -20,6 +20,11 @@ page_sections:
 
     Que vous souhaitez être maintenu en forme, préparer une compétition, avoir une meilleure condition physique, vous muscler, préparer un défi, le coaching sera la meilleure solution.
   title: Le coaching sportif
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649236206/website/assets/Recadr%C3%A9es/coaching.png
+  alt_text_for_image: Equipement de musculation
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
   captiontitleuppercase: De quelle façon ?
@@ -36,12 +41,13 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Coaching sportif Privé
   content: 'Le coaching sportif privé lui, va permettre d''avoir un coach qui sera
     totalement dédié à vous. Pendant tout le temps de la séance, vous allez donc être
     suivi, corrigé. Voici les différents avantages :'
+  blockBGcolor: ''
 - template: liststyle01numbered
   item:
   - Investissement et sécurité

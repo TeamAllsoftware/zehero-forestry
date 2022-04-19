@@ -25,6 +25,11 @@ page_sections:
     \ \nLes pistes de ski de fond sont damées spécifiquement et vont comporter deux
     rails parallèles sur le côté de la piste."
   title: ''
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/skifond.png
+  alt_text_for_image: Equipement ski de fond
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/thomas-dils-ZEraBEoSRSw-unsplash_bpzfga.jpg
   captiontitleuppercase: Les différentes pratiques
@@ -44,7 +49,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: "La deuxième discipline est le skating. Celle-ci est plus complexe et technique
     que le classique. En effet, le pas ici sera celui du patineur. Une pratique plus
@@ -54,6 +59,7 @@ page_sections:
     mais sur la piste damée.  \nLa technique ne s'acquiert pas aussi facilement et
     il sera plus physiquement plus difficile."
   title: Le Skating
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/amanda-wold-kortnes-H_2uCqop6e8-unsplash_vox2y9.jpg
   captiontitleuppercase: Les grand espaces pour vous
@@ -76,6 +82,7 @@ page_sections:
 
     Y aller avec un moniteur permet de comprendre les bases du skating ou du classique. Cela permet de comprendre comment bien glisser sans perdre trop d'énergie, de prendre plaisir à cette glisse, de découvrir les parcours adaptés à votre niveau et de passer un moment agréable seul ou accompagné.
   title: ''
+  blockBGcolor: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/phillip-belena-eY-iYrKGOkw-unsplash_f8lv9d.jpg
   captionrightcontent: 'Le ski de fond permet de se promener dans des grands espaces
@@ -95,6 +102,7 @@ page_sections:
     * La Féclaz en Savoie est un joli terrain de balade avec une vue sur le Mont Blanc
     * Dans les Vosges, vous trouverez un large choix de pistes de ski de fond dans les différents domaines
     * Les Saisies, sur son plateau elle est dotée d'une très bonne qualité de neige
+  blockBGcolor: ''
 - template: cta
   intro: Réservez vos activités ski de fond
   headline: Cours privés ou collectifs, enfant et adultes sont disponibles
