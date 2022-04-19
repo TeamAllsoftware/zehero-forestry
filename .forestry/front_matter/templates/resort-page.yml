@@ -76,9 +76,9 @@ fields:
     required: false
     options: []
     source:
-      type: simple
-      section: 
-      file: 
+      type: documents
+      section: code-postaux
+      file: _data/codepostaux.yml
       path: 
   label: Code postal
   description: Quel est le code postal de cette destination ?

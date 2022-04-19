@@ -20,7 +20,6 @@ sections:
 - type: document
   path: _data/codepostaux.yml
   label: Code postaux
-  match: "**/*"
   read_only: true
 - type: heading
   label: FRENCH
