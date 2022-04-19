@@ -37,7 +37,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: "Le ski de randonnée reste une activité physique car la montée demande
     une bonne condition physique. Le dénivelé positif sera exigeant pour vos jambes,
