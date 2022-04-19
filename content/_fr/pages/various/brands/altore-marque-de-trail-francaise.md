@@ -81,5 +81,6 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650372466/website/Altore/Altore-2021-SD_FOCUS-OUTDOOR-0021.webp
   atl_text_image_04: Coureur Altore en Corse
   title: ''
+published: false
 
 ---
