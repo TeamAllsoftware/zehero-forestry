@@ -22,6 +22,11 @@ page_sections:
     en freeride. Le freeride reste une discipline où son environnement nécessite des
     connaissances approfondies.
   title: ''
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195879/website/assets/Recadr%C3%A9es/skifreestyle.png
+  alt_text_for_image: Equipement de ski freeride
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/sophie-the-laya-yogis-Yf-EC_VWYwY-unsplash_fqd8ow.jpg
   captiontitleuppercase: Les bases du Freeride
@@ -47,6 +52,7 @@ page_sections:
     matériel de sécurité :  \n\\- DVA  \n\\- Pelle  \n\\- Sonde  \nMais aussi un casque
     et parfois des protections supplémentaires telles qu'une dorsale etc."
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/go-montgenevre-SRbczzaRQBc-unsplash_lkadef.jpg
   captiontitleuppercase: La liberté
@@ -68,12 +74,14 @@ page_sections:
     avoir une fixation de randonnée ainsi qu'une peau adaptée à leurs dimensions.
     Cela dans le but plutôt de faire de marche d'approche que de la randonnée pure.
   title: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Le Freeride se pratique à plusieurs afin d'avoir toujours une ou des personnes qui assurent la sécurité quand l'un part faire sa ligne. C'est partager un moment loin de la foule, dans une montagne calme et belle afin de faire le plein d'adrénaline et de sensations fortes. C'est vivre un moment mort, c'est choisir où passer, analyser la trajectoire pour laisser la plus belle trace possible.
 
     Si vous êtes un bon skieur mais que vous êtes débutant en freeride, réservez une journée découverte du freeride afin d'avoir toutes les premières connaissances de la montagne, de la sécurité, de la technique du ski.
   title: ''
+  blockBGcolor: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891586/website/winter/thijs-kennis-7GZjtBGnTiM-unsplash_glozjt.jpg
   captionleftcontent: Vivre des moments uniques dans un environnement unique
@@ -105,6 +113,7 @@ page_sections:
     un moment inoubliable. L'implication physique et mentale est forte, à vous de
     laisser votre trace."
   title: ''
+  blockBGcolor: ''
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
