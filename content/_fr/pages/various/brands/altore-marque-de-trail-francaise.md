@@ -71,6 +71,16 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: imagegallery02
+  atl_text_image_01: Plusieurs coureur sur une crète en corse portant du Altore
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358189/website/Altore/t%C3%A9l%C3%A9chargement_1.webp
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358193/website/Altore/t%C3%A9l%C3%A9chargement.webp
+  atl_text_image_02: Coureur de Altore en nature avec de la neige
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650372462/website/Altore/Altore-2021-SD_FOCUS-OUTDOOR-0099.webp
+  atl_text_image_03: Coureuse Altore
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650372466/website/Altore/Altore-2021-SD_FOCUS-OUTDOOR-0021.webp
+  atl_text_image_04: Coureur Altore en Corse
+  title: ''
 published: false
 
 ---
