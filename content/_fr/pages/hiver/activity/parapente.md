@@ -51,6 +51,10 @@ page_sections:
     Cette activité est réservée à toutes les personnes de 5 ans à 90 ans.
   title: ''
   blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649246849/website/assets/Personnages%20poses/Poses%20format%20large/Parapente_Pose.png
+  alt_text_for_image: Personnage avec un parapente étendu sur le sol
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
