@@ -30,15 +30,13 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358188/website/Altore/t%C3%A9l%C3%A9chargement_3.webp
   alt_text_for_image: Coureur de trail avec des vêtement Altore
   captiontitleuppercase: Les équipements de trail Altore
-  title: Un gamme large de produits techniques de trail
+  title: Une gamme large de produits techniques de trail
   content: |-
     Altore propose une gamme large de produits techniques de trail. Vous trouverez donc des T-shirts manches courtes, des T-shirts manches longues, des collants, des vestes, des débardeurs, des cuissards pour la pratique du trail et la course à pied pour homme et pour femme.
 
     Les T-shirts se différencieront par leur technicité et leurs matières. Ceux qui seront plus techniques et performants seront alors plus près du corps tel une seconde peau en se faisant oublier. Vous retrouverez des T-shirts plus amples mais toujours techniques composé de fibres de bambou et de polyester 100% recyclé. Les T-shirts de Trail Altore sont idéales pour les sorties courtes comme longues, par temps chaud voir très chaud aux températures plus fraîches.
 
     Homme comme Femme, vous retrouverez différentes T-shirt pour différentes utilisations et technicités. Altore propose également une gamme de débardeurs pour les entraînements sous un soleil plus chaud et être encore plus légers.
-
-    Vous retrouverez un modèle de short de Trail Altore pour Homme et pour Femme avec des coloris différents. Un short très léger et technique, flottant et plus court pour une liberté optimale de mouvement.
   button:
     text_button: ''
     href_button: ''
@@ -46,6 +44,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   content: |-
+    Vous retrouverez un modèle de short de Trail Altore pour Homme et pour Femme avec des coloris différents. Un short très léger et technique, flottant et plus court pour une liberté optimale de mouvement.
+
     Altore propose aussi des vestes, coupe-vent et Softshell. Les Softshell et vestes légères homme et femmes sont parfaites pour la pratique par temps frais tout étant très respirant, légères et surtout performantes. Les coupe-vent Altore sont ultras light et également déperlants composées d'une capuche.
 
     Une large gamme de produits performants et techniques pour la pratique de la course à pied en plaine comme en montagne. Des produits uniques au style épuré.
