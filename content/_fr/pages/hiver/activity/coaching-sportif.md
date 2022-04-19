@@ -41,7 +41,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   title: Coaching sportif Privé
   content: 'Le coaching sportif privé lui, va permettre d''avoir un coach qui sera
