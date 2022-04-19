@@ -17,6 +17,11 @@ sections:
 - type: document
   path: _data/cat-activity.yml
   label: Category labels
+- type: document
+  path: _data/codepostaux.yml
+  label: Code postaux
+  match: "**/*"
+  read_only: true
 - type: heading
   label: FRENCH
 - type: directory
