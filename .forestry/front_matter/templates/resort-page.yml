@@ -79,7 +79,7 @@ fields:
       type: documents
       section: code-postaux
       file: _data/codepostaux.yml
-      path: 
+      path: Codepostaux
   label: Code postal
   description: Quel est le code postal de cette destination ?
 - name: permalink
