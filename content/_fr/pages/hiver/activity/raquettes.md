@@ -41,7 +41,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: La balade en raquette est une activité qui permet de diversifier son séjour
     en montagne. Contrairement au ski, vous n'avez pas à payer un forfait. Vous avez
