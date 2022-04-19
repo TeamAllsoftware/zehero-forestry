@@ -43,6 +43,34 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Altore propose aussi des vestes, coupe-vent et Softshell. Les Softshell et vestes légères homme et femmes sont parfaites pour la pratique par temps frais tout étant très respirant, légères et surtout performantes. Les coupe-vent Altore sont ultras light et également déperlants composées d'une capuche.
+
+    Une large gamme de produits performants et techniques pour la pratique de la course à pied en plaine comme en montagne. Des produits uniques au style épuré.
+  title: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358171/website/Altore/t%C3%A9l%C3%A9chargement_4.webp
+  alt_text_for_image: Coureuse courant avec des vêtements de la marque de course à
+    pied Altore
+  captiontitleuppercase: Altore, la marque française pour les coureurs
+  title: Les accessoires Altore de course à pied
+  content: |-
+    Vous découvrirez des accessoires destinés au trail et à la course à pied.
+
+    Les bandeaux Altore pour la course à pied destinés à éponger la transpiration, tenir les cheveux pour la course à pied comme la pratique d'autres sports. Vous retrouverez également les casquettes. Elles seront mixtes comme pour les bandeaux.
+
+    Leurs manchons seront disponibles également afin de protéger du froid, des UV, de la chaleur et de favoriser la circulation sanguine.
+
+    Vous retrouverez aussi des tours de coup Altore ainsi que des sacs de sport afin de transporter toutes vos affaires.
+
+    Tous ces produits sont écoresponsables et conçus et développer en Corse.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
