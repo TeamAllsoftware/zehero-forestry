@@ -29,7 +29,7 @@ page_sections:
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195880/website/assets/Recadr%C3%A9es/skirando.png
-  alt_text_for_image: Equipement ski de randonnée
+  alt_text_for_image: Equipement ski de fond
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/thomas-dils-ZEraBEoSRSw-unsplash_bpzfga.jpg
   captiontitleuppercase: Les différentes pratiques
