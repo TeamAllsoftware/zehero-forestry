@@ -41,7 +41,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: "Dès que l'on quitte les pistes sécurisées, nous sommes face à la montagne
     et donc face à des risques plus élevés. La plus courante reste l'avalanche, mais
