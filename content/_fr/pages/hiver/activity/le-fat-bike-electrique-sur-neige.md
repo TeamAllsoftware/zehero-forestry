@@ -22,8 +22,13 @@ page_sections:
 
     L'assistance électrique limitera l'effort à fournir, surtout dans la neige. Grimpez plus facilement les chemins enneigés avant de les descendre à toute vitesse. Progressez dans la neige fraîche, la neige damée, la neige trafollée pour plus de sensation et de découverte.
   title: Le Fat bike
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234241/website/assets/Recadr%C3%A9es/vtt.png
+  alt_text_for_image: Equipement fatbike électrique
 - template: 2colimgtxt
-  blockBGcolor: blanc
+  blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914885/website/winter/himiway-bikes-YKlNW7ggdjU-unsplash.jpg
   alt_text_for_image: Personne roulant en fit bike sur la neige sur une poste damée
   captiontitleuppercase: Découvrir la montagne l'hiver autrement
@@ -71,6 +76,7 @@ page_sections:
 
     Le Fat Bike va permettra de vivre une expérience riche en émotion et en partage. Avec Ze Hero, trouvez votre activité et partez rouler sur la neige en Fat bike.
   title: Où pratiquer le Fat Bike
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 categorie: Vélo
