@@ -49,7 +49,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: "La deuxième discipline est le skating. Celle-ci est plus complexe et technique
     que le classique. En effet, le pas ici sera celui du patineur. Une pratique plus
