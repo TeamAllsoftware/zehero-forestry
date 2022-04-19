@@ -17,8 +17,8 @@ page_sections:
     title: L'outdoor<br> dont vous<br> êtes<br> ZE HERO
     color: white
   Button1:
-    title: Acheter un sac à dos
-    link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    title: Réserver un cours de surf 
+    link: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
   Button2:
     title: ''
     link: ''
@@ -45,20 +45,6 @@ page_sections:
     alt_text: Les équipements Instinct Trail en vente dans la boutique ZE HERO
     title: En vente <br> dans le eShop
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
-- template: 2coltxtimg
-  blockBGcolor: gris
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642676740/website/winter/ze-hero-marketplace-eshop_jwwp12.png
-  alt_text_for_image: Le eshop dans la rubrique vente de skis d'occasion
-  captiontitleuppercase: Fin de la saison de ski
-  title: VIVE LES SKIS D'OCCASION !
-  content: La saison de ski de piste se termine mais la saison de ski de randonnée
-    démarre seulement. Nous avons des skis d'occasion qui vous tendent les bras. Que
-    vous cherchiez à tester une pratique ou à offrir des skis, acheter des skis d'occasion
-    est une excellente idée pour éviter le consumérisme.
-  button:
-    text_button: Acheter maintenant
-    href_button: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
-    alt_button: ''
 - template: listServices
   service: activity
   blockBGcolor: blanc
