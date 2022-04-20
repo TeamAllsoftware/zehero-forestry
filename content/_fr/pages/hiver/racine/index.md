@@ -19,7 +19,7 @@ page_sections:
     color: white
   Button1:
     title: Acheter des skis d'occasion
-    link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+    link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
   Button2:
     title: ''
     link: ''
@@ -32,22 +32,22 @@ page_sections:
     alt_text: Randonnée à ski avec un polo Fausse Route composé de 100% de laine de
       mouton mérinos
     title: Marque <br>Fausse Route
-    title_Link: https://shop.ze-hero.com/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
   Image2:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593919/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-46_uv063b.jpg
     alt_text: Un polo laine mérinos pour toutes les activités outdoors
     title: Polo 100%<br> laine mérinos
-    title_Link: https://shop.ze-hero.com/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644594757/website/marques/Fausse%20Route/20201015_135621-ANIMATION_gzcibs.gif
     alt_text: Que mettre dans son sac pour partir en randonnée vélo ou à ski, un e
       polo Fausse Route, bien sûr
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593865/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-1_lnswan.jpg
     alt_text: Les polos Fausse Route en vente dans la boutique ZE HERO
     title: En vente <br> dans le eShop
-    title_Link: https://shop.ze-hero.com/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
 - template: 2coltxtimg
   blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642676740/website/winter/ze-hero-marketplace-eshop_jwwp12.png
@@ -60,7 +60,7 @@ page_sections:
     bras.
   button:
     text_button: Acheter maintenant
-    href_button: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+    href_button: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
     alt_button: ''
 - template: listServices
   service: activity
@@ -110,10 +110,10 @@ page_sections:
     color: white
   Button1:
     title: Acheter des skis d'occasion
-    link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+    link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
   Button2:
     title: Voir toutes les activités
-    link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+    link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
   button_2_more: false
 - template: listServices
   service: advice
@@ -130,12 +130,12 @@ page_sections:
   image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645714273/groupe/montblanc-escalade/logo/bandeau-zehero-marchand_rvjdy1.png
   baseline: L’outdoor au rythme de vos émotions
   title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
-  url_link: https://shop.ze-hero.com/
+  url_link: https://shop.ze-hero.com/fr/
   title_link: Visiter la boutique
 author: geoffreyarduini
 baseline: ''
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
 
 ---

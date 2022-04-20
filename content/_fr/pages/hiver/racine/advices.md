@@ -12,7 +12,7 @@ redirect_from:
 - "/fr/chien-traineau-haute-savoie/"
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
 page_sections:
 - template: heroImage50percentHigh
   title: Matériel, apprentissage, préparation.
