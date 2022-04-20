@@ -138,16 +138,16 @@ menu:
       href: "/fr/marques/instinct-trail-inspired"
 - title: Réserver
   id: eshop
-  title-link: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
+  title-link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
   image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642604271/website/summer/eshop-ze-hero-activites-ete_mhzdw2.png
   image-alt: Image illustrant la boutique en ligne ZE HERO
-  image-link: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
+  image-link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
   txt-button: Entrer dans le e-Shop
   column-01:
   - nested: Acheter, louer, réserver en ligne
     menu-items:
     - title: Equipement de Trail / Running
-      href: https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+      href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   column-02: 
 - title: Blog
   id: blog
