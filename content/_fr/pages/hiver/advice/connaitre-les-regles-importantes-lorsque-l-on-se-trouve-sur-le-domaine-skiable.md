@@ -14,7 +14,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641974261/webs
 image01_alt: Pistes de ski avec beaucoup de skieurs et de snowboardeurs en groupe
 button_to_link_to_ze_hero_shop:
   button_text: Trouver son cours de ski
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
 page_sections:
 - template: textarea
   title: Des règles pour skier en toute sécurité

@@ -15,7 +15,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640262657/webs
 image01_alt: Snowboard dans une foret enneigée
 button_to_link_to_ze_hero_shop:
   button_text: Nos location de boots de snowboard
-  url_to_shop_zehero: https://shop.ze-hero.com/location-materiel/location-snowboard/location-snowboard-adulte?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-adulte&start-date=24%2F12%2F2021&number_rental_days=1
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/location-materiel/location-snowboard/location-snowboard-adulte?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-adulte&start-date=24%2F12%2F2021&number_rental_days=1
 page_sections:
 - template: textarea
   content: |-

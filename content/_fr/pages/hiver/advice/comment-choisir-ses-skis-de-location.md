@@ -14,7 +14,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/webs
 image01_alt: Matériel de ski sur les pistes devant les montagnes
 button_to_link_to_ze_hero_shop:
   button_text: Choisir son matériel de location
-  url_to_shop_zehero: https://shop.ze-hero.com/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
 page_sections:
 - template: textarea
   content: |-

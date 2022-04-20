@@ -13,7 +13,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641994384/webs
 image01_alt: Vue panoramique des montagnes à st martin de belleville
 button_to_link_to_ze_hero_shop:
   button_text: Réserver un cours de ski
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
 page_sections:
 - template: textarea
   content: Vous vous posez la question de savoir dans quelle station séjourner afin
