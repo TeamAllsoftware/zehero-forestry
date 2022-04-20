@@ -17,8 +17,8 @@ page_sections:
     title: L'outdoor<br> dont vous<br> êtes<br> ZE HERO
     color: white
   Button1:
-    title: Réserver un cours de surf 
-    link: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
+    title: Réserver un cours de surf
+    link: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
   Button2:
     title: ''
     link: ''
@@ -119,6 +119,6 @@ author: geoffreyarduini
 baseline: ''
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
 
 ---
