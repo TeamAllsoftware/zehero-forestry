@@ -14,7 +14,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062762/webs
 image01_alt: Salle de musculation et d'entraînement
 button_to_link_to_ze_hero_shop:
   button_text: Réservez vos cours
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
 page_sections:
 - template: textarea
   title: Le coaching privé

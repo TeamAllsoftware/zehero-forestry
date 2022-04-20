@@ -21,7 +21,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649756837/webs
 image01_alt: Village de Bar sur Loup
 button_to_link_to_ze_hero_shop:
   button_text: Réserver votre activité à Bar sur Loup
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   blockBGcolor: blanc
@@ -55,7 +55,7 @@ page_sections:
     color: white
   Button1:
     title: Sorties Trail pour tous les niveaux
-    link: https://shop.ze-hero.com/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
   button_2_more: false
   Button2:
     title: ''
@@ -94,7 +94,7 @@ page_sections:
   intro: Réservez vos activités à Le Bar sur Loup
   button:
     text_button: Réserver maintenant >
-    href_button: https://shop.ze-hero.com/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
   headline: Trail, Canyoning, Randonnée et Escalade
 
 ---

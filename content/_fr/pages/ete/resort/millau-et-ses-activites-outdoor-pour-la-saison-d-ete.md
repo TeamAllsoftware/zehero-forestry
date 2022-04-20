@@ -22,7 +22,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649839719/webs
 image01_alt: Couché de soleil sur Millau et la nature
 button_to_link_to_ze_hero_shop:
   button_text: " Trouvez votre activité à Chamonix"
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   blockBGcolor: blanc

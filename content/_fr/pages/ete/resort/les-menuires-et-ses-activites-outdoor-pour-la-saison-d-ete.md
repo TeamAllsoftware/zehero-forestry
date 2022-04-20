@@ -23,7 +23,7 @@ image01_alt: Vue de la station des Menuires avec les montagnes et des fleurs de 
   devant
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité aux Menuires
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Les+Menuires&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Les+Menuires&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   content: La station Les Menuires est située dans la vallée des Bellevilles. L'été,

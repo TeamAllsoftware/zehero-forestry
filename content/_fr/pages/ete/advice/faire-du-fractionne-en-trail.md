@@ -16,7 +16,7 @@ image01_alt: Jambes d'un coureur faisant du fractionné en s'entrainant en cours
   pied avec des basquets de running.
 button_to_link_to_ze_hero_shop:
   button_text: Les offres de course à pied et trail
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 page_sections:
 - template: textarea
   content: "Le fractionné est l’entraînement clé pour la progression et la performance.

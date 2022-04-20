@@ -20,7 +20,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647264196/webs
 image01_alt: Deux skateurs ridant dans un skatepark dans les Landes à Seignosse
 button_to_link_to_ze_hero_shop:
   button_text: Réserver votre activité à Seignosse
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Seignosse&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Seignosse&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 page_sections:
 - template: textarea
   title: Seignosse

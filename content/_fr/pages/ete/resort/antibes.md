@@ -70,7 +70,7 @@ engage: 'test test test test test test test test '
 page_title: Antibes, mer et montagne
 button_to_link_to_ze_hero_shop:
   button_text: Voir les activités à Antibes
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 introduction:
   you_arrive: Vous arrivez à Antibes et vous souhaitez réserver une activité dans
     cette station balnéaire.

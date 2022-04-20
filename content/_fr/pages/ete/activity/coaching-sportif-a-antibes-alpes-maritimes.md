@@ -26,7 +26,7 @@ page_sections:
     * A la maison
     * En extérieur
 
-    Vous pouvez donc choisir entre réaliser le [**coaching à domicile**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=) ou en [**extérieur**](https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=). À Antibes et dans les Alpes Maritimes, on profite généralement du soleil et de la température idéale (même en hiver !). Vous trouverez différents lieux idéals pour retrouver un coach et vous **entraîner**. Que ce soit pour **courir**, pour faire de la **musculation** ou du **renforcement musculaire**, il y a de nombreux espaces propices à la pratique. Et surtout, vous pourrez profiter d’un cadre idyllique entre mer et montagnes.
+    Vous pouvez donc choisir entre réaliser le [**coaching à domicile**](https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=) ou en [**extérieur**](https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=). À Antibes et dans les Alpes Maritimes, on profite généralement du soleil et de la température idéale (même en hiver !). Vous trouverez différents lieux idéals pour retrouver un coach et vous **entraîner**. Que ce soit pour **courir**, pour faire de la **musculation** ou du **renforcement musculaire**, il y a de nombreux espaces propices à la pratique. Et surtout, vous pourrez profiter d’un cadre idyllique entre mer et montagnes.
   blockBGcolor: ''
 - template: imgWide
   blockBGcolor: blancGris
@@ -107,6 +107,6 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre séance de coaching de sport à Antibes
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
 
 ---

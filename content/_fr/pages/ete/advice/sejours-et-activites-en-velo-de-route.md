@@ -16,7 +16,7 @@ image01_alt: Vue d'une route de montagne à Méribel avec des cyclistes grimpant
   vélo de route
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre séjour de vélo de route
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
 page_sections:
 - template: textarea
   content: Vous recherchez une **expérience inédite** sur les pentes et **cols mythiques**
@@ -35,7 +35,7 @@ page_sections:
 
     Niveau : Débutant - Intermédiaire
   button:
-    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
     text_button: 'Réservez '
     alt_button: ''
   blockBGcolor: ''
@@ -49,7 +49,7 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642669650/website/summer/mizzi-westphal-LIdAmXo7eqA-unsplash_c7pfwz.jpg
   alt_text_for_image: Personne en vélo de route montant une route de montagne
   button:
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
     text_button: Réservez
     alt_button: ''
   blockBGcolor: ''
@@ -78,7 +78,7 @@ page_sections:
   captiontitleuppercase: Un séjour unique en vélo de route
   button:
     text_button: Réservez
-    href_button: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17211-traversee-des-alpes-en-velo-par-les-cols-mythiques-6-jours-activite-ze-hero
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17211-traversee-des-alpes-en-velo-par-les-cols-mythiques-6-jours-activite-ze-hero
     alt_button: ''
   blockBGcolor: ''
 - template: textarea

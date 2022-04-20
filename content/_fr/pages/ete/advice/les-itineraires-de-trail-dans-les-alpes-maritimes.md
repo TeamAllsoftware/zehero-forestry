@@ -14,7 +14,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643297082/webs
 image01_alt: Image de la nature et de la mer et des falaises du massif et de l'Esterel
 button_to_link_to_ze_hero_shop:
   button_text: Les offres de Trail Running
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   title: Les itinéraires de trail dans les Alpes Maritimes

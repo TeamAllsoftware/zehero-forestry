@@ -39,7 +39,7 @@ page_sections:
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648197165/website/assets/Personnages%20poses/Trail.png
     alt_text: Personnage ZE HERO en tenue de trail
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
     alt_text: Coureur faisant du Trail à Le Bar sur Loup dans les Alpes Maritimes
@@ -96,7 +96,7 @@ page_sections:
     link: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
   Button2:
     title: Voir toutes les activités
-    link: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+    link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
   button_2_more: false
 - template: listServices
   service: advice

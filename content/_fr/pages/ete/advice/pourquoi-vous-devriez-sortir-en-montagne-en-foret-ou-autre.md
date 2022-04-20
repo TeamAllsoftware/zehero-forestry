@@ -14,7 +14,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646122670/webs
 image01_alt: Une personne assis dans une tente hamac dans la forêt au coucher de soleil
 button_to_link_to_ze_hero_shop:
   button_text: Trouver votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
 page_sections:
 - template: textarea
   title: Sortir dans la nature
@@ -54,7 +54,7 @@ page_sections:
     S'activer physiquement c'est aussi ressentir une bonne fatigue et donc mieux dormir. Il est important d'activer tout son système cardiaque et respiratoire pour être en bonne santé. En plus de se muscler, de tonifier ses muscles et de les étirer, votre système immunitaire sera aussi renforcé lors de vos pratiques sportives en nature.
   button:
     text_button: Découvrez nos sorties trail running
-    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     alt_button: Sorties de trail running en montagnes et dans les préalpes
   blockBGcolor: ''
 - template: textarea

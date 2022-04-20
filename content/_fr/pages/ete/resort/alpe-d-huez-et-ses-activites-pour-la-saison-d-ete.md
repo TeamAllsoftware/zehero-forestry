@@ -15,6 +15,9 @@ page_title: 'Alpe d''Huez, paradis ensoleillé '
 baseline: Montagne et soleil
 resort_nameid: alpe_huez
 resort_naming: Alpe d'Huez
+region: Rhône-Alpes
+departement: Isère
+codepostal: 38
 permalink: "/fr/ete/destinations/alpe-huez"
 redirect_from:
   - /fr/ete/destination/alpe-huez
@@ -23,7 +26,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644227090/webs
 image01_alt: Vue des montagnes à l'Alpe d'Huez avec un lac et des randonneurs
 button_to_link_to_ze_hero_shop:
   button_text: Les activités à l'Alpe d'Huez
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Alpe+d%27Huez&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Alpe+d%27Huez&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   title: Alpe Huez

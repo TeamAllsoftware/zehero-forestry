@@ -20,7 +20,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647014055/webs
 image01_alt: Surfeur sur les plages entre Messanges et Seignosse
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre cours de surf à Messanges
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   title: Messanges

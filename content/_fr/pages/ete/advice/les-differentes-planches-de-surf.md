@@ -12,7 +12,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646753387/webs
 image01_alt: Différentes planches de surf avec beaucoup de couleurs
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre cours de surf
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 page_sections:
 - template: textarea
   title: Les différentes planches de surf

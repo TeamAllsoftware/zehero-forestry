@@ -14,7 +14,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643111394/webs
 image01_alt: Coureur de trail avec des chaussures de trail
 button_to_link_to_ze_hero_shop:
   button_text: Réserver une activité de trail
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 page_sections:
 - template: textarea
   title: Comment choisir ses chaussures de Trail ?

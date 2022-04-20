@@ -15,7 +15,7 @@ image01_alt: Deux randonneurs marchant en montagne arrivant à un sommet au dess
   d'une mer de nuage
 button_to_link_to_ze_hero_shop:
   button_text: Réserver une activité
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   title: Organiser et préparer sa sortie en randonnée à la journée
@@ -112,7 +112,7 @@ page_sections:
     utile de trop charger son sac. Et pour ce qui concerne le sac et sa taille, un
     sac de 20L à 30L est idéal pour ce type de randonnée. Le sac doit également être
     bien ajusté en fonction de votre morphologie. Découvrez également nos [sacs de
-    trail Instinct Trail](https://shop.ze-hero.com//achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    trail Instinct Trail](https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
     \"Sacs de trail Instinct Trail\"), qui peuvent vous accompagner pour une journée
     de randonnée.\n\nL'eau ne sera jamais de trop dans votre sac de randonnée. Une
     gourde de 1L est le minimum à avoir sur soi. Selon le parcours et votre itinéraire
