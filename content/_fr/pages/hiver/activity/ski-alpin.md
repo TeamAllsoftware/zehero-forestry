@@ -21,6 +21,11 @@ page_sections:
     Que ce soit pour le loisir, la performance, la découverte d'un domaine ou la compétition,
     cela demande de la technique et une [bonne condition physique](https://www.ze-hero.com/fr/hiver/conseils/comment-se-pr%C3%A9parer-physiquement-au-ski).
   title: ''
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195877/website/assets/Recadr%C3%A9es/ski.png
+  alt_text_for_image: Equipement ski de piste
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
   captiontitleuppercase: Apprendre le ski alpin
@@ -36,7 +41,7 @@ page_sections:
     alt_button: ''
   alt_text_for_image: Skieur faisant du ski alpin sur une piste en faisant un virage
     carvé avec des skis rossignol
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: liststyle01
   item:
   - Le ski zen pour profiter du paysage et du domaine
@@ -52,6 +57,7 @@ page_sections:
     La plaisir de cette sensation de glisse dans de tel cadre est source de bien-être.
     C'est un sport, une pratique où sont cadre est idyllique et paradisiaque. "
   title: ''
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1640090973/website/winter/valentin-b-kremer-xZyeRwQGKk4-unsplash_gztr6e.jpg
   captionabovetitle: Débuter, se perfectionner, devenir expert

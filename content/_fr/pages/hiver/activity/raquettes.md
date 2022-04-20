@@ -20,6 +20,11 @@ page_sections:
     les sapins dans un décor blanc et immaculé.   \nLes raquettes vous permettent
     de marcher sans s'enfoncer dans la neige et de s'éloigner des pistes de ski. "
   title: ''
+  blockBGcolor: ''
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234215/website/assets/Recadr%C3%A9es/raquettes.png
+  alt_text_for_image: Equipement raquettes
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080084/website/winter/pablo-guerrero-xglh7hBu9QU-unsplash_nvbvyf.jpg
   captiontitleuppercase: Pour toute la famille
@@ -36,12 +41,13 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: La balade en raquette est une activité qui permet de diversifier son séjour
     en montagne. Contrairement au ski, vous n'avez pas à payer un forfait. Vous avez
     donc besoin uniquement du matériel et de vêtements adaptés à cette pratique.
   title: ''
+  blockBGcolor: ''
 - template: liststyle01
   title: 'L''équipement '
   item:

@@ -20,7 +20,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647264196/webs
 image01_alt: Deux skateurs ridant dans un skatepark dans les Landes à Seignosse
 button_to_link_to_ze_hero_shop:
   button_text: Réserver votre activité à Seignosse
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Seignosse&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 page_sections:
 - template: textarea
   title: Seignosse
@@ -31,6 +31,7 @@ page_sections:
     où les odeurs et les bruits nous bercent.  \nSeignosse, c'est le lieux idéal pour
     le surf et pour le skateboard. Une petite ville maritime où la culture de la glisse
     y est forte. La nature y est respecté et on s'y sent bien."
+  blockBGcolor: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647264217/website/resorts/Seignosse/tom-wolff-XYCIp21GBQQ-unsplash.jpg
@@ -57,6 +58,7 @@ page_sections:
 
     Vous pourrez également pratiquer le body board ou le [stand up paddle](https://www.ze-hero.com/fr/ete/activites/paddle).
   title: ''
+  blockBGcolor: ''
 - template: 2coltxtimg
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647264212/website/resorts/Seignosse/joackim-weiler-Fgu1YhXEY-E-unsplash_1.jpg
@@ -83,5 +85,7 @@ page_sections:
     Séjournez à Seignosse c'est vivre au rythme de l'océan, ces longues journées de soleil. C'est apprendre et ressentir la culture surf au sein d'un environnement respecté et protégé.
 
     N'attendez plus, trouvez votre activité qui vous fera vibrer.
+  blockBGcolor: ''
+code_postal: ''
 
 ---

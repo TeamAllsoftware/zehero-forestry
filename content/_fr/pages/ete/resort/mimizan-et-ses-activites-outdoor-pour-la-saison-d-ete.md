@@ -20,7 +20,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647959887/webs
 image01_alt: Femmes portant leurs planches de surf au coucher de soleil vers Mimizan
 button_to_link_to_ze_hero_shop:
   button_text: Réserver votre activité à Mimizan
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Mimizan&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   title: Mimizan
@@ -28,6 +28,7 @@ page_sections:
     Mimizan est une petite ville située dans les Landes, au bord de la côte Atlantique. Un lieu au charme landais pour un séjour familial, calme et dans une nature d'exception.
 
     Mimizan c'est 10km de plage, c'est le lac d’Aureilhan avec une flore incroyable, c'est également le courant le Mimizan ainsi que la réserve biologique de Malloueyre. Un concentré de nature entre océan, dune, lac, marais, forêts pour un environnement préservé. Vous trouverez un patrimoine culturel et naturel important.
+  blockBGcolor: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647959774/website/resorts/Mimizan/thibault-debaene-roKhOJg3EKM-unsplash.jpg
@@ -66,5 +67,7 @@ page_sections:
     Découvrez cette petite ville landaise, Mimizan et laissez-vous porter par sa tranquillité, sa nature préservée et son calme. En famille, entre amis, en couple, vous découvrirez de nombreuses activités outdoor, vous pourrez profiter des plages, des forêts, des sentiers et du soleil de la côte Atlantique.
 
     N’attendez plus, vivez votre moment, soyez le Hero.
+  blockBGcolor: ''
+code_postal: ''
 
 ---

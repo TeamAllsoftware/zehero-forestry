@@ -22,7 +22,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649326082/webs
 image01_alt: Image de plage et de forêt vers Porge
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité à Porge
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor
+  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Porge&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   blockBGcolor: blanc
@@ -85,5 +85,6 @@ page_sections:
 
     Séjournez à Porge, c’est profiter d’une petite ville du Médoc, c’est se laisser pénétrer par le bien-être d’une nature préservé entre océan et pins. C’est partir surfer avec Sama Sama Surf school, c’est louer un vélo et randonner dans les zones naturelles. À quelques kilomètres de Bordeau, profitez de vous détendre à Porge, ce petit havre de paix.
   title: ''
+code_postal: ''
 
 ---

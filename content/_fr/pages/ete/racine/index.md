@@ -17,8 +17,8 @@ page_sections:
     title: L'outdoor<br> dont vous<br> êtes<br> ZE HERO
     color: white
   Button1:
-    title: Acheter un sac à dos
-    link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    title: Réserver un cours de surf
+    link: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
   Button2:
     title: ''
     link: ''
@@ -30,35 +30,21 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751094/website/Instinct%20Trail/Instinct_trail_homme_collection_wbzqdp.webp
     alt_text: Un coureur équipé d'un sac à dos Instinct Trail
     title: Marque <br>Instinct Trail
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image2:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751107/website/Instinct%20Trail/Instinct_trail_femme_collection_hrqsxb.webp
-    alt_text: Une traileuse qui court avec un sac à dos Instinct
-    title: Sac à dos<br> de trail
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649075350/website/Sama%20Sama/222560203_126219926337611_385578455993659945_n.jpg
+    alt_text: Surf avec Sama Sama à Mimizan
+    title: Surf à Mimizan
+    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Mimizan&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648197165/website/assets/Personnages%20poses/Trail.png
     alt_text: Personnage ZE HERO en tenue de trail
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751112/website/Instinct%20Trail/Instinct_trail_collection_pbjwti.webp
-    alt_text: Les équipements Instinct Trail en vente dans la boutique ZE HERO
-    title: En vente <br> dans le eShop
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
-- template: 2coltxtimg
-  blockBGcolor: gris
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642676740/website/winter/ze-hero-marketplace-eshop_jwwp12.png
-  alt_text_for_image: Le eshop dans la rubrique vente de skis d'occasion
-  captiontitleuppercase: Fin de la saison de ski
-  title: VIVE LES SKIS D'OCCASION !
-  content: La saison de ski de piste se termine mais la saison de ski de randonnée
-    démarre seulement. Nous avons des skis d'occasion qui vous tendent les bras. Que
-    vous cherchiez à tester une pratique ou à offrir des skis, acheter des skis d'occasion
-    est une excellente idée pour éviter le consumérisme.
-  button:
-    text_button: Acheter maintenant
-    href_button: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
-    alt_button: ''
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
+    alt_text: Coureur faisant du Trail à Le Bar sur Loup dans les Alpes Maritimes
+    title: Sortie de Trail Running 06
+    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 - template: listServices
   service: activity
   blockBGcolor: blanc
@@ -127,12 +113,12 @@ page_sections:
   image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645714273/groupe/montblanc-escalade/logo/bandeau-zehero-marchand_rvjdy1.png
   baseline: L’outdoor au rythme de vos émotions
   title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
-  url_link: https://shop.ze-hero.com/
+  url_link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
   title_link: Visiter la boutique
 author: geoffreyarduini
 baseline: ''
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
 
 ---

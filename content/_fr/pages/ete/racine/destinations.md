@@ -7,7 +7,7 @@ meta-description: Dans nos destinations d'été vous trouverez les activités de
   personnelle immense, que ce soit seule, entre amis ou en famille
 permalink: "/fr/ete/destinations"
 redirection_from:
-  - /fr/ete/destinations/tignes
+- "/fr/ete/destinations/tignes"
 language: fr
 season: summer
 topnav_color_text: light
@@ -35,20 +35,19 @@ page_sections:
     title: Marque <br>Instinct Trail
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image2:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751107/website/Instinct%20Trail/Instinct_trail_femme_collection_hrqsxb.webp
-    alt_text: Une traileuse avec un sac à dos Instinct Trail
-    title: Sac à dos<br> de trail
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593940/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-58_cv3iam.jpg
+    alt_text: Cycliste avec polo Fausse route
+    title: Manche longue Fausse Route
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running?ca_brand=Fausse+Route&ca_type_gender=all
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646750262/website/Instinct%20Trail/Instinct_trail_accessoires_pccxqg.webp
-    alt_text: Détail d'un sac à dos de course de trail spécialisé de la marque Instinct
-      Trail
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196348/website/assets/Personnages%20poses/RandoHiver.png
+    alt_text: Personnage randonnée Ze Hero
     title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751112/website/Instinct%20Trail/Instinct_trail_collection_pbjwti.webp
     alt_text: Les équipements Instinct Trail en vente dans la boutique ZE HERO
-    title: En vente <br> dans le eShop
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    title: Shorts Instinct Trail
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running?ca_brand=Instinct+Trail+Inspired&ca_type_gender=all
 - template: heroImageFull
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
   gradient: non

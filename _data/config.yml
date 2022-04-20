@@ -109,23 +109,23 @@ fr:
   top-menu:
     winter:
       btn_text: e-Shop
-      btn_href: https://shop.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/fr/achat-occasion/
       btn_href_title: Lien vers la page du e-shop
     summer:
       btn_text: e-Shop
-      btn_href: https://shop.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/fr/achat-occasion/
       btn_href_title: Lien vers la page du e-shop
   modal-eshop-menu:
     winter:
       btn_text: Réserver
-      btn_href: https://shop.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/fr/achat-occasion/
       btn_href_title: Lien vers la page du e-shop pour réserver vos activités outdoor de l'hiver
       btn_text02: Contact
       btn_href_title02: Contactez l'équipe de ZE HERO pour toutes vos questions relatives aux activités outdoor, pour un conseil matériel ou des rensignements sur une offre, une destination ou autre
       contact-modal-txt01: Nous répondons à toutes vos questions<br> via ce formulaire ou par téléphone au
     summer:
       btn_text: Réserver
-      btn_href: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+      btn_href: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
       btn_href_title: Lien vers la page du e-shop pour réserver vos activités outdoor de l'été
       btn_text02: Contact
       btn_href_title02: Contactez l'équipe de ZE HERO pour toutes vos questions relatives aux activités outdoor, pour un conseil matériel ou des rensignements sur une offre, une destination ou autre
@@ -193,22 +193,22 @@ en:
   top-menu:
     winter:
       btn_text: e-Shop
-      btn_href: https://shop.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/en/achat-occasion/
       btn_href_title: Link to the e-shop page
     summer:
       btn_text: e-Shop
-      btn_href: https://shop.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/en/achat-occasion/
       btn_href_title: Link to the e-shop page
   modal-eshop-menu:
     winter:
       btn_text: e-Shop
-      btn_href: https://shop.ze-hero.com/achat-occasion/
+      btn_href: https://shop.ze-hero.com/en/achat-occasion/
       btn_href_title: Link to the e-shop page
       btn_text02: Contact
       btn_href_title02: Contactez l'équipe de ZE HERO pour toutes vos questions relatives aux activités outdoor, pour un conseil matériel ou des rensignements sur une offre, une destination ou autre
     summer:
       btn_text: e-Shop
-      btn_href: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+      btn_href: https://shop.ze-hero.com/en/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
       btn_href_title: Link to the e-shop page
       btn_text02: Contact
       btn_href_title02: Contactez l'équipe de ZE HERO pour toutes vos questions relatives aux activités outdoor, pour un conseil matériel ou des rensignements sur une offre, une destination ou autre

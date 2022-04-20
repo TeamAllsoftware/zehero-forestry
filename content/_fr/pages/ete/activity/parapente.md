@@ -92,6 +92,6 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Parapente&start-date=
 
 ---

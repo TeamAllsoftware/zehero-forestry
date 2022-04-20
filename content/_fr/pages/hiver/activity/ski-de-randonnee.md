@@ -17,6 +17,10 @@ engage: Profiter de la nature sans la cohue des pistes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645804153/website/winter/PXL_20201219_101906679_tuwz64.jpg
 image01_alt: Ski de randonnée dans les domaines du Queyras
 page_sections:
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195880/website/assets/Recadr%C3%A9es/skirando.png
+  alt_text_for_image: Equipement ski de randonnée
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg
   title: La liberté de s'éloigner des pistes, de faire sa trace, de descendre des
@@ -33,7 +37,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
+  blockBGcolor: gris
 - template: textarea
   content: "Le ski de randonnée reste une activité physique car la montée demande
     une bonne condition physique. Le dénivelé positif sera exigeant pour vos jambes,
@@ -45,6 +49,7 @@ page_sections:
     la montagne vierge et sauvage. Tracez vos propres lignes en hors-piste et profitez
     du hors-piste pour flotter sur la neige."
   title: ''
+  blockBGcolor: ''
 - template: textarea
   textarea: Et je peux en ajouter un au dessus histoire d'ajouter du contenu à ma
     guise. c'est absolument génial.
@@ -56,6 +61,7 @@ page_sections:
     Il faut également connaître son itinéraire afin de savoir quelle trace prendre
     et éviter de prendre des endroits trop risqués. Ensuite, il est impératif d''avoir
     sur soi, tout le matériel adéquat :'
+  blockBGcolor: ''
 - template: liststyle01numbered
   item:
   - Sonde
@@ -94,6 +100,7 @@ page_sections:
     chaussures ultra-light mais qui seront moins adaptées pour des longues sessions
     hors-pistes par leurs rigidités plus souple."
   title: ''
+  blockBGcolor: ''
 - template: 3coltxtimgtxt
   captionleftcontent: Liberté et découverte, plongez dans le paradis blanc
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540484/website/winter/robson-hatsukami-morgan-bkdzvgBB7rQ-unsplash_bnafvq.jpg
@@ -119,6 +126,7 @@ page_sections:
     Vous avez peut-être déjà entendu parlé de la Pierra Menta ?  \nDiscipline devenu
     aujourd'hui olympique, elle demande une très forte dépense énergétique car elle
     très complète et physique."
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883537/website/winter/Montagne-randonnee-blizzard_imccfq.jpg
   captionabovetitle: Physique à la montée, technique à la descente
@@ -151,6 +159,7 @@ page_sections:
     le ski de randonnée. Cela permet d'avoir des itinéraires faciles et agréables
     afin de profiter sereinement de la montagne.  "
   title: Où aller ?
+  blockBGcolor: ''
 - template: cta
   intro: Réservez vos activités de ski de randonnée
   headline: Cours privés ou collectifs, enfant et adultes sont disponibles

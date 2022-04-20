@@ -24,6 +24,7 @@ page_sections:
     Chez Ze Hero, nous avons créé des sorties vélo journée dans le but de progresser et découvrir les différentes vallées et lacs à [Méribel](https://www.ze-hero.com/fr/ete/destinations/meribel). Entourés des belles montagnes savoyardes et des routes emblématiques qui caractérisent le secteur de Méribel. Nous tenons à offrir la possibilité à chacun de se mesurer à quelques-uns des plus beaux cols des derniers Tours de France. Sans oublier le col devenu mythique : Le col de La Loze et ses passages à plus de 20% de pente.
 
     Nous sommes conscients que 6 jours de vélo ne peuvent convenir à tous pour diverses raisons. Néanmoins, vous restez passionné de vélo et peut être que vous aimeriez vous joindre à nous pour une ou plusieurs sorties vélo journée. C’est la raison pour laquelle nous proposons des options à la journée, avec ou sans location de matériel.
+  blockBGcolor: ''
 - template: textarea
   title: Les différents parcours
   content: "Nous vous proposons 6 journées de vélo de route à Méribel et dans son
@@ -32,6 +33,7 @@ page_sections:
     vélo journée comprend :  \n\\- Encadrement – Moniteurs diplômés d’État  \n\\-
     Ravitaillement en eau lors des étapes  \n\\- Suivi technique et logistique (transports
     bagages et vélos)"
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189945/website/V%C3%A9lo/collage1_fmakyp.png
   captiontitleuppercase: Journée 1
@@ -134,16 +136,18 @@ page_sections:
     En revanche, pas de stress sur les niveaux, nous vous demandons simplement une expérience de vélo de route avec un peu de dénivelé et, également, d’arriver avec un foncier suffisant pour tenir physiquement sur 6 jours. Par exemple, nous recommandons un minimum de 1000 kms dans les jambes et 10.000 m de dénivelé avant de nous rejoindre. Lors de la première journée, nous verrons toutefois si il y a de grosses différences de niveaux et si nous devons adapter les groupes et les sorties.
 
     Ensuite, nous vous garantissons les plus beaux paysages possibles et une belle ambiance pour que votre séjour soit le meilleur possible. Au programme des stages autour du lac d’Annecy, du Cormet de Roseland, Col du petit Saint Bernard, Col de la Madeleine… Des déjeuners tous ensemble avec des points de vue à couper le souffle. Suivant les sorties, vous aurez également des options bis plus ou moins difficiles afin d’être en phase avec vos attentes.
+  blockBGcolor: ''
 - template: textarea
   content: |-
     En ce qui concerne les hébergements possibles, nous proposons des chambres en chalet de standing : tarif à la chambre (1 à 2 personnes) avec des prix intéressants en période estivale notamment. Finalement, notre objectif est de passer un maximum de temps ensemble. C’est pour cela que nous souhaitons que nous puissions prendre les repas du soir ensemble et, ainsi, que nos discussions tournent autour de notre passion mais pas seulement.
 
     Néanmoins, vous pourrez également prendre un hébergement autre. Nous sommes alors là pour vous conseiller si vous souhaitez des appartements ou des prestations hôtelières précises.
   title: 'Hébergement '
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
 
 ---
