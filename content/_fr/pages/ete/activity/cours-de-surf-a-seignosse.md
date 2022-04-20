@@ -15,7 +15,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340584/webs
 image01_alt: Surfeur à Seignosse faisant du surf
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Seignosse&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 page_sections:
 - template: textarea
   title: Cours de surf à Seignosse
