@@ -171,6 +171,6 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
 
 ---

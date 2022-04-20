@@ -70,6 +70,6 @@ introduction:
     cette station balnéaire.
   zehero_advice: ZE HERO vous conseille des activités et de la location pour toute
     votre famille
-code_postal: 6,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
 
 ---

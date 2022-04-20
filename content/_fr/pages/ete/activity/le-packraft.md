@@ -15,7 +15,7 @@ image01_alt: Personne pratiquant le Packraft sur un lac
 categorie: Eaux vives
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   title: Le Packraft
@@ -25,6 +25,7 @@ page_sections:
     Le packraft est une embarcation gonflable de rivière, lac et mer qui ressemble au kayak. Il est très léger (de 2kg à 6kg pour les doubles sièges) et très compact (il se range dans un sac à dos ou une sacoche de selle de vélo) et se gonfle en 5 minutes avec son sac de glonflage. Il se dégonfle également très facilement et rapidement pour se ranger directement dans son sac ultra-compact. Vous pourrez alors le mettre dans votre sac de randonnée. Il est très facile d'utilisation et ne demande pas d'avoir une pratique accrue du kayak pour pouvoir le maîtriser. Par sa taille et son volume, il sera très facilement maniable et sera très stable.
 
     Le packraft permet de randonner sur des sentiers et de partir naviguer sur une rivière pour atterrir plus bas et continuer son périple. Vous pouvez également le faire en VTT, de quoi combiner des disciplines et mixer ses aventures.
+  blockBGcolor: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646983786/website/summer/patrick-hendry-deujpAw_I2E-unsplash.jpg
@@ -55,6 +56,7 @@ page_sections:
     plus sur votre dos, mais l'aventure vous récompensera par les émotions vécues.\n\nPartez
     alors randonner dans des lieux où vous croiserez peu de monde et découvrirez des
     endroits cachés et inaccessibles. "
+  blockBGcolor: ''
 - template: 2coltxtimg
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646983748/website/summer/paxson-woelber-4RD_ixJIJUI-unsplash.jpg
@@ -87,6 +89,8 @@ page_sections:
     Essayer le packraft d'abord sur des lacs ou des eaux calmes afin de comprendre correctement comment vous mettre, comment bien pagayer et vous tenir dessus.
 
     Vivez votre 1er expérience de packraft avec Ze Hero pour un moment riche en émotion et de découverte. Partez vivre une micro-aventure toute nouvelle pour des moments uniques.
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+
 ---

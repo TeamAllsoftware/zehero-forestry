@@ -16,7 +16,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648112274/webs
 image01_alt: Des personnes faisant du VTT électrique à Les Menuires
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Les+Menuires&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
 page_sections:
 - template: textarea
   blockBGcolor: blanc

@@ -28,12 +28,14 @@ page_sections:
 
     Au départ de **Chambéry** vous traverserez la **Chartreuse**, le **Vercors**, les **Monts du Vaucluse** avec le **Ventoux**, sans oublier les **gorges du Verdon** pour, finalement, traverser l‘arrière pays Niçois et arriver à **Nice.**
   title: La traversée des Pré-Alpes
+  blockBGcolor: ''
 - template: textarea
   content: "● Encadrement – Moniteurs diplômés d’État  \n● Hébergement en gîte et
     chambres d’hôtes  \n● Suivi technique et logistique (transports bagages et vélos)
     \ \n● Ravitaillements en eau et pauses salées  \n● Transports Hébergements → Restaurants
     \ \n● Transfert retour – Véhicule Grand Confort"
   title: 'Ce séjour vélo dans les Alpes comprend '
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643292603/website/V%C3%A9lo/collage1_6_yhynog.png
   captiontitleuppercase: Journée 1
@@ -130,6 +132,6 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor/sejour-velo-route/17206-traversee-des-pre-alpes-en-velo-6-jours-activite-ze-hero
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17206-traversee-des-pre-alpes-en-velo-6-jours-activite-ze-hero
 
 ---
