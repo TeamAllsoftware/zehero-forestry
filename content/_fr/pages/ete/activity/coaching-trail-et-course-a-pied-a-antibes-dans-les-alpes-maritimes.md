@@ -105,6 +105,6 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre cours de course à pied à Antibes
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 
 ---
