@@ -22,7 +22,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649941397/webs
 image01_alt: Eglise de pierre dans la nature dans le Tarn
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité dans le Tarn
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor
 page_sections:
 - template: textarea
   blockBGcolor: blanc

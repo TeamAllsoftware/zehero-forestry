@@ -16,7 +16,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643107338/webs
 image01_alt: Coureur de trail courant sur un sentier en terre dans la forêt
 button_to_link_to_ze_hero_shop:
   button_text: Réserver une activité Trail
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 page_sections:
 - template: textarea
   title: La préparation d’une course de Trail
@@ -201,7 +201,7 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   button:
-    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     text_button: Réserver un coach sportif
   intro: Entraînement collectif ou particulier
   headline: Avec un coach sportif, la préparation est plus simple & motivante

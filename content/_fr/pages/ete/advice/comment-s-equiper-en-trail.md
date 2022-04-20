@@ -15,7 +15,7 @@ image01_alt: Photos de plusieurs coureurs de course à pied et trail où l'on vo
   leurs jambes en short de course à pied et chaussure de cours à pied et de trail.
 button_to_link_to_ze_hero_shop:
   button_text: Trouver votre séance de Trail
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 page_sections:
 - template: 2colimgtxt
   content: 'La course à pied est un sport où l’équipement porté reste simple : un

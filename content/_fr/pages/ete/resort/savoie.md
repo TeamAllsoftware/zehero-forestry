@@ -20,7 +20,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749757/webs
 image01_alt: Vue sur le lac du bourget
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité en Savoie
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=12%2F12%2F2021
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=12%2F12%2F2021
 page_sections:
 - template: textarea
   content: "Le département de la Savoie de la région Auvergne-Rhône-Alpes est le plus

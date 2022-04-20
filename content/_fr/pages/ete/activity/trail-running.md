@@ -126,7 +126,7 @@ page_sections:
   intro: Réservez dès maintenant vos sorties trail
   headline: Cours privés ou collectifs sont disponibles
   button:
-    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     text_button: Réserver maintenant >
 - template: imgWide
   blockBGcolor: blanc

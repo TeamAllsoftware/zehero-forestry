@@ -22,7 +22,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648197029/webs
 image01_alt: Paysage de corse au coucher de soleil vers Bonifacio
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité en Corse
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: textarea
   blockBGcolor: blanc

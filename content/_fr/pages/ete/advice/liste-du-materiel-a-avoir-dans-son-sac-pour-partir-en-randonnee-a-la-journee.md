@@ -15,7 +15,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646301630/webs
 image01_alt: Randonneur marchant en montagne avec un gros sac à dos de randonnée
 button_to_link_to_ze_hero_shop:
   button_text: Trouver votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor
 page_sections:
 - template: textarea
   title: Le sac de randonnée pour une journée

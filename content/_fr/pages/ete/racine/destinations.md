@@ -33,7 +33,7 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751094/website/Instinct%20Trail/Instinct_trail_homme_collection_wbzqdp.webp
     alt_text: Un coureur équipé d'un sac à dos Instinct Trail
     title: Marque <br>Instinct Trail
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image2:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593940/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-58_cv3iam.jpg
     alt_text: Cycliste avec polo Fausse route
@@ -42,7 +42,7 @@ page_sections:
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196348/website/assets/Personnages%20poses/RandoHiver.png
     alt_text: Personnage randonnée Ze Hero
-    title_Link: https://shop.ze-hero.com/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751112/website/Instinct%20Trail/Instinct_trail_collection_pbjwti.webp
     alt_text: Les équipements Instinct Trail en vente dans la boutique ZE HERO
@@ -56,7 +56,7 @@ page_sections:
     color: white
   Button1:
     title: Réserver du canyoning
-    link: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+    link: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
   Button2:
     title: 
     link: 
@@ -69,7 +69,7 @@ page_sections:
     color: white
   Button1:
     title: Réserver des activités
-    link: https://shop.ze-hero.com/activites-Outdoor?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Parapente&start-date=
+    link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Parapente&start-date=
   Button2:
     title: 
     link: 
@@ -78,6 +78,6 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
 
 ---
