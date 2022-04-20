@@ -50,21 +50,21 @@ page_sections:
   content: |-
     Les différentes structures qui mettent en place ses activités proposent chaque jour une activité différente. Un système de garderie sera également en place. Elles auront lieu généralement l'après-midi ainsi que le soir en fonction de l'activité mise en place : marche en raquette dans les bois, construction d'igloo la nuit...
 
-    Retrouvez toutes les [activités non-ski ](https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=)pour vos enfants.
+    Retrouvez toutes les [activités non-ski ](https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=)pour vos enfants.
   title: ''
 - template: cta
   intro: Réservez dès maintenant vos activités pour enfants
   headline: Igloo, raquettes et luge, les activités pour vos enfants
   button:
     text_button: Réserver maintenant >
-    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
 engage: Des activités accessibles, ludiques et outdoor
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez une activité pour v
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=21%2F11%2F2021
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=21%2F11%2F2021
 categorie: Pour les enfants
 
 ---

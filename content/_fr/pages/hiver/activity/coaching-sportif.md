@@ -16,7 +16,7 @@ image01_alt: Course à pied sur piste en groupe
 page_sections:
 - template: textarea
   content: |-
-    Vous désirez progresser physiquement, évoluer, vous dépasser, dans un groupe ou seul avec un ou une coach ? Une [séance de coaching sportif](https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=) c'est avoir un coach qui aura un regard précis sur toutes vos postures, vous accompagner dans vos exercices, un coach qui va vous suivre.
+    Vous désirez progresser physiquement, évoluer, vous dépasser, dans un groupe ou seul avec un ou une coach ? Une [séance de coaching sportif](https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=) c'est avoir un coach qui aura un regard précis sur toutes vos postures, vous accompagner dans vos exercices, un coach qui va vous suivre.
 
     Que vous souhaitez être maintenu en forme, préparer une compétition, avoir une meilleure condition physique, vous muscler, préparer un défi, le coaching sera la meilleure solution.
   title: Le coaching sportif
@@ -79,14 +79,14 @@ page_sections:
   headline: Cours privés ou collectifs sont disponibles
   button:
     text_button: Réserver maintenant >
-    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
 engage: Une préparation pour affronter toutes les situations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre session de coaching sportif
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=21%2F11%2F2021
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=21%2F11%2F2021
 categorie: Coaching
 
 ---

@@ -98,14 +98,14 @@ page_sections:
   headline: Cours privés ou collectifs, enfant et adultes sont disponibles
   button:
     text_button: Réserver maintenant >
-    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre cours de snowboard
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=21%2F11%2F2021
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=21%2F11%2F2021
 categorie: Snowboard
 
 ---

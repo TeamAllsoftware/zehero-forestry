@@ -116,7 +116,7 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   button:
-    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
     text_button: Réserver maintenant >
   intro: Réservez dès maintenant vos activités hors piste
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
@@ -126,7 +126,7 @@ topnav_text_color: light
 engage: 'Explorer la montagne et ses hors pistes '
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre cours de hors piste
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=21%2F11%2F2021
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=21%2F11%2F2021
 categorie: Ski
 
 ---
