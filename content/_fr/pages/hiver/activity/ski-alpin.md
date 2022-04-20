@@ -84,7 +84,7 @@ page_sections:
   blockBGcolor: gris
 - template: cta
   button:
-    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
     text_button: Réserver maintenant >
   intro: Réservez dès maintenant vos activités ski
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
@@ -94,6 +94,6 @@ topnav_text_color: light
 engage: Visiter un domaine en dévalant chaque piste
 button_to_link_to_ze_hero_shop:
   button_text: réserver des cours de ski de piste
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
 
 ---

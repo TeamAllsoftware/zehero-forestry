@@ -112,7 +112,7 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   button:
-    href_button: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     text_button: Réservez maintenant >
   intro: Réservez dès maintenant vos sorties de trail
   headline: Cours privés ou collectifs sont disponibles
@@ -124,7 +124,7 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Trouver votre activité de trail
-  url_to_shop_zehero: https://shop.ze-hero.com/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 categorie: Running / Trail
 
 ---

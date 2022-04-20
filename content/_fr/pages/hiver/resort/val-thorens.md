@@ -97,7 +97,7 @@ engage: 'test test test test test test test test '
 page_title: Val Thorens, la plus haute station d'Europe
 button_to_link_to_ze_hero_shop:
   button_text: Voir les locations à Val-Thorens
-  url_to_shop_zehero: https://shop.ze-hero.com/location-materiel?station=val-thorens&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
 introduction:
   you_arrive: Vous arrivez à Val-Thorens et souhaitez louer du matériel dans cette
     station.

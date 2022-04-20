@@ -14,7 +14,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330388/webs
 image01_alt: Ski de piste, ski de freeride, ski all mountain
 button_to_link_to_ze_hero_shop:
   button_text: Achetez vos prochains skis d'occasions
-  url_to_shop_zehero: https://shop.ze-hero.com/achat-occasion/equipement-occasion/ski-occasion
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
 page_sections:
 - template: textarea
   content: "Vous recherchez du matériel de **ski d’occasion** et vous ne savez pas
