@@ -16,7 +16,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647857920/webs
 image01_alt: Guidon d'un VTT électrique à Méribel
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=M%C3%A9ribel&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
 page_sections:
 - template: textarea
   blockBGcolor: blanc
