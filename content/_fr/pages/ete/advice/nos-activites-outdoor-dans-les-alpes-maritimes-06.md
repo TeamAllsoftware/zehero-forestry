@@ -76,6 +76,23 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
+  alt_text_for_image: Personne dans un canyoning dans les Alpes Maritimes
+  captiontitleuppercase: Un département d'activité d'eau vive
+  title: Les activités d'eaux vive dans les Alpes Maritimes
+  content: |-
+    Les Alpes Maritimes est un département incroyable pour toutes les activités d'eau vives. Avec la Vésubie, la Roya, le Var, la Tinée, le Loup, les Cians, la Siagne, les Alpes Maritimes regorgent de rivière où la pratique d'activité est incroyable.
+
+    Vous pourrez alors pratiquer énormément de canyonings. Vous en trouverez dans les gorges du loup, de la Vésubie, de la Tinée et de la Roya. Il y aura des parcours pour tous les niveaux, toutes les envies. Que ce soit de la randonnée aquatique comme le canyoning des gorges du Loup, au canyoning technique et engagé de la Roya, vous trouverez un large choix.
+
+    Avec Ze Hero découvrez également nos propres canyonings dans les gorges du loup mais également à la Bollène, Cramassourri etc.
+
+    Vous pourrez également pratiquer le Rafting ainsi que l'Hydrospeed sur certaines bases nautiques.
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+    text_button: Nos canyoning dans les gorges du Loup
+    alt_button: ''
 
 ---
