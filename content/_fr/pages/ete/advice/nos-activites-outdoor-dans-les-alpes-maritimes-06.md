@@ -28,6 +28,8 @@ page_sections:
     Dans le haut pays, le massif du Mercantour s'impose et ses sommets à plus de 3000m ne vous laisseront pas indifférant. Isola 2000, Auron, St Martin de Vésubie, Breil sur Roya, Entraunes, des lieux aux pieds des montagnes ou au cœur qui vous découvrir ses montagnes préservés et sauvages.
 
     Séjourner dans les Alpes Maritimes, c'est profiter de randonner dans une variété d'itinéraire, c'est des activités d'eaux vives, c'est du vélo de route et du VTT, c'est du Trail, du paddle et du surf, c'est de l'escalade et de l'alpinisme.
+
+    Découvrez toutes nos activités dans les Alpes Maritimes de nos partenaires Ze Hero.
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
@@ -53,6 +55,26 @@ page_sections:
   button:
     text_button: Nos sorties de trail dans les Préalpes
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650530024/website/By%20Ze%20Hero%20Activity/IMG_20200730_110623.jpg
+  alt_text_for_image: Des personnes randonnant dans le Mercantour dans les Alpes Maritimes
+  captiontitleuppercase: Le plaisir des balades en montagnes
+  title: La randonnée dans les Alpes Maritimes
+  content: |-
+    La randonnée dans les Alpes Maritimes est une activité phare. Entre les balades du littoral, les Préalpes d'Azur et le massif du Mercantour, vous trouverez une multitude de circuits, d'itinéraires et de parcours.
+
+    Entre la mer et la montagne, vous trouverez votre bonheur de randonner. En famille, entre amis, en couple ou seul, le choix est large et pour tous les niveaux. Découvrez la flore variée de la mer au massif du Mercantour, sa faune également. Les paysages sont incroyablement variés et la diversité vous plongera dans des lieux sublimes. Une nature parfois verdoyante, aux plateaux plus arides, aux terres ocre des gorges des Cians, aux paysages montagneux et rocailleux, la randonnée sera diverse et riche en découverte.
+
+    Mais c'est également un patrimoine riche en histoire, une nature protégée tout comme vous le trouverez dans le parc national du Mercantour. Un guide vous emmènera sur les sentiers pour faire découvrir les plus beaux panoramas, les plus beaux lieux ainsi que vous apportez ses connaissances sur l'environnement.
+
+    Vous pourrez randonner dans les Alpes Maritimes quelques heures, à la journée ou même en itinérances, sur plusieurs jours. Vous découvrirez différents thèmes comme la rencontre avec les marmottes, les chamois, les randonnées axées sur la flore, sur la géologie, sur l'histoire ou encore sur des sommets et lacs.
+
+    Différents accompagnateurs montagnes vous proposeront leurs services dans les Alpes Maritimes afin de randonner dans les multiples secteurs nature.
+  button:
+    text_button: ''
+    href_button: ''
     alt_button: ''
 published: false
 
