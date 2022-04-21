@@ -62,6 +62,27 @@ page_sections:
     text_button: Sorties de VTT à Méribel
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=M%C3%A9ribel&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=15%2F07%2F2022
     alt_button: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/51384836504_bff6429438_k_mkw8t9.jpg
+  alt_text_for_image: Cycliste sur les routes de Méribel en Savoie
+  captiontitleuppercase: Les balades à vélo en Savoie
+  title: Le vélo de route en Savoie
+  content: |-
+    La Savoie offre un terrain de jeu incroyable pour la pratique du vélo de route. Entre ces nombreux cols mythiques, parmi les plus célèbres du Tour de France, mais également des routes à travers les montagnes et les villages, les plaines et les lacs, les routes seront idéales pour rouler. Que ce soit pour découvrir le vélo, le paysage, l’effort, partager en moment en famille, mais aussi pour l’engagement physique, la vitesse, l’effort et la récompense du sommet, vous trouverez votre activité.
+
+    Dans chaque station, il vous sera déjà proposé de nombreux parcours, ascension. De la demi-journée à la journée ainsi que sur plusieurs jours, les offres sont vastes et vous pourrez varier vos plaisirs.
+
+    Avec Ze Hero, nous vous proposons [plusieurs itinéraires de vélo de route](https://www.ze-hero.com/fr/ete/conseils/sejours-activites-velo-de-route) en Savoie. Vous allez retrouver des journées de vélo autour de Méribel, entre les 3 Vallées, la Haute Tarentaise et jusqu'à Annecy. Ensuite, vous allez retrouver nos offres d'itinérance à vélo. Nous proposons en départ en Savoie et Haute Savoie, la traversée des Alpes jusqu'à Nice. Découvrez tous les renseignements ici :
+
+    * [Traversée des Alpes ](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)
+    * [Traversée des Pré-alpes](https://www.ze-hero.com/fr/ete/activites/traversee-des-pre-alpes-en-velo)
+    * [6 journées à Méribel ](https://www.ze-hero.com/fr/ete/activites/velo-de-route-journees-meribel)
+    * [6 jours autour de Méribel](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=15%2F07%2F2022
+    text_button: Réservez votre sortie vélo à la journée à Méribel
+    alt_button: ''
 published: false
 
 ---
