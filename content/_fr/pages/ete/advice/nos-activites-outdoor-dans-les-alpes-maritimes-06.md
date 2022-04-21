@@ -27,7 +27,7 @@ page_sections:
 
     Dans le haut pays, le massif du Mercantour s'impose et ses sommets à plus de 3000m ne vous laisseront pas indifférant. Isola 2000, Auron, St Martin de Vésubie, Breil sur Roya, Entraunes, des lieux aux pieds des montagnes ou au cœur qui vous découvrir ses montagnes préservés et sauvages.
 
-    Séjourner dans les Alpes Maritimes, c'est profiter de randonner dans une variété d'itinéraire, c'est des activités d'eaux vives, c'est du vélo de route et du VTT, c'est du Trail, du paddle et du surf, c'est de l'escalade et de l'alpinisme.
+    Séjourner dans les Alpes Maritimes, c'est profiter de randonner dans une variété d'itinéraire, ce sont des activités d'eaux vives, c'est du vélo de route et du VTT, c'est du Trail, du paddle et du surf, c'est de l'escalade et de l'alpinisme.
 
     Découvrez toutes nos activités dans les Alpes Maritimes de nos partenaires Ze Hero.
 - template: 2colimgtxt
