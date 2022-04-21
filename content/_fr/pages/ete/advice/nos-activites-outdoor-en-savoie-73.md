@@ -83,5 +83,6 @@ page_sections:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=15%2F07%2F2022
     text_button: Réservez votre sortie vélo à la journée à Méribel
     alt_button: ''
+published: false
 
 ---
