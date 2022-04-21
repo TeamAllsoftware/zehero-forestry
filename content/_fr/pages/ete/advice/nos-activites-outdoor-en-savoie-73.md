@@ -59,8 +59,8 @@ page_sections:
 
     Avec Ze Hero, nos partenaires vous proposent aujourd'hui différentes randonnées en VTT et VTT électrique au sein de la station des Ménuires, de Méribel et de St Martin de Belleville. Vous pourrez choisir entre différentes formules, comme l'initiation, des balades plus sportives et des balades à la journée.
   button:
-    text_button: ''
-    href_button: ''
+    text_button: Sorties de VTT à Méribel
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=M%C3%A9ribel&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=15%2F07%2F2022
     alt_button: ''
 published: false
 
