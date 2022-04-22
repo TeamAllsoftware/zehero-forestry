@@ -99,17 +99,28 @@ page_sections:
     Le trail se pratique toute l'année même l'hiver. L'encadrement en trail est idéal si vous souhaitez progresser, découvrir et partager. Un coach en trail running vous permettra d'évoluer et de progresser que ce soit en montée, en descente, sur plat. Cela pourra se travailler sur des séances dîtes spécifiques.
 
     Vous pourrez également participer à des sorties de trail longues. Elles permettront de découvrir un lieu, un environnement avec un groupe.
+
+    Découvrez les différentes offres de Ze Hero en Trail Running :
   title: ''
   blockBGcolor: ''
-- template: 3coltxtimgtxt
-  captionleftcontent: 'Soyez le Hero, partez créer vos propres exploits '
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG20210813131314_aotkis.jpg
-  captionrighttitle: Ne courez pas après le temps, appréciez en chaque secondes
-  captionrightcontent: Quelque soit l'intensité de votre course, la durée et la difficulté,
-    nous ressentons tous le même plaisir après avoir foulé les sentiers.
-  center_alt_text_for_image: Une fille de dos faisant du trail et courant en montagne
-    face au Lac des Merveilles
-  blockBGcolor: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774637/website/By%20Ze%20Hero%20Activity/IMG_20200723_153328_1.jpg
+  alt_text_for_image: Coureur de trail dans les Alpes Maritimes sur le Cheiron
+  captiontitleuppercase: Le Trail dans les Préalpes d'Azur
+  title: Le Trail dans les Alpes Maritimes
+  content: |-
+    Le Trail dans les Alpes Maritimes est un paradis pour les traileurs, les amoureux de la nature et de l'endurance. La variété de l'environnement est un incroyable et son terrain de jeux est très varié. Que ce soit près de la mer avec des chemins de littoral, les collines et ses plaines plus sauvage et aride des Préalpes d'Azur, aux montagnes du Mercantour, le choix est immense.
+
+    Que ce soit pour découvrir le Trail, pour vous initier, pour progresser et vous perfectionner, chez Ze Hero, vous découvrirez différentes offres.
+
+    Tout d'abord vous pourrez retrouver différentes offres de Trail à Bar sur Loup et ses environs dans les Préalpes d'Azur : [Trail à Bar sur Loup avec différentes offres de niveau.](https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=)
+
+    Vous pourrez également courir dans le [massif de l'Esterel](https://shop.ze-hero.com/fr/activites-Outdoor/trail/17205-trail-journee-activite-ze-hero) ainsi que retrouver différentes formules d'entraînement plus spécifique vers [Antibes](https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=).
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
