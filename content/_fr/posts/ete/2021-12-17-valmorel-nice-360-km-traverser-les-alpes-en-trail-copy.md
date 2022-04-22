@@ -50,33 +50,15 @@ page_sections:
 
     Ce massif regorge aussi de voies classiques plus ou moins délaissées. Les topos du Mont-Aiguille, des Deux Sœurs (Agathe et Sophie) et du Gerbier sont à étudier avec minutie pour dénicher quelques perles rares.
   alt_text_for_image: 'femme qui grimpe en falaise '
-- template: textarea
-  content: "Le trajet, c'est en gros 360 km et 20 000 de dénivelé positif. Si je partais
-    avec ma tente, il me fallait du matériel adapté : sac, tente ultra-light, duvet,
-    réchaud…  \nFinalement, j’arrivais avec un poids de sac à presque 10kg. Si je
-    dormais dans les refuges, j’avais un sac de 5kg donc vraiment plus léger.  \nJ’ai
-    opté pour la traversée option confort. Cela me permettait d’une certaine manière
-    d’avoir des journées moins longues et de bien dormir. C’était aussi sympa de se
-    retrouver dans un refuge et rencontrer des promeneurs. L’idée d’être 100% autonome
-    me séduisait plus, mais j’ai opté pour le sac léger.\n\nJ'aurais sûrement mis
-    moins de jours si je n’avais pas dormi en refuge, mais j’ai ainsi découpé mon
-    trajet en 7 jours (assez drôle, car en voiture en passant par la Nationale je
-    mettais environ 7 heures).  \nJ’essaye alors de découper au mieux les étapes avec
-    l’aide de personnes qui ont déjà fait le GR5 (vive internet). J’ai décidé de commencer
-    par des grosses étapes, d’avoir quelques étapes courtes, puis une dernière étape
-    longue. Finalement, tous mes stops se trouvent dans des spots magiques. Je finis
-    alors par réserver tous mes refuges et c’est une bonne chose de faite."
-  title: ''
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732892/website/blog/Valmorel%20-%20Nice/IMG_20200706_144212_aisyx0.jpg
-  captiontitleuppercase: Mon petit baluchon
-  title: Mais que prendre dans ce petit sac ?
+  title: 'Tout savoir sur ce site '
   content: |-
-    Que prendre quand on part pour courir 7 jours en montagne sachant que je dors en refuge ? Je ne veux pas que mon sac excède les 8kg, il faut donc se limiter au strict nécessaire.
+    A proximité de Grenoble et Chambéry, En Chartreuse, on trouve de très belles voies calcaires dont la dent de Crolles, Chamechaude.. endroits mythiques de ce massif.
 
-    Voilà ce qu’il y avait dans mon sac :
-  alt_text_for_image: Affaires de trail posées sur une table pour réaliser la traversée
-    Valmorel Nice
+    Accessibles depuis Lyon, Archiane, Glandasse, les trois Becs sont les principales falaises du Diois avec de grandes voies spectaculaires.Elles sont nombreuses et de qualité. Pour aller plus loin, le topo “Escalades dans le Diois” vous propose les voies incontournables du Diois avec de nombreux conseils et explications à votre disposition.
+  alt_text_for_image: 'falaise du sud de la France '
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650620240/website/download.jpg
+  captiontitleuppercase: 'Des hautes falaises des préalpes '
 - template: textarea
   content: Tout cela, je l’ai mis dans un sac de compression étanche. J’ai rentré
     ensuite le tout dans un sac de 12L, le modèle Eklipse de la marque Instinct Trail.
