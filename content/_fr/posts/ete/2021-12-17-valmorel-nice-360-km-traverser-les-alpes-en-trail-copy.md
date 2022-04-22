@@ -18,6 +18,23 @@ page_sections:
 
     Cependant, pour pouvoir y parvenir, le grimpeur en question doit enchaîner plusieurs longueurs. Grimper en grande voie d’une traite est impossible. Premièrement dû au longueur de corde qui ne sont pas assez conséquente mais aussi du aux pauses que le grimpeur doit prendre pour récupérer, se concentrer etc.
   blockBGcolor: blanc
+- template: liststyle01
+  item:
+  - 'Le plus important sera de ne douter à aucun moment pour ne pas mettre en danger
+    l’ensemble de la cordée. Soyez confiants en ce que vous ferez et entreprenez au
+    niveau de vos manipulations! '
+  - 'Choisir un itinéraire qui soit abordable pour débuter puis monter crescendo au
+    fur et à mesure que vous vous sentirez à l’aise '
+  - 'Prendre en compte la gestion de l''effort physique avant chaque sortie : marche
+    d’approche plusieurs heures de grimpe etc '
+  - 'Avoir bien assimilé les bases de l’escalade en tête '
+  - 'Avoir déjà pratiqué régulièrement l''escalade en falaise (l''extérieur n’a rien
+    à voir avec l''escalade en indoor, le corps doit appréhender et prendre en compte
+    d’autres facteurs) '
+  - 'Etre sur d’avoir le matériel d’escalade adéquat pour la grande voie (en particulier
+    longes, plaquette autobloquante, au moins 15 dégaines, sangles) '
+  - 'Etre à l’aise avec les manipulations de cordes '
+  title: " Nos quelques conseils pour débuter "
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638805924/website/summer/annie-spratt-kZO9xqmO_TA-unsplash_f7k1i3.jpg
   captiontitleuppercase: Comment je vais faire cette traversée ?
@@ -58,19 +75,6 @@ page_sections:
     Voilà ce qu’il y avait dans mon sac :
   alt_text_for_image: Affaires de trail posées sur une table pour réaliser la traversée
     Valmorel Nice
-- template: liststyle01
-  item:
-  - Tongs
-  - Sac à viande
-  - Chargeur téléphone / montre et frontale
-  - 3 flasques eau / Barres énergétiques
-  - Trousse de soin / Micro serviette / Frontale
-  - 1 doudoune light
-  - 1 survêtement ultra light / 1 pantalon de pluie
-  - 4 paires de chaussettes
-  - 1 Tshirt / 1 Short / 1 manche longue
-  - Kway ultra light et coupe vent
-  title: ''
 - template: textarea
   content: Tout cela, je l’ai mis dans un sac de compression étanche. J’ai rentré
     ensuite le tout dans un sac de 12L, le modèle Eklipse de la marque Instinct Trail.
