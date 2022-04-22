@@ -57,7 +57,7 @@ page_sections:
   captiontitleuppercase: 'Des hautes falaises des préalpes '
   title: 'Tout savoir sur ce site '
   content: |-
-    A proximité de Grenoble et Chambéry, En Chartreuse, on trouve de très belles voies calcaires dont la dent de Crolles, Chamechaude.. endroits mythiques de ce massif.
+    A proximité de Grenoble et Chambéry, en Chartreuse, on retrouve de très belles voies calcaires dont la dent de Crolles, Chamechaude.. endroits mythiques de ce massif.
 
     Accessibles depuis Lyon, Archiane, Glandasse, les trois Becs sont les principales falaises du Diois avec de grandes voies spectaculaires. Elles sont nombreuses et de qualité. Pour aller plus loin, le topo “Escalades dans le Diois” vous propose les voies incontournables du Diois avec de nombreux conseils et explications à votre disposition.
 - template: 2colimgtxt
