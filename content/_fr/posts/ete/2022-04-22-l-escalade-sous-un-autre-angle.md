@@ -40,7 +40,7 @@ page_sections:
   captiontitleuppercase: 'Les meilleures sites '
   title: 'De nos plus beaux sites jusqu''à l''international '
   content: |-
-    Même si ce genre de pratique peut paraître atypique, l'escalade en grande voie à quand même ses “spot” de prédilection comme on dit dans le milieu. En voici quelques uns pour les plus curieux.
+    Même si ce genre de pratique peut paraître atypique, l'escalade en grande voie à quand même ses “spots” de prédilection comme on dit dans le milieu. En voici quelques uns pour les plus curieux.
 
     Hières sur Amby (Isère) et la Roche de Narse (Ain) sont deux sites particulièrement conseillés pour l’initiation de l’escalade en grande voie avec peu de longueur pour commencer.
 
