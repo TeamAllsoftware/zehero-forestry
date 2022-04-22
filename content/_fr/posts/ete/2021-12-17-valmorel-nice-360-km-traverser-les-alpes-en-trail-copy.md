@@ -70,25 +70,16 @@ page_sections:
   alt_text_for_image: Vue panoramique de montagne dans la vallée de la clarée
   captiontitleuppercase: 'à la Haute montagne '
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650534769/website/summer/baptiste-OS671l4wILE-unsplash.jpg
-- template: parlaxgridtxtimg
-  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733480/website/blog/Valmorel%20-%20Nice/IMG_20200711_091853_ymrfdp.jpg
-  captionabovetitle: Mercantour j'arrive
-  title: Larche - Roya
-  gridline1title: Mélèzes et pins, ca y est je me rapproche de la mer
-  gridline1content: Après une longue partie sur une route, je longe l'Ubayette en
-    passant au Lac de Lauzanier, puis celui "de derrière la Croix" et enfin le fameux
-    "Pas de la cavale". Me voilà dans le Mercantour. Quel pays, quel paysage, quel
-    dépaysement, paisible et non péniblement j'avance.
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733481/website/blog/Valmorel%20-%20Nice/IMG_20200711_083803_ymvbxg.jpg
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1639733480/website/blog/Valmorel%20-%20Nice/IMG_20200711_100559_ai0crd.jpg
-  gridline2title: 'Je franchis le camp des fourches, le lieu est magique. '
-  gridline2content: 'Après un arrêt à Bousiéyas, je repars en direction du Col de
-    la Colombière puis St Dalmas le Selvage. Cailloux et pentes raides, je suis bien
-    arrivé dans les Alpes Maritimes. Je commence à ressentir des petites ampoules.
-    Arrivé à Roya, petit refuge atypique, je commande un Milkshake : Royal à Roya '
-  prlax_alt_text_for_image: 'Vue panoramique des montagnes '
-  grid_1_alt_text_for_image: Vue d'un lac dans les montagnes
-  grid_2_alt_text_for_image: Vue du camp des fourches avant le col de la bonette
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646233990/website/summer/sylvain-mauroux-BN3pSWB95jw-unsplash_mtqpau.jpg
+  alt_text_for_image: 'crête de montagne '
+  captiontitleuppercase: 'Jusqu''au sud de la France '
+  title: 'un environnement plus confortable pour commencer '
+  content: |-
+    Plus au sud, les gorges du Verdon , endroits mythiques dans le domaine de l’escalade, proposent le plus grand choix de voies de France et peut-être même d’Europe. La qualité du rocher est ce qui a fait en particulier la réputation de ces falaises.
+
+    Le sud de la France détient aussi d’autres sites majeurs, dans un autre style mais tout aussi attrayants, tels que: les calanques, la montagne Sainte-Victoire.
 tags:
 - trail
 - ballade
