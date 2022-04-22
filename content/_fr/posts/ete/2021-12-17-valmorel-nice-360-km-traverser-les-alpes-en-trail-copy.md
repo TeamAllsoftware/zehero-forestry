@@ -37,16 +37,18 @@ page_sections:
   title: " Nos quelques conseils pour débuter "
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638805924/website/summer/annie-spratt-kZO9xqmO_TA-unsplash_f7k1i3.jpg
-  captiontitleuppercase: Comment je vais faire cette traversée ?
-  title: Autonomie ou semi-autonomie ?
-  content: "Bon c’est sympa comme projet, mais comment on organise cela ? Outre l’entraînement,
-    il y a un aspect d’organisation important. Déjà deux questions : -- Je le fais
-    en autonomie complète ?\n\n\\- Je le fais en semi-autonomie ?\n\nEn gros, soit
-    je partais avec ma tente et mon réchaud, soit je faisais des étapes et je dormais
-    dans des refuges le soir. Ce qui me permettait de courir en journée.  \nChoix
-    pas évident, car pour le 1er, l’avantage, c'est qu’on s’arrête dormir quand on
-    veut et où l'on veut. Le 2ᵉ choix, l’avantage, c'est que j’ai un lit, un bon repas
-    chaud et surtout un sac très léger…"
+  captiontitleuppercase: 'Les meilleures sites '
+  title: 'De nos plus beaux sites jusqu''à l''international '
+  content: |-
+    Même si ce genre de pratique peut paraître atypique, l'escalade en grande voie à quand même ses “spot” de prédilection comme on dit dans le milieu. En voici quelques uns pour les plus curieux.
+
+    Hières sur Amby (Isère) et la Roche de Narse (Ain) sont deux sites particulièrement conseillés pour l’initiation de l’escalade en grande voie avec peu de longueur pour commencer.
+
+    Dans le massif du Pilat on trouve le sommet de Roche Corbière avec des dizaines de grandes voix sur du gneiss (type de roche particulier).
+
+    ###### De plus, du côté du Vercors, les rochers de Presles feront des heureux.
+
+    Ce massif regorge aussi de voies classiques plus ou moins délaissées. Les topos du Mont-Aiguille, des Deux Sœurs (Agathe et Sophie) et du Gerbier sont à étudier avec minutie pour dénicher quelques perles rares.
   alt_text_for_image: Enfant dehors ouvrant une carte ign
 - template: textarea
   content: "Le trajet, c'est en gros 360 km et 20 000 de dénivelé positif. Si je partais
