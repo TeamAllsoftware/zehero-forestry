@@ -134,8 +134,9 @@ page_sections:
   content: |-
     Partez surfer à Porge, tout prêt de Bordeau, découvrez ce spot parfait pour surfer et vous initier. Apprenez tous les secrets sur surf, commencez par les mousses afin de finir plus au large et réaliser les 1er take-off sur les vagues qui se forment.
 
-    L’école Sama Sama Surf School vous permet de prendre des cours de surf à Porge, ainsi que de louer votre matériel tel que les planches de surf et les combinaisons. Quel que soit votre niveau et vos envies, vous découvrir différentes offres :Cours privé
+    L’école Sama Sama Surf School vous permet de prendre des cours de surf à Porge, ainsi que de louer votre matériel tel que les planches de surf et les combinaisons. Quel que soit votre niveau et vos envies, vous découvrir différentes offres :
 
+    * Cours privé
     * Cours collectif
     * Stage collectif de plusieurs jours
   button:

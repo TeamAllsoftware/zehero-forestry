@@ -2,7 +2,7 @@
 layout: blog_post
 language: fr
 season: summer
-author: juliettebehra
+author: geoffreyarduini
 topnav_color_text: dark
 title: 2022-04-22-l-escalade-sous-un-autre-angle
 post-title: L'escalade sous un autre angle
@@ -36,7 +36,7 @@ page_sections:
   - 'Etre à l’aise avec les manipulations de cordes '
   title: " Nos quelques conseils pour débuter "
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650619346/website/images.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650632391/website/escalade/Escalade_grimpeur_femme.jpg
   captiontitleuppercase: 'Les meilleures sites '
   title: 'De nos plus beaux sites jusqu''à l''international '
   content: |-
@@ -52,7 +52,7 @@ page_sections:
   alt_text_for_image: 'femme qui grimpe en falaise '
 - template: 2coltxtimg
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650620240/website/download.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650632501/website/escalade/Escalade_falaise.jpg
   alt_text_for_image: 'falaise du sud de la France '
   captiontitleuppercase: 'Des hautes falaises des préalpes '
   title: 'Tout savoir sur ce site '
