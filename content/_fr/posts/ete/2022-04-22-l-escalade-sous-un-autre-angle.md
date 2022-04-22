@@ -63,11 +63,11 @@ page_sections:
 - template: 2colimgtxt
   title: 'Etre prêt et sur  '
   content: |-
-    Celle-ci regorge aussi de grandes voix qui feront le bonheur et l’admiration des plus expérimentés. Ces voies sont réservées à ceux qui ont une pratique régulière de l’escalade mais qui sont aussi à l’aise avec l'enchaînement des longueur dans des conditions plus arides et la haute montagne en générale.
+    Celle-ci regorge aussi de grandes voies qui feront le bonheur et l’admiration des plus expérimentés. Ces voies sont réservées à ceux qui ont une pratique régulière de l’escalade mais qui sont également à l’aise avec l'enchaînement des longueurs dans des conditions plus arides. Il est aussi important de bien connaitre la haute montagne en générale.
 
-    Pendant la saison estivale, les massif de l’Oisans, du mont-blanc, ou encore de la Vanoise regorgent de grandes voies. Que ce soit sur des voies équipées ou sur coinceurs ( un système que l'on peut coincer dans une fissure ou une anfractuosité du rocher pour constituer un point d'ancrage), il y en a pour tous les goûts.
+    Pendant la saison estivale, les massif de l’Oisans, du mont-blanc, ou encore de la Vanoise regorgent de grandes voies. Que ce soit sur des voies équipées ou sur coinceurs (un système que l'on peut coincer dans une fissure ou une anfractuosité du rocher pour constituer un point d'ancrage), il y en a pour tous les goûts.
 
-    Pour ceux qui voudraient être encore plus dépaysé, non loin, vous pourrez découvrir les grandes voies en Suisse (Ratikon et Gastlosen) en Italie dans les Dolomites.
+    Pour ceux qui voudraient davantage de dépaysement, non loin, vous pourrez découvrir les grandes voies en Suisse (Ratikon et Gastlosen) en Italie dans les Dolomites.
   alt_text_for_image: Vue panoramique de montagne dans la vallée de la clarée
   captiontitleuppercase: 'à la Haute montagne '
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650534769/website/summer/baptiste-OS671l4wILE-unsplash.jpg
