@@ -50,15 +50,16 @@ page_sections:
 
     Ce massif regorge aussi de voies classiques plus ou moins délaissées. Les topos du Mont-Aiguille, des Deux Sœurs (Agathe et Sophie) et du Gerbier sont à étudier avec minutie pour dénicher quelques perles rares.
   alt_text_for_image: 'femme qui grimpe en falaise '
-- template: 2colimgtxt
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650620240/website/download.jpg
+  alt_text_for_image: 'falaise du sud de la France '
+  captiontitleuppercase: 'Des hautes falaises des préalpes '
   title: 'Tout savoir sur ce site '
   content: |-
     A proximité de Grenoble et Chambéry, En Chartreuse, on trouve de très belles voies calcaires dont la dent de Crolles, Chamechaude.. endroits mythiques de ce massif.
 
-    Accessibles depuis Lyon, Archiane, Glandasse, les trois Becs sont les principales falaises du Diois avec de grandes voies spectaculaires.Elles sont nombreuses et de qualité. Pour aller plus loin, le topo “Escalades dans le Diois” vous propose les voies incontournables du Diois avec de nombreux conseils et explications à votre disposition.
-  alt_text_for_image: 'falaise du sud de la France '
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650620240/website/download.jpg
-  captiontitleuppercase: 'Des hautes falaises des préalpes '
+    Accessibles depuis Lyon, Archiane, Glandasse, les trois Becs sont les principales falaises du Diois avec de grandes voies spectaculaires. Elles sont nombreuses et de qualité. Pour aller plus loin, le topo “Escalades dans le Diois” vous propose les voies incontournables du Diois avec de nombreux conseils et explications à votre disposition.
 - template: 2colimgtxt
   title: 'Etre prêt et sur  '
   content: |-
