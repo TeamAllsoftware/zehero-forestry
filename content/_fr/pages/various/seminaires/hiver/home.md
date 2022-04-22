@@ -4,7 +4,7 @@ language: fr
 season: winter
 type: B2B
 menu: seminaire
-topnav_color_text: light
+topnav_color_text: 
 title: Organisation de séminaires hiver
 permalink: "/fr/seminaires-hiver"
 meta-title: Qui sommes nous, contactez notre équipe de fan d'outdoor

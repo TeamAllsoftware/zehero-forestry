@@ -27,10 +27,17 @@
                         <a class="navbar-brand" href="/{{ page.language }}/{{ season_language }}">
                             {% if page.topnav_color_text == 'light' %}
                             <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="default-logo">
+                            {% elsif page.type == "B2B" %}
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_white | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_white | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="default-logo">
                             {% else %}
                             <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_black | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_black | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="default-logo">
                             {% endif %}
+
+                            {% if page.type == "B2B" %}
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_white | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_white | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="alt-logo">
+                            {% else %}
                             <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="alt-logo">
+                            {% endif %}
                             <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="mobile-logo">
                         </a>
                     </div>
@@ -165,9 +172,16 @@
                             </ul>
                         </div>
                         {% endif %}
+
+                        {% if page.type == "B2B" %}
+                        <div class="header-social-icon  d-inline-block">
+                            <a href="/{{ language }}/seminaires-{{ site.data.config.[language].season.[opposite_season]name }}" title="{{ site.data.config.[language].season.[opposite_season]icon-link-title }}">hiver <i class="{{ site.data.config.[language].season.[opposite_season]icon }}"></i> été</a>
+                        </div>
+                        {% else %}
                         <div class="header-social-icon  d-inline-block">
                             <a href="/{{ language }}/{{ site.data.config.[language].season.[opposite_season]name }}" title="{{ site.data.config.[language].season.[opposite_season]icon-link-title }}">hiver <i class="{{ site.data.config.[language].season.[opposite_season]icon }}"></i> été</a>
                         </div>
+                        {% endif %}
 
                         {% comment %}
                         {% for social in site.data.config.socials %}

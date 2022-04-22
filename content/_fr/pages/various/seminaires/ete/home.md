@@ -4,7 +4,7 @@ language: fr
 season: summer
 type: B2B
 menu: seminaire
-topnav_color_text: light
+topnav_color_text: 
 title: Organisation de séminaires été
 permalink: "/fr/seminaires-ete"
 meta-title: Qui sommes nous, contactez notre équipe de fan d'outdoor
@@ -14,7 +14,7 @@ baseline: Découvrez ZE HERO
 redirection_from:
 page_sections:
 - template: heroBreadcrumb
-  title: Organisation de séminaires hiver
+  title: Organisation de séminaires été
 - template: 2colimgtxt
   title: Choisissez le meilleur pour votre temps libre
   content: |-

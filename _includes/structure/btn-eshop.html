@@ -1,23 +1,38 @@
 <div class="theme-demos " style="display: block;">
     <div class="buy-theme sm-display-none bg-green">
 
-        {% if page.button_to_link_to_ze_hero_shop %}
-        <a href="{{ page.button_to_link_to_ze_hero_shop.url_to_shop_zehero }}" title="{{ page.button_to_link_to_ze_hero_shop.button_text }}">
+       
+        {% if page.type == "B2B" %}
+        <a href="{{ site.data.config.[page.language].modal-eshop-menu.B2B.btn_href }}" title="{{ site.data.config.[page.language].modal-eshop-menu.B2B.btn_href_title }}">
+        {% elsif page.button_to_link_to_ze_hero_shop %}
+            <a href="{{ page.button_to_link_to_ze_hero_shop.url_to_shop_zehero }}" title="{{ page.button_to_link_to_ze_hero_shop.button_text }}">
         {% else %}
         <a href="{{ site.data.config.[page.language].modal-eshop-menu.[page.season].btn_href }}" title="{{ site.data.config.[page.language].modal-eshop-menu.[page.season].btn_href_title }}">
         {% endif %} 
             <div class="theme-wrapper">
                 <div>
-                    <i class="feather icon-feather-shopping-bag align-middle"></i>{{ site.data.config.[page.language].modal-eshop-menu.[page.season].btn_text }}
+                    {% if page.type == "B2B" %}
+                    <i class="feather icon-feather-edit align-middle"></i>{{ site.data.config.[page.language].modal-eshop-menu.B2B.btn_text }}
+                        {% else %}
+                        <i class="feather icon-feather-shopping-bag align-middle"></i>{{ site.data.config.[page.language].modal-eshop-menu.[page.season].btn_text }}
+                    {% endif %}
                 </div>
             </div>
         </a>
     </div>
     <div class="all-demo sm-display-none bg-green">
-        <a href="javascript:void(0);" title="{{ site.data.config.[page.language].modal-eshop-menu.[page.season].btn_href_title02 }}"><i class="feather icon-feather-x align-middle"></i>
+        {% if page.type == "B2B" %}
+        <a href="javascript:void(0);" title="{{ site.data.config.[page.language].modal-eshop-menu.B2B.btn_href_title02 }}"><i class="feather icon-feather-x align-middle"></i>
+            {% else %}
+            <a href="javascript:void(0);" title="{{ site.data.config.[page.language].modal-eshop-menu.[page.season].btn_href_title02 }}"><i class="feather icon-feather-x align-middle"></i>
+            {% endif %}
             <div class="theme-wrapper">
                 <div>
-                    <i class="far fa-comments align-middle"></i>{{ site.data.config.[page.language].modal-eshop-menu.[page.season].btn_text02 }}
+                    {% if page.type == "B2B" %}
+                    <i class="far fa-comments align-middle"></i>{{ site.data.config.[page.language].modal-eshop-menu.B2B.btn_text02 }}
+                        {% else %}
+                        <i class="far fa-comments align-middle"></i>{{ site.data.config.[page.language].modal-eshop-menu.[page.season].btn_text02 }}
+                    {% endif %}
                 </div>
             </div>
         </a>
@@ -29,8 +44,13 @@
             <div id="mCSB_1" class="mCustomScrollBox mCS-dark mCSB_vertical mCSB_inside" style="max-height: none;" tabindex="0">
                 <div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
                     <div class="w-100">
-                        <div class="col-12 text-center margin-1-rem-bottom"> 
-                            <span class="alt-font font-weight-600 text-extra-medium text-gradient-sky-blue-dark-pink text-uppercase letter-spacing-minus-1-half d-inline-block margin-5px-bottom">{{ site.data.config.[page.language].modal-eshop-menu.[page.season].contact-modal-txt01 }}</span>
+                        <div class="col-12 text-center margin-1-rem-bottom">
+                            {% if page.type == "B2B" %}
+                            <span class="alt-font font-weight-600 text-extra-medium text-gradient-sky-blue-dark-pink text-uppercase letter-spacing-minus-1-half d-inline-block margin-5px-bottom">{{ site.data.config.[page.language].modal-eshop-menu.B2B.contact-modal-txt01 }}</span>
+                                {% else %}
+                                <span class="alt-font font-weight-600 text-extra-medium text-gradient-sky-blue-dark-pink text-uppercase letter-spacing-minus-1-half d-inline-block margin-5px-bottom">{{ site.data.config.[page.language].modal-eshop-menu.[page.season].contact-modal-txt01 }}</span>
+                            {% endif %}
+
                             <h4 class="h4 alt-font font-weight-600 text-extra-dark-gray d-inline-block letter-spacing-minus-1px padding-twenty-lr margin-25px-bottom">{{ site.data.config.phonenumber }}</h4>
                         </div>
                     
