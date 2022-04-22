@@ -8,7 +8,7 @@ title: 2022-04-22-l'escalade-sous-un-autre-angle-(copy)
 post-title: L'escalade sous un autre angle
 meta-title: 'L''histoire des grandes voies, l''escalade vue sous un autre angle '
 meta-description: 'Les grandes voies, une partie mythique de l''escalade en outdoor '
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650619380/website/download.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646233977/website/summer/sylvain-mauroux-m6wbWMF6p9s-unsplash_svvrcf.jpg
 image01_alt: grand espace, falaise, grimpeur
 page_sections:
 - template: textarea
