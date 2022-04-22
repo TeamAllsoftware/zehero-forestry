@@ -52,7 +52,7 @@ page_sections:
   alt_text_for_image: 'femme qui grimpe en falaise '
 - template: 2coltxtimg
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650620240/website/download.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650632501/website/escalade/Escalade_falaise.jpg
   alt_text_for_image: 'falaise du sud de la France '
   captiontitleuppercase: 'Des hautes falaises des préalpes '
   title: 'Tout savoir sur ce site '
