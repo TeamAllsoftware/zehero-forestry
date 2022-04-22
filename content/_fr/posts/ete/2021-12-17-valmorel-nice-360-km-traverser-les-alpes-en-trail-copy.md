@@ -80,6 +80,10 @@ page_sections:
     Plus au sud, les gorges du Verdon , endroits mythiques dans le domaine de l’escalade, proposent le plus grand choix de voies de France et peut-être même d’Europe. La qualité du rocher est ce qui a fait en particulier la réputation de ces falaises.
 
     Le sud de la France détient aussi d’autres sites majeurs, dans un autre style mais tout aussi attrayants, tels que: les calanques, la montagne Sainte-Victoire.
+
+    Si cela vous à plus, laissez vous tenter auprès de personnes expérimentées pour commencer
+
+    A vos baudriers !
 tags:
 - trail
 - ballade
