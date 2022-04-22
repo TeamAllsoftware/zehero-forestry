@@ -114,14 +114,24 @@ page_sections:
     Vous pourrez également participer à des [sorties de trail longues](https://www.ze-hero.com/fr/ete/activites/coaching-course-a-pied-trail-antibes-alpes-maritimes). Elles permettront de découvrir un lieu, un environnement avec un groupe.
   title: Etre encadré
   blockBGcolor: ''
-- template: 3coltxtimgtxt
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg
-  captionleftcontent: Soyez le Hero, courez et découvrez de nouveau horizon
-  captionrighttitle: Ne courez pas après le temps, appréciez en chaque seconde
-  captionrightcontent: Quel que soit le niveau, le plaisir de courir reste le même
-  center_alt_text_for_image: 'Deux personnes faisant du trail running courant dans
-    la neige '
-  blockBGcolor: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  content: |-
+    Le Trail dans les Alpes Maritimes est un paradis pour les traileurs, les amoureux de la nature et de l'endurance. La variété de l'environnement est un incroyable et son terrain de jeux est très varié. Que ce soit près de la mer avec des chemins de littoral, les collines et ses plaines plus sauvage et aride des Préalpes d'Azur, aux montagnes du Mercantour, le choix est immense.
+
+    Que ce soit pour découvrir le Trail, pour vous initier, pour progresser et vous perfectionner, chez Ze Hero, vous découvrirez différentes offres.
+
+    Tout d'abord vous pourrez retrouver différentes offres de Trail à Bar sur Loup et ses environs dans les Préalpes d'Azur : [Trail à Bar sur Loup avec différentes offres de niveau.](https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=)
+
+    Vous pourrez également courir dans le [massif de l'Esterel](https://shop.ze-hero.com/fr/activites-Outdoor/trail/17205-trail-journee-activite-ze-hero) ainsi que retrouver différentes formules d'entraînement plus spécifique vers [Antibes](https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=).
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650619667/website/By%20Ze%20Hero%20Activity/_D5C4137_-lr.jpg
+  alt_text_for_image: Coureur dans le massif de l'Esterel
+  captiontitleuppercase: Le Trail dans les Préalpes d'Azur
+  title: Le Trail dans les Alpes Maritimes
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: cta
   intro: Réservez dès maintenant vos sorties trail
   headline: Cours privés ou collectifs sont disponibles

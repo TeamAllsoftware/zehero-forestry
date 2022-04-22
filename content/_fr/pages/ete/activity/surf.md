@@ -106,7 +106,42 @@ page_sections:
     * **Longboard** : c'est le surf le plus grand mesurant de 8 à 12'. Il permet de se déplacer sur la planche et d'avoir un surf plus doux
     * **Fish** est une board petite mais large, parfaite pour des vagues pas très grandes mais pour réaliser un panel de figures.
     * **Guns** sont des planches conçues surtout pour des vagues grosses et grandes. Elles sont donc dédiées aux surfeurs expérimentés.
+
+    Découvrez où vous pouvez trouver votre activité de Surf avec Ze Hero :
   blockBGcolor: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649066110/website/Sama%20Sama/216173831_123343679958569_6340812869216994865_n.jpg
+  alt_text_for_image: Surfeur à Mimizan avec l'école de surf Sama Sama
+  captiontitleuppercase: 'Apprendre le surf '
+  title: Surfez à Mimizan
+  content: "Découvrez nos différentes offres de surf à Mimizan. A Mimizan vous pourrez
+    profiter de spots parfaits pour apprendre, progresser et vous perfectionner dans
+    le surf. \n\nL'école Sama Sama Surf School à Mimizan, partenaire de Ze Hero, vous
+    permettra de prendre des cours de surf ainsi que de louer votre matériel : planche
+    et combinaison. Ils vous proposeront différentes offres tel que :\n\n* Leçon privée\n*
+    Cours collectifs\n* Stage de plusieurs jours"
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Mimizan&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    text_button: Réservez votre cours de Surf à Mimizan
+    alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649075348/website/Sama%20Sama/225582859_127469259546011_2227751053665328147_n.jpg
+  alt_text_for_image: Planches de surf colorés sur la plage à Porge
+  captiontitleuppercase: Apprendre à glisser sur les vagues
+  title: Surfez à Porge
+  content: |-
+    Partez surfer à Porge, tout prêt de Bordeau, découvrez ce spot parfait pour surfer et vous initier. Apprenez tous les secrets sur surf, commencez par les mousses afin de finir plus au large et réaliser les 1er take-off sur les vagues qui se forment.
+
+    L’école Sama Sama Surf School vous permet de prendre des cours de surf à Porge, ainsi que de louer votre matériel tel que les planches de surf et les combinaisons. Quel que soit votre niveau et vos envies, vous découvrir différentes offres :Cours privé
+
+    * Cours collectif
+    * Stage collectif de plusieurs jours
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Porge&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    text_button: Réservez votre cours de Surf à Porge
+    alt_button: ''
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
