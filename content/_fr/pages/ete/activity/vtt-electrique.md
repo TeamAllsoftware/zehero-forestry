@@ -10,7 +10,7 @@ meta-description: Pratiquez le VTT électrique pour découvrir la montagne à v�
 title: VTT Electrique
 permalink: "/fr/ete/activites/vtt-electrique"
 baseline: Balade, randonnée, découverte
-engage: Découvrez la montagne et rouler avec un E-VTT
+engage: Découvrez la montagne et roulez avec un E-VTT
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648055624/website/summer/julian-hochgesang-jyoTLVMv9So-unsplash.jpg
 image01_alt: Des VTT électrique sur un chemin
 button_to_link_to_ze_hero_shop:
