@@ -1,0 +1,161 @@
+---
+menu:
+- title: Activites
+  id: "1"
+  title-link: "/fr/ete/activites"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592263/website/summer/eberhard-grossgasteiger-8lDkmXnKo7s-unsplash_wfd3xp.jpg
+  image-alt: Un VTT stationné en haut de la montagne prêt à faire une descente
+  image-link: "/fr/ete/activites"
+  txt-button: Toutes les activités
+  column-01:
+  - nested: Herbe, cailloux, asphalte
+    menu-items:
+    - title: Vélo de route
+      href: "/fr/ete/activites/velo-de-route"
+    - title: Trail running
+      href: "/fr/ete/activites/trail-running"
+    - title: VTT
+      href: "/fr/ete/activites/vtt"
+    - title: Randonnée en montagne
+      href: "/fr/ete/activites/randonnee-montagne"
+    - title: Traversée des Alpes à vélo
+      href: "/fr/ete/activites/traversee-des-alpes-en-velo"
+  column-02:
+  - nested: Air et eau
+    menu-items:
+    - title: Paddle
+      href: "/fr/ete/activites/paddle"
+    - title: Parapente
+      href: "/fr/ete/activites/parapente"
+    - title: Surf
+      href: "/fr/ete/activites/surf"
+    - title: Canyoning
+      href: "/fr/ete/activites/canyoning"
+    - title: Kayak
+      href: "/fr/ete/activites/kayak"
+- title: Conseils
+  id: "2"
+  title-link: "/fr/ete/conseils"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883625/website/summer/Kayak-duo_u76cpj.jpg
+  image-alt: Un groupe de kayak descend une rivière sauvage
+  image-link: "/fr/ete/conseils"
+  txt-button: Tous les conseils
+  column-01:
+  - nested: Matériel
+    menu-items:
+    - title: Que mettre dans son sac de randonnée pour une journée ?
+      href: "/fr/ete/conseils/liste-materiel-randonnee"
+    - title: Comment bien s'équiper en trail ?
+      href: "/fr/ete/conseils/equipement-trail"
+    - title: Comment choisir ses chaussures de trail ?
+      href: "/fr/ete/conseils/chaussures-trail"
+  column-02:
+  - nested: Apprendre
+    menu-items:
+    - title: Comment bien préparer sa sortie de randonnée à la journée
+      href: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
+    - title: Débuter le Trail running
+      href: "/fr/ete/conseils/comment-debuter-trail"
+  - nested: Entraînement / Préparation
+    menu-items:
+    - title: Les itinéraires de trail dans le 06
+      href: "/fr/ete/conseils/itineraires-trail-alpes-maritimes"
+    - title: Le fractionné en Trail
+      href: "/fr/ete/conseils/fractionne-trail"
+    - title: Comment se préparer à un 1er trail ?
+      href: "/fr/ete/conseils/preparation-course-trail"
+    - title: Coaching privé ou collectif
+      href: "/fr/hiver/activite/coaching-sportif"
+- title: Destinations
+  id: "3"
+  title-link: "/fr/ete/destinations"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
+  image-alt: Les Gorges du Verdon avec des kayaks et canoés
+  image-link: "/fr/ete/destinations"
+  txt-button: Toutes les destinations
+  column-01:
+  - nested: Les stations de montagne
+    menu-items:
+    - title: Val d'Isère
+      href: "/fr/ete/destinations/val-d-isere"
+    - title: Alpe d'Huez
+      href: "/fr/ete/destinations/alpe-huez"
+    - title: Les ménuires
+      href: "/fr/ete/destinations/les-menuires"
+    - title: Méribel
+      href: "/fr/ete/destinations/meribel"
+    - title: Val-Thorens
+      href: "/fr/ete/destinations/val-thorens"
+  column-02:
+  - nested: Les stations balnéaires
+    menu-items:
+    - title: Hossegor
+      href: "/fr/ete/destination/hossegor"
+    - title: Messanges
+      href: "/fr/ete/destination/messanges"
+    - title: Seignosse
+      href: "/fr/ete/destination/seignosse"
+    - title: Moliets et Maâ
+      href: "/fr/ete/destination/moliet-et-maa"
+    - title: St Brévin les pins
+      href: "/fr/ete/destinations/st-brevin-les-pins"
+    - title: Antibes
+      href: "/fr/ete/destinations/antibes"
+  column-03:
+  - nested: Les régions
+    menu-items:
+    - title: Loire Atlantique
+      href: "/fr/ete/destinations/loire-atlantique"
+    - title: Les Alpes Maritimes
+      href: "/fr/ete/destinations/alpes-maritimes"
+    - title: Savoie
+      href: "/fr/ete/destinations/savoie"
+- title: Team ZE HERO
+  id: "4"
+  title-link: "/fr/ete/team-zehero"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg
+  image-alt: Une femme grimpe une voie d'escalade indoor
+  image-link: "/fr/ete/"
+  column-01:
+  - nested: Les coachs
+    menu-items:
+    - title: Yann Alarçon
+      href: "/fr/coachs/yann-alarcon"
+    - title: Nathan Alarçon
+      href: "/fr/coachs/nathan-alarcon"
+  - nested: ZE-HERO
+    menu-items:
+    - title: Qui sommes-nous ?
+      href: "/fr/qui-sommes-nous"
+    - title: Nous contacter
+      href: "/fr/contact"
+  column-02:
+  - nested: Les marques
+    menu-items:
+    - title: Fausse Route
+      href: "/fr/marques/fausseroute"
+    - title: Instinct Trail Inspired
+      href: "/fr/marques/instinct-trail-inspired"
+- title: Réserver
+  id: eshop
+  title-link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642604271/website/summer/eshop-ze-hero-activites-ete_mhzdw2.png
+  image-alt: Image illustrant la boutique en ligne ZE HERO
+  image-link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
+  txt-button: Entrer dans le e-Shop
+  column-01:
+  - nested: Acheter, louer, réserver en ligne
+    menu-items:
+    - title: Equipement de Trail / Running
+      href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+  column-02: 
+- title: Blog
+  id: blog
+  title-link: "/fr/ete/blog"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg
+  image-alt: Un campeur se prépare un thé dans une cabane en montagne en lisant une
+    carte et un guide
+  image-link: "/fr/ete/blog"
+  txt-button: Entrer dans le blog
+  column-01:
+  - nested: A lire dans le blog

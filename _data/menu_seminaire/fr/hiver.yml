@@ -1,0 +1,158 @@
+---
+menu:
+- title: Séminaires
+  id: "1"
+  title-link: "/fr/hiver/activites"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg
+  image-alt: Un skieur porte ses skis en montant une arrête pour descendre une voie
+    en hors-piste
+  image-link: "/fr/hiver/activites"
+  txt-button: Toutes les activités
+  column-01:
+  - nested: Séminaire hiver
+    menu-items:
+    - title: L'équipe
+      href: "/fr/hiver/activites/ski-de-piste"
+    - title: Votre projet
+      href: "/fr/hiver/activites/ski-de-randonnee"
+    - title: Destinations
+      href: "/fr/hiver/activites/ski-freeride"
+    - title: Activités
+      href: "/fr/hiver/activites/ski-de-fond"
+    - title: Journées
+      href: "/fr/hiver/activites/ski-de-fond"
+    - title: Idées de séjours
+      href: "/fr/hiver/activites/ski-de-fond" 
+  column-02:
+  - nested: Séminaire été
+    menu-items:
+    - title: L'équipe
+      href: "/fr/hiver/activites/ski-de-piste"
+    - title: Votre projet
+      href: "/fr/hiver/activites/ski-de-randonnee"
+    - title: Destinations
+      href: "/fr/hiver/activites/ski-freeride"
+    - title: Activités
+      href: "/fr/hiver/activites/ski-de-fond"
+    - title: Journées
+      href: "/fr/hiver/activites/ski-de-fond"
+    - title: Idées de séjours
+      href: "/fr/hiver/activites/ski-de-fond" 
+- title: Votre projet
+  id: "2"
+  title-link: "/fr/hiver/conseils"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825166/website/winter/debuter-le-ski-pour-adultes-avec-prosneige-_dou0sp.jpg
+  image-alt: Un rack de télécabine rempli de ski
+  image-link: "/fr/hiver/conseils"
+  txt-button: Tous les conseils
+  column-01:
+  - nested: Matériel
+    menu-items:
+    - title: Choisir son magasin de location de ski
+      href: "/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
+    - title: Comment choisir ses skis d'occasion
+      href: "/fr/hiver/conseils/ski-d-occasion"
+    - title: Comment choisir ses boots de snowboard
+      href: "/fr/hiver/conseils/boots-snowboard"
+  column-02:
+  - nested: Apprendre
+    menu-items:
+    - title: Comment choisir son école de ski ?
+      href: "/fr/hiver/conseils/choisir-ecole-de-ski"
+    - title: Apprendre en cours privé ou collectif ?
+      href: "/fr/hiver/conseils/cours-privé-cours-collectif"
+    - title: Choisir le bon niveau de cours en ski et snowboard
+      href: "/fr/hiver/conseils/choisir-niveau-ski-snowboard"
+  - nested: Entraînement / Préparation
+    menu-items:
+    - title: Coaching privé ou collectif
+      href: "/fr/hiver/activites/coaching-sportif"
+    - title: Comment se préparer physiquement pour le ski
+      href: "/fr/hiver/conseils/comment-se-préparer-physiquement-au-ski"
+- title: Destinations
+  id: "3"
+  title-link: "/fr/hiver/destinations/"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg
+  image-alt: Un skieur fait une randonnée en forêt enneigée
+  image-link: "/fr/hiver/destinations/"
+  txt-button: Toutes les destinations
+  column-01:
+  - nested: Les stations de montagne
+    menu-items:
+    - title: Alpe d'Huez
+      href: "/fr/hiver/destinations/alpe-d-huez"
+    - title: Val-Thorens
+      href: "/fr/hiver/destinations/val-thorens"
+    - title: Les Menuires
+      href: "/fr/hiver/destinations/les-menuires"
+    - title: Tignes
+      href: "/fr/hiver/destinations/tignes"
+    - title: Val d'Isère
+      href: "/fr/hiver/destinations/val-d-isere"
+    - title: Méribel
+      href: "/fr/hiver/destinations/meribel"
+  column-02:
+  - nested: Les stations balnéaires
+    menu-items:
+    - title: Antibes
+      href: "/fr/hiver/destinations/antibes"
+  column-03:
+  - nested: Les régions
+    menu-items:
+    - title: Savoie
+      href: "/fr/hiver/destinations"
+- title: Activités
+  id: "4"
+  title-link: "#"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg
+  image-alt: Une femme grimpe une voie d'escalade indoor
+  image-link: "#"
+  column-01:
+  - nested: Les coachs
+    menu-items:
+    - title: Yann Alarçon
+      href: "/fr/coachs/yann-alarcon"
+    - title: Nathan Alarçon
+      href: "/fr/coachs/nathan-alarcon"
+  - nested: ZE-HERO
+    menu-items:
+    - title: Qui sommes-nous ?
+      href: "/fr/qui-sommes-nous"
+    - title: Nous contacter
+      href: "/fr/contact"
+  column-02:
+  - nested: Les marques
+    menu-items:
+    - title: Fausse Route
+      href: "/fr/marques/fausseroute"
+    - title: Instinct Trail Inspired
+      href: "/fr/marques/instinct-trail-inspired"
+- title: Journées
+  id: "5"
+  title-link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642604106/website/winter/ScreenShot_Tool_-20220119155142_isdxtn.png
+  image-alt: Capture d'écran de la boutique en ligne ZE-HERO
+  image-link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
+  txt-button: Entrer dans le e-Shop
+  column-01:
+  - nested: Acheter, louer, réserver en ligne
+    menu-items:
+    - title: Acheter des skis d'occasion
+      href: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
+    - title: Louer des skis
+      href: https://shop.ze-hero.com/fr/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&subslug=%2Fman-skis-rental&number_rental_days=1
+    - title: Louer des chaussures
+      href: https://shop.ze-hero.com/fr/location-materiel?equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
+    - title: Louer un snowboard
+      href: https://shop.ze-hero.com/fr/location-materiel/location-snowboard/location-snowboard-adulte
+  column-02: 
+- title: Idées de séjours
+  id: "6"
+  title-link: "/fr/hiver/blog"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg
+  image-alt: Un campeur se prépare un thé dans une cabane en montagne en lisant
+    une carte et un guide
+  image-link: "/fr/hiver/blog"
+  txt-button: Entrer dans le blog
+  column-01:
+  - nested: A lire dans le blog
