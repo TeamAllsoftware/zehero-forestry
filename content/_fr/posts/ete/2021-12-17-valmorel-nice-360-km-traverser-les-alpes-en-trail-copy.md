@@ -17,22 +17,21 @@ page_sections:
   content: "L’année 2020 fut une épreuve pour tout le monde. Nous avons tous vécu
     une période particulière. Qu’elle se soit bien passée ou non, elle aura impacté
     notre quotidien et notre esprit. Traileur et compétiteur, il n’y avait plus aucun
-    événement possible en France. Comment garder la motivation de s’entraîner ? Où
-    trouver des objectifs ?\n\nDepuis quelques temps, je voulais faire un projet perso
-    qui dure plusieurs jours. Une aventure, une traversée, une boucle, je ne savais
-    pas encore quoi, mais je savais que je voulais courir, courir longtemps.\n\nMa
-    chérie est à Antibes et moi à Valmorel. Souvent les week-ends, je prenais la voiture
-    pour aller la voir. Je prenais généralement la route de Napoléon, je voyais ces
-    montagnes au loin et c’était magnifique. Puis un jour, je me suis rappelé que
-    le GR5 arrivait à Nice. Je savais qu’il ne passait pas très loin de Valmorel aussi.
-    L’idée fleurissait doucement.  \nLe jour du confinement, j'étais descendu à Antibes,
-    je savais que j’allais déménager et vivre dans le Sud près de la mer. C’était
-    une nouvelle page pour moi, une nouvelle vie. J’ai eu l’idée alors de venir en
-    courant de Valmorel à Nice. C’était symbolique, c’était pour moi ma façon de venir
-    de la plus belle des manières dans ma nouvelle maison, ma nouvelle vie. C’était
-    ma démarche romantique, mon aventure, mon chemin qui mène à l'amour. L’amour des
-    lieux où j’ai grandi, l’amour des montagnes, l’amour du trail, l’amour de ma chérie
-    et l’amour de ma nouvelle maison."
+    événement possible en France. Comment garder la motivation de s’entraîner ? \n\nDepuis
+    quelques temps, je voulais faire un projet perso qui dure plusieurs jours. Une
+    aventure, une traversée, une boucle, je ne savais pas encore quoi, mais je savais
+    que je voulais courir, courir longtemps.\n\nMa chérie est à Antibes et moi à Valmorel.
+    Souvent les week-ends, je prenais la voiture pour aller la voir. Je prenais généralement
+    la route de Napoléon, je voyais ces montagnes au loin et c’était magnifique. Puis
+    un jour, je me suis rappelé que le GR5 arrivait à Nice. Je savais qu’il ne passait
+    pas très loin de Valmorel aussi. L’idée fleurissait doucement.  \nLe jour du confinement,
+    j'étais descendu à Antibes, je savais que j’allais déménager et vivre dans le
+    Sud près de la mer. C’était une nouvelle page pour moi, une nouvelle vie. J’ai
+    eu l’idée alors de venir en courant de Valmorel à Nice. C’était symbolique, c’était
+    pour moi ma façon de venir de la plus belle des manières dans ma nouvelle maison,
+    ma nouvelle vie. C’était ma démarche romantique, mon aventure, mon chemin qui
+    mène à l'amour. L’amour des lieux où j’ai grandi, l’amour des montagnes, l’amour
+    du trail, l’amour de ma chérie et l’amour de ma nouvelle maison."
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638805924/website/summer/annie-spratt-kZO9xqmO_TA-unsplash_f7k1i3.jpg
   captiontitleuppercase: Comment je vais faire cette traversée ?
