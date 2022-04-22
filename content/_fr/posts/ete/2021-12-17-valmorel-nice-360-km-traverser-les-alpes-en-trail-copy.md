@@ -85,9 +85,9 @@ page_sections:
 
     A vos baudriers !
 tags:
-- trail
-- ballade
+- entre amis
 - en solo
+- escalade
 published: false
 
 ---
