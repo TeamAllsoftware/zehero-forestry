@@ -125,6 +125,23 @@ page_sections:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Mimizan&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
     text_button: Réservez votre cours de Surf à Mimizan
     alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649075348/website/Sama%20Sama/225582859_127469259546011_2227751053665328147_n.jpg
+  alt_text_for_image: Planches de surf colorés sur la plage à Porge
+  captiontitleuppercase: Apprendre à glisser sur les vagues
+  title: Surfez à Porge
+  content: |-
+    Partez surfer à Porge, tout prêt de Bordeau, découvrez ce spot parfait pour surfer et vous initier. Apprenez tous les secrets sur surf, commencez par les mousses afin de finir plus au large et réaliser les 1er take-off sur les vagues qui se forment.
+
+    L’école Sama Sama Surf School vous permet de prendre des cours de surf à Porge, ainsi que de louer votre matériel tel que les planches de surf et les combinaisons. Quel que soit votre niveau et vos envies, vous découvrir différentes offres :Cours privé
+
+    * Cours collectif
+    * Stage collectif de plusieurs jours
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Porge&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    text_button: Réservez votre cours de Surf à Porge
+    alt_button: ''
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
