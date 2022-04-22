@@ -108,7 +108,7 @@ page_sections:
   captiontitleuppercase: Au cœur de la Vanoise
   title: VTT Electrique à Méribel
   content: |-
-    A Méribel, découvrez différentes offres de VTT électrique. Vous pourrez profiter de vous initier, de randonner en famille à VTT électrique au cœur des montagnes de Méribel. Entre ses hameaux, ses villages, ses lacs et ses prairies, découvrez la montagne sur selle pour un plaisir intense.
+    À Méribel, découvrez différentes offres de VTT électrique. Vous pourrez profiter de vous initier, de randonner en famille à VTT électrique au cœur des montagnes de Méribel. Entre ses hameaux, ses villages, ses lacs et ses prairies, découvrez la montagne sur selle pour un plaisir intense.
 
     Avec Sam Jones, notre moniteur de VTT électrique, vous pourrez profiter de différentes offres à VTT électrique à Méribel :
 
@@ -116,7 +116,7 @@ page_sections:
     * [Découverte](https://shop.ze-hero.com/fr/activites-Outdoor?station=M%C3%A9ribel&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=)
     * [Journée Sportive](https://shop.ze-hero.com/fr/activites-Outdoor?station=M%C3%A9ribel&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=)
   button:
-    text_button: 'Réserver votre sortie VTT électrique à Méribel '
+    text_button: 'Réservez votre sortie VTT électrique à Méribel '
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=M%C3%A9ribel&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
     alt_button: ''
 - template: 2coltxtimg
@@ -125,17 +125,17 @@ page_sections:
   alt_text_for_image: Personnes faisant du VTT électrique à Les Menuires
   captiontitleuppercase: Au cœur des Belleville
   title: Le VTT Electrique à Les Menuires
-  content: "Au cœur de la vallée des Bellevilles, profiter de randonner à VTT Electrique
-    à Les Menuires. Découvrez ses envirrons, ainsi que ses sentiers autour de la statioon
+  content: "Au cœur de la vallée des Bellevilles, profitez de randonner à VTT Electrique
+    à Les Menuires. Découvrez ses environs, ainsi que ses sentiers autour de la station
     de ski. Vous pourrez alors grimper en direction du Lac du Loup, de Val Thorens.
     Partez à la rencontre des marmottes, grimper sur les sommets aux alentours des
     Menuires.  \nEn famille, entre amis, le VTT électrique vous permettra de découvrir
-    la montagne avec un effort moindre.  \nAvec Sam Jones, vous pourrez rouler, découvrir,
+    la montagne avec un effort moindre.\n\nAvec Sam Jones, vous pourrez rouler, découvrir,
     vivre des sensations fortes aux Menuires avec différentes offres :\n\n* Initiation\n*
     Découverte\n* Journée Sportive"
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Les+Menuires&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
-    text_button: Réserver votre sortie VTT électriques à Les Menuires
+    text_button: Réservez votre sortie VTT électriques à Les Menuires
     alt_button: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
@@ -143,14 +143,16 @@ page_sections:
   alt_text_for_image: Personnes faisant du VTT électriques à St Martin de Belleville
   captiontitleuppercase: Village alpin des 3 vallées
   title: VTT Electrique à Saint Martin de Belleville
-  content: "Un peu en dessous de la station de ski des Menuires, découvrez le petite
-    village alpin et typique savoyard, Saint Martin de Belleville. D'ici, vous découvrirez
-    de multiples randonnée et sentiers, afin de parcourir les environs du villages,
-    le patrimoine savoyard montagnard, ainsi que la nature.  \nEn VTT électrique,
-    il sera alors idéal de découvrir ces lieux, de vivre une expérience forte, d'un
-    moment de dépassement et de sensation forte.\n\nAvec Sam Jones, découvrez le VTT
-    Electrique ainsi que la station de Saint Martin de Belleville avec différentes
-    formules :\n\n* Initiation\n* Découverte\n* Journée Sportive"
+  content: |-
+    Un peu en dessous de la station de ski des Menuires, découvrez le petit village alpin et typique savoyard, Saint Martin de Belleville. D'ici, vous découvrirez de multiples randonnées et sentiers, afin de parcourir les environs du village, le patrimoine savoyard montagnard, ainsi que la nature.
+
+    En VTT électrique, il sera alors idéal de découvrir ces lieux, de vivre une expérience forte, d'un moment de dépassement et de sensation forte.
+
+    Avec Sam Jones, découvrez le VTT Electrique ainsi que la station de Saint Martin de Belleville avec différentes formules :
+
+    * Initiation
+    * Découverte
+    * Journée Sportive
   button:
     text_button: Réserver votre sortie VTT à St Martin de Belleville
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Saint+Martin+de+Belleville&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
