@@ -23,7 +23,7 @@ layout: default
                     {{ page.tags[2] }}
                 </div>
                 <h1 class="font-weight-600 w-50 mx-auto md-w-70 xs-w-90">{{ page.post-title }}</h1>
-                <div class="d-inline-block text-white-transparent margin-5px-top">{{ config.blog.various.text001 }} {{ author.firstname }} {{ author.lastname }} {{ config.blog.various.text002 }} {{ page.date | date_to_string }}</div>
+                <div class="d-inline-block text-white-transparent margin-5px-top">{{ config.blog.various.text001 }} {{ author.firstname }} {{ author.lastname }} {{ config.blog.various.text002 }} {{ page.date | frenchDate }}</div>
             </div>
         </div>
     </div>
