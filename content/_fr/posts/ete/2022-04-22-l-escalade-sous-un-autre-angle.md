@@ -14,9 +14,9 @@ page_sections:
 - template: textarea
   title: 'Qu’est ce que la grande voie ? '
   content: |-
-    La grande voie, c’est l’escalade de falaise de grande hauteur. La grande voie sollicite avant tout l’endurance physique mais demande également un grand mental; Contrairement à l’escalade classique elle participe au phénomène de repousser ses limites. C’est grimper plus de 100m en oubliant totalement ce qui peut se trouver autour pendant quelques heures.
+    La grande voie, c’est l’escalade de falaise de grande hauteur. La grande voie sollicite avant tout l’endurance physique mais demande également un grand mental. Contrairement à l’escalade classique elle poussera les grimpeurs dans leurs retranchements et demandera à chaque instant de repousser ses limites. La grande voie c’est grimper plus de 100m en oubliant totalement ce qui peut se trouver autour... et ce pendant quelques heures.
 
-    Cependant, pour pouvoir y parvenir, le grimpeur en question doit enchaîner plusieurs longueurs. Grimper en grande voie d’une traite est impossible. Premièrement dû au longueur de corde qui ne sont pas assez conséquente mais aussi du aux pauses que le grimpeur doit prendre pour récupérer, se concentrer etc.
+    Cependant, pour pouvoir y parvenir, le grimpeur en question doit enchaîner plusieurs longueurs. Grimper en grande voie d’une traite est impossible. Premièrement à cause de la longueur de corde trop peu importante mais également car le grimpeur doit prendre quelques pauses pour récupérer, se concentrer etc.
   blockBGcolor: blanc
 - template: liststyle01
   item:
