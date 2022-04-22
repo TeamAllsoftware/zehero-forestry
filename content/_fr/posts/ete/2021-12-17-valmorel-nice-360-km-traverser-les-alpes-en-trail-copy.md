@@ -4,34 +4,20 @@ language: fr
 season: summer
 author: yannalarcon
 topnav_color_text: dark
-title: 2021-12-17-valmorel-nice-360-km-traverser-les-alpes-en-trail-(copy)
-post-title: Valmorel - Nice, une traversée vers une nouvelle vie
-meta-title: Valmorel - Nice, une traversée vers une nouvelle vie
-meta-description: Partir de Valmorel et rejoindre en courant Nice par le GR5. Récit
-  d'une aventure en montagne.
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639732890/website/blog/Valmorel%20-%20Nice/IMG_20200709_084734_si85oi.jpg
-image01_alt: Couse à pied, montagne et lac
+title: 2022-04-22-l'escalade-sous-un-autre-angle-(copy)
+post-title: L'escalade sous un autre angle
+meta-title: 'L''histoire des grandes voies, l''escalade vue sous un autre angle '
+meta-description: 'Les grandes voies, une partie mythique de l''escalade en outdoor '
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650619380/website/download.jpg
+image01_alt: grand espace, falaise, grimpeur
 page_sections:
 - template: textarea
-  title: Pourquoi est né ce projet ?
-  content: "L’année 2020 fut une épreuve pour tout le monde. Nous avons tous vécu
-    une période particulière. Qu’elle se soit bien passée ou non, elle aura impacté
-    notre quotidien et notre esprit. Traileur et compétiteur, il n’y avait plus aucun
-    événement possible en France. Comment garder la motivation de s’entraîner ? \n\nDepuis
-    quelques temps, je voulais faire un projet perso qui dure plusieurs jours. Une
-    aventure, une traversée, une boucle, je ne savais pas encore quoi, mais je savais
-    que je voulais courir, courir longtemps.\n\nMa chérie est à Antibes et moi à Valmorel.
-    Souvent les week-ends, je prenais la voiture pour aller la voir. Je prenais généralement
-    la route de Napoléon, je voyais ces montagnes au loin et c’était magnifique. Puis
-    un jour, je me suis rappelé que le GR5 arrivait à Nice. Je savais qu’il ne passait
-    pas très loin de Valmorel aussi. L’idée fleurissait doucement.  \nLe jour du confinement,
-    j'étais descendu à Antibes, je savais que j’allais déménager et vivre dans le
-    Sud près de la mer. C’était une nouvelle page pour moi, une nouvelle vie. J’ai
-    eu l’idée alors de venir en courant de Valmorel à Nice. C’était symbolique, c’était
-    pour moi ma façon de venir de la plus belle des manières dans ma nouvelle maison,
-    ma nouvelle vie. C’était ma démarche romantique, mon aventure, mon chemin qui
-    mène à l'amour. L’amour des lieux où j’ai grandi, l’amour des montagnes, l’amour
-    du trail, l’amour de ma chérie et l’amour de ma nouvelle maison."
+  title: 'Qu’est ce que la grande voie ? '
+  content: |-
+    La grande voie, c’est l’escalade de falaise de grande hauteur. La grande voie sollicite avant tout l’endurance physique mais demande également un grand mental; Contrairement à l’escalade classique elle participe au phénomène de repousser ses limites. C’est grimper plus de 100m en oubliant totalement ce qui peut se trouver autour pendant quelques heures.
+
+    Cependant, pour pouvoir y parvenir, le grimpeur en question doit enchaîner plusieurs longueurs. Grimper en grande voie d’une traite est impossible. Premièrement dû au longueur de corde qui ne sont pas assez conséquente mais aussi du aux pauses que le grimpeur doit prendre pour récupérer, se concentrer etc.
+  blockBGcolor: blanc
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638805924/website/summer/annie-spratt-kZO9xqmO_TA-unsplash_f7k1i3.jpg
   captiontitleuppercase: Comment je vais faire cette traversée ?
