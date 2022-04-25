@@ -54,7 +54,7 @@
                                     {% capture download_note %}{{ service.image01_href }}{% endcapture %}
                                     <img loading="lazy" src="{% include image.html file=download_note sizevar='activitylist' %}" alt="Image {{ service.title }}" width='322px' height='446px' />
                                     <div class="interactive-banners-text-overlay bg-slate-blue"></div>
-                                    <div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>
+                                    {% comment %}<div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>{% endcomment %}
                                 </div>
                                 <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
                                     <h4 class="h3 alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ service.title }}</h4>

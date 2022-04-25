@@ -6,7 +6,11 @@
                 <div class="swiper-wrapper">
                     <!-- start slider item -->
                     {% capture download_note %}{{ block.Slide1.image_href }}{% endcapture %}
-                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar="genhero" width="" gradient="grad" %}');">
+                    {% if page.type == 'B2B' %}
+                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar='genhero' %}');">
+                    {% else %}
+                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar='genhero' gradient='grad' %}');">
+                    {% endif %}
                         <div class="d-flex flex-column justify-content-end ms-auto w-600px h-100 xl-w-550px sm-w-70 sm-w-100">
                             <div class="bg-white padding-7-rem-tb padding-8-rem-lr xl-padding-5-rem-tb xl-padding-6-rem-lr xs-padding-2-half-rem-all">
                                 <div class="col-12 p-0 margin-25px-bottom d-md-inline-block align-items-center justify-content-center">
@@ -26,7 +30,11 @@
                     <!-- end slider item -->
                     <!-- start slider item -->
                     {% capture download_note %}{{ block.Slide2.image_href }}{% endcapture %}
-                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar="genhero" width="" gradient="grad" %}');">
+                    {% if page.type == 'B2B' %}
+                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar='genhero' %}');">
+                    {% else %}
+                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar='genhero' gradient='grad' %}');">
+                    {% endif %}
                         <div class="d-flex flex-column justify-content-end ms-auto w-600px h-100 xl-w-550px sm-w-70 sm-w-100">
                             <div class="bg-white padding-7-rem-tb padding-8-rem-lr xl-padding-5-rem-tb xl-padding-6-rem-lr xs-padding-2-half-rem-all">
                                 <div class="col-12 p-0 margin-25px-bottom d-md-inline-block align-items-center justify-content-center">
@@ -46,7 +54,11 @@
                     <!-- end slider item -->
                     <!-- start slider item -->
                     {% capture download_note %}{{ block.Slide3.image_href }}{% endcapture %}
-                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar="genhero" width="" gradient="grad" %}');">
+                    {% if page.type == 'B2B' %}
+                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar='genhero' %}');">
+                    {% else %}
+                    <div class="swiper-slide cover-background" style="background-image:url('{% include image.html file=download_note sizevar='genhero' gradient='grad' %}');">
+                    {% endif %}
                         <div class="d-flex flex-column justify-content-end ms-auto w-600px h-100 xl-w-550px sm-w-70 sm-w-100">
                             <div class="bg-white padding-7-rem-tb padding-8-rem-lr xl-padding-5-rem-tb xl-padding-6-rem-lr xs-padding-2-half-rem-all">
                                 <div class="col-12 p-0 margin-25px-bottom d-md-inline-block align-items-center justify-content-center">

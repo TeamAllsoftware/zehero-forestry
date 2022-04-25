@@ -7,6 +7,8 @@ site_logo_black: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/w
 phonenumber: (+33) 4 79 01 49 99 
 
 site-color: green
+B2B:
+  site-color: yellow-ochre
 site-color2: radical-red
 
 #open graph
@@ -129,6 +131,13 @@ fr:
       btn_href_title: Lien vers la page du e-shop pour réserver vos activités outdoor de l'été
       btn_text02: Contact
       btn_href_title02: Contactez l'équipe de ZE HERO pour toutes vos questions relatives aux activités outdoor, pour un conseil matériel ou des rensignements sur une offre, une destination ou autre
+      contact-modal-txt01: Nous répondons à toutes vos questions<br> via ce formulaire ou par téléphone au
+    B2B:
+      btn_text: Devis
+      btn_href: /fr/seminaire-devis/
+      btn_href_title: Lien vers la page de demande de devis pour les séjours et séminaires d'entreprises
+      btn_text02: Contact
+      btn_href_title02: Contactez l'équipe de ZE HERO pour toutes vos questions relatives aux séjours et séminaires d'entreprises
       contact-modal-txt01: Nous répondons à toutes vos questions<br> via ce formulaire ou par téléphone au
 en:
   changelang: Navigate this website in english

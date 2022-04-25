@@ -114,14 +114,45 @@ page_sections:
     Vous pourrez également participer à des [sorties de trail longues](https://www.ze-hero.com/fr/ete/activites/coaching-course-a-pied-trail-antibes-alpes-maritimes). Elles permettront de découvrir un lieu, un environnement avec un groupe.
   title: Etre encadré
   blockBGcolor: ''
-- template: 3coltxtimgtxt
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg
-  captionleftcontent: Soyez le Hero, courez et découvrez de nouveau horizon
-  captionrighttitle: Ne courez pas après le temps, appréciez en chaque seconde
-  captionrightcontent: Quel que soit le niveau, le plaisir de courir reste le même
-  center_alt_text_for_image: 'Deux personnes faisant du trail running courant dans
-    la neige '
-  blockBGcolor: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  content: |-
+    Le Trail dans les Alpes Maritimes est un paradis pour les traileurs, les amoureux de la nature et de l'endurance. La variété de l'environnement est un incroyable et son terrain de jeux est très varié. Que ce soit près de la mer avec des chemins de littoral, les collines et ses plaines plus sauvage et aride des Préalpes d'Azur, aux montagnes du Mercantour, le choix est immense.
+
+    Que ce soit pour découvrir le Trail, pour vous initier, pour progresser et vous perfectionner, chez Ze Hero, vous découvrirez différentes offres.
+
+    Tout d'abord vous pourrez retrouver différentes offres de Trail à Bar sur Loup et ses environs dans les Préalpes d'Azur : [Trail à Bar sur Loup avec différentes offres de niveau.](https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=)
+
+    Vous pourrez également courir dans le [massif de l'Esterel](https://shop.ze-hero.com/fr/activites-Outdoor/trail/17205-trail-journee-activite-ze-hero) ainsi que retrouver différentes formules d'entraînement plus spécifique vers [Antibes](https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=).
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650896367/website/By%20Ze%20Hero%20Activity/IMG20210424154801_01_1.jpg
+  alt_text_for_image: Coureur dans le massif de l'Esterel
+  captiontitleuppercase: Le Trail dans les Préalpes d'Azur
+  title: Le Trail dans les Alpes Maritimes
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782611/website/Partenaires/Cueilleur%20de%20sommet/Balcons_du_Vertige_1.jpg
+  alt_text_for_image: Vue des balcons du vertiges en Lozère
+  captiontitleuppercase: Sauvage et dépaysant
+  title: Le Trail en Lozère
+  content: |-
+    Le trail en [Lozère ](https://www.ze-hero.com/fr/ete/destinations/lozere)est un terrain idéal pour tous les amoureux de la nature et de la course à pied. Profitez de grands espaces, d'une nature d'exception et protégé. Vous pourrez alors longer les gorges du Tarn et de la Jonte, courir sous les vautours, profiter des grands plateaux des causses.
+
+    La Lozère, c'est courir dans le parc national des Cévennes, le parc régional de l'Aubrac.
+
+    Entre des chemins roulants et techniques, des montées abruptes, des chemins sauvages, des grands espaces, les pâturages, la Lozère sera un terrain incroyable pour le Trail. Partez pour le plaisir de courir, de vous initier, de progresser mais également de découvrir un environnement, son histoire et sa nature.
+
+    Avec Ze Hero, notre partenaire " Cueilleur de Sommets " vous proposera plusieurs offres de trail en Lozère. Vous pourrez alors découvrir les lieux, apprendre sur son patrimoine et son histoire. Mais surtout, il vous apportera les différents conseils pour la pratique de Trail avec les éléments clés. Découvrez différents parcours parfaits pour une demi-journée et une journée de trail en Lozère :
+
+    * Entre Gorges du Tarn et de la Jonte. Entre 15 et 20 km pour 1000D+
+    * Ermitage St Pons et Champignon préhistorique. 12km pour 650D+
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: cta
   intro: Réservez dès maintenant vos sorties trail
   headline: Cours privés ou collectifs sont disponibles
