@@ -113,6 +113,8 @@ menu:
   column-02:
   - nested: Les marques
     menu-items:
+    - title: Altore
+      href: "/fr/marques/altore"
     - title: Fausse Route
       href: "/fr/marques/fausseroute"
     - title: Instinct Trail Inspired

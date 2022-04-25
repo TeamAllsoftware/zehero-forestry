@@ -19,10 +19,10 @@ menu:
   phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.
 - title: Destinations
   id: "3"
-  title-link: "/fr/hiver/destinations/"
+  title-link: "/fr/seminaires-hiver/destinations-seminaires/"
   image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg
   image-alt: Un skieur fait une randonnée en forêt enneigée
-  image-link: "/fr/hiver/destinations/"
+  image-link: "/fr/seminaires-hiver/destinations-seminaires"
   txt-button: Les destinations de séminaire
   phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.  
 - title: Activités

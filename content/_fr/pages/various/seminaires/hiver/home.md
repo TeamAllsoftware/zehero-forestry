@@ -47,6 +47,8 @@ page_sections:
     ZE HERO Séminaires (ex PROSNEIGE Séminaires) est une agence réceptive spécialiste des Alpes, qui organise vos séminaires: conseils, animation de groupe et réservation de séjour en formule "tout-compris" (hébergement, activités, logistique). Basés dans les Alpes à Val Thorens (Savoie), nous intervenons dans les villes, villages et stations des Alpes depuis 2005.
 
     Séjours de motivation, récompense, relations publiques, réunions et conventions... choisissez votre formule : domaine alpin, ambiance nordique, villages festifs, séjour alti-forme, Mont Blanc et grands lacs Alpins.
+
+    <blockquote>Motivation, récompense, séminaire de travail, événement d'entreprise... ZE HERO Séminaires transformera vos besoins en un séjour réussi et des émotions partagées.</blockquote>
 - template: 2colimgtxt
   blockBGcolor: 
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav_Faces-autoCrop/v1638883535/website/winter/Telesiege-amis-groupe_owkpc2.jpg
@@ -132,6 +134,11 @@ page_sections:
     title: A partir de 319€/pers
     link:
   button_2_more: false
-
+- template: cta
+  intro: Demande de devis
+  headline: Faîtes votre demande de devis en ligne pour vos séminaires hiver ou été
+  button:
+    text_button: Je veux un devis
+    href_button: /fr/seminaire-devis/
 
 ---
