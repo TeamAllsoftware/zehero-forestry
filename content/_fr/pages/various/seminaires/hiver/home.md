@@ -62,7 +62,7 @@ page_sections:
     - Filiale
   button:
     text_button: Je veux un devis
-    link_button: /fr/seminaire-devis/
+    href_button: /fr/seminaire-devis/
     alt_button: Faire établir un devis pour un séminaire de 3 à 4 jours
 - template: 2coltxtimg
   blockBGcolor: 
@@ -80,7 +80,7 @@ page_sections:
     - Apporteurs d'affaires...
   button:
     text_button: Je veux un devis
-    link_button: /fr/seminaire-devis/
+    href_button: /fr/seminaire-devis/
     alt_button: Faire établir un devis pour un séminaire de 2 jours minimum
 - template: 2colimgtxt
   blockBGcolor: 
@@ -96,7 +96,7 @@ page_sections:
     - Salariés dans le cadre d'une convention d'entreprise
   button:
     text_button: Je veux un devis
-    link_button: /fr/seminaire-devis/
+    href_button: /fr/seminaire-devis/
     alt_button: Faire établir un devis pour un séminaire à la journée
 - template: heroImageFull
   top: non
