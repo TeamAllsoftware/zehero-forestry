@@ -143,6 +143,22 @@ page_sections:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Porge&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
     text_button: Réservez votre cours de Surf à Porge
     alt_button: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340583/website/Ind%C3%A9pendant/51668639_2264458490442592_3894814208168034304_n.png
+  alt_text_for_image: Surfeur à Seignosse
+  captiontitleuppercase: Perfectionnez vous en surf
+  title: Surfez à Seignosse
+  content: |-
+    Partez surfer dans les Landes, sur les spots mondialement connus de surf. À Seignosse, plongez dans la culture surf, sur ces kilomètres de plage afin de surfer.
+
+    Débutez, progressez, perfectionnez-vous en prenant un moniteur afin d'avoir tous les clés en main pour progresser techniquement et physiquement.
+
+    À Seignosse, le moniteur indépendant de Surf Morgan d’Avezac met en place des offres de leçon privée. Il vous apportera les meilleurs conseils pour apprendre et comprendre le surf et l’océan. Il vous transmettra toutes ses compétences et son savoir quel que soit votre niveau de surf.
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Seignosse&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    text_button: Réservez votre cours de surf à Seignosse
+    alt_button: ''
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
