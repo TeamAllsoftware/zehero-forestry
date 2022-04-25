@@ -124,10 +124,31 @@ page_sections:
     Tout d'abord vous pourrez retrouver différentes offres de Trail à Bar sur Loup et ses environs dans les Préalpes d'Azur : [Trail à Bar sur Loup avec différentes offres de niveau.](https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=)
 
     Vous pourrez également courir dans le [massif de l'Esterel](https://shop.ze-hero.com/fr/activites-Outdoor/trail/17205-trail-journee-activite-ze-hero) ainsi que retrouver différentes formules d'entraînement plus spécifique vers [Antibes](https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=).
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650619667/website/By%20Ze%20Hero%20Activity/_D5C4137_-lr.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650896367/website/By%20Ze%20Hero%20Activity/IMG20210424154801_01_1.jpg
   alt_text_for_image: Coureur dans le massif de l'Esterel
   captiontitleuppercase: Le Trail dans les Préalpes d'Azur
   title: Le Trail dans les Alpes Maritimes
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782611/website/Partenaires/Cueilleur%20de%20sommet/Balcons_du_Vertige_1.jpg
+  alt_text_for_image: Vue des balcons du vertiges en Lozère
+  captiontitleuppercase: Sauvage et dépaysant
+  title: Le Trail en Lozère
+  content: |-
+    Le trail en [Lozère ](https://www.ze-hero.com/fr/ete/destinations/lozere)est un terrain idéal pour tous les amoureux de la nature et de la course à pied. Profitez de grands espaces, d'une nature d'exception et protégé. Vous pourrez alors longer les gorges du Tarn et de la Jonte, courir sous les vautours, profiter des grands plateaux des causses.
+
+    La Lozère, c'est courir dans le parc national des Cévennes, le parc régional de l'Aubrac.
+
+    Entre des chemins roulants et techniques, des montées abruptes, des chemins sauvages, des grands espaces, les pâturages, la Lozère sera un terrain incroyable pour le Trail. Partez pour le plaisir de courir, de vous initier, de progresser mais également de découvrir un environnement, son histoire et sa nature.
+
+    Avec Ze Hero, notre partenaire " Cueilleur de Sommets " vous proposera plusieurs offres de trail en Lozère. Vous pourrez alors découvrir les lieux, apprendre sur son patrimoine et son histoire. Mais surtout, il vous apportera les différents conseils pour la pratique de Trail avec les éléments clés. Découvrez différents parcours parfaits pour une demi-journée et une journée de trail en Lozère :
+
+    * Entre Gorges du Tarn et de la Jonte. Entre 15 et 20 km pour 1000D+
+    * Ermitage St Pons et Champignon préhistorique. 12km pour 650D+
   button:
     text_button: ''
     href_button: ''
