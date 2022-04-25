@@ -26,6 +26,25 @@ page_sections:
     Vous pourrez alors louer votre matériel dans différents lieux en fonction également de là où vous irez pratiquer. Vous pouvez donc louer directement dans les écoles de canyoning à Nice, Bar sur Loup, Antibes, Plan du Var...
 
     Avec Ze Hero, nous vous offrons la possibilité de louer votre matériel de canyoning à St Jeannet.
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
+  alt_text_for_image: Personnes faisant du canyoning dans les Alpes Maritimes
+  captiontitleuppercase: Le canyoning dans le 06
+  title: Location d'équipement de canyoning dans les Alpes Maritimes
+  content: "Nous proposons alors la location d'équipement de canyoning dans les Alpes
+    Maritimes.  \nVous pourrez alors louer votre combinaison, votre casque et votre
+    baudrier directement à St Jeannet. Tout près de Nice, dans les Préalpes d'Azur
+    et près des gorges du loup, louer votre matériel de canyoning afin de vous équiper
+    et de profiter de cette activité.\n\nAu tarif de 25€ vous bénéficierez de tout
+    l'équipement de canyoning. Nous proposons la location uniquement pour adulte.\n\nVous
+    profiterez de la location à la journée afin de profiter pleinement de vos randonnées
+    aquatiques et descentes des différents canyons des Alpes Maritimes.\n\nLe matériel
+    de canyonings loué devra cependant être ramené ensuite à St Jeannet."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
