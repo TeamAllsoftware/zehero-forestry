@@ -57,6 +57,5 @@ page_sections:
     également venir avec des chaussures de sport avec des crampons, types chaussure
     de trail afin de ne pas glisser sur les rochers."
   title: ''
-published: false
 
 ---
