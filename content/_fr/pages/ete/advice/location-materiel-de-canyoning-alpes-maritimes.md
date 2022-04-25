@@ -63,15 +63,24 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650888235/website/By%20Ze%20Hero%20Activity/Loc%20Canyoning/117036248_10157887471289864_3482499957593166063_n.jpg
   alt_text_for_image: Personne portant une combinaison de canyoning Vade Retro
   title: La combinaison de canyoning
-  captiontitleuppercase: Des rivières souvent fraîche
-  content: |-
-    La combinaison de canyoning sera obligatoire lorsque vous irez faire du canyoning.
-
-    Soit vous lourez votre combinaison de canyoning soit elle sera incluse lors de votre réservation d'activité avec votre moniteur. Mais dans tous les cas, vous partirez équiper d'une combinaison spécialement conçue pour descendre dans les rivières.
-
-    Tout d'abord, les combinaisons de canyoning ont pour but de vous tenir chaud, elles sont en néoprène. La température de l'eau des rivières peut être froide même l'été sous 30 degrés. L'eau des rivières descend directement des montagnes et dans certaines gorges, le soleil pénètre mal. L'eau se réchauffe très peu. Pour des descentes de plusieurs heures dans l'eau, il est important alors de ne jamais avoir froid. C'est pourquoi certaines de ces combinaisons font faciles 5mm d'épaisseur. De plus, l'épaisseur vous fera flotter dans l'eau sans forcément altérer vos mouvements.
-
-    Ensuite, ce qui est important, c'est que les combinaisons de canyoning présentent des renforts au niveau des fesses, des genoux et coudes. Vous allez faire des toboggans et donc glisser sur les fesses sur les rochers. Il faudra alors un tissu costaud afin de ne pas se déchirer et vous protéger également. C'est pour cela qu'il ne faut pas prendre une combinaison de plongée car même s'il est fait 5mm, elle sera très fragile et vous la déchirerez.
+  captiontitleuppercase: Des températures souvent fraîches
+  content: "La combinaison de canyoning sera obligatoire lorsque vous irez faire du
+    canyoning.\n\nSoit vous lourez votre combinaison de canyoning soit elle sera incluse
+    lors de votre réservation d'activité avec votre moniteur. Mais dans tous les cas,
+    vous partirez équiper d'une combinaison spécialement conçue pour descendre dans
+    les rivières.\n\nTout d'abord, les combinaisons de canyoning ont pour but de vous
+    tenir chaud, elles sont en néoprène. La température de l'eau des rivières peut
+    être froide même l'été sous 30 degrés. L'eau des rivières descend directement
+    des montagnes et dans certaines gorges, le soleil pénètre mal. L'eau se réchauffe
+    très peu. Pour des descentes de plusieurs heures dans l'eau, il est important
+    alors de ne jamais avoir froid. C'est pourquoi certaines de ces combinaisons font
+    faciles 5mm d'épaisseur. De plus, l'épaisseur vous fera flotter dans l'eau sans
+    forcément altérer vos mouvements.  \nEnsuite, ce qui est important, c'est que
+    les combinaisons de canyoning présentent des renforts au niveau des fesses, des
+    genoux et coudes. Vous allez faire des toboggans et donc glisser sur les fesses
+    sur les rochers. Il faudra alors un tissu costaud afin de ne pas se déchirer et
+    vous protéger également. C'est pour cela qu'il ne faut pas prendre une combinaison
+    de plongée car même s'il est fait 5mm, elle sera très fragile et vous la déchirerez."
   button:
     text_button: ''
     href_button: ''
