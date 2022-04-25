@@ -1,5 +1,10 @@
-<div class="theme-demos " style="display: block;">
+{% if page.type == "B2B" %}
+<div class="theme-demos b2b" style="display: block;">
+    <div class="buy-theme sm-display-none bg-{{ site.data.config.[page.type].site-color }}">
+{% else %}
+<div class="theme-demos" style="display: block;">
     <div class="buy-theme sm-display-none bg-green">
+{% endif %} 
 
        
         {% if page.type == "B2B" %}
@@ -20,7 +25,11 @@
             </div>
         </a>
     </div>
-    <div class="all-demo sm-display-none bg-green">
+    {% if page.type == "B2B" %}
+    <div class="all-demo b2b sm-display-none">
+    {% else %}
+    <div class="all-demo sm-display-none">
+    {% endif %} 
         {% if page.type == "B2B" %}
         <a href="javascript:void(0);" title="{{ site.data.config.[page.language].modal-eshop-menu.B2B.btn_href_title02 }}"><i class="feather icon-feather-x align-middle"></i>
             {% else %}

@@ -1,21 +1,21 @@
 ---
 menu:
-- title: L'équipe
-  id: "1"
-  title-link: "/fr/seminaire-hiver/l-equipe"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg
-  image-alt: Un skieur porte ses skis en montant une arrête pour descendre une voie
-    en hors-piste
-  image-link: /fr/seminaire-hiver/l-equipe
-  txt-button: Découvrir l'équipe
-  phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.
 - title: Votre séminaire
   id: "2"
-  title-link: "/fr/hiver/conseils"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825166/website/winter/debuter-le-ski-pour-adultes-avec-prosneige-_dou0sp.jpg
+  title-link: "/fr/seminaires-hiver"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650891231/website/resorts/jamie-fenn-PEVG_cqrIVo-unsplash.jpg
   image-alt: Un rack de télécabine rempli de ski
-  image-link: "/fr/hiver/conseils"
+  image-link: "/fr/seminaires-hiver"
   txt-button: Votre projet de séminaire
+  phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.
+- title: L'équipe
+  id: "1"
+  title-link: "/fr/seminaires-hiver/equipe-organisation"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650891470/website/Seminaires/hiver/daniel-frank-R5CpX0Ktrzs-unsplash.jpg
+  image-alt: Un skieur porte ses skis en montant une arrête pour descendre une voie
+    en hors-piste
+  image-link: /fr/seminaires-hiver/equipe-organisation
+  txt-button: Découvrir l'équipe
   phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.
 - title: Destinations
   id: "3"

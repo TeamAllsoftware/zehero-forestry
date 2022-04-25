@@ -1,5 +1,9 @@
 {% capture download_note %}{{ block.image01_href }}{% endcapture %}
-<section class="p-0 cover-background overlap-height" style="background-image: url('{% include image.html file=download_note sizevar="genhero" width="" height="" gradient="grad"  %}');"> 
+{% if page.type == 'B2B' %}
+<section class="p-0 cover-background overlap-height" style="background-image: url('{% include image.html file=download_note sizevar='genhero' %}');"> 
+{% else %}
+<section class="p-0 cover-background overlap-height" style="background-image: url('{% include image.html file=download_note sizevar='genhero' gradient='grad' %}');"> 
+{% endif %}
   <div class="opacity-very-light bg-dark-slate-blue"></div>
   <div class="container position-relative">
       <div class="row full-screen md-h-800px sm-h-500px">
@@ -17,11 +21,11 @@
   </div>
   <div class="d-flex flex-row justify-content-end ms-auto w-750px position-absolute right-0px bottom-0px z-index-1 sm-position-relative sm-w-100">
       <div class="row align-items-center justify-content-end mx-0 w-100">
-          <div class="col-12 col-sm-9 align-items-center d-flex bg-{{ site.data.config.site-color }} h-100 padding-3-rem-tb padding-5-rem-lr xs-padding-3-rem-lr">
+          <div class="col-12 col-sm-9 align-items-center d-flex bg-{{ site.data.config.[page.type].site-color }} h-100 padding-3-rem-tb padding-5-rem-lr xs-padding-3-rem-lr">
               <h5 class="alt-font text-white font-weight-300 m-0">{{ block.engage }} </h5>
           </div>
           <div class="col-3 p-0 h-100 d-none d-xl-inline-block">
-              <a href="#" class="text-center align-items-center d-flex justify-content-center bg-seashell h-100"><i class="line-icon-Arrow-Down icon-extra-large text-{{ site.data.config.site-color }}"></i></a>
+              <a href="#" class="text-center align-items-center d-flex justify-content-center bg-seashell h-100"><i class="line-icon-Arrow-Down icon-extra-large text-{{ site.data.config.[page.type].site-color }}"></i></a>
           </div>
       </div>
   </div>

@@ -16,7 +16,7 @@
 
         <header>
             {% if page.type == "B2B" %}
-                <nav class="navbar top-space navbar-expand-lg navbar-boxed navbar-dark bg-green fixed-top header-reverse-scroll">
+                <nav class="navbar top-space navbar-expand-lg navbar-boxed navbar-dark bg-{{ site.data.config.[page.type].site-color }} fixed-top header-reverse-scroll">
                 {% else %}
                 <nav class="navbar navbar-expand-lg navbar-boxed navbar-{{ page.topnav_color_text }} bg-transparent header-light fixed-top header-reverse-scroll">
                
