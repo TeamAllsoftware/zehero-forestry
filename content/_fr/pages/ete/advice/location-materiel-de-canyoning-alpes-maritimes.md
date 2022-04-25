@@ -45,6 +45,15 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Vous pourrez partir de St Jeannet et aller dans les gorges du Loup afin de réaliser les différents canyonings tel que le Gours du Ray, les gorges du Loup, le canyoning de Courmes. Sinon, il faudra aller plus loin en direction du Mercantour pour ceux de la Tinée, de la Vésubie, de la Roya etc.
+
+    Quel que soit votre niveau, il sera nécessaire de partir faire du canyoning avec une combinaison, un casque et un baudrier. Parfois certains moniteurs ne possèdent pas tout l'équipement pour ces groupes, c'est pourquoi il faut louer son matériel en amont.
+
+    Il faudra également venir avec des chaussures de sport avec des crampons, types chaussure de trail afin de ne pas glisser sur les rochers.
+  title: ''
 published: false
 
 ---
