@@ -86,6 +86,48 @@ page_sections:
     d'un ravitaillement et un suivi en voiture lorsque vous partez pour plusieurs
     jours.
   blockBGcolor: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-traversee-des-alpes-nice_jyfbgw.jpg
+  alt_text_for_image: Cycliste arrivant à Nice en Vélo de route
+  captiontitleuppercase: Le plaisir du bikepacking
+  title: Les traversées à vélo by Ze Hero
+  content: |-
+    Chez Ze Hero, nous vous proposons plusieurs itinéraires à vélo sur plusieurs jours. Pour une expérience unique, vous pourrez rouler à travers les cols des Alpes et des Préalpes, découvrir des paysages grandioses. Des séjours tout compris où vous serez pris en charge totalement pour vos bagages, le logement, les ravitaillements. Vous aurez uniquement à rouler et profiter des routes et des panoramas.
+
+    Vous serez encadré par un professionnel de vélo, vous serez suivi par une voiture-balai afin d'avoir toujours vos affaires à disposition ainsi que tous les ravitaillements nécessaires pour chaque étape.
+
+    Le plaisir de rouler en groupe à travers les plus paysages montagneux et des traversées unique pour finir les pieds dans la mer.
+
+    Voici nos traversées que nous proposons chez Ze Hero :
+
+    * La Traversée des Alpes : [plus d'info ici !](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)
+    * La Traversée des Préalpes : [plus d'infos ici !](https://www.ze-hero.com/fr/ete/activites/traversee-des-pre-alpes-en-velo)
+  button:
+    text_button: Réserver votre traversée à vélo
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+    alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/51384836504_bff6429438_k_mkw8t9.jpg
+  alt_text_for_image: Cycliste grimpant à vélo les routes de Méribel
+  captiontitleuppercase: Découvrir les 3 vallées
+  title: Le Vélo de route autour de Méribel
+  content: |-
+    Avec Ze Hero, nous vous proposons différentes offres de vélo de route autour de Méribel.
+
+    Un séjour vélo à Méribel qui vous permettra de découvrir, de progression dans des décors montagnards. Découvrez alors les vallées de la Tarentaise et de la haute tarentaise, les lacs ainsi que les différents cols, comme le fameux col de la Loze avec des passages très raide, à plus de 20%.
+
+    Vous pourrez donc enchaîner ce séjour avec toutes les étapes à la suite. Sinon vous pouvez sélectionner à la carte les journées où vous voulez rouler si vous préférez ne pas tout enchaîner.
+
+    Découvrez nos deux offres de vélo de route à Méribel :
+
+    * Séjour de 6 jours autour de Méribel : [plus d'infos ici !](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)
+    * Journées autour de Méribel : [plus d'infos ici !](https://www.ze-hero.com/fr/ete/activites/velo-de-route-journees-meribel)
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+    text_button: Réservez votre activité vélo à Méribel
+    alt_button: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
