@@ -85,6 +85,27 @@ page_sections:
     d'un ravitaillement et un suivi en voiture lorsque vous partez pour plusieurs
     jours.
   blockBGcolor: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-traversee-des-alpes-nice_jyfbgw.jpg
+  alt_text_for_image: Cycliste arrivant à Nice en Vélo de route
+  captiontitleuppercase: Le plaisir du bikepacking
+  title: Les traversées à vélo by Ze Hero
+  content: |-
+    Chez Ze Hero, nous vous proposons plusieurs itinéraires à vélo sur plusieurs jours. Pour une expérience unique, vous pourrez rouler à travers les cols des Alpes et des Préalpes, découvrir des paysages grandioses. Des séjours tout compris où vous serez pris en charge totalement pour vos bagages, le logement, les ravitaillements. Vous aurez uniquement à rouler et profiter des routes et des panoramas.
+
+    Vous serez encadré par un professionnel de vélo, vous serez suivi par une voiture-balai afin d'avoir toujours vos affaires à disposition ainsi que tous les ravitaillements nécessaires pour chaque étape.
+
+    Le plaisir de rouler en groupe à travers les plus paysages montagneux et des traversées unique pour finir les pieds dans la mer.
+
+    Voici nos traversées que nous proposons chez Ze Hero :
+
+    * La Traversée des Alpes : [plus d'info ici !](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)
+    * La Traversée des Préalpes : [plus d'infos ici !](https://www.ze-hero.com/fr/ete/activites/traversee-des-pre-alpes-en-velo)
+  button:
+    text_button: Réserver votre traversée à vélo
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+    alt_button: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
