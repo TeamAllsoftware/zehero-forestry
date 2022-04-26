@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/hiver/activite/activites-pour-les-enfants"
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 title: Activités pour les enfants
 meta-title: Réserver des activités d'hiver pour vos enfants

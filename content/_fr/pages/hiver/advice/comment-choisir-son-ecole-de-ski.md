@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: winter
+type: generic
 meta-title: Conseil école de ski, comment bien choisir son cours de ski ?
 meta-description: Comment choisir son école de ski ? Il existe parfois dans une station
   différents types d'école de ski.

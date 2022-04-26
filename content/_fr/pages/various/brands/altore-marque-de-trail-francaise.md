@@ -3,6 +3,7 @@ layout: layout_brand
 categorie: brand
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 title: Altore, marque de trail Française
 permalink: "/fr/marques/altore"

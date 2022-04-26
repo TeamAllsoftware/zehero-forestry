@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 title: Vélo de route - Traversée des Pré-Alpes
 permalink: "/fr/ete/activites/traversee-des-pre-alpes-en-velo"

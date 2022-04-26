@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: winter
+type: generic
 meta-title: Conseil ski, comment bien choisir votre magasin de ski
 meta-description: Parmi tous les magasins de location, voici les critères afin de
   le choisir correctement pour répondre à vos besoins pour le ski

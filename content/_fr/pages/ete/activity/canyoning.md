@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 title: Canyoning
 permalink: "/fr/ete/activites/canyoning"

@@ -2,6 +2,7 @@
 layout: blog_post
 language: fr
 season: winter
+type: generic
 author: geoffreyarduini
 title: 2021-12-08-ski-de-randonnee-en-isere
 post-title: Pratiquer le ski de randonnée en Isère

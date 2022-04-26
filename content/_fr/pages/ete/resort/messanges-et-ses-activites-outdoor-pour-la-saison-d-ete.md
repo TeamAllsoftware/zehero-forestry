@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: Découvrez toutes les activités Outdoor à Messanges. Un petit coin
   nature entre océan, forêts et étang.
 topnav_color_text: light

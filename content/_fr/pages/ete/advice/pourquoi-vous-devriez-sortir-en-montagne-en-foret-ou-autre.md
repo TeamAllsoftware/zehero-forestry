@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-description: Quels sont les différents bienfaits et bénéfices pour le corps et
   le mental de sortir en montagne, en forêt ou autre en nature.
 topnav_color_text: light

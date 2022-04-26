@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 title: Coaching Trail et course à pied Antibes et Alpes Maritimes
 permalink: "/fr/ete/activites/coaching-course-a-pied-trail-antibes-alpes-maritimes"

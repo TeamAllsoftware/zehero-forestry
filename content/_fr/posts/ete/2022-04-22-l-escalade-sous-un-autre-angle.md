@@ -2,7 +2,8 @@
 layout: blog_post
 language: fr
 season: summer
-author: geoffreyarduini
+type: generic
+author: juliettebehra
 topnav_color_text: dark
 title: 2022-04-22-l-escalade-sous-un-autre-angle
 post-title: L'escalade sous un autre angle

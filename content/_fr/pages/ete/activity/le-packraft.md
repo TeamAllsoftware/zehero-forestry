@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 meta-title: Le packraft pour des aventures uniques
 meta-description: Variez les plaisirs et partez rouler en VTT, randonner à pied et

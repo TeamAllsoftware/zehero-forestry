@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: Découvrez ce petit village des Préalpes d'Azur. Entouré des sommets
   de Courmettes, de Caussols, du Cheiron et profitant du Loup qui passe, c'est un
   lieu idéal pour les activités Outdoor.

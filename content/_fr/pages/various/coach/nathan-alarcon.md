@@ -2,6 +2,7 @@
 layout: layout_coach
 language: fr
 season: summer
+type: generic
 meta-title: Coach sportif Nathan Alarçon, préparateur physique et mental
 meta-description: Un coach pour votre préparation physique et mental, que vous soyez
   débutant, amateur ou expert

@@ -6,6 +6,7 @@ redirect_from:
   - /fr/ete/destinations/tignes
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 resort_nameid: tignes
 resort_naming: Tignes

@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: winter
+type: generic
 meta-title: Conseil ski, comment bien choisir vos skis de location
 meta-description: Tous les critères importants afin de savoir comment choisir ses
   skis et son matériel de location.

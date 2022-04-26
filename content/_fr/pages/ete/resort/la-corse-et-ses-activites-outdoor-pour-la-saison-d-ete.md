@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: Trouvez votre activité outdoor et/ou louer votre matériel en Corse.
   Une île avec une nature d'exception, préservé où vous plongerez dans des paysages
   sublimes.

@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: winter
+type: generic
 meta-title: Choisir son cours de ski en fonction de son niveau
 meta-description: 'Pas simple de s’évaluer pour choisir le bon cours - Nous avons
   une fiche conseil qui vous simplifie la vie '

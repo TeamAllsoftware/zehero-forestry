@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: Découvrez toutes les activités Outdoor et le surf à Mimizan. Un
   lieu familiale et naturel pour un séjour sur la côte Atlanntique
 topnav_color_text: light

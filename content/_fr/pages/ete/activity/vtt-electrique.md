@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 categorie: Vélo
 topnav_color_text: dark
 meta-title: Sortie VTT Electrique pour de longues randonnées

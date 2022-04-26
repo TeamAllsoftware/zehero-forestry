@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-title: Conseil sportif en trail, faire du fractionné pour progresser
 meta-description: Le fractionné est l’entraînement clé pour la progression et la performance.
   Si l’on veut progresser en trail, être plus rapide et plus efficace, vous devrez

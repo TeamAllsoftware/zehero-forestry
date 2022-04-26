@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-description: Louer votre matériel de canyoning dans les Alpes Maritimes. Près
   de Nice, des gorges du loup, de la vésubie et de la roya, louer votre combinaison,
   votre casque et votre baudrier pour pratiquer le canyoning.

@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 title: Randonner en montagne
 permalink: "/fr/ete/activites/randonnee-montagne"

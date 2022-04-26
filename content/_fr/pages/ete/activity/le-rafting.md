@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 categorie: Eaux vives
 topnav_color_text: dark
 meta-title: Embarquez à plusieurs en rafting et naviguez en rivière

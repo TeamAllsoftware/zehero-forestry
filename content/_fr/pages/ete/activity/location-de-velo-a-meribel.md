@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 title: Location de vélo à Méribel
 permalink: "/fr/ete/activites/location-velo-meribel"

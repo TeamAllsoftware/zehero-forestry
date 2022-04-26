@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-title: Conseil sportif en trail, bien se préparer et s'entraîner
 meta-description: Il est important de bien se préparer à une course de trail et de
   s'entraîner correctement

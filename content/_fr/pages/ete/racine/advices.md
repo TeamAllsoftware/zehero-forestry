@@ -7,6 +7,7 @@ meta-description: Liste de tous les conseils outdoor de l'été à partager en f
 permalink: "/fr/ete/conseils"
 language: fr
 season: summer
+type: generic
 topnav_color_text: light
 redirect_from:
 - "/fr/conseils-outdoor/"

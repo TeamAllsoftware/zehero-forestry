@@ -10,6 +10,7 @@ redirection_from:
 - "/fr/ete/destinations/tignes"
 language: fr
 season: summer
+type: generic
 topnav_color_text: light
 page_sections:
 - template: heroImage50percentHigh

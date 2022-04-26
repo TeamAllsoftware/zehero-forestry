@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-description: Le canyoning est une activité outdoor qui demande un certain niveau
   technique et physique ainsi que plusieurs commandements pour s'engager en sécurité.
 topnav_color_text: light

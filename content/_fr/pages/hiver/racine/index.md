@@ -8,6 +8,7 @@ meta-description: ZE HERO, c'est une boutique en ligne pour commander des activi
 permalink: "/fr/hiver/"
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 page_sections:
 - template: heroImageFull

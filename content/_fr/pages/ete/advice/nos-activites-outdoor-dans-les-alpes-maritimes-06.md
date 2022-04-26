@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-description: Voici nos différentes activités outdoor que nous proposons dans
   les Alpes Maritimes. Entre mer et montagne, découvrez un large choix d'activités
   de découverte, de sensation à partager et à vivre.

@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/hiver/activite/coaching-sportif"
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 title: Coaching sportif
 meta-title: Réserver un coach sportif pour vous préparer à l'hiver

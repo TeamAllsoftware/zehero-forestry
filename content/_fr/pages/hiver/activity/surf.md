@@ -5,6 +5,7 @@ redirect_from:
   - /fr/hiver/activite/surf
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 title: Surf
 meta-title: Réserver des cours de surf pour profiter de la mer en hiver

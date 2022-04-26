@@ -7,6 +7,7 @@ meta-description: Liste de tous les articles de blog outdoor de l'hiver à parta
 permalink: "/fr/hiver/blog"
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 redirect_from:
 - "/fr/blog/"

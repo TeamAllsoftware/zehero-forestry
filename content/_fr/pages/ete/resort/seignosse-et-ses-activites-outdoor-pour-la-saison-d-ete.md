@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: Découvrez toutes les activités Outdoor à Seignosse. Prêt de Hossegor,
   découvrez ce lieux unique pour le surf, bordé de forêt.
 topnav_color_text: light

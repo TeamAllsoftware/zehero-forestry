@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-description: Si vous partez vous randonner, que ce soit pour quelques heures,
   à la journée ou plusieurs jours, il y a des équipements et du matériel indispensable
   à avoir dans son sac.

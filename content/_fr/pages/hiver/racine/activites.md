@@ -7,6 +7,7 @@ meta-description: Liste de toutes les activités outdoor de l'hiver à partager 
 permalink: "/fr/hiver/activites"
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 page_sections:
 - template: heroImage50percentHigh

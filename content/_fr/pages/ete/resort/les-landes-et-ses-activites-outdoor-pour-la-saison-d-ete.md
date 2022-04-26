@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: Trouvez votre activité outdoor ou louer votre matériel dans les
   Landes. Partez surfer, rouler, vivre le plein de sensation en nature dans les Landes.
 topnav_color_text: light

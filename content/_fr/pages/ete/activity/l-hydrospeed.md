@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 categorie: Eaux vives
 topnav_color_text: dark
 meta-title: 'L''hydrospeed, la nage en eau libre '

@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/hiver/destination/val-d-isere"
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 resort_nameid: val_d_isere
 resort_naming: Val D'Isère

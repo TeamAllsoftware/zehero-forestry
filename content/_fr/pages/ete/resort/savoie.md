@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-title: Activités outdoor en Savoie pour l'été
 meta-description: La Savoie est un département composée d'une chaine montagneuse incroyable ainsi que des lacs.
 topnav_color_text: light

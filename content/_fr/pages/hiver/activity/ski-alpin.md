@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/hiver/activite/ski-de-piste"
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 title: Ski de piste
 meta-title: Ski de piste, prendre des cours, puis visiter la station

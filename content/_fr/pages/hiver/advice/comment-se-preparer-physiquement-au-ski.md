@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: winter
+type: generic
 meta-title: Conseil de préparation physique avant d'aller au ski
 meta-description: Afin d'être en forme physiquement avant votre séjour au ski, voilà
   quelques exercices à faire pour se préparer pour le ski.

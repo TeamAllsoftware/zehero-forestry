@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: winter
+type: generic
 meta-title: Conseil ski, comment bien choisir vos skis d'occasion
 meta-description: Comment choisir ses skis d'occasions? Il est important de prendre
   en compte plusieurs informations importantes.

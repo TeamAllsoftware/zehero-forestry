@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/hiver/activite/raquettes-a-neige"
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 title: Raquettes à neige
 meta-title: Réserver une randonnée en raquettes à neige

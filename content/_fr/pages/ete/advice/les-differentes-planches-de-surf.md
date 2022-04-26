@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-description: Comprendre les différentes planches de surf, leurs tailles et leurs
   utilités.
 topnav_color_text: light

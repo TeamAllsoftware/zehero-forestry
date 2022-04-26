@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 title: Vélo de route - Sorties journées - Méribel
 permalink: "/fr/ete/activites/velo-de-route-journees-meribel"

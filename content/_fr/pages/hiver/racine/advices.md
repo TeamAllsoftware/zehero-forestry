@@ -7,6 +7,7 @@ meta-description: Liste de tous les conseils outdoor de l'hiver à partager en f
 permalink: "/fr/hiver/conseils"
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 redirect_from:
 - "/fr/chien-traineau-haute-savoie/"

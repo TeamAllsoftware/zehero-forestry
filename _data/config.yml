@@ -6,10 +6,13 @@ site_logo_black: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/w
 
 phonenumber: (+33) 4 79 01 49 99 
 
-site-color: green
+#colors
+generic:
+  site-color: green
+  site-color2: radical-red
 B2B:
   site-color: yellow-ochre
-site-color2: radical-red
+
 
 #open graph
 og_url: https://www.ze-hero.com

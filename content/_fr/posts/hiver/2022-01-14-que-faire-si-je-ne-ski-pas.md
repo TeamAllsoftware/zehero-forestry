@@ -2,6 +2,7 @@
 layout: blog_post
 language: fr
 season: winter
+type: generic
 author: yannalarcon
 topnav_color_text: dark
 title: 2022-01-14-que-faire-si-je-ne-ski-pas

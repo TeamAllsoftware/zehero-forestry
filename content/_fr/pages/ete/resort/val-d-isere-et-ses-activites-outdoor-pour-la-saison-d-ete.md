@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: 'Les activités Outdoor de Val d''Isère.
   Un village de charme qui vous emmènera dans une montagne sauvage et sublime du parc
   national de la Vanoise. '

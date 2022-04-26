@@ -2,6 +2,7 @@
 layout: blog_post
 language: fr
 season: summer
+type: generic
 author: yannalarcon
 topnav_color_text: dark
 title: 2021-12-17-valmorel-nice-360-km-traverser-les-alpes-en-trail
