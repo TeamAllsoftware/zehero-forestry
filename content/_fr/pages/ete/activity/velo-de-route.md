@@ -106,6 +106,27 @@ page_sections:
     text_button: Réserver votre traversée à vélo
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
     alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/51384836504_bff6429438_k_mkw8t9.jpg
+  alt_text_for_image: Cycliste grimpant à vélo les routes de Méribel
+  captiontitleuppercase: Découvrir les 3 vallées
+  title: Le Vélo de route autour de Méribel
+  content: |-
+    Avec Ze Hero, nous vous proposons différentes offres de vélo de route autour de Méribel.
+
+    Un séjour vélo à Méribel qui vous permettra de découvrir, de progression dans des décors montagnards. Découvrez alors les vallées de la Tarentaise et de la haute tarentaise, les lacs ainsi que les différents cols, comme le fameux col de la Loze avec des passages très raide, à plus de 20%.
+
+    Vous pourrez donc enchaîner ce séjour avec toutes les étapes à la suite. Sinon vous pouvez sélectionner à la carte les journées où vous voulez rouler si vous préférez ne pas tout enchaîner.
+
+    Découvrez nos deux offres de vélo de route à Méribel :
+
+    * Séjour de 6 jours autour de Méribel : [plus d'infos ici !](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)
+    * Journées autour de Méribel : [plus d'infos ici !](https://www.ze-hero.com/fr/ete/activites/velo-de-route-journees-meribel)
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+    text_button: Réservez votre activité vélo à Méribel
+    alt_button: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
