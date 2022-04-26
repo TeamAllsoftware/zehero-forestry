@@ -34,7 +34,7 @@ page_sections:
                     <input class="input-border-bottom border-color-extra-dark-gray bg-transparent placeholder-dark large-input px-0 margin-25px-bottom border-radius-0px required" type="date" name="when" placeholder="A quelle date souhaitez-vous débuter votre séminaire" />
                     <input class="input-border-bottom border-color-extra-dark-gray bg-transparent placeholder-dark large-input px-0 margin-25px-bottom border-radius-0px required" type="email" name="email" placeholder="{{ site.data.content.generic_contact.s02.p01[page.language].form_email }}" />
                     <input class="input-border-bottom border-color-extra-dark-gray bg-transparent placeholder-dark large-input px-0 margin-25px-bottom border-radius-0px" type="tel" name="phone" placeholder="{{ site.data.content.generic_contact.s02.p01[page.language].form_phone }}" />
-                    <textarea class="input-border-bottom border-color-extra-dark-gray bg-transparent placeholder-dark large-input px-0 margin-35px-bottom border-radius-0px" name="message" rows="5" placeholder="{{ site.data.content.generic_contact.s02.p01[page.language].form_message }}"></textarea>
+                    <textarea class="input-border-bottom border-color-extra-dark-gray bg-transparent placeholder-dark large-input px-0 margin-35px-bottom border-radius-0px" name="message" rows="5" placeholder="Précisez votre demande (lieu, prestations, etc.)"></textarea>
                     <button class="btn btn-medium btn-dark-gray mb-0" type="submit">Envoyer ma demande de devis</button>
                 </form>
             </div>

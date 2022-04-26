@@ -1,0 +1,85 @@
+hiver:
+- resort: 
+  title: Les 3 Vallées
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640177481/website/resorts/val-thorens/Valthorens_pzpbgc.jpg
+  image_alt: Vue aérienne de Val-Thorens, une station parfaite pour un séminaire d'entreprise en hiver
+  content: |-
+    Le plus grand domaine skiable relié skis aux pieds, il offre une grande qualité de ski pour tous les niveaux de par son enneigement et ses infrastructures, mais aussi des espaces sauvages et de nombreux intérêts touristiques (gastronomie...).
+  ski-pistes: 332
+  ski-km: 600
+  stations:
+    - Val-Thorens (2300m)
+    - Méribel (1400m)
+    - Courchevel (1800m)
+- resort: 
+  title: Le Grand Domaine
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650974625/website/resorts/Valmorel/jeanne-brossette-s2HRKJtJzW8-unsplash.jpg
+  image_alt: Valmorel, station de montagne idéale pour les séminaires et séjours d'entreprise
+  content: |-
+    Nichée en lisière de forêts, Valmorel est une station village aux charmes typiques qui cumule tous les atouts : skis aux pieds, rue principale entièrement piétonne, offre après-ski riche et variée.
+  ski-pistes: 56
+  ski-km: 165
+  stations:
+    - Valmorel (1400m)
+- resort: 
+  title: Monts-Jura
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978191/website/resorts/Monts-Jura/oldelpachot-KhMEyx74f5A-unsplash.jpg
+  image_alt: Monts-Jura, un ensemble de 4 villages parfait pour un séminaire d'entreprise dans une ambiance nordique
+  content: |-
+    1 station, 4 villages, 4 domaines skiables situés au sud du massif du Jura... dont un domaine nordique exceptionnel dédié exclusivement au ski de fond et à la raquette.
+  ski-pistes: 47
+  ski-km: 57
+  stations:
+    - Monts-Jura La Station (900m)
+- resort: 
+  title: Chamonix Mont-Blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649831424/website/resorts/Chamonix/jonathan-fors-fPivsmZ4t_E-unsplash.jpg
+  image_alt: Chamonix, capitale mondiale de l'alpinisme et de l'escalade, une vallée de montagne pour un séminaire d'entreprise de haute voltige
+  content: |-
+    Capitale de l'alpinisme, Chamonix séduit par ses panoramas grandioses et puissants : Aiguille du Midi, mer de Glace et ses domaines skiables répartis sur 5 massifs, avec un potentiel hors pistes fabuleux (Vallée Blanche, Grands Montets...).
+  ski-pistes: 79
+  ski-km: 118
+  stations:
+    - Chamonix (1035m)
+    - Les Houches (1008m)
+- resort: 
+  title: Espace Diamant
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978970/website/resorts/Les%20Saisies%20hauteluce/alexandre-oursel-uxVh4tEKJKI-unsplash.jpg
+  image_alt: Un coeur de vallée avec 3 vues incroyables pour un séminaire d'équipe mémorable
+  content: |-
+    Forêts, alpages et villages de caractère... cet espace ouvert en 2005 offre des vues sur le Mont Blanc, Les Aravis et le Beaufortain.
+  ski-pistes: 149
+  ski-km: 185
+  stations:
+    - Les Saisies (1650m)
+    - Hauteluce (1150m)
+- resort: 
+  title: Evasion Mont-Blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978587/website/resorts/Chamonix/ricardo-frantz-vU4c3H9sACQ-unsplash.jpg
+  image_alt: Megève évasion Mont-Blanc est une station magnifique et luxueuse pour votre séminaire de direction
+  content: |-
+    Un relief harmonieux en forme d'amphithéâtre sur fond de Mont Blanc... la découverte de la montagne et du ski plaisir, notamment pour les gastronomes.
+  ski-pistes: 220
+  ski-km: 445
+  stations:
+    - Megève (1000m)
+- resort: 
+  title: Savoie Grand Revard
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978695/website/resorts/Grand%20Revard/nicolasintravel-YS0Gq8rHSxY-unsplash.jpg
+  image_alt: La Féclaz et son plateau ressemblent à s'y méprendre au Canada 
+  content: |-
+    A deux pas d’Aix-les-Bains et du lac du Bourget, ce plateau offre un terrain de jeu idéal sur son espace nordique entre forêts, sapins et belvédères qui lui vaut son appellation de Petit Canada.
+  ski-pistes: 29
+  ski-km: 50
+  stations:
+    - La Féclaz (1300m)
+- resort: 
+  title: Les Aravis
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978792/website/resorts/La%20Clusaz/victoire-joncheray-UnKZKZiUQzQ-unsplash.jpg
+  image_alt: La Clusaz, très proche d'Annecy, est très pratique d'accès par le TGV de Paris
+  content: |-
+    A proximité d'Annecy et de son magnifique lac naturel, les Aravis offrent un espace d'évasion marqué par la tradition de ses alpages et villages.
+  ski-pistes: 109
+  ski-km: 220
+  stations:
+    - La Clusaz (1000m)
