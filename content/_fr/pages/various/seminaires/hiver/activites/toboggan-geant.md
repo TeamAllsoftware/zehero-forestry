@@ -12,7 +12,7 @@ meta-description: Un moniteur vous guide et vous fait découvrir le domaine skia
 image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650990663/website/winter/white-turf-gd92ba2b4f_1920.jpg
 image_alt: Se faire tracter sur la neige, en ski, par un cheval, c'est le ski joëring ou skioring ou white turf
 redirection_from:
-price: 49
+price: 39
 headline: Se faire tracter sur la neige, en ski, par un cheval, c'est le ski joëring ou skioring ou white turf. En mode sportif ou promenade avec remontée des pentes, c'est au choix.
 page_sections:
 - template: 2colTitreTxt
