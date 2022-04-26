@@ -111,7 +111,7 @@ page_sections:
 - template: newsletter
   title: Recevez nos dernières informations
 - template: ZEHEROintro
-  image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645714273/groupe/montblanc-escalade/logo/bandeau-zehero-marchand_rvjdy1.png
+  image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650964631/website/logo/Image%20Background/ZEHERO_TEAM_BACKGROUND.png
   baseline: L’outdoor au rythme de vos émotions
   title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
   url_link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
