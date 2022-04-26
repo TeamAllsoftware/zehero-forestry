@@ -82,6 +82,24 @@ page_sections:
     Alpes de Haute Provence\n* Le Pays Basques\n\nLes lieux réputés vont se trouver
     dans les gorges du Verdon, le massif des Ecrins, les gorges du Tarn, la Haute
     Garonne, le Doron, la Dranse, le Golo et bien d'autres."
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649084757/website/Partenaires/1638783638-DSC_0804.jpg
+  alt_text_for_image: Plusieurs personnes dans une embarcation sur le Dranse, faisant
+    du raftingt
+  captiontitleuppercase: Cohésion, sensation et découverte
+  title: Le Rafting vers Thonon les Bains
+  content: "Découvrez nos différentes offres de rafting autour de Thonon les Bains.
+    Notre partenaire \" 7 Aventures \" situé à La Vernaz, à seulement 25mn de Thonon
+    les Bains, vous propose au sein de sa base nautique plusieurs offres de rafting.\n\nDans
+    les gorges de la Dranse, entre Avoriaz -  Morzine et Thonon les Bains, partez
+    pour une descente de folie pour des sensations fortes, du plaisir et de la découverte.
+    \ \n  \nVoici les différentes offres de rafting à Thonon les Bains que \" 7 Aventures
+    \" propose :\n\n* Rafting Découverte\n* Rafting Classique\n* Rafting Sportive"
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Rafting&start-date=
+    text_button: Réservez votre descente de rafting à Thonon les Bains
+    alt_button: ''
 - template: newsletter
   title: Recevez nos dernières informations
 
