@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/hiver/destination/val-thorens"
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 resort_nameid: val_thorens
 resort_naming: Val-Thorens

@@ -7,6 +7,7 @@ meta-description: Liste de toutes les activités outdoor de l'été à partager 
 permalink: "/fr/ete/activites"
 language: fr
 season: summer
+type: generic
 topnav_color_text: light
 page_sections:
 - template: heroImage50percentHigh

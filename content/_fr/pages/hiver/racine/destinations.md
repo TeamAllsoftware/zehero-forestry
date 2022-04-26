@@ -8,6 +8,7 @@ meta-description: Dans nos destinations d'hiver vous trouverez les activités de
 permalink: "/fr/hiver/destinations"
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 page_sections:
 - template: heroImage50percentHigh

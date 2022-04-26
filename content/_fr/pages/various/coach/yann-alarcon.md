@@ -2,6 +2,7 @@
 layout: layout_coach
 language: fr
 season: summer
+type: generic
 meta-title: Coach sportif Yann Alarçon spécialisé en course à pied
 meta-description: Un coach pour votre préparation physique et vos prochains défis,
   que vous soyez débutant, amateur ou expert

@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 code_postal: ''
 meta-description: Nice capitale de la Côte d'Azur est une ville parfaite profiter
   du soleil, de la mer et de la nature. En plus de son dynamisme urbain, l'arrière

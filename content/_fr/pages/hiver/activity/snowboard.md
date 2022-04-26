@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/hiver/activite/snowboard"
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 title: Snowboard
 meta-title: Réserver des cours de snowboard pour apprendre la glisse

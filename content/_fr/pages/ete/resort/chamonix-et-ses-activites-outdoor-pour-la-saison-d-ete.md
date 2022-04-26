@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: 'Trouvez votre activité outdoor au sein de Chamonix, capitale de
   l''alpinisme. Entre des décors magiques massif montagneux alpin, de ses vallées
   sauvages et préservé, le paradis pour tous les activités montagnes se trouve à Chamonix. '

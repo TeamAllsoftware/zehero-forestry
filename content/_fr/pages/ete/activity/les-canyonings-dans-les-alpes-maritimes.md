@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 title: Le canyoning dans les Alpes Maritimes
 permalink: "/fr/ete/activites/canyoning-alpes-maritimes"

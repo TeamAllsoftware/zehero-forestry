@@ -7,6 +7,7 @@ meta-description: Toutes les informations légales relatives aux conditions d'ut
 permalink: "/fr/cgu/"
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 page_sections:
 - template: heroBreadcrumb

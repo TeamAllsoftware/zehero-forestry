@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-title: Conseil trail, tous nos itinéraires dans les alpes maritimes
 meta-description: Découvrez nos différents itinéraires de trail et de course à pied
   dans les pré alpes et les alpes maritimes

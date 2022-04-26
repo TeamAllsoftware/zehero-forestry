@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-title: Activités outdoor à l'Alpe d'Huez pour l'été
 meta-description: Découvrez toutes les activités outdoors dans la station de l'Alpe d'Huez ainsi que les différents locations de matériels.
 topnav_color_text: light

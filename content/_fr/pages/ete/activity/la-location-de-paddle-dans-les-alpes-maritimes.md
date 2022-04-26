@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 title: La location de Paddle dans les Alpes Maritimes
 permalink: "/fr/ete/activites/location-paddle-alpes-maritimes"

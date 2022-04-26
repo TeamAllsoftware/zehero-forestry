@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/hiver/activite/ski-freeride"
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 title: Ski freeride
 meta-title: Réserver une activité de ski hors-piste

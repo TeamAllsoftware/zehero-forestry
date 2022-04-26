@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/ete/activite/coaching-sportif"
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 title: Coaching sportif
 meta-title: 'Réserver un coach sportif pour vous préparer physiquement '

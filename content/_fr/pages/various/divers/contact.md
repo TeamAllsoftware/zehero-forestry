@@ -6,6 +6,7 @@ meta-description: Notre page de contact est pour notre premier point de rencontr
 permalink: /fr/contact
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 ref: contact
 

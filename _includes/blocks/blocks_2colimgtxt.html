@@ -12,7 +12,7 @@
                        {{ block.content | markdownify }}
 
                         {% if block.button.text_button and block.button.text_button != ''  %}
-                        <span><a href="{{ block.button.href_button }}" class="margin-25px-top btn btn-medium btn-{{ site.data.config.site-color }} d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr" title="{{ block.button.alt_button }}">{{ block.button.text_button }}</a></span>
+                        <span><a href="{{ block.button.href_button }}" class="margin-25px-top btn btn-medium btn-{{ site.data.config.[page.type].site-color }} d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr" title="{{ block.button.alt_button }}">{{ block.button.text_button }}</a></span>
                         {% endif %}
                     </div>
                 </div>

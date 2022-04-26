@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 meta-title: Pédalez sur neige avec le Fat Bike Electrique
 meta-description: 'Partir pédaler dans la neige et vivre le plein de sensation avec

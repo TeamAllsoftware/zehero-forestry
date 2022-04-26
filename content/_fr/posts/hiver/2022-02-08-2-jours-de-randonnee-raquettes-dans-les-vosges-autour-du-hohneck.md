@@ -2,6 +2,7 @@
 layout: blog_post
 language: fr
 season: winter
+type: generic
 author: geoffreyarduini
 topnav_color_text: dark
 title: 2022-02-08-2-jours-de-randonnee-raquettes-dans-les-vosges autour-du-hohneck

@@ -2,6 +2,7 @@
 layout: layout_brand
 language: fr
 season: winter
+type: generic
 cat: brand
 topnav_color_text: dark
 title: Fausse Route

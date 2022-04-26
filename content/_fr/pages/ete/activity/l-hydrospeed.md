@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 categorie: Eaux vives
 topnav_color_text: dark
 meta-title: 'L''hydrospeed, la nage en eau libre '
@@ -77,5 +78,24 @@ page_sections:
 
     Une activité unique en son genre, au contact de l'eau comme jamais vous le vivrez. L'hydrospeed ou encore la nage en eau vive vous emportera dans une aventure aux sensations fortes.
   title: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785330-DSC_4366.jpg
+  alt_text_for_image: Personnes faisant de l'hydrospeed
+  captiontitleuppercase: Sensations fortes
+  title: L'hydrospeed autour de Thonon les Bains
+  content: "Avec Ze Hero, découvrez les différentes offres d'Hydrospeed à [Thonon
+    les Bains](https://www.ze-hero.com/fr/ete/destination/thonon-les-bains) avec notre
+    partenaire \" 7 Aventures \".  \nDans les gorges de la Dranse, vous découvrirez
+    cette activité sensationnelle au sein de la commune de La Vernaz. Ce village se
+    trouve à 25mn de Thonon les Bains, la base nautique \" 7 Aventures \" se trouvera
+    dans ce village. D'ici vous pourrez alors partir dans la Dranse en Hydrospeed.
+    \ \nDécouvrez un cadre unique en Haute-Savoie entre Morzine-Avoriaz et Thonon
+    les Bains.\n\n7 Aventures vous propose donc différentes offres d'hydrospeed :\n\n*
+    Hydrospeed Découverte\n* Hydrospeed Classique\n* Hydrospeed Sportive"
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hydrospeed&start-date=
+    text_button: Réservez votre activité d'Hydrospeed à Thonon les Bains
+    alt_button: ''
 
 ---

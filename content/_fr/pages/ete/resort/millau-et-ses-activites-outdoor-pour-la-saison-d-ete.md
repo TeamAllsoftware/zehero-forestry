@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: Découvrez toutes les activités outdoor dans la capital des sports
   nature, Millau. Entre grands espaces et rivières, découvrez une nature riche et
   incroyable.

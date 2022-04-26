@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: winter
+type: generic
 meta-title: Que choisir entre cours privé ou cours collectif ?
 meta-description: Difficile de choisir entre cours privé et cours collectif en ski
   ou snowboard ? Suivez notre guide pour faire votre choix

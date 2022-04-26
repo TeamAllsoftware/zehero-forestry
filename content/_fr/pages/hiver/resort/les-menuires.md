@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/hiver/destination/les-menuires"
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 resort_nameid: les_menuires
 resort_naming: Les Menuires

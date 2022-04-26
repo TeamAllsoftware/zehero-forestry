@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 categorie: Surf
 topnav_color_text: dark
 meta-title: Réservez votre cours de surf à Seignosse dans les Landes

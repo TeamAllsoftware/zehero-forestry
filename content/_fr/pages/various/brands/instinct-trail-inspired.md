@@ -2,6 +2,7 @@
 layout: layout_brand
 language: fr
 season: summer
+type: generic
 cat: brand
 topnav_color_text: dark
 title: Instinct Trail Inspired

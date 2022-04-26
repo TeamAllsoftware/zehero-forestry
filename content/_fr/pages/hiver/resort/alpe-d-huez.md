@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/hiver/destination/alpe-d-huez"
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 resort_nameid: alpe-d-huez
 resort_naming: Alpe Huez

@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: Trouvez votre activité outdoor dans la ville de Porge, petite ville
   au bord de l'océan. Entre l'Acanau et le bassin de l'Archachon, découvrez ce petit
   havre de paix.

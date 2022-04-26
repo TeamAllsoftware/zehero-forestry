@@ -2,6 +2,7 @@
 layout: blog_post
 language: fr
 season: winter
+type: generic
 author: yannalarcon
 topnav_color_text: dark
 title: 2021-01-12-un-jour-une-avalanche

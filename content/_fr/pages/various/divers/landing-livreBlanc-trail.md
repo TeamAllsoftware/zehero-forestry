@@ -6,6 +6,7 @@ meta-description: Télécharger le livre blanc sur le trail
 permalink: "/fr/telecharger-livre-blanc-trail-running/"
 language: fr
 season: summer
+type: generic
 topnav_color_text: light
 baseline: Trail et running
 page_sections:

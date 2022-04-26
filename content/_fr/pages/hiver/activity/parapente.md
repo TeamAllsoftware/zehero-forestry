@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 title: Vol en parapente
 permalink: "/fr/hiver/activites/vol-en-parapente"

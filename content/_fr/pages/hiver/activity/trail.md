@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 title: Trail Running
 permalink: "/fr/hiver/activites/trail-running"

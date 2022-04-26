@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-description: Il est important, lorsque l'on part randonner à la journée, de bien
   préparer sa sortie (équipements, itinéraires, points d'eau, alimentation...)
 topnav_color_text: light

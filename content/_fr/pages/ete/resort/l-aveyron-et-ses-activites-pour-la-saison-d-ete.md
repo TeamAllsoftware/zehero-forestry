@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: L'Aveyron offre une multitudes possibilités pour les amateurs de
   sport et d'activité outdoor. Une nature préservé au patrimoine riche, naturel et
   variée.

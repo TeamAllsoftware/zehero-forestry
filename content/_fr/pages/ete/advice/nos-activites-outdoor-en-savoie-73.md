@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-description: Voici nos différentes activité outdoor proposées par les partenaires
   de Ze Hero en Savoie. Randonner, trail, vélo, VTT, un large choix s'offre à vous.
 topnav_color_text: light

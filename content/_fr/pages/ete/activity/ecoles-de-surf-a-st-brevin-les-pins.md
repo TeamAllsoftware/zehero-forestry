@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 title: Ecoles de Surf à St Brevin les Pins
 permalink: "/fr/ete/activites/ecole-surf-st-brevin-les-pins"

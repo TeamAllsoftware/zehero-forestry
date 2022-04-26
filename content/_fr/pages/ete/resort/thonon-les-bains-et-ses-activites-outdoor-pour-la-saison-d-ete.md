@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: Trouvez votre activité outdoor dans la ville de Thonon-les-Bains,
   ville thermale. Au bord du lac Léman et prêt des montagne, ce lieu Haut-Savoyard
   vous ouvre un paradis naturel.

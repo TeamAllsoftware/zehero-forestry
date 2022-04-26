@@ -7,6 +7,7 @@ meta-description: Toutes les activités outdoor de l'été à partager en famill
 permalink: "/fr/ete/"
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 page_sections:
 - template: heroImageFull

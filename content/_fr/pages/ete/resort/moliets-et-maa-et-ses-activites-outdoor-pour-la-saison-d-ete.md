@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: Découvrez toutes les activités Outdoor à Moliet et Maâ. Un village
   typique landais naturel et tranquille.
 topnav_color_text: light

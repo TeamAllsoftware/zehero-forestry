@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-title: Conseil sportif pour bien débuter en trail en tant que débutant
 meta-description: Savoir comment débuter le trail, comment s'équiper et s'entrainer
   lorsqu'on est débutant

@@ -2,6 +2,7 @@
 layout: layout_generic
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 title: Qui sommes nous ? L'équipe Ze Hero - Vivre l'Outdoor !
 permalink: "/fr/qui-sommes-nous"

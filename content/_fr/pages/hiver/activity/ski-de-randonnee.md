@@ -7,6 +7,7 @@ redirect_from:
 - "/fr/ski-randonnee-haute-savoie/"
 language: fr
 season: winter
+type: generic
 topnav_color_text: dark
 title: Ski de randonnée
 meta-title: Réserver des cours de ski de randonnée

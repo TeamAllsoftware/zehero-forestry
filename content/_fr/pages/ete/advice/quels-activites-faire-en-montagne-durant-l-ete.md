@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-description: Vous séjournez en montagne durant l'été, vous trouverez un choix
   large d'activité à faire selon votre niveau, votre pratique et vos envies.
 topnav_color_text: light

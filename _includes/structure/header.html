@@ -35,10 +35,12 @@
 
                             {% if page.type == "B2B" %}
                             <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_white | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_white | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="alt-logo">
+                            <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_white | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_white | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="mobile-logo">
                             {% else %}
                             <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="alt-logo">
-                            {% endif %}
                             <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="mobile-logo">
+                            {% endif %}
+                            
                         </a>
                     </div>
                     <div class="col-auto menu-order px-lg-0">
@@ -75,7 +77,7 @@
                                                 {% endif %}
 
                                                 {% if nav.txt-button %}
-                                                <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-{{ site.data.config.site-color }} d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ nav.txt-button }}</a></span>
+                                                <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-{{ site.data.config.[page.type].site-color }} d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ nav.txt-button }}</a></span>
                                                 {% endif %}
                                             </ul>
 
@@ -134,13 +136,13 @@
                                                 {% for blogpost in posts limit:3 %}
                                                 {% if blogpost.path contains "/posts/" %}
                                                 <li class=""><a href="/{{ language }}/{{ blogpost.url | remove: '/fr/' }}" 
-                                                    title="Lien vers l'aticle de blog {{ blogpost.post-title }}"><i class="feather icon-feather-arrow-right-circle text-large text-{{ site.data.config.site-color }} position-relative margin-10px-right" aria-hidden="true"></i><span>{{ blogpost.post-title | truncate:60 }}</span></a></li>
+                                                    title="Lien vers l'aticle de blog {{ blogpost.post-title }}"><i class="feather icon-feather-arrow-right-circle text-large text-{{ site.data.config.[page.type].site-color }} position-relative margin-10px-right" aria-hidden="true"></i><span>{{ blogpost.post-title | truncate:60 }}</span></a></li>
                                                 {% endif %}
                                                 {% endfor %}
                                                 {% if nav.phrase_accroche %}
                                                 <div class="w-400px"><blockquote class="text-medium font-weight-300 text-medium-gray">{{ nav.phrase_accroche }}</blockquote></div>
                                                 {% endif %}
-                                                <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-{{ site.data.config.site-color }} d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ nav.txt-button }}</a></span>  
+                                                <span><a href="{{ nav.title-link }}" class="margin-25px-top btn btn-medium btn-{{ site.data.config.[page.type].site-color }} d-table d-lg-inline-block lg-margin-15px-bottom md-margin-auto-lr">{{ nav.txt-button }}</a></span>  
                                             </ul>
                                             
                                             <ul class="d-lg-inline-block d-none no-padding-right">

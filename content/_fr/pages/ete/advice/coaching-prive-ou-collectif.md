@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: summer
+type: generic
 meta-title: Conseil coaching sportif privé ou collectif que choisir ?
 meta-description: Choisir entre le coaching privé ou le coaching collectif. Quelles
   sont les avantages et les inconvénients.

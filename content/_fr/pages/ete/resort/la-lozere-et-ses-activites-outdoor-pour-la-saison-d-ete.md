@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 code_postal: ''
 meta-description: La Lozère est un département peu connu pourtant elle est composé
   de nombreux sites naturels d'exception. Entre le Parc des Cévennes, de l'Aubrac,

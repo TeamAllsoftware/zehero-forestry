@@ -2,6 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
+type: generic
 meta-description: Découvrez toutes les activités Outdoor à Hossegor. Découvrez la
   capital européenne du surf.
 topnav_color_text: light

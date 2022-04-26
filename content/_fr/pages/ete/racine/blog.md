@@ -7,6 +7,7 @@ meta-description: Liste de tous les articles de blog outdoor de l'été à parta
 permalink: "/fr/ete/blog"
 language: fr
 season: summer
+type: generic
 topnav_color_text: light
 button_to_link_to_ze_hero_shop:
   button_text: ''

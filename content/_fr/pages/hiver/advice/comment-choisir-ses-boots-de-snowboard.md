@@ -2,6 +2,7 @@
 layout: layout_advice
 language: fr
 season: winter
+type: generic
 meta-title: Nos conseils pour bien choisir ses boots de snowboard
 meta-description: Comment choisir ses chaussures de snowboard ? Découvrez toutes les
   informations importantes pour trouver les boots qui vous correspondent le mieux.

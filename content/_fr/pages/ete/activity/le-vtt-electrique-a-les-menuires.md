@@ -2,6 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
+type: generic
 categorie: Vélo
 topnav_color_text: dark
 meta-title: Le VTT électrique à Les Menuires, au cœur des Bellevilles

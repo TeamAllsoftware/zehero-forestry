@@ -5,6 +5,7 @@ redirect_from:
 - "/fr/ete/destination/meribel"
 language: fr
 season: summer
+type: generic
 topnav_color_text: light
 resort_nameid: meribel
 resort_naming: Méribel

@@ -7,6 +7,7 @@ meta-description: Plan du site. Retrouvez toutes les pages du site internet de Z
 permalink: /fr/plan-du-site
 language: fr
 season: winter
+type: generic
 topnav_color_text: light
 page_sections:
 - template: heroBreadcrumb
