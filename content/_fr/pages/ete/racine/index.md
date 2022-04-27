@@ -15,7 +15,7 @@ page_sections:
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7712_jj6zyy.jpg
   gradient: grad
   headline:
-    title: L'outdoor<br> dont vous<br> êtes<br> ZE HERO
+    title: Vivez l’outdoor<br> avec ZE HERO
     color: white
   Button1:
     title: Réserver un cours de surf
