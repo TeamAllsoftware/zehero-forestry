@@ -104,5 +104,6 @@ introduction:
     station.
   zehero_advice: ZE HERO vous conseille pour louer des skis, des chaussures de ski,
     des casques et beaucoup d'autres équipements pour toute votre famille
+code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 
 ---
