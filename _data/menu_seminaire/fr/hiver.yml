@@ -28,25 +28,25 @@ menu:
 - title: Activités
   id: "4"
   title-link: "/fr/seminaires-hiver/activites-seminaires"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg
-  image-alt: Une femme grimpe une voie d'escalade indoor
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651074421/website/Seminaires/hiver/ethan-hu-yB_aiAWkm40-unsplash.jpg
+  image-alt: Une homme descend une piste de ski en luge lorsque les pistes sont fermées le soir.
   image-link: "/fr/seminaires-hiver/activites-seminaires"
   txt-button: Les activités possibles
   phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.
 - title: Journées
   id: "5"
-  title-link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642604106/website/winter/ScreenShot_Tool_-20220119155142_isdxtn.png
-  image-alt: Capture d'écran de la boutique en ligne ZE-HERO
-  image-link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
+  title-link: /fr/seminaires-hiver/journees-types-seminaires
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Sourire-neige_jdsltw.jpg
+  image-alt: Grand sourire pour une salarié qui prend du plaisir lors d'un séminaire d'entreprise à la montagne
+  image-link: /fr/seminaires-hiver/journees-types-seminaires
   txt-button: Une journée type
   phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.
 - title: Idées de séjours
   id: "6"
-  title-link: "/fr/hiver/blog"
+  title-link: "/fr/seminaires-hiver/idees-journees-types"
   image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg
   image-alt: Un campeur se prépare un thé dans une cabane en montagne en lisant
     une carte et un guide
-  image-link: "/fr/hiver/blog"
+  image-link: "/fr/seminaires-hiver/idees-journees-types"
   txt-button: Découvrir des idées de séjours
   phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.
