@@ -15,7 +15,7 @@ page_sections:
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7712_jj6zyy.jpg
   gradient: grad
   headline:
-    title: L'outdoor<br> dont vous<br> êtes<br> ZE HERO
+    title: Vivez l’outdoor<br> avec ZE HERO
     color: white
   Button1:
     title: Réserver un cours de surf
@@ -111,7 +111,7 @@ page_sections:
 - template: newsletter
   title: Recevez nos dernières informations
 - template: ZEHEROintro
-  image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645714273/groupe/montblanc-escalade/logo/bandeau-zehero-marchand_rvjdy1.png
+  image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650965162/website/logo/Image%20Background/ZEHERO_TEAM_BACKGROUND.png
   baseline: L’outdoor au rythme de vos émotions
   title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
   url_link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
