@@ -19,7 +19,7 @@ resort_nameid: pays_basque
 resort_naming: Le Pays Basque
 permalink: "/fr/ete/destinations/pays-basque"
 redirect_from:
-  - /fr/ete/destination/pays-basque
+- "/fr/ete/destination/pays-basque"
 meta-title: Activités outdoor dans le pays basque pour l'été
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646386724/sebastian-mittermeier-zGJKL5Utq_w-unsplash_qldksv.jpg
 image01_alt: Image de surfeur dans la côte basque
@@ -37,6 +37,7 @@ page_sections:
     \ \nAvec ses villages et ses villes de charmes, le Pays Basque offre un caractère
     unique et traditionnel. Un lieu idéal pour séjourner et profiter d'une nature
     et d'un environnement incroyable ainsi que de nombreuses activités outdoor."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646386756/skon-communication-rqwSdMJ8J-4-unsplash_gzsqhn.jpg
   alt_text_for_image: Train arrivant au sommet de la Rhune, montagne dans le Pays
@@ -53,6 +54,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Le Pays Basque est aussi idéal pour partir à vélo de route. Que ce soit pour grimper les cols basques, découvrir les routes et les paysages à vélo tourisme, le bonheur des cyclistes sera comblé. Vous trouverez des séjours de plusieurs jours, avec des itinéraires à travers les montagnes ou vers St Jacques de Compostelle. Mais également des circuits à la journée pour tous les niveaux. Vous pourrez facilement louer votre matériel avec les nombreux magasins de location de vélo dans le Pays Basque.
@@ -61,6 +63,7 @@ page_sections:
 
     Sur la mer, partez découvrir le littoral en paddle ou en kayak de mer. Découvrez les côtes basques du côté d'Abbadia et de Loïa pour des paysages sublimes. Testez-vous également à la pirogue hawaïenne à St Jean de Luz.
   title: ''
+  blockBGcolor: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646386778/les-argonautes-vaM_-VPadBU-unsplash_zchmfx.jpg
   alt_text_for_image: Paysage d'océan avec un surfeur dans le Pays Basque
@@ -74,5 +77,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
+code_postal: 64,Pyrénées-Atlantiques,Nouvelle-Aquitaine
 
 ---

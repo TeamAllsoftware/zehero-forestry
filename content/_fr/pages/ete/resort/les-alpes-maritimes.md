@@ -4,7 +4,8 @@ language: fr
 season: summer
 type: generic
 meta-title: Activités outdoor dans les Alpes-Maritimes pour l'été
-meta-description: Les Alpes Maritimes sont une région paradisiaque pour les activités outdoor. Entre mer, montagne, falaise, route et rivière, il y a le choix.
+meta-description: Les Alpes Maritimes sont une région paradisiaque pour les activités
+  outdoor. Entre mer, montagne, falaise, route et rivière, il y a le choix.
 topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités dans les Alpes Maritimes.
@@ -16,7 +17,7 @@ resort_naming: Les Alpes Maritimes
 title: Les Alpes Maritimes et ses activités outdoor pour la saison d'été
 permalink: "/fr/ete/destinations/alpes-maritimes"
 redirect_from:
-  - /fr/ete/destination/alpes-maritimes
+- "/fr/ete/destination/alpes-maritimes"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642673632/website/summer/fabien-bazanegue-Q4OpZgSqm2I-unsplash_vseflx.jpg
 image01_alt: 'Paysage des Préalpes avec des moutons '
 button_to_link_to_ze_hero_shop:
@@ -37,6 +38,7 @@ page_sections:
     St Etienne de Tinée, St Martin de Vésubie…  \nUne région qui a beaucoup à offrir
     et dont vous ne pourrez vous ennuyer."
   title: Une région de rêve
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642687610/website/summer/romain-gal-0W-fADtvFuk-unsplash_h5vu9x.jpg
   captiontitleuppercase: 'La mer '
@@ -54,6 +56,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: Vous y retrouverez des villages colorés et typiques comme Menton ou Eze.
     Vous pourrez randonnée ou courir sur les sentiers du littoral de Saint Jean Cap
@@ -63,6 +66,7 @@ page_sections:
     grimper une variété de voies une roche rouge dos à la mer pour une vue unique
     et incroyable.
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642673633/website/summer/niklas-ohlrogge-wtgjxJCZM3A-unsplash_qdfybq.jpg
   captiontitleuppercase: Les Préalpes d'Azur
@@ -80,6 +84,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Les activités dans les Préalpes d'Azur
   content: On retrouve énormément de sentiers balisés pour randonner à pied, en course
@@ -89,6 +94,7 @@ page_sections:
     de voix au Baou de St Jeannet, dans les gorges de la Tinée, vers Levens et bien
     d'autres. Vous pourrez par ailleurs explorer ce territoire en vélo de route avec
     un parcours de plusieurs jours en faisant le tour des Préalpes d'Azur.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883620/website/summer/Canyoning-activite-famille_ov6myx.jpg
   captiontitleuppercase: Une région de canyoning
@@ -105,6 +111,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Le Mercantour
   content: Le massif du Mercantour est un parc national préservé et très sauvage.
@@ -115,6 +122,7 @@ page_sections:
     tel que le trail, la randonnée, le VTT et le VTT électrique ainsi que bien d'autres.
     Vous pourrez explorer les nombreux sommets de ce parc, partir à la recherche des
     bouquetins, des chamois et des fleurs de montagne.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642673635/website/summer/hugo-vidal-OlB2K5n92KQ-unsplash_n0wlqf.jpg
   captiontitleuppercase: Un massif d'exception
@@ -129,12 +137,15 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Trouvez votre activité
   content: Vous l'avez compris, les Alpes-Maritimes est une région où l'activité Outdoor
     prône. Le paradis également de pouvoir être en montagne et de randonnée entourée
     de sommets puis 1h/1h30 plus tard, vous voilà les pieds dans la mer à profiter
     d'une vue infinie, d'un soleil, de palmiers et d'odeur de pins.
+  blockBGcolor: ''
 baseline: Mer et Montagne
+code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
 
 ---
