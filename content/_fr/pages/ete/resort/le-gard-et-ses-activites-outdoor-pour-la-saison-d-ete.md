@@ -85,5 +85,6 @@ page_sections:
 
     Vous aurez le choix pour profiter, que ce soit en famille, entre amis ou en couple. Un séjour qui se voudra unique dans le Gard.
   title: ''
+code_postal: 30,Gard,Occitanie
 
 ---

@@ -96,5 +96,6 @@ page_sections:
 
     Prenez votre envol et profitez d'une vue imprenable du ciel sur les plateaux en parapente. Vous retrouverez de nombreux lieux dans tout l'Aveyron pour voler et vivre un moment unique en volant au-dessus des gorges du Tarn, de cette nature sauvage.
   title: ''
+code_postal: 12,Aveyron,Occitanie
 
 ---
