@@ -29,6 +29,7 @@ page_sections:
     Messanges est petit village situé dans les Landes qui offre une nature sauvage et belle. Entre ses kilomètres de plages, ses forêts et l'étang de Moisans, de Soustons plus loin, vous découvrirez des paysages uniques.
 
     Un petit village au patrimoine d'exception où la nature est préservée. Entre séjour sportif ou séjour de détente, les activités ne manqueront pas. Respirez l'air marin et des pins, évadez-vous au cœur des Landes.
+  blockBGcolor: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647013781/website/resorts/Messanges/alexandre-capt-0h2kWRb_KEs-unsplash.jpg
@@ -70,5 +71,7 @@ page_sections:
     océan et ses kilomètres de plages, sa nature sauvage et verte. Apprenez le surf
     et glissez sur les vagues, rouler en VTT sur les chemins en forêts, méditez et
     pratiquez le Yoga devant un magnifique coucher de soleil à Messanges.
+  blockBGcolor: ''
+code_postal: 40,Landes,Nouvelle-Aquitaine
 
 ---

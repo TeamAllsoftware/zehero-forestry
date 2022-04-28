@@ -86,5 +86,6 @@ page_sections:
 
     Un séjour à Millau, c’est séjourner dans une ville au patrimoine historique incroyable dans une nature préservé et magique.
   title: ''
+code_postal: 12,Aveyron,Occitanie
 
 ---

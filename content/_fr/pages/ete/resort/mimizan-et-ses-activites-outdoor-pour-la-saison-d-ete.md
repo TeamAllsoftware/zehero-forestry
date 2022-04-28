@@ -69,6 +69,6 @@ page_sections:
 
     N’attendez plus, vivez votre moment, soyez le Hero.
   blockBGcolor: ''
-code_postal: ''
+code_postal: 40,Landes,Nouvelle-Aquitaine
 
 ---
