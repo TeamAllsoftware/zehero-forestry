@@ -13,7 +13,7 @@ meta-title: Cueilleur de sommets, randonnée et trail en montagne
 meta-description: L'accompagnateur Clément Sivera vous accompagnera dans vos prochaines
   randonnées et sorties trail dans les Alpes, le Massif Central, les Pyrénées et les
   Grands Causses.
-permalink: https://res.cloudinary.com/deddrj0yb/image/upload/v1650868142/website/Partenaires/Cueilleur%20de%20sommet/727ae164-88af-4566-94c9-8829a8b55c15.jpg
+permalink: "/fr/ete/partenaires/clement-sivera"
 s01:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650868143/website/Partenaires/Cueilleur%20de%20sommet/2d0dea58-a43f-446f-8ab8-d7f0fab6b5ea.jpg
   firstname: Clément
@@ -98,5 +98,6 @@ s06:
   achieve04:
     title: ''
     content: ''
+published: false
 
 ---
