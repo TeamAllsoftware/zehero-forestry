@@ -69,7 +69,7 @@ page_sections:
   title: ''
 - template: 2coltxtimg
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358171/website/Altore/t%C3%A9l%C3%A9chargement_4.webp
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651147585/website/Altore/photo_marina.jpg
   alt_text_for_image: Coureuse courant avec des vêtements de la marque de course à
     pied Altore
   captiontitleuppercase: Altore, la marque française pour les coureurs
@@ -89,7 +89,7 @@ page_sections:
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358150/website/Altore/t%C3%A9l%C3%A9chargement_2.webp
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358193/website/Altore/t%C3%A9l%C3%A9chargement.webp
   atl_text_image_02: Coureur de Altore en nature avec de la neige
-  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650372462/website/Altore/Altore-2021-SD_FOCUS-OUTDOOR-0099.webp
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1651147593/website/Altore/photo_sylvain_neige.jpg
   atl_text_image_03: Coureuse Altore
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650372466/website/Altore/Altore-2021-SD_FOCUS-OUTDOOR-0021.webp
   atl_text_image_04: Coureur Altore en Corse

@@ -3,9 +3,8 @@ layout: layout_resort
 language: fr
 season: summer
 type: generic
-meta-description: 'Les activités Outdoor de Val d''Isère.
-  Un village de charme qui vous emmènera dans une montagne sauvage et sublime du parc
-  national de la Vanoise. '
+meta-description: 'Les activités Outdoor de Val d''Isère. Un village de charme qui
+  vous emmènera dans une montagne sauvage et sublime du parc national de la Vanoise. '
 topnav_color_text: light
 introduction:
   you_arrive: Vous arrivez à Val d'Isère et vous souhaitez louer du matériel ou trouver
@@ -19,7 +18,7 @@ resort_nameid: val_d_isere
 resort_naming: Val D'Isère
 permalink: "/fr/ete/destinations/val-d-isere"
 redirect_from:
-  - /fr/ete/destination/val-d-isere
+- "/fr/ete/destination/val-d-isere"
 meta-title: Activités outdoor à Val d'Isère pour l'été
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646211895/website/resorts/alpe%20d%27huez/valdisere-00007580_j6d62m.jpg
 image01_alt: Village de la station de Val d'Isère en Savoie
@@ -37,6 +36,7 @@ page_sections:
     de la Vanoise. Ce village reste très actif l'été afin de proposer de multiples
     activités outdoor ainsi que de nombreux commerces et événements tout au long de
     la saison.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646211895/website/resorts/alpe%20d%27huez/valdisere-00007573_omknxl.jpg
   alt_text_for_image: Vue du village et de maison de montagne de Val d'Isère avec
@@ -57,6 +57,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749751/website/summer/mac-bart-du-Jpr2srDU-unsplash_jbha8f.jpg
   alt_text_for_image: Chemin de pierre dans le parc national de le Vanoise
@@ -76,6 +77,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Les autres activités Outdoor
   content: |-
@@ -90,6 +92,7 @@ page_sections:
     C'est également du parapente afin de découvrir une montagne par l'air et d'en voir tous ses sommets.
 
     Respirez et détendez-vous en pratiquant le Yoga dans la plénitude de la montagne.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646217413/website/resorts/val-d-isere/yann-allegre-F9RlyTq6DCo-unsplash_k1n3ev.jpg
   alt_text_for_image: Petite maison de bois en montagne à Val d'Isère
@@ -103,5 +106,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
+code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 
 ---

@@ -4,7 +4,8 @@ language: fr
 season: summer
 type: generic
 meta-title: Activités outdoor à Saint-Brévin pour l'été
-meta-description: Profitez de l'océan et de la nature pour un séjour riche en émotion lors de vos prochaines activités à St Brevin les pins
+meta-description: Profitez de l'océan et de la nature pour un séjour riche en émotion
+  lors de vos prochaines activités à St Brevin les pins
 topnav_color_text: light
 introduction:
   you_arrive: 'Vous arrivez à St Brévin les Pins et souhaitez trouver une activité
@@ -18,7 +19,7 @@ resort_nameid: stbrevinlespins
 resort_naming: St Brevin les pins
 permalink: "/fr/ete/destinations/st-brevin-les-pins"
 redirect_from:
-  - /fr/ete/destination/st-brevin-les-pins
+- "/fr/ete/destination/st-brevin-les-pins"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642758795/website/summer/pexels-riccardo-bertolo-4245813_npkgby.jpg
 image01_alt: Plage de la Loire Atlantique vers St Nazaire et St Brévin les Pins
 button_to_link_to_ze_hero_shop:
@@ -35,6 +36,7 @@ page_sections:
     Loire afin de profiter de promenade et vélo.  \nUn ville qui offre de multiples
     activités et un séjour autant sportif que bien-être que vous soyez en famille,
     entre amis, en couple ou seul."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643384847/website/resorts/St%20Br%C3%A9vin%20les%20pins/louis-renaudineau-swmhWEOA3jA-unsplash_hquiey.jpg
   captiontitleuppercase: Entre fleuve et océan
@@ -48,6 +50,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Phare en pierre dans l'eau dans l'océan en Loire Atlantique
+  blockBGcolor: ''
 - template: textarea
   title: Les activités du Littoral
   content: "St Brévin les Pins offre un large choix d'activité nautique et sur le
@@ -59,6 +62,7 @@ page_sections:
     et des vagues.  \nC'est aussi une terre où le Kitesurf et le Wind-Surf sont de
     sorties. Entre le vent et les vagues, c'est un spot idéal pour apprendre et découvrir
     cette activité de sensation et de glisse."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642758789/website/summer/geoffroy-hauwen-fmtqbNMB8ho-unsplash_n64wm7.jpg
   captiontitleuppercase: Du vent pour plus de fun
@@ -75,5 +79,7 @@ page_sections:
     alt_button: ''
   alt_text_for_image: Personne dans l'océan en Loire atlantique faisant du Kitesurf
     au coucher de soleil
+  blockBGcolor: ''
+code_postal: 44,Loire-Atlantique,Pays de la Loire
 
 ---
