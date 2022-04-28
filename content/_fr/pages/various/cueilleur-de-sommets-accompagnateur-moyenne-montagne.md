@@ -67,24 +67,20 @@ s05:
   image01_alt: Vue nature Lozère randonnée
   expertise01:
     title: Accompagnateur Montagne
-    content: D’un naturel enthousiaste d’aventures en montagne et en nature, Clément
+    content: D’un naturel enthousiaste d’aventures en montagne et nature, Clément
       sera ravi de vous accompagner à travers des sorties authentiques. Il vous apportera
       tout son savoir sur la faune, la flore, la géologie, le patrimoine historique
       des lieux durant les randonnées.
   expertise02:
     title: Spécialité Trail
     content: De formation universitaire sportive et tout jeune diplômé d’accompagnement
-      en montagne, il est spécialisé dans le trail. Ce véritable passionné de l’outdoor
-      et des grands espaces consacre maintenant le plus clair de son temps aux activités
-      de plein air, à travers lesquelles il s’épanouit pleinement.
+      en montagne, il est spécialisé dans le trail.
   expertise03:
     title: Passionné
     content: 'Natif des Alpes mais ayant grandi autour du Massif Central, Clément,
       passionné de sport de pleine nature, marche principalement dans les Grands Causses
-      et les Pyrénées avec une âme d''enfant même s'' il est prêt à vous guider sur
-      l''ensemble des massifs qu''il a pu arpenter : Alpes du Nord, Mercantour, Corse...
-      Naturel enthousiaste de grands espaces et de beaux panoramas, il passe le plus
-      clair de son temps en montagne à vadrouiller d''un versant à l''autre.'
+      et les Pyrénées avec une âme d''enfant même s''il est prêt à vous guider sur
+      l''ensemble des massifs : Alpes du Nord, Mercantour, Corse... '
 s06:
   achieve01:
     title: ''
@@ -98,5 +94,6 @@ s06:
   achieve04:
     title: ''
     content: ''
+published: false
 
 ---
