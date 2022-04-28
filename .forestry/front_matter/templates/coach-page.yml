@@ -423,5 +423,3 @@ fields:
       required: true
     label: Link URL to the store
   label: Section 7 - book a coach
-pages:
-- content/_fr/pages/various/cueilleur-de-sommets-accompagnateur-moyenne-montagne.md
