@@ -4,7 +4,8 @@ language: fr
 season: summer
 type: generic
 meta-title: Activités outdoor en Haute-Savoie pour l'été
-meta-description: La Haute Savoie est un département composée d'une chaine montagneuse incroyable ainsi que des lacs.
+meta-description: La Haute Savoie est un département composée d'une chaine montagneuse
+  incroyable ainsi que des lacs.
 topnav_color_text: dark
 introduction:
   you_arrive: Découvrez toutes les activités et les différentes locations en Haute
@@ -17,7 +18,7 @@ resort_naming: La Haute Savoie
 title: La Haute Savoie (74) et ses activités pour la saison d'été
 permalink: "/fr/ete/destinations/haute-savoie"
 redirect_from:
-  - /fr/ete/destination/haute-savoie
+- "/fr/ete/destination/haute-savoie"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643015412/website/summer/clemence-bergougnoux-zLIrNgNzPYs-unsplash_tk4orw.jpg
 image01_alt: Vue panorama d'un randonneur en montagne devant un lac, des montagnes
   l'été
@@ -31,6 +32,7 @@ page_sections:
 
     Ensuite, la proximité de l’Italie et de la Suisse voisines ont donné à cette région un peu du charme délicat qui construisent son caractère, sa spécificité et son authenticité : Annecy, le Genevois et les Aravis, le Pays du Mont-Blanc-Grand Massif, le lac Leman et les portes du soleil.
   title: 'La Haute-Savoie : entre lacs et montagnes'
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643015413/website/summer/clemence-bergougnoux-AJkNPizwyAo-unsplash_nelgjc.jpg
   captiontitleuppercase: Un patrimoine naturel exceptionnel
@@ -47,6 +49,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Les activités en Haute Savoie
   content: "Vous ne pourrez vous ennuyer en Haute-Savoie. Ce département est un paradis
@@ -65,6 +68,7 @@ page_sections:
     vous trouverez votre bonheur.  \nC'est aussi une destination mondialement connue
     pour la pratique du trail avec notamment l'UTMB et d'autres courses dans tout
     le département. Une terre de coureur et de randonneur."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643015412/website/summer/aurelien-krier-pwyueOgekMM-unsplash_fofpwu.jpg
   captiontitleuppercase: Volez, roulez, grimpez
@@ -81,6 +85,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Mais encore
   content: "Ce n'est pas tout ! Les autres activités en Haute-Savoie sont encore nombreuses,
@@ -93,6 +98,8 @@ page_sections:
     à faire dans le massif du Mont-Blanc.\n\nN'attendez plus et venez profiter d'un
     séjour unique dans le département de la Haute-Savoie et vivez des expériences
     et de nouvelles aventures avec Ze Hero."
+  blockBGcolor: ''
 baseline: Lacs et montagnes
+code_postal: 74,Haute-Savoie,Auvergne-Rhône-Alpes
 
 ---

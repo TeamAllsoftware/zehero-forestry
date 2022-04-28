@@ -87,6 +87,6 @@ page_sections:
 
     N'attendez plus, trouvez votre activité qui vous fera vibrer.
   blockBGcolor: ''
-code_postal: ''
+code_postal: 40,Landes,Nouvelle-Aquitaine
 
 ---

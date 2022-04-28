@@ -75,6 +75,6 @@ page_sections:
     Réservez votre prochaine activité à Thonon-les-Bains et profitez d'un séjour au cœur d'un environnement riche et préservé. Entre lac et montagne, richesse des terres, patrimoine et une nature d'exception, vous trouverez toutes les activités outdoor pour des moments riches en émotions.
 
     Que ce soit en famille, entre amis, en couple, partez vivre de nouvelles expériences.
-code_postal: ''
+code_postal: 74,Haute-Savoie,Auvergne-Rhône-Alpes
 
 ---
