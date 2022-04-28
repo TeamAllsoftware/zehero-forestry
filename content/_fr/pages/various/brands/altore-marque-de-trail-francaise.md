@@ -12,7 +12,7 @@ meta-description: La marque française et éco-responsable Altore propose des é
   de grande qualité pour le trail-running.
 baseline: Français et éco-responsable
 engage: Des vêtements de trail techniques et éco-responsables
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651151454/website/Altore/visuel_ze_hero.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651151871/website/Altore/visuel_ze_hero.jpg
 image01_alt: 'Plusieurs personnes courant avec les vêtements '
 brand_logo_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647881634/website/Altore/273776542_485514956282760_5747485360429042294_n.jpg
 button_to_link_to_ze_hero_shop:
@@ -87,12 +87,13 @@ page_sections:
 - template: imagegallery02
   atl_text_image_01: Plusieurs coureur sur une crète en corse portant du Altore
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358150/website/Altore/t%C3%A9l%C3%A9chargement_2.webp
-  image02_rectangle: https://res.https://res.cloudinary.com/deddrj0yb/image/upload/v1651147593/website/Altore/photo_sylvain_neige.jpg.com/deddrj0yb/image/upload/v1650358193/website/Altore/t%C3%A9l%C3%A9chargement.webp
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1651147593/website/Altore/photo_sylvain_neige.jpg
   atl_text_image_02: Coureur de Altore en nature avec de la neige
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650372462/website/Altore/Altore-2021-SD_FOCUS-OUTDOOR-0099.webp
   atl_text_image_03: Coureuse Altore
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650372466/website/Altore/Altore-2021-SD_FOCUS-OUTDOOR-0021.webp
   atl_text_image_04: Coureur Altore en Corse
   title: ''
+published: false
 
 ---
