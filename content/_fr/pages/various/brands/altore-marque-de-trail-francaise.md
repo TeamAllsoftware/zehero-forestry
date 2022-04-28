@@ -12,8 +12,8 @@ meta-description: La marque française et éco-responsable Altore propose des é
   de grande qualité pour le trail-running.
 baseline: Français et éco-responsable
 engage: Des vêtements de trail techniques et éco-responsables
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647881583/website/Altore/245103264_408743243959932_1030052120039821547_n.jpg
-image01_alt: Plusieurs personnes courant avec les vêtements Altore
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651147593/website/Altore/visuel_ze_hero.jpg
+image01_alt: 'Plusieurs personnes courant avec les vêtements '
 brand_logo_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647881634/website/Altore/273776542_485514956282760_5747485360429042294_n.jpg
 button_to_link_to_ze_hero_shop:
   button_text: ''
@@ -22,22 +22,40 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: La marque Altore
-  content: |-
-    La marque Altore s’inscrit dans une démarche aux valeurs fortes dans le monde outdoor. Un nouvel équipementier de Trail Running, fabriqué en France et Eco-conçu en France, qui a été créé en Corse en 2019 au pied du fameux GR20. Performances, techniques, épurées, vêtements légers, résistants mais surtout écoresponsables, voilà les mots qui définissent cette marque Corse. Une marque qui axe ses valeurs autour de son identité, de sa technicité de produit ainsi sur l’écoresponsabilité. C’est pourquoi, cette marque réduit son empreinte carbone en utilisant des matériaux naturels et/ou recyclés sans perdre en qualité et en performance. Les différentes fibres des équipements vont être d’origines naturelles tel que le bambou. Altore va également utiliser du polyester 100% recyclé. Chaque vêtement est alors recyclable afin de ne rien perdre de ce produit et de ne rien gaspiller. Dès cet été 2022, Altore ouvre son propre atelier de découpe et assemblage à Porto Vecchio, ce qui nous permettra de commencer à proposer des produits 100% Origine France.
-
-    Altore amène dans le milieu du trail running, de la course à pied et du monde outdoor des équipements d'une grande qualité respectant l'environnement. L’engagement écologique se veut important chez cette marque Corse. Vous retrouverez alors une gamme technique, légère, respirant, performante et confortable pour tous vos efforts. Bien sûr, Altore est Corse, son identité est importante et ses produits sont authentiques et montagnards.
+  content: "La marque Altore s’inscrit dans une démarche novatrice et créative dans
+    l’univers de l’outdoor. Il s’agit d’un nouvel équipementier de trail running aux
+    valeurs fortes qui propose des produits techniques fabriqués et éco-conçu en France.
+    Altore a été créée par des passionnés de trail, en Corse, en 2019, au pied du
+    fameux GR20. Performance, technicité, designs épurés, vêtements ultra légers,
+    résistants mais surtout écoresponsabilité : voici les mots qui définissent cette
+    marque insulaire.\n\nLes produits, à l’identité authentique et affirmée, sont
+    dessinés dans un objectif de performance et de qualité mais également de réduction
+    de l’empreinte carbone. Proposer des produits respectueux de l’environnement est
+    une préoccupation au cœur du cahier des charges de la marque : les tissus techniques
+    employés sont d’origine naturelle ou recyclés. Le bambou ainsi que le polyester
+    recyclé, utilisés pour leurs nombreuses qualités respirantes et séchant rapidement,
+    sont les principales fibres utilisées pour la confection des modèles.\n\nLes vêtements
+    sont également recyclables, de ce fait, Altore s’inscrit dans une démarche et
+    un engagement écologique complet.   \nDès cet été 2022, la marque ouvre son propre
+    atelier de découpe et assemblage à Porto-Vecchio, afin de proposer des produits
+    100% Origine France."
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358188/website/Altore/t%C3%A9l%C3%A9chargement_3.webp
   alt_text_for_image: Coureur de trail avec des vêtement Altore
   captiontitleuppercase: Les équipements de trail Altore
   title: Une gamme large de produits techniques de trail
-  content: |-
-    Altore propose une gamme large de produits techniques de trail. Vous trouverez donc des T-shirts manches courtes, des T-shirts manches longues, des collants, des vestes, des débardeurs, des cuissards pour la pratique du trail et la course à pied pour homme et pour femme.
-
-    Les T-shirts se différencieront par leur technicité et leurs matières. Ceux qui seront plus techniques et performants seront alors plus près du corps tel une seconde peau en se faisant oublier. Vous retrouverez des T-shirts plus amples mais toujours techniques composé de fibres de bambou et de polyester 100% recyclé. Les T-shirts de Trail Altore sont idéales pour les sorties courtes comme longues, par temps chaud voir très chaud aux températures plus fraîches.
-
-    Homme comme Femme, vous retrouverez différentes T-shirt pour différentes utilisations et technicités. Altore propose également une gamme de débardeurs pour les entraînements sous un soleil plus chaud et être encore plus légers.
+  content: "Altore propose une gamme large de produits techniques de trail tels que
+    des T-shirts manches courtes et longues, shorts, vestes, débardeurs, cuissards
+    et divers accessoires pour la pratique du trail et de la course à pied, pour homme
+    et pour femme.   \nAussi, la gamme Altore femme est très développée suite à un
+    constat simple : l’offre existante sur le marché ne propose que peu de modèles
+    femmes en comparaison à ceux disponibles pour l’homme.\n\nLes T-shirts se différencient
+    par leur technicité et leurs matières, mais aussi par leurs motifs colorés, aux
+    designs à thématique insulaire. Puisque la qualité de finition se trouve dans
+    les détails, nos designers agrémentent les modèles de découpes laser, poches imperméables
+    et divers flocages de matières luminescentes et réfléchissantes.   \nCes finitions
+    malignes et pratiques permettent une visibilité inédite de nuit."
   button:
     text_button: ''
     href_button: ''
@@ -45,11 +63,9 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   content: |-
-    Vous retrouverez un modèle de short de Trail Altore pour Homme et pour Femme avec des coloris différents. Un short très léger et technique, flottant et plus court pour une liberté optimale de mouvement.
+    La gamme proposée est vaste, allant du produit compressif, tel une seconde peau, au t-shirt léger et flottant, se faisant oublier par sa légèreté et son toucher extrêmement confortable.
 
-    Altore propose aussi des vestes, coupe-vent et Softshell. Les Softshell et vestes légères homme et femmes sont parfaites pour la pratique par temps frais tout étant très respirant, légères et surtout performantes. Les coupe-vent Altore sont ultras light et également déperlants composées d'une capuche.
-
-    Une large gamme de produits performants et techniques pour la pratique de la course à pied en plaine comme en montagne. Des produits uniques au style épuré.
+    Les shorts flottants et débardeurs sauront vont accompagner dans vos sorties estivales, et la diversité des vestes proposées vous permettront de les porter en toute saison : du coupe-vent déperlant ultra léger à capuche au Softshell respirant.
   title: ''
 - template: 2coltxtimg
   blockBGcolor: blanc
@@ -59,13 +75,9 @@ page_sections:
   captiontitleuppercase: Altore, la marque française pour les coureurs
   title: Les accessoires Altore de course à pied
   content: |-
-    Vous découvrirez des accessoires destinés au trail et à la course à pied.
+    De nombreux accessoires sont aussi disponibles : sacs de sport, tours de cou aériens, bandeaux en maille effet 3D, casquettes respirantes, manchons protégeant du froid et des UV…
 
-    Les bandeaux Altore pour la course à pied destinés à éponger la transpiration, tenir les cheveux pour la course à pied comme la pratique d'autres sports. Vous retrouverez également les casquettes. Elles seront mixtes comme pour les bandeaux.
-
-    Leurs manchons seront disponibles également afin de protéger du froid, des UV, de la chaleur et de favoriser la circulation sanguine.
-
-    Vous retrouverez aussi des tours de coup Altore ainsi que des sacs de sport afin de transporter toutes vos affaires.
+    Que ce soit par temps chaud ou par des températures fraîches, les vêtements Altore vous accompagneront dans toutes vos sorties de plein air, en montagne comme en plaine.
 
     Tous ces produits sont écoresponsables et conçus et développer en Corse.
   button:
