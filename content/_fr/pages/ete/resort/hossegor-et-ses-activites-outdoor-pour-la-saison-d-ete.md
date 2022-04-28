@@ -32,6 +32,7 @@ page_sections:
     décor landais et traditionnel. Vous y trouverez 7km de plages et des spots incontournables
     pour le surf. Le lac de Hossegor est également un lieu incontournable. Mais aussi
     une forêt préservée où la nature saura vous enchanter.
+  blockBGcolor: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647274162/website/resorts/Hossegor/joackim-weiler-SCenXOv4CTI-unsplash_1.jpg
@@ -84,5 +85,7 @@ page_sections:
     Séjourner à Hossegor c'est vivre au rythme des marrés, du surf. C'est ressentir cette ambiance cool et chic, cette nature sauvage et ces vagues mythiques. C'est méditer sur la plage en pratiquant le Yoga devant ces couchers de soleil unique parmi ces kilomètres de plages.
 
     Vivez un séjour sportif ou de détente, de glisse et de découverte dans cette ville landaise mondialement connue, Hossegor.
+  blockBGcolor: ''
+code_postal: 40,Landes,Nouvelle-Aquitaine
 
 ---

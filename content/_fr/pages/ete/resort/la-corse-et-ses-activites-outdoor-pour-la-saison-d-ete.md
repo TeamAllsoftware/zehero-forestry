@@ -89,5 +89,6 @@ page_sections:
     activités outdoor. Vous pourrez pratiquer toutes les meilleures activités outdoor
     dans des cadres incroyables et uniques, des cadres comme vous ne trouverez nulle
     part et surtout dans un petit rayon."
+code_postal: 20,Corse,Provence-Alpes-Côte d'Azur
 
 ---
