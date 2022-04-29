@@ -89,6 +89,5 @@ page_sections:
     un petit-déjeuner, un goûter ou même seulement une boisson chaude ou fraîche sur
     la terrasse baignée par le soleil et le calme.
   title: ''
-published: false
 
 ---
