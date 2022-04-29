@@ -136,5 +136,6 @@ page_sections:
     de transport vous permettront de vous avancer avec tout le matériel aux différents
     points de départ.
   title: Logistique baguage
+published: false
 
 ---
