@@ -66,5 +66,6 @@ page_sections:
     totale. Ressourcez-vous dans votre chambre après vos activités, vos balades pour
     un moment de confort et de bien-être.
   title: ''
+published: false
 
 ---
