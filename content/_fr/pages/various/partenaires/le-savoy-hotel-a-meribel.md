@@ -118,15 +118,24 @@ page_sections:
   alt_text_for_image: Cyclistes dans la montée de Méribel
   captiontitleuppercase: Le Savoy, pour des séjours sportifs
   title: Séjours vélo au Savoy
-  content: |-
-    Avec Ze Hero, nous avons mis en place différents séjours à vélo en partenariat avec l’hôtel Le Savoy à Méribel. Vous retrouverez différentes possibilités d’itinérance à vélo.
-
-    Tout d'abord, nous avons mis en place un séjour de 7 jours de vélo de route à Méribel. Un séjour sportif avec 7 journées à vélo avec Col de la Loze, Col de la Madeleine, Col du petit Saint Bernard, Cormet de Roseland, tour du Lac d'Annecy. Vous logerez au sein de l'hôtel Le Savoy à Méribel et de vous détendre après vos journées à vélo. Nous proposons des offres en chambre double ou en chambre simple.
-
-    Nous proposons ensuite deux séjours vélo avec la traversée des Préalpes et la traversé des Alpes. Ces deux itinérances à vélo comportent deux nuits à l'hôtel Le Savoy. Vous débuterez alors par deux journées de mise en jambes à Méribel.
+  content: "Avec Ze Hero, nous avons mis en place différents séjours à vélo en partenariat
+    avec l’hôtel Le Savoy à Méribel. Vous retrouverez différentes possibilités d’itinérance
+    à vélo.\n\nTout d'abord, nous avons mis en place un séjour de 7 jours de vélo
+    de route à Méribel. Un séjour sportif avec 7 journées à vélo avec Col de la Loze,
+    Col de la Madeleine, Col du petit Saint Bernard, Cormet de Roseland, tour du Lac
+    d'Annecy. Vous logerez au sein de l'hôtel Le Savoy à Méribel et de vous détendre
+    après vos journées à vélo. Nous proposons des offres en chambre double ou en chambre
+    simple.  \nDécouvrez le séjour en détail : [**Séjours vélo de route - Méribel
+    -Le Savoy**](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)\n\nNous
+    proposons ensuite deux séjours vélo avec la traversée des Préalpes et la traversé
+    des Alpes. Ces deux itinérances à vélo comportent deux nuits à l'hôtel Le Savoy.
+    Vous débuterez alors par deux journées de mise en jambes à Méribel.  \nDécouvrez
+    [**la traversée des Préalpes en détail**](https://www.ze-hero.com/fr/ete/activites/traversee-des-pre-alpes-en-velo)
+    !  \nDécouvrez [**la traversée des Alpes en détail**](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)
+    !"
   button:
-    text_button: ''
-    href_button: ''
+    text_button: Réservez votre séjour vélo à Méribel au sein de l'hôtel Le Savoy
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
