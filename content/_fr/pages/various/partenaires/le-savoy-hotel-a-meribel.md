@@ -67,5 +67,28 @@ page_sections:
   Button2:
     title: ''
     link: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068255/website/Hotel/Savoy%20Meribel/salle.jpg
+  alt_text_for_image: Salle de restauration dans l'hôtel Le Savoy
+  captiontitleuppercase: Charme et élégance
+  title: La restauration
+  content: Séjournez à l’hôtel le Savoy, c’est profiter d’une salle de restauration
+    aux ambiances d’élégance et de charme montagnards. Pour des moments de partage
+    et de convivialité autour de grandes tables ou plus intimistes, découvrez une
+    carte surprenante qui éveillera toutes vos papilles. Des plats délicieux et variés,
+    laissez-vous tenter par des saveurs uniques et une cuisine bistronomique.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: Vous pourrez profiter de sa grande terrasse afin de déjeuner au soleil,
+    face aux montagnes en écoutant les oiseaux chanter et les sons de la nature. Savourez
+    un petit-déjeuner, un goûter ou même seulement une boisson chaude ou fraîche sur
+    la terrasse baignée par le soleil et le calme.
+  title: ''
+published: false
 
 ---
