@@ -84,10 +84,58 @@ page_sections:
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  content: Vous pourrez profiter de sa grande terrasse afin de déjeuner au soleil,
-    face aux montagnes en écoutant les oiseaux chanter et les sons de la nature. Savourez
-    un petit-déjeuner, un goûter ou même seulement une boisson chaude ou fraîche sur
-    la terrasse baignée par le soleil et le calme.
+  content: |-
+    Vous pourrez profiter de sa grande terrasse afin de déjeuner au soleil, face aux montagnes en écoutant les oiseaux chanter et les sons de la nature. Savourez un petit-déjeuner, un goûter ou même seulement une boisson chaude ou fraîche sur la terrasse baignée par le soleil et le calme.
+
+    Vous pourrez vous désaltérer au Bar du Savoy. Un lieu coloré où règne une ambiance chaleureuse et conviviale au sein de l'hôtel et de Méribel. Découvrez une carte surprenante où les barmans exercent l'art du cocktail. Laissez-vous surprendre par leur talent et leur création. Vous pourrez déguster directement sur place des tapas et des planches à partager.
+
+    Lors des fins de journées après vos activités en montagne, profitez du High Time. Un goûter gourmand et savoureux, salé et sucré afin de profiter d'une délicieuse récompense après l'effort.
   title: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068255/website/Hotel/Savoy%20Meribel/library.jpg
+  alt_text_for_image: Salon de détente dans l'hôtel le Savoy à Méribel
+  captiontitleuppercase: Moment de détente
+  title: Les espaces bien-être
+  content: |-
+    Séjourner à l'hôtel Le Savoy à Méribel, c'est profiter des plusieurs espaces de bien-être.
+
+    Détendez-vous dans un fauteuil avec livre au sein de la bibliothèque de l'hôtel, faites une partie de jeux de société entre amis, ou buvez un thé devant la belle cheminée. Un moment de plaisir et de calme après vos journées d'activités et de découverte dans les montagnes de Méribel.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: Le Spa sera le lieu parfait pour un vrai moment de relaxation et de détente.
+    En accès libre à toutes les personnes de l'hôtel, relaxez-vous dans le sauna finlandais
+    et son hammam pour vous revitaliser. Vous pourrez également profiter de vous faire
+    masser et détendre vos muscles.
+  title: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/51384836504_bff6429438_k_mkw8t9.jpg
+  alt_text_for_image: Cyclistes dans la montée de Méribel
+  captiontitleuppercase: Le Savoy, pour des séjours sportifs
+  title: Séjours vélo au Savoy
+  content: |-
+    Avec Ze Hero, nous avons mis en place différents séjours à vélo en partenariat avec l’hôtel Le Savoy à Méribel. Vous retrouverez différentes possibilités d’itinérance à vélo.
+
+    Tout d'abord, nous avons mis en place un séjour de 7 jours de vélo de route à Méribel. Un séjour sportif avec 7 journées à vélo avec Col de la Loze, Col de la Madeleine, Col du petit Saint Bernard, Cormet de Roseland, tour du Lac d'Annecy. Vous logerez au sein de l'hôtel Le Savoy à Méribel et de vous détendre après vos journées à vélo. Nous proposons des offres en chambre double ou en chambre simple.
+
+    Nous proposons ensuite deux séjours vélo avec la traversée des Préalpes et la traversé des Alpes. Ces deux itinérances à vélo comportent deux nuits à l'hôtel Le Savoy. Vous débuterez alors par deux journées de mise en jambes à Méribel.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: Nous avons également mis en place avec Taxi Caravelle et Mercedes Grand
+    Confort, toute la logistique de vos baguages et des transports. En effet, lors
+    des sorties à vélo qui ne partent pas directement de Méribel, différents moyens
+    de transport vous permettront de vous avancer avec tout le matériel aux différents
+    points de départ.
+  title: Logistique baguage
+published: false
 
 ---
