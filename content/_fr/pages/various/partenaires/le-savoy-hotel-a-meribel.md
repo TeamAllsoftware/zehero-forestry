@@ -112,6 +112,27 @@ page_sections:
     et son hammam pour vous revitaliser. Vous pourrez également profiter de vous faire
     masser et détendre vos muscles.
   title: ''
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068255/website/Hotel/Savoy%20Meribel/20210628_-_Hotel_Le_Savoy-383-min.jpg
+    alt_text: Chambre et lit de l'hôtel Le Savoy
+    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
+    title: 'Des chambres authentiques '
+  Image2:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/48229908541_fc334f5f80_k_nsl7mu.jpg
+    alt_text: Vélo au sommet du Col de la Loze
+    title: Profitez d'un séjour sportif à Méribel
+    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068255/website/Hotel/Savoy%20Meribel/bar2.jpg
+    alt_text: Vue du salon et du bar de l'hôtel Le Savoy
+  Image4:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987030/website/V%C3%A9lo/48085227907_a01273b37a_k_tysaa5.jpg
+    alt_text: Deux cyclistes sur la route de Méribel
+    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
+    title: 'Séjour tout compris pour plus de plaisir '
+  button_2_more: false
 - template: 2coltxtimg
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/51384836504_bff6429438_k_mkw8t9.jpg
