@@ -15,6 +15,20 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 page_sections:
+- template: heroImageFull
+  top: oui
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068258/website/Hotel/Savoy%20Meribel/20210628_-_Hotel_Le_Savoy-3.jpg
+  gradient: Grad
+  headline:
+    title: Profitez d'un séjour authentique
+    color: white
+  Button1:
+    title: Séjour bien-être et sport à l'hôtel Le Savoy
+    link: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
+  button_2_more: false
+  Button2:
+    title: ''
+    link: ''
 - template: textarea
   blockBGcolor: blanc
   title: Le Savoy, Hôtel 4 étoiles à Méribel
@@ -24,6 +38,20 @@ page_sections:
     Au pied des montagnes et du parc de la Vanoise, l'hôtel vous ouvre ses portes et vous permet de profiter d'un séjour nature. Partez de l'hôtel Le Savoy directement randonner, courir, découvrir les sentiers à VTT, partir grimper les cols à vélo. Pour des moments de calme et de sérénité, rejoignez le lac de Tueda au petit matin pour une séance de Yoga.
 
     En famille, entre amis, en couple, Le Savoy vous accueille pour un moment chaleureux, de confort, de convivialité, chaleureux. Vous pourrez profiter de sa restauration et de sa terrasse face aux montagnes, de son lieu de bien-être, de sa bibliothèque et de son bar.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068257/website/Hotel/Savoy%20Meribel/20210628_-_Hotel_Le_Savoy-355.jpg
+  alt_text_for_image: Vue d'un balcon de l'hôtel le Savoy sur les montagnes de Méribel
+  captiontitleuppercase: Des bulles d'évasion
+  title: Chambres et suites
+  content: 'Les chambres et les suites de l''hôtel le Savoy vous transporteront dans
+    du coton et dans une bulle d''évasion. Face aux montagnes, elles vous permettront
+    de vous sentir dans un petit nid douillet en profitant d''une imprenable. Calme
+    et volupté, dans des chambres authentiques vous permettant de profiter de détente '
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
