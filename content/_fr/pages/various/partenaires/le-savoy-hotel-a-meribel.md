@@ -73,11 +73,11 @@ page_sections:
   alt_text_for_image: Salle de restauration dans l'hôtel Le Savoy
   captiontitleuppercase: Charme et élégance
   title: La restauration
-  content: Séjournez à l’hôtel le Savoy, c’est profiter d’une salle de restauration
-    aux ambiances d’élégance et de charme montagnards. Pour des moments de partage
-    et de convivialité autour de grandes tables ou plus intimistes, découvrez une
-    carte surprenante qui éveillera toutes vos papilles. Des plats délicieux et variés,
-    laissez-vous tenter par des saveurs uniques et une cuisine bistronomique.
+  content: Séjournez à l’hôtel Le Savoy, c’est profiter d’une salle de restauration
+    élégante au charme montagnard. Pour des moments de partage et de convivialité
+    autour de grandes tables ou plus intimistes, découvrez une carte surprenante qui
+    éveillera toutes vos papilles. Des plats délicieux et variés, laissez-vous tenter
+    par des saveurs uniques et une cuisine bistronomique.
   button:
     text_button: ''
     href_button: ''
