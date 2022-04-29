@@ -134,7 +134,7 @@ page_sections:
     title: 'Séjour tout compris pour plus de plaisir '
   button_2_more: false
 - template: 2coltxtimg
-  blockBGcolor: blanc
+  blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/51384836504_bff6429438_k_mkw8t9.jpg
   alt_text_for_image: Cyclistes dans la montée de Méribel
   captiontitleuppercase: Le Savoy, pour des séjours sportifs
