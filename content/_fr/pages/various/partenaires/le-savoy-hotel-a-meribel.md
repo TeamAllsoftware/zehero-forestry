@@ -15,20 +15,6 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 page_sections:
-- template: heroImageFull
-  top: non
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068258/website/Hotel/Savoy%20Meribel/20210628_-_Hotel_Le_Savoy-3.jpg
-  gradient: Grad
-  headline:
-    title: Profitez d'un séjour authentique
-    color: white
-  Button1:
-    title: Séjour bien-être et sport à l'hôtel Le Savoy
-    link: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
-  button_2_more: false
-  Button2:
-    title: ''
-    link: ''
 - template: textarea
   blockBGcolor: blanc
   title: Le Savoy, Hôtel 4 étoiles à Méribel
@@ -67,5 +53,19 @@ page_sections:
 
     Aux couleurs vives, dans un cadre féerique, ces différentes chambres vont de 18m² à 55m². Modernes et fonctionnelles, elles vous permettront d'être en immersion totale. Ressourcez-vous dans votre chambre après vos activités, vos balades pour un moment de confort et de bien-être.
   title: ''
+- template: heroImageFull
+  top: non
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068258/website/Hotel/Savoy%20Meribel/20210628_-_Hotel_Le_Savoy-3.jpg
+  gradient: Grad
+  headline:
+    title: Profitez d'un séjour authentique
+    color: white
+  Button1:
+    title: Séjour bien-être et sport à l'hôtel Le Savoy
+    link: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
+  button_2_more: false
+  Button2:
+    title: ''
+    link: ''
 
 ---
