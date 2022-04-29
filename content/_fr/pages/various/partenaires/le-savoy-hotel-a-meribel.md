@@ -44,10 +44,14 @@ page_sections:
   alt_text_for_image: Vue d'un balcon de l'hôtel le Savoy sur les montagnes de Méribel
   captiontitleuppercase: Des bulles d'évasion
   title: Chambres et suites
-  content: 'Les chambres et les suites de l''hôtel le Savoy vous transporteront dans
-    du coton et dans une bulle d''évasion. Face aux montagnes, elles vous permettront
-    de vous sentir dans un petit nid douillet en profitant d''une imprenable. Calme
-    et volupté, dans des chambres authentiques vous permettant de profiter de détente '
+  content: "Les chambres et les suites de l'hôtel le Savoy vous transporteront dans
+    du coton et dans une bulle d'évasion. Face aux montagnes, elles vous permettront
+    de vous sentir dans un petit nid douillet en profitant d'une imprenable. Calme
+    et volupté, dans des chambres authentiques vous permettant de profiter de détente
+    sur le balcon ou la terrasse de votre chambre.\n\nL'hôtel Le Savoy propose différentes
+    types de chambres et de suites : \n\n* La chambre Tradition\n* La chambre Tradition
+    avec balcon au sud pour un ensoleillement parfait \n* La chambre Charme\n* La
+    Suite \n* La Honey Suite\n* La Family Suite"
   button:
     text_button: ''
     href_button: ''
