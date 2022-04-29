@@ -67,5 +67,6 @@ page_sections:
 
     Aux couleurs vives, dans un cadre féerique, ces différentes chambres vont de 18m² à 55m². Modernes et fonctionnelles, elles vous permettront d'être en immersion totale. Ressourcez-vous dans votre chambre après vos activités, vos balades pour un moment de confort et de bien-être.
   title: ''
+published: false
 
 ---
