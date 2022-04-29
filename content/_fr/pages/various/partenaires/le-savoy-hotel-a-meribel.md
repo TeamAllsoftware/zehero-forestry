@@ -16,7 +16,7 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: ''
 page_sections:
 - template: heroImageFull
-  top: oui
+  top: non
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068258/website/Hotel/Savoy%20Meribel/20210628_-_Hotel_Le_Savoy-3.jpg
   gradient: Grad
   headline:
@@ -44,9 +44,18 @@ page_sections:
   alt_text_for_image: Vue d'un balcon de l'hôtel le Savoy sur les montagnes de Méribel
   captiontitleuppercase: Des bulles d'évasion
   title: Chambres et suites
+  content: Les chambres et les suites de l'hôtel le Savoy vous transporteront dans
+    du coton et dans une bulle d'évasion. Face aux montagnes, elles vous permettront
+    de vous sentir dans un petit nid douillet en profitant d'une imprenable. Calme
+    et volupté, dans des chambres authentiques vous permettant de profiter de détente
+    sur le balcon ou la terrasse de votre chambre.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
   content: |-
-    Les chambres et les suites de l'hôtel le Savoy vous transporteront dans du coton et dans une bulle d'évasion. Face aux montagnes, elles vous permettront de vous sentir dans un petit nid douillet en profitant d'une imprenable. Calme et volupté, dans des chambres authentiques vous permettant de profiter de détente sur le balcon ou la terrasse de votre chambre.
-
     L'hôtel Le Savoy propose différents types de chambres et de suites :
 
     * La chambre Tradition
@@ -55,16 +64,9 @@ page_sections:
     * La Suite
     * La Honey Suite
     * La Family Suite
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: textarea
-  blockBGcolor: blanc
-  content: Aux couleurs vives, dans un cadre féerique, ces différentes chambres vont
-    de 18m² à 55m². Modernes et fonctionnelles, elles vous permettront d'être en immersion
-    totale. Ressourcez-vous dans votre chambre après vos activités, vos balades pour
-    un moment de confort et de bien-être.
+
+    Aux couleurs vives, dans un cadre féerique, ces différentes chambres vont de 18m² à 55m². Modernes et fonctionnelles, elles vous permettront d'être en immersion totale. Ressourcez-vous dans votre chambre après vos activités, vos balades pour un moment de confort et de bien-être.
   title: ''
+published: false
 
 ---
