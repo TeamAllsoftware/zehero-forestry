@@ -92,6 +92,5 @@ s06:
   achieve04:
     title: L'école de surf
     content: Ouvert tout l'été 9h-19h
-published: false
 
 ---
