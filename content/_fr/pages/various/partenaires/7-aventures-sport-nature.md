@@ -16,7 +16,7 @@ meta-description: 7 aventures vous propose, tout prêt de Thonon les Bains des a
 permalink: "/fr/ete/partenaires/7-aventures"
 s01:
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651484177/website/Partenaires/2_fr.jpg
-  firstname: 7 Aventures
+  firstname: 7Aventures
   lastname: Sport & Nature
   coachbaseline: Activité d'eau vives à Thonon les Bains
 s02:
@@ -89,5 +89,6 @@ s06:
   achieve04:
     title: Ouvert
     content: D'Avril à Octobre 8h-18h
+published: false
 
 ---
