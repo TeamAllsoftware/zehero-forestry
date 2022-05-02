@@ -89,6 +89,6 @@ s06:
     content: 'Développement qualités physique et techniques '
   achieve04:
     title: Passionné
-    content: Transmettre son savoir
+    content: Désir transmettre son savoir
 
 ---
