@@ -90,5 +90,6 @@ s06:
   achieve04:
     title: Passionné
     content: Transmettre son savoir
+published: false
 
 ---
