@@ -25,7 +25,7 @@ s02:
     L'école de Surf Sama Sama est basée à Mimizan et à Porge. Passionné par le surf et l'océan, Jérémy Huet désire transmettre son savoir, ses compétences et sa passion auprès des élèves afin qu'ils atteignent leurs objectifs. Profitez d'une ambiance décontractée pour apprendre en profitant et en prenant du plaisir. Que vous soyez débutants ou experts, que vous désirez surfer sur des shorts boards ou des longboards, Sama Sama Surf School vous accompagnera. Apprenez à surfer sereinement à Mimizan et à Porge. Avec des spots adaptés à vous, un choix de matériel adapté à vous et aux conditions, des groupes de niveaux ainsi qu'un coaching adapté à chacun, votre moniteur vous fera évoluer dans une ambiance décontractée.
     Découvrez vos premières sensations de glisse avec Sama Sama Surf School. Dès 8ans, vous pourrez profiter des cours de surf. Vous retrouverez des cours collectifs et privés de surf à Mimizan et à Porge.
     L'école de surf à Mimizan et Porge propose aussi le " Surf Thérapie". C’est-à-dire, un cours de surf pour un moment de bien-être et de plénitude. L'environnement dans lequel vous évoluerez ainsi que la sensation de glisse vous permettra de vous sentir revitalisé, apaisé et en forme physique et mentale.
-  years_experience: "5"
+  years_experience: "10"
 s03:
   txt01: Plage de la corniche à Mimizan
   txt02: Mimizan et Porge
