@@ -89,6 +89,5 @@ s06:
   achieve04:
     title: Ouvert
     content: D'Avril à Octobre 8h-18h
-published: false
 
 ---
