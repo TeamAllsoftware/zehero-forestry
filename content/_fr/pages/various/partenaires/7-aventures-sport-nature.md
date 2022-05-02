@@ -15,7 +15,7 @@ meta-description: 7 aventures vous propose, tout prêt de Thonon les Bains des a
   également pour des descentes en canyoning.
 permalink: "/fr/ete/partenaires/7-aventures"
 s01:
-  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649084755/website/Partenaires/1638783649-DSC_0689.jpg
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651484177/website/Partenaires/2_fr.jpg
   firstname: 7 Aventures
   lastname: Sport & Nature
   coachbaseline: Activité d'eau vives à Thonon les Bains
