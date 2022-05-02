@@ -8,7 +8,7 @@ s07:
   txt01: vous accompagne en eau vibes
   txt02: Plongez, tombez, descendez, ramez et pagayez
   href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-title: 7 Aventures, sport & nature
+title: 7Aventures, sport & nature
 meta-title: 7 Aventures, activités d'eau vives dans le 74
 meta-description: 7 aventures vous propose, tout prêt de Thonon les Bains des activités
   d'eau vives. Partez dans la Dranse en Rafting, en Canoë kayak, en Hydrospeed, mais
