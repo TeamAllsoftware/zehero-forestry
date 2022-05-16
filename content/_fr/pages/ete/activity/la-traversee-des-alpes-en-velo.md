@@ -168,7 +168,7 @@ page_sections:
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Réservez votre séjours vélo
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17211-traversee-des-alpes-en-velo-par-les-cols-mythiques-6-jours-activite-ze-hero
 
 ---
