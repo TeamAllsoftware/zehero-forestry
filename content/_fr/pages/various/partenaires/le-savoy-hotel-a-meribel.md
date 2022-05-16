@@ -2,7 +2,8 @@
 layout: layout_generic
 language: fr
 season: summer
-topnav_color_text: light
+type: generic
+topnav_color_text: dark
 title: 'Le Savoy, Hôtel **** à Méribel '
 permalink: "/fr/ete/partenaires/le-savoy-meribel"
 meta-title: Hôtel Le Savoy à Méribel, le plaisir authentique
@@ -15,13 +16,24 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 page_sections:
+- template: heroImageFull
+  top: oui
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068255/website/Hotel/Savoy%20Meribel/salle.jpg
+  gradient: grad
+  headline:
+    title: Hôtel Le Savoy - Méribel
+    color: white
+  Button1:
+    title: Réserver mon séjour vélo
+    link: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
+  button_2_more: false
 - template: textarea
   blockBGcolor: blanc
   title: Le Savoy, Hôtel 4 étoiles à Méribel
   content: |-
-    [Le Savoy](https://www.hotel-savoy-meribel.com/ete/) est un hôtel 4 étoiles situées au cœur de Méribel. Situé à " Méribel Centre ", au cœur de la station, des commerces et des départs des remontés mécaniques, vous bénéficierez d'une situation parfaite pour votre séjour.
+    [Le Savoy](https://www.hotel-savoy-meribel.com/ete/) est un hôtel 4 étoiles situé au cœur de Méribel. Implanté à " Méribel Centre ", au cœur de la station, des commerces et des départs des remontés mécaniques, vous bénéficierez d'une situation parfaite pour votre séjour.
 
-    Au pied des montagnes et du parc de la Vanoise, l'hôtel vous ouvre ses portes et vous permet de profiter d'un séjour nature. Partez de l'hôtel Le Savoy directement randonner, courir, découvrir les sentiers à VTT, partir grimper les cols à vélo. Pour des moments de calme et de sérénité, rejoignez le lac de Tueda au petit matin pour une séance de Yoga.
+    Au pied des montagnes et du parc de la Vanoise, l'hôtel vous ouvre ses portes et vous permet de profiter d'un séjour nature. De part sa situation idéale il vous sera facile de randonner, courir, découvrir les sentiers à VTT ou partir grimper les cols à vélo. Mais Le Savoy n'oublie pas les moments de calme et de sérénité et vous invite à rejoindre le lac de Tueda au petit matin pour une séance de Yoga.
 
     En famille, entre amis, en couple, Le Savoy vous accueille pour un moment chaleureux, de confort, de convivialité, chaleureux. Vous pourrez profiter de sa restauration et de sa terrasse face aux montagnes, de son lieu de bien-être, de sa bibliothèque et de son bar.
 - template: 2colimgtxt
@@ -32,7 +44,7 @@ page_sections:
   title: Chambres et suites
   content: Les chambres et les suites de l'hôtel le Savoy vous transporteront dans
     du coton et dans une bulle d'évasion. Face aux montagnes, elles vous permettront
-    de vous sentir dans un petit nid douillet en profitant d'une imprenable. Calme
+    de vous sentir dans un petit nid douillet en profitant d'une imprenable vue. Calme
     et volupté, dans des chambres authentiques vous permettant de profiter de détente
     sur le balcon ou la terrasse de votre chambre.
   button:
@@ -51,7 +63,7 @@ page_sections:
     * La Honey Suite
     * La Family Suite
 
-    Aux couleurs vives, dans un cadre féerique, ces différentes chambres vont de 18m² à 55m². Modernes et fonctionnelles, elles vous permettront d'être en immersion totale. Ressourcez-vous dans votre chambre après vos activités, vos balades pour un moment de confort et de bien-être.
+    Aux couleurs vives, dans un cadre féerique, ces différentes chambres vont de 18m² à 55m². Modernes et fonctionnelles, elles vous permettront d'être en immersion totale. Ressourcez-vous dans votre chambre après vos activités et vos balades pour un moment de confort et de bien-être.
   title: ''
 - template: heroImageFull
   top: non
@@ -75,7 +87,7 @@ page_sections:
   title: La restauration
   content: Séjournez à l’hôtel Le Savoy, c’est profiter d’une salle de restauration
     élégante au charme montagnard. Pour des moments de partage et de convivialité
-    autour de grandes tables ou plus intimistes, découvrez une carte surprenante qui
+    autour de grandes tables, ou de manière plus intimiste, découvrez une carte surprenante qui
     éveillera toutes vos papilles. Des plats délicieux et variés, laissez-vous tenter
     par des saveurs uniques et une cuisine bistronomique.
   button:
@@ -85,11 +97,11 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   content: |-
-    Vous pourrez profiter de sa grande terrasse afin de déjeuner au soleil, face aux montagnes en écoutant les oiseaux chanter et les sons de la nature. Savourez un petit-déjeuner, un goûter ou même seulement une boisson chaude ou fraîche sur la terrasse baignée par le soleil et le calme.
+    Vous pourrez profiter de sa grande terrasse afin de déjeuner au soleil face aux montagnes en écoutant les oiseaux chanter et les sons de la nature. Savourez un petit-déjeuner, un goûter ou même seulement une boisson chaude, ou fraîche, sur la terrasse baignée par le soleil et le calme.
 
-    Vous pourrez vous désaltérer au Bar du Savoy. Un lieu coloré où règne une ambiance chaleureuse et conviviale au sein de l'hôtel et de Méribel. Découvrez une carte surprenante où les barmans exercent l'art du cocktail. Laissez-vous surprendre par leur talent et leur création. Vous pourrez déguster directement sur place des tapas et des planches à partager.
+    Désaltérerez-vous au Bar du Savoy, un lieu coloré où règne une ambiance chaleureuse et conviviale. Découvrez une carte surprenante pour laquelle les barmans exercent l'art du cocktail. Laissez-vous surprendre par leurs talents et leur créativité. Vous pourrez déguster directement sur place des tapas et des planches à partager.
 
-    Lors des fins de journées après vos activités en montagne, profitez du High Time. Un goûter gourmand et savoureux, salé et sucré afin de profiter d'une délicieuse récompense après l'effort.
+    En fin de journée, après vos activités en montagne, profitez du High Time, un goûter gourmand et savoureux, salé et sucré afin de profiter d'une délicieuse récompense après l'effort.
   title: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
@@ -98,9 +110,9 @@ page_sections:
   captiontitleuppercase: Moment de détente
   title: Les espaces bien-être
   content: |-
-    Séjourner à l'hôtel Le Savoy à Méribel, c'est profiter des plusieurs espaces de bien-être.
+    Séjourner à l'hôtel Le Savoy à Méribel, c'est profiter de plusieurs espaces de bien-être.
 
-    Détendez-vous dans un fauteuil avec livre au sein de la bibliothèque de l'hôtel, faites une partie de jeux de société entre amis, ou buvez un thé devant la belle cheminée. Un moment de plaisir et de calme après vos journées d'activités et de découverte dans les montagnes de Méribel.
+    La bibliothèque de l'hôtel vous accueille pour un moment calme de lecture, pour une partie de jeux de société entre amis, ou pour un instant de plénitude un thé à la main devant la belle cheminée.
   button:
     text_button: ''
     href_button: ''
@@ -108,9 +120,9 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   content: Le Spa sera le lieu parfait pour un vrai moment de relaxation et de détente.
-    En accès libre à toutes les personnes de l'hôtel, relaxez-vous dans le sauna finlandais
-    et son hammam pour vous revitaliser. Vous pourrez également profiter de vous faire
-    masser et détendre vos muscles.
+    En accès libre à toutes les clients de l'hôtel, relaxez-vous dans le sauna finlandais
+    et éliminez les toxines dans son hammam, la recette idéale pour vous revitaliser. Sans oublier de vous faire
+    masser pour détendre vos muscles et repartir du bon bien le lendemain.
   title: ''
 - template: ctaShop4col
   blockBGcolor: blanc
@@ -139,21 +151,29 @@ page_sections:
   alt_text_for_image: Cyclistes dans la montée de Méribel
   captiontitleuppercase: Le Savoy, pour des séjours sportifs
   title: Séjours vélo au Savoy
-  content: "Avec Ze Hero, nous avons mis en place différents séjours à vélo en partenariat
+  content: |-
+    Avec Ze Hero, nous avons mis en place différents séjours à vélo en partenariat
     avec l’hôtel Le Savoy à Méribel. Vous retrouverez différentes possibilités d’itinérance
-    à vélo.\n\nTout d'abord, nous avons mis en place un séjour de 7 jours de vélo
+    à vélo.
+    
+    Tout d'abord, nous avons mis en place un séjour de 7 jours de vélo
     de route à Méribel. Un séjour sportif avec 7 journées à vélo avec Col de la Loze,
     Col de la Madeleine, Col du petit Saint Bernard, Cormet de Roseland, tour du Lac
-    d'Annecy. Vous logerez au sein de l'hôtel Le Savoy à Méribel et de vous détendre
+    d'Annecy. Vous logerez au sein de l'hôtel Le Savoy à Méribel et pourrez vous détendre
     après vos journées à vélo. Nous proposons des offres en chambre double ou en chambre
-    simple.  \nDécouvrez le séjour en détail : [**Séjours vélo de route - Méribel
-    -Le Savoy**](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)\n\nNous
-    proposons ensuite deux séjours vélo avec la traversée des Préalpes et la traversé
+    simple. 
+    
+    Découvrez le séjour en détail : [**Séjours vélo de route - Méribel
+    -Le Savoy**](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)
+    
+    Nous proposons ensuite deux séjours vélo avec la traversée des Préalpes et la traversée
     des Alpes. Ces deux itinérances à vélo comportent deux nuits à l'hôtel Le Savoy.
-    Vous débuterez alors par deux journées de mise en jambes à Méribel.  \nDécouvrez
-    [**la traversée des Préalpes en détail**](https://www.ze-hero.com/fr/ete/activites/traversee-des-pre-alpes-en-velo)
-    !  \nDécouvrez [**la traversée des Alpes en détail**](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)
-    !"
+    Vous débuterez alors par deux journées de mise en jambes à Méribel.  
+    
+    Découvrez [**la traversée des Préalpes en détail**](https://www.ze-hero.com/fr/ete/activites/traversee-des-pre-alpes-en-velo)
+    !  
+    Découvrez [**la traversée des Alpes en détail**](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)
+    !
   button:
     text_button: Réservez votre séjour vélo à Méribel au sein de l'hôtel Le Savoy
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
