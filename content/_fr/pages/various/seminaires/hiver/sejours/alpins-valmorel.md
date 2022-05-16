@@ -6,7 +6,7 @@ type: B2B
 menu: seminaire
 topnav_color_text: 
 title: Valmorel, ski nature
-permalink: "/fr/seminaires-hiver/idee-sejour-val-thorens"
+permalink: "/fr/seminaires-hiver/idee-sejour-valmorel"
 meta-title: Valmorel, ski nature au "Grand Domaine"
 meta-description: Les Jeux Olympiques d'hiver de votre entreprise lors d'une journée challenge  des neiges
 image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Sourire-neige_jdsltw.jpg

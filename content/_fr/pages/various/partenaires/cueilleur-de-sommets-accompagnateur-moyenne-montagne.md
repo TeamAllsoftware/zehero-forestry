@@ -2,6 +2,7 @@
 layout: layout_coach
 language: fr
 season: summer
+type: generic
 topnav_color_text: dark
 s07:
   txt_button: Réserver un cours
