@@ -5,7 +5,7 @@ season: winter
 type: B2B
 menu: seminaire
 topnav_color_text: 
-title: Val Thorens, plus haut village d'Europe !
+title: Val Thorens
 permalink: "/fr/seminaires-hiver/idee-sejour-val-thorens"
 meta-title: Séjour à Val Thorens, plus haut village d'Europe !
 meta-description: Les Jeux Olympiques d'hiver de votre entreprise lors d'une journée challenge  des neiges
