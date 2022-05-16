@@ -98,12 +98,12 @@ menu:
   image-alt: Une femme grimpe une voie d'escalade indoor
   image-link: "#"
   column-01:
-  - nested: Les coachs
+  - nested: Les partenaires
     menu-items:
     - title: Yann Alarçon
-      href: "/fr/coachs/yann-alarcon"
+      href: "/fr/partenaires/yann-alarcon"
     - title: Nathan Alarçon
-      href: "/fr/coachs/nathan-alarcon"
+      href: "/fr/partenaires/nathan-alarcon"
   - nested: ZE-HERO
     menu-items:
     - title: Qui sommes-nous ?

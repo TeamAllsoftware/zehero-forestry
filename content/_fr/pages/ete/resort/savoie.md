@@ -4,7 +4,8 @@ language: fr
 season: summer
 type: generic
 meta-title: Activités outdoor en Savoie pour l'été
-meta-description: La Savoie est un département composée d'une chaine montagneuse incroyable ainsi que des lacs.
+meta-description: La Savoie est un département composée d'une chaine montagneuse incroyable
+  ainsi que des lacs.
 topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités et les différentes locations en Savoie
@@ -16,7 +17,7 @@ resort_naming: La Savoie
 title: La Savoie (73) et ses activités outdoor pour la saison d'été
 permalink: "/fr/ete/destinations/savoie"
 redirect_from:
-  - /fr/ete/destination/savoie
+- "/fr/ete/destination/savoie"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749757/website/summer/mercvrie-YlWgxkbP_pY-unsplash_yves5y.jpg
 image01_alt: Vue sur le lac du bourget
 button_to_link_to_ze_hero_shop:
@@ -38,6 +39,7 @@ page_sections:
     pays couvert de sapins. Le nom aurait ensuite dérivé en Sabaudia, Sabogla, Saboia,
     Savogia et enfin Savoie."
   title: La Savoie
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749751/website/summer/mac-bart-du-Jpr2srDU-unsplash_jbha8f.jpg
   captiontitleuppercase: Le paradis des montagnes
@@ -58,6 +60,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Explorez
   content: "Autre que la randonnée et le trail, en Savoie et dans les stations, on
@@ -72,6 +75,7 @@ page_sections:
     et les sommets en étant au-dessus d'elles. Partez voler en parapente en vivant
     une expérience incroyable avec des vues sur tous les sommets, les couleurs de
     l'été."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749756/website/summer/julien-ponge-YIFpb6tqJEU-unsplash_y4kf8y.jpg
   captiontitleuppercase: Un séjour sportif, de détente et de découverte
@@ -88,6 +92,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: A l'assaut des cols
   content: La Savoie c'est également une terre où le vélo de route en est une pratique
@@ -95,6 +100,7 @@ page_sections:
     la Loze, de l'Iseran, le Galibier, le Mont Cenis, le Petit St Bénard, de la Croix
     de fer et bien d'autre. Pour les amateurs de vélo, c'est le paradis pour réaliser
     vos plus belles ascensions aux sommets des cols pour une vues à couper le souffle.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749762/website/summer/baptiste-QPQT273rFco-unsplash_lrylqm.jpg
   captiontitleuppercase: Trouvez votre bonheur
@@ -109,6 +115,8 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 baseline: Montagnes et charme
+code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 
 ---

@@ -86,6 +86,6 @@ page_sections:
 
     Séjournez à Porge, c’est profiter d’une petite ville du Médoc, c’est se laisser pénétrer par le bien-être d’une nature préservé entre océan et pins. C’est partir surfer avec Sama Sama Surf school, c’est louer un vélo et randonner dans les zones naturelles. À quelques kilomètres de Bordeau, profitez de vous détendre à Porge, ce petit havre de paix.
   title: ''
-code_postal: ''
+code_postal: 33,Gironde,Nouvelle-Aquitaine
 
 ---

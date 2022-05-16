@@ -18,7 +18,7 @@ resort_nameid: les_landes
 resort_naming: Les Landes
 permalink: "/fr/ete/destinations/les-landes"
 redirect_from:
-  - /fr/ete/destination/les-landes
+- "/fr/ete/destination/les-landes"
 meta-title: Vivez vos activités outdoor dans les Landes avec Ze Hero
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646379271/website/resorts/Les%20landes/jeffrey-brandjes-v4E9ObZ8Bno-unsplash_ffowmr.jpg
 image01_alt: Deux skateurs ridant dans un skatepark dans les Landes
@@ -38,6 +38,7 @@ page_sections:
     lieu d'exception.  \nPartez surfer sur les plages mythiques de Seignosse, Mimizan,
     Capbreton, Hossegor, Messanges, Biscarosse. C'est également une terre de thermalisme
     reconnu avec Dax."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646379173/website/resorts/Les%20landes/joackim-weiler-SCenXOv4CTI-unsplash_pkbr0f.jpg
   alt_text_for_image: 'Surfeur avançant dans l''eau avec sa planche de surf devant
@@ -54,6 +55,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Peut importe votre niveau, si vous désirez surfer cet été, les Landes sera la destination incontournable pour pratiquer cette discipline. La culture du surf y est très forte et vous plongerez dans une ambiance conviviale. Vous trouverez énormément d'écoles de surfs présentent directement sur les spots des plages. Certaines écoles se trouveront plutôt en ville. Vous pourrez également louer directement votre planche de surf, que ce soit pour la journée ou pour plusieurs jours. La location de surf est parfaite si vous n'avez pas de planche, si vous désirez changer de spot sans transporter votre planche de surf. Vous pourrez louer votre surf quels que soit votre niveau et votre préférence de style. Le nombre d'écoles de surf dans les Landes est de quasiment 100, qui sont éparpillés tout le long de la côte.
@@ -64,6 +66,7 @@ page_sections:
 
     Vous pourrez également pratiquer le stand-up paddle, le kitesurf. Les Landes regroupent également de magnifiques lacs et rivières où vous pourrez pratiquer le canoë kayak.
   title: ''
+  blockBGcolor: ''
 - template: 2coltxtimg
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646379298/website/resorts/Les%20landes/joackim-weiler-Fgu1YhXEY-E-unsplash_xyn9dj.jpg
   alt_text_for_image: Route dans les landes avec des pins
@@ -83,11 +86,14 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Un séjour bien-être
   content: Les Landes c'est profiter d'une gastronomie locale, des fêtes landaises,
     d'activités outdoor diverses dans un cadre et une ambiance variées. Partez vivre
     des émotions fortes sur la côte atlantique entre océan et pins, surf et vélo,
     sport et détente.
+  blockBGcolor: ''
+code_postal: 40,Landes,Nouvelle-Aquitaine
 
 ---

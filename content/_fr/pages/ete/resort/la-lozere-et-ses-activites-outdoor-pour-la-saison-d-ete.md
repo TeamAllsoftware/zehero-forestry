@@ -2,8 +2,7 @@
 layout: layout_resort
 language: fr
 season: summer
-type: generic
-code_postal: ''
+code_postal: 48,Lozère,Occitanie
 meta-description: La Lozère est un département peu connu pourtant elle est composé
   de nombreux sites naturels d'exception. Entre le Parc des Cévennes, de l'Aubrac,
   les gorges du Tarn et ses différents petits sommets, le Lozère est un terre nature
@@ -47,14 +46,28 @@ page_sections:
   alt_text_for_image: Coureur sur les sentiers en Lozère
   captiontitleuppercase: Lozère, grands espaces
   title: Destination outdoor
-  content: |-
-    La Lozère est une destination parfaite pour toutes les activité outdoor. Entre ses parcs, ses sites naturels, ses rivières et ses lacs, vous trouverez un choix varié de terrain de jeux et de découverte pour toutes vos activités outdoor.
-
-    La Lozère c’est bien sûr de la randonnée pour tous les amoureux de la marche et des longues balades. Que ce soit en famille, en couple, entre amis ou seul, petites ou longues randonnées s’offrent à vous. Une grande diversité de chemin et de parcours afin de permettre à tous les niveaux de randonneurs de parcours ces chemins. Les différents parcs et sites naturels de la Lozère en font un terrain incroyable pour la marche. Vous y trouverez des GR connus tel que le GR700, le GR670, le GR68, le GR6 et le GR65 avec le chemin de St Jacque de Compostelle. À la journée ou en itinérance, laissez-vous porter en Lozère par un guide. Il vous expliquera sa faune, sa flore, ses roches, ses plateaux mais également son terroir et son histoire. Contempler le paysage c’est merveilleux, le comprendre et le connaître plus profondément c’est encore mieux.
+  content: "La Lozère est une destination parfaite pour toutes les activité outdoor.
+    Entre ses parcs, ses sites naturels, ses rivières et ses lacs, vous trouverez
+    un choix varié de terrain de jeux et de découverte pour toutes vos activités outdoor.\n\nLa
+    Lozère c’est bien sûr de la randonnée pour tous les amoureux de la marche et des
+    longues balades. Que ce soit en famille, en couple, entre amis ou seul, petites
+    ou longues randonnées s’offrent à vous. Une grande diversité de chemin et de parcours
+    afin de permettre à tous les niveaux de randonneurs de parcours ces chemins. Les
+    différents parcs et sites naturels de la Lozère en font un terrain incroyable
+    pour la marche. "
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: Vous y trouverez des GR connus tel que le GR700, le GR670, le GR68, le
+    GR6 et le GR65 avec le chemin de St Jacque de Compostelle. À la journée ou en
+    itinérance, laissez-vous porter en Lozère par un guide. Il vous expliquera sa
+    faune, sa flore, ses roches, ses plateaux mais également son terroir et son histoire.
+    Contempler le paysage c’est merveilleux, le comprendre et le connaître plus profondément
+    c’est encore mieux.
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   content: |-
@@ -78,12 +91,16 @@ page_sections:
     La Lozère c'est différentes activités qui se passent dans l'eau. Avec ses différentes rivières ainsi que ses lacs, le choix des activités d'eau vives est alors large et il y en a pour tous les goûts.
 
     Pour un moment de partage, de folie et de sensation forte, embarquez en Rafting et descendez les gorges du Tarn. Plusieurs bases de rafting entre Ste Enimie, le Rozier, Naussac vont vous permettre de vivre un moment de sensation forte et de découverte. Pour ceux qui préfèrent être en contact direct avec l'eau, vous trouverez dans ces différentes bases, la possibilité de vous essayer à l'hydrospeed. Une activité idéale pour se rafraîchir, découvrir le paysage et s'amuser.
-
-    Vous pourrez également pratiquer le canoë-kayak et descendre les différentes rivières ainsi que les multiples rapides. À deux ou tout seul, vivez un moment ludique.
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: Vous pourrez également pratiquer le canoë-kayak et descendre les différentes
+    rivières ainsi que les multiples rapides. À deux ou tout seul, vivez un moment
+    ludique.
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   content: |-
@@ -93,5 +110,6 @@ page_sections:
 
     La Lozère est préservée et protégé, peu peuplé, elle offre une infinité de choix d'activité outdoor variée et unique. Ces grands espaces, son histoire, sa beauté en fait un département où votre séjour vous fera vibrer de sensations et d'émotions. Une terre d'une nature exceptionnelle pour le plaisir de tous.
   title: ''
+type: generic
 
 ---

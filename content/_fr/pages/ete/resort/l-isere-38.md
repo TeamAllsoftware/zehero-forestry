@@ -4,7 +4,8 @@ language: fr
 season: summer
 type: generic
 meta-title: Activités outdoor en Isère (38) pour l'été
-meta-description: L'Isère est un département qui regorge d'activité outdoor. Entouré par 4 massifs très montagneux et sauvages profiter d'air pur et de moment unique.
+meta-description: L'Isère est un département qui regorge d'activité outdoor. Entouré
+  par 4 massifs très montagneux et sauvages profiter d'air pur et de moment unique.
 topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités et les différentes locations en Isère
@@ -16,7 +17,7 @@ resort_naming: L'Isère
 title: L'Isère (38) et ses activités outdoor pour la saison d'été
 permalink: "/fr/ete/destinations/isere"
 redirect_from:
-  - /fr/ete/destination/isere
+- "/fr/ete/destination/isere"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643020863/website/summer/tristan-boucher-vAYnXGhpI54-unsplash_pw94ay.jpg
 image01_alt: Une très belle vue d'un décor de montagne en Isère et dans le massif
   de la Chartreuse
@@ -35,6 +36,7 @@ page_sections:
     avec de nombreux site historique. Séjournez en Isère, c'est profiter que vous
     soyez entre amis, en famille ou même seul, de découvrir un nature incroyable,
     d'expérience unique et de réaliser de multiples activités.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643020862/website/summer/thomas-marchand-QrvWVfYhsCk-unsplash_oceuju.jpg
   captiontitleuppercase: Des parc et réserves naturelles
@@ -53,6 +55,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Lac très bleu avec des montagnes derrière en Isère
+  blockBGcolor: ''
 - template: textarea
   content: |-
     L'Isère est composée de nombreuses stations réputées comme Les 2 Alpes, l'Alpe Huez, l'Oisans, les 7 Laux, Chamrousse, Villard de Lans, le Collet d'Allevard et bien d'autre encore. Vous pourrez bénéficier des diverses infrastructures et activités quelles proposent. Autre que la randonnée, vous pourrez pratiquer également le trail-running. Certaines stations mettent à disposition des parcours balisés ou à télécharger sur votre montre GPS.
@@ -61,6 +64,7 @@ page_sections:
 
     Mais c'est également une pratique de VTT incontesté dans les différentes stations et dans les différents massifs de l'Isère. Des parcours et des itinéraires raviront tout le monde, les débutants comme les confirmés comme ceux qui souhaitent faire uniquement de la descente ou de longue randonnée.
   title: ''
+  blockBGcolor: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643020862/website/summer/thomas-marchand-QrvWVfYhsCk-unsplash_oceuju.jpg
   captionabovetitle: S'évader et respirer
@@ -82,5 +86,6 @@ page_sections:
   grid_2_alt_text_for_image: Paysage de montagne avec un petit étang et des sapins
     en automne
 baseline: 4 massifs
+code_postal: 38,Isère,Auvergne-Rhône-Alpes
 
 ---

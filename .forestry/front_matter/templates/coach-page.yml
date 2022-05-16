@@ -424,5 +424,6 @@ fields:
     label: Link URL to the store
   label: Section 7 - book a coach
 pages:
-- content/_fr/pages/various/coach/nathan-alarcon.md
-- content/_fr/pages/various/coach/yann-alarcon.md
+- content/_fr/pages/various/partenaires/7-aventures-sport-nature.md
+- content/_fr/pages/various/partenaires/morgan-d-avezac-entraineur-de-surf.md
+- content/_fr/pages/various/partenaires/sama-sama-surf-school.md

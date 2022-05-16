@@ -4,7 +4,8 @@ language: fr
 season: summer
 type: generic
 meta-title: Activités outdoor aux Ménuires pour l'été
-meta-description: "Trouvez votre activité outdoor dans le village des Menuires en Savoie, profitez d'une station haute en altitude et de ses activités montagne."
+meta-description: Trouvez votre activité outdoor dans le village des Menuires en Savoie,
+  profitez d'une station haute en altitude et de ses activités montagne.
 topnav_color_text: light
 introduction:
   you_arrive: Vous arrivez aux Menuires et vous souhaitez louer du matériel ou trouver
@@ -18,7 +19,7 @@ resort_nameid: les_menuires
 resort_naming: Les Menuires
 permalink: "/fr/ete/destinations/les-menuires"
 redirect_from:
-  - /fr/ete/destination/les-menuires
+- "/fr/ete/destination/les-menuires"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644398781/website/resorts/les%20menuires/Myrtilliers_et_vue_sur_station-Vincent_LOTTENBERG-30356-1600px_bbaihi.jpg
 image01_alt: Vue de la station des Menuires avec les montagnes et des fleurs de montage
   devant
@@ -36,6 +37,7 @@ page_sections:
     aux Menuires, c'est s'évader et partager des émotions fortes, c'est profiter d'un
     panel d'activité pour tous.
   title: Les Menuires
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644398781/website/resorts/les%20menuires/Rando_amis-Clement_DUCRUET-32310-1600px_u0jsfx.jpg
   alt_text_for_image: Vue de deux vaches sur un sentier de montagne à Les Menuires
@@ -61,6 +63,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: |-
     Le VTT est une activité phare aux Menuires. En effet, vous trouverez des pistes parfaites de descente pour tous les niveaux. Dans la vallée des Bellevilles s'est 321km de sentiers de VTT. Vous aurez le choix d'aller plus loin, plus haut, plus vite, de prendre des sentiers et pistes plus techniques. Découvrez les 3 vallées également d'une nouvelle façon : en VTT ou en Vélo électrique. Que ce soit en enduro, en DH, en cross country, les Menuires est un paradis pour la pratique du VTT.
@@ -71,6 +74,7 @@ page_sections:
 
     Détendez vous, respirez l'air pur de la montagne en pratiquant le Yoga. Quoi de mieux que de s'étirer, de contrôler sa respiration et de vider sa tête en méditant devant les montagnes et dans la nature.
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644398781/website/resorts/les%20menuires/Rando_au_col_de__Pierre_Blanche-Vincent_LOTTENBERG-28663-1600px_p9phlq.jpg
   alt_text_for_image: Un randonneur marchant sur un sentier à coté d'un lac à Les
@@ -87,5 +91,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
+code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 
 ---

@@ -29,6 +29,7 @@ page_sections:
     Moliets et Maâ est un petit village typique landais situé tout prêt de l'océan. Un petit coin naturel qui bénéficie d'une nature idéal pour séjourner et profiter de la côte Atlantique. Sa réserve naturelle du courant d'Huchet lui donne le nom de l'Amazonie landaise. Découvrez alors une faune et une flore d'exception au sein de cet environnement préservé.
 
     Entre l'océan et ses longues plages de sable, ses forêts de pin de maritimes et ses étangs, la nature saura vous émerveiller à Moliet et Maâ.
+  blockBGcolor: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647249570/website/resorts/Moliets/tim-hufner-LFC4iSvhHNQ-unsplash_1.jpg
@@ -75,5 +76,7 @@ page_sections:
     Séjourner à Moliets et Maâ, c'est profiter d'un séjour qui vous fera du bien. Dans un cadre idyllique, une nature d'exception, vous profiterez pleinement du calme, du bruit de l'océan et de l'odeur de spins maritimes.
 
     Partez surfer le matin puis louer un VTT et rouler dans les parcs naturels à travers les fougères à Moliets et Maâ.
+  blockBGcolor: ''
+code_postal: 40,Landes,Nouvelle-Aquitaine
 
 ---

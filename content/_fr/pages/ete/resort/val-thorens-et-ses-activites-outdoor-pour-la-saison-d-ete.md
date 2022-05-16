@@ -4,7 +4,8 @@ language: fr
 season: summer
 type: generic
 meta-title: Activités outdoor à Val-Thorens pour l'été
-meta-description: Trouvez votre activité outdoor dans la station de Val thorens en Savoie, profitez d'une station haute en altitude et de ses activités montagne.
+meta-description: Trouvez votre activité outdoor dans la station de Val thorens en
+  Savoie, profitez d'une station haute en altitude et de ses activités montagne.
 topnav_color_text: light
 introduction:
   you_arrive: Vous arrivez à Val Thorens et vous souhaitez louer du matériel ou trouver
@@ -18,7 +19,7 @@ resort_nameid: val_thorens
 resort_naming: Val Thorens
 permalink: "/fr/ete/destinations/val-thorens"
 redirect_from:
-  - /fr/ete/destination/val-thorens
+- "/fr/ete/destination/val-thorens"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644397253/website/resorts/val-thorens/Screenshot_3_fdlwmp.jpg
 image01_alt: Vue de la station et des montagnes de Val Thorens avec le Mont Blanc
   derrière
@@ -39,6 +40,7 @@ page_sections:
     ses nombreuses infrastructures et ses activités pour tous.  \nÀ 2300 m d'altitude,
     le soleil brillera et vous offrira des couchers de soleil comme vous l'aurez rarement
     vu en montagne."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644397253/website/resorts/val-thorens/Screenshot_2_qlusnd.jpg
   alt_text_for_image: Vue de la station de Val Thorens avec des fleurs en avant plan
@@ -60,6 +62,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Roulez, grimpez et découvrez
   content: |-
@@ -68,6 +71,7 @@ page_sections:
     Val Thorens c'est également de l'escalade. Encadré par des guides, vous pourrez découvrir les différentes voies de la vallée. C'est aussi l'occasion de parcourir la via ferrata du Lavassay et la Via Ferrata du Cochet.
 
     Val Thorens, Les Menuires et St Martin de Belleville sont des stations incontournables pour la pratique du VTT. Ce sont des pistes pour tous les niveaux et 120 km de piste de randonnées avec 21 itinéraires. Vous trouverez des pistes de DH, d'enduro, et de cross country, des parcs. Un paradis pour tous les amateurs de VTT. Si vous aimez aussi le vélo de route, vous pourrez trouver de nombreux parcours idéaux pour grimper et découvrir les routes de Savoie et dans les alentours de Val Thorens.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644397448/website/resorts/val-thorens/VTT_Crosscountry-Jeremy_BERNARD-29020-1600px_ovqeki.jpg
   alt_text_for_image: Des VTTistes qui descendes des chemins en VTT à Val Thorens
@@ -85,11 +89,14 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Les locations à Val Thorens
   content: "Vous pourrez trouver tout le matériel pour vos activité outdoor au sein
     des shops. En effet, vous trouverez la location de VTT et de Vélo de route à Val
     Thorens. \n\nPlusieurs magasin pourront vous permettre de louer le matériel d'escalade,
     de via ferrata, de canyoning afin de profiter pleinement des activités proposées. "
+  blockBGcolor: ''
+code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 
 ---

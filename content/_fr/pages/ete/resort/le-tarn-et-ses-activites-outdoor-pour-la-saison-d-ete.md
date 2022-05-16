@@ -80,6 +80,6 @@ page_sections:
     son patrimoine riche et agréable. Dans des lieux de bien-être, il sera alors agréable
     de profiter d'une journée de randonner à pied ou à VTT, de descendre le long du
     Tarn en Kayak.
-code_postal: ''
+code_postal: 81,Tarn,Occitanie
 
 ---

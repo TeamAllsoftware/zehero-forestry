@@ -4,7 +4,8 @@ language: fr
 season: summer
 type: generic
 meta-title: Activités outdoor à l'Alpe d'Huez pour l'été
-meta-description: Découvrez toutes les activités outdoors dans la station de l'Alpe d'Huez ainsi que les différents locations de matériels.
+meta-description: Découvrez toutes les activités outdoors dans la station de l'Alpe
+  d'Huez ainsi que les différents locations de matériels.
 topnav_color_text: light
 introduction:
   you_arrive: 'Vous arrivez à l''Alpe d''Huez et souhaitez trouver une activité ou
@@ -21,8 +22,8 @@ departement: Isère
 codepostal: 38
 permalink: "/fr/ete/destinations/alpe-huez"
 redirect_from:
-  - /fr/ete/destination/alpe-huez
-  - /fr/ete/destinations/alpe-d-huez
+- "/fr/ete/destination/alpe-huez"
+- "/fr/ete/destinations/alpe-d-huez"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644227090/website/resorts/alpe%20d%27huez/aurele-mayol-kiW0s-RMIDk-unsplash_lzygte.jpg
 image01_alt: Vue des montagnes à l'Alpe d'Huez avec un lac et des randonneurs
 button_to_link_to_ze_hero_shop:
@@ -41,6 +42,7 @@ page_sections:
     montagne s'est profiter de la nature, de la découvrir, de s'en aller sur ses sommets.
     C'est partir à pied, en courant, en roulant, en grimpant, seul, entre amis ou
     en famille dans l'environnement incroyable de l'Alpe d'Huez."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644227091/website/resorts/alpe%20d%27huez/antoine-petitteville-Uw3Cq3s3efQ-unsplash_m0eol6.jpg
   alt_text_for_image: Vue des montagnes de l'Alpe d'Huez au couleurs d'automne avec
@@ -57,12 +59,14 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Les 21 virages légendaires
   content: |-
     Si vous aimez le vélo de route, l'Alpe d'Huez est une destination très connue du monde du cyclisme. La fameuse montée de l'Alpe d'Huez et ses 21 virages est une montée mythique. Vous trouverez un grand nombre de parcours de vélo de route à traverser l'Oisans et l'Isère.
 
     Pour les amoureux des sensations fortes et des balades en montagnes, l'Alpe d'Huez est une station incroyable pour la pratique du VTT. Elle offre de nombreuses pistes d'enduro, de x-countries pour les débutants et aussi pour les experts. Des espaces ludiques permettront aux débutants et aux enfants d'apprendre le VTT. Partez également profiter des sentiers en VTT électrique.
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644227091/website/resorts/alpe%20d%27huez/louis-derrac-2rUtBFrq-H0-unsplash_xrtuax.jpg
   alt_text_for_image: Vue de la montagne d'une pente herbeuse avec des fleurs de montagnes
@@ -80,11 +84,14 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   title: Réservez et louez
   content: "Vous trouverez donc toutes les activités outdoors à l'Alpe d'Huez. Vous
     pourrez partir en randonnée avec un accompagnateur de montagne, apprendre le VTT
     avec un moniteur. \n\nVous trouverez aussi tout le matériel nécessaire directement
     sur place avec des shops de locations de vélo de route et de VTT à l'Alpe d'Huez."
+  blockBGcolor: ''
+code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 
 ---
