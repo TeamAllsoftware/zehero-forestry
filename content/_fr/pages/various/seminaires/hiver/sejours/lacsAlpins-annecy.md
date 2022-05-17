@@ -5,22 +5,22 @@ season: winter
 type: B2B
 menu: seminaire
 topnav_color_text: 
-title: Nature et Bien-être à Aix-les-Bains
-permalink: "/fr/seminaires-hiver/idee-sejour-lac-alpin-aix-les-bains"
-meta-title: Séjour Nature et Bien-être à Aix-les-Bains
-meta-description: Destination "sport et santé", Aix-les-Bains offre en spectacle le plus grand lac naturel de France avec ses rives abruptes et sauvages à découvrir en croisière
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726987/website/resorts/Aix-les-bains/mercvrie-YlWgxkbP_pY-unsplash.jpg
-image_alt: Vue aérienne sur le magnifique lac du Bourget à Aix-Les-Bains
+title: Grand lac alpin d'Annecy
+permalink: "/fr/seminaires-hiver/idee-sejour-lac-alpin-annecy"
+meta-title: Séjour grand lac alpin d'Annecy
+meta-description: Perle des Alpes au charme irrésistible avec la vieille ville et son château
+image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726847/website/resorts/Annecy/adora-goodenough-idVr61-b7qM-unsplash.jpg
+image_alt: Vue sur le plus beau lac d'Europe à Annecy
 redirection_from:
-price: 319
-headline: Destination "sport et santé", Aix-les-Bains offre en spectacle le plus grand lac naturel de France avec ses rives abruptes et sauvages à découvrir en croisière
+price: 379
+headline: Perle des Alpes au charme irrésistible avec la vieille ville et son château, son lac réputé pour la qualité de ses eaux... Annecy invite aussi à la contemplation depuis le Semnoz culminant à 1 700 m. au dessus du lac
 page_sections:
 - template: 2colTitreTxt
-  title: Séjour Nature et Bien-être à Aix-les-Bains
+  title: Séjour grand lac alpin d'Annecy
   content: |-
-    Destination "sport et santé", Aix-les-Bains offre en spectacle le plus grand lac naturel de France avec ses rives abruptes et sauvages à découvrir en croisière et une vue exceptionnelle sur la combe de Chambéry à Annecy, depuis l'immense domaine nordique de Savoie- Grand-Revard qui surplombe le lac à 1 530 m. !
+    Perle des Alpes au charme irrésistible avec la vieille ville et son château, son lac réputé pour la qualité de ses eaux... Annecy invite aussi à la contemplation depuis le Semnoz culminant à 1 700 m. au dessus du lac qui offre une vue imprenable sur les massifs environnants Tournette (2 351 m.), Aravis et Mont Blanc.
 - template: 4col2imgTxtImg
-  title: A partir de <br> 319€ / pers.
+  title: A partir de <br> 379€ / pers.
   baseline: "Ce prix comprend l'hébergement en chambre double, la pension complète, les prestations séminaire avec pause, vidéoprojecteur et location de salle, la taxe de séjour."
   button_more: True
   button:
@@ -28,13 +28,13 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726987/website/resorts/Aix-les-bains/mercvrie-YlWgxkbP_pY-unsplash.jpg
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726847/website/resorts/Annecy/adora-goodenough-idVr61-b7qM-unsplash.jpg
     alt_href:
   ImageMiddle:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726987/website/resorts/Aix-les-bains/mercvrie-YlWgxkbP_pY-unsplash.jpg
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726847/website/resorts/Annecy/adora-goodenough-idVr61-b7qM-unsplash.jpg
     alt_href:
   ImageRight:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726987/website/resorts/Aix-les-bains/mercvrie-YlWgxkbP_pY-unsplash.jpg
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726847/website/resorts/Annecy/adora-goodenough-idVr61-b7qM-unsplash.jpg
     alt_href:
 ---
 
@@ -75,7 +75,7 @@ page_sections:
                                     </a>                                    
                                 </div>
                                 <div id="accordion-style-4-1" class="panel-collapse " data-bs-parent="#accordion1">
-                                    <div class="panel-body-no-marg-fullwidth">La ville d'Aix-les-Bains' est située à une altitude de 300 mètres</div>
+                                    <div class="panel-body-no-marg-fullwidth">La ville d'Annecy est située à une altitude de 450 mètres</div>
                                 </div>
                             </div>
                             <!-- end accordion item -->
@@ -96,7 +96,7 @@ page_sections:
                                         </a>
                                     </div>
                                     <div id="accordion-style-4-1" class="panel-collapse " data-bs-parent="#accordion2">
-                                        <div class="panel-body-no-marg-fullwidth">"Savoie Grand Revard » 50 km de pistes de 1350 m. à 1550 m.</div>
+                                        <div class="panel-body-no-marg-fullwidth">"Le Semnoz" 20 km de pistes de 1450 m à 1704 m. situées aux portes d'Annecy</div>
                                     </div>
                                 </div>
                             <!-- end accordion item -->
@@ -140,13 +140,12 @@ page_sections:
                                   <div class="panel-body-marg-fullwidth">
                                     <ul class="list-style-01">
                                       <li><i class="fas fa-check mb-0"></i>8h : petit déjeuner</li>
-                                      <li><i class="fas fa-check mb-0"></i>9h : départ pour la Féclaz (station à 25 km)</li>
+                                      <li><i class="fas fa-check mb-0"></i>9h : départ pour le Semnoz (station à17 km)</li>
                                       <li><i class="fas fa-check mb-0"></i>10h : challenge luge- raquettes (en option)</li>
                                       <li><i class="fas fa-check mb-0"></i>12h30 : déjeuner en restaurant d'altitude</li>
                                       <li><i class="fas fa-check mb-0"></i>15h : retour à l'hôtel</li>
-                                      <li><i class="fas fa-check mb-0"></i>Accès libre au Spa de l'hôtel</li>
-                                      <li><i class="fas fa-check mb-0"></i>Programme spécifique aux thermes Marlioz ou Chevalley en option</li>
-                                      <li><i class="fas fa-check mb-0"></i>19h : dîner croisière sur le lac du Bourget</li>
+                                      <li><i class="fas fa-check mb-0"></i>18h : visite guidée de la vieille ville d'Annecy (en option)</li>
+                                      <li><i class="fas fa-check mb-0"></i>20h : dîner à Annecy</li>
                                     </ul>
                                   </div>
                               </div>
@@ -191,7 +190,7 @@ page_sections:
                                   </a>                                    
                               </div>
                               <div id="accordion-style-4-1" class="panel-collapse " data-bs-parent="#accordion1">
-                                  <div class="panel-body-no-marg-fullwidth">Le calme et tous les loisirs nautiques et de montagne réunis</div>
+                                  <div class="panel-body-no-marg-fullwidth">Les commodités d'une ville et les loisirs de la montagne</div>
                               </div>
                             </div>
                             <!-- end accordion item -->
@@ -212,7 +211,7 @@ page_sections:
                                   </a>                                    
                               </div>
                               <div id="accordion-style-4-1" class="panel-collapse " data-bs-parent="#accordion1">
-                                  <div class="panel-body-no-marg-fullwidth">De décembre à mars, destination possible en été !</div>
+                                  <div class="panel-body-no-marg-fullwidth">De janvier à mars, destination possible toute l'année !</div>
                               </div>
                             </div>
                             <!-- end accordion item -->
@@ -235,8 +234,8 @@ page_sections:
                               <div>
                                   <div class="panel-body-marg-fullwidth">
                                     <ul class="list-style-01">
-                                      <li><i class="fas fa-check mb-0"></i>TGV Aix les Bains (3h30)</li>
-                                      <li><i class="fas fa-check mb-0"></i>navette (4 km)</li>
+                                      <li><i class="fas fa-check mb-0"></i>TGV Annecy (3h30)</li>
+                                      <li><i class="fas fa-check mb-0"></i>navette (2 km)</li>
                                     </ul>
                                   </div>
                               </div>
