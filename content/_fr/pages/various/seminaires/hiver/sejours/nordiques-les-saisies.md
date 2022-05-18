@@ -9,8 +9,8 @@ title: Les Saisies, station Olympique
 permalink: "/fr/seminaires-hiver/idee-sejour-les-saisies"
 meta-title: Les Saisies, station Olympique
 meta-description: Surnommé le "Tyrol français", ce vaste plateau d'alpages situé entre Beaufortain et Val d'Arly offre une vue imprenable sur le Mont Blanc... Village réputé pour son domaine nordique (épreuves des JO de 1992), son domaine alpin demeure très vaste et très bien équipé, en témoigne son champion olympique Franck PICCARD médaillé à Calgary (1988) puis à Albertville (1992).
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978969/website/resorts/Les%20Saisies%20hauteluce/mr-xerty-yP__MNZqmqU-unsplash.jpg
-image_alt: Se faire tracter sur la neige, en ski, par un cheval, c'est le ski joëring ou skioring ou white turf
+image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714123/website/winter/IMG_3941.jpg
+image_alt: Un participant aux activités de séminaire d'entreprise
 redirection_from:
 price: 319
 headline: Surnommé le "Tyrol français", ce vaste plateau d'alpages situé entre Beaufortain et Val d'Arly offre une vue imprenable sur le Mont Blanc...
@@ -28,10 +28,10 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978969/website/resorts/Les%20Saisies%20hauteluce/mr-xerty-yP__MNZqmqU-unsplash.jpg
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651074003/website/Seminaires/hiver/jasmina-rojko-6dbxzjbUWUM-unsplash.jpg
     alt_href:
   ImageMiddle:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978969/website/resorts/Les%20Saisies%20hauteluce/mr-xerty-yP__MNZqmqU-unsplash.jpg
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651071398/website/winter/sandra-grunewald-iLh4RcF1VVQ-unsplash.jpg
     alt_href:
   ImageRight:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978969/website/resorts/Les%20Saisies%20hauteluce/mr-xerty-yP__MNZqmqU-unsplash.jpg

@@ -9,7 +9,7 @@ title: Evasion au Grand-Revard
 permalink: "/fr/seminaires-hiver/idee-sejour-evasion-grand-revard"
 meta-title: Evasion au Grand-Revard
 meta-description: Savoie Grand Revard, plus grand domaine de ski de fond de France offre ses forêts de sapins et champs de neige à perte de vue, sur un air de petit Canada à 1 300 m. d'altitude pour découvrir de nouvelles activités nature.
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978695/website/resorts/Grand%20Revard/nicolasintravel-YS0Gq8rHSxY-unsplash.jpg
+image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650990663/website/winter/white-turf-gd92ba2b4f_1920.jpg
 image_alt: Se faire tracter sur la neige, en ski, par un cheval, c'est le ski joëring ou skioring ou white turf
 redirection_from:
 price: 249
@@ -28,13 +28,13 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978695/website/resorts/Grand%20Revard/nicolasintravel-YS0Gq8rHSxY-unsplash.jpg
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650990663/website/winter/white-turf-gd92ba2b4f_1920.jpg
     alt_href:
   ImageMiddle:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978695/website/resorts/Grand%20Revard/nicolasintravel-YS0Gq8rHSxY-unsplash.jpg
     alt_href:
   ImageRight:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978695/website/resorts/Grand%20Revard/nicolasintravel-YS0Gq8rHSxY-unsplash.jpg
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883544/website/winter/Raquettes-vue-montagne_wb4lhz.jpg
     alt_href:
 ---
 
