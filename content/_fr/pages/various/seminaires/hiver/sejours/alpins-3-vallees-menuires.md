@@ -28,14 +28,14 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651074003/website/Seminaires/hiver/jasmina-rojko-6dbxzjbUWUM-unsplash.jpg
+    alt_href: Déjeuner ou dîner dans un chalet d'altitude sur les pistes
   ImageMiddle:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650891883/website/Seminaires/hiver/crystalweed-cannabis-730OPl8S9W4-unsplash.jpg
+    alt_href: Détente au spa en accès libre
   ImageRight:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714126/website/Seminaires/hiver/IMG_3915.jpg
+    alt_href: Animation et jeux d'équipe pour souder et créer de la cohésion d'équipe lors d'un séminaire de partenaires
 ---
 
 <!-- start section -->
@@ -239,26 +239,6 @@ page_sections:
                               </div>
                             </div>
                             <!-- end accordion item -->
-                          <!-- start accordion item -->
-                          <div class="panel border-color-black-transparent">
-                            <div class="panel-heading">
-                                <span class="panel-time">de Marseille</span>
-                                <span class="accordion-toggle">
-                                    <div class="panel-title">
-                                        <span class="text-extra-dark-gray d-inline-block font-weight-500 h4">Accès depuis Marseille</span>
-                                    </div>
-                                </span>
-                            </div>
-                            <div>
-                                <div class="panel-body-marg-fullwidth">
-                                  <ul class="list-style-01">
-                                    <li><i class="fas fa-check mb-0"></i>TGV Moutiers Salins (4h)</li>
-                                    <li><i class="fas fa-check mb-0"></i>navette (25 km)</li>
-                                  </ul>
-                                </div>
-                            </div>
-                          </div>
-                          <!-- end accordion item -->
                         </div>
                     </div>
                     <!-- end tab content -->

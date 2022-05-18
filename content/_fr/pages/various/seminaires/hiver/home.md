@@ -51,7 +51,7 @@ page_sections:
     <blockquote>Motivation, récompense, séminaire de travail, événement d'entreprise... ZE HERO Séminaires transformera vos besoins en un séjour réussi et des émotions partagées.</blockquote>
 - template: 2colimgtxt
   blockBGcolor: 
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/t_Hero_under_TopNav_Faces-autoCrop/v1638883535/website/winter/Telesiege-amis-groupe_owkpc2.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714126/website/Seminaires/hiver/IMG_3915.jpg
   alt_text_for_image: 
   captiontitleuppercase: Séjour de 3 à 4 jours
   title: Motivation et cohésion d'équipe
@@ -66,7 +66,7 @@ page_sections:
     alt_button: Faire établir un devis pour un séminaire de 3 à 4 jours
 - template: 2coltxtimg
   blockBGcolor: 
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492673/website/winter/robert-tjalondo-ckoFnqmaw-E-unsplash_xausol.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652880527/website/Seminaires/hiver/luge/c2.jpg
   alt_text_for_image: 
   captiontitleuppercase: Séjour de 2 jours minimum
   title: Récompense et fidélisation clients
@@ -100,7 +100,7 @@ page_sections:
     alt_button: Faire établir un devis pour un séminaire à la journée
 - template: heroImageFull
   top: non
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650891786/website/Seminaires/hiver/aaron-doucett-UIPmhgGK1BU-unsplash.jpg
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714160/website/Seminaires/hiver/IMG_3937.jpg
   image_alt: 
   gradient: non
   headline:

@@ -28,14 +28,14 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726847/website/resorts/Annecy/adora-goodenough-idVr61-b7qM-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726847/website/resorts/Annecy/mathias-reding-WOrvdzuPqDM-unsplash.jpg
+    alt_href: Visite de la vieille ville d'Annecy avec la prison au bord de la rivière
   ImageMiddle:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726847/website/resorts/Annecy/adora-goodenough-idVr61-b7qM-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652815862/website/Seminaires/hiver/IMG_4895.jpg
+    alt_href: Challenge luge ballon gonflable durant un séminaire d''entreprise
   ImageRight:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726847/website/resorts/Annecy/adora-goodenough-idVr61-b7qM-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652864943/website/resorts/Annecy/godefroy-boutet-luvEOizcdZo-unsplash.jpg
+    alt_href: En haut du Semnoz sur les hauteurs d'Annecy, lieu propice aux activités d'hiver 
 ---
 
 <!-- start section -->

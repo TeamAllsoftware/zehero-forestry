@@ -28,11 +28,11 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652727783/website/resorts/Monts-Jura/droneviews-fr-xYWvFa8ZLYE-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652815886/website/Seminaires/hiver/IMG_6704.jpg
+    alt_href: activité de luge-raquette lors d'un séminaire d'entreprise
   ImageMiddle:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652727783/website/resorts/Monts-Jura/droneviews-fr-xYWvFa8ZLYE-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652864614/website/resorts/Monts-Jura/Casino_Divonne-les-Bains_at_17_Januari_2016__with_all_Christmas_decorations_still_tthere_-_panoramio.jpg
+    alt_href: Entrée du casino et des thermes de Divonne Les Bains
   ImageRight:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652727783/website/resorts/Monts-Jura/droneviews-fr-xYWvFa8ZLYE-unsplash.jpg
     alt_href:
