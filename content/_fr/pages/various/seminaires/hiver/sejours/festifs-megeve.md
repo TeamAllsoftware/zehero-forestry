@@ -9,8 +9,8 @@ title: Charmante Megève
 permalink: "/fr/seminaires-hiver/idee-sejour-megeve"
 meta-title: Charmante Megève
 meta-description: Au coeur du Val d'Arly, Megève conjugue à la manière de Saint-Moritz en Suisse, art- de vivre et sports d'hiver… une destination charmante aux multiples facettes qui vous séduira par son architecture, sa gastronomie, son centre ville animé et ses pentes ensoleillées du Mont d'Arbois et de Rochebrune.
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652728140/website/resorts/Megeve/flavien-beauvais-_8h1SDRsmf0-unsplash.jpg
-image_alt: Vue d'un chalet sur Megève avec la vue sur les montagnes l'hiver
+image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652865885/website/resorts/Megeve/megeve.jpg
+image_alt: Charmant village de Mégève de nuit durant l'hiver
 redirection_from:
 price: 395
 headline: Au coeur du Val d'Arly, Megève conjugue à la manière de Saint-Moritz en Suisse, art- de vivre et sports d'hiver… une destination charmante aux multiples facettes qui vous séduira.
@@ -28,11 +28,11 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652728140/website/resorts/Megeve/flavien-beauvais-_8h1SDRsmf0-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652865240/website/Seminaires/hiver/kelli-mcclintock-PSFTxQ_iwRs-unsplash.jpg
+    alt_href: Accès à la patinoire pour une initiation au patinage
   ImageMiddle:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652728140/website/resorts/Megeve/flavien-beauvais-_8h1SDRsmf0-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652815939/website/Seminaires/hiver/IMG_4557.jpg
+    alt_href: Moment de partage autour d'un repas sur les pistes
   ImageRight:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652728140/website/resorts/Megeve/flavien-beauvais-_8h1SDRsmf0-unsplash.jpg
     alt_href:

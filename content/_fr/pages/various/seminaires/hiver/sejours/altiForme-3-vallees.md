@@ -28,14 +28,14 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652727970/website/resorts/meribel/maxence-pion-kG8sYayElYs-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650891883/website/Seminaires/hiver/crystalweed-cannabis-730OPl8S9W4-unsplash.jpg
+    alt_href: Détente au spa des 5 mondes, en accès libre
   ImageMiddle:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652727970/website/resorts/meribel/maxence-pion-kG8sYayElYs-unsplash.jpg
-    alt_href:
+    alt_href: Vue aérienne sur la station de Méribel sous la neige
   ImageRight:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652727970/website/resorts/meribel/maxence-pion-kG8sYayElYs-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
+    alt_href: Départ au ski par la télécabine de l'Olympe
 ---
 
 <!-- start section -->

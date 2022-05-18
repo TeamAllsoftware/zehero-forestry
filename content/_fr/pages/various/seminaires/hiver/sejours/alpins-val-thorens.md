@@ -28,14 +28,14 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640165708/website/resorts/val-thorens/Val-Thorens-ecole-de-ski_apwjr4.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652880526/website/Seminaires/hiver/luge/piste_de_luge_val_thorens_151368.jpg
+    alt_href: Descente en luge sur la plus longue piste de luge à Val-Thorens
   ImageMiddle:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640165708/website/resorts/val-thorens/Val-Thorens-ecole-de-ski_apwjr4.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651074003/website/Seminaires/hiver/jasmina-rojko-6dbxzjbUWUM-unsplash.jpg
+    alt_href: Déjeuner ou dîner dans un chalet d'altitude sur les pistes    
   ImageRight:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640165708/website/resorts/val-thorens/Val-Thorens-ecole-de-ski_apwjr4.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652815862/website/Seminaires/hiver/IMG_4895.jpg
+    alt_href: Descente très fun sur la neige sur des yooner ou des luges
 ---
 
 <!-- start section -->
@@ -240,26 +240,6 @@ page_sections:
                               </div>
                             </div>
                             <!-- end accordion item -->
-                          <!-- start accordion item -->
-                          <div class="panel border-color-black-transparent">
-                            <div class="panel-heading">
-                                <span class="panel-time">de Marseille</span>
-                                <span class="accordion-toggle">
-                                    <div class="panel-title">
-                                        <span class="text-extra-dark-gray d-inline-block font-weight-500 h4">Accès depuis Marseille</span>
-                                    </div>
-                                </span>
-                            </div>
-                            <div>
-                                <div class="panel-body-marg-fullwidth">
-                                  <ul class="list-style-01">
-                                    <li><i class="fas fa-check mb-0"></i>TGV Moutiers Salins (4h)</li>
-                                    <li><i class="fas fa-check mb-0"></i>navette (36 km)</li>
-                                  </ul>
-                                </div>
-                            </div>
-                          </div>
-                          <!-- end accordion item -->
                         </div>
                     </div>
                     <!-- end tab content -->

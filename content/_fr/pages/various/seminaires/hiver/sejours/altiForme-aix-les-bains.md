@@ -28,14 +28,14 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726987/website/resorts/Aix-les-bains/mercvrie-YlWgxkbP_pY-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652815898/website/Seminaires/hiver/IMG_6667.jpg
+    alt_href: Challenge luge-raquette lors d'un séminaire d'entreprise
   ImageMiddle:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726987/website/resorts/Aix-les-bains/mercvrie-YlWgxkbP_pY-unsplash.jpg
-    alt_href:
+    alt_href: Vue sur le lac du Bourget à Aix-les-Bains
   ImageRight:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726987/website/resorts/Aix-les-bains/mercvrie-YlWgxkbP_pY-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652815899/website/Seminaires/hiver/IMG_4904.jpg
+    alt_href: Golf sur neige pour un challenge d'entreprise
 ---
 
 <!-- start section -->
@@ -141,7 +141,7 @@ page_sections:
                                     <ul class="list-style-01">
                                       <li><i class="fas fa-check mb-0"></i>8h : petit déjeuner</li>
                                       <li><i class="fas fa-check mb-0"></i>9h : départ pour la Féclaz (station à 25 km)</li>
-                                      <li><i class="fas fa-check mb-0"></i>10h : challenge luge- raquettes (en option)</li>
+                                      <li><i class="fas fa-check mb-0"></i>10h : challenge luge-raquettes (en option)</li>
                                       <li><i class="fas fa-check mb-0"></i>12h30 : déjeuner en restaurant d'altitude</li>
                                       <li><i class="fas fa-check mb-0"></i>15h : retour à l'hôtel</li>
                                       <li><i class="fas fa-check mb-0"></i>Accès libre au Spa de l'hôtel</li>
