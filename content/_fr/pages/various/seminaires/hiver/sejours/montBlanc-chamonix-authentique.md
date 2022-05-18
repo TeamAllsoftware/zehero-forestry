@@ -9,8 +9,8 @@ title: Chamonix en chalet-hôtel
 permalink: "/fr/seminaires-hiver/idee-sejour-chamonix-authentique"
 meta-title: Chamonix authentique en chalet-hôtel
 meta-description: Construit en 1928, ce chalet traditionnel revisité conjugue à merveille l'histoire de Chamonix avec son présent de capitale de l'arc alpin et s'offre comme un refuge face au glacier des Bossons pour organiser des événements d'entreprise magiques.
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978587/website/resorts/Chamonix/kasya-shahovskaya-fZjh4gK39Y0-unsplash.jpg
-image_alt: Vue sur la vallée de Chamonix et les montagnes environnantes
+image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649831424/website/resorts/Chamonix/jonathan-fors-fPivsmZ4t_E-unsplash.jpg
+image_alt: Vue du centre ville de Chamonix authentique
 redirection_from:
 price: 299
 headline: Construit en 1928, ce chalet traditionnel revisité conjugue à merveille l'histoire de Chamonix avec son présent de capitale de l'arc alpin et s'offre comme un refuge face au glacier des Bossons.
@@ -28,14 +28,14 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978587/website/resorts/Chamonix/kasya-shahovskaya-fZjh4gK39Y0-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649831424/website/resorts/Chamonix/jonathan-fors-fPivsmZ4t_E-unsplash.jpg
+    alt_href: Vue du centre ville de Chamonix authentique
   ImageMiddle:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978587/website/resorts/Chamonix/kasya-shahovskaya-fZjh4gK39Y0-unsplash.jpg
-    alt_href:
+    alt_href: Vue sur la vallée de Chamonix et les montagnes environnantes
   ImageRight:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978587/website/resorts/Chamonix/kasya-shahovskaya-fZjh4gK39Y0-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652860406/website/resorts/Chamonix/mathias-reding-gPQ6DN1JfWY-unsplash.jpg
+    alt_href: Vue depuis la fenêtre du train à crémaillière du Montenvers à Chamonix
 ---
 
 <!-- start section -->

@@ -9,8 +9,8 @@ title: Chamonix classe affaire
 permalink: "/fr/seminaires-hiver/idee-sejour-chamonix-mythique"
 meta-title: Chamonix mythique en classe affaire
 meta-description: Une ville à la montagne, capitale touristique de l'arc alpin depuis le 18ème siècle avec le Mont-Blanc (4 807 m.) et ses glaciers... Découvrez la féérie de la Mer de Glace à 1913 m. par le train du Montenvers avec une vue unique sur les grandes Jorasses et les aiguilles des Drus !
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978587/website/resorts/Chamonix/inspire-toud-nnAFqayCHcI-unsplash.jpg
-image_alt: Vue sur un alpiniste au sommet d'un pic rocheux avec le glacier en arrière plan
+image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652860520/website/resorts/Chamonix/gregory-dalleau-Q0CARQx1WQk-unsplash.jpg
+image_alt: Train à crémaillière rouge qui mène à la mer de glace à Chamonix
 redirection_from:
 price: 389
 headline: Une ville à la montagne, capitale touristique de l'arc alpin depuis le 18ème siècle avec le Mont-Blanc (4 807 m.) et ses glaciers...
@@ -28,14 +28,14 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978587/website/resorts/Chamonix/inspire-toud-nnAFqayCHcI-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652860520/website/resorts/Chamonix/gregory-dalleau-Q0CARQx1WQk-unsplash.jpg
+    alt_href: Train à crémaillière rouge qui mène à la mer de glace à Chamonix
   ImageMiddle:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978587/website/resorts/Chamonix/inspire-toud-nnAFqayCHcI-unsplash.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652860469/website/resorts/Chamonix/baron-carson-s0W8PyKMS9c-unsplash.jpg
+    alt_href: Vue de la mer de glace à Chamonix
   ImageRight:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978587/website/resorts/Chamonix/inspire-toud-nnAFqayCHcI-unsplash.jpg
-    alt_href:
+    alt_href: Vue sur un alpiniste au sommet d'un pic rocheux avec le glacier en arrière plan
 ---
 
 <!-- start section -->
