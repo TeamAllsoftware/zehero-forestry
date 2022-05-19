@@ -9,8 +9,8 @@ title: Journée challenge nordique
 permalink: "/fr/seminaires-hiver/journees/challenge-nordique"
 meta-title: Journée challenge nordique
 meta-description: Des épreuves nordiques adaptées à vos envies (par équipes)
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/thomas-dils-ZEraBEoSRSw-unsplash_bpzfga.jpg
-image_alt: Un skieur nordique pratique sur une piste de fond
+image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714160/website/Seminaires/hiver/IMG_3937.jpg
+image_alt: Stand de tir pour biatlhon des neiges lors d'un séminaire d'entreprise
 redirection_from:
 price: 95
 headline: Des épreuves nordiques adaptées à vos envies (par équipes)
@@ -28,11 +28,11 @@ page_sections:
     alt_button: Bouton d'accès au formulaire de demande de devis pour un séminaire d'entreprise
     href_button: /fr/seminaire-devis/
   ImageLeft:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/thomas-dils-ZEraBEoSRSw-unsplash_bpzfga.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714134/website/Seminaires/hiver/IMG_3939.jpg
+    alt_href: Biathlon des neiges
   ImageMiddle:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/thomas-dils-ZEraBEoSRSw-unsplash_bpzfga.jpg
-    alt_href:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650990663/website/winter/white-turf-gd92ba2b4f_1920.jpg
+    alt_href: Initiation ski-joering
   ImageRight:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641902237/website/winter/thomas-dils-ZEraBEoSRSw-unsplash_bpzfga.jpg
     alt_href:
