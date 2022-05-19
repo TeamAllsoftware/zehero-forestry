@@ -24,7 +24,11 @@
            
                 <div class="container-fluid nav-header-container">
                     <div class="col-auto col-sm-6 col-lg-2 me-auto ps-lg-0">
-                        <a class="navbar-brand" href="/{{ page.language }}/{{ season_language }}">
+                        {% if page.menu == "seminaire" %}
+                            <a class="navbar-brand" href="/{{ page.language }}/seminaires-hiver">
+                        {% else %}
+                            <a class="navbar-brand" href="/{{ page.language }}/{{ season_language }}">
+                        {% endif %}
                             {% if page.topnav_color_text == 'light' %}
                             <img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_brown | remove: site.data.config.cloudinary_url }}" alt="Logo {{ site.data.config.nom-site}} brand" class="default-logo">
                             {% elsif page.type == "B2B" %}
