@@ -108,7 +108,7 @@ page_sections:
     color: white
   Button1:
     title: A partir de 249€/pers.
-    link:
+    link: /fr/seminaires-hiver/idee-sejour-evasion-grand-revard
   button_2_more: false
 - template: heroImageFull
   top: non
@@ -120,7 +120,7 @@ page_sections:
     color: white
   Button1:
     title: A partir de 299€/pers.
-    link:
+    link: /fr/seminaires-hiver/idee-sejour-valmorel
   button_2_more: false
 - template: heroImageFull
   top: non
@@ -132,7 +132,7 @@ page_sections:
     color: white
   Button1:
     title: A partir de 319€/pers
-    link:
+    link: /fr/seminaires-hiver/idee-sejour-lac-alpin-aix-les-bains
   button_2_more: false
 - template: cta
   intro: Demande de devis
