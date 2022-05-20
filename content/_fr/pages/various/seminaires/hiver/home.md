@@ -31,7 +31,7 @@ page_sections:
   Image2:
     title: Cohésion
     title_link:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650891470/website/Seminaires/hiver/daniel-frank-R5CpX0Ktrzs-unsplash.jpg
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653031181/website/Seminaires/hiver/IMG_1400.jpg
     image_alt:
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196348/website/assets/Personnages%20poses/RandoHiver.png
@@ -39,7 +39,7 @@ page_sections:
   Image4:
     title: Plaisir
     title_link:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650891232/website/resorts/joshua-sukoff-Kj2dvF0ocZw-unsplash.jpg
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653031322/website/Seminaires/hiver/IMG_1419.jpg
     image_alt:
 - template: textarea
   title: Organisation de séminaires et séjours d'entreprises
@@ -51,8 +51,8 @@ page_sections:
     <blockquote>Motivation, récompense, séminaire de travail, événement d'entreprise... ZE HERO Séminaires transformera vos besoins en un séjour réussi et des émotions partagées.</blockquote>
 - template: 2colimgtxt
   blockBGcolor: 
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714126/website/Seminaires/hiver/IMG_3915.jpg
-  alt_text_for_image: 
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_lfill,h_600,w_600/v1653030711/website/Seminaires/hiver/IMG_1443.jpg
+  alt_text_for_image: Un challenge sportif pour favoriser la cohésion d'équipe et l'entraide
   captiontitleuppercase: Séjour de 3 à 4 jours
   title: Motivation et cohésion d'équipe
   content: |- 
@@ -66,8 +66,8 @@ page_sections:
     alt_button: Faire établir un devis pour un séminaire de 3 à 4 jours
 - template: 2coltxtimg
   blockBGcolor: 
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652880527/website/Seminaires/hiver/luge/c2.jpg
-  alt_text_for_image: 
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,h_600,w_600/v1653030860/website/Seminaires/hiver/IMG_1402.jpg
+  alt_text_for_image: Un groupe de collègues très joyeux après une activité challenge olympique lors d'un sémianire d'entreprise
   captiontitleuppercase: Séjour de 2 jours minimum
   title: Récompense et fidélisation clients
   content: |- 

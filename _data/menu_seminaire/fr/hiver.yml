@@ -11,12 +11,11 @@ menu:
 - title: L'équipe
   id: "1"
   title-link: "/fr/seminaires-hiver/equipe-organisation"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650891470/website/Seminaires/hiver/daniel-frank-R5CpX0Ktrzs-unsplash.jpg
-  image-alt: Un skieur porte ses skis en montant une arrête pour descendre une voie
-    en hors-piste
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653030735/website/Seminaires/hiver/IMG_1450.jpg
+  image-alt: Notre équipe d'organisation de votre séminaire d'entreprise
   image-link: /fr/seminaires-hiver/equipe-organisation
   txt-button: Découvrir l'équipe
-  phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.
+  phrase_accroche: Notre métier c’est de connecter, de réunir et de rapprocher. Pour y arriver, nous réalisons des expériences inoubliables qui lient vraiment les uns avec les autres au travers de nos événements, nos team-buildings ou nos voyages entreprises.
 - title: Destinations
   id: "3"
   title-link: "/fr/seminaires-hiver/destinations-seminaires/"
@@ -24,7 +23,7 @@ menu:
   image-alt: Un skieur fait une randonnée en forêt enneigée
   image-link: "/fr/seminaires-hiver/destinations-seminaires"
   txt-button: Les destinations de séminaire
-  phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.  
+  phrase_accroche: Notre spécialité est de vous extraire du quotidien, d’imaginer des concepts hors du commun, proposer des lieux uniques, créer des ambiances incomparables.
 - title: Activités
   id: "4"
   title-link: "/fr/seminaires-hiver/activites-seminaires"
@@ -32,7 +31,7 @@ menu:
   image-alt: Une employée d'entreprise praticipe à une activité lors d'un séminaire
   image-link: "/fr/seminaires-hiver/activites-seminaires"
   txt-button: Les activités possibles
-  phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.
+  phrase_accroche: Il n'y a rien de tel que de rire ensemble, coopérer dans un but commun, et se surpasser. Voilà pourquoi chez ZE HERO Prosneige on aime faire les choses en équipe, décontractés et avec le sourire.
 - title: Journées
   id: "5"
   title-link: /fr/seminaires-hiver/journees-types-seminaires
@@ -40,7 +39,7 @@ menu:
   image-alt: Grand sourire pour un salarié qui prend du plaisir lors d'un séminaire d'entreprise à la montagne
   image-link: /fr/seminaires-hiver/journees-types-seminaires
   txt-button: Une journée type
-  phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.
+  phrase_accroche: Une journée type se doit de combiner des activités durant lesquelles des valeurs comme la convivialité, la solidarité ou le dépassement de soi prennent pleinement leur sens.  
 - title: Idées de séjours
   id: "6"
   title-link: "/fr/seminaires-hiver/idees-sejours"
@@ -49,4 +48,4 @@ menu:
     une carte et un guide
   image-link: "/fr/seminaires-hiver/idees-sejours"
   txt-button: Découvrir des idées de séjours
-  phrase_accroche: Nous produisons, encadrons et animons votre programme d'activités sur neige avec une équipe de moniteurs diplômés et guides de haute montagne. Toutes les activités sont accessibles à tous et encadrées.
+  phrase_accroche: Une sejour permet d'associer des activités inoubliables qui lient vraiment les uns avec les autres et des des instants de travail en équipe pour favoriser la cohésion d'équipe, la motivation et et le rapprochement d'équipe de différents bureaux.
