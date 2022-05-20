@@ -7,18 +7,18 @@
                 <div class="row">
                     <!-- start footer column -->
                     <div class="col-12 col-lg-3 col-md-5 col-sm-6 order-sm-1 order-lg-0 md-margin-50px-bottom xs-margin-25px-bottom">
-                        <a href="/{{ page.language }}/{{ season_language }}" class="footer-logo margin-20px-bottom d-block"><img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_black | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_black | remove: site.data.config.cloudinary_url }}" alt="Logo ZE HERO brand" ></a>
+                        <a href="{% if jekyll.environment == 'production' %}{{ site.data.config.og_url }}{% endif %}/{{ page.language }}/{{ season_language }}" class="footer-logo margin-20px-bottom d-block"><img src="{{ imgsize.url }}{{ imgsize.logo_header }}{{ site.data.config.site_logo_black | remove: site.data.config.cloudinary_url }}" data-at2x="{{ imgsize.url }}{{ imgsize.logo_headerx2 }}{{ site.data.config.site_logo_black | remove: site.data.config.cloudinary_url }}" alt="Logo ZE HERO brand" ></a>
                         <p class="w-80 sm-w-100 margin-20px-bottom">{{ site.data.config.[language].footer_baseline }}</p>
                         <div class="social-icon-style-12">
                             <ul class="extra-small-icon light">
                                 {% comment %}
-                                <li><a href="/{{ language }}/{{ site.data.config.[language].season.[opposite_season]name }}" title="{{ site.data.config.[language].season.[opposite_season]icon-link-title }}"><i class="{{ site.data.config.[language].season.[opposite_season]icon }}"></i></a></li>
-                                <li><a href="/{{ opposite_language }}/{{ site.data.config.[opposite_language].season.[season]name }}" title="{{ site.data.config.[opposite_language].changelang }}">{{ opposite_language }}</a></li>
+                                <li><a href="{% if jekyll.environment == 'production' %}{{ site.data.config.og_url }}{% endif %}/{{ language }}/{{ site.data.config.[language].season.[opposite_season]name }}" title="{{ site.data.config.[language].season.[opposite_season]icon-link-title }}"><i class="{{ site.data.config.[language].season.[opposite_season]icon }}"></i></a></li>
+                                <li><a href="{% if jekyll.environment == 'production' %}{{ site.data.config.og_url }}{% endif %}/{{ opposite_language }}/{{ site.data.config.[opposite_language].season.[season]name }}" title="{{ site.data.config.[opposite_language].changelang }}">{{ opposite_language }}</a></li>
                                 {% endcomment %}
                                 <li><a href="{{ site.data.config.socials.facebook.username }}" title="{{ site.data.config.socials.facebook.title }}" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
                                 <li><a href="{{ site.data.config.socials.instagram.username }}" title="{{ site.data.config.socials.instagram.title }}" target="_blank"><i class="fab fa-instagram"></i></a></li>
                                 <li><a href="{{ site.data.config.socials.linkedin.username }}" title="{{ site.data.config.socials.linkedin.title }}" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-                                <li><a href="/{{ language }}/contact" title="{{ site.data.config.[page.language].contact.icon-link-title }}"><i class="feather icon-feather-mail"></i></a></li>
+                                <li><a href="{% if jekyll.environment == 'production' %}{{ site.data.config.og_url }}{% endif %}/{{ language }}/contact" title="{{ site.data.config.[page.language].contact.icon-link-title }}"><i class="feather icon-feather-mail"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -27,10 +27,10 @@
                     {% for column in footnav.columns %}
                     <!-- start footer column -->
                     <div class="col-12 col-lg-2 col-sm-4 order-sm-3 order-lg-0 xs-margin-25px-bottom">
-                        <a href="{{ column.title-link }}"><span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">{{ column.col }}</span></a>
+                        <a href="{% if jekyll.environment == 'production' %}{{ site.data.config.og_url }}{% endif %}{{ column.title-link }}"><span class="alt-font font-weight-500 d-block text-white margin-20px-bottom xs-margin-10px-bottom">{{ column.col }}</span></a>
                         <ul>
                             {% for item in column.link %}
-                            <li><a href="{{ item.subhref }}">{{ item.subtitle }}</a></li>
+                            <li><a href="{% if jekyll.environment == 'production' %}{{ site.data.config.og_url }}{% endif %}{{ item.subhref }}">{{ item.subtitle }}</a></li>
                             {% endfor %}
                         </ul>
                     </div>
@@ -52,13 +52,13 @@
                 <div class="row">
                     <div class="col-12 col-md-6 sm-margin-10px-bottom xs-margin-15px-bottom">
                         <ul class="footer-horizontal-link d-flex flex-column flex-sm-row justify-content-sm-center justify-content-md-start">
-                            <li><a href="/fr/cgu/">CGU</a></li>
-                            <li><a href="/fr/plan-du-site" title="Lien vers la page du plan du site">Plan du site</a></li>
-                            <li><a href="/fr/seminaires-hiver" title="Organisation de séminaires">Organisation de séminaires</a></li>
+                            <li><a href="{% if jekyll.environment == 'production' %}{{ site.data.config.og_url }}{% endif %}/fr/cgu/">CGU</a></li>
+                            <li><a href="{% if jekyll.environment == 'production' %}{{ site.data.config.og_url }}{% endif %}/fr/plan-du-site" title="Lien vers la page du plan du site">Plan du site</a></li>
+                            <li><a href="{% if jekyll.environment == 'production' %}{{ site.data.config.og_url }}{% endif %}/fr/seminaires-hiver" title="Organisation de séminaires">Organisation de séminaires</a></li>
                         </ul>
                     </div>
                     <div class="col-12 col-md-6 text-start text-sm-center text-md-end last-paragraph-no-margin">
-                        <p>&copy; 2021 <a href="/{{ page.language }}/{{ season_language }}" target="_blank" class="text-decoration-line-bottom text-white">{{ site.title }}</a></p>
+                        <p>&copy; 2021 <a href="{% if jekyll.environment == 'production' %}{{ site.data.config.og_url }}{% endif %}/{{ page.language }}/{{ season_language }}" target="_blank" class="text-decoration-line-bottom text-white">{{ site.title }}</a></p>
                     </div>
                 </div>
             </div>
