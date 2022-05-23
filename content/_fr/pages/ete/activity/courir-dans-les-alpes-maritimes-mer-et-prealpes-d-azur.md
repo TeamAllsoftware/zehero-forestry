@@ -68,6 +68,25 @@ page_sections:
     Alliez la découverte des lieux, des villages, du patrimoine ainsi que de la performance en trail avec des connaissances physiques, technique et de gestion de course. Vivez également un moment agréable en groupe pour des sorties plus ludiques.
 
     Voici nos différentes offres de trail dans les Préalpes d'Azur avec Ze Hero :
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653295947/website/By%20Ze%20Hero%20Activity/jeremy-bezanger-YLkr1Y39XSk-unsplash.jpg
+  alt_text_for_image: Vue du village de Gréolières et des montagnes derrieres
+  captiontitleuppercase: Les alentours du Cheiron
+  title: Le Trail à Gréolières
+  content: |-
+    Le petit village de Gréolières exposé plein Sud est au pied de la montagne du Cheiron. Vous découvrirez une crête sublime qui longe afin de redescendre sur le village de Coursegoules. Découvrez des sentiers techniques, de la forêt et des cailloux, des paysages sur le Mercantour et la mer. De l’autre côté de la crête du Cheiron, vous découvrirez la station de Gréolières les neiges.
+
+    Voici les quelques parcours possibles depuis le village de Gréolières :
+
+    * Le KV : un aller / retour de 11km et 900D+ jusqu'au sommet du Cheiron
+    * Les crètes du Cheiron : 23km et 1240D+
+    * Le Tour du Cheiron : 30km et 1250D+
+    * Gréolières - Estéron : 31km et 2050D+
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
