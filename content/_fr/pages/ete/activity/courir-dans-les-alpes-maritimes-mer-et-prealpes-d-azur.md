@@ -58,13 +58,16 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Le Trail dans les Préalpes d'Azur
-  content: L'arrière pays niçois est un lieux incroyable avec une immense richesse
-    environnementale. Entre le littoral et le Mercantour, on se retrouve dans une
-    nature variée, préservé et protégé avec une patrimoine d'exception. A 30mn de
-    la mer débute les Préalpes d'Azur, des collines allant jusqu'à 1778m d'altitude
-    avec le Mont Cheiron. On y trouve une nature sauvage, avec des plateaux calcaires
-    aux odeurs de thym faisant penser aux garrigues. Mais c'est également une végétation
-    verte
+  content: |-
+    L’arrière-pays niçois est un lieu incroyable avec une immense richesse environnementale. Entre le littoral et le Mercantour, on se retrouve dans une nature variée, préservé et protégé avec un patrimoine d’exception. À 30mn de la mer débute les Préalpes d’Azur, des collines allant jusqu’à 1778m d’altitude avec le Mont Cheiron. On y trouve une nature sauvage, avec des plateaux calcaires aux odeurs de thym faisant penser aux garrigues. Mais c’est également une végétation verte et abondante dont on retrouve les rivières tel que le Loup, la Siagne, l’Estéron, la Cagne, la Gironde et la Lane. Les Préalpes d’Azur, c’est plonger dans des lieux d’exception au sein d’un patrimoine culturel protégé, avec un climat maritime et alpin.
+
+    Découvrez les paysages arides et rocailleux de Calern et de Caussols, les différentes vallées, les gorges du loup et de la Siagne, les plaines et les forêts. Les Préalpes d'Azur c'est également 4 parcs naturels départementaux, des sommets tel que le Mont Vial, le Mont Cheiron, la montagne de l'Audibergue etc.
+
+    Avec Ze Hero, partez découvrir ces différents milieux avec une multitude de parcours de trail. Découvrez nos différents parcours de trail dans les Préalpes d'Azur, encadrés par un professionnel de trail.
+
+    Alliez la découverte des lieux, des villages, du patrimoine ainsi que de la performance en trail avec des connaissances physiques, technique et de gestion de course. Vivez également un moment agréable en groupe pour des sorties plus ludiques.
+
+    Voici nos différentes offres de trail dans les Préalpes d'Azur avec Ze Hero :
 published: false
 
 ---
