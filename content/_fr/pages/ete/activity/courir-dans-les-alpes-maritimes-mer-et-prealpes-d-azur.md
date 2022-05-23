@@ -87,6 +87,21 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653295936/website/By%20Ze%20Hero%20Activity/guillaume-meurice-KaQ1XQ_DoCQ-unsplash.jpg
+  alt_text_for_image: Vue depuis Gourdon du pic des courmettes
+  captiontitleuppercase: Découvrez le plateau de Caussols
+  title: Le Trail depuis Le Bar sur Loup et Gourdon
+  content: Depuis le village de Bar sur Loup, on découvre de nombreux sentiers aux
+    paysages très variée. Avec les gorges du Loup et sa végétation verdoyante, au
+    bois de Gourdon et ses nombreux chênes, on découvre ensuite depuis le village
+    médiéval de Gourdon et plus haut les plateaux de Caussols. On y retrouve des plateaux
+    aride à la végétation sauvage, parfumé de thym et de lavande.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
