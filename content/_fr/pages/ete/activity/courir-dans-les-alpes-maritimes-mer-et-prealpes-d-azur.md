@@ -19,7 +19,19 @@ image01_alt: Village d'Eze dans les Alpes Maritimes
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
-page_sections: []
+page_sections:
+- template: textarea
+  blockBGcolor: blanc
+  title: Les parcours de Trail au littoral des Alpes Maritimes
+  content: "Les Alpes Maritimes est un département unique et incroyable pour sa richesse
+    environnemental Un lieu d'exception où les paysages sublimes se succèdent, où
+    la végétation se diversifie d'étage en étage, où l'on peut admirer la mer depuis
+    des sommets montagneux. On remarque une grande diversification de la nature, de
+    son habitat, de sa faune et flore. C'est alors un lieu idéal pour fouler ses sentiers,
+    ses chemins en pratiquant le trail. Rien de mieux que découvrir cet environnement
+    en courant.\n\nDécouvrez nos différentes offres et itinéraires que Ze Hero propose.
+    Voici donc les différents tracés près du littoral que vous pourrez profiter pour
+    un moment unique. "
 published: false
 
 ---
