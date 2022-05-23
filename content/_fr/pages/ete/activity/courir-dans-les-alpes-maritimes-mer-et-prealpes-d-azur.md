@@ -55,6 +55,16 @@ page_sections:
     title: Eze et sa vue sur mer
     title_Link: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: Le Trail dans les Préalpes d'Azur
+  content: L'arrière pays niçois est un lieux incroyable avec une immense richesse
+    environnementale. Entre le littoral et le Mercantour, on se retrouve dans une
+    nature variée, préservé et protégé avec une patrimoine d'exception. A 30mn de
+    la mer débute les Préalpes d'Azur, des collines allant jusqu'à 1778m d'altitude
+    avec le Mont Cheiron. On y trouve une nature sauvage, avec des plateaux calcaires
+    aux odeurs de thym faisant penser aux garrigues. Mais c'est également une végétation
+    verte
 published: false
 
 ---
