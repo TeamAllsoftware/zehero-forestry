@@ -1,7 +1,7 @@
 ---
 layout: layout_generic
 language: fr
-season: winter
+season: summer
 topnav_color_text: light
 title: Partenariat Prosneige
 permalink: partenariat
