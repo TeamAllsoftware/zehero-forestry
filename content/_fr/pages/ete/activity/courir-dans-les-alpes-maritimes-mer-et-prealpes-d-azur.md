@@ -93,11 +93,17 @@ page_sections:
   alt_text_for_image: Vue depuis Gourdon du pic des courmettes
   captiontitleuppercase: Découvrez le plateau de Caussols
   title: Le Trail depuis Le Bar sur Loup et Gourdon
-  content: Depuis le village de Bar sur Loup, on découvre de nombreux sentiers aux
+  content: "Depuis le village de Bar sur Loup, on découvre de nombreux sentiers aux
     paysages très variée. Avec les gorges du Loup et sa végétation verdoyante, au
     bois de Gourdon et ses nombreux chênes, on découvre ensuite depuis le village
     médiéval de Gourdon et plus haut les plateaux de Caussols. On y retrouve des plateaux
-    aride à la végétation sauvage, parfumé de thym et de lavande.
+    aride à la végétation sauvage, parfumé de thym et de lavande. Découvrez le plateau
+    Cavillore, le plateau de Caussols, le col du Clapier, et le Haut Montet. Une variété
+    de parcours pour tous les niveaux et les envies avec des vue mer et sur les sommets
+    de Courmes et de Tourrettes.\n\nVoici nos différents parcours de Trail à le Bar
+    sur Loup et Gourdon :\n\n* Le chemin du Paradis : Aller / Retour de 5,3km et 500D+\n*
+    Trail de Gourdon : 14km et 823D+\n* Le tour de Caussols depuis Le Bar sur Loup
+    : 33km et 1300D+\n* "
   button:
     text_button: ''
     href_button: ''
