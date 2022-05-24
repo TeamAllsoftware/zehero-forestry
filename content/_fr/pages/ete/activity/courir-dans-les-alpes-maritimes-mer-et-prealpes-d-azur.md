@@ -163,6 +163,32 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Les Traversées en Trail dans les Préalpes d'Azur
+  content: |-
+    Il existe aussi de nombreux itinéraires de traversées qui vont parcourir de nombreux villages et sommets. Découvrez alors les Préalpes en les traversants par des itinéraires qui vous amènent dans les plus beaux lieux.
+
+    Nous avons donc mis en place plusieurs itinérances à faire sur un jour ou sur plusieurs selon les niveaux. Ces itinérances peuvent être des journées de Trail allant de 30km à 75km selon les niveaux des coureurs du groupe.
+
+    Découvrez alors la **Maralpine**, la traversée des Préalpes d'Azur : 77km et 4200D+. La traversée des Préalpes par excellence à faire en Trail en 1 jours our les plus motivés ou en 2/3 jours par différentes. Vous partirez de Saint Auban pour arriver à Vence. Vous passerez par le GR510 en traversant plusieurs petits villages tel que Collonges et Aiglun dans la vallée de l'Estéron. De là vous partirez pour la plus grosse ascension jusqu'au Cheiron avant de basculer à Gréolières. Vous traverserez ensuite le village de Cipières, longerez les gorges du Loup avant de remonter vers le village de Courmes en suivant le GR51 et vous finirez ensuite en direction de Vence. Une traversée unique, dans des paysages grandioses, avec des sentiers techniques. L'avantage c'est que cette traversée passe souvent dans des villages ce qui permet de ravitailler facilement en haut ou même pour manger.
+
+    Pour réaliser cette traversée en étape, il possible de faire une étape à Gréolières les neiges en dormant dans un refuge sauvage afin de couper en deux l'étape.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774637/website/By%20Ze%20Hero%20Activity/IMG_20200723_153328_1.jpg
+  alt_text_for_image: Deux coureur sur les crètes du Cheiron
+  captiontitleuppercase: Parcourez le GR51
+  title: Itinéraires Trail GR51
+  content: |-
+    Nous proposons également deux itinéraires différents depuis St Jeannet jusqu'à Le Bar Sur Loup. Deux itinéraires qui vous feront découvrir et traverser les gorges du Loup, en passant par des sommets, des plateaux et à travers les villages.
+
+    * Par le GR51 : 52km et 1850D+
+    * Par le Cheiron : 45km et 2200D+
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
