@@ -16,7 +16,7 @@ columns:
       subhref: "/fr/ete/activites/canyoning"
     - subtitle: Kayak
       subhref: "/fr/ete/activites/kayak"
-  - col: "Conseils"
+  - col: "Nos conseils"
     title-link: /fr/ete/conseils
     link:
     - subtitle: Comment bien s'équiper en trail ?
@@ -25,7 +25,7 @@ columns:
       subhref: /fr/ete/conseils/chaussures-trail
     - subtitle: Débuter le Trail running
       subhref: /fr/ete/conseils/comment-debuter-trail
-  - col: "Destinations"
+  - col: "Nos destinations"
     title-link: /fr/ete/destinations
     link:
     - subtitle: "Alpe d'Huez"
