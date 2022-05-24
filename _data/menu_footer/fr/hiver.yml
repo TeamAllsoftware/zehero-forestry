@@ -16,7 +16,7 @@ columns:
       subhref: /fr/hiver/activites/ski-de-fond
     - subtitle: Pour les enfants
       subhref: "/fr/hiver/activites/activites-pour-les-enfants"
-  - col: "Conseils"
+  - col: "Nos conseils"
     title-link: /fr/hiver/conseils
     link:
     - subtitle: "Choisir son magasin de location de ski"
@@ -25,7 +25,7 @@ columns:
       subhref: "/fr/hiver/conseils/ski-d-occasion"
     - subtitle: "Comment choisir ses boots de snowboard"
       subhref: "/fr/hiver/conseils/boots-snowboard"
-  - col: "Destinations"
+  - col: "Nos destinations"
     title-link: /fr/hiver/destinations
     link:
     - subtitle: "Alpe d'Huez"
