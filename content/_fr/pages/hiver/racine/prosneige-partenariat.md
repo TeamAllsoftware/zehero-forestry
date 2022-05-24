@@ -15,7 +15,7 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroImage50percentHigh
   title: Prosneige X Lego Wear
-  content: " "
+  content: Partenariat
 - template: imgWide
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653290970/website/Partenaires/Lego/Partenaire_jardin_enfant2.jpg
