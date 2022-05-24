@@ -4,7 +4,7 @@ language: fr
 season: winter
 topnav_color_text: light
 title: 'Prosneige partenariat '
-permalink: "/fr/hiver/partenariat"
+permalink: partenariat
 meta-title: 'Prosneige partenariat à Val Thorens '
 meta-description: Collaborez avec Prosneige Ski school et mettez en avant votre marque
   en station !
