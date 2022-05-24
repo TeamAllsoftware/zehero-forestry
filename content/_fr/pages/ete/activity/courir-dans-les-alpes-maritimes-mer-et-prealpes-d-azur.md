@@ -93,17 +93,51 @@ page_sections:
   alt_text_for_image: Vue depuis Gourdon du pic des courmettes
   captiontitleuppercase: Découvrez le plateau de Caussols
   title: Le Trail depuis Le Bar sur Loup et Gourdon
-  content: "Depuis le village de Bar sur Loup, on découvre de nombreux sentiers aux
-    paysages très variée. Avec les gorges du Loup et sa végétation verdoyante, au
-    bois de Gourdon et ses nombreux chênes, on découvre ensuite depuis le village
-    médiéval de Gourdon et plus haut les plateaux de Caussols. On y retrouve des plateaux
-    aride à la végétation sauvage, parfumé de thym et de lavande. Découvrez le plateau
-    Cavillore, le plateau de Caussols, le col du Clapier, et le Haut Montet. Une variété
-    de parcours pour tous les niveaux et les envies avec des vue mer et sur les sommets
-    de Courmes et de Tourrettes.\n\nVoici nos différents parcours de Trail à le Bar
-    sur Loup et Gourdon :\n\n* Le chemin du Paradis : Aller / Retour de 5,3km et 500D+\n*
-    Trail de Gourdon : 14km et 823D+\n* Le tour de Caussols depuis Le Bar sur Loup
-    : 33km et 1300D+\n* "
+  content: |-
+    Depuis le village de Bar sur Loup, on découvre de nombreux sentiers aux paysages très variés. Avec les gorges du Loup et sa végétation verdoyante, au bois de Gourdon et ses nombreux chênes, on découvre ensuite depuis le village médiéval de Gourdon et plus haut les plateaux de Caussols. On y retrouve des plateaux arides à la végétation sauvage, parfumé de thym et de lavande. Découvrez le plateau Cavillore, le plateau de Caussols, le col du Clapier, et le Haut Montet. Une variété de parcours pour tous les niveaux et les envies avec des vues mer et sur les sommets de Courmes et de Tourrettes. Des parcours parfaits pour travailler vitesse, dénivelé et technique.
+
+    Voici nos différents parcours de Trail à le Bar sur Loup et Gourdon :
+
+    * Le chemin du Paradis : Aller / Retour de 5,3km et 500D+
+    * Trail de Gourdon : 14km et 823D+
+    * Le tour de Caussols depuis Le Bar sur Loup : 33km et 1300D+
+    * Le Bois de Gourdon et Paradis : 12km et 510D+
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653295887/website/By%20Ze%20Hero%20Activity/niklas-ohlrogge-wtgjxJCZM3A-unsplash.jpg
+  alt_text_for_image: Personne au sommet du baou de saint jeannet
+  captiontitleuppercase: Le fameux Baou de Saint Jeannet
+  title: Le Trail à Saint Jeannet
+  content: "Partez courir et pratiquer le trail à Saint Jeannet. Ce village est très
+    connu avec le fameux Baou de St Jeannet, réputé pour l'escalade mais également
+    pour la randonnée et son point de vue exceptionnel. Vous découvrirez également
+    le Baou de la Gaude juste en face, le sommet \" Mouton d'Anon\" à 1079m. Le GR51
+    passe également par Saint Jeannet. Découvrez également le donjon et les murs d’enceinte
+    du Castellet du XIV siècle.  \nDécouvrez nos différents parcours de Trail à St
+    Jeannet :\n\n* Les 2 Baous : 13km et 645D+\n* Mouton D'Anou, Baou et Castellet
+    : 18km et 730D+"
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653376586/website/By%20Ze%20Hero%20Activity/IMG20211104075044.jpg
+  alt_text_for_image: Sommet du Pic de courmettes
+  captiontitleuppercase: Le pic de Tourrettes et des Courmettes
+  title: Trail à Tourrettes-sur-Loup
+  content: |-
+    Le petit village médiéval de Tourrettes sur Loup, perché sur sa falaise est un village incontournable à visiter. Ces petites ruelles de pierres vous feront pénétrer dans une ambiance incroyable. Juste au-dessous, on retrouve le Pic de Courmettes qui culmine à 1248m et le Puy de Tourrettes à 1268m ainsi que le Puy de Naouri à 1024m. Découvrez ces plateaux où pâturent moutons et chèvres, le plateau de Saint Barnabé, le petit village de Courmes et le domaine des Courmettes. Une vue imprenable sur la mer et la Côte d’Azur ainsi que la chaîne montagneuse du Mercantour. Plongez dans la forêt enchantée de Courmes. Un lieu parfait pour pratiquer le Trail et profiter des sentiers.
+
+    Découvrez nos différentes offres et parcours de Trail à Tourrettes-sur-Loup :
+
+    * Le Trail des Pics : 15km et 941D+
+    * Le long parcours de Tourrettes-sur-Loup : 26km et 1440D+
+    * Le tour de Courmettes : 28km et 1320D+
   button:
     text_button: ''
     href_button: ''
