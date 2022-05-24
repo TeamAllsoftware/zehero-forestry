@@ -12,10 +12,10 @@ topnav_color_text: dark
 page_sections:
 - template: heroImageFull
   top: oui
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7712_jj6zyy.jpg
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545634/website/summer/raoul-du-plessis-NsaVr_DfTNA-unsplash.jpg
   gradient: grad
   headline:
-    title: Vivez l’outdoor<br> avec ZE HERO
+    title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
     color: white
   Button1:
     title: Réserver un cours de surf
