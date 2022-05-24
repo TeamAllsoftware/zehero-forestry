@@ -142,6 +142,27 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653377912/website/By%20Ze%20Hero%20Activity/IMG20210716113649.jpg
+  alt_text_for_image: Vue du sommet du Mont Vial
+  captiontitleuppercase: Le Mont Vial
+  title: Trail depuis Bonson, Gilette, Levens
+  content: |-
+    Plus loin dans la vallée de Carros, où le Var passe avant de se jeter dans la mer, plusieurs villages perchés se situent dans les hauteurs. Vous découvrirez Bonson, Gilette, Levens, des villages au patrimoine culturel incroyable protégé et préservé.
+
+    On y trouve le Mont Vial qui culmine à 1550m d'altitude, le Mont Férion lui à 1412m d'altitude. De nombreux itinéraires et sentiers à travers des forêts, des milieux alpins et rocailleux.
+
+    Découvrez nos différents parcours de Trail à Bonson, Gilette et Levens :
+
+    * Bonson - Mont Vial : 22km et 1325D+
+    * Gilette -  Mont Vial : 27km et 1670D+
+    * Levens - Mont Ferion : 15km et 860D+
+    * Marathon de Levens : 42km et 2228D+
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
