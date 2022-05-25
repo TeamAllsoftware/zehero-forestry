@@ -34,6 +34,20 @@ page_sections:
     Le Revard, fait partie de l'espace Grand Revard qui regroupe plusieurs petites stations et villages tels que la Féclaz, Saint François de Sales. Le Revard, c'est la 1er station de ski qui a été créé en France. Elle porte l'histoire du ski dans son ADN. Vous y découvrirez un lieu rempli de charme et d'authenticité. Découvrez ses grands plateaux, d'alpages avec des vues magnifiques sur le massif du Mont Blanc ainsi que sur le Lac du Bourget. De nombreuses activités pour tous seront présentes afin de profiter pleinement de l'environnement.
 
     Entre lac et montagne, vivez un séjour nature.
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653471436/website/resorts/Le%20Revard/nicolas-peyrol-IEg3fmBWtwE-unsplash.jpg
+  alt_text_for_image: Le massif des Bauges et ses crêtes
+  captiontitleuppercase: Le plaisir alpins
+  title: Les activités en montagne à Aix les Bains, le Grand Revard
+  content: |-
+    Les activités en montagne à Aix les Bains et au Grand Revard sont variées et il y en a pour tout les gouts, les niveaux et les envies. Vous découvrirez tout d'abord des lieux naturels sauvage, des stations, des grands plateaux, des montagnes très alpines, des forêts et des grandes prairies. Le choix est variée et vous pourrez bénéficier de tout facilement. Le massif des Bauges est un lieux incroyable pour tous les amoureux de la montagne, de la randonnée et de la course à pied ainsi que du VTT. Avec ses 4 sommets à plus de 2000m, vous u trouverez des passages engagés et techniques.
+
+    Partez randonner autour du Lac du Bourget. Découvrez la Dent du Chat et son ascension vertigineuse sur la fin. Partez marcher sur les grands plateaux du Revard, à travers les paturages, les
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
