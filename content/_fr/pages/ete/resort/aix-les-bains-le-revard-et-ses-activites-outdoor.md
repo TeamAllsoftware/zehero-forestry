@@ -41,9 +41,9 @@ page_sections:
   captiontitleuppercase: Le plaisir alpins
   title: Les activités en montagne à Aix les Bains, le Grand Revard
   content: |-
-    Les activités en montagne à Aix les Bains et au Grand Revard sont variées et il y en a pour tout les gouts, les niveaux et les envies. Vous découvrirez tout d'abord des lieux naturels sauvage, des stations, des grands plateaux, des montagnes très alpines, des forêts et des grandes prairies. Le choix est variée et vous pourrez bénéficier de tout facilement. Le massif des Bauges est un lieux incroyable pour tous les amoureux de la montagne, de la randonnée et de la course à pied ainsi que du VTT. Avec ses 4 sommets à plus de 2000m, vous u trouverez des passages engagés et techniques.
+    Les activités en montagne à Aix les Bains et au Grand Revard sont variées et il y en a pour tous les goûts, les niveaux et les envies. Vous découvrirez tout d'abord des lieux naturels sauvages, des stations, des grands plateaux, des montagnes très alpines, des forêts et des grandes prairies. Le choix est varié et vous pourrez bénéficier de tout facilement. Le massif des Bauges est un lieu incroyable pour tous les amoureux de la montagne, de la randonnée et de la course à pied ainsi que du VTT. Avec ses 4 sommets à plus de 2000m, vous y trouverez des passages engagés et techniques.
 
-    Partez randonner autour du Lac du Bourget. Découvrez la Dent du Chat et son ascension vertigineuse sur la fin. Partez marcher sur les grands plateaux du Revard, à travers les paturages, les
+    Partez randonner autour du Lac du Bourget. Découvrez la Dent du Chat et son ascension vertigineuse sur la fin. Partez marcher sur les grands plateaux du Revard, à travers les pâturages, les alpages en découvrant des paysages sublimes avec le lac du Bourget et le Mont Blanc. Vous pourrez grimper le mont Peney, découvrir la croix du Nivolet. Partez randonner avec un accompagnateur montagne qui vous fera découvrir cet environnement savoyard. Il existe un choix énorme de randonnée depuis Aix les Bains ainsi que depuis le plateau du Revard. Le choix est encore plus grand avec les sentiers du massif des Bauges.
   button:
     text_button: ''
     href_button: ''
