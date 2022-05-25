@@ -18,14 +18,14 @@ page_sections:
   baseline: Basée au coeur des Alpes
   title: L'équipe sélectionne les meilleures prestations
   engage:  Votre évènement en formule tout-compris
-  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650891470/website/Seminaires/hiver/daniel-frank-R5CpX0Ktrzs-unsplash.jpg
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653030735/website/Seminaires/hiver/IMG_1450.jpg
   image01_alt: Votre équipe d'organisation pour votre prochain séminaire d'entreprise
 - template: 2colTitreTxt
   title: Votre équipe d'organisation
   content: Basée au coeur des Alpes, l'équipe sélectionne les meilleures prestations pour votre événement et propose une formule tout-compris (hébergement, activités et visites, transferts).
 - template: 2colimgtxt
   blockBGcolor: gris
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638866559/website/global/staff/20211117_capsule_photo_profil_v0.2_GA_rzdl4o.png
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653490111/website/global/staff/claire.jpg
   alt_text_for_image: Claire Jurine, membre de l'équipe d'organisation des séminaires d'entreprise
   captiontitleuppercase: Gérante de Prosneige / ZE HERO
   title: Claire Jurine
