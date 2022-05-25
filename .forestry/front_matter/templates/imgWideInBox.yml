@@ -2,16 +2,6 @@
 label: imgWideInBox
 hide_body: true
 fields:
-- name: image_href
-  type: text
-  config:
-    required: true
-  label: URL de l'image
-- name: alt_text_for_image
-  type: text
-  config:
-    required: true
-  label: Texte alternatif de l'image
 - name: blockBGcolor
   type: select
   default: blanc
@@ -28,3 +18,26 @@ fields:
       file: 
       path: 
   label: Couleur de fond du composant
+- name: image_list
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: field_group_list
+    fields:
+    - name: image_href
+      type: text
+      config:
+        required: false
+      label: image_href
+    - name: image_alt
+      type: text
+      config:
+        required: false
+      label: image_alt
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Image
+  label: Image list
