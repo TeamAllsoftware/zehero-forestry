@@ -119,6 +119,8 @@ menu:
   column-01:
   - nested: Les partenaires
     menu-items:
+    - title: L'Hôtel le Savoy, Méribel
+      href: "/fr/ete/partenaires/le-savoy-meribel"
     - title: Morgan d'Avezac
       href: https://www.ze-hero.com/fr/ete/partenaires/morgan-davezac-surf-seignosse
     - title: Sama Sama Surf School
