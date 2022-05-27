@@ -95,6 +95,5 @@ s06:
   achieve04:
     title: Ouvert
     content: 4 Saisons
-published: false
 
 ---
