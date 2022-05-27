@@ -93,6 +93,8 @@ menu:
   column-02:
   - nested: Les stations balnéaires
     menu-items:
+    - title: Porge
+      href: "/fr/ete/destinations/porge"
     - title: Hossegor
       href: "/fr/ete/destination/hossegor"
     - title: Messanges
