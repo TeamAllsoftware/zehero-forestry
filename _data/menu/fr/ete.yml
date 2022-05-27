@@ -119,6 +119,10 @@ menu:
   column-01:
   - nested: Les partenaires
     menu-items:
+    - title: ''
+      href: ''
+    - title: Sama Sama Surf School
+      href: https://www.ze-hero.com/fr/ete/partenaires/sama-sama-surf-school
     - title: Cueilleurs de sommets
       href: "/fr/ete/partenaires/clement-sivera"
     - title: Yann Alarçon
