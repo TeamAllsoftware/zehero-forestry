@@ -119,8 +119,8 @@ menu:
   column-01:
   - nested: Les partenaires
     menu-items:
-    - title: ''
-      href: ''
+    - title: Morgan d'Avezac
+      href: https://www.ze-hero.com/fr/ete/partenaires/morgan-davezac-surf-seignosse
     - title: Sama Sama Surf School
       href: https://www.ze-hero.com/fr/ete/partenaires/sama-sama-surf-school
     - title: Cueilleurs de sommets
