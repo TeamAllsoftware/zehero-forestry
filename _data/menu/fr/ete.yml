@@ -76,6 +76,8 @@ menu:
   column-01:
   - nested: Les stations de montagne
     menu-items:
+    - title: Chamonix
+      href: "/fr/ete/destinations/chamonix"
     - title: Aix les Bain - Le Revard
       href: fr/ete/destinations/aix-les-bains-le-revard
     - title: Val d'Isère
