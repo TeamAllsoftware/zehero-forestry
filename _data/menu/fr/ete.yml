@@ -119,6 +119,8 @@ menu:
   column-01:
   - nested: Les partenaires
     menu-items:
+    - title: Expérience Vélo
+      href: fr/ete/partenaires/experience-velo
     - title: 7 Aventures
       href: "/fr/ete/partenaires/7-aventures"
     - title: L'Hôtel le Savoy, Méribel
