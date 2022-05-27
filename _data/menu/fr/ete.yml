@@ -119,6 +119,8 @@ menu:
   column-01:
   - nested: Les partenaires
     menu-items:
+    - title: 7 Aventures
+      href: "/fr/ete/partenaires/7-aventures"
     - title: L'Hôtel le Savoy, Méribel
       href: "/fr/ete/partenaires/le-savoy-meribel"
     - title: Morgan d'Avezac
