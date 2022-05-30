@@ -140,15 +140,15 @@ menu:
   - nested: Les partenaires
     menu-items:
     - title: Expérience Vélo
-      href: fr/ete/partenaires/experience-velo
+      href: "/fr/ete/partenaires/experience-velo"
     - title: 7 Aventures
       href: "/fr/ete/partenaires/7-aventures"
     - title: L'Hôtel le Savoy, Méribel
       href: "/fr/ete/partenaires/le-savoy-meribel"
     - title: Morgan d'Avezac
-      href: https://www.ze-hero.com/fr/ete/partenaires/morgan-davezac-surf-seignosse
+      href: "/fr/ete/partenaires/morgan-davezac-surf-seignosse"
     - title: Sama Sama Surf School
-      href: https://www.ze-hero.com/fr/ete/partenaires/sama-sama-surf-school
+      href: "/fr/ete/partenaires/sama-sama-surf-school"
     - title: Cueilleurs de sommets
       href: "/fr/ete/partenaires/clement-sivera"
     - title: Yann Alarçon
