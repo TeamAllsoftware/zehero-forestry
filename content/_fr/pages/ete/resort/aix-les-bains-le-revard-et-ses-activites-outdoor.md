@@ -48,6 +48,82 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: textarea
+  blockBGcolor: blanc
+  content: Pour la pratique du trail, vous trouverez alors de nombreux tours parfait
+    pour la pratique de course à pied en montagne. Découvrez les paysages savoyards
+    tout en vous entraînant et en foulant les sentiers techniques.
+  title: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653393347/website/Exp%C3%A9rience%20V%C3%A9lo/vtt_autour_du_lac_bourget_en_savoie.jpg
+  alt_text_for_image: Personne faisant du vélo électrique au Revard
+  captiontitleuppercase: Rouler dans le petit Canada Savoyard
+  title: Le VTT et VTT Electrique à Aix les Bains et au Revard
+  content: |-
+    Montez sur votre VTT et partez rouler à travers les paysages incroyables du Grand Revard surnommé " Le petit Canada Savoyard". Avec ses grandes forêts, ses grandes prairies, ses alpages, à VTT ou VTT électrique vous découvrirez de nombreuses randonnées d'exceptions. Partez également sur les Balcons du Lac du Bourget. Que ce soit pour des randonnées à la journée, en famille, pour les plus sportifs, pour des descentes plus techniques, vous trouverez votre bonheur à VTT.
+
+    Avec Experience Velo, partez découvrir ces lieux et profiter d'un choix varié de randonnée pour vous amuser, profiter, découvrir, rouler et vous dépasser dans un environnement naturel magique. Vous pourrez réserver votre activité de VTT électriques avec Experience Vélo au Grand Revard, pour un choix varié d'itinéraire.
+
+    Aix les Bains et le Revard seront des lieux parfaits pour rouler en hors sentier et profiter des terrains alpins avec des vues sur le Mont Blanc et le lac du Bourget.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: Dans l'espace du Grand Revard, vous pourrez également profiter d'un pump
+    track, de superbes pistes de descente de DH. Un coin de paradis pour pratiquer
+    le VTT.
+  title: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653471430/website/resorts/Le%20Revard/juliette-g-jX61Kll0Q5g-unsplash.jpg
+  alt_text_for_image: Personne en parapente au coucher du soleil sur le plateau du
+    Grand Revard
+  captiontitleuppercase: La magie du Revard
+  title: Les autres activités outdoors
+  content: "Vous bénéficierez de nombreuses activités outdoor à Aix les Bains ainsi
+    qu'au Grand Revard. Le parapente est une activité phare avec de nombreux décollage
+    possible des deux coins du lac. Survolez le lac du Bourget, au-dessus des montagnes
+    avec une vue incroyable. Une expérience unique dans un cadre splendide.  \nVous
+    trouverez diverses activités comme la canirando, où vous pourrez vous balader
+    en vous faisant tirer par les chiens de traîneau.   \nPartez grimper les différentes
+    via Ferrata tel que \" Le P'tchi \" et \" La Gritte à Carret \". \n\nAvec ses
+    grands espaces, son lac et ses sommets, que vous soyez sportifs ou non, en famille
+    ou entre amis, vous trouverez de nombreuses activités à faire pour tous à Aix
+    les Bains, au Grand Revard ainsi que dans ses alentours avec le massif des Bauges
+    et Annecy."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Les activités eau
+  content: |-
+    Avec le lac du Bourget, Aix les Bains vous permet de profiter de nombreuses activités.
+
+    Louer un paddle ou un kayak et partez naviguer sur ce lac sauvage. Vous pourrez alors découvrir les différents recoins du lac en naviguant sur l'eau.
+
+    Le lac du Bourget, c'est également un spot idéal pour la pratique du kitesurf. Vous pourrez alors vous essayer à cette pratique sensationnelle pour des moments riches en émotions.
+
+    Un peu au-dessus du lac, vous pourrez pratiquer dans différents secteurs, le canyoning. Il y a de nombreux spots dans les alentours et d'autres vers Annecy. Tout près du Grand Revard, vous pourrez trouver plusieurs Canyoning vers Lescheraines.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653471421/website/resorts/Le%20Revard/hugo-clement-VEv7ogEqZYA-unsplash.jpg
+  alt_text_for_image: Coucher de soleil avec mer de nuages au Grand revard
+  captiontitleuppercase: Un séjour dans un petit coin de paradis
+  title: Des lieux uniques pour vos activités
+  content: |-
+    Aix les Bains et le Grand Revard seront des lieux uniques pour vos activités outdoor de l'été. Vous pourrez profiter de ces nombreuses activités outdoors que ce soit en montagne, à pied, en courant, à vélo, à VTT, dans les airs ou dans l'eau avec le lac et ses rivières.
+
+    Découvrez des paysages époustouflants, un patrimoine savoyard riche, des lieux préservé et protégé.
+
+    Entre lac et montagne, votre séjour sera varié pour un maximum de plaisir dans ce soin de Savoie sauvage et unique.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---

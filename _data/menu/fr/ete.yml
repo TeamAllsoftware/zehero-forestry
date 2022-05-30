@@ -43,6 +43,8 @@ menu:
   column-01:
   - nested: Matériel // Préparation et outdoor
     menu-items:
+    - title: Location Matériel Canyoning 06
+      href: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
     - title: Que mettre dans son sac de randonnée pour une journée ?
       href: "/fr/ete/conseils/liste-materiel-randonnee"
     - title: Comment bien s'équiper en trail ?
@@ -76,11 +78,15 @@ menu:
   column-01:
   - nested: Les destinations
     menu-items:
+    - title: Chamonix
+      href: "/fr/ete/destinations/chamonix"
+    - title: Aix les Bain - Le Revard
+      href: fr/ete/destinations/aix-les-bains-le-revard
     - title: Val d'Isère
       href: "/fr/ete/destinations/val-d-isere"
     - title: Alpe d'Huez
       href: "/fr/ete/destinations/alpe-huez"
-    - title: Les ménuires
+    - title: Les Menuires
       href: "/fr/ete/destinations/les-menuires"
     - title: Méribel
       href: "/fr/ete/destinations/meribel"
@@ -89,6 +95,8 @@ menu:
   column-02:
   - nested: Les stations balnéaires
     menu-items:
+    - title: Porge
+      href: "/fr/ete/destinations/porge"
     - title: Hossegor
       href: "/fr/ete/destination/hossegor"
     - title: Messanges
@@ -131,6 +139,16 @@ menu:
   column-01:
   - nested: Les partenaires
     menu-items:
+    - title: Expérience Vélo
+      href: fr/ete/partenaires/experience-velo
+    - title: 7 Aventures
+      href: "/fr/ete/partenaires/7-aventures"
+    - title: L'Hôtel le Savoy, Méribel
+      href: "/fr/ete/partenaires/le-savoy-meribel"
+    - title: Morgan d'Avezac
+      href: https://www.ze-hero.com/fr/ete/partenaires/morgan-davezac-surf-seignosse
+    - title: Sama Sama Surf School
+      href: https://www.ze-hero.com/fr/ete/partenaires/sama-sama-surf-school
     - title: Cueilleurs de sommets
       href: "/fr/ete/partenaires/clement-sivera"
     - title: Yann Alarçon
