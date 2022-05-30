@@ -18,26 +18,21 @@ fields:
       file: 
       path: 
   label: Couleur de fond du composant
-- name: image_list
-  type: field_group
-  config: {}
+- name: imageList
+  type: field_group_list
   fields:
-  - name: image
-    type: field_group_list
-    fields:
-    - name: image_href
-      type: text
-      config:
-        required: false
-      label: image_href
-    - name: image_alt
-      type: text
-      config:
-        required: false
-      label: image_alt
+  - name: image_href
+    type: text
     config:
-      min: 
-      max: 
-      labelField: 
-    label: Image
-  label: Image list
+      required: true
+    label: image_href
+  - name: image_alt
+    type: text
+    config:
+      required: true
+    label: image_alt
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Images list

@@ -2,7 +2,10 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-12">
-                <img src="images/single-project-page-05-img-25.jpg" class="margin-4-rem-bottom sm-margin-2-rem-bottom wow animate__fadeIn" alt="" data-no-retina="" style="visibility: visible; animation-name: fadeIn;">
+               
+                {% for image in block.imageList %}
+                <img src="{{ image.image_href }}" class="margin-4-rem-bottom sm-margin-2-rem-bottom wow animate__fadeIn" alt="" data-no-retina="" style="visibility: visible; animation-name: fadeIn;">
+                {% endfor %}
             </div>
         </div>
     </div>

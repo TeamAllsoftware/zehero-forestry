@@ -41,7 +41,7 @@ menu:
   image-link: "/fr/ete/conseils"
   txt-button: Tous les conseils
   column-01:
-  - nested: Matériel
+  - nested: Matériel // Préparation et outdoor
     menu-items:
     - title: Que mettre dans son sac de randonnée pour une journée ?
       href: "/fr/ete/conseils/liste-materiel-randonnee"
@@ -74,7 +74,7 @@ menu:
   image-link: "/fr/ete/destinations"
   txt-button: Toutes les destinations
   column-01:
-  - nested: Les stations de montagne
+  - nested: Les destinations
     menu-items:
     - title: Val d'Isère
       href: "/fr/ete/destinations/val-d-isere"
@@ -104,18 +104,30 @@ menu:
   column-03:
   - nested: Les régions
     menu-items:
+    - title: Gard
+      href: "/fr/ete/destinations/le-gard"
+    - title: Haute-Savoie
+      href: "/fr/ete/destinations/haute-savoie"
+    - title: Landes
+      href: "/fr/ete/destinations/les-landes"
     - title: Loire Atlantique
       href: "/fr/ete/destinations/loire-atlantique"
     - title: Les Alpes Maritimes
       href: "/fr/ete/destinations/alpes-maritimes"
+    - title: Lozère
+      href: "/fr/ete/destinations/savolozereie"
+    - title: Pays-Basque
+      href: "/fr/ete/destinations/pays-basque"
     - title: Savoie
       href: "/fr/ete/destinations/savoie"
+    - title: Tarn
+      href: "/fr/ete/destinations/le-tarn"
 - title: Team ZE HERO
   id: "4"
-  title-link: "/fr/ete/team-zehero"
+  title-link: "#"
   image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg
   image-alt: Une femme grimpe une voie d'escalade indoor
-  image-link: "/fr/ete/"
+  image-link: "#"
   column-01:
   - nested: Les partenaires
     menu-items:

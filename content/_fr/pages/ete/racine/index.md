@@ -18,8 +18,8 @@ page_sections:
     title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
     color: white
   Button1:
-    title: Réserver un cours de surf
-    link: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    title: Réserver une sortie Kayak
+    link: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Kayak&start-date=
   Button2:
     title: ''
     link: ''
