@@ -86,6 +86,15 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Des activités Outdoor à Saint Jeannet
+  content: Les activités outdoor à Saint Jeannet ne manquent pas et vous pourrez profiter
+    de nombreuses activités pour tous. Que ce soit pour grimper les falaises du Baou
+    de Saint Jeannet, de randonner ou de courir sur les sentiers, de rouler à vélo
+    sur bitume ou en tout terrain ou encore de descendre les gorges du Loup, vous
+    trouverez ce qui vous plaira dans ce cadre environnemental incroyable de la côte
+    d'Azur.
 published: false
 
 ---
