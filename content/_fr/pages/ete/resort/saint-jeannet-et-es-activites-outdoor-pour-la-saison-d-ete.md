@@ -68,6 +68,24 @@ page_sections:
     Pour ceux qui souhaitent découvrir, profiter des lieux et des sentiers à vélo, vous pourrez alors pratiquer le VTT et le VTT électrique à Saint Jeannet. Le terrain reste technique par ses nombreux cailloux, mais vous pourrez profiter de nombreux itinéraires afin de partir en groupe, découvrir l'environnement, réaliser des descentes techniques et sensationnelles.
 
     Le vélo de route est aussi très pratiqué à Saint Jeannet et dans les Préalpes d’Azur. Vous pourrez parcourir les routes et grimper les nombreux cols dans les alentours, rouler au bord de mer et à travers les gorges du Loup. Découvrez le col de Vence, le col de l’Ecre, le col des Ferres, le col de Blaine, le Mont Vial. Vous avez le choix de faire des itinéraires variée pour toutes les envies et les niveaux.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
+  alt_text_for_image: Deux personnes dans un canyon dans les Alpes Maritimes
+  captiontitleuppercase: Tout près des canyons
+  title: Le Canyoning à Saint Jeannet
+  content: Il n'y a pas directement de canyoning à Saint Jeannet, mais les gorges
+    du Loup sont à 15mn en voiture. De là vous pourrez trouver de nombreuses descentes
+    de canyoning dans les gorges du Loup. Vous pourrez alors trouver des parcours
+    plus engagés avec des descentes en rappels comme à la cascade de Courmes. Mais
+    vous aurez également des canyonings plus ouverts avec des toboggans, des sauts
+    de 10m. Pour les familles, la descente des gorges du Loup est idéale car elle
+    permet de réaliser une randonnée aquatique accessible à tous afin de profiter
+    de cette activité et de l'environnement.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
