@@ -19,10 +19,9 @@ page_sections:
 - template: imgWideInBox
   blockBGcolor: blanc
   imageList:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653290970/website/Partenaires/Lego/Partenaire_jardin_enfant2.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653290970/website/Partenaires/Lego/Partenaire_jardin_enfant2.jpg
     image_alt: Val Thorens Prosneige en collaboration avec Lego Wear
-  imageList:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653290968/website/Partenaires/Lego/Partenaire_jardin_enfant.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653290968/website/Partenaires/Lego/Partenaire_jardin_enfant.jpg
     image_alt: Jardin d'enfants Val Thorens Prosneige X Lego Wear
 
 ---
