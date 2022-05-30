@@ -61,6 +61,13 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Rouler à Saint Jeannet
+  content: |-
+    Pour ceux qui souhaitent découvrir, profiter des lieux et des sentiers à vélo, vous pourrez alors pratiquer le VTT et le VTT électrique à Saint Jeannet. Le terrain reste technique par ses nombreux cailloux, mais vous pourrez profiter de nombreux itinéraires afin de partir en groupe, découvrir l'environnement, réaliser des descentes techniques et sensationnelles.
+
+    Le vélo de route est aussi très pratiqué à Saint Jeannet et dans les Préalpes d’Azur. Vous pourrez parcourir les routes et grimper les nombreux cols dans les alentours, rouler au bord de mer et à travers les gorges du Loup. Découvrez le col de Vence, le col de l’Ecre, le col des Ferres, le col de Blaine, le Mont Vial. Vous avez le choix de faire des itinéraires variée pour toutes les envies et les niveaux.
 published: false
 
 ---
