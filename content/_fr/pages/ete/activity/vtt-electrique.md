@@ -158,5 +158,27 @@ page_sections:
     text_button: Réserver votre sortie VTT à St Martin de Belleville
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Saint+Martin+de+Belleville&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
     alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653393324/website/Exp%C3%A9rience%20V%C3%A9lo/passage_%C3%A0_v%C3%A9lo_sur_la_passerelle_de_cusy_en_savoie..jpg
+  alt_text_for_image: 'Personne faisant du VTT électrique à Le Revard '
+  captiontitleuppercase: Découvrez le Grand Revard
+  title: VTT Electrique à Le Revard
+  content: Découvrez le massif des Bauges et le Lac du Bourget à Le Revard avec Experience
+    Velo en VTT Electrique. Une expérience unique pour des randonnées à VTT Electrique
+    de 3h qui vous feront découvrir le massif des Bauges en longeant le Cheiran, en
+    découvrant le petit Canada savoyard sur le plateau du Revard. Roulez à travers
+    forêts et clairières, avec des points de vue d'exception sur le Lac du Bourget
+    et le massif du Mont Blanc. Profitez de rouler sur des sentiers monotraces, 4*4
+    pour des descentes ludiques. Des randonnées familiales et sportives, pour tout
+    le monde dans une ambiance agréable. Tout près d'Aix les Bains, vous découvrirez
+    les secteurs de la Féclaz, du Revard afin de plonger dans une ambiance alpine
+    encadrée par un professionnel. Rouler avec Experience Velo c'est bénéficier aussi
+    de leur camp de base " le village tipi " du Revard, blottis au milieu des alpages
+    du petit Canada savoyard.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---

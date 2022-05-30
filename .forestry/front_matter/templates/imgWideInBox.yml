@@ -1,0 +1,38 @@
+---
+label: imgWideInBox
+hide_body: true
+fields:
+- name: blockBGcolor
+  type: select
+  default: blanc
+  config:
+    required: false
+    options:
+    - gris
+    - blanc
+    - blancGris
+    - grisBlanc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur de fond du composant
+- name: imageList
+  type: field_group_list
+  fields:
+  - name: image_href
+    type: text
+    config:
+      required: true
+    label: image_href
+  - name: image_alt
+    type: text
+    config:
+      required: true
+    label: image_alt
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Images list
