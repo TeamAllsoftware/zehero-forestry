@@ -23,7 +23,14 @@ image01_alt: Vue de la mer et de Saint Jeannet depuis la voix rouge
 button_to_link_to_ze_hero_shop:
   button_text: Réserver votre activité à Saint Jeannet
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-page_sections: []
+page_sections:
+- template: textarea
+  blockBGcolor: blanc
+  title: Le village de Saint Jeannet
+  content: |-
+    Saint Jeannet est un petit village situé dans les Alpes Maritimes, tout proche de Nice. Il se trouve dans les Préalpes d'Azur, proche des villages de Vence et de Tourrettes sur Loup. Perché dans les hauteurs, ce village est niché au pied du Baou de Saint Jeannet qui culmine à 800m d'altitude. Situé en adret, aux airs Provençale, on trouve un patrimoine culturel, environnemental et gastronomique riche et préservé. Il offre une vue imprenable sur la mer et la baie de la Côte d'Azur mais également sur les sommets des Préalpes et du Mercantour.
+
+    Saint Jeannet est le spot de grimpe dans la Côte d’Azur avec le Baou de St Jeannet. Mais c'est également un lieu parfait pour la pratique de la randonnée avec le GR51, du trail et de bien d'autres activités.
 published: false
 
 ---
