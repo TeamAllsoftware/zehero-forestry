@@ -12,10 +12,11 @@ topnav_color_text: dark
 page_sections:
 - template: heroImageFull
   top: oui
+  grosTitre: non
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545634/website/summer/raoul-du-plessis-NsaVr_DfTNA-unsplash.jpg
   gradient: grad
   headline:
-    title: <span>Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor</span>
+    title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
     color: white
   Button1:
     title: Réserver une sortie Kayak
