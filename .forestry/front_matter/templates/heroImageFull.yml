@@ -17,6 +17,21 @@ fields:
       section: 
       file: 
       path: 
+- type: select
+  name: grosTitre
+  label: Le titre doit-il être écrit en très gros ou non
+  default:
+  - oui
+  config:
+    required: false
+    options:
+    - oui
+    - non
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
 - name: image_href
   type: text
   config:
