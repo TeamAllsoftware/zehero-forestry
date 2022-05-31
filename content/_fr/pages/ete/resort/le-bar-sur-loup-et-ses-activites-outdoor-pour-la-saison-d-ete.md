@@ -3,9 +3,9 @@ layout: layout_resort
 language: fr
 season: summer
 type: generic
-meta-description: Découvrez ce petit village des Préalpes d'Azur. Entouré des sommets
-  de Courmettes, de Caussols, du Cheiron et profitant du Loup qui passe, c'est un
-  lieu idéal pour les activités Outdoor.
+meta-description: Découvrez les activités outdoors dans ce petit village des Préalpes
+  d'Azur, le Bar sur Loup. Entouré des sommets de Courmettes, de Caussols, du Cheiron
+  et profitant du Loup qui passe, c'est un lieu idéal pour les activités Outdoor.
 topnav_color_text: light
 introduction:
   you_arrive: Trouvez votre activité nature à Bar sur Loup
@@ -61,6 +61,7 @@ page_sections:
   Button2:
     title: ''
     link: ''
+  grosTitre: ''
 - template: textarea
   blockBGcolor: blanc
   content: |-
