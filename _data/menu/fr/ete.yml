@@ -43,6 +43,8 @@ menu:
   column-01:
   - nested: Matériel
     menu-items:
+    - title: Comment bien préparer sa sortie de randonnée à la journée ?
+      href: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
     - title: Location Matériel Canyoning 06
       href: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
     - title: Que mettre dans son sac de randonnée pour une journée ?
