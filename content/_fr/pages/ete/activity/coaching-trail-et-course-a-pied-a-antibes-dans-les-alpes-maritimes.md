@@ -8,9 +8,10 @@ title: Coaching Trail et course à pied Antibes et Alpes Maritimes
 permalink: "/fr/ete/activites/coaching-course-a-pied-trail-antibes-alpes-maritimes"
 redirect_from:
 - "/fr/ete/activite/coaching-course-a-pied-trail-antibes-alpes-maritimes"
-meta-title: Votre coach sportif Trail et Running à Antibes et Alpes Maritimes
-meta-description: Découvrez, progressez et atteignez vos objectifs grâce à un coach
-  sportif professionnel spécialisé en trail running
+meta-title: Coaching sportif Trail et course à pied Antibes
+meta-description: Réservez une séance de coaching sportif en Trail et Course à pied
+  à Antibes. Découvrez, progressez et atteignez vos objectifs grâce à un coach sportif
+  professionnel spécialisé en trail running.
 baseline: Courir, entrainement, progression
 engage: Accompagnement et progression en course à pied et Trail
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294098/website/Coaching/IMG_20200723_153328_iufidi.jpg
