@@ -41,7 +41,7 @@ menu:
   image-link: "/fr/ete/conseils"
   txt-button: Tous les conseils
   column-01:
-  - nested: Matériel // Préparation et outdoor
+  - nested: Matériel
     menu-items:
     - title: Location Matériel Canyoning 06
       href: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
@@ -52,13 +52,13 @@ menu:
     - title: Comment choisir ses chaussures de trail ?
       href: "/fr/ete/conseils/chaussures-trail"
   column-02:
-  - nested: Apprendre
+  - nested: Outdoor
     menu-items:
     - title: Comment bien préparer sa sortie de randonnée à la journée
       href: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
     - title: Débuter le Trail running
       href: "/fr/ete/conseils/comment-debuter-trail"
-  - nested: Entraînement / Préparation
+  - nested: Préparation
     menu-items:
     - title: Les itinéraires de trail dans le 06
       href: "/fr/ete/conseils/itineraires-trail-alpes-maritimes"
