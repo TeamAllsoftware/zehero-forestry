@@ -3,11 +3,11 @@ layout: layout_advice
 language: fr
 season: summer
 type: generic
-meta-title: Conseil sportif pour bien débuter en trail en tant que débutant
+meta-title: Conseil sportif débuter trail running
 meta-description: Savoir comment débuter le trail, comment s'équiper et s'entrainer
   lorsqu'on est débutant
 topnav_color_text: light
-title: Comment débuter le trail
+title: Comment débuter le trail ?
 permalink: "/fr/ete/conseils/comment-debuter-trail"
 redirect_from:
 - "/fr/comment-debuter-le-trail/"
