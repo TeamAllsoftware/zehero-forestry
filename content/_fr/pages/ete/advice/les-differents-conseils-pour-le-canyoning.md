@@ -3,8 +3,9 @@ layout: layout_advice
 language: fr
 season: summer
 type: generic
-meta-description: Le canyoning est une activité outdoor qui demande un certain niveau
-  technique et physique ainsi que plusieurs commandements pour s'engager en sécurité.
+meta-description: Découvrez nos différents conseils pour bien débuter dans le canyoning.
+  Le canyoning est une activité outdoor qui demande un certain niveau technique et
+  physique ainsi que plusieurs commandements pour s'engager en sécurité.
 topnav_color_text: light
 title: Les différents conseils pour le canyoning
 permalink: "/fr/ete/conseils/conseils-canyoning"
