@@ -204,7 +204,11 @@ menu:
       href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
     - title: Accessoires de Trail Running
       href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
-  column-02: 
+  column-02:
+  - nested: TEST
+    menu-items:
+    - title: ''
+      href: ''
 - title: Blog
   id: blog
   title-link: "/fr/ete/blog"
