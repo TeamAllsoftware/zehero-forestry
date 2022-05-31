@@ -70,6 +70,8 @@ menu:
       href: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
   - nested: Préparation
     menu-items:
+    - title: Comment débuter le trail ?
+      href: "/fr/ete/conseils/comment-debuter-trail"
     - title: Les itinéraires de trail dans le 06
       href: "/fr/ete/conseils/itineraires-trail-alpes-maritimes"
     - title: Le fractionné en Trail
