@@ -54,10 +54,20 @@ menu:
   column-02:
   - nested: Outdoor
     menu-items:
+    - title: Les différents conseils pour le canyoning
+      href: "/fr/ete/conseils/conseils-canyoning"
+    - title: Nos activités outdoor dans les Alpes Maritimes 06
+      href: "/fr/ete/conseils/nos-activites-outdoor-alpes-maritimes"
+    - title: Nos activités outdoor en Savoie 73
+      href: "/fr/ete/conseils/nos-activites-outdoor-savoie"
+    - title: Pourquoi vous devriez sortir en montagne, en forêt ou autre
+      href: "/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret"
+    - title: Quelles activités faire en montagne durant l'été
+      href: "/fr/ete/conseils/activites-montagne-ete"
+    - title: Séjours et activités en vélo de route
+      href: "/fr/ete/conseils/sejours-activites-velo-de-route"
     - title: Comment bien préparer sa sortie de randonnée à la journée
       href: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
-    - title: Débuter le Trail running
-      href: "/fr/ete/conseils/comment-debuter-trail"
   - nested: Préparation
     menu-items:
     - title: Les itinéraires de trail dans le 06
