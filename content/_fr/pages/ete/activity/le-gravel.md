@@ -5,7 +5,7 @@ season: summer
 type: generic
 categorie: Vélo
 topnav_color_text: dark
-meta-title: Entre bitume et sentier, le Gravel vous emmènera parout
+meta-title: 'Le Gravel - Vélo mi route mi chemin '
 meta-description: Le Gravel est un vélo de route plus solide et robuste avec des pneus
   pouvant aller sur les sentiers de terre. Un large choix de circuit et de trace s'offre
   à vous en variant les plaisirs.
