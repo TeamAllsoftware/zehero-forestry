@@ -207,8 +207,8 @@ menu:
   column-02:
   - nested: TEST
     menu-items:
-    - title: ''
-      href: ''
+    - title: TEST
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
 - title: Blog
   id: blog
   title-link: "/fr/ete/blog"
