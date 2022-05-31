@@ -178,7 +178,27 @@ menu:
   image-link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
   txt-button: Entrer dans le e-Shop
   column-01:
-  - nested: Acheter, louer, réserver en ligne
+  - nested: Réserver
+    menu-items:
+    - title: Surf
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    - title: Trail
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    - title: Canyoning
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+    - title: Vélo de route
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+    - title: Rafting
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Rafting&start-date=
+    - title: Randonnée
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Randonn%C3%A9e&start-date=#
+    - title: Hydrospeed
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hydrospeed&start-date=
+    - title: VTT
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
+    - title: Kayak
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Kayak&start-date=
+  - nested: Acheter
     menu-items:
     - title: Vêtements
       href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
