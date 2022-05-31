@@ -3,10 +3,10 @@ layout: layout_resort
 language: fr
 season: summer
 code_postal: 48,Lozère,Occitanie
-meta-description: La Lozère est un département peu connu pourtant elle est composé
-  de nombreux sites naturels d'exception. Entre le Parc des Cévennes, de l'Aubrac,
-  les gorges du Tarn et ses différents petits sommets, le Lozère est un terre nature
-  et d'outdoor.
+meta-description: Découvrez les nombreuses activités outdoor de la Lozère. Un département
+  peu connu pourtant elle est composé de nombreux sites naturels d'exception. Entre
+  le Parc des Cévennes, de l'Aubrac, les gorges du Tarn et ses différents petits sommets,
+  le Lozère est un terre nature et d'outdoor.
 topnav_color_text: light
 introduction:
   you_arrive: Vous arrivez en Lozère et vous souhaitez louer du matériel ou trouver
