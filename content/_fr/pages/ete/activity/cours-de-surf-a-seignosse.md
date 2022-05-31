@@ -5,9 +5,9 @@ season: summer
 type: generic
 categorie: Surf
 topnav_color_text: dark
-meta-title: Réservez votre cours de surf à Seignosse dans les Landes
-meta-description: Cours de surf privé ou collectif à Seignosse. Location de surf et
-  de combinaison de surf à Seignosse.
+meta-title: 'Réservez cours de surf à Seignosse '
+meta-description: Réservez un cours de surf privé ou collectif à Seignosse. Location
+  de surf et de combinaison de surf à Seignosse.
 title: Cours de surf à Seignosse
 permalink: "/fr/ete/activites/cours-surf-seignosse"
 baseline: Cours de surf à Seignosse
