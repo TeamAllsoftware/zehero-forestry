@@ -8,11 +8,10 @@ title: Vélo de route - Sorties journées - Méribel
 permalink: "/fr/ete/activites/velo-de-route-journees-meribel"
 redirect_from:
 - "/fr/velo-albertville/"
-meta-title: Sortie vélo à la journée pour découvrir la région de Méribel
-meta-description: Chez Ze Hero, nous avons créé des sorties vélo de route à la journée
-  en parallèle du stage vélo de route de 6 jours à Méribel dans le but de progresser
-  et découvrir nos différentes vallées et lacs. Entourés de nos belles montagnes savoyardes
-  et des routes emblématiques qui caractérisent notre secteur.
+meta-title: Sortie vélo journées Méribel Savoie
+meta-description: 'Trouvez votre sortie à la journée à vélo depuis Méribel et ses
+  alentours. Découvrez les plus beaux cols, les villages savoyards avec des journées
+  vélo uniques '
 baseline: Roulez et grimpez à Méribel
 engage: Six étapes de sortie vélo journée aux alentours de Méribel.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51412717941_e81ab34149_k_svjq0r.jpg

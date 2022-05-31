@@ -8,9 +8,9 @@ title: Location de Canoë / Kayak
 permalink: "/fr/ete/conseils/location-canoe-kayak"
 redirect_from:
 - "/fr/ete/conseil/location-canoe-kayak"
-meta-title: Louer un canoë kayak pour votre prochaine aventure
-meta-description: Voici nos conseils pour la location de Canoë Kayak afin de connaitre
-  les différentes critères et savoir comment les louer.
+meta-title: Location de Canoë Kayak - Mer et lacs
+meta-description: Voici nos conseils pour la location de Canoë Kayak de mer et de
+  lacs afin de connaitre les différentes critères et savoir comment les louer.
 baseline: Location de Canoë Kayak
 engage: Partez à l'aventure en naviguant sur un Kayak ou un Canoë
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588328/website/summer/jeff-isaak-p7nrRdMDebM-unsplash_wxc6gr.jpg

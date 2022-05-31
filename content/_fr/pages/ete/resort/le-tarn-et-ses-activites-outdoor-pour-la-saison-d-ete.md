@@ -3,9 +3,10 @@ layout: layout_resort
 language: fr
 season: summer
 type: generic
-meta-description: Le département du Tarn, c'est de grands espaces variées, une population
-  chaleureuse, des patrimoines classés et protégés. Un département idéal pour les
-  activité nature, pour un séjour sportif mais également de bien être et de détente.
+meta-description: Profitez des activité outdoor du département du Tarn, de ses grands
+  espaces variées, de sa population chaleureuse et de ses patrimoines classés et protégés.
+  Un département idéal pour les activité nature, pour un séjour sportif mais également
+  de bien être et de détente.
 topnav_color_text: light
 introduction:
   you_arrive: Vous arrivez dans le Tarn et vous souhaitez louer du matériel ou trouver

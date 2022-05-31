@@ -3,7 +3,7 @@ layout: layout_advice
 language: fr
 season: summer
 type: generic
-meta-title: Conseil sportif en trail, faire du fractionné pour progresser
+meta-title: Conseil sportif en trail - fractionné
 meta-description: Le fractionné est l’entraînement clé pour la progression et la performance.
   Si l’on veut progresser en trail, être plus rapide et plus efficace, vous devrez
   forcément passer par l’entraînement fractionné.
@@ -11,7 +11,7 @@ topnav_color_text: light
 title: Faire du fractionné en Trail
 permalink: "/fr/ete/conseils/fractionne-trail"
 redirect_from:
-  - /fr/ete/conseil/fractionne-trail
+- "/fr/ete/conseil/fractionne-trail"
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643381204/website/Conseil%20/sporlab-XiZ7pRvCzro-unsplash_fuh2hg.jpg
 image01_alt: Jambes d'un coureur faisant du fractionné en s'entrainant en course à
   pied avec des basquets de running.
@@ -31,6 +31,7 @@ page_sections:
     dans la semaine à basse allure.\n\nEnfin, faire du fractionné permet d’améliorer
     sa VMA, sa PMA, sa force, sa résistance mais aussi son système cardio-respiratoire."
   title: Le fractionné en Trail
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643381204/website/Conseil%20/malik-skydsgaard-xlubUawuzrE-unsplash_xclglv.jpg
   title: Qu’est ce que le fractionné ?
@@ -46,6 +47,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Coureur courant sur le goudron en ville
+  blockBGcolor: ''
 - template: textarea
   title: Les différents types d’entraînements en fractionné
   content: "On retrouve : le court, la VMA en moyenne et longue, le seuil, le Fartleck.\n\nCes
@@ -81,6 +83,7 @@ page_sections:
     est plus ludique et elle est très efficace pour progresser et travailler les variations
     d’allure, sa fréquence cardiaque et sa musculation. Vous pouvez varier les allures,
     les temps et les travailler en côte, en plat mais aussi en descente."
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643381204/website/Conseil%20/brian-erickson-ukqBUIYk6zM-unsplash_q2kml8.jpg
   captiontitleuppercase: La fréquence
@@ -100,6 +103,7 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: Coureur de trail courant en montagne sur un petit chemin
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 

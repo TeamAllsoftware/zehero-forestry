@@ -5,9 +5,9 @@ season: summer
 type: generic
 categorie: Vélo
 topnav_color_text: dark
-meta-title: Sortie VTT Electrique pour de longues randonnées
+meta-title: VTT Electrique - Randonnées et sorties sportives
 meta-description: Pratiquez le VTT électrique pour découvrir la montagne à vélo et
-  faire de longue balades
+  faire de longue balades. Sportive ou
 title: VTT Electrique
 permalink: "/fr/ete/activites/vtt-electrique"
 baseline: Balade, randonnée, découverte

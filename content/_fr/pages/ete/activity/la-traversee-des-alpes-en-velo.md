@@ -8,9 +8,9 @@ title: La traversée des Alpes en vélo
 permalink: "/fr/ete/activites/traversee-des-alpes-en-velo"
 redirect_from:
 - "/fr/velo-gravel-corsica-gravel-tour/"
-meta-title: Bikepacking en traversant les Alpes, une belle randonnée à vélo
-meta-description: Réalisez la traversée des Alpes en Vélo. Partagez des moments inoubliables
-  en roulant à travers des paysages magnifiques
+meta-title: Traversez les Alpes et les cols mythique à vélo
+meta-description: Réalisez la traversée des Alpes et des cols mythique à vélo. Partagez
+  des moments inoubliables en roulant à travers des paysages magnifiques
 baseline: Traversé, endurance et liberté
 engage: Traversez les Alpes à vélo par les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642520843/website/summer/pexels-pavel-danilyuk-5807686_jcwovf.jpg

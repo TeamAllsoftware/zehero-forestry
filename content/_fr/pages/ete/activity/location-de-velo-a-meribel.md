@@ -8,9 +8,9 @@ title: Location de vélo à Méribel
 permalink: "/fr/ete/activites/location-velo-meribel"
 redirect_from:
 - "/fr/ete/activite/location-velo-meribel"
-meta-title: Louer votre matériel vélo à Méribel
+meta-title: 'Location vélo, VTT et VAE - Méribel '
 meta-description: Trouver votre magasin de location de vélo à Méribel et louer tout
-  le matériel nécessaire pour vos prochaines aventures
+  le matériel de vélo, VTT et VAE nécessaire pour vos prochaines aventures
 baseline: Location Vélo Méribel
 engage: Louer votre vélo de route ou VTT et partez rouler à Méribel
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987030/website/V%C3%A9lo/48230596357_cd65f57885_k_glfk0s.jpg

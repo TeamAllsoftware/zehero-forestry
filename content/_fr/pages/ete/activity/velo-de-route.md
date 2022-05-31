@@ -10,8 +10,9 @@ redirect_from:
 - "/fr/velo-savoie-haute-savoie/"
 - "/fr/ete/activite/velo-de-route"
 meta-title: Sorties en vélo de route, parcours et cols
-meta-description: 'A l''assaut des cols mythiques en France : découvrez les plus belles
-  régions en vélo de route'
+meta-description: 'Trouver votre sortie à vélo en parcourant cols et itinéraires.
+  A l''assaut des cols mythiques en France : découvrez les plus belles régions en
+  vélo de route'
 baseline: Explorer, rouler et grimper
 engage: Explorez de nouveaux horizons et grimpez les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883618/website/summer/velo-duo-descente-col_bqhfjm.jpg

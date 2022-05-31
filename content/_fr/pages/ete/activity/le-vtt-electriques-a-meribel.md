@@ -5,11 +5,11 @@ season: summer
 type: generic
 categorie: Vélo
 topnav_color_text: dark
-meta-title: Le VTT électrique à Méribel, la montagne accessible à tous
-meta-description: LE VTT électrique à Méribel permet de réaliser de magnifiques randonnées
-  en montagne. Une activité ouverte à tout le monde, pour des aventures ludiques,
-  sportives et de découverte.
-title: Le VTT électrique à Méribel
+meta-title: VTT électrique à Méribel - Randonnées et itinéraires
+meta-description: Découvrez VTT électrique à Méribel permet de réaliser de magnifiques
+  randonnées et itinéraires en montagne. Une activité ouverte à tout le monde, pour
+  des aventures ludiques, sportives et de découverte.
+title: VTT électrique à Méribel
 permalink: "/fr/ete/activites/vtt-electrique-meribel"
 baseline: VTT Electrique à Méribel
 engage: Découvrez la montagne en VTT électrique à Méribel

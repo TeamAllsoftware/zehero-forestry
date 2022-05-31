@@ -8,7 +8,7 @@ title: Randonner en montagne
 permalink: "/fr/ete/activites/randonnee-montagne"
 redirect_from:
 - "/fr/ete/activite/randonnee-montagne"
-meta-title: Randonnée en montagne, comment la pratiquer au mieux
+meta-title: Randonner en montagne - Faune, flore et sommets
 meta-description: Pratiquez la randonnée en montagne ou en plaine à la découverte
   de la nature en famille, entre amis ou seul.
 baseline: Découvrir, marcher et respirer

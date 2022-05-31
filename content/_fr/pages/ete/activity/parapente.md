@@ -8,7 +8,7 @@ title: Parapente
 permalink: "/fr/ete/activites/parapente"
 redirect_from:
 - "/fr/ete/activite/parapente"
-meta-title: Le parapente, des sensations fortes et des paysages vus du ciel
+meta-title: Parapente - vols en montagne et dans les plaines
 meta-description: Partez voler et réalisez votre baptême de parapente en découvrant
   une toute nouvelle sensation avec des panoramas à couper le souffle
 baseline: Voler, admirer et profiter

@@ -3,8 +3,8 @@ layout: layout_resort
 language: fr
 season: summer
 type: generic
-meta-description: Trouvez votre activité outdoor ou louer votre matériel dans le pays
-  basque. Partez surfer, rouler,  grimper les montagnes et vivre le plein de sensation
+meta-description: Trouvez votre activité outdoor ou louer votre matériel dans le Pays
+  Basque. Partez surfer, rouler,  grimper les montagnes et vivre le plein de sensation
   en nature dans le pays basque.
 topnav_color_text: light
 introduction:

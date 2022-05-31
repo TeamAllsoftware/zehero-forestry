@@ -8,9 +8,9 @@ title: Le Canyoning à Annecy
 permalink: "/fr/ete/activites/canyoning-annecy"
 redirect_from:
 - "/fr/ete/activite/canyoning-annecy"
-meta-title: Venez faire du canyoning à Annecy et sa région
-meta-description: Profitez des différents canyonings proche d'Annecy pour des moments
-  d'évasions et de sensation forte.
+meta-title: Le Canyoning Annecy et Haute Savoie
+meta-description: Profitez de faire du canyoning à Annecy et en Haute Savoie avec
+  différents canyoning pour des moments d'évasions et de sensation forte.
 baseline: Canyoning autour d'Annecy
 engage: Du fun et du sport avec le canyoning à Annecy
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643642798/website/Canyon%2074/aurelien-krier-pwyueOgekMM-unsplash_1_x234ex.jpg

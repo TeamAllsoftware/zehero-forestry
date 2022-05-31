@@ -8,7 +8,7 @@ title: Paddle
 permalink: "/fr/ete/activites/paddle"
 redirect_from:
 - "/fr/ete/activite/paddle"
-meta-title: Le paddle, une activité pour naviguer sur l'eau debout
+meta-title: Paddle - Activité outdoor lac et mer
 meta-description: Partir naviguer en paddle sur un lac, sur la mer ou sur l'océan
   pour quelques heures
 baseline: Balade, randonnée et glisse

@@ -4,9 +4,10 @@ language: fr
 season: summer
 type: generic
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
-meta-description: Nice capitale de la Côte d'Azur est une ville parfaite profiter
-  du soleil, de la mer et de la nature. En plus de son dynamisme urbain, l'arrière
-  pays niçois vous fait découvrir une nature sauvage et préservé.
+meta-description: Trouvez votre activité outdoor à Nice, capitale de la Côte d'Azur.
+  Une ville parfaite pour profiter du soleil, de la mer et de la nature. En plus de
+  son dynamisme urbain, l'arrière pays niçois vous fait découvrir une nature sauvage
+  et préservé.
 topnav_color_text: light
 introduction:
   you_arrive: Vous arrivez à Nice et ses alentours et vous souhaitez louer du matériel

@@ -11,9 +11,10 @@ resort_nameid: meribel
 resort_naming: Méribel
 title: Méribel et ses activités outdoor pour la saison d'été
 meta-title: Activités outdoor à Méribel pour l'été
-meta-description: Méribel est composé de plusieurs villages et elle fait parti du
-  domaine les 3 Vallées. Entre le charme des ses villages, cette station sera féérique
-  entre son domaine skiable grandiose, ses forêts de sapin et son architecture.
+meta-description: Trouvez votre activité outdoor dans la station de Méribel. Elle
+  est composée de plusieurs villages et elle fait parti du domaine les 3 Vallées.
+  Entre le charme des ses villages, cette station sera féérique entre son domaine
+  skiable grandiose, ses forêts de sapin et son architecture.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51413475434_999c49bc4f_k_tzeznm.jpg
 image01_alt: Vue des montagnes à Méribel en Savoie.
 page_sections:
