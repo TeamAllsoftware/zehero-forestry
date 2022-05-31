@@ -10,7 +10,7 @@ title: Les différents conseils pour le canyoning
 permalink: "/fr/ete/conseils/conseils-canyoning"
 redirect_from:
 - "/fr/ete/conseil/conseils-canyoning"
-meta-title: Les conseils pour bien débuter le canyoning
+meta-title: 'Conseils canyoning pour débuter     '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
 image01_alt: Personne sautant dans l'eau dans un canyoning dans les alpes maritimes
 button_to_link_to_ze_hero_shop:
