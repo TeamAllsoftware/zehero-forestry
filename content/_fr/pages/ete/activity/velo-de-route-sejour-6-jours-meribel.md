@@ -8,10 +8,10 @@ title: Vélo de route - Séjour 6 jours - Méribel
 permalink: "/fr/ete/activites/velo-de-route-sejour-6-jours-meribel"
 redirect_from:
 - "/fr/ete/activite/velo-de-route-sejour-6-jours-meribel"
-meta-title: Séjour de 6 jours de vélo aux alentours de la station de Méribel
-meta-description: Chez Ze Hero, avec l’appui de Prosneige, nous avons créé ce séjour
-  vélo de découverte et progression à Méribel. Venez ainsi découvrir nos différentes
-  vallées et lacs entourés de nos belles montagnes.
+meta-title: Séjour 6 jours de vélo de route Méribel
+meta-description: Un séjour de 6 jours de vélo de route à Méribel avec l'appui de
+  Prosneige et de l'hôtel Le Savoy. Découvrez et progressez les environs de Méribel.
+  Venez ainsi découvrir nos différentes vallées et lacs entourés de nos belles montagnes.
 baseline: Un séjour sportif
 engage: Un séjour de 6 journées de vélo aux alentours de Méribel.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269873/website/M%C3%A9ribel/51382970215_d27314dc26_k_omvvhh.jpg
