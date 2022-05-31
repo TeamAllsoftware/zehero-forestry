@@ -180,7 +180,9 @@ menu:
   column-01:
   - nested: Acheter, louer, réserver en ligne
     menu-items:
-    - title: Equipement de Trail / Running
+    - title: Vêtements
+      href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
+    - title: Accessoires de Trail Running
       href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   column-02: 
 - title: Blog
