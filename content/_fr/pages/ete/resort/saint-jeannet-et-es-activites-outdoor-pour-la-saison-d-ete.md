@@ -3,9 +3,9 @@ layout: layout_resort
 language: fr
 season: summer
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
-meta-description: Découvrez le petit village de Saint Jeannet dans les Alpes Maritimes.
-  Au pied du Baou, il profite d'un soleil constant, d'un terrain de jeux incroyable
-  pour toutes les activités outdoor.
+meta-description: Découvrez les activités outdoor dans le petit village de Saint Jeannet
+  dans les Alpes Maritimes. Au pied du Baou, il profite d'un soleil constant, d'un
+  terrain de jeux incroyable pour toutes les activités outdoor.
 topnav_color_text: light
 introduction:
   you_arrive: Trouvez votre activité à Saint Jeannet
