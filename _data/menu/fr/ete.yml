@@ -192,6 +192,13 @@ menu:
   image-link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
   txt-button: Entrer dans le e-Shop
   column-01:
+  - nested: Acheter
+    menu-items:
+    - title: Vêtements
+      href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
+    - title: Accessoires de Trail Running
+      href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+  column-02:
   - nested: Réserver
     menu-items:
     - title: Surf
@@ -212,13 +219,6 @@ menu:
       href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
     - title: Kayak
       href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Kayak&start-date=
-  - nested: Acheter
-    menu-items:
-    - title: Vêtements
-      href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
-    - title: Accessoires de Trail Running
-      href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
-  column-02: []
 - title: Blog
   id: blog
   title-link: "/fr/ete/blog"
