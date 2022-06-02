@@ -52,7 +52,13 @@ page_sections:
   content: "Le prix du séjour vélo comprend\n\n● Encadrement – Moniteurs diplômés
     d’État  \n● Suivi technique et logistique (transports bagages et vélos)  \n● Ravitaillement
     en eau lors des étapes  \n● Dernière journée (repas, baignade Lac d’Annecy et
-    retour navette sur Méribel)"
+    retour navette sur Méribel)\n\nVous pouvez également profiter de ce séjour pour
+    loger dans notre hôtel partenaire Ze Hero à Méribel :  [l'hôtel Le Savoy](https://www.ze-hero.com/fr/ete/partenaires/le-savoy-meribel)
+    à Méribel Centre. Un hôtel authentique, pour séjour dans un cadre incroyable au
+    pied des montagne. Détendez vous dans le spa et au coin du feu ou encore sur la
+    terrasse face aux montagne après vos sorties de vélo de route. L'Hôtel Le Savoy
+    vous offrira une cuisine de qualité, un confort unique. Profiter d'un séjour à
+    Méribel dans un lieux convivial, chaleureux pour un moment d'évasion."
   blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189945/website/V%C3%A9lo/collage1_fmakyp.png
