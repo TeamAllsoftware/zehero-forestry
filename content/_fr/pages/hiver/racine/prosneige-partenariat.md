@@ -5,7 +5,7 @@ season: winter
 topnav_color_text: light
 title: Prosneige partenariat Lego
 permalink: "/fr/partenariat-lego"
-meta-title: 'Prosneige partenariat à Val Thorens '
+meta-title: 'Prosneige partenariat Lego Wear à Val Thorens '
 meta-description: Collaborez avec Prosneige Ski school et mettez en avant votre marque
   en station !
 baseline: 'Votre partenaire Prosneige ski school '
