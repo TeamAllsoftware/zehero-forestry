@@ -5,9 +5,9 @@ season: summer
 type: generic
 categorie: Eaux vives
 topnav_color_text: dark
-meta-title: Embarquez à plusieurs en rafting et naviguez en rivière
-meta-description: 'Partez vivre des sensations incroyable en groupe en rafting. Une
-  activité sportive et sensationnelle. '
+meta-title: Rafting - Embarcation en groupe en rivière
+meta-description: 'Le Rafting, une embarcation en groupe en rivière qui vous fera
+  vivre des sensations incroyable en groupe en rafting. Une activité sportive et sensationnelle. '
 title: Le Rafting
 permalink: "/fr/ete/activites/rafting"
 baseline: Equipe, sensation et découverte

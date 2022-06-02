@@ -4,7 +4,9 @@ language: fr
 season: winter
 type: generic
 meta-title: Conseil ski, bien choisir votre station de ski
-meta-description: Il existe un nombre important de station de ski en France. Comment choisir celle qui vous conviendra le mieux ?
+meta-description: Pour bien choisir sa station de ski, découvrez nos conseils ski.
+  Il existe un nombre important de station de ski en France. Comment choisir celle
+  qui vous conviendra le mieux ?
 topnav_color_text: light
 title: Quelles stations de ski choisir ?
 permalink: "/fr/hiver/conseils/choisir-station-ski"
@@ -23,6 +25,7 @@ page_sections:
     qu'en Tarentaise et celle du Jura par exemple, il y a différents critères à prendre
     en compte afin de bien choisir votre prochaine destination de ski.
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641994384/website/Conseil%20/teo-leguay-cwL11264paM-unsplash_xqkfej.jpg
   captiontitleuppercase: Les différents critères
@@ -55,6 +58,7 @@ page_sections:
     Les stations Label Famille Plus.  \nBien sûr, ce sont uniquement des exemples,
     cela peut déprendre absolument de ce que vous aimez et désirez faire."
   title: Avec qui ?
+  blockBGcolor: ''
 - template: textarea
   content: "Le choix de la station de ski va varier en fonction de votre pratique.
     Tout d'abord, si vous êtes un ou des passionnés de ski de fond alors séjourner
@@ -72,6 +76,7 @@ page_sections:
     comme : Méribel, Courchevel, Val Thorens, Tignes et Val d'Isère, Chamonix, La
     Plagne, l'Alpe d'Huez avec sa piste noire de 16 km."
   title: Quelle pratique ?
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641996517/website/Conseil%20/yann-allegre-aUjwjVJvJrU-unsplash_z9epra.jpg
   captiontitleuppercase: Confort, Festive, Sportive ou Familiale ?
@@ -105,6 +110,7 @@ page_sections:
     Saint Foy en Tarentaise...  \nCertaines stations offrent des jours d'ensoleillement
     incroyables comme les stations de ski de Serre Chevalier ou alors l'Alpe d'Huez."
   title: Moderne, charme ou sportive ?
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641994384/website/Conseil%20/ines-alvarez-fdez-F-gfrzSIPZo-unsplash_qkyvuy.jpg
   captiontitleuppercase: Les derniers points importants
@@ -132,6 +138,8 @@ page_sections:
     station et de votre niveau, il est aussi important de voir les activités disponibles
     gratuitement (notamment pour les enfants) et si la station met à disposition des
     zones gratuites pour les débutants."
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+
 ---

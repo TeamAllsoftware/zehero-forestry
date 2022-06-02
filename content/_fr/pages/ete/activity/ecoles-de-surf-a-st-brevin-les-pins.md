@@ -8,9 +8,10 @@ title: Ecoles de Surf à St Brevin les Pins
 permalink: "/fr/ete/activites/ecole-surf-st-brevin-les-pins"
 redirect_from:
 - "/fr/ete/activite/ecole-surf-st-brevin-les-pins"
-meta-title: Cours de surf adulte et enfant à Saint Brevin les Pins
-meta-description: Vous partez surfer à St Brévin les pins afin de pratiquer cette
-  activité de glisse. Retrouvez les différentes écoles de surf
+meta-title: Ecoles de surf et Cours de surf Saint Brevin les Pins
+meta-description: Découvrez les différentes écoles de surf et cours de surf à St Brévin
+  les pins afin de pratiquer cette activité de glisse. Retrouvez les différentes écoles
+  de surf et les différents cours de surf.
 baseline: Surfez à St Brévin-les-Pins
 engage: 'Apprenez à surfer en Loire Atlantique   '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7712_jj6zyy.jpg

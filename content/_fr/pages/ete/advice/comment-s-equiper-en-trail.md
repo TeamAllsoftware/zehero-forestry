@@ -3,7 +3,7 @@ layout: layout_advice
 language: fr
 season: summer
 type: generic
-meta-title: Conseil sportif pour bien s'équiper en trail lorsque l'on débute
+meta-title: Conseil sportif trail équipement trail
 meta-description: Comment s'équiper lorsqu'on pratique le trail running afin d'être
   bien habillé et d'avoir les bons équipements pour débuter.
 topnav_color_text: light

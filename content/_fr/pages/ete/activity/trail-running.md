@@ -12,9 +12,9 @@ redirect_from:
 - "/fr/faire-du-fractionne-en-trail/"
 - "/fr/course-trail/"
 - "/fr/ete/activite/trail-running"
-meta-title: Le trail, une activité outdoor à pratiquer en montagne, forêt...
-meta-description: Profitez de sortie de Trail Running pour découvrir la nature et
-  vous perfectionner dans ce sport.
+meta-title: Trail Running - Découvertes et entraînements
+meta-description: Profitez de sortie de Trail Running pour découvrir la nature, vous
+  entraîner et vous perfectionner dans des cadres magiques.
 baseline: Dépassement, liberté et partage
 engage: Partez fouler chaque sentier en vous dépassant
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642664026/website/summer/kalen-emsley-7bwQXzbF6KE-unsplash_ht13it.jpg

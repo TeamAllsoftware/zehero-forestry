@@ -3,10 +3,10 @@ layout: layout_resort
 language: fr
 season: summer
 type: generic
-meta-description: Le département du Gard regorge de parc naturel. Une véritable destination
-  entre mer et parc, qui vous fera découvrir des lieux où la nature prospère. Diverses
-  activité nature vous feront découvrir les plaisir de ce département du Sud de la
-  France.
+meta-description: Découvrez les différentes activités outdoors dans le département
+  du Gard qui regorge de parc naturel. Une véritable destination entre mer et parc,
+  qui vous fera découvrir des lieux où la nature prospère. Diverses activité nature
+  vous feront découvrir les plaisir de ce département du Sud de la France.
 topnav_color_text: light
 introduction:
   you_arrive: Vous arrivez dans le Gard et vous souhaitez louer du matériel ou trouver

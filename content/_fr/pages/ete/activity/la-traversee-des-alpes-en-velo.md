@@ -8,9 +8,9 @@ title: La traversée des Alpes en vélo
 permalink: "/fr/ete/activites/traversee-des-alpes-en-velo"
 redirect_from:
 - "/fr/velo-gravel-corsica-gravel-tour/"
-meta-title: Bikepacking en traversant les Alpes, une belle randonnée à vélo
-meta-description: Réalisez la traversée des Alpes en Vélo. Partagez des moments inoubliables
-  en roulant à travers des paysages magnifiques
+meta-title: Vélo de route - Traversée des Alpes et des cols mythique
+meta-description: Réalisez la traversée des Alpes et des cols mythique à vélo. Partagez
+  des moments inoubliables en roulant à travers des paysages magnifiques
 baseline: Traversé, endurance et liberté
 engage: Traversez les Alpes à vélo par les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642520843/website/summer/pexels-pavel-danilyuk-5807686_jcwovf.jpg
@@ -58,7 +58,15 @@ page_sections:
     de 6 jours.  \nEn résumé, si vous aimez les pentes qui s’élèvent alors vous serez
     servis ! Au départ d’Annecy vous traverserez les Aravis, le Beaufortin, la Haute
     Tarentaise, la Maurienne, les Hautes-Alpes, sans oublier les Alpes du Sud pour,
-    finalement, traverser l’arrière-pays Niçois et arriver à Nice."
+    finalement, traverser l’arrière-pays Niçois et arriver à Nice.\n\nVous profiterez
+    également de deux jours de mise en jambes au sein de Méribel avec le col de la
+    Lauze. Pour cela vous serez logé à Méribel centre au sein du magnifique [Hôtel
+    Le Savoy](https://www.ze-hero.com/fr/ete/partenaires/le-savoy-meribel). Un hôtel
+    authentique et de qualité ( 4 étoiles ), qui se trouve face au montagne et vous
+    proposera de nombreux services pour rendre votre séjour encore plus agréable.
+    Profitez de son spa, de sa grande terrasse, de sa restauration de qualité et de
+    chambre ultra-confort. L'hôtel Le Savoy est le lieu idéal pour commencer une traversée
+    à vélo de Alpes."
   blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521345/website/V%C3%A9lo/ETAPE-1-GRANDS-COLS_aowgzr.png

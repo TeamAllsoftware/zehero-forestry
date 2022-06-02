@@ -10,21 +10,49 @@ season: summer
 type: generic
 topnav_color_text: dark
 page_sections:
-- template: heroImageFull
+- template: heroImageFullSlider
   top: oui
-  grosTitre: non
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545634/website/summer/raoul-du-plessis-NsaVr_DfTNA-unsplash.jpg
-  gradient: grad
-  headline:
-    title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
-    color: white
-  Button1:
-    title: Réserver une sortie Kayak
-    link: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Kayak&start-date=
-  Button2:
-    title: ''
-    link: ''
-  button_2_more: false
+  imageList:
+  - grosTitre: non
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545634/website/summer/raoul-du-plessis-NsaVr_DfTNA-unsplash.jpg
+    gradient: grad
+    headline:
+      title: Nos équipes de passionnés vous ont préparé le meilleur des activités
+        outdoor
+      color: white
+    Button1:
+      title: Réserver une sortie Kayak
+      link: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Kayak&start-date=
+    Button2:
+      title: ''
+      link: ''
+    button_2_more: false
+  - grosTitre: non
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068255/website/Hotel/Savoy%20Meribel/salle.jpg
+    gradient: grad
+    headline:
+      title: Séjours vélo au départ de l'Hôtel Le Savoy à Méribel
+      color: white
+    Button1:
+      title: Découvrir l'hôtel
+      link: "/fr/ete/partenaires/le-savoy-meribel"
+    Button2:
+      title: Réserver un séjour vélo
+      link: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17571-velo-6-jours-chambre-simple-hotel-le-savoy-4-meribel-ze-hero-activite-ze-hero
+    button_2_more: true
+  - grosTitre: non
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358189/website/Altore/t%C3%A9l%C3%A9chargement_1.webp
+    gradient: grad
+    headline:
+      title: L'équipement Trail d'origine Corse, une marque de caractère
+      color: white
+    Button1:
+      title: Découvrir Altore pour le Trail
+      link: "/fr/marques/altore"
+    Button2:
+      title: ''
+      link: ''
+    button_2_more: false
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true
@@ -34,10 +62,10 @@ page_sections:
     title: Marque <br>Instinct Trail
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image2:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649075350/website/Sama%20Sama/222560203_126219926337611_385578455993659945_n.jpg
-    alt_text: Surf avec Sama Sama à Mimizan
-    title: Surf à Mimizan
-    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Mimizan&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068255/website/Hotel/Savoy%20Meribel/salle.jpg
+    alt_text: Séjourner à l'hôtel Le Savoy Méribel
+    title: Hôtel Le Savoy Méribel
+    title_Link: "/fr/ete/partenaires/le-savoy-meribel"
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648197165/website/assets/Personnages%20poses/Trail.png
     alt_text: Personnage ZE HERO en tenue de trail

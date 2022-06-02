@@ -5,10 +5,11 @@ season: summer
 type: generic
 categorie: Eaux vives
 topnav_color_text: dark
-meta-title: 'L''hydrospeed, la nage en eau libre '
-meta-description: 'Nagez dans les rivières, apprenez à lire les courants, découvrez
-  des nouvelles sensations uniques. Muni d''une paire de palme, d''un flottaire, d''une
-  combinaison et d''un casque, partez dans une aventure inoubliable. '
+meta-title: 'L''hydrospeed, nage et randonnée en eau libre '
+meta-description: 'Découvrez l''hydrospeed afin de nager dans les rivières, d''apprendre
+  à lire les courants, de découvrir des nouvelles sensations uniques. Muni d''une
+  paire de palme, d''un flottaire, d''une combinaison et d''un casque, partez dans
+  une aventure inoubliable. '
 title: L'Hydrospeed
 permalink: "/fr/ete/activites/hydrospeed"
 baseline: Surfez dans les rivières

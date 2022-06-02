@@ -8,8 +8,8 @@ title: Yoga
 permalink: "/fr/ete/activite/yoga"
 redirect_from:
 - "/fr/ete/activite/yoga"
-meta-title: Pratiquer le yoga pour son bien-être et la détente qu'il procure
-meta-description: Yoga, bien être et tonicité pour des effets mentaux et physiques
+meta-title: Activité Yoga - Méditation et Bien Etre
+meta-description: Pratiquez le Yoga afin de vous étirer, de méditer et de vous tonifier.
 baseline: Respiration, calme et fortifiant
 engage: Profitez d'une séance de Yoga en plein air
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643877190/website/summer/kike-vega-F2qh3yjz6Jk-unsplash_isuas9.jpg

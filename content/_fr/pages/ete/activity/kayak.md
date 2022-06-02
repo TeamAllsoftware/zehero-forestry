@@ -8,9 +8,9 @@ title: Kayak
 permalink: "/fr/ete/activites/kayak"
 redirect_from:
 - "/fr/kayak-savoie-haute-savoie/"
-meta-title: Le kayak, l'activité idéale pour explorer depuis l'eau
-meta-description: " Seul, ou à plusieurs, sur lacs, rivières ou même sur la mer, le
-  kayak vous offre une expérience hors du commun !"
+meta-title: Kayak - Randonnée sur mer sur lac ou rivières
+meta-description: " Randonnez sur mer, lac et rivière en Kayak, seul, ou à plusieurs
+  et vivez une expérience hors du commun !"
 baseline: Naviguez, glissez, profitez
 engage: Explorez et (re)découvrez en glissant sur l'eau
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545630/website/summer/christian-bowen-uknf_4Umtqc-unsplash.jpg

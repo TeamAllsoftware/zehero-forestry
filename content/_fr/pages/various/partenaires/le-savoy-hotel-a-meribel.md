@@ -35,7 +35,7 @@ page_sections:
 
     Au pied des montagnes et du parc de la Vanoise, l'hôtel vous ouvre ses portes et vous permet de profiter d'un séjour nature. De part sa situation idéale il vous sera facile de randonner, courir, découvrir les sentiers à VTT ou partir grimper les cols à vélo. Mais Le Savoy n'oublie pas les moments de calme et de sérénité et vous invite à rejoindre le lac de Tueda au petit matin pour une séance de Yoga.
 
-    En famille, entre amis, en couple, Le Savoy vous accueille pour un moment chaleureux, de confort, de convivialité, chaleureux. Vous pourrez profiter de sa restauration et de sa terrasse face aux montagnes, de son lieu de bien-être, de sa bibliothèque et de son bar.
+    En famille, entre amis, en couple, Le Savoy vous accueille pour un moment chaleureux, de confort et de convivialité. Vous pourrez profiter de sa restauration et de sa terrasse, de son lieu de bien-être, de sa bibliothèque et de son bar.
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068257/website/Hotel/Savoy%20Meribel/20210628_-_Hotel_Le_Savoy-355.jpg
@@ -45,8 +45,7 @@ page_sections:
   content: Les chambres et les suites de l'hôtel le Savoy vous transporteront dans
     du coton et dans une bulle d'évasion. Face aux montagnes, elles vous permettront
     de vous sentir dans un petit nid douillet en profitant d'une imprenable vue. Calme
-    et volupté, dans des chambres authentiques vous permettant de profiter de détente
-    sur le balcon ou la terrasse de votre chambre.
+    et volupté, dans des chambres authentiques vous permettant de vous détendre.
   button:
     text_button: ''
     href_button: ''
@@ -56,12 +55,12 @@ page_sections:
   content: |-
     L'hôtel Le Savoy propose différents types de chambres et de suites :
 
-    * La chambre Tradition
-    * La chambre Tradition avec balcon au sud pour un ensoleillement parfait
-    * La chambre Charme
-    * La Suite
-    * La Honey Suite
-    * La Family Suite
+    * La chambre Tradition avec balcon
+    * La chambre Sun Tradition avec balcon au sud pour un ensoleillement parfait
+    * La chambre Charme exposée sud
+    * La Suite avec balcon
+    * La Honey Suite avec balcon
+    * La Family Suite avec balcon
 
     Aux couleurs vives, dans un cadre féerique, ces différentes chambres vont de 18m² à 55m². Modernes et fonctionnelles, elles vous permettront d'être en immersion totale. Ressourcez-vous dans votre chambre après vos activités et vos balades pour un moment de confort et de bien-être.
   title: ''
@@ -86,7 +85,7 @@ page_sections:
   captiontitleuppercase: Charme et élégance
   title: La restauration
   content: Séjournez à l’hôtel Le Savoy, c’est profiter d’une salle de restauration
-    élégante au charme montagnard. Pour des moments de partage et de convivialité
+    élégante au charme montagnard ou de sa vaste terrasse. Pour des moments de partage et de convivialité
     autour de grandes tables, ou de manière plus intimiste, découvrez une carte surprenante qui
     éveillera toutes vos papilles. Des plats délicieux et variés, laissez-vous tenter
     par des saveurs uniques et une cuisine bistronomique.
@@ -97,11 +96,9 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   content: |-
-    Vous pourrez profiter de sa grande terrasse afin de déjeuner au soleil face aux montagnes en écoutant les oiseaux chanter et les sons de la nature. Savourez un petit-déjeuner, un goûter ou même seulement une boisson chaude, ou fraîche, sur la terrasse baignée par le soleil et le calme.
+    Vous pourrez profiter de sa grande terrasse afin de déjeuner au soleil en écoutant les oiseaux chanter et les sons de la nature. Savourez un petit-déjeuner, un goûter ou même seulement une boisson chaude, ou fraîche, sur la terrasse baignée par le soleil et le calme.
 
     Désaltérerez-vous au Bar du Savoy, un lieu coloré où règne une ambiance chaleureuse et conviviale. Découvrez une carte surprenante pour laquelle les barmans exercent l'art du cocktail. Laissez-vous surprendre par leurs talents et leur créativité. Vous pourrez déguster directement sur place des tapas et des planches à partager.
-
-    En fin de journée, après vos activités en montagne, profitez du High Time, un goûter gourmand et savoureux, salé et sucré afin de profiter d'une délicieuse récompense après l'effort.
   title: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
@@ -129,7 +126,7 @@ page_sections:
   Image1:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068255/website/Hotel/Savoy%20Meribel/20210628_-_Hotel_Le_Savoy-383-min.jpg
     alt_text: Chambre et lit de l'hôtel Le Savoy
-    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17204-sejour-meribel-en-velo-6-jours-activite-ze-hero
+    title_Link: 
     title: 'Des chambres authentiques '
   Image2:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643987031/website/V%C3%A9lo/48229908541_fc334f5f80_k_nsl7mu.jpg
@@ -161,7 +158,7 @@ page_sections:
     Col de la Madeleine, Col du petit Saint Bernard, Cormet de Roseland, tour du Lac
     d'Annecy. Vous logerez au sein de l'hôtel Le Savoy à Méribel et pourrez vous détendre
     après vos journées à vélo. Nous proposons des offres en chambre double ou en chambre
-    simple. 
+    simple. Ce séjour vélo, en étoile depuis l'hôtel, vous est proposé avec notre parteniare transport qui vous accompagne lors de vos journées verrs les différents cols (matériel et vélo dans les véhicules pour une approche en bonne condition)
     
     Découvrez le séjour en détail : [**Séjours vélo de route - Méribel
     -Le Savoy**](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)

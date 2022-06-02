@@ -8,11 +8,10 @@ title: Vélo de route - Sorties journées - Méribel
 permalink: "/fr/ete/activites/velo-de-route-journees-meribel"
 redirect_from:
 - "/fr/velo-albertville/"
-meta-title: Sortie vélo à la journée pour découvrir la région de Méribel
-meta-description: Chez Ze Hero, nous avons créé des sorties vélo de route à la journée
-  en parallèle du stage vélo de route de 6 jours à Méribel dans le but de progresser
-  et découvrir nos différentes vallées et lacs. Entourés de nos belles montagnes savoyardes
-  et des routes emblématiques qui caractérisent notre secteur.
+meta-title: Sortie vélo journées Méribel Savoie
+meta-description: 'Trouvez votre sortie à la journée à vélo depuis Méribel et ses
+  alentours. Découvrez les plus beaux cols, les villages savoyards avec des journées
+  vélo uniques '
 baseline: Roulez et grimpez à Méribel
 engage: Six étapes de sortie vélo journée aux alentours de Méribel.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51412717941_e81ab34149_k_svjq0r.jpg
@@ -33,7 +32,13 @@ page_sections:
     donc réserver les journées qui vous intéressent le plus.\n\nLe prix des sorties
     vélo journée comprend :  \n\\- Encadrement – Moniteurs diplômés d’État  \n\\-
     Ravitaillement en eau lors des étapes  \n\\- Suivi technique et logistique (transports
-    bagages et vélos)"
+    bagages et vélos)\n\nVous serez loger dans [l'hôtel Le Savoy](https://www.ze-hero.com/fr/ete/partenaires/le-savoy-meribel)
+    à Méribel Centre. Vous pourrez alors profiter d'un hôtel authentique, d'un séjour
+    idéal dans un cadre incroyable au pied des montagne. Vous pourrez vous détendre
+    après vos sorties de vélo à Méribel, dans le spa et au coin du feu ou encore sur
+    la terrasse face aux montagne. L'Hôtel Le Savoy vous offrira une cuisine de qualité,
+    un confort unique. Profiter d'un séjour à Méribel dans un lieux convivial, chaleureux
+    pour un moment d'évasion."
   blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189945/website/V%C3%A9lo/collage1_fmakyp.png
@@ -149,6 +154,6 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=M%C3%A9ribel&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
 
 ---

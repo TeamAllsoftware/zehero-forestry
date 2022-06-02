@@ -3,9 +3,10 @@ layout: layout_resort
 language: fr
 season: summer
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
-meta-description: Découvrez un lieux unique et sauvage à Aix les Bains avec le Lac
-  du Bourget. Dans ces alentours, vous découvrirez Le Revard et ses plateaux alpin.
-  Un vaste choix d'activités outdoor que ce soit sur lac ou sur sentiers.
+meta-description: Découvrez les activités outdoor dans un lieux unique et sauvage
+  à Aix les Bains avec le Lac du Bourget. Dans ces alentours, vous découvrirez Le
+  Revard et ses plateaux alpin. Un vaste choix d'activités outdoor que ce soit sur
+  lac ou sur sentiers.
 topnav_color_text: light
 introduction:
   you_arrive: Vous arrivez à Aix les Bains et Le revard et vous souhaitez louer du

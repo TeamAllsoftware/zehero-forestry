@@ -8,7 +8,7 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Coaching sportif
-meta-title: 'Réserver un coach sportif pour vous préparer physiquement '
+meta-title: Réserver un coach sportif - Préparation et entraînement
 meta-description: Profitez d'un coach et d'une séance de coaching sportif afin d'atteindre
   vos prochains objetcifs
 baseline: Préparation physique, dépassement, entraînement

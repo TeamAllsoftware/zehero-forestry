@@ -8,9 +8,9 @@ title: La location de Paddle dans les Alpes Maritimes
 permalink: "/fr/ete/activites/location-paddle-alpes-maritimes"
 redirect_from:
 - "/fr/ete/activite/location-paddle-alpes-maritimes"
-meta-title: Venez faire du paddle dans les eaux des Alpes Maritimes
-meta-description: Partez explorer les lacs et le littoral des Alpes Maritimes en louant
-  un paddle.
+meta-title: Location Paddle Alpes Maritimes - Lac et mer
+meta-description: Louer votre paddle dans les Alpes maritimes et partez explorer les
+  lacs et le littoral des Alpes Maritimes en louant un paddle.
 baseline: Location Paddle Alpes Maritimes
 engage: Explorez les Alpes Maritimes en Paddle sur lac ou mer
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643972871/website/Conseil%20Equiepement/dieter-schafer-b6NiWBQ8kno-unsplash_xnsmg1.jpg

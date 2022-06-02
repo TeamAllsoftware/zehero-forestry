@@ -4,8 +4,9 @@ language: fr
 season: summer
 type: generic
 meta-title: Activités outdoor en Loire Atlantique pour l'été
-meta-description: Département situé dans la Bretagne, venez profiter d'activité nautique
-  tel que le surf.
+meta-description: Trouvez votre prochaine activité outdoor en Loire Atlantique. Un
+  département situé dans la Bretagne, venez profiter d'activité nautique tel que le
+  surf.
 topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités et la location dans la Loire Atlantique.

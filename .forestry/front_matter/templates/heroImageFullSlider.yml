@@ -1,0 +1,98 @@
+---
+label: heroImageFullSlider
+hide_body: true
+fields:
+- type: select
+  name: top
+  label: 1er block de la page ?
+  default:
+  - oui
+  config:
+    required: false
+    options:
+    - oui
+    - non
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+- name: imageList
+  type: field_group_list
+  fields:
+  - type: select
+    name: grosTitre
+    label: Le titre doit-il être écrit en très gros ou non
+    default:
+    - oui
+    config:
+      required: false
+      options:
+      - oui
+      - non
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+  - name: image_href
+    type: text
+    config:
+      required: true
+    label: URL de l'image de fond
+    description: image de fond du composant
+  - name: gradient
+    type: text
+    config:
+      required: true
+    label: Dégradé du fond, non ou "Grad" ?
+  - name: headline
+    label: headline
+    type: field_group
+    config:
+      required: true
+    fields:
+    - name: title
+      type: text
+      config:
+        required: true
+      label: Title
+    - name: color
+      type: text
+      config:
+        required: true
+      label: color
+    description: gros titre
+  - name: Button1
+    label: Button1
+    type: field_group
+    config: {}
+    fields:
+    - name: title
+      type: text
+      config:
+        required: true
+      label: Title
+    - name: link
+      type: text
+      config:
+        required: true
+      label: link
+  - name: button_2_more
+    type: boolean
+    label: Besoin du button 2
+  - name: Button2
+    label: Button2
+    type: field_group
+    config: {}
+    fields:
+    - name: title
+      type: text
+      label: Title
+    - name: link
+      type: text
+      label: link
+    showOnly:
+      field: button_2_more
+      value: true
+  label: Images list
