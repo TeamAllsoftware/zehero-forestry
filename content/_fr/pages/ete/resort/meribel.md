@@ -86,7 +86,15 @@ page_sections:
     de route](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)
     avec de nombreuses ascensions et parcours qui vous feront découvrir les paysages
     de montagne et de Savoie. Lancez vous dans des défis sportifs en grimpant le fameux
-    col de la Loze."
+    col de la Loze.  \nVous pourrez alors découvrir nos nombreuses offres depuis Méribel
+    qui sont en partenariat avec [l'Hôtel Le Savoy](https://www.ze-hero.com/fr/ete/partenaires/le-savoy-meribel)
+    situé au centre de Méribel. Un hôtel 4 étoiles, authentique, face aux montagnes,
+    pour un séjour de dépaysement et de bien être. Voici les différentes offres de
+    vélo de route à Méribel avec les nuits à l'Hôtel Le Savoy :\n\n* [Séjours de 6
+    jours de vélo à Méribel ](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)\n*
+    [Sortie journée de vélo à Méribel](https://www.ze-hero.com/fr/ete/activites/velo-de-route-journees-meribel)\n*
+    [Traversée des Préalpes depuis Méribel](https://www.ze-hero.com/fr/ete/activites/traversee-des-pre-alpes-en-velo)\n*
+    [Traversée des Alpes à vélo depuis Méribel](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)"
   title: ''
 - template: parlaxgridtxtimg
   parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269873/website/M%C3%A9ribel/51412716796_70cc7b315e_k_plp4js.jpg
