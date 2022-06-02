@@ -83,3 +83,78 @@ hiver:
   ski-km: 220
   stations:
     - La Clusaz (1000m)
+
+ete:
+  - resort: 
+    title: Nice
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654009894/website/Seminaires/ete/arno-smit-lndaG6uN1yw-unsplash.jpg
+    image_alt: Vue aérienne de Nice avec la promenade des anglais, le litoral, la mer et l'arrière pays
+    content: |-
+      Située à une trentaine de Km de l'Italie, est bordée par la baie des Anges et entourée de plusieurs collines qui offrent un paysage grandiose.
+  - resort: 
+    title: Cannes
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654182392/website/Seminaires/ete/Cannes/jim-thirion-5wSTD4OwPFo-unsplash.jpg
+    image_alt: Vue de Cannes et de la croisette avec le palais des festivals et les palmiers
+    content: |-
+      Capitale du cinéma... offre une grande variété d'activités touristiques et culturelles. Son histoire lui confère une identité particulière avec une architecture riche et des mystères comme celui du masque de fer...
+  - resort: 
+    title: Monaco
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654182798/website/Seminaires/ete/Monaco/roxana-crusemire-i7B3AASGeRk-unsplash.jpg
+    image_alt: Vue du Rocher de Monaco avec les Yachts et les immeubles de luxe
+    content: |-
+      Petite cité-Etat, la Principauté de Monaco a de nombreuses spécificités. En plus de sa langue, le monégasque et des spécialités culinaires, le petit pays est surtout connu pour son Casino et ses jeux.
+  - resort: 
+    title: Menton
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654183064/website/Seminaires/ete/Menton/amira-el-fohail-bCrSMQexdOw-unsplash.jpg
+    image_alt: Menton et sa vieille ville vue depuis la mer
+    content: |-
+      Ville frontalière de l'Italie, labellisée "Ville d'Art et d'Histoire", la cité du citron offre un patrimoine naturel et historique exceptionnels avec ses jardins posés au dessus de la mer...
+  - resort: 
+    title: Eze
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654183184/website/Seminaires/ete/Eze/lidija-jakovljevic-_zRsP2wzcew-unsplash.jpg
+    image_alt: Vue sur la vieille ville depuis les hauteurs de la ville avec la mer en contre bas
+    content: |-
+      Perché au dessus de la mer, le village médiéval d'Eze avec son château et ses petites ruelles étroites attire artistes et écrivains de renom dont jadis le philosophe Nietzsche...
+  - resort: 
+    title: Vence / St Paul de Vence
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654183345/website/Seminaires/ete/Saint%20Paul%20de%20Vence/v2f-axD--Oq9uus-unsplash.jpg
+    image_alt: Vue de la vieille ville et ses vieilles maisons typiques
+    content: |-
+      Perchée dans le Moyen Pays, juste au dessus de la mer et accoudée au Baou, ces montagnes calcaires accidentées, Vence continue d'éblouir ses visiteurs. Le village a également charmé de nombreux artistes (Matisse, Chagall...) avec ses remparts et vestiges du passé.
+  - resort: 
+    title: Saint-Jeannet
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654183470/website/Seminaires/ete/Saint%20jeannet/niklas-ohlrogge-wtgjxJCZM3A-unsplash.jpg
+    image_alt: Saint-Jeannet et son Baou, le rocher à escalader ou sur lequel randonner
+    content: |-
+      Depuis ce village blotti au pied du Baou, "rocher" en provençal qui culmine à 800 m avec sa falaise propice à la randonnée et à l'escalade, s'étend un large panorama des sommets alpins du Mercantour aux collines niçoises, aux iles de Lérins et au massif de l'Estérel...
+  - resort: 
+    title: Grasse
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654183719/website/Seminaires/ete/Grasse/laura-chouette-ETFzqEzSuN8-unsplash.jpg
+    image_alt: La ville de Grasse et son histoire avec les maisons de parfum
+    content: |-
+      "Ville d'Art et d'Histoire", ville du Parfum, elle dénombre quelques-unes des plus belles collections d'objets anciens liés à l'histoire du parfum. De même que des usines, distilleries, savonneries, musées sont à visiter sans mesure. Grasse compte un important domaine forestier dont près d'un quart est classé réserve naturelle.
+  - resort: 
+    title: Antibes
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654184022/website/Seminaires/ete/Antibes/v2f-KXSU9kE0wsc-unsplash.jpg
+    image_alt: Antibes et le Fort-Carré avec les montagnes en arrière plan
+    content: |-
+      Située au nord du cap d'Antibes, avec une façade maritime tournée vers la baie des Anges et Nice bien visible à l'Est... cette cité millénaire a été fondée par les Grecs avant Nice... Le vieux port, le Fort-Carré, la Porte Marine et les remparts sont l'occasion d'une visite historique de la ville. 
+  - resort: 
+    title: Saint Tropez
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654184226/website/Seminaires/ete/Saint%20Tropez/clemens-van-lay-Q7oWD9dIaOA-unsplash.jpg
+    image_alt: Saint-Tropez, son port, ses petites ruelles, ses stars de cinéma et ses bateaux colorés
+    content: |-
+      Village avec ses ruelles, remparts et son vieux port de pêcheurs..., Saint Tropez offre des moments de détente sur la place des Lices appréciée par les écrivains et célébrités.
+      Considérée comme capitale mondiale de la Voile et des Arts, Saint Tropez est très animée sur le port et dans les boutiques de grands couturiers...
+  - resort: 
+    title: Saint Raphaël
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654184434/website/Seminaires/ete/Saint%20Raphael/adrian-negura-aSEGuqqnDTQ-unsplash.jpg
+    image_alt: Saint-Raphaël et son litoral découpé de criques et calanques
+    content: |-
+      Entre le Massif de l'Estérel et le littoral méditerranéen, découpés de criques et calanques, Saint-Raphaël offre différents lieux de visites : vieux port et port de plaisance, Valescure, Boulouris, Le Dramont, Agay, Anthéor, encore le Trayas et le Casino !
+  - resort: 
+    title: Parc du Mercantour
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654184531/website/Seminaires/ete/Mercantour/sebastien-goldberg-irIbLCBHEnc-unsplash.jpg
+    image_alt: Le Parc du Mercantour et sa faune sauvage
+    content: |-
+      Dernier promontoire de l'arc Alpin du sud... avant sa plongée brutale dans la mer méditerranée... A la cime du Gélas, plus haut sommet du Mercantour (3 143 m.), vous êtes seulement à 50 Km de la mer à vol d'oiseau !

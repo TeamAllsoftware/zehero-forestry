@@ -9,20 +9,20 @@ title: L'équipe d'organisation de séminaires hiver
 permalink: "/fr/seminaires-ete/equipe-organisation"
 meta-title: Qui sommes nous, contactez notre équipe de fan d'outdoor
 meta-description: Connaissez-vous Ze Hero, la référence de l'Outdoor ? Découvrez l'équipe
-  Ze Hero, notre histoire et les valeurs qui nous animent
+  Ze Hero, notre histoire et les valeurs qui nous animent pour organiser votre séminaire d'entreprise
 baseline: Découvrez ZE HERO
 redirection_from:
 page_sections:
 - template: heroImageTitle01
   top: oui
-  baseline: Basée au coeur des Alpes
+  baseline: Basée à Nice et au coeur des Alpes aux Houches
   title: L'équipe sélectionne les meilleures prestations
   engage:  Votre évènement en formule tout-compris
-  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653030735/website/Seminaires/hiver/IMG_1450.jpg
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643040082/website/summer/IMG_20200725_103745_svblrc.jpg
   image01_alt: Votre équipe d'organisation pour votre prochain séminaire d'entreprise
 - template: 2colTitreTxt
   title: Votre équipe d'organisation
-  content: Basée au coeur des Alpes, l'équipe sélectionne les meilleures prestations pour votre événement et propose une formule tout-compris (hébergement, activités et visites, transferts).
+  content: Basée à Nice et au coeur des Alpes aux Houches, l'équipe sélectionne les meilleures prestations pour votre événement et propose une formule tout-compris (hébergement, activités et visites, transferts). Votre prochain séminaire d'entreprise ne ressemblera à aucun autre.
 - template: 2colimgtxt
   blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653490111/website/global/staff/claire.jpg

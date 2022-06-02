@@ -11,7 +11,7 @@ menu:
 - title: L'équipe
   id: "1"
   title-link: "/fr/seminaires-ete/equipe-organisation"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643109225/website/summer/1_uga5co.png
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643109225/website/summer/1_uga5co.png 
   image-alt: Notre équipe d'organisation de votre séminaire d'entreprise
   image-link: /fr/seminaires-ete/equipe-organisation
   txt-button: Découvrir l'équipe
