@@ -24,5 +24,10 @@ page_sections:
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654169842/website/Partenaires/Lego/presentation/Votremarque_jardin_enfant.jpg
   alt_text_for_image: Votre marque 2
+- template: imgWideInBox
+  blockBGcolor: blanc
+  imageList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654169842/website/Partenaires/Lego/presentation/Votremarque_jardin_enfant2.jpg
+    image_alt: Votre marque 1
 
 ---
