@@ -21,6 +21,8 @@ page_sections:
   imageList:
   - image_href: ''
     image_alt: ''
+  - image_href: ''
+    image_alt: ''
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653290970/website/Partenaires/Lego/Partenaire_jardin_enfant2.jpg
     image_alt: Val Thorens Prosneige en collaboration avec Lego Wear
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653290968/website/Partenaires/Lego/Partenaire_jardin_enfant.jpg
