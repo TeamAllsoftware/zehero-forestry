@@ -27,7 +27,9 @@ page_sections:
 
     Ainsi, nous sommes heureux de vous proposer cette traversée des **Pré-Alpes** : un parcours de **650kms pour 12000m de dénivelé en 6 étapes !**
 
-    Au départ de **Chambéry** vous traverserez la **Chartreuse**, le **Vercors**, les **Monts du Vaucluse** avec le **Ventoux**, sans oublier les **gorges du Verdon** pour, finalement, traverser l‘arrière pays Niçois et arriver à **Nice.**
+    Au départ de **Méribel** après deux jours de lancement, vous traverserez la **Chartreuse**, le **Vercors**, les **Monts du Vaucluse** avec le **Ventoux**, sans oublier les **gorges du Verdon** pour, finalement, traverser l‘arrière pays Niçois et arriver à **Nice.**
+
+    Pour les jours de lancement à Méribel, vous pourrez alors loger dans[ l'Hôtel Le Savoy](https://www.ze-hero.com/fr/ete/partenaires/le-savoy-meribel) afin de profiter de nuit dans un hôtel authentique. Vous pourrez également vous détendre dans le spa, au coin du feu et déguster des bons plats  avec une restauration de qualité.
   title: La traversée des Pré-Alpes
   blockBGcolor: ''
 - template: textarea
