@@ -10,6 +10,12 @@ menu:
   column-01:
   - nested: Herbe, cailloux, asphalte
     menu-items:
+    - title: " Trail Running Alpes Maritimes : mer et Préalpes Azur"
+      href: "/fr/ete/activites/trail-06-mer-prealpes-azur"
+    - title: Vélo de route - Séjour 6 jours - Méribel
+      href: "/fr/ete/activites/velo-de-route-sejour-6-jours-meribel"
+    - title: VTT electrique
+      href: "/fr/ete/activites/vtt-electrique"
     - title: Vélo de route
       href: "/fr/ete/activites/velo-de-route"
     - title: Trail running
@@ -23,6 +29,8 @@ menu:
   column-02:
   - nested: Air et eau
     menu-items:
+    - title: Rafting
+      href: "/fr/ete/activites/rafting"
     - title: Paddle
       href: "/fr/ete/activites/paddle"
     - title: Parapente

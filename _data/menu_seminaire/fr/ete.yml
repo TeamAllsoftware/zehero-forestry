@@ -11,7 +11,7 @@ menu:
 - title: L'équipe
   id: "1"
   title-link: "/fr/seminaires-ete/equipe-organisation"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653030735/website/Seminaires/hiver/IMG_1450.jpg
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643109225/website/summer/1_uga5co.png 
   image-alt: Notre équipe d'organisation de votre séminaire d'entreprise
   image-link: /fr/seminaires-ete/equipe-organisation
   txt-button: Découvrir l'équipe
@@ -19,24 +19,24 @@ menu:
 - title: Destinations
   id: "3"
   title-link: "/fr/seminaires-ete/destinations-seminaires/"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg
-  image-alt: Un skieur fait une randonnée en forêt enneigée
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654015550/website/Seminaires/ete/jeremy-bezanger-qHjSFEjL2Jg-unsplash.jpg
+  image-alt: L'arrière pays niçois ou les Houches en HAute-Savoie pour un séminaire estival
   image-link: "/fr/seminaires-ete/destinations-seminaires"
   txt-button: Les destinations de séminaire
   phrase_accroche: Notre spécialité est de vous extraire du quotidien, d’imaginer des concepts hors du commun, proposer des lieux uniques, créer des ambiances incomparables.
 - title: Activités
   id: "4"
   title-link: "/fr/seminaires-ete/activites-seminaires"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714138/website/Seminaires/hiver/IMG_3908.jpg
-  image-alt: Une employée d'entreprise praticipe à une activité lors d'un séminaire
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029604/website/Canyoning%2006/GPTempDownload2.jpg
+  image-alt: Une employée d'entreprise praticipe à une activité canyoning lors d'un séminaire
   image-link: "/fr/seminaires-ete/activites-seminaires"
   txt-button: Les activités possibles
   phrase_accroche: Il n'y a rien de tel que de rire ensemble, coopérer dans un but commun, et se surpasser. Voilà pourquoi chez ZE HERO Prosneige on aime faire les choses en équipe, décontractés et avec le sourire.
 - title: Hôtel et Villas
   id: "5"
   title-link: /fr/seminaires-ete/hotels-et-villas
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714123/website/Seminaires/hiver/IMG_3941.jpg
-  image-alt: Grand sourire pour un salarié qui prend du plaisir lors d'un séminaire d'entreprise à la montagne
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654009878/website/Seminaires/ete/kathy-lipps-tC2Vdh-L_jY-unsplash.jpg
+  image-alt: Hôtels et villas de grand standing voire de luxe pour des séminaires d'entreprises
   image-link: /fr/seminaires-ete/hotels-et-villas
   txt-button: Hôtels et Villas
   phrase_accroche: Une journée type se doit de combiner des activités durant lesquelles des valeurs comme la convivialité, la solidarité ou le dépassement de soi prennent pleinement leur sens.  

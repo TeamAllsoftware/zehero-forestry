@@ -16,7 +16,7 @@ page_sections:
 - template: heroImageTitle01
   top: oui
   grosTitre: non
-  baseline: Basée à Nice et aux Houches (74)
+  baseline: Basée à Nice (06) et aux Houches (74)
   title: Séminaires AZUR, agence réceptive spécialiste de l'été
   engage:  Organisation de vos séminaires en formule tout-compris
   image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654010009/website/Seminaires/ete/constantin-QRXxMSin654-unsplash.jpg
@@ -49,28 +49,26 @@ page_sections:
     
     Basés à Saint-Jeannet sur les hauteurs de Nice, nous intervenons dans les villes, villages et stations balnéaires du littoral depuis 2005 et avec un nouveau camp de base aux Houches pour vos séminaires montagnards.
 
-    <blockquote>Motivation, récompense, séminaire de travail, événement d'entreprise... ZE HERO Séminaires transformera vos besoins en un séjour réussi et des émotions partagées.</blockquote>
+    <blockquote>Motivation, remerciement, réflexion... quelque soit l'objectif du projet, Seminaire AZUR est la garantie d'un séjour réussi et d'émotions partagées.</blockquote>
 - template: 2colimgtxt
   blockBGcolor: 
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_lfill,h_600,w_600/v1653030711/website/Seminaires/hiver/IMG_1443.jpg
-  alt_text_for_image: Un challenge sportif pour favoriser la cohésion d'équipe et l'entraide
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_lfill,h_600,w_600/v1653030711/website/Seminaires/ete/yoksel-zok-yp96m5gyiXQ-unsplash.jpg
+  alt_text_for_image: Un challenge sportif de régatte pour favoriser la cohésion d'équipe et l'entraide
   captiontitleuppercase: Séjour de 3 à 4 jours
   title: Motivation et cohésion d'équipe
   content: |- 
     Public visé:<br>
-    - Commerciaux,<br>
-    - Service d'une entreprise ou d'une administration,<br>
-    - Filiale
+    Toute équipe de 10 à 100 personnes animée par des objectifs collectifs à atteindre (commerciaux, service d'une entreprise, administration...)
   button:
     text_button: Je veux un devis
     href_button: /fr/seminaire-devis/
     alt_button: Faire établir un devis pour un séminaire de 3 à 4 jours
 - template: 2coltxtimg
   blockBGcolor: 
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,h_600,w_600/v1653030860/website/Seminaires/hiver/IMG_1402.jpg
-  alt_text_for_image: Un groupe de collègues très joyeux après une activité challenge olympique lors d'un sémianire d'entreprise
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,h_600,w_600/v1653030860/website/Seminaires/ete/jakob-dalbjorn-cuKJre3nyYc-unsplash.jpg
+  alt_text_for_image: Un groupe de collègues, de clients, de partenaire en relations publiques lors d'un sémianire d'entreprise
   captiontitleuppercase: Séjour de 2 jours minimum
-  title: Récompense et fidélisation clients
+  title: Relations publiques
   content: |- 
     Public visé:<br>
     - Collaborateurs,<br>
@@ -85,7 +83,7 @@ page_sections:
     alt_button: Faire établir un devis pour un séminaire de 2 jours minimum
 - template: 2colimgtxt
   blockBGcolor: 
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650905007/website/Seminaires/alexandre-pellaes-6vAjp0pscX0-unsplash.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,h_600,w_600/v1650905007/website/Seminaires/ete/stephen-leonardi-bpe5wCyKMbU-unsplash.jpg
   alt_text_for_image: 
   captiontitleuppercase: Séminaire à la journée
   title: Séminaires et conventions d'entreprise
@@ -99,6 +97,10 @@ page_sections:
     text_button: Je veux un devis
     href_button: /fr/seminaire-devis/
     alt_button: Faire établir un devis pour un séminaire à la journée
+- template: textarea
+  title: Authenticité, charme, art de vivre,<br> tendance festive ou féérie du littoral... 
+  content: |-
+    <blockquote>Seminaire AZUR sélectionne la destination, l'hôtel et les animations pour un séjour en parfaite adéquation avec le projet et l'entreprise.</blockquote>
 - template: heroImageFull
   top: non
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654015582/website/Seminaires/ete/jeremy-bezanger-H8W1PqLWxrE-unsplash.jpg

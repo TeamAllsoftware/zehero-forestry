@@ -108,6 +108,7 @@ fields:
   - heroSlider
   - heroImageTitle01
   - heroImageFull
+  - heroImageFullSlider
   - heroImage50percentHigh
   - formDownload
   - textarea
@@ -124,6 +125,7 @@ fields:
   - liststyle01numbered
   - imagegallery02
   - imgWide
+  - imgWideInBox
   - numberinfo
   - cta
   - ctaShop4col
@@ -136,6 +138,7 @@ fields:
     min: 
     max: 
 pages:
+- content/_fr/pages/hiver/racine/prosneige-partenariat-1.md
 - content/_fr/pages/hiver/racine/prosneige-partenariat.md
 - content/_fr/pages/various/divers/landing-livreBlanc-trail.md
 - content/_fr/pages/various/partenaires/le-savoy-hotel-a-meribel.md
