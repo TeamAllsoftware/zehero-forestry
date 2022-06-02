@@ -16,14 +16,6 @@ page_sections:
 - template: heroImage50percentHigh
   title: 'Prosneige '
   content: Partenariat
-- template: imgWide
-  blockBGcolor: blanc
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654169842/website/Partenaires/Lego/presentation/Votremarque_jardin_enfant2.jpg
-  alt_text_for_image: Votre Marque
-- template: imgWide
-  blockBGcolor: blanc
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654169842/website/Partenaires/Lego/presentation/Votremarque_jardin_enfant.jpg
-  alt_text_for_image: Votre marque 2
 - template: imgWideInBox
   blockBGcolor: blanc
   imageList:
