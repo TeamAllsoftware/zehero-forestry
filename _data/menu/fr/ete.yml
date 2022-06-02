@@ -29,6 +29,8 @@ menu:
   column-02:
   - nested: Air et eau
     menu-items:
+    - title: Rafting
+      href: "/fr/ete/activites/rafting"
     - title: Paddle
       href: "/fr/ete/activites/paddle"
     - title: Parapente
