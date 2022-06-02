@@ -41,5 +41,7 @@ page_sections:
     image_alt: Page 8
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167862/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-9_page-0001.jpg
     image_alt: Page 9
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167863/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-10_page-0001.jpg
+    image_alt: Page 10
 
 ---
