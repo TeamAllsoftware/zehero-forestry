@@ -12,8 +12,8 @@ topnav_color_text: dark
 page_sections:
 - template: heroImageFullSlider
   top: oui
-  slide1:
-    grosTitre: non
+  imageList:
+  - grosTitre: non
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545634/website/summer/raoul-du-plessis-NsaVr_DfTNA-unsplash.jpg
     gradient: grad
     headline:
@@ -26,8 +26,7 @@ page_sections:
       title: ''
       link: ''
     button_2_more: false
-  slide2:
-    grosTitre: non
+  - grosTitre: non
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651068255/website/Hotel/Savoy%20Meribel/salle.jpg
     gradient: grad
     headline:
@@ -40,8 +39,7 @@ page_sections:
       title: ''
       link: ''
     button_2_more: false
-  slide3:
-    grosTitre: non
+  - grosTitre: non
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358189/website/Altore/t%C3%A9l%C3%A9chargement_1.webp
     gradient: grad
     headline:
