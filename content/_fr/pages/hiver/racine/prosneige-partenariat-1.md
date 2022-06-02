@@ -29,5 +29,7 @@ page_sections:
   imageList:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654169842/website/Partenaires/Lego/presentation/Votremarque_jardin_enfant2.jpg
     image_alt: Votre marque 1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654169842/website/Partenaires/Lego/presentation/Votremarque_jardin_enfant.jpg
+    image_alt: https://res.cloudinary.com/deddrj0yb/image/upload/v1654169842/website/Partenaires/Lego/presentation/Votremarque_jardin_enfant.jpg
 
 ---
