@@ -3,9 +3,9 @@ layout: layout_generic
 language: fr
 season: winter
 topnav_color_text: light
-title: 'Prosneige partenariat '
-permalink: "/fr/partenariat"
-meta-title: 'Prosneige partenariat à Val Thorens '
+title: Prosneige partenariat Lego
+permalink: "/fr/partenariat-lego"
+meta-title: 'Prosneige partenariat Lego Wear à Val Thorens '
 meta-description: Collaborez avec Prosneige Ski school et mettez en avant votre marque
   en station !
 baseline: 'Votre partenaire Prosneige ski school '
@@ -23,7 +23,27 @@ page_sections:
     image_alt: Val Thorens Prosneige en collaboration avec Lego Wear
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653290968/website/Partenaires/Lego/Partenaire_jardin_enfant.jpg
     image_alt: Jardin d'enfants Val Thorens Prosneige X Lego Wear
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653490109/website/global/staff/151.jpg
-    image_alt: Image test
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167862/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-1_page-0001.jpg
+    image_alt: Page 1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167862/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-2_page-0001.jpg
+    image_alt: Page 2
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167863/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-3_page-0001.jpg
+    image_alt: Page 3
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167862/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-4_page-0001.jpg
+    image_alt: Page 4
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167862/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-5_page-0001.jpg
+    image_alt: Page 5
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167863/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-7_page-0001.jpg
+    image_alt: Page 6
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167863/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-6_page-0001.jpg
+    image_alt: Page 7
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167863/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-8_page-0001.jpg
+    image_alt: Page 8
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167862/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-9_page-0001.jpg
+    image_alt: Page 9
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167863/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-10_page-0001.jpg
+    image_alt: Page 10
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654167863/website/Partenaires/Lego/presentation/Prosneigelego_partenaship_proposal_2-11_page-0001.jpg
+    image_alt: Page 11
 
 ---
