@@ -108,6 +108,7 @@ fields:
   - heroSlider
   - heroImageTitle01
   - heroImageFull
+  - heroImageFullSlider
   - heroImage50percentHigh
   - formDownload
   - textarea
@@ -124,6 +125,7 @@ fields:
   - liststyle01numbered
   - imagegallery02
   - imgWide
+  - imgWideInBox
   - numberinfo
   - cta
   - ctaShop4col
