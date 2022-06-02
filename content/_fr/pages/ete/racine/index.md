@@ -17,7 +17,8 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545634/website/summer/raoul-du-plessis-NsaVr_DfTNA-unsplash.jpg
     gradient: grad
     headline:
-      title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
+      title: Nos équipes de passionnés vous ont préparé le meilleur des activités
+        outdoor
       color: white
     Button1:
       title: Réserver une sortie Kayak
@@ -33,12 +34,12 @@ page_sections:
       title: Séjours vélo au départ de l'Hôtel Le Savoy à Méribel
       color: white
     Button1:
-      title: Découvrir l'hôtel et ses séjours
+      title: Découvrir l'hôtel
       link: "/fr/ete/partenaires/le-savoy-meribel"
     Button2:
-      title: ''
-      link: ''
-    button_2_more: false
+      title: Réserver un séjour vélo
+      link: https://shop.ze-hero.com/fr/activites-Outdoor/sejour-velo-route/17571-velo-6-jours-chambre-simple-hotel-le-savoy-4-meribel-ze-hero-activite-ze-hero
+    button_2_more: true
   - grosTitre: non
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358189/website/Altore/t%C3%A9l%C3%A9chargement_1.webp
     gradient: grad

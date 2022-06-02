@@ -54,12 +54,10 @@ page_sections:
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  content: 'Vous pourrez profiter de tous ces différents sentiers et ces grands espaces
-    pour enfiler vos chaussures de trail et partir courir depuis Les Houches. Tout
-    comme la randonnée, l''environnement  est idéal pour pratiquer le Trail running.
-    Avec les nombreux sentiers, vous pourrez explorer les sommets, les lacs des alentours
-    tel que le sommet de l''Aiguilette des Houches à 2285m d''altitude et ses lacs,
-    le Brévent, mais aussi le Mont Lachat, le désert de Pierre Ronde, le nid d''Aigle. '
+  content: |-
+    Vous pourrez profiter de tous ces différents sentiers et ces grands espaces pour enfiler vos chaussures de trail et partir courir depuis Les Houches. Tout comme la randonnée, l'environnement  est idéal pour pratiquer le Trail running. Avec les nombreux sentiers, vous pourrez explorer les sommets, les lacs des alentours tel que le sommet de l'Aiguilette des Houches à 2285m d'altitude et ses lacs, le Brévent, mais aussi le Mont Lachat, le désert de Pierre Ronde, le nid d'Aigle.
+
+    Vous pourrez également pratiquer le VTT et le VTT électrique aux Houches. Profitez des 3 pistes de VTT des Houches pour débutant à Expert dans le bikeparck. Vous trouverez également des modules en bois, des sauts et différents ateliers pour vous initier et progresser dans la descente en VTT.
   title: ''
 published: false
 
