@@ -32,7 +32,12 @@ page_sections:
     donc réserver les journées qui vous intéressent le plus.\n\nLe prix des sorties
     vélo journée comprend :  \n\\- Encadrement – Moniteurs diplômés d’État  \n\\-
     Ravitaillement en eau lors des étapes  \n\\- Suivi technique et logistique (transports
-    bagages et vélos)"
+    bagages et vélos)\n\nVous serez loger dans [l'hôtel Le Savoy](https://www.ze-hero.com/fr/ete/partenaires/le-savoy-meribel)
+    à Méribel Centre. Vous pourrez alors profiter d'un hôtel authentique, d'un séjour
+    idéal dans un cadre incroyable au pied des montagne. Vous pourrez vous détendre
+    après vos sorties de vélo à Méribel, dans le spa et au coin du feu ou encore sur
+    la terrasse face aux montagne. L'Hôtel Le Savoy vous offrira une cuisine de qualité,
+    un confort unique. Profiter d'un séjour à Méribel auune bulle d'évasion à Méribel."
   blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643189945/website/V%C3%A9lo/collage1_fmakyp.png
@@ -148,6 +153,7 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=M%C3%A9ribel&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
+published: false
 
 ---
