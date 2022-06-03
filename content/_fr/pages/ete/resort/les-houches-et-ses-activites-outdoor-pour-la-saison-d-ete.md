@@ -59,6 +59,34 @@ page_sections:
 
     Vous pourrez également pratiquer le VTT et le VTT électrique aux Houches. Profitez des 3 pistes de VTT des Houches pour débutant à Expert dans le bike park. Vous trouverez également des modules en bois, des sauts et différents ateliers pour vous initier et progresser dans la descente en VTT. De nombreuses de randonnées et autres itinéraires seront également dédiés à la pratique du VTT notamment à Chamonix, Saint Gervais. Que ce soit sur des parcours enduro, uniquement en descente, pour des randonnées longues vous pourrez pratiquer le VTT dans un cadre idyllique au cœur du massif de Mont Blanc. Pour que toute la famille en profite, vous pouvez également réaliser ces différentes sorties et randonnées avec les VTT électriques.
   title: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654089932/website/resorts/Les%20Houches/clement-pierson-E76rX-_ZLVA-unsplash.jpg
+  alt_text_for_image: Dommet et montagnes à Les Houches
+  captiontitleuppercase: Un massif incroyable
+  title: Les activités sensationnelles aux Houches
+  content: |-
+    Découvrez différentes activités sensationnelles aux Houches avec déjà le parapente. Vous trouverez de nombreuses compagnies qui offrent la possibilité de voler dans un cadre incroyable avec des vues comme vous n’aurez jamais vu. Volez face au Mont Blanc, à tous les sommets enneigés et les glaciers du massif, depuis différents départs des Houches. Selon les départs, vous pourrez emprunter les remontés mécaniques avec votre moniteur. Vous pourrez décoller depuis Le Merlet, Le Chailloux, L’Aiguilette, du Prarion et bien d'autres.
+
+    Forcément si vous séjournez dans la vallée de Chamonix et dans le village Les Houches, vous vous trouverez dans les spots incontournables pour l'alpinisme. C'est la Mecque de tous les alpinistes, que ce soit pour des débutants, des confirmés ou des experts, on trouve absolument tout dans ce massif du Mont Blanc. Vous pourrez alors vous laisser tenter par une découverte de cette discipline avec des randonnées glaciaires, faire un 1er pas en haute altitude, réaliser votre 1er sommets d'alpiniste, dormez en refuge. Il y existe un panel d'activité à découvrir dans l'alpinisme depuis les Houches et Chamonix. Pour les plus sportif, vous pourrez alors combiner de l'escalade en mixte, réaliser différentes courses, grimper le Mont Blanc, l'Aiguille Verte et bien plus encore.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654064634/website/Mont%20Blanc%20Escalade/PXL_20211228_095628343_dv6ejc.avif
+  alt_text_for_image: Mur d'escalade dans la salle Mont Blanc Escalade aux Houches
+  captiontitleuppercase: Les Houches, spots d'escalades
+  title: L'escalades à Les Houches
+  content: |-
+    Les Houches est un spot idéal pour découvrir l'escalade mais également pour se perfectionner. Vous pourrez grimper sur un site extérieur d'escalade : Les Chavants. Un lieu parfait pour s'initier à cette activité que ce soit pour les débutants ou pour les enfants.
+
+    Découvrir l'unique salle d'escalade de la vallée de Chamonix aux Houches, Mont Blanc Escalade. La salle d'escalade " Mont Blanc Escalade " est partenaire avec Ze Hero. Vous trouverez 100 voies allant du 4 au 8c, des zones dédiées aux enfants, une salle de pans. En accès libre, vous pourrez également profiter de cours encadré par des professionnelles, des stages mais aussi de cours spécialement dédiés pour les babys, les enfants et les adolescents. Depuis la salle d'escalade, vous pourrez également profiter d'encadrement de canyoning mais aussi de via ferrata avec la location de matériel.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
