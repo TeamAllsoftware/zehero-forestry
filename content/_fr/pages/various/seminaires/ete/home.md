@@ -103,39 +103,39 @@ page_sections:
     <blockquote>Seminaire AZUR sélectionne la destination, l'hôtel et les animations pour un séjour en parfaite adéquation avec le projet et l'entreprise.</blockquote>
 - template: heroImageFull
   top: non
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654015582/website/Seminaires/ete/jeremy-bezanger-H8W1PqLWxrE-unsplash.jpg
-  image_alt: 
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654251646/website/Seminaires/ete/thomas-bonometti-dtfyRuKG7UY-unsplash.jpg
+  image_alt: Se jeter dans la gueule du loup pour une expérience unique !!!
   gradient: non
   headline:
-    title: Séjour Ambiance Nordique
+    title: Vivre 24h avec une meute de loups
     color: white
   Button1:
-    title: A partir de 249€/pers.
-    link: /fr/seminaires-hiver/idee-sejour-evasion-grand-revard
+    title: A partir de 149€/pers.
+    link: "/fr/seminaires-ete/activites/nuit-des-loups"
   button_2_more: false
 - template: heroImageFull
   top: non
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654009876/website/Seminaires/ete/nick-page-8WJkrixuI8M-unsplash.jpg
-  image_alt: 
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654242591/website/Seminaires/ete/mike-swigunski-XClsGH4JuhA-unsplash.jpg
+  image_alt: A bord d'un catamaran géant pour un croisière privée de 4h
   gradient: non
   headline:
-    title: Séjour Domaine Alpin
+    title: Voguer en croisière privée sur un catamaran géant
     color: white
   Button1:
-    title: A partir de 299€/pers.
-    link: /fr/seminaires-hiver/idee-sejour-valmorel
+    title: A partir de 135€/pers.
+    link: "/fr/seminaires-ete/activites/croisiere-catamaran"
   button_2_more: false
 - template: heroImageFull
   top: non
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654010009/website/Seminaires/ete/constantin-QRXxMSin654-unsplash.jpg
-  image_alt: 
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654249284/website/Seminaires/ete/patrick-hendry-w5hNCbJfX3w-unsplash.jpg
+  image_alt: escalade de voie naturelle sur la côte d'azur en France
   gradient: non
   headline:
-    title: Séjour Alti-Forme
+    title: Escalade, Via Ferrata, Canyoning
     color: white
   Button1:
-    title: A partir de 319€/pers
-    link: /fr/seminaires-hiver/idee-sejour-lac-alpin-aix-les-bains
+    title: A partir de 35€/pers
+    link: "/fr/seminaires-ete/activites/escalade-viaferrata-canyoning"
   button_2_more: false
 - template: cta
   intro: Demande de devis
