@@ -55,9 +55,9 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   content: |-
-    Vous pourrez profiter de tous ces différents sentiers et ces grands espaces pour enfiler vos chaussures de trail et partir courir depuis Les Houches. Tout comme la randonnée, l'environnement  est idéal pour pratiquer le Trail running. Avec les nombreux sentiers, vous pourrez explorer les sommets, les lacs des alentours tel que le sommet de l'Aiguilette des Houches à 2285m d'altitude et ses lacs, le Brévent, mais aussi le Mont Lachat, le désert de Pierre Ronde, le nid d'Aigle.
+    Vous pourrez profiter de tous ces différents sentiers et ces grands espaces pour enfiler vos chaussures de trail et partir courir depuis Les Houches. Tout comme la randonnée, l'environnement est idéal pour pratiquer le Trail running. Avec les nombreux sentiers, vous pourrez explorer les sommets, les lacs des alentours tel que le sommet de l'Aiguilette des Houches à 2285m d'altitude et ses lacs, le Brévent, mais aussi le Mont Lachat, le désert de Pierre Ronde, le nid d'Aigle.
 
-    Vous pourrez également pratiquer le VTT et le VTT électrique aux Houches. Profitez des 3 pistes de VTT des Houches pour débutant à Expert dans le bikeparck. Vous trouverez également des modules en bois, des sauts et différents ateliers pour vous initier et progresser dans la descente en VTT.
+    Vous pourrez également pratiquer le VTT et le VTT électrique aux Houches. Profitez des 3 pistes de VTT des Houches pour débutant à Expert dans le bike park. Vous trouverez également des modules en bois, des sauts et différents ateliers pour vous initier et progresser dans la descente en VTT. De nombreuses de randonnées et autres itinéraires seront également dédiés à la pratique du VTT notamment à Chamonix, Saint Gervais. Que ce soit sur des parcours enduro, uniquement en descente, pour des randonnées longues vous pourrez pratiquer le VTT dans un cadre idyllique au cœur du massif de Mont Blanc. Pour que toute la famille en profite, vous pouvez également réaliser ces différentes sorties et randonnées avec les VTT électriques.
   title: ''
 published: false
 
