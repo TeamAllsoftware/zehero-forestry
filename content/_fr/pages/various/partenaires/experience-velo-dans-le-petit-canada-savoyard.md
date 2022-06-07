@@ -95,5 +95,7 @@ s06:
   achieve04:
     title: Ouvert
     content: 4 Saisons
-
+button_to_link_to_ze_hero_shop:
+  button_text: Réservez une activité de VTT
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
 ---
