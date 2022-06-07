@@ -8,7 +8,7 @@ topnav_color_text:
 title: Ski et Bien-être dans les "3 Vallées"
 permalink: "/fr/seminaires-hiver/idee-sejour-bien-etre-3-vallees"
 meta-title: Ski et Bien-être dans les "3 Vallées"
-meta-description: Une ville à la montagne, capitale touristique de l'arc alpin depuis le 18ème siècle avec le Mont-Blanc (4 807 m.) et ses glaciers... Découvrez la féérie de la Mer de Glace à 1913 m. par le train du Montenvers avec une vue unique sur les grandes Jorasses et les aiguilles des Drus !
+meta-description: Ville thermale de la vallée de Bozel spécialisée dans le bien-être par la diététique et la cuisine légère, Brides-Les-Bains offre l'immense atout d'être reliée à Méribel, coeur des "3 Vallées".
 image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652727970/website/resorts/meribel/maxence-pion-kG8sYayElYs-unsplash.jpg
 image_alt: Vue aérienne sur la station de Méribel sous la neige
 redirection_from:

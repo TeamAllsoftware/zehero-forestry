@@ -8,7 +8,7 @@ topnav_color_text:
 title: Initiation ski joëring
 permalink: "/fr/seminaires-hiver/activites/initiation-ski-joering"
 meta-title: Initiation ski joëring
-meta-description: Un moniteur vous guide et vous fait découvrir le domaine skiable. Cette formule vous permet de profiter pleinement des pistes à votre niveau tout en profitant des plus beaux points de vues du domaine. Une formule merveilleuse en toute sécurité.
+meta-description: Découvrir le ski joëring lors d'une initiation c'est découvrir cette activité qui consiste à se faire tracter, à ski, par un cheval.
 image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650990663/website/winter/white-turf-gd92ba2b4f_1920.jpg
 image_alt: Se faire tracter sur la neige, en ski, par un cheval, c'est le ski joëring ou skioring ou white turf
 redirection_from:

@@ -8,9 +8,9 @@ topnav_color_text:
 title: La nuit des loups
 permalink: "/fr/seminaires-ete/activites/nuit-des-loups"
 meta-title: La nuit des loups
-meta-description: Demi journée escalade, via ferrata ou canyoning au choix
+meta-description: Pour votre prochain séminaire d'entreprise vivez 24h avec une meute de loups pour une expérience formidable.
 image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654251642/website/Seminaires/ete/ray-hennessy-9rloii_qmmw-unsplash.jpg
-image_alt: escalade de voie naturelle sur la côte d'azur en France
+image_alt: Un loup se découpe dans le paysage nocture
 redirection_from:
 price: 149
 headline: |-
@@ -31,13 +31,13 @@ page_sections:
     href_button: /fr/seminaire-devis/
   ImageLeft:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654251651/website/Seminaires/ete/eva-blue-e9hbo4NtKJ0-unsplash.jpg
-    alt_href: Une femme passe sur une via ferrata bien équipée et accompagnée
+    alt_href: Une meute de loup marche dans la neige
   ImageMiddle:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654251644/website/Seminaires/ete/stellarstriked-u6B3EJ6Ry9k-unsplash.jpg
-    alt_href: escalade de voie naturelle sur la côte d'azur en France
+    alt_href: Un beau loup blanc regarde au loin
   ImageRight:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654251649/website/Seminaires/ete/darren-welsh-zBU8dMscx4M-unsplash.jpg
-    alt_href: Canyoning dans les gorges de l'arrière pays niçois
+    alt_href: Un loup crie au loup
 - template: textarea
   title: Programme de la Nuit des Loups 
   content: |-

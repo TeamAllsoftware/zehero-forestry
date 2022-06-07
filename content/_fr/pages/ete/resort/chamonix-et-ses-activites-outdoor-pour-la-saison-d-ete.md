@@ -18,7 +18,7 @@ baseline: Montagnes et sommets
 resort_nameid: chamonix
 resort_naming: Chamonix
 permalink: "/fr/ete/destinations/chamonix"
-meta-title: Activités outdoor à Val-Thorens pour l'été
+meta-title: Activités outdoor à Chamonix pour l'été
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649831434/website/resorts/Chamonix/susan-flynn-X6EVEZdzYHs-unsplash.jpg
 image01_alt: Deux marcheurs randonnant en montagne devant la ville de Chamonix
 button_to_link_to_ze_hero_shop:
