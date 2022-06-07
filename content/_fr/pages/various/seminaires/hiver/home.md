@@ -7,9 +7,8 @@ menu: seminaire
 topnav_color_text: 
 title: Organisation de séminaires hiver
 permalink: "/fr/seminaires-hiver"
-meta-title: Qui sommes nous, contactez notre équipe de fan d'outdoor
-meta-description: Connaissez-vous Ze Hero, la référence de l'Outdoor ? Découvrez l'équipe
-  Ze Hero, notre histoire et les valeurs qui nous animent
+meta-title: Nous organisons votre séminaire d'entreprise pour l'hiver prochain
+meta-description: ZE HERO, la référence de l'outdoor organise des séminaires d'entreprise durant la saison d'hiver. Notre agence receptive propose des formules tout compris.
 baseline: Découvrez ZE HERO
 redirection_from:
 page_sections:
@@ -98,6 +97,14 @@ page_sections:
     text_button: Je veux un devis
     href_button: /fr/seminaire-devis/
     alt_button: Faire établir un devis pour un séminaire à la journée
+- template: textarea
+  title: Un séminaire pour chaque taille d'entreprise
+  content: |-
+    Du CAC 40 aux ETI, en passant par les PME / PMI jusqu'au plus petites entreprises, un séminaire est important pour récompenser ses équipes et les fidéliser mais aussi pour motiver ses clients et partenaires. Organiser un séminaire d'une ou plusieurs journées permettra de regrouper vos équipes pour travailler ensemble lors de workshop dans un cadre de travail différent. Ce sera l'occasion pour vos équipes en télétravail de se retrouver et recréer ce lien nécessaire à la bonne marche de l'entreprise et des projets.
+
+    Le télétravail et les équipes distribuées sont une aubaine pour la qualité de vie personnelle, cependant il est important de ne pas oublier le collectif d'une équipe qui travaille ensemble, se connaît bien et ose se parler même en étant à distance. Un séminaire permet de rassembler, de fédérer et créer un esprit d'équipe afin que la culture de votre entreprise se renforce.
+
+    Vous êtes indépendant ou membre d'un collectif distribué ? Laissez-nous organiser pour vous un séminaire vous permettant de vous regrouper, de penser votre projet différemment en sortant de votre quotidien et de vos réunions en visio-conférence via Team ou Zoom. Rien de tel qu'un moment de partage ensemble autour d'activités outdoor et de moment de plaisir.
 - template: heroImageFull
   top: non
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714160/website/Seminaires/hiver/IMG_3937.jpg

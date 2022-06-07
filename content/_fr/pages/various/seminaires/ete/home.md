@@ -7,9 +7,8 @@ menu: seminaire
 topnav_color_text: 
 title: Organisation de séminaires hiver
 permalink: "/fr/seminaires-ete"
-meta-title: Qui sommes nous, contactez notre équipe de fan d'outdoor
-meta-description: Connaissez-vous Ze Hero, la référence de l'Outdoor ? Découvrez l'équipe
-  Ze Hero, notre histoire et les valeurs qui nous animent
+meta-title: Nous organisons votre séminaire d'entreprise pour l'été prochain
+meta-description: ZE HERO, la référence de l'outdoor organise des séminaires d'entreprise durant la saison d'été. Notre agence receptive propose des formules tout compris des Alpes à la Côte d'Azue.
 baseline: Découvrez ZE HERO
 redirection_from:
 page_sections:

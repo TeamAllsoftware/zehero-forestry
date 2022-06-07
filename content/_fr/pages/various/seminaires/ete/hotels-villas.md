@@ -5,10 +5,10 @@ season: summer
 type: B2B
 menu: seminaire
 topnav_color_text: 
-title: Liste des idées de séjours pour votre séminaire d'entreprise
+title: Liste des hôtels et villas pour votre séminaire d'entreprise
 permalink: "/fr/seminaires-ete/hotels-et-villas"
-meta-title: Liste des idées de séjours pour votre séminaire d'entreprise
-meta-description: Connaissez-vous Ze Hero, la référence de l'Outdoor ? Découvrez l'équipe Ze Hero, notre histoire et les valeurs qui nous animent
+meta-title: Liste des hôtels et villas pour votre séminaire d'entreprise
+meta-description: Pour votre prochain séminaire d'entreprise, nous vous proposons une selection d'hôtels et villas pour accueillir vos équipes, clients ou partenaires
 baseline: Découvrez ZE HERO
 redirection_from:
 page_sections:

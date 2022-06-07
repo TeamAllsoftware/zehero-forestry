@@ -5,11 +5,10 @@ season: winter
 type: B2B
 menu: seminaire
 topnav_color_text: 
-title: Réaliser un devis d'organisation de séminaire d'entreprise
+title: Formulaire de demande de devis pour l'organisation de séminaire d'entreprise
 permalink: "/fr/seminaire-devis"
 meta-title: Réaliser un devis d'organisation de séminaire d'entreprise
-meta-description: Connaissez-vous Ze Hero, la référence de l'Outdoor ? Découvrez l'équipe
-  Ze Hero, notre histoire et les valeurs qui nous animent
+meta-description: Réaliser une demande de devis pour un séminaire d'entreprise. Nous devisons votre séminaire d'hiver ou d'été pour vous simplifier la vie.
 baseline: Découvrez ZE HERO
 redirection_from:
 page_sections:

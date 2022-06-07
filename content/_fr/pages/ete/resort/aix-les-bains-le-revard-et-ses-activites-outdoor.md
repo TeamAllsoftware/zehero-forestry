@@ -18,7 +18,7 @@ page_title: Aix les Bains et Le Revard
 baseline: Lac et alpin
 resort_nameid: Aix_les_bains_le_revard
 resort_naming: Aix les Bains et Le Revard
-permalink: fr/ete/destinations/aix-les-bains-le-revard
+permalink: "/fr/ete/destinations/aix-les-bains-le-revard"
 meta-title: Activités outdoor à Aix les Bains et Le Revard pour l'été
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653471444/website/resorts/Le%20Revard/mercvrie-YlWgxkbP_pY-unsplash.jpg
 image01_alt: Vue du lac du Bourget
