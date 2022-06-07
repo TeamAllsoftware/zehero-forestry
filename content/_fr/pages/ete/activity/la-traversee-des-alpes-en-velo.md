@@ -6,6 +6,7 @@ type: generic
 topnav_color_text: dark
 title: La traversée des Alpes en vélo
 permalink: "/fr/ete/activites/traversee-des-alpes-en-velo"
+id: 10237
 redirect_from:
 - "/fr/velo-gravel-corsica-gravel-tour/"
 meta-title: Vélo de route - Traversée des Alpes et des cols mythique

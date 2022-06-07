@@ -5,9 +5,10 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Le canyoning dans les Alpes Maritimes
-permalink: "/fr/ete/activites/canyoning-alpes-maritimes"
+permalink: "/fr/meilleurs-spots-canyoning-alpes-maritimes"
 redirect_from:
-- "/fr/ete/activite/canyoning-alpes-maritimes"
+  - "/fr/ete/activite/canyoning-alpes-maritimes"
+  - "/fr/ete/activites/canyoning-alpes-maritimes"
 meta-title: 'Canyoning Alpes Maritimes : les meilleurs spots '
 meta-description: 'Le canyoning dans les Alpes Maritimes, c''est un choix incroyables
   de spots de canyons variées pour tous les niveaux et toutes les envies. '

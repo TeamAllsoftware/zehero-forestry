@@ -6,6 +6,7 @@ type: generic
 topnav_color_text: dark
 title: Vélo de route - Sorties journées - Méribel
 permalink: "/fr/ete/activites/velo-de-route-journees-meribel"
+id: 10235
 redirect_from:
 - "/fr/velo-albertville/"
 meta-title: Sortie vélo journées Méribel Savoie
