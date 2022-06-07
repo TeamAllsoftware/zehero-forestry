@@ -25,21 +25,19 @@ columns:
       subhref: "/fr/hiver/conseils/ski-d-occasion"
     - subtitle: "Comment choisir ses boots de snowboard"
       subhref: "/fr/hiver/conseils/boots-snowboard"
-  - col: "Nos destinations"
-    title-link: /fr/hiver/destinations
+  - col: "ZE HERO"
+    title-link: "#"
     link:
-    - subtitle: "Alpe d'Huez"
-      subhref: "/fr/hiver/destinations/alpe-d-huez"
-    - subtitle: "Val-Thorens"
-      subhref: "/fr/hiver/destinations/val-thorens"
-    - subtitle: "Les Ménuires"
-      subhref: "/fr/hiver/destinations/les-menuires"
-    - subtitle: "Tignes"
-      subhref: "/fr/hiver/destinations/tignes"
-    - subtitle: "Val d'Isère"
-      subhref: "/fr/hiver/destinations/val-d-isere"
-    - subtitle: "Méribel"
-      subhref: "/fr/hiver/destinations/meribel"
+    - subtitle: "Qui sommes-nous ?"
+      subhref: "/fr/qui-sommes-nous"
+    - subtitle: "Nous contacter"
+      subhref: "/fr/contact"
+    - subtitle: "Séminaire été"
+      subhref: "/fr/seminaires-ete"
+    - subtitle: "Séminaire hiver"
+      subhref: "/fr/seminaires-hiver"
+    - subtitle: "Saison d'été"
+      subhref: "/fr/ete"
  
 payment-title: Modes de paiement
 payment-txt01: Les paiements sont sécurisés par 3D Secure de Monetico Crédit Mutuel

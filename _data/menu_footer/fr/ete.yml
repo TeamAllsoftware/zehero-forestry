@@ -25,21 +25,18 @@ columns:
       subhref: /fr/ete/conseils/chaussures-trail
     - subtitle: Débuter le Trail running
       subhref: /fr/ete/conseils/comment-debuter-trail
-  - col: "Nos destinations"
-    title-link: /fr/ete/destinations
+  - col: "ZE HERO"
+    title-link: "#"
     link:
-    - subtitle: "Alpe d'Huez"
-      subhref: "/fr/ete/destinations/alpe-d-huez"
-    - subtitle: "Val-Thorens"
-      subhref: "/fr/ete/destinations/val-thorens"
-    - subtitle: "Les Ménuires"
-      subhref: "/fr/ete/destinations/les-menuires"
-    - subtitle: "Tignes"
-      subhref: "/fr/ete/destinations/tignes"
-    - subtitle: "Val d'Isère"
-      subhref: "/fr/ete/destinations/val-d-isere"
-    - subtitle: "Méribel"
-      subhref: "/fr/ete/destinations/meribel"
-
+    - subtitle: "Qui sommes-nous ?"
+      subhref: "/fr/qui-sommes-nous"
+    - subtitle: "Nous contacter"
+      subhref: "/fr/contact"
+    - subtitle: "Séminaire été"
+      subhref: "/fr/seminaires-ete"
+    - subtitle: "Séminaire hiver"
+      subhref: "/fr/seminaires-hiver"
+    - subtitle: "Saison d'hiver"
+      subhref: "/fr/hiver"
 payment-title: Modes de paiement
 payment-txt01: Les paiements sont sécurisés par 3D Secure de Monetico Crédit Mutuel
