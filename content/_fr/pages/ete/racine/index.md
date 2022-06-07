@@ -53,6 +53,19 @@ page_sections:
       title: ''
       link: ''
     button_2_more: false
+  - grosTitre: non
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653030860/website/Seminaires/hiver/IMG_1402.jpg
+    gradient: grad
+    headline:
+      title: ZE HERO agence receptive pour votre séminaire d'entreprise
+      color: white
+    Button1:
+      title: En savoir plus
+      link: "/fr/seminaires-hiver/"
+    Button2:
+      title: ''
+      link: ''
+    button_2_more: false
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true
