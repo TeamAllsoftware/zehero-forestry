@@ -203,6 +203,8 @@ menu:
   column-02:
   - nested: Réserver
     menu-items:
+    - title: Escalade
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Escalade&start-date=
     - title: Surf
       href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
     - title: Trail
