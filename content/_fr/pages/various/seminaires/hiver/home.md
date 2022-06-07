@@ -6,8 +6,10 @@ type: B2B
 menu: seminaire
 topnav_color_text: 
 title: Organisation de séminaires hiver
-permalink: "/fr/seminaires-hiver"
-meta-title: Nous organisons votre séminaire d'entreprise pour l'hiver prochain
+permalink: "/fr/seminaire-entreprise-hiver-ski-montagne"
+redirect_from:
+  - "/fr/seminaires-hiver"
+meta-title: Organisation de séminaire d'entreprise hiver, ski, montagne
 meta-description: ZE HERO, la référence de l'outdoor organise des séminaires d'entreprise durant la saison d'hiver. Notre agence receptive propose des formules tout compris.
 baseline: Découvrez ZE HERO
 redirection_from:
