@@ -5,7 +5,9 @@ meta-title: Nos destinations où réserver une activité outdoor en hiver
 meta-description: Dans nos destinations d'hiver vous trouverez les activités de vos
   prochaines aventures et miro-aventures pour vous dépasser et trouver une satisfaction
   personnelle immense, que ce soit seul, entre amis ou en famille
-permalink: "/fr/hiver/destinations"
+permalink: "/fr/destinations-activites-outdoor-hiver"
+redirect_from:
+  - "/fr/hiver/destinations"
 language: fr
 season: winter
 type: generic
