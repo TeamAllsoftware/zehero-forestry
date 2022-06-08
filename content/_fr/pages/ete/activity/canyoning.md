@@ -46,14 +46,24 @@ page_sections:
   - Les itinéraires en canyoning
 - template: 2colimgtxt
   blockBGcolor: blanc
-  content: |-
-    Débuter le canyoning, c'est partir vivre une expérience forte dans des lieux magnifiques. Le canyoning est une activité ouverte à tout le monde à condition de savoir nager. Vous pourrez alors partager et vivre des moments intenses. En fonction de votre expérience en canyoning, de votre niveau et de votre âge, le moniteur adaptera le choix du parcours. Pour les initiations et les débuts dans le canyoning, cela ne nécessite pas forcément d'avoir une bonne condition physique, les parcours sont plus ouverts avec plus de marche et de nage. Par contre, lorsque les parcours de canyoning vont être plus techniques et engagés, il faudra alors avoir une meilleure condition physique, être agile, ne pas avoir le vertige. Vous devrez alors descendre en rappels, réaliser des sauts parfois à plus de 10m.
-
-    Vous pourrez choisir alors différents types de canyoning en fonction de vos envies, de vos niveaux et de votre groupe :
-
-    * Canyoning familiale : randonnée aquatique, petits sauts, toboggans et parfois quelques petits rappels
-    * Canyoning entre amis : canyoning plus sportif avec des sauts, des rappels, des toboggans
-    * Canyoning sportif : canyoning réservé aux personnes désirant faire des sauts très hauts, des longs rappels, des espaces parfois étroits et des descentes de plusieurs heures
+  content: "Débuter le canyoning, c'est partir vivre une expérience forte dans des
+    lieux magnifiques. Le canyoning est une activité ouverte à tout le monde à condition
+    de savoir nager. Vous pourrez alors partager et vivre des moments intenses. En
+    fonction de votre expérience en canyoning, de votre niveau et de votre âge, le
+    moniteur adaptera le choix du parcours. Pour les initiations et les débuts dans
+    le canyoning, cela ne nécessite pas forcément d'avoir une bonne condition physique,
+    les parcours sont plus ouverts avec plus de marche et de nage. Par contre, lorsque
+    les parcours de canyoning vont être plus techniques et engagés, il faudra alors
+    avoir une meilleure condition physique, être agile, ne pas avoir le vertige. Vous
+    devrez alors descendre en rappels, réaliser des sauts parfois à plus de 10m.\n\nVous
+    pourrez choisir alors différents types de canyoning en fonction de vos envies,
+    de vos niveaux et de votre groupe :\n\n* Canyoning familiale : randonnée aquatique,
+    petits sauts, toboggans et parfois quelques petits rappels\n* Canyoning entre
+    amis : canyoning plus sportif avec des sauts, des rappels, des toboggans\n* Canyoning
+    sportif : canyoning réservé aux personnes désirant faire des sauts très hauts,
+    des longs rappels, des espaces parfois étroits et des descentes de plusieurs heures\n\nRéserver
+    une activité de canyoning, c'est avoir un moniteur qui va gérer le groupe pour
+    une durée de 2h à une journée entière en fonction du canyon. "
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
   alt_text_for_image: Personne en canyoning descendant en rappel en souriant
   title: Débuter le canyoning
@@ -83,52 +93,11 @@ page_sections:
     href_button: https://www.ze-hero.com/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes
     alt_button: ''
 - template: textarea
-  title: Le matériel
+  title: Les parcours de canyoning
   content: |-
-    Que ce soit juste pour une randonnée aquatique ou alors pour des canyonings plus techniques, le matériel de canyoning est plutôt spécifique. Généralement le moniteur met à disposition la plupart du matériel. Vous allez donc retrouver :
+    En France, il existe un choix incroyable de parcours de canyonings. Vous allez en trouver dans de nombreuses régions et départements. Tous seront bien différents, ils seront spécifiques à l'environnement, à la roche et seront destinés pour différents publics.
 
-    * un casque
-    * une combinaison spécifique isotherme et renforcée au niveau des fesses et des genoux ainsi que sur les coudes
-    * un baudrier avec tout le matériel : descendeur, longe etc
-    * des chaussures spéciales canyoning ou des chaussures qui présentent des crampons (types chaussures de trail)
-  blockBGcolor: ''
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642516880/website/summer/pexels-julia-volk-6152738_q30qqg.jpg
-  captiontitleuppercase: Comment se déroule un activité de Canyoning
-  title: Plusieurs éléments
-  content: Tout d'abord, vous allez retrouver deux formules. Soit des cours collectifs,
-    soit des cours privés. Pour ce dernier, un moniteur est privatisé. Vous pouvez
-    ainsi profiter d'un moniteur pour vous seul ou pour un groupe de personne défini.
-    Selon les canyonings mais aussi les personnes et l'évolution, la durée varie entre
-    2h et une demi-journée. Elle peut parfois même s'étendre à la journée entière.
-    Cela reste tout de même physique et demande beaucoup d'énergie. Les canyons, selon
-    leurs sources, leurs expositions et leurs situations géographiques peuvent être
-    très froids.
-  alt_text_for_image: Vue d'une rivière et de l'eau qui coule avec des trous d'eau
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: ''
-- template: textarea
-  content: |-
-    Il faut prévoir un maillot de bain, une serviette et donc une tenue de rechange. Mais aussi, une bouteille d'eau qui peut être amenée par le moniteur ainsi qu'une barre énergétique.
-
-    C'est une activité qui peut se faire seul en se greffant à un groupe, ou avec des amis, mais également avec ses enfants. Le canyoning est un bon moyen de vivre une expérience riche en émotion tout en s'amusant dans un cadre naturel.
-
-    Les canyonings ne doivent pas être réalisés sans matériel et sans moniteur. Si vous tentez de réaliser le canyoning sans connaitre les règles et surtout le lieu, cela peut s'avérer très dangereux. Cela est d'autant plus vrai dans les zones où l'accès aux sauveteurs n'est pas facilité. Le canyoning est par ailleurs un lieu naturel qui bouge et se transforme chaque année en fonction des conditions météorologiques.
-
-    Voici une page qui vous présente les différents conseils pour [bien débuter le canyoning](https://www.ze-hero.com/fr/ete/conseils/conseils-canyoning).
-  title: ''
-  blockBGcolor: ''
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
-  captiontitleuppercase: Où faire du canyoning
-  title: Les meilleurs spots de canyoning en France
-  content: |-
-    En France on va retrouver un très grand choix de canyoning dans différentes régions. Ces différents canyons correspondront à tous les niveaux et tous les goûts. Vous allez parfois avoir des canyonings magnifiques, mais qui seront moins techniques. Vous aurez aussi des canyonings moins jolis, mais qui seront techniques, exigeants et plus sensationnels.
-
-    Vous allez en retrouver par exemple :
+    Vous trouverez des canyonings toujours près des montagnes avec :
 
     * En Corse pour des lieux magiques et des canyonings très réputés
     * En Ardèche pour des canyons plus sauvages et préservés
@@ -137,12 +106,28 @@ page_sections:
     * Dans les Vosges pour des sensations fortes
     * Dans les Pyrénées pour des canyonings réputés mondialement
     * Mais aussi dans le Jura, en [Savoie](https://www.ze-hero.com/fr/ete/activites/canyoning-annecy), en Haute-Savoie...
-  alt_text_for_image: Personne descendant en rappel dans un canyoning
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+
+    Avec Ze Hero, nous avons sélectionné une liste des différents canyonings dans nos destinations selon les différents types de sorties (canyoning famille, canyoning magnifique, canyoning sportif...)
   blockBGcolor: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
+  alt_text_for_image: Enfant en canyoning sautant dans l'eau
+  captiontitleuppercase: Trouver votre activité de canyoning
+  title: Les partenaires Ze Hero de canyoning
+  content: "Chez Ze Hero, nous allons vous proposer différents canyonings dans les
+    Alpes Maritimes, en Savoie et en Haute Savoie. Vous serez encadré par des professionnelles
+    et passionnée de canyoning, qui vous emmèneront quelque soit votre niveau, vos
+    envies afin de vous faire vivre une expérience forte et unique.   \nVoici nos
+    différents partenaires de canyoning chez Ze Hero :\n\n* Nos moniteurs de canyonings
+    Ze Hero, vous feront découvrir les Alpes Maritimes, dans les gorges du loup, dans
+    le Roya et dans la Vésubie. En Savoie, ils pourront également vous embarquer dans
+    l'eau Rousse, l'Isère...\n* 7 Aventures vous emmèneront à la découverte de la
+    Dranse en Haute Savoie pour des canyonings sauvages "
+  button:
+    text_button: Nos offres de canyoning
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+    alt_button: ''
 - template: cta
   intro: Réservez dès maintenant vos activités canyoning
   headline: Activités enfants et adultes sont disponibles
