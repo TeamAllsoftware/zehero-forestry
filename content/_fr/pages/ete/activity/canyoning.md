@@ -118,12 +118,14 @@ page_sections:
   content: "Chez Ze Hero, nous allons vous proposer différents canyonings dans les
     Alpes Maritimes, en Savoie et en Haute Savoie. Vous serez encadré par des professionnelles
     et passionnée de canyoning, qui vous emmèneront quelque soit votre niveau, vos
-    envies afin de vous faire vivre une expérience forte et unique.   \nVoici nos
-    différents partenaires de canyoning chez Ze Hero :\n\n* Nos moniteurs de canyonings
-    Ze Hero, vous feront découvrir les Alpes Maritimes, dans les gorges du loup, dans
-    le Roya et dans la Vésubie. En Savoie, ils pourront également vous embarquer dans
-    l'eau Rousse, l'Isère...\n* 7 Aventures vous emmèneront à la découverte de la
-    Dranse en Haute Savoie pour des canyonings sauvages "
+    envies afin de vous faire vivre une expérience forte et unique.  \nVoici nos différents
+    partenaires de canyoning chez Ze Hero :\n\n* Nos [**moniteurs de canyonings Ze
+    Hero**](https://shop.ze-hero.com/fr/activites-Outdoor?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=),
+    vous feront découvrir les Alpes Maritimes, dans les gorges du loup, dans le Roya
+    et dans la Vésubie. En Savoie, ils pourront également vous embarquer dans l'eau
+    Rousse, l'Isère...\n* [**7 Aventures**](https://www.ze-hero.com/fr/ete/partenaires/7-aventures)
+    vous emmèneront à la découverte de la Dranse en Haute Savoie pour des canyonings
+    sauvages"
   button:
     text_button: Nos offres de canyoning
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
