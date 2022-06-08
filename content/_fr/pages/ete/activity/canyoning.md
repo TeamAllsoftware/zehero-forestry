@@ -49,7 +49,7 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   content: |-
-    * S'équiper en canyoning :
+    * <span class="font-weight-600"> words you wnat to be stronger </span>
 
     S’équiper en canyoning, c’est avoir avec soi du matériel spécifique. Le moniteur, l’encadrant du canyoning aura avec lui beaucoup plus de matériel que les clients. Il doit être équipé de sa corde, de dégaines, de bloqueurs, de mousquetons et bien plus encore, dans le but de vous assurer, de vous faire descendre. Mais toutes les personnes doivent avec avoir avec soi ce matériel-là :
 
