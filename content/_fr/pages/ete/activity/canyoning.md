@@ -89,7 +89,7 @@ page_sections:
     du sac et du baudrier. Parfois elles ne prêtent pas les chaussures, il vaut mieux
     prévoir."
   button:
-    text_button: Plus d'information sur l'équipement en canyoning
+    text_button: Plus d'informations sur l'équipement en canyoning
     href_button: https://www.ze-hero.com/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes
     alt_button: ''
 - template: textarea
@@ -151,5 +151,6 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: Réservez une activité de canyoning
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+published: false
 
 ---
