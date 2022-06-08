@@ -9,6 +9,8 @@ meta-title: 'Réservez cours de surf à Seignosse '
 meta-description: Réservez un cours de surf privé ou collectif à Seignosse. Location
   de surf et de combinaison de surf à Seignosse.
 title: Cours de surf à Seignosse
+activite: surf
+level: 2
 permalink: "/fr/reserver-cours-ecole-surf-seignosse"
 redirect_from:
   - "/fr/ete/activites/cours-surf-seignosse"

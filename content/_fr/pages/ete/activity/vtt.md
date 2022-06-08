@@ -5,6 +5,9 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: VTT
+activite: VTT
+level: 1
+enHome: 2
 permalink: "/fr/ete/activites/vtt"
 redirect_from:
 - "/fr/ete/activite/vtt"

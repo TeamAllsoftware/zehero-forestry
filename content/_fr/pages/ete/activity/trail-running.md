@@ -5,6 +5,9 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Trail Running
+activite: trail
+level: 1
+enHome: 1
 permalink: "/fr/ete/activites/trail-running"
 redirect_from:
 - "/fr/itineraire-trail-alpes-maritimes/"

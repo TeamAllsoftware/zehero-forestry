@@ -5,6 +5,9 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Paddle
+activite: paddle
+level: 1
+enHome: 2
 permalink: "/fr/ete/activites/paddle"
 redirect_from:
 - "/fr/ete/activite/paddle"

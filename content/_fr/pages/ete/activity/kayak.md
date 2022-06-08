@@ -5,6 +5,9 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Kayak
+activite: kayak
+level: 1
+enHome: 2
 permalink: "/fr/ete/activites/kayak"
 redirect_from:
 - "/fr/kayak-savoie-haute-savoie/"

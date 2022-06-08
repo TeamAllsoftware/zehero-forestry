@@ -5,6 +5,8 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Ecoles de Surf à St Brevin les Pins
+activite: surf
+level: 2
 permalink: "/fr/ete/activites/ecole-surf-st-brevin-les-pins"
 redirect_from:
 - "/fr/ete/activite/ecole-surf-st-brevin-les-pins"

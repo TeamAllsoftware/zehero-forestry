@@ -11,6 +11,9 @@ meta-description: 'Découvrez l''hydrospeed afin de nager dans les rivières, d'
   paire de palme, d''un flottaire, d''une combinaison et d''un casque, partez dans
   une aventure inoubliable. '
 title: L'Hydrospeed
+activite: hydrospeed
+level: 1
+enHome: 2
 permalink: "/fr/ete/activites/hydrospeed"
 baseline: Surfez dans les rivières
 engage: 'Découvrez la nage en rivière             '

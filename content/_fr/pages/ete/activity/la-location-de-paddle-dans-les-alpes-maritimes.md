@@ -5,6 +5,8 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: La location de Paddle dans les Alpes Maritimes
+activite: paddle
+level: 2
 permalink: "/fr/ete/activites/location-paddle-alpes-maritimes"
 redirect_from:
 - "/fr/ete/activite/location-paddle-alpes-maritimes"

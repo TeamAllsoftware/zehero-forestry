@@ -5,6 +5,8 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: La traversée des Alpes en vélo
+activite: velo
+level: 2
 permalink: "/fr/ete/activites/traversee-des-alpes-en-velo"
 id: 10237
 redirect_from:

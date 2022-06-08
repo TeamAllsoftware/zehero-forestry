@@ -11,6 +11,8 @@ meta-description: 'Découvrez, en Trail Running, les Alpes Maritimes, ses bords 
   Tourrettes sur Loup, Gourdon, Grasse, St Jeannet et bien d''autre. Des lieux incontournables
   avec des points de vue magnifiques dans un environnement préservé et sauvage.  '
 title: Trail Running dans les Alpes Maritimes
+activite: trail
+level: 2
 permalink: "/fr/trail-running-alpes-maritimes-prealpes-azur"
 redirect_from:
   - "/fr/ete/activites/trail-06-mer-prealpes-azur"

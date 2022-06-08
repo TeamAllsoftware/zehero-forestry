@@ -5,6 +5,8 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Coaching sportif à Antibes / Alpes Maritimes
+activite: coaching
+level: 2
 permalink: "/fr/ete/activites/coaching-sportif-antibes-alpes-maritimes"
 redirect_from:
 - "/fr/ete/activite/coaching-sportif-antibes-alpes-maritimes"

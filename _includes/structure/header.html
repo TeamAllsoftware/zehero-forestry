@@ -14,7 +14,29 @@
 
 {% include elements/generic_variables.html %}
 
-        <header>
+            <header class="header-with-topbar">
+                <div class="top-bar bg-green text-white d-none d-md-inline-block padding-50px-lr md-no-padding-lr">
+                    <div class="container-fluid nav-header-container">
+                        <div class="d-flex flex-wrap align-items-center">
+                            <div class="col-12 text-center text-sm-start col-sm-auto me-auto ps-lg-0">
+                                <p class="text-large m-0"><span class="font-weight-500 text-white">Sauter de joie, Se dépasser, Etre fier, Partager. Seul, en famille, entre amis, notre sélection des prestataires et itinéraires.
+
+                                </span></p>
+                            </div>
+                            <div class="col-auto d-none d-sm-block text-end px-lg-0 text-extra-large">
+                                <div class="top-bar-contact">
+                                    <span class="top-bar-contact-list border-none md-no-padding-right">
+                                        <i class="feather icon-feather-phone-call icon-extra-small text-white"></i>+ (+33) 4 79 01 49 99 
+                                    </span>
+                                    <span class="top-bar-contact-list d-none d-lg-inline-block border-none pe-0">
+                                        <a href="https://shop.ze-hero.com/fr/activites-Outdoor/" class="text-white"><i class="feather icon-feather-map-pin icon-extra-small text-white"></i>
+                                        Réserver une activité</a>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             {% if page.type == "B2B" %}
                 <nav class="navbar top-space navbar-expand-lg navbar-boxed navbar-dark bg-{{ site.data.config.[page.type].site-color }} fixed-top header-reverse-scroll">
                 {% else %}

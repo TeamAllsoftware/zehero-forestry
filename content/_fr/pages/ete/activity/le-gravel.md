@@ -10,6 +10,8 @@ meta-description: Le Gravel est un vélo de route plus solide et robuste avec de
   pouvant aller sur les sentiers de terre. Un large choix de circuit et de trace s'offre
   à vous en variant les plaisirs.
 title: Le Gravel
+activite: velo
+level: 2
 permalink: "/fr/ete/activites/gravel"
 baseline: Rouler, explorer, pédaler
 engage: La polyvalence des terrains avec le gravel

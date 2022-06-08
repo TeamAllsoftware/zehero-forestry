@@ -5,6 +5,9 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Canyoning
+activite: canyonning
+level: 1
+enHome: 1
 permalink: "/fr/ete/activites/canyoning"
 redirect_from:
 - "/fr/canyoning-annecy/"
@@ -14,7 +17,7 @@ meta-description: L'activité du canyoning est une activité d'eau qui consiste 
   le long d'une rivière en jouant avec les éléments de la nature.
 baseline: Sensations, émotions et ludique
 engage: Partagez des sensations et des émotions fortes
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642512714/website/summer/harry-dona-9hHTZeKKK8Q-unsplash_ejimkd.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
 image01_alt: Groupe de personne faisant du canyoning
 categorie: Eaux vives
 page_sections:

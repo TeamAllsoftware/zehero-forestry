@@ -8,6 +8,9 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Coaching sportif
+activite: coaching
+level: 1
+enHome: 2
 meta-title: Réserver un coach sportif - Préparation et entraînement
 meta-description: Profitez d'un coach et d'une séance de coaching sportif afin d'atteindre
   vos prochains objetcifs

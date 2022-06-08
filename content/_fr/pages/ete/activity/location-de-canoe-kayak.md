@@ -5,6 +5,8 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Location de Canoë / Kayak
+activite: kayak
+level: 2
 permalink: "/fr/ete/conseils/location-canoe-kayak"
 redirect_from:
 - "/fr/ete/conseil/location-canoe-kayak"

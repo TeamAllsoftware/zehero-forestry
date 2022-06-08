@@ -5,6 +5,9 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Surf
+activite: surf
+level: 1
+enHome: 1
 permalink: "/fr/ete/activites/surf"
 redirect_from:
 - "/fr/surf-loire-atlantique/"

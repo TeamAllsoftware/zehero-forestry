@@ -17,9 +17,12 @@
             <div class="col-12 text-center">
                 {% assign collection = site[page.collection] %}
                 {% assign serviceType = block.service %}
+                {% assign filterCat = block.filterCat %}
+                {% assign filterLevel = block.filterLevel %}
+                {% assign filterHome = block.filterHome %}
                 {% assign servicePath = season_language | prepend:'/' | append: '/' | append: serviceType | append: '/' %}
                 
-                {% if serviceType == 'activity' %}
+                {% if serviceType == 'activity' and filterCat == 'oui' %}
                 <!-- start filter navigation -->
                 <ul class="portfolio-filter grid-filter nav nav-tabs justify-content-center border-0 text-uppercase font-weight-500 alt-font padding-6-rem-bottom md-padding-4-half-rem-bottom sm-padding-2-rem-bottom">
                     {% assign catList = site[page.collection] | where_exp: 'item', "item.path contains servicePath "  %}
@@ -46,7 +49,9 @@
                 <ul class="portfolio-classic portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-4col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center">
                     <li class="grid-sizer"></li>
 
-                    {% for service in collection %}
+                    {% assign activityList = site[page.collection] | where_exp: 'item',"item.level <= filterLevel and item.enHome <= filterHome " %}
+                    
+                    {% for service in activityList %}
                     {% if service.path contains servicePath %}
                     <!-- start portfolio item -->
                     <li class="grid-item {{ service.categorie | remove: ' ' | remove: '/' }} ">
