@@ -102,10 +102,10 @@ page_sections:
     * En Corse pour des lieux magiques et des canyonings très réputés
     * En Ardèche pour des canyons plus sauvages et préservés
     * Dans le Verdon pour ses couleurs sublimes et de belles randonnées aquatiques
-    * Dans les [Alpes-Maritimes ](https://www.ze-hero.com/fr/ete/activites/canyoning-alpes-maritimes)pour des canyonings mixtes
+    * Dans les [**Alpes-Maritimes** ](https://www.ze-hero.com/fr/ete/activites/canyoning-alpes-maritimes)pour des canyonings mixtes
     * Dans les Vosges pour des sensations fortes
     * Dans les Pyrénées pour des canyonings réputés mondialement
-    * Mais aussi dans le Jura, en [Savoie](https://www.ze-hero.com/fr/ete/activites/canyoning-annecy), en Haute-Savoie...
+    * Mais aussi dans le Jura, en [**Savoie**](https://www.ze-hero.com/fr/ete/activites/canyoning-annecy), en Haute-Savoie...
 
     Avec Ze Hero, nous avons sélectionné une liste des différents canyonings dans nos destinations selon les différents types de sorties (canyoning famille, canyoning magnifique, canyoning sportif...)
   blockBGcolor: ''
