@@ -46,30 +46,21 @@ page_sections:
   - Les itinéraires en canyoning
 - template: 2colimgtxt
   blockBGcolor: blanc
-  content: "Débuter le canyoning, c'est partir vivre une expérience forte dans des
-    lieux magnifiques. Le canyoning est une activité ouverte à tout le monde à condition
-    de savoir nager. Vous pourrez alors partager et vivre des moments intenses. En
-    fonction de votre expérience en canyoning, de votre niveau et de votre âge, le
-    moniteur adaptera le choix du parcours. Pour les initiations et les débuts dans
-    le canyoning, cela ne nécessite pas forcément d'avoir une bonne condition physique,
-    les parcours sont plus ouverts avec plus de marche et de nage. Par contre, lorsque
-    les parcours de canyoning vont être plus techniques et engagés, il faudra alors
-    avoir une meilleure condition physique, être agile, ne pas avoir le vertige. Vous
-    devrez alors descendre en rappels, réaliser des sauts parfois à plus de 10m.  \nDécouvrez
-    ici tous nos conseils : [Débuter le canyoning](https://www.ze-hero.com/fr/ete/conseils/conseils-canyoning)\n\nVous
-    pourrez choisir alors différents types de canyoning en fonction de vos envies,
-    de vos niveaux et de votre groupe :\n\n* Canyoning familiale : randonnée aquatique,
-    petits sauts, toboggans et parfois quelques petits rappels\n* Canyoning entre
-    amis : canyoning plus sportif avec des sauts, des rappels, des toboggans \n* Canyoning
-    sportif : canyoning réservé aux personnes désirant faire des sauts très hauts,
-    des longs rappels, des espaces parfois étroits et des descentes de plusieurs heures "
+  content: |-
+    Débuter le canyoning, c'est partir vivre une expérience forte dans des lieux magnifiques. Le canyoning est une activité ouverte à tout le monde à condition de savoir nager. Vous pourrez alors partager et vivre des moments intenses. En fonction de votre expérience en canyoning, de votre niveau et de votre âge, le moniteur adaptera le choix du parcours. Pour les initiations et les débuts dans le canyoning, cela ne nécessite pas forcément d'avoir une bonne condition physique, les parcours sont plus ouverts avec plus de marche et de nage. Par contre, lorsque les parcours de canyoning vont être plus techniques et engagés, il faudra alors avoir une meilleure condition physique, être agile, ne pas avoir le vertige. Vous devrez alors descendre en rappels, réaliser des sauts parfois à plus de 10m.
+
+    Vous pourrez choisir alors différents types de canyoning en fonction de vos envies, de vos niveaux et de votre groupe :
+
+    * Canyoning familiale : randonnée aquatique, petits sauts, toboggans et parfois quelques petits rappels
+    * Canyoning entre amis : canyoning plus sportif avec des sauts, des rappels, des toboggans
+    * Canyoning sportif : canyoning réservé aux personnes désirant faire des sauts très hauts, des longs rappels, des espaces parfois étroits et des descentes de plusieurs heures
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
   alt_text_for_image: Personne en canyoning descendant en rappel en souriant
   title: Débuter le canyoning
   captiontitleuppercase: Le canyoning, pour tous
   button:
-    text_button: ''
-    href_button: ''
+    text_button: Plus d'informations pour débuter le canyoning
+    href_button: https://www.ze-hero.com/fr/ete/conseils/conseils-canyoning
     alt_button: ''
 - template: 2coltxtimg
   blockBGcolor: blanc
