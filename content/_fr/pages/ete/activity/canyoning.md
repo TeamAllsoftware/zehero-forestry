@@ -116,5 +116,6 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: Réservez une activité de canyoning
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+published: false
 
 ---
