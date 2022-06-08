@@ -101,5 +101,8 @@ s06:
   achieve04:
     title: Course à Obstacles
     content: Plusieurs Spartan Race France
+button_to_link_to_ze_hero_shop:
+  button_text: ''
+  url_to_shop_zehero: ''
 
 ---

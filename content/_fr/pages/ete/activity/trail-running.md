@@ -26,90 +26,51 @@ image01_alt: Femme courant en trail sur le long d'une crête de montagne lors du
 categorie: Running / Trail
 page_sections:
 - template: textarea
-  content: |-
-    Le trail signifie "sentier" en anglais. Que ce soit en montagne, en plaine, dans la forêt, vous retrouverez ce sentier qui monte, qui descend et qui tourne. Ce chemin peut être technique avec des cailloux et des racines, mais aussi lisse et roulant.
-
-    Le trail est une pratique sportive de course à pied qui se trouve en nature et quelques fois dans la ville (urbain trail). Quel que soit le parcours, il présentera du dénivelé. C'est-à-dire que vous trouverez des montées et des descentes, ce que l'on nomme le D+.
+  content: "Le trail signifie \"sentier\" en anglais. Que ce soit en montagne, en
+    plaine, dans la forêt, vous retrouverez ce sentier qui monte, qui descend et qui
+    tourne. Ce chemin peut être technique avec des cailloux et des racines, mais aussi
+    lisse et roulant. Le trail est une pratique sportive de course à pied qui se trouve
+    en nature et quelques fois dans la ville (urbain trail). Quel que soit le parcours,
+    il présentera du dénivelé. C'est-à-dire que vous trouverez des montées et des
+    descentes, ce que l'on nomme le D+.  \nLa randonnée en montagne s'en approche
+    absolument, sauf qu'on sera plus minimaliste en Trail. On va aller plus vite,
+    en étant plus léger en équipement. Le trail combine l'amour de la nature, des
+    panoramas, des sentiers avec le plaisir d'engagement physique et musculaire. C'est
+    une activité qui permet de découvrir des lieux, en allant vite et s'amusant avec
+    le terrain, seul ou à plusieurs. Courir des heures en nature, plonge le corps
+    et l'esprit dans un moment de [plénitude](https://www.ze-hero.com/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret)."
   title: Le trail running
   blockBGcolor: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: "* Débuter en Trail running :\n\nDébuter le trail running, c'est découvrir
+    la course à pied sur sentier, en milieu naturel dans des parcours avec du dénivelé.
+    Si vous aimer courir, que vous avez débuter le running sur plat et que vous souhaitez
+    vous aventurer en nature, débutez le trail running en tout confiance avec Ze Hero.
+    Nous mettons en place des coachings dédiées aux personnes souhaitant s'initier
+    et suivre un programme pour progresser en trail. Découvrez comment courir en monter,
+    comment gérer son effort, comment savoir quel parcours faire en fonction du kilomètre
+    et du dénivelé.\n\nDécouvrez toutes les informations en parcourant notre page
+    : [**Débuter en le trail running**]()\n\n* S'équiper en Trail running : \n\nLe
+    Trail running demande un équipement plus spécifique que la course à pied. L'évolution
+    dans des terrains montagneux, sur des sentiers plus accidenté, en milieu naturel
+    demande alors du matériel et des équipements adaptés à la pratique. Afin de comprendre
+    et savoir comment bien s'équiper dans le trail, nous avons créé une page spécialement
+    conçu pour vous afin de répondre aux différentes questions sur l'équipement.\n\nDécouvrez
+    toutes les informations en parcourant notre page : [**S'équiper en trail running
+    **]()et [**Comment choisir ses chaussures de trail ?**](https://www.ze-hero.com/fr/ete/conseils/chaussures-trail)\n\n*
+    Nos itinéraires de trail running :"
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
   alt_text_for_image: Equipement de trail
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200627_075555_ocn4rk.jpg
-  captiontitleuppercase: Partir s'évader
-  title: Bien être, engagement et découverte
-  content: La randonnée en montagne s'en approche absolument, sauf qu'on sera plus
-    minimaliste en Trail. On va aller plus vite, en étant plus léger en équipement.
-    Le trail combine l'amour de la nature, des panoramas, des sentiers avec le plaisir
-    d'engagement physique et musculaire. C'est une activité qui permet de découvrir
-    des lieux, en allant vite et s'amusant avec le terrain, seul ou à plusieurs. Courir
-    des heures en nature, plonge le corps et l'esprit dans un moment de [plénitude](https://www.ze-hero.com/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret).
-  alt_text_for_image: Deux coureurs de trail courant dans une montagne avec beaucoup
-    de cailloux
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: gris
-- template: textarea
-  title: Pour le plaisir et aussi la compétition
-  content: Le trail, c'est une activité que l'on fait pour le plaisir, pour soi, pour
-    son bien-être physique et mental. Mais aussi pour le partager en groupe, avec
-    des amis lors de sorties longues. C'est également la compétition afin d'essayer
-    de se dépasser soi-même avec l'émulsion des participants et parfois des parcours
-    uniques et magnifiques. La compétition en trail est un moyen de fixer ses propres
-    objectifs.
-  blockBGcolor: ''
-- template: liststyle01
-  title: Les différentes courses
-  item:
-  - 'Kilomètres Verticaux '
-  - Trail Court < 30km
-  - Trail Long < 80km
-  - Ultra Trail > 100km
-- template: parlaxgridtxtimg
-  captionabovetitle: Une paire de chaussure et en route
-  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883629/website/summer/Trail-foret-seul_ofxowi.jpg
-  title: Courir plus haut, plus loin
-  gridline1title: Repousser vos limites
-  gridline1content: La pratique du trail reste simple, mais elle demande certaines
-    spécificités. Au-delà de l'entraînement, il faut également prendre en compte sa
-    gestion de course, la technique de course, la nutrition et surtout toute la partie
-    mentale. S'entraîner avec un groupe, un coach permet de progresser.
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200528_132727_fnpain.jpg
-  gridline2title: Pour tout le monde
-  gridline2content: Hormis les différences de niveau physique, le trail est une activité
-    pour tout le monde. On court seul mais on partage l'aventure en groupe, ce qui
-    rend le moment plus riche. Quelque soit votre niveau, les parcours sont adaptés
-    et il y en a pour tous les goûts.
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG20210813131314_aotkis.jpg
-  prlax_alt_text_for_image: Coureur de Trail running courant dans la forêt
-  grid_1_alt_text_for_image: Groupe de bouquetins lors d'une sortie longue de trail
-    en montagne
-  grid_2_alt_text_for_image: Coureuse de trail running descendant un sentier en cailloux
-    devant un lac de montagne
 - template: textarea
   content: |-
     En fonction des parcours et des distances, la pratique du trail sera différente. Lorsque le parcours sera plus court, l'engagement physique sera alors plus important. Inversement, lorsque le parcours sera plus long, on retrouvera un aspect plus important de gestion, mental, physique et nutritionnel. Tous ces paramètres rendent l'activité plus riche et intéressante.
 
     La pratique du trail comporte un équipement spécifique par ses chaussures de trail, ses vêtements techniques et légers, ses sacs à dos d'hydratation, le port de bâtons pour ceux qui le souhaitent etc.
   title: ''
-  blockBGcolor: ''
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200809_090044_skturv.jpg
-  captiontitleuppercase: Le plaisir d'épingler le dossard
-  title: Se dépasser soi même en courant
-  content: 'Aujourd''hui, on retrouve énormément de course, tous les week-ends. Avoir
-    un dossard, c''est aussi partager un bon moment avec ses amis, c''est se dépasser
-    et aller chercher ses objectifs, c''est participer à un évènement avec une bonne
-    ambiance. '
-  alt_text_for_image: Personne courant en trail devant une montagne
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
   blockBGcolor: ''
 - template: textarea
   content: |-
