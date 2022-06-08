@@ -128,6 +128,16 @@ page_sections:
     text_button: Nos offres de canyoning
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
     alt_button: ''
+- template: 3coltxtimgtxt
+  blockBGcolor: blanc
+  captionleftcontent: Votre référent canyoning chez Ze Hero
+  captionrighttitle: Claire Jurine
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload2_owfl5q.jpg
+  center_alt_text_for_image: Plusieurs personnes en canyoning dans les Alpes Maritimes
+  captionrightcontent: Passionné de sport outdoor, elle pratique le canyoning avec
+    ses enfants dans les Alpes Maritimes et connaît tous les différents canyons de
+    cette magnifique région. Elle saura vous guider que vous soyez novice et débutant
+    comme amateur et confirmé de canyoning.
 - template: cta
   intro: Réservez dès maintenant vos activités canyoning
   headline: Activités enfants et adultes sont disponibles
