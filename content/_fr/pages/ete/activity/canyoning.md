@@ -12,25 +12,27 @@ redirect_from:
 meta-title: Canyoning - Activité outdoor d'eau vives
 meta-description: L'activité du canyoning est une activité d'eau qui consiste à avancer
   le long d'une rivière en jouant avec les éléments de la nature.
-baseline: Sensations, émotions et ludique
+baseline: Sensations, émotions et découverte
 engage: Partagez des sensations et des émotions fortes
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642512714/website/summer/harry-dona-9hHTZeKKK8Q-unsplash_ejimkd.jpg
-image01_alt: Groupe de personne faisant du canyoning
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
+image01_alt: Deux personnes faisant du canyoning et souriant dans l'eau dans les Alpes
+  Maritimes
 categorie: Eaux vives
 page_sections:
 - template: textarea
   title: Qu'est-ce que le canyoning ?
-  content: "Vivez une expérience outdoor incroyable ainsi que des sensations fortes
-    dans des cadres naturels magnifiques. Le canyoning, c'est une activité d'eau qui
-    permet d'évoluer le long d'une rivière, dans des gorges, des cascades, un torrent.
-    Cela se fera par la marche, la nage, l'escalade, des descentes en toboggans naturels,
-    des sauts ainsi que des descentes en rappel ou tyroliennes créés par le moniteur.
-    \ \nUn sport de sensation et de plein air qui permet de partager un moment en
-    groupe et dans des lieux uniques. Selon les canyons, certaines voies seront beaucoup
-    plus difficiles que d'autres avec des sauts et des rappels parfois très hauts.
-    Certaines seront, à l'inverse, plus faciles et plus adaptées à des enfants ou
-    des personnes désirant seulement faire une randonnée aquatique avec quelques sauts
-    et glissades."
+  content: "Le canyoning, c'est quoi ?    \nLe canyoning, c'est une activité d'eau
+    vive qui permet d'évoluer le long d'une rivière, dans des gorges, dans des cascades,
+    dans un torrent. L'évolution du canyon se fera par la marche, la nage, l'escalade,
+    des descentes en toboggans naturels, des sauts ainsi que des descentes en rappel
+    ou tyroliennes créés par le moniteur. Vivez une expérience outdoor incroyable
+    ainsi que des sensations fortes dans des cadres naturels magnifiques.  \nLe canyoning
+    est un sport de sensation et de plein air qui permet de partager un moment en
+    groupe et dans des lieux uniques. Selon les canyons, certaines descentes seront
+    beaucoup plus difficiles que d'autres avec des sauts et des rappels parfois très
+    hauts ainsi qu'un engagement plus important. Certaines seront, à l'inverse, plus
+    faciles et plus adaptées à des enfants ou des personnes désirant seulement faire
+    une randonnée aquatique avec quelques sauts et glissades en toboggan."
   blockBGcolor: ''
 - template: imgWide
   blockBGcolor: blancGris
