@@ -113,7 +113,7 @@ page_sections:
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
   alt_text_for_image: Enfant en canyoning sautant dans l'eau
-  captiontitleuppercase: Trouver votre activité de canyoning
+  captiontitleuppercase: Trouvez votre activité de canyoning
   title: Les partenaires Ze Hero de canyoning
   content: "Chez Ze Hero, nous allons vous proposer différents canyonings dans les
     Alpes Maritimes, en Savoie et en Haute Savoie. Vous serez encadré par des professionnelles
@@ -132,7 +132,7 @@ page_sections:
     alt_button: ''
 - template: 3coltxtimgtxt
   blockBGcolor: blanc
-  captionleftcontent: Votre référent canyoning chez Ze Hero
+  captionleftcontent: Votre référente canyoning chez Ze Hero
   captionrighttitle: Claire Jurine
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload2_owfl5q.jpg
   center_alt_text_for_image: Plusieurs personnes en canyoning dans les Alpes Maritimes
