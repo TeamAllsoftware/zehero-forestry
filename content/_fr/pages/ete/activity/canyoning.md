@@ -71,6 +71,26 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/IMG_4081_lbj3u9.jpg
+  alt_text_for_image: Groupe de personne en canyoning dans les Alpes maritimes
+  title: S'équiper en canyoning
+  captiontitleuppercase: Equipement spécifique
+  content: "S'équiper en canyoning, c'est avoir avec soi du matériel spécifique. Le
+    moniteur, l'encadrant du canyoning aura avec lui beaucoup plus de matériel que
+    les clients. Il doit être équipé de sa corde, de dégaines, de bloqueurs, de mousquetons
+    et bien plus encore, dans le but de vous assurer, de vous faire descendre. Mais
+    toutes les personnes doivent avec avoir avec soi ce matériel-là :\n\n* Combinaison
+    néoprène de canyoning d'au moins 5mm d'épaisseur \n* Un baudrier avec jupe de
+    protection\n* Casque pour se protéger\n* Des chaussures de sports avec des crampons\n\nLa
+    plupart des écoles de canyonings prêtent le matériel pour ce qui est de la combinaison,
+    du sac et du baudrier. Parfois elles ne prêtent pas les chaussures, il vaut mieux
+    prévoir."
+  button:
+    text_button: Plus d'information sur l'équipement en canyoning
+    href_button: https://www.ze-hero.com/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes
+    alt_button: ''
 - template: textarea
   title: Le matériel
   content: |-
