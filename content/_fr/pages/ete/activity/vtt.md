@@ -63,22 +63,21 @@ page_sections:
   alt_text_for_image: VTT au milieu de la forêt
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/tim-foster-qrIy8dBzCVU-unsplash_t0p4kh.jpg
-  captiontitleuppercase: S'aventurer sur tous les chemins
-  title: 'Découverte et sensation '
-  content: Pratiquer le VTT, c'est partir faire des randonnées à travers la montagne,
-    à travers des environnements naturels qui offrent de jolies vues, des coins de
-    paradis. Mais c'est également vivre des descentes à toutes vitesses, passer des
-    parcours avec des virages relevés et parsemés de sauts, dans des passages techniques
-    et raides. Partez, par la force de vos jambes à l'ascension de sommets accessibles
-    à vélo et des descentes bordées de cailloux et d'arbres. Le VTT c'est aussi une
-    superbe activité pour découvrir un lieu, une station, un parc. Vous pouvez le
-    faire en groupe afin de partager un moment encore plus agréable. Il existe aujourd'hui
-    dans beaucoup de station, différents parcours dédiés aux VTT, que ce soit pour
-    la montée comme pour la descente. Vous pouvez par ailleurs prendre un guide de
-    VTT afin d'avoir une personne référente qui vous explique vraiment les différences
-    de pédalage en montée ainsi que les techniques de descente. Cela vous permettra
-    également d'avoir un guide pour visiter les meilleurs spots de VTT du lieu où
-    vous êtes.
+  captiontitleuppercase: Trouvez votre activité de VTT
+  title: Nos partenaires de VTT et VAE
+  content: "Chez Ze Hero, nous allons vous proposer différentes activités de VTT et
+    de VAE que vous soyez des débutants, des amateurs ou même des experts. Nos partenaires
+    vous ferons découvrir leurs terrains de jeux, les paysages et les points de vue
+    remarquables. Ils vous expliqueront également toute la technique physique et technique
+    à adopter sur son VTT et VTT électrique afin que vous soyez plus à l'aise et que
+    vous profitez plus encore du moment. Partez donc rouler dans les 3 Vallées à Méribel,
+    Les Menuires, Val Thorens et Saint Jean de Belleville ainsi qu'au Grand Revard
+    et Aix les Bains.  \nVoici nos différents partenaires de VTT et VAE chez Ze Hero
+    :\n\n* **Sam Jones** vous embarque dans des sorties en VTT électrique et VTT au
+    sein des 3 vallées. Il vous propose des sorties de 2h aux sorties journées pour
+    des sorties familiales aux sorties sportifs.\n* [**Expérience Vélo**](https://www.ze-hero.com/fr/ete/partenaires/experience-velo),
+    basé à Aix les Bains et à Le Revard, vous embarque dans des sorties de VTT électrique
+    sur les plateaux du Grand Revard en Savoie pour des balades magnifiques."
   alt_text_for_image: Deux VTTiste sur leurs VTT roulant dans la forêt sur un chemin
     entouré de sapins
   button:
