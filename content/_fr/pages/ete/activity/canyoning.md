@@ -40,6 +40,17 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   blockBGcolor: blanc
+  title: Les différents types de canyoning
+  content: |-
+    Afin de comprendre et de mieux choisir les différents types de canyon que vous pouvez retrouver, nous avons segmenter les différents canyoning. Cela vous permet alors de trouver directement quel canyoning vous fait envie, vous correspond ou est plus adapté à vous ou votre famille.
+
+    * Les canyonings avec beaucoup de sauts
+    * Les canyonings techniques
+    * Les canyonings familles ( rappels très court, débit d'eau modéré )
+    * Les canyonings intermédiaires
+    * Les randonnées aquatiques
+- template: textarea
+  blockBGcolor: blanc
   title: Nos conseils Ze Hero
   content: "* Débuter le Canyoning :\n\nDébuter le canyoning, c’est partir vivre une
     expérience forte dans des lieux magnifiques. Le canyoning est une activité ouverte

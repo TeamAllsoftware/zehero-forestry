@@ -81,8 +81,8 @@ page_sections:
   alt_text_for_image: Deux VTTiste sur leurs VTT roulant dans la forêt sur un chemin
     entouré de sapins
   button:
-    text_button: ''
-    href_button: ''
+    text_button: Nos offres VTT
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
     alt_button: ''
   blockBGcolor: gris
 - template: 3coltxtimgtxt
