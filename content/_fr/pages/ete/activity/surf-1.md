@@ -81,6 +81,5 @@ page_sections:
   - 'De la wax (une gomme que l’on applique sur la planche pour éviter de glisser)
 
     '
-published: false
 
 ---
