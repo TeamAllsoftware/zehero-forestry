@@ -14,16 +14,16 @@ level: 2
 permalink: "/fr/reserver-cours-ecole-surf-seignosse"
 redirect_from:
   - "/fr/ete/activites/cours-surf-seignosse"
-baseline: Cours de surf à Seignosse
+baseline: La côte Atlantique, les écoles et les cours de surf
 engage: 'Trouvez votre cours de surf à Seignosse '
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340584/website/Ind%C3%A9pendant/51492224_2264458510442590_1849281714996641792_n.png
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641562732/website/summer/cedric-frixon-G9Rfc1qccH4-unsplash_gr8ksg.jpg
 image01_alt: Surfeur à Seignosse faisant du surf
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Seignosse&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 page_sections:
 - template: textarea
-  title: Cours de surf à Seignosse
+  title: Cours et écoles de surf à Seignosse
   content: |-
     Les cours de surf à [Seignosse ](https://www.ze-hero.com/fr/ete/destination/seignosse)vont pouvoir se faire tout d'abord à différentes plages et spots. Vous allez donc retrouver la plage des Casernes, la plage du Penon, la plage des Bourdaines et la plage des Estagnots.
 
@@ -40,8 +40,8 @@ page_sections:
 - template: 2colimgtxt
   blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647362603/website/resorts/Seignosse/jeffrey-brandjes-IYN2sh976Ac-unsplash_1.jpg
-  alt_text_for_image: Surfeur surfant une petite vague à Seignosse
-  title: Les cours de surf à Seignosse, pour qui ?
+  alt_text_for_image: Un cours de surf avec une école
+  title: Le surf, pour qui ? avec ou sans cours ?
   captiontitleuppercase: 'Surfez '
   content: "Les cours de surf à Seignosse sont destinés à tous les niveaux et tout
     le monde. Si vous débutez il est important de prendre des cours de surf. Cette
@@ -69,7 +69,7 @@ page_sections:
     8 à 10 personnes."
   blockBGcolor: ''
 - template: textarea
-  title: Les cours privés de surf à Seignosse
+  title: Les cours privés à Seignosse
   content: |-
     Les cours privés de surf à Seignosse vont vous permettre d'avoir un moniteur dédié à vous pendant 1h30 à 2h. Il restera avec vous afin de regarder chacun de vos gestes, de vos mouvements. Il vous permettra alors d'apprendre et de progresser beaucoup plus vite qu'en cours collectif. Un moniteur spécifique pour vous qui vous accompagnera dans votre progression et dans vos objectifs.
 
@@ -80,17 +80,17 @@ page_sections:
 - template: 2coltxtimg
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647264217/website/resorts/Seignosse/tom-wolff-XYCIp21GBQQ-unsplash.jpg
-  alt_text_for_image: Personne en surf sautant une vague à Seignosse
+  alt_text_for_image: Cours de surf et saut d'une vague
   captiontitleuppercase: Partez surfer à Seignosse
-  title: Réservez votre cours de surf à Seignosse
+  title: Réservez votre cours de surf dans une école
   content: "Réservez votre cours de surf à Seignosse afin d'apprendre et de vous initier
     à cette discipline de glisse.  \nTrouvez le cours qui vous correspond, cours collectif
     ou cours privé à Seignosse.  \nAvec Ze Hero, trouvez le meilleur pour vous et
     surfez sur les vagues des Landes."
   button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+    text_button: 'Réserver un cours de surf'
+    href_button: 'https://shop.ze-hero.com/fr/activites-Outdoor?station=Seignosse&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date='
+    alt_button: 'Réserver un cours de surf dans notre eshop'
 - template: imgWide
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238781/website/assets/Personnages%20poses/Poses%20format%20large/Surf.png
