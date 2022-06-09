@@ -57,7 +57,13 @@ page_sections:
     conçu pour vous afin de répondre aux différentes questions sur l'équipement.\n\nDécouvrez
     toutes les informations en parcourant notre page : [**S'équiper en trail running
     **]()et [**Comment choisir ses chaussures de trail ?**](https://www.ze-hero.com/fr/ete/conseils/chaussures-trail)\n\n*
-    Nos itinéraires de trail running :"
+    Nos itinéraires de trail running :\n\nNotre référent Trail est basé dans les Alpes
+    Maritimes et il vous propose un choix varié d'itinéraires de trail dans le bas
+    pays et le moyen pays niçois. De plus, vous pourrez réserver des initiations et
+    des itinérances en trail dans des lieux uniques tel que la Maralpine. Découvrez
+    le Mercantour et les Préalpes d'Azur mais également le Massif central, les Cévennes.
+    Parcourez de nouveau terrain à l'assaut des sommets, des plus belles courses et
+    de traversées. "
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
