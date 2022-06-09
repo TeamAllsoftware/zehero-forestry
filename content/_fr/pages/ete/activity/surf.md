@@ -67,6 +67,32 @@ page_sections:
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
   alt_text_for_image: Equipement de surf
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651477287/website/Sama%20Sama/surf-enfant-mimizan.jpg
+  alt_text_for_image: Enfant souriant sur une vague en surf à Mimizan
+  captiontitleuppercase: Trouvez votre activité surf
+  title: Nos partenaire Ze Hero de Surf
+  content: "Chez Ze Hero, nous allons vous permettre de surfer et de réserver des
+    cours de surf dans différents secteurs sur le côte Atlantique. Que vous soyez
+    des débutants, des amateurs, des experts, que vous souhaitez profiter en famille
+    ou progresser techniquement, nos partenaires mettent à votre disposition plusieurs
+    offres. Vous pourrez débuter dans la discipline, mais également apprendre des
+    techniques plus poussées et prendre des vagues plus hautes.  \nVoici nos différents
+    partenaires surf chez Ze Hero :\n\n* [**Sama Sama Surf School **](https://www.ze-hero.com/fr/ete/partenaires/sama-sama-surf-school)qui
+    est basé à Porge et Mimizan met à disposition différents cours collectifs et des
+    cours privé, ainsi que des offres de Surf Thérapie. Une école à l'écoute de vos
+    besoins dans une ambiance conviviale.\n* [**Morgan d'Avezac **](https://www.ze-hero.com/fr/ete/partenaires/morgan-davezac-surf-seignosse)est
+    une moniteur indépendant basé à Seignosse. Un moniteur qui a pratiqué le surf
+    à haut niveau et qui aujourd'hui vous propose des cours privés sur les plages
+    de Seignosse. Profitez de ses conseils avisées et techniques. \n* **Altantic Surf
+    Academy** est une école basé à St Brévin les pins. Découvrez les meilleurs spots
+    de surf de la Loire Atlantique avec des vagues parfaites pour débuter le surf
+    et prendre du plaisir. "
+  button:
+    text_button: Nos offres de surf
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=21%2F11%2F2021
+    alt_button: ''
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
