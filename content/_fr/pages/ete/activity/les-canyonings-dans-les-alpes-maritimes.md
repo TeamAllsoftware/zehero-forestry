@@ -9,8 +9,8 @@ activite: canyonning
 level: 2
 permalink: "/fr/meilleurs-spots-canyoning-alpes-maritimes"
 redirect_from:
-  - "/fr/ete/activite/canyoning-alpes-maritimes"
-  - "/fr/ete/activites/canyoning-alpes-maritimes"
+- "/fr/ete/activite/canyoning-alpes-maritimes"
+- "/fr/ete/activites/canyoning-alpes-maritimes"
 meta-title: 'Canyoning Alpes Maritimes : les meilleurs spots '
 meta-description: 'Le canyoning dans les Alpes Maritimes, c''est un choix incroyables
   de spots de canyons variées pour tous les niveaux et toutes les envies. '
@@ -90,6 +90,26 @@ page_sections:
     alt_button: ''
   alt_text_for_image: 'Vue d''un canyon et de l''eau '
   blockBGcolor: ''
+- template: video2colImgTxt
+  Texte 1:
+    icon: line-icon-Cursor-Click2
+    title: En famille
+    content: Ce canyoning est parfait pour ceux qui souhaitent s'initier et faire
+      un canyoning en famille.
+  Texte 2:
+    icon: line-icon-Sand-watch2
+    title: Le canyon
+    content: Il se trouve dans la vallée de la Vésubie, un canyon plutôt court mais
+      encaissé. Il sera ludique avec des toboggans et des sauts.
+  Texte 3:
+    icon: line-icon-Idea-5
+    title: Temps
+    content: Il y a environ 45mn de marche puis environ 1h de descente dans le canyon.
+  blockBGcolor: blanc
+  image_bg_href: https://youtube.com/shorts/zH_kAzYGnz8?feature=share
+  alt_text_for_image: Vidéo du canyoning de l'Infernet dans les Alpes Maritimes en
+    famille
+  title: Canyoning de l'Infernet dans les Alpes Maritime. Idéal en famille
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
