@@ -67,6 +67,13 @@ page_sections:
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649236206/website/assets/Recadr%C3%A9es/coaching.png
   alt_text_for_image: Matériel de coaching
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293325/website/Coaching/G0180403_1638033833951-min_eyxwxy.jpg
+  alt_text_for_image: Coach Sportif à Antibes
+  captiontitleuppercase: Trouver votre coaching sportif
+  title: Les partenaires Ze Hero
+  content: " "
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
