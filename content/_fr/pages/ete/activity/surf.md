@@ -93,6 +93,16 @@ page_sections:
     text_button: Nos offres de surf
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=21%2F11%2F2021
     alt_button: ''
+- template: 3coltxtimgtxt
+  blockBGcolor: blanc
+  captionleftcontent: Votre référent surf chez Ze Hero
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1642605797/website/summer/tim-marshall-vn59e-3J2oo-unsplash_izyyiz.jpg
+  center_alt_text_for_image: Surfeur sur une vague
+  captionrighttitle: 'Dimitri Kestemont  '
+  captionrightcontent: 'Dimitri est un passionné de nombreux sports outdoor et il
+    excelle dans la pratique du surf. Il saura vous conseillé pour toutes vos questions
+    sur la pratique du surf, de l''équipement et des meilleurs spots de surf qui seront
+    idéals pour vous. '
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
