@@ -94,6 +94,5 @@ page_sections:
   captionrighttitle: A vous de jouer
   captionrightcontent: "**Maintenant que vous avez fait le plein d’informations, vous
     êtes prêts à vous lancer dans une première expérience en parapente !** "
-published: false
 
 ---
