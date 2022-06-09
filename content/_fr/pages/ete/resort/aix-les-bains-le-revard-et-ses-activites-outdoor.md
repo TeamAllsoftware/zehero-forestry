@@ -14,6 +14,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Aix les Bains - Le Revard et ses activités outdoor
+activite: savoie
+level: 2
+enHome: 2
 page_title: Aix les Bains et Le Revard
 baseline: Lac et alpin
 resort_nameid: Aix_les_bains_le_revard

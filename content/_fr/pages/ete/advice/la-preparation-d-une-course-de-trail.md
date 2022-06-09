@@ -9,6 +9,8 @@ meta-description: Voici nos conseils sportif de trail afin de se préparer et de
   correctement
 topnav_color_text: light
 title: La préparation d'une course de Trail
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/preparation-course-trail"
 redirect_from:
 - "/fr/preparation-course-trail/"

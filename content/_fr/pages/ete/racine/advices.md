@@ -71,6 +71,9 @@ page_sections:
     alt_button: 
 - template: listServices
   service: advice
+  filterCat: non
+  filterLevel: 2
+  filterHome: 2
   blockBGcolor: gris
   headtitle:
     headline: Tout est pour vous

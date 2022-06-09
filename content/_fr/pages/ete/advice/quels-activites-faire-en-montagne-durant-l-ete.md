@@ -7,6 +7,8 @@ meta-description: Vous séjournez en montagne durant l'été, vous trouverez un 
   large d'activité à faire selon votre niveau, votre pratique et vos envies.
 topnav_color_text: light
 title: Quelles activités faire en montagne durant l'été
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/activites-montagne-ete"
 redirect_from:
 - "/fr/ete/conseil/activites-montagne-ete"

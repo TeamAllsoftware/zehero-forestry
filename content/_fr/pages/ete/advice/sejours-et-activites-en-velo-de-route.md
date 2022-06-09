@@ -9,6 +9,8 @@ meta-description: Vous recherchez un séjour ou des activités de vélo de route
   de route pour 7 cyclistes
 topnav_color_text: light
 title: Séjours et activités en vélo de route
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/sejours-activites-velo-de-route"
 redirect_from:
 - "/fr/ete/conseil/sejours-activites-velo-de-route"

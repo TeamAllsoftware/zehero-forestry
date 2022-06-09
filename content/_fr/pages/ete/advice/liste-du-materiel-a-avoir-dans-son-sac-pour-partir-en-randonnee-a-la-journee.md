@@ -8,6 +8,8 @@ meta-description: Découvrez la liste du matériel à prendre à la journée si 
   et du matériel indispensable à avoir dans son sac.
 topnav_color_text: light
 title: Liste du matériel à avoir dans son sac pour partir en randonnée à la journée
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/liste-materiel-randonnee"
 redirect_from:
 - "/fr/ete/conseil/liste-materiel-randonnee"

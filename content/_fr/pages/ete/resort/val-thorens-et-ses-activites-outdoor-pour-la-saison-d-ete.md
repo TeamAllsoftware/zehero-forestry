@@ -13,6 +13,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Val Thorens et ses activités outdoor pour la saison d'été
+activite: savoie
+level: 2
+enHome: 2
 page_title: Val Thorens, voyage en altitude
 baseline: Altitude et panorama
 resort_nameid: val_thorens

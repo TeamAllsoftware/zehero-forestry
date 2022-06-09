@@ -12,6 +12,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Le Bar sur Loup et ses activités outdoor pour la saison d'été
+activite: alpesmaritimes
+level: 2
+enHome: 2
 page_title: Le Bar sur Loup, village des Préalpes d'Azur
 baseline: Sommets et rivière
 resort_nameid: le_bar_sur_loup

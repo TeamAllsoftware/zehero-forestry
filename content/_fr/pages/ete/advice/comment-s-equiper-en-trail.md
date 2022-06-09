@@ -8,6 +8,8 @@ meta-description: Comment s'équiper lorsqu'on pratique le trail running afin d'
   bien habillé et d'avoir les bons équipements pour débuter.
 topnav_color_text: light
 title: Comment s'équiper en trail ?
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/equipement-trail"
 redirect_from:
 - "/fr/equipement-trail/"

@@ -12,6 +12,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Saint Jeannet et es activités outdoor pour la saison d'été
+activite: alpesmaritimes
+level: 2
+enHome: 2
 page_title: Saint Jeannet et le Baou
 baseline: Soleil et relief
 resort_nameid: saint_jeannet

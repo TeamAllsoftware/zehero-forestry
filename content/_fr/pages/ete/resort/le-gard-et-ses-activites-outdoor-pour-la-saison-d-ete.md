@@ -14,6 +14,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Le Gard et ses activités outdoor pour la saison d'été
+activite: alpesmaritimes
+level: 2
+enHome: 2
 page_title: Le Gard, département nature
 baseline: Parc naturel et mer
 resort_nameid: le_gard

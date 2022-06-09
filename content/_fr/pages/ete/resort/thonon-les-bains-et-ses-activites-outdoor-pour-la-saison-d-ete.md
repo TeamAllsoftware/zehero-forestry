@@ -13,6 +13,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Thonon-les-Bains et ses activités outdoor pour la saison d'été
+activite: hautesavoie
+level: 2
+enHome: 2
 page_title: Thonon-les-Bains, thermale et naturelle
 baseline: Lac et montagne
 resort_nameid: thonon_les_bains

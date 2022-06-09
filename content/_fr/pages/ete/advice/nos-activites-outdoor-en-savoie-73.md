@@ -7,6 +7,8 @@ meta-description: Voici nos différentes activité outdoor proposées par les pa
   de Ze Hero en Savoie. Randonner, trail, vélo, VTT, un large choix s'offre à vous.
 topnav_color_text: light
 title: Nos activités outdoor en Savoie 73
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/nos-activites-outdoor-savoie"
 meta-title: 'Les activités outdoors Ze Hero en Savoie '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749756/website/summer/julien-ponge-YIFpb6tqJEU-unsplash_y4kf8y.jpg

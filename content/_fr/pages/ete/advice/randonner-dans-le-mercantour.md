@@ -8,6 +8,8 @@ meta-description: Découvrez le parc national du Mercantour avec ses nombreuses 
   alpines, les lacs incontournables, les sommets à faire dans cette page.
 topnav_color_text: light
 title: Randonner dans le Mercantour
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/randonner-mercantour"
 meta-title: Les randonnées incontournables du Mercantour
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654006614/website/Conseil%20/IMG_20200619_134934.jpg

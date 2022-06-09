@@ -12,6 +12,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Les Houches et ses activités outdoor pour la saison d'été
+activite: hautesavoie
+level: 2
+enHome: 2
 page_title: Les Houches, village Mont Blanc
 baseline: Village alpin
 resort_nameid: les_houches

@@ -13,6 +13,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: La Corse et ses activités outdoor pour la saison d'été
+activite: alpesmaritimes
+level: 2
+enHome: 2
 page_title: La Corse, l'île de beauté
 baseline: La Corse, île nature
 resort_nameid: corse

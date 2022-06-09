@@ -14,6 +14,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: St Brevin les pins et ses activités pour la saison d'été
+activite: coteatlantique
+level: 2
+enHome: 2
 page_title: St Brevin les pins, émotions brutes
 baseline: Océan et nature
 resort_nameid: stbrevinlespins
