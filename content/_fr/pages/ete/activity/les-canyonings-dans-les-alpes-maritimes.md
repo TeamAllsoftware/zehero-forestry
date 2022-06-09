@@ -103,7 +103,7 @@ page_sections:
       encaissé. Il sera ludique avec des toboggans et des sauts.
   Texte 3:
     icon: line-icon-Idea-5
-    title: Temps
+    title: Temps de l'activité
     content: Il y a environ 45mn de marche puis environ 1h de descente dans le canyon.
   blockBGcolor: blanc
   image_bg_href: https://youtube.com/shorts/zH_kAzYGnz8?feature=share
