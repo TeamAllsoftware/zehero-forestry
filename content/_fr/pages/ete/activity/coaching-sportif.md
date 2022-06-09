@@ -31,6 +31,23 @@ page_sections:
     coach, avoir un calendrier et un programme d'entraînement spécialement adapté
     à vous et votre progression."
   title: Le coaching sportif
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: |-
+    * Débuter le coaching sportif
+
+    Le coaching sportif est destiné à tous les niveaux et à tout le monde. Que vous débutiez dans le sport, dans une activité ou que vous souhaitez progresser, prendre du niveau, atteindre des objectifs, le coaching sportif vous permettra d'être accompagner. Le coach sportif vous apportera tous ses conseils afin de vous faire progresser dans le domaine que vous souhaite. Il pourra également mettre en place des suivie d'entraînement à distance.
+
+    * L'équipement en coaching sportif
+
+    Le coaching sportif ne requiert pas d'équipement spécifique. Cela va déjà dépendre de la discipline aussi dont vous souhaitez être entrainé et coaché. Pour cela il faudra alors voir directement avec le coach en question. Mais que ce soit pour courir, faire de la musculation ou autre, le coach à tous le matériel nécessaire. Il vous suffira de vous vêtir de vêtements et de chaussures adaptés au sport.
+
+    * Nos lieux de coaching sportif
+
+    Vous trouverez nos coachings à Lyon ainsi que dans les Alpes Maritimes. Ils pourront alors proposer des séances en groupe ou privé dans ses zones. Mais avec le suivi et le coaching à distance, la zone s'élargit à la France entière. Vous pourrez être alors suivi par un coach à distance quel que soit votre lieu d'habitation.
+
+    Découvrez notre page sur le [**coaching dans les Alpes Maritimes**](https://www.ze-hero.com/fr/ete/activites/coaching-sportif-antibes-alpes-maritimes)
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649236206/website/assets/Recadr%C3%A9es/coaching.png
