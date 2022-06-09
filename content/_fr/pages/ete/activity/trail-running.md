@@ -44,6 +44,17 @@ page_sections:
   blockBGcolor: ''
 - template: textarea
   blockBGcolor: blanc
+  title: Les différents types de Trail
+  content: |-
+    Faire du trail, c'est donc courir en nature quelque soit la distance et le dénivelé. Mais il existe ensuite de multiples types de trail en terme de distance, de difficulté, de technicité. Pour vous aider à mieux comprendre ce qui vous correspond, nous avons segmenter les différents type de Trail :
+
+    * Trail Initiation ( Sorties de 10 à 20km jusqu'à environ 1000D+)
+    * Trail Confirmé ( Sortie de 20 à 40km jusqu'à 2500D+)
+    * Trail Préparation et Entraînement ( Ouvert à tous, sorties avec thèmes spécifiques d'entraînements )
+    * Trail Itinérance et Traversé ( Sorties longues avec parfois plusieurs étapes )
+    * Trail alpin ( sortie sur des sentiers techniques et engagés )
+- template: textarea
+  blockBGcolor: blanc
   title: Nos conseils Ze Hero
   content: |-
     * Débuter en Trail running :
