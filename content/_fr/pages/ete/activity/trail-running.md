@@ -70,59 +70,39 @@ page_sections:
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
   alt_text_for_image: Equipement de trail
-- template: textarea
-  content: |-
-    En fonction des parcours et des distances, la pratique du trail sera différente. Lorsque le parcours sera plus court, l'engagement physique sera alors plus important. Inversement, lorsque le parcours sera plus long, on retrouvera un aspect plus important de gestion, mental, physique et nutritionnel. Tous ces paramètres rendent l'activité plus riche et intéressante.
-
-    La pratique du trail comporte un équipement spécifique par ses chaussures de trail, ses vêtements techniques et légers, ses sacs à dos d'hydratation, le port de bâtons pour ceux qui le souhaitent etc.
-  title: ''
-  blockBGcolor: ''
-- template: textarea
-  content: |-
-    Si vous souhaitez progresser, comprendre les clés de l'entrainement et de la [préparation](https://www.ze-hero.com/fr/ete/conseils/preparation-course-trail), avoir un entraîneur est alors idéal. L'encadrement en trail permet également de découvrir des lieux et de partager ses séances en groupe. Il vous permettra d'évoluer et de progresser.
-
-    Vous pourrez également participer à des [sorties de trail longues](https://www.ze-hero.com/fr/ete/activites/coaching-course-a-pied-trail-antibes-alpes-maritimes). Elles permettront de découvrir un lieu, un environnement avec un groupe.
-  title: Etre encadré
-  blockBGcolor: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
-  content: |-
-    Le Trail dans les Alpes Maritimes est un paradis pour les traileurs, les amoureux de la nature et de l'endurance. La variété de l'environnement est un incroyable et son terrain de jeux est très varié. Que ce soit près de la mer avec des chemins de littoral, les collines et ses plaines plus sauvage et aride des Préalpes d'Azur, aux montagnes du Mercantour, le choix est immense.
-
-    Que ce soit pour découvrir le Trail, pour vous initier, pour progresser et vous perfectionner, chez Ze Hero, vous découvrirez différentes offres.
-
-    Tout d'abord vous pourrez retrouver différentes offres de Trail à Bar sur Loup et ses environs dans les Préalpes d'Azur : [Trail à Bar sur Loup avec différentes offres de niveau.](https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=)
-
-    Vous pourrez également courir dans le [massif de l'Esterel](https://shop.ze-hero.com/fr/activites-Outdoor/trail/17205-trail-journee-activite-ze-hero) ainsi que retrouver différentes formules d'entraînement plus spécifique vers [Antibes](https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=).
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650896367/website/By%20Ze%20Hero%20Activity/IMG20210424154801_01_1.jpg
-  alt_text_for_image: Coureur dans le massif de l'Esterel
-  captiontitleuppercase: Le Trail dans les Préalpes d'Azur
-  title: Le Trail dans les Alpes Maritimes
+  alt_text_for_image: Coureur faisant du trail dans le massif de l'esterel
+  captiontitleuppercase: 'Trouvez votre activité de Trail '
+  title: Les partenaires Ze Hero de Trail
+  content: "Chez Ze Hero, nous allons vous proposer différentes sorties trail, d'entraînements
+    et coaching de trail que ce soit pour des débutants, des amateurs ainsi que des
+    confirmés. Vous pourrez réserver des cours dans les Alpes Maritimes avec Antibes,
+    Le Bar sur Loup, Saint Jeannet et bien d'autre. Vous pourrez également retrouver
+    des activités dans le Gars, l'Aveyron et la Lozère. Chacun des accompagnateurs
+    et entraîneur de Trail, vous apportera tous les meilleurs conseils pour apprendre,
+    progresser mais surtout profiter et vivre des moments uniques en nature.  \nVoici
+    nos différents partenaires trail chez Ze Hero :\n\n* Nos entraîneurs et accompagnateurs
+    de trail de Ze Hero, qui vous accompagnera dans les Alpes Maritimes : [Alarcon
+    Yann](https://www.ze-hero.com/fr/partenaires/yann-alarcon)\n* Notre partenaire
+    [Cueilleur de Sommet](https://www.ze-hero.com/fr/ete/partenaires/clement-sivera)
+    situé dans le Massif Central, les Cévennes les Pyrénées et la Haute Savoie."
   button:
-    text_button: ''
-    href_button: ''
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=21%2F11%2F2021
+    text_button: Nos offres de trail
     alt_button: ''
-- template: 2coltxtimg
+- template: 3coltxtimgtxt
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782611/website/Partenaires/Cueilleur%20de%20sommet/Balcons_du_Vertige_1.jpg
-  alt_text_for_image: Vue des balcons du vertiges en Lozère
-  captiontitleuppercase: Sauvage et dépaysant
-  title: Le Trail en Lozère
-  content: |-
-    Le trail en [Lozère ](https://www.ze-hero.com/fr/ete/destinations/lozere)est un terrain idéal pour tous les amoureux de la nature et de la course à pied. Profitez de grands espaces, d'une nature d'exception et protégé. Vous pourrez alors longer les gorges du Tarn et de la Jonte, courir sous les vautours, profiter des grands plateaux des causses.
-
-    La Lozère, c'est courir dans le parc national des Cévennes, le parc régional de l'Aubrac.
-
-    Entre des chemins roulants et techniques, des montées abruptes, des chemins sauvages, des grands espaces, les pâturages, la Lozère sera un terrain incroyable pour le Trail. Partez pour le plaisir de courir, de vous initier, de progresser mais également de découvrir un environnement, son histoire et sa nature.
-
-    Avec Ze Hero, notre partenaire " Cueilleur de Sommets " vous proposera plusieurs offres de trail en Lozère. Vous pourrez alors découvrir les lieux, apprendre sur son patrimoine et son histoire. Mais surtout, il vous apportera les différents conseils pour la pratique de Trail avec les éléments clés. Découvrez différents parcours parfaits pour une demi-journée et une journée de trail en Lozère :
-
-    * Entre Gorges du Tarn et de la Jonte. Entre 15 et 20 km pour 1000D+
-    * Ermitage St Pons et Champignon préhistorique. 12km pour 650D+
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+  captionleftcontent: Votre référent de trail running
+  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1640069842/website/summer/IMG_20210716_180932_893_spbn5s.jpg
+  center_alt_text_for_image: Alarcon Yann durant le Trail de l'UTCAM
+  captionrighttitle: Alarcon Yann
+  captionrightcontent: Coureur de Trail depuis 10ans, il a intégré le Team Espoir
+    Salomon, le Team New Balance. Il court aujourd'hui dans le Team Instinct Trail.
+    Après avoir parcouru les montagnes des Alpes du Nord, il se trouve aujourd'hui
+    dans les Alpes Maritimes. Un passionné de la nature et l'entraînement qui vous
+    apportera les meilleurs conseils dans le trail pour prendre du plaisir et progresser.
 - template: cta
   intro: Réservez dès maintenant vos sorties trail
   headline: Cours privés ou collectifs sont disponibles
