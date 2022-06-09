@@ -41,34 +41,24 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
-  content: "* Débuter en Trail running :\n\nDébuter le trail running, c'est découvrir
-    la course à pied sur sentier, en milieu naturel dans des parcours avec du dénivelé.
-    Si vous aimer courir, que vous avez débuter le running sur plat et que vous souhaitez
-    vous aventurer en nature, débutez le trail running en tout confiance avec Ze Hero.
-    Nous mettons en place des coachings dédiées aux personnes souhaitant s'initier
-    et suivre un programme pour progresser en trail. Découvrez comment courir en monter,
-    comment gérer son effort, comment savoir quel parcours faire en fonction du kilomètre
-    et du dénivelé.\n\nDécouvrez toutes les informations en parcourant notre page
-    : [**Débuter en le trail running **]()mais également[ **se préparer à sa 1er course
-    de trail **](https://www.ze-hero.com/fr/ete/conseils/preparation-course-trail)et
-    le [**fractionner en trail running**](https://www.ze-hero.com/fr/ete/conseils/fractionne-trail).
-    \n\n* S'équiper en Trail running :\n\nLe Trail running demande un équipement plus
-    spécifique que la course à pied. L'évolution dans des terrains montagneux, sur
-    des sentiers plus accidenté, en milieu naturel demande alors du matériel et des
-    équipements adaptés à la pratique. Afin de comprendre et savoir comment bien s'équiper
-    dans le trail, nous avons créé une page spécialement conçu pour vous afin de répondre
-    aux différentes questions sur l'équipement.\n\nDécouvrez toutes les informations
-    en parcourant notre page : [**S'équiper en trail running**]() et [**Comment choisir
-    ses chaussures de trail ?**](https://www.ze-hero.com/fr/ete/conseils/chaussures-trail)\n\n*
-    Nos itinéraires de trail running :\n\nNotre référent Trail est basé dans les Alpes
-    Maritimes et il vous propose un choix varié d'itinéraires de trail dans le bas
-    pays et le moyen pays niçois. De plus, vous pourrez réserver des initiations et
-    des itinérances en trail dans des lieux uniques tel que la Maralpine. Découvrez
-    le Mercantour et les Préalpes d'Azur mais également le Massif central, les Cévennes.
-    Parcourez de nouveau terrain à l'assaut des sommets, des plus belles courses et
-    de traversées.\n\nDécouvrez toutes les informations en parcourant nos pages :
-    [**Les itinéraires de trail dans les Alpes Maritimes**](https://www.ze-hero.com/fr/ete/conseils/itineraires-trail-alpes-maritimes)
-    et le [**Trail dans les Alpes Maritimes**](https://www.ze-hero.com/fr/trail-running-alpes-maritimes-prealpes-azur)."
+  content: |-
+    * Débuter en Trail running :
+
+    Débuter le trail running, c'est découvrir la course à pied sur sentier, en milieu naturel dans des parcours avec du dénivelé. Si vous aimer courir, que vous avez débuter le running sur plat et que vous souhaitez vous aventurer en nature, débutez le trail running en tout confiance avec Ze Hero. Nous mettons en place des coachings dédiées aux personnes souhaitant s'initier et suivre un programme pour progresser en trail. Découvrez comment courir en monter, comment gérer son effort, comment savoir quel parcours faire en fonction du kilomètre et du dénivelé.
+
+    Découvrez toutes les informations en parcourant notre page : [**Débuter en le trail running**]() mais également [**se préparer à sa 1er course de trail**](https://www.ze-hero.com/fr/ete/conseils/preparation-course-trail) et le [**fractionner en trail running**](https://www.ze-hero.com/fr/ete/conseils/fractionne-trail).
+
+    * S'équiper en Trail running :
+
+    Le Trail running demande un équipement plus spécifique que la course à pied. L'évolution dans des terrains montagneux, sur des sentiers plus accidenté, en milieu naturel demande alors du matériel et des équipements adaptés à la pratique. Afin de comprendre et savoir comment bien s'équiper dans le trail, nous avons créé une page spécialement conçu pour vous afin de répondre aux différentes questions sur l'équipement.
+
+    Découvrez toutes les informations en parcourant notre page : [**S'équiper en trail running**]() et [**Comment choisir ses chaussures de trail ?**](https://www.ze-hero.com/fr/ete/conseils/chaussures-trail)
+
+    * Nos itinéraires de trail running :
+
+    Notre référent Trail est basé dans les Alpes Maritimes et il vous propose un choix varié d'itinéraires de trail dans le bas pays et le moyen pays niçois. De plus, vous pourrez réserver des initiations et des itinérances en trail dans des lieux uniques tel que la Maralpine. Découvrez le Mercantour et les Préalpes d'Azur mais également le Massif central, les Cévennes. Parcourez de nouveau terrain à l'assaut des sommets, des plus belles courses et de traversées.
+
+    Découvrez toutes les informations en parcourant nos pages : [**Les itinéraires de trail dans les Alpes Maritimes**](https://www.ze-hero.com/fr/ete/conseils/itineraires-trail-alpes-maritimes) et le [**Trail dans les Alpes Maritimes**](https://www.ze-hero.com/fr/trail-running-alpes-maritimes-prealpes-azur).
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
@@ -87,9 +77,9 @@ page_sections:
     et entraîneur de Trail, vous apportera tous les meilleurs conseils pour apprendre,
     progresser mais surtout profiter et vivre des moments uniques en nature.  \nVoici
     nos différents partenaires trail chez Ze Hero :\n\n* Nos entraîneurs et accompagnateurs
-    de trail de Ze Hero, qui vous accompagnera dans les Alpes Maritimes : [Alarcon
-    Yann](https://www.ze-hero.com/fr/partenaires/yann-alarcon)\n* Notre partenaire
-    [Cueilleur de Sommet](https://www.ze-hero.com/fr/ete/partenaires/clement-sivera)
+    de trail de Ze Hero, qui vous accompagnera dans les Alpes Maritimes : [**Alarcon
+    Yann**](https://www.ze-hero.com/fr/partenaires/yann-alarcon)\n* Notre partenaire
+    [**Cueilleur de Sommet**](https://www.ze-hero.com/fr/ete/partenaires/clement-sivera)
     situé dans le Massif Central, les Cévennes les Pyrénées et la Haute Savoie."
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=21%2F11%2F2021
