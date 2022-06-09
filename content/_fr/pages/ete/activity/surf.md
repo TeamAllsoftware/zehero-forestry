@@ -85,10 +85,11 @@ page_sections:
     besoins dans une ambiance conviviale.\n* [**Morgan d'Avezac **](https://www.ze-hero.com/fr/ete/partenaires/morgan-davezac-surf-seignosse)est
     une moniteur indépendant basé à Seignosse. Un moniteur qui a pratiqué le surf
     à haut niveau et qui aujourd'hui vous propose des cours privés sur les plages
-    de Seignosse. Profitez de ses conseils avisées et techniques. \n* **Altantic Surf
-    Academy** est une école basé à St Brévin les pins. Découvrez les meilleurs spots
-    de surf de la Loire Atlantique avec des vagues parfaites pour débuter le surf
-    et prendre du plaisir. "
+    de [**Seignosse**](https://www.ze-hero.com/fr/reserver-cours-ecole-surf-seignosse).
+    Profitez de ses conseils avisées et techniques.\n* **Altantic Surf Academy** est
+    une école basé à [**St Brévin les pins**](/fr/ete/activites/ecole-surf-st-brevin-les-pins).
+    Découvrez les meilleurs spots de surf de la Loire Atlantique avec des vagues parfaites
+    pour débuter le surf et prendre du plaisir."
   button:
     text_button: Nos offres de surf
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=21%2F11%2F2021
