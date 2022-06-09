@@ -90,8 +90,10 @@ fr:
     extendh1: ", une marque aux valeurs fortes comme ZE HERO "
   advice:
     readmore: Lire ce conseil
+    book: Lire ce conseil
   resort:
     readmore: Visiter cette destination
+    book: Réserver ici
   contact:
     icon-link-title: Lien vers notre page de contact
   section-blog: 

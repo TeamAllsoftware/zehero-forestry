@@ -58,12 +58,21 @@ page_sections:
   headtitle:
     headline: Des activités pour votre été
     title: Dépassez vous et sautez de joie
+- template: listServices
+  service: resort
+  filterCat: non
+  filterLevel: 1
+  filterHome: 1
+  blockBGcolor: blanc
+  headtitle:
+    headline: le voyage c'est la santé
+    title: "Nos destinations coup de coeur"
 - template: video2colImgTxt
   blockBGcolor: gris
   image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643816166/website/summer/japheth-mast-Ls3yexjyRpk-unsplash_uxxrwp.jpg
   alt_text_for_image: Un randonneur en position de héros très fier de lui
   url_video_youtube: https://www.youtube.com/watch?v=PpqRPg-S-J0
-  title: L’outdoor au rythme de vos émotions
+  title: ZE HERO, l’outdoor au rythme de vos émotions
   etape1:
     icon: line-icon-Affiliate
     title: Seul ou à plusieurs
@@ -105,12 +114,6 @@ page_sections:
     title: Voir toutes les activités
     link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
   button_2_more: false
-- template: listServices
-  service: advice
-  blockBGcolor: blanc
-  headtitle:
-    headline: ZE HERO propose
-    title: Des conseils pour votre été
 - template: blogPostList
   blockBGcolor: gris
   postNumber: 4

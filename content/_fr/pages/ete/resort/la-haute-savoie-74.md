@@ -17,6 +17,10 @@ page_title: La Haute Savoie
 resort_nameid: haute-savoie
 resort_naming: La Haute Savoie
 title: La Haute Savoie (74) et ses activités pour la saison d'été
+titleHome: Grimper en Haute-Savoie
+activite: hautesavoie
+level: 1
+enHome: 1
 permalink: "/fr/ete/destinations/haute-savoie"
 redirect_from:
 - "/fr/ete/destination/haute-savoie"
