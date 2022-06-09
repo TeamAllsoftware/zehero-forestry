@@ -5,9 +5,6 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: VTT
-activite: VTT
-level: 1
-enHome: 2
 permalink: "/fr/ete/activites/vtt"
 redirect_from:
 - "/fr/ete/activite/vtt"
@@ -21,7 +18,7 @@ image01_alt: Groupe de personne faisant du VTT sur un sentier de terre face à l
 categorie: Vélo
 page_sections:
 - template: textarea
-  content: Le VTT, appelé également le mountain bike, le vélo tout terrain ou encore
+  content: "Le VTT, appelé également le mountain bike, le vélo tout terrain ou encore
     le vélo de montagne est une activité sportive, ludique et technique selon les
     parcours. Le VTT se pratique dès que vous allez vous retrouver dans des sentiers
     de terre, de cailloux et dont les descentes vont secouer un peu. C’est pour cela
@@ -30,9 +27,36 @@ page_sections:
     et faire de longues distances à travers les forêts, les bois. En montagne c’est
     aussi l’occasion de partir faire des randonnées combinant les montées et les descentes.
     Mais vous pourrez également réaliser uniquement les descentes en prenant les remontées
-    mécaniques à vélo.
-  title: ''
+    mécaniques à vélo.  \nSi vous souhaitez réaliser des sorties en famille, avec
+    en engagement physique moins important, vous pouvez également pratiquer le [**VTT
+    Electrique**](https://www.ze-hero.com/fr/ete/activites/vtt-electrique). "
+  title: Le VTT
   blockBGcolor: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: "* Débuter le VTT et VAE\n\nDébuter le VTT et le VAE, c'est être encadré
+    par un moniteur afin de parcourir des sentiers dans un environnement naturel.
+    C'est profiter de l'émulsion d'un groupe, de découvrir des lieux, des paysages,
+    de rouler en montagne, en forêts. Vous pourrez alors apprendre comment bien pédaler
+    en montée, les techniques de descente et profiter du moment. Que ce soit pour
+    des petites balades, de longues randonnées pour famille ou sportive, partez rouler
+    en VTT et VAE.\n\nDécouvrez toutes les informations en parcourant notre page :
+    **Débuter le VTT et le VAE**\n\n* S'équiper en VTT et VAE\n\nS'équiper en VTT
+    et VTT électrique c'est tout d'abord avoir des vêtements adaptés à l'activité.
+    Il vous faudra vous protéger avec un casque et parfois des protections supplémentaires
+    tel qu'aux coudes, genoux, cheville et dos. Il vaut mieux porter des lunettes
+    afin de ne pas recevoir de projectiles dans les yeux. En ce qui concerne les VTT,
+    si vous êtes encadrés par un moniteur, vous pourrez louer dans un magasin ou directement
+    auprès de lui votre VTT.\n\nDécouvrez toutes les informations importantes sur
+    notre page : **S'équiper à VTT**\n\n* Nos itinéraires de VTT et VAE\n\nLe VTT
+    et le VAE se pratique partout en France et il existe énormément d'itinéraires
+    de VTT. Que ce soit en campagne, près du littoral, en montagne, vous pourrez profiter
+    de nombreuses balades. Avec Ze Hero, nous vous proposons des sorties de VTT dans
+    les Alpes et à Aix les Bains. Vous bénéficierez de rouler dans des lieux naturels,
+    avec des paysages magnifiques. Des itinéraires adaptés à tous les niveaux pour
+    des moments de découverte, d'effort et d'engagement.\n\nDécouvrez toutes les informations
+    sur notre page : **Nos itinéraires à VTT**  "
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234241/website/assets/Recadr%C3%A9es/vtt.png
@@ -114,5 +138,8 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
+activite: VTT
+level: 1
+enHome: 2
 
 ---
