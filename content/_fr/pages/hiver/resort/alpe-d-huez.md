@@ -10,6 +10,10 @@ topnav_color_text: light
 resort_nameid: alpe-d-huez
 resort_naming: Alpe Huez
 title: L'Alpe d'Huez et ses activités outdoor d'hiver
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Activités outdoor à l'Alpe d'Huez pour l'hiver
 meta-description: De renommée internationale, cette station est baignée par le soleil.
   Située à 1860m d'altitude, cette station sera un paradis pour tous les sportifs

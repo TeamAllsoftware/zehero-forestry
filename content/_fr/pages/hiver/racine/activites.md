@@ -20,6 +20,9 @@ page_sections:
     ou amateur, seul, en famille ou entre amis.
 - template: listServices
   service: activity
+  filterCat: non
+  filterLevel: 2
+  filterHome: 2
   blockBGcolor: blanc
   headtitle:
     headline: ZE HERO propose

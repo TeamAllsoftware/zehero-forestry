@@ -5,6 +5,10 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Vol en parapente
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 permalink: "/fr/hiver/activites/vol-en-parapente"
 redirect_from:
 - "/fr/hiver/activite/vol-en-parapente"

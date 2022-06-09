@@ -8,6 +8,10 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Coaching sportif
+titleHome: 
+activite: coaching
+level: 2
+enHome: 2
 meta-title: Réserver un coach sportif pour vous préparer à l'hiver
 meta-description: Profitez d'un coach sportif que ce soit en cours privé ou en cours
   collectif afin de progresser dans la discipline de votre choix.

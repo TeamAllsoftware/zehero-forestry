@@ -10,6 +10,10 @@ topnav_color_text: light
 resort_nameid: antibes
 resort_naming: Antibes
 title: Antibes et ses activités outdoor d'hiver
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Activités outdoor à Antibes pour l'hiver
 meta-description: Antibes est une ville et une station balnéaire des Alpes Maritimes
   dans laquelle vous pourrez pratiquer de nombreuses activités outdoor l'hiver

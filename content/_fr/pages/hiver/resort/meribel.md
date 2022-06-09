@@ -10,6 +10,10 @@ topnav_color_text: light
 resort_nameid: meribel
 resort_naming: Méribel
 title: Méribel et ses activités outdoor d'hiver
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Activités outdoor à Méribel pour l'hiver
 meta-description: Méribel est composé de plusieurs villages et fait parti du domaine
   les 3 Vallées. Entre le charme des ses villages, cette station sera féérique avec

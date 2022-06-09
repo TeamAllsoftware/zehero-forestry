@@ -10,6 +10,10 @@ topnav_color_text: light
 resort_nameid: les_menuires
 resort_naming: Les Menuires
 title: Les Menuires et ses activités outdoor d'hiver
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Activités outdoor aux Ménuires pour l'hiver
 meta-description: Station conviviale située à 1850m d'altitude, elle offre un domaine
   de ski incroyable. Conviviale et chaleureuse, elle sera parfaite pour les familles

@@ -8,6 +8,10 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Raquettes à neige
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Réserver une randonnée en raquettes à neige
 meta-description: Partez faire une randonnée en raquettes à neige dans la montagne
   et profitez du silence et de l'air pur

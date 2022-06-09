@@ -8,6 +8,10 @@ meta-description: 'Pas simple de s’évaluer pour choisir le bon cours - Nous a
   une fiche conseil qui vous simplifie la vie '
 topnav_color_text: light
 title: Choisir son cours de ski en fonction de son niveau
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 permalink: "/fr/hiver/conseils/choisir-niveau-ski-snowboard"
 redirect_from:
 - "/fr/hiver/conseil/choisir-niveau-ski-snowboard"

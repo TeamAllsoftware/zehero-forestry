@@ -8,6 +8,10 @@ meta-description: Comment choisir son école de ski ? Il existe parfois dans une
   différents types d'école de ski.
 topnav_color_text: light
 title: Comment choisir son école de ski
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 permalink: "/fr/hiver/conseils/choisir-ecole-de-ski"
 redirect_from:
 - "/fr/choisir-ecole-ski/"

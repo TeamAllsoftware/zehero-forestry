@@ -10,6 +10,10 @@ topnav_color_text: light
 resort_nameid: val_d_isere
 resort_naming: Val D'Isère
 title: Val d'Isère et ses activités outdoor d'hiver
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Activités outdoor à Val-d'Isère pour l'hiver
 meta-description: 'Cette station située dans la Haute Tarentaise à 1850m d''altitude
   est couplée avec Tignes pour créer "l''Espace Killy". Une station élégante qui accueille

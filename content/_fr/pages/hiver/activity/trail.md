@@ -5,6 +5,10 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Trail Running
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 permalink: "/fr/hiver/activites/trail-running"
 redirect_from:
 - "/fr/hiver/activite/trail-running"

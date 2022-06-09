@@ -8,6 +8,10 @@ meta-description: Parmi tous les magasins de location, voici les critères afin 
   le choisir correctement pour répondre à vos besoins pour le ski
 topnav_color_text: light
 title: Comment choisir son magasin de location ?
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 permalink: "/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
 redirect_from:
 - "/fr/choisir-magasin-location-ski/"

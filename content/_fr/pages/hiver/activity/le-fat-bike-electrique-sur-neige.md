@@ -8,6 +8,10 @@ meta-title: Pédalez sur neige avec le Fat Bike Electrique
 meta-description: 'Partir pédaler dans la neige et vivre le plein de sensation avec
   le fat bike électrique '
 title: Le Fat Bike électrique sur neige
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 permalink: "/fr/hiver/activites/fatbike-electrique-hiver"
 baseline: Glisse, découverte et fun
 engage: Découvrez la montagne l'hiver en pédalant sur la neige

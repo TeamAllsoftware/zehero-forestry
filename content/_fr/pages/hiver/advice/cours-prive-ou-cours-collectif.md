@@ -8,6 +8,10 @@ meta-description: Difficile de choisir entre cours privé et cours collectif en 
   ou snowboard ? Suivez notre guide pour faire votre choix
 topnav_color_text: light
 title: Cours privé ou cours collectif
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 permalink: "/fr/hiver/conseils/cours-prive-cours-collectif"
 redirect_from:
   - "/fr/coaching-sportif/coaching-prive/"

@@ -8,6 +8,10 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Ski de piste
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Ski de piste, prendre des cours, puis visiter la station
 meta-description: Des premiers virages au carving, pratiquez le ski de piste et profitez
   du domaine skiable.

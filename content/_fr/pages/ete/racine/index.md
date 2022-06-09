@@ -13,7 +13,7 @@ page_sections:
 - template: heroImageFull
   top: oui
   grosTitre: non
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545634/website/summer/raoul-du-plessis-NsaVr_DfTNA-unsplash.jpg
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654777619/website/summer/IMG_9106.jpg
   gradient: grad
   headline:
     title: Le meilleur des activités outdoor
@@ -21,11 +21,28 @@ page_sections:
   Button1:
     title: Réserver une activité
     link: https://shop.ze-hero.com/fr/activites-Outdoor/
-    color: white
   Button2:
-    title: ''
-    link: ''
-  button_2_more: false
+    title: 'Acheter du matériel'
+    link: 'https://shop.ze-hero.com/fr/achat-neuf/'
+  button_2_more: true
+- template: listServices
+  service: activity
+  filterCat: non
+  filterLevel: 1
+  filterHome: 1
+  blockBGcolor: blanc
+  headtitle:
+    headline: Seul, en famille, entre amis
+    title: Sauter de joie, Etre fier, Partager.
+- template: listServices
+  service: resort
+  filterCat: non
+  filterLevel: 1
+  filterHome: 1
+  blockBGcolor: blanc
+  headtitle:
+    headline: le voyage c'est la santé
+    title: "Nos destinations coup de coeur"
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true
@@ -48,24 +65,6 @@ page_sections:
     alt_text: Equipement de trail de la marque Instinct Trail
     title: Acheter du matériel de trail
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail?ca_brand=Instinct+Trail+Inspired&ca_type_gender=all
-- template: listServices
-  service: activity
-  filterCat: non
-  filterLevel: 1
-  filterHome: 1
-  blockBGcolor: blanc
-  headtitle:
-    headline: Des activités pour votre été
-    title: Dépassez vous et sautez de joie
-- template: listServices
-  service: resort
-  filterCat: non
-  filterLevel: 1
-  filterHome: 1
-  blockBGcolor: blanc
-  headtitle:
-    headline: le voyage c'est la santé
-    title: "Nos destinations coup de coeur"
 - template: video2colImgTxt
   blockBGcolor: gris
   image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643816166/website/summer/japheth-mast-Ls3yexjyRpk-unsplash_uxxrwp.jpg

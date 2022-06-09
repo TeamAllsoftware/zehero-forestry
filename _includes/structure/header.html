@@ -14,17 +14,7 @@
 
 {% include elements/generic_variables.html %}
 
-            <header class="header-with-topbar">
-                <div class="top-bar bg-green text-white d-none d-md-inline-block padding-50px-lr md-no-padding-lr">
-                    <div class="container-fluid nav-header-container">
-                        <div class="d-flex flex-wrap align-items-center">
-                            <div class="col-12 text-center ps-lg-0">
-                                <p class="text-center m-0">Sauter de joie, Se dépasser, Etre fier, Partager. Seul, en famille, entre amis, notre sélection des prestataires et itinéraires.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <header>
             {% if page.type == "B2B" %}
                 <nav class="navbar top-space navbar-expand-lg navbar-boxed navbar-dark bg-{{ site.data.config.[page.type].site-color }} fixed-top header-reverse-scroll">
                 {% else %}
