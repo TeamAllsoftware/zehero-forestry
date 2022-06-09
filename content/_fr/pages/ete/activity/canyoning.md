@@ -5,6 +5,7 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Canyoning
+titleHome: Débuter en canyoning
 activite: canyonning
 level: 1
 enHome: 1

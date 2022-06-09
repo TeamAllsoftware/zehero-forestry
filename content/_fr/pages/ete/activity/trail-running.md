@@ -5,6 +5,7 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Trail Running
+titleHome: Mon 1er trail en itinérance
 activite: trail
 level: 1
 enHome: 1

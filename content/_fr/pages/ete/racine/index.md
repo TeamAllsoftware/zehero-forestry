@@ -22,6 +22,7 @@ page_sections:
   Button1:
     title: Réserver une activité
     link: https://shop.ze-hero.com/fr/activites-Outdoor/
+    color: white
   Button2:
     title: ''
     link: ''
@@ -35,19 +36,19 @@ page_sections:
     title: Acheter du matériel
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image2:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646751094/website/Instinct%20Trail/Instinct_trail_homme_collection_wbzqdp.webp
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/11_l7a3ej.jpg
     alt_text: Notre coach référent sur le trail en pleine action
     title: Se préparer avec nos coachs
-    title_Link: "/fr/ete/partenaires/le-savoy-meribel"
+    title_Link: "https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date="
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648197165/website/assets/Personnages%20poses/Trail.png
     alt_text: Personnage ZE HERO en tenue de trail
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651037463/website/Altore/V%C3%AAtement%20/Bavella_rouge_bk_H_1100x.webp
-    alt_text: Maillot de course de trail de la marque Altore
-    title: Acheter du matériel
-    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/Instinct_X_Mannequin_Front_View_1080x1080px_abvcdc.jpg
+    alt_text: Equipement de trail de la marque Instinct Trail
+    title: Acheter du matériel de trail
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail?ca_brand=Instinct+Trail+Inspired&ca_type_gender=all
 - template: listServices
   service: activity
   filterCat: non

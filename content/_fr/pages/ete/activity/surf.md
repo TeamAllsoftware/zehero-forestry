@@ -5,6 +5,7 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Surf
+titleHome: Débuter en surf
 activite: surf
 level: 1
 enHome: 1
