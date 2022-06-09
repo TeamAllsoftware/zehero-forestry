@@ -15,15 +15,21 @@ meta-title: Réserver un coach sportif - Préparation et entraînement
 meta-description: Profitez d'un coach et d'une séance de coaching sportif afin d'atteindre
   vos prochains objetcifs
 baseline: Préparation physique, dépassement, entraînement
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/victor-freitas-hOuJYX2K5DA-unsplash_gg95nq.jpg
-image01_alt: Course à pied sur piste en groupe
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062749/website/Coaching/3_toubdl.jpg
+image01_alt: Coach avec son client en séance de coaching sportif en salle de sport
 categorie: Coaching
 page_sections:
 - template: textarea
-  content: |-
-    Vous désirez progresser physiquement, évoluer, vous dépasser, dans un groupe ou seul avec un ou une coach ? Une séance de coaching offre la possibilité d'avoir un coach avec un regard précis sur toutes vos postures, un accompagnement personnalisé dans vos exercices et un suivi sur-mesure.
-
-    Que vous souhaitiez être maintenu en forme, préparer une compétition, avoir une meilleure condition physique, vous muscler, préparer un défi, le coaching sera la meilleure solution.
+  content: "Vous désirez progresser physiquement, évoluer, vous dépasser, dans un
+    groupe ou seul avec un ou une coach ? Une séance de coaching offre la possibilité
+    d'avoir un coach avec un regard précis sur toutes vos postures, un accompagnement
+    personnalisé dans vos exercices et un suivi sur-mesure. Que vous souhaitiez être
+    maintenu en forme, préparer une compétition, avoir une meilleure condition physique,
+    vous muscler, préparer un défi, le coaching sera la meilleure solution. Que ce
+    soit pour la course à pied, le trail, la musculation, ou tout autre sport, trouver
+    votre coach et votre séance de sport.  \nVous pourrez alors être suivie par un
+    coach, avoir un calendrier et un programme d'entraînement spécialement adapté
+    à vous et votre progression."
   title: Le coaching sportif
 - template: imgWide
   blockBGcolor: blancGris
