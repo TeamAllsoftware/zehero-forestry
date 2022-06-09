@@ -28,6 +28,8 @@ columns:
   - col: "ZE HERO"
     title-link: "#"
     link:
+    - subtitle: "Lire le blog"
+      subhref: "/fr/ete/blog"
     - subtitle: "Qui sommes-nous ?"
       subhref: "/fr/qui-sommes-nous"
     - subtitle: "Nous contacter"

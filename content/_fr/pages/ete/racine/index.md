@@ -12,8 +12,7 @@ topnav_color_text: dark
 page_sections:
 - template: heroImageFull
   top: oui
-  grosTitre: oui
-  hauteur: 80
+  grosTitre: non
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545634/website/summer/raoul-du-plessis-NsaVr_DfTNA-unsplash.jpg
   gradient: grad
   headline:
