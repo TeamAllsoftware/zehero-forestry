@@ -90,34 +90,14 @@ page_sections:
     alt_button: ''
   alt_text_for_image: 'Vue d''un canyon et de l''eau '
   blockBGcolor: ''
-- template: video2colImgTxt
-  Texte 1:
-    icon: line-icon-Cursor-Click2
-    title: En famille
-    content: Ce canyoning est parfait pour ceux qui souhaitent s'initier et faire
-      un canyoning en famille.
-  Texte 2:
-    icon: line-icon-Sand-watch2
-    title: Le canyon
-    content: Il se trouve dans la vallée de la Vésubie, un canyon plutôt court mais
-      encaissé. Il sera ludique avec des toboggans et des sauts.
-  Texte 3:
-    icon: line-icon-Idea-5
-    title: Temps de l'activité
-    content: Il y a environ 45mn de marche puis environ 1h de descente dans le canyon.
-  blockBGcolor: blanc
-  image_bg_href: https://www.youtube.com/watch?v=-0j4FtldMfs
-  alt_text_for_image: Vidéo du canyoning de l'Infernet dans les Alpes Maritimes en
-    famille
-  title: Canyoning de l'Infernet dans les Alpes Maritime. Idéal en famille
-- template: newsletter
-  title: Recevez nos dernières informations
 - template: videoPopup
   blockBGcolor: blanc
   url_video_youtube: https://www.youtube.com/watch?v=-0j4FtldMfs
   title: Canyoning de l'Infernet dans les Alpes Maritime. Idéal en famille
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654842931/website/By%20Ze%20Hero%20Activity/Screenshot_3.jpg
   alt_text_for_image: Canyoning en famille à l'Infernet
+- template: newsletter
+  title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
