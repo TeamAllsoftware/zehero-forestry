@@ -41,6 +41,27 @@ page_sections:
     * Randonnée découverte : Entre l'initiation et la progression
     * Randonnée sportive : des randonnée plus longue
     * Randonnée en itinérance : partir plusieurs jours
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: |-
+    * Débuter en randonnée
+
+    Débuter en randonnée, c'est savoir faire les itinéraires qui nous conviennent et qui sont adaptés à notre niveau. Il est important de ne pas brûler les étapes et de comprendre les différents aspects de la randonnée en montagne. C'est donc acquérir différents aspects physiques mais également des connaissances sur l'environnement, le terrain, la météorologie ainsi que le matériel. Avoir un guide vous permet de bien débuter et de comprendre toutes ces notions en pratiquants la randonnée avec ce guide.
+
+    Découvrez plus d'information sur notre page : **Débuter la randonnée**
+
+    * S'équiper en randonnée
+
+    Si vous n'avez aucune idée de comment vous équiper pour pratiquer la randonnée, nous allons vous aider. Il y a des équipements plus adaptés à la marche et à la randonnée et qui vous permettrons d'être plus à l'aise, d'avoir une liberté de mouvement plus importante. Les chaussures de randonnée sont un équipement important à bien choisir, comme le sac à dos. Vous évoluerez dans un milieu naturel qui peut être changeant et incertain, il faut donc toujours prévoir les imprévisibilités.
+
+    Découvrez plus d'information sur nos pages : [**La liste du matériel à mettre dans son sac à dos **](https://www.ze-hero.com/fr/ete/conseils/liste-materiel-randonnee)et [**bien préparer sa 1er sortie de randonnée**](https://www.ze-hero.com/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee)
+
+    * Nos itinéraires de randonnée
+
+    Il existe un choix énorme en France avec nos différentes montagnes telles que dans les Pyrénées, la Vanoise, le Jura, les Vosges, le Mercantour, les Bauges, les Ecrins, le Queyras, la vallée de Chamonix et bien d’autres. On retrouve des massifs et des parcs où la végétation est très différente, tout comme la roche et l'environnement, des lieux plus minérales ou plus boisés, des lieux avec des glaciers et d’autres entourés de sapins. Vous avez le choix, de plus les différents GR vous amènent à travers des lieux uniques. Nous avons sélectionné chez Ze Hero avec nos partenaires des randonnées dans les Alpes Maritimes à travers les Préalpes d'Azur et le Mercantour. Mais nous avons également sélectionné des itinéraires incroyables en Savoie, en Haute Savoie, dans les Cévennes, la Lozère ainsi que les Vosges.
+
+    Découvrez plus d'informations sur notre page : **Nos itinéraires de randonnée**
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195884/website/assets/Recadr%C3%A9es/randonnee.png
