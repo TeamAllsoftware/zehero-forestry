@@ -112,6 +112,12 @@ page_sections:
   title: Canyoning de l'Infernet dans les Alpes Maritime. Idéal en famille
 - template: newsletter
   title: Recevez nos dernières informations
+- template: videoPopup
+  blockBGcolor: blanc
+  url_video_youtube: https://www.youtube.com/watch?v=-0j4FtldMfs
+  title: Canyoning de l'Infernet dans les Alpes Maritime. Idéal en famille
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654842931/website/By%20Ze%20Hero%20Activity/Screenshot_3.jpg
+  alt_text_for_image: Canyoning en famille à l'Infernet
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
