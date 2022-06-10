@@ -7,7 +7,7 @@ topnav_color_text: dark
 meta-title: 'Parapente - Activité outdoor air annecy '
 meta-description: Partir voler en montagne, à l'ocean ou bien au dessus d'un lac pour
   s'évader
-title: Parapente
+title: Parapente en Haute Savoie
 permalink: "/fr/ete/activities/parapente-haute-savoie"
 baseline: 'Voler, s''évader et contempler '
 engage: 'Evadez vous en parapente le temps d''un instant '
