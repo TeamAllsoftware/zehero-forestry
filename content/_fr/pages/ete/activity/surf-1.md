@@ -7,7 +7,7 @@ topnav_color_text: dark
 meta-title: 'Activité outdoor surf - Biarritz la ville idéale '
 meta-description: 'Tenter l''expérience su surf, la sensation de glisse à Biarritz
   au pays basque '
-title: 'Surf '
+title: Surf à Biarritz
 permalink: "/fr/ete/activities/surf-biarritz"
 baseline: 'Glisse, rame et sensation '
 engage: 'Faire le plein de sensations de glisse et se familiariser '
