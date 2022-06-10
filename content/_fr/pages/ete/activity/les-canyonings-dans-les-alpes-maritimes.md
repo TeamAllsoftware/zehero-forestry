@@ -106,7 +106,7 @@ page_sections:
     title: Temps de l'activité
     content: Il y a environ 45mn de marche puis environ 1h de descente dans le canyon.
   blockBGcolor: blanc
-  image_bg_href: https://youtu.be/-0j4FtldMfs
+  image_bg_href: https://www.youtube.com/watch?v=-0j4FtldMfs
   alt_text_for_image: Vidéo du canyoning de l'Infernet dans les Alpes Maritimes en
     famille
   title: Canyoning de l'Infernet dans les Alpes Maritime. Idéal en famille
