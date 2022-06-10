@@ -8,7 +8,7 @@ title: Parapente
 activite: parapente
 level: 1
 enHome: 2
-permalink: "/fr/ete/activites/parapente-haute-savoie"
+permalink: "/fr/ete/activites/parapente"
 redirect_from:
 - "/fr/ete/activite/parapente"
 meta-title: Parapente - vols en montagne et dans les plaines
