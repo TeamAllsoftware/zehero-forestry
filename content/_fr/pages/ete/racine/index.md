@@ -13,7 +13,7 @@ page_sections:
 - template: heroImageFull
   top: oui
   grosTitre: non
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654777619/website/summer/IMG_9106.jpg
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654858995/website/summer/IMG_9194_01.jpg
   gradient: grad
   headline:
     title: Le meilleur des activités outdoor

@@ -18,7 +18,7 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/
 
 ---
- <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+ <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="/js/jquery.vmap.js"></script>
 <script src="/js/jquery.vmap.france.js"></script>
 
