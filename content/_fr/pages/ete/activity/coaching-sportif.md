@@ -73,7 +73,20 @@ page_sections:
   alt_text_for_image: Coach Sportif à Antibes
   captiontitleuppercase: Trouver votre coaching sportif
   title: Les partenaires Ze Hero
-  content: " "
+  content: "Chez Ze Hero, nous vous proposons différents partenaires de coaching sportif.
+    Que vous soyez débutant, confirmé et même expert, quelque soit vos motivations,
+    votre projet sportif et vos objectifs, chacun des coachs sportifs vous accompagnera
+    dans votre progression.  \nVous pourrez d'offres de coaching en direct, privé
+    ou collectif, comme de coaching à distance dans le but d'un accompagnement sur
+    une plus longue période.  \nVoici les partenaires de coaching sportif :\n\n* [**Alarcon
+    Nathan **](https://www.ze-hero.com/fr/partenaires/nathan-alarcon)est un coach
+    sportif basé à Lyon. Spécialisé dans la remise en forme, la musculation, le cross
+    fit et le renforcement musculaire, il vous accompagnera dans la bonne humeur et
+    la motivation\n* [**Alarcon Yann **](https://www.ze-hero.com/fr/partenaires/yann-alarcon)est
+    un coach sportif basé dans les Alpes Maritimes près d'Antibes et de Nice. Il est
+    spécialisé dans le trail, la course à pied et le renforcement musculaire. Il vous
+    accompagnera pour vos progressions en trail et vos futurs objectifs ainsi des
+    itinérances dans les Préalpes et Mercantour."
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
