@@ -23,19 +23,24 @@ categorie: Randonnée
 page_sections:
 - template: textarea
   title: La randonnée en montagne
-  content: La randonnée est une activité, un loisir qui permet de marcher sur des
-    sentiers balisés. Randonner en montagne, c’est s'en aller marcher en suivant un
-    itinéraire, c’est découvrir son environnement naturel, ses lacs, ses fleurs, ses
-    animaux et ses sommets. Partir en randonnée, c’est faire une activité physique
-    agréable dans un cadre magnifique. C’est également aller dans des lieux inaccessibles
-    en voiture, c’est profiter de la nature, pour connaitre la faune et la flore,
-    mais également pour [se vider la tête](https://www.ze-hero.com/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret).
-    Elle peut se pratiquer seul ou en groupe, accompagné ou non d’un accompagnateur
-    de moyenne montagne. Dès que vous allez en montagne ou dans les Préalpes, les
-    sentiers seront balisés par des panneaux, vous retrouverez également des marques
-    au sol de peinture par exemple jaune, blanche et rouge pour les GR (grande randonnée)
-    mais aussi des cairns (petite pyramide de pierre faite par l’homme).
+  content: |-
+    La randonnée en montagne est une activité, un loisir qui permet de marcher sur des sentiers balisés. Randonner en montagne, c’est s'en aller marcher en suivant un itinéraire, c’est découvrir un environnement naturel, des lacs, sa faune et flore et ses sommets. Partir en randonnée, c’est faire une activité physique agréable dans un cadre magnifique. C’est également aller dans des lieux inaccessibles en voiture, dans le calme afin de se faire du bien. Elle peut se pratiquer seul ou en groupe, accompagné ou non d’un accompagnateur de moyenne montagne ou d'un guide.
+
+    Dès que vous allez en montagne ou dans les Préalpes, les sentiers seront balisés par des panneaux, vous retrouverez également des marques au sol de peinture par exemple jaune, blanche et rouge pour les GR (grande randonnée) mais aussi des cairns (petite pyramide de pierre faite par l’homme).
+
+    Être accompagné d'un guide, c'est randonner en apprenant tout sur ce qu'il vous entoure, c'est être guidé vers les plus beaux lieux.
   blockBGcolor: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Les différents types de randonnées
+  content: |-
+    Il existe un choix énorme de randonnées mais également un choix varié de types de randonnées. Chacune peut être spécifique par ses sentiers, son dénivelé et ses kilomètres, pour son accessibilité, ses points remarquables etc. Afin que vous vous retrouviez dans ces différents types de randonnées, nous avons créé une segmentation pour vous permettre de trouver la randonnée qui vous convient :
+
+    * Randonnée famille : profiter d'une balade en nature familiale
+    * Randonnée faune et flore : Découvrez les animaux de la montagne
+    * Randonnée découverte : Entre l'initiation et la progression
+    * Randonnée sportive : des randonnée plus longue
+    * Randonnée en itinérance : partir plusieurs jours
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195884/website/assets/Recadr%C3%A9es/randonnee.png
