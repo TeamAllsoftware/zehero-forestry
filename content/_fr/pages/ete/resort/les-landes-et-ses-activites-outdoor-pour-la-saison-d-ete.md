@@ -12,6 +12,10 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Les Landes et ses activités outdoor pour la saison d'été
+titleHome: La glisse sur la Côte Atlantique
+activite: coteatlantique
+level: 1
+enHome: 1
 page_title: Les Landes, les grands espaces naturels
 baseline: Océan et pins
 resort_nameid: les_landes

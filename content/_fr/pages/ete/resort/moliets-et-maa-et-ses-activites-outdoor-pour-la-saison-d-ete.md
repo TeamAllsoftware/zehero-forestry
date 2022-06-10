@@ -11,6 +11,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Moliets et maâ et ses activités outdoor pour la saison d'été
+activite: coteatlantique
+level: 2
+enHome: 2
 page_title: Moliets et maâ, les landes plus préservé
 baseline: Naturel et agréable
 resort_nameid: moliets_et_maâ

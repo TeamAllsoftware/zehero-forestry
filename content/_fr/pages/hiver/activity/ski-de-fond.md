@@ -8,6 +8,10 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Ski de fond
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Réserver des cours de ski de fond classique ou skating
 meta-description: Partez explorer les montagnes en ski de fond en pratiquant le classique
   ou le skating

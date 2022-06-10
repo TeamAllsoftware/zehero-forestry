@@ -11,6 +11,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Seignosse et ses activités outdoor pour la saison d'été
+activite: coteatlantique
+level: 2
+enHome: 2
 page_title: Seignosse, 100% nature
 baseline: Authentique, simple
 resort_nameid: seignosse

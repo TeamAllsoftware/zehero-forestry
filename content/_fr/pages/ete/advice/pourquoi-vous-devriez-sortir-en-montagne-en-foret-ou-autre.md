@@ -7,6 +7,8 @@ meta-description: Quels sont les différents bienfaits et bénéfices pour le co
   le mental de sortir en montagne, en forêt ou autre en nature.
 topnav_color_text: light
 title: Pourquoi vous devriez sortir en montagne, en forêt ou autre
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret"
 redirect_from:
 - "/fr/ete/conseil/pourquoi-sortir-en-montagne-en-foret"

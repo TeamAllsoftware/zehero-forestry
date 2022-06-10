@@ -9,6 +9,10 @@ meta-description: Pour bien choisir sa station de ski, découvrez nos conseils s
   qui vous conviendra le mieux ?
 topnav_color_text: light
 title: Quelles stations de ski choisir ?
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 permalink: "/fr/hiver/conseils/choisir-station-ski"
 redirect_from:
 - "/fr/hiver/conseil/choisir-station-ski"

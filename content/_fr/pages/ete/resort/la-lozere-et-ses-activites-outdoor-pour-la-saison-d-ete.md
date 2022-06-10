@@ -14,6 +14,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: La Lozère et ses activités outdoor pour la saison d'été
+activite: sudouest
+level: 2
+enHome: 2
 page_title: La Lozère, Terre d'aventure
 baseline: Sites d'exception
 resort_nameid: lozere

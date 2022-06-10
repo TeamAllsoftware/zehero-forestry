@@ -8,6 +8,8 @@ meta-description: Louer votre matériel de canyoning dans les Alpes Maritimes. P
   votre casque et votre baudrier pour pratiquer le canyoning.
 topnav_color_text: light
 title: Location matériel de canyoning Alpes Maritimes
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
 meta-title: Location de matériel de canyoning dans les Alpes Maritimes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650875786/website/By%20Ze%20Hero%20Activity/han-hsing-tu-toKnZe9kebA-unsplash.jpg

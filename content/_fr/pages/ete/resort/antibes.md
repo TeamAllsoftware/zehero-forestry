@@ -10,6 +10,9 @@ topnav_color_text: light
 resort_nameid: antibes
 resort_naming: Antibes
 title: Antibes et sa région pour vos activités outdoor de l'été
+activite: alpesmaritimes
+level: 2
+enHome: 2
 meta-title: Activités outdoor à Antibes pour l'été
 meta-description: Trouvez votre activité outdoor à Antibes. Antibes est une ville
   et une station balnéaire des Alpes Maritimes dans laquelle vous pourrez pratiquer

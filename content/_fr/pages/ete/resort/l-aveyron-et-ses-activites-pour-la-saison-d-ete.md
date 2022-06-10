@@ -13,6 +13,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: L'Aveyron et ses activités pour la saison d'été
+activite: sudouest
+level: 2
+enHome: 2
 page_title: L'Aveyron, mosaïque de paysage
 baseline: Nature et préservé
 resort_nameid: aveyron

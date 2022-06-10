@@ -5,6 +5,8 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Location de Surf en Loire Atlantique
+activite: surf
+level: 2
 permalink: "/fr/ete/activites/location-surf-loire-atlantique"
 redirect_from:
 - "/fr/ete/activite/location-surf-loire-atlantique"

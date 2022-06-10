@@ -11,6 +11,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Mimizan et ses activités outdoor pour la saison d'été
+activite: coteatlantique
+level: 2
+enHome: 2
 page_title: Mimizan, nature et famille
 baseline: Simple et familiale
 resort_nameid: mimizan

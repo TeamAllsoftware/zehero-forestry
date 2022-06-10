@@ -8,6 +8,8 @@ meta-description: Découvrez nos différents conseils pour bien débuter dans le
   physique ainsi que plusieurs commandements pour s'engager en sécurité.
 topnav_color_text: light
 title: Les différents conseils pour le canyoning
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/conseils-canyoning"
 redirect_from:
 - "/fr/ete/conseil/conseils-canyoning"

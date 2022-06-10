@@ -10,6 +10,10 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Ski de randonnée
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Réserver des cours de ski de randonnée
 meta-description: Partez explorer les montagnes en ski de randonnée afin de profiter
   d'une montagne pure et sauvage

@@ -16,6 +16,9 @@ page_title: L'Isère
 resort_nameid: isere
 resort_naming: L'Isère
 title: L'Isère (38) et ses activités outdoor pour la saison d'été
+activite: isere
+level: 2
+enHome: 2
 permalink: "/fr/ete/destinations/isere"
 redirect_from:
 - "/fr/ete/destination/isere"

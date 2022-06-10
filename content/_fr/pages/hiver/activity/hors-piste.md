@@ -8,6 +8,10 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Ski freeride
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Réserver une activité de ski hors-piste
 meta-description: Partez dans les pentes vierges, volez et flottez dans la neige fraîche
   et dans les espaces sauvages loin des pistes.

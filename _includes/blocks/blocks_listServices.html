@@ -17,9 +17,12 @@
             <div class="col-12 text-center">
                 {% assign collection = site[page.collection] %}
                 {% assign serviceType = block.service %}
+                {% assign filterCat = block.filterCat %}
+                {% assign filterLevel = block.filterLevel %}
+                {% assign filterHome = block.filterHome %}
                 {% assign servicePath = season_language | prepend:'/' | append: '/' | append: serviceType | append: '/' %}
                 
-                {% if serviceType == 'activity' %}
+                {% if serviceType == 'activity' and filterCat == 'oui' %}
                 <!-- start filter navigation -->
                 <ul class="portfolio-filter grid-filter nav nav-tabs justify-content-center border-0 text-uppercase font-weight-500 alt-font padding-6-rem-bottom md-padding-4-half-rem-bottom sm-padding-2-rem-bottom">
                     {% assign catList = site[page.collection] | where_exp: 'item', "item.path contains servicePath "  %}
@@ -46,7 +49,9 @@
                 <ul class="portfolio-classic portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-4col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center">
                     <li class="grid-sizer"></li>
 
-                    {% for service in collection %}
+                    {% assign activityList = site[page.collection] | where_exp: 'item',"item.level <= filterLevel and item.enHome <= filterHome " %}
+                    
+                    {% for service in activityList %}
                     {% if service.path contains servicePath %}
                     <!-- start portfolio item -->
                     <li class="grid-item {{ service.categorie | remove: ' ' | remove: '/' }} ">
@@ -55,13 +60,19 @@
                                 <div class="interactive-banners-box-image">
                                     {% capture download_note %}{{ service.image01_href }}{% endcapture %}
                                     <img loading="lazy" src="{% include image.html file=download_note sizevar='activitylist' %}" alt="Image {{ service.title }}" width='322px' height='446px' />
-                                    <div class="interactive-banners-text-overlay bg-slate-blue"></div>
+                                    <div class="interactive-banners-text-overlay "></div>
                                     {% comment %}<div class="opacity-extra-medium bg-gradient-dark-slate-blue-transparent"></div>{% endcomment %}
                                 </div>
                                 <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
-                                    <h4 class="h3 alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ service.title }}</h4>
-                                    <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ service.baseline }}</span>
-                                    <a href="{{ service.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.[serviceType].readmore }}</a>
+                                    {% if filterHome > 1 %}
+                                        <h4 class="h3 alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ service.title }}</h4>
+                                        <span class="alt-font text-medium text-white opacity-7 text-uppercase letter-spacing-1px d-block">{{ service.baseline }}</span>
+                                        <a href="{{ service.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.[serviceType].readmore }}</a>
+                                    {% else %}
+                                        <h4 class="h3 alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ service.titleHome }}</h4>
+                                        <a href="{{ service.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">{{ config.[serviceType].book }}</a>
+                                    {% endif %}
+
                                 </div>
                             </div>
                         </div>

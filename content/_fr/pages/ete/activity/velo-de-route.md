@@ -5,6 +5,10 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Vélo de route
+titleHome: Ma 1ère traversée des Alpes
+activite: velo
+level: 1
+enHome: 1
 permalink: "/fr/ete/activites/velo-de-route"
 redirect_from:
 - "/fr/velo-savoie-haute-savoie/"

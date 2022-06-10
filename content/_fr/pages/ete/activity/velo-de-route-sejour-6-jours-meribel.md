@@ -5,6 +5,8 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Vélo de route - Séjour 6 jours - Méribel
+activite: velo
+level: 2
 permalink: "/fr/ete/activites/velo-de-route-sejour-6-jours-meribel"
 id: 10236
 redirect_from:

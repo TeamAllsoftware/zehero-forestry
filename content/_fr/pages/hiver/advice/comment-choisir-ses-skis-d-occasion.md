@@ -8,6 +8,10 @@ meta-description: Comment choisir ses skis d'occasions? Il est important de pren
   en compte plusieurs informations importantes.
 topnav_color_text: light
 title: Comment choisir ses skis d'occasion
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 permalink: "/fr/hiver/conseils/ski-d-occasion"
 redirect_from:
 - "/fr/hiver/conseil/ski-d-occasion"

@@ -10,6 +10,8 @@ meta-description: Dans la stations des 3 vallées, Les Menuires est une destinat
   idéale pour la pratique du VTT électrique. Un domaine idéale pour des balades en
   famille en montagne.
 title: Le VTT électrique à Les Menuires
+activite: VTT
+level: 2
 permalink: "/fr/ete/activites/vtt-electrique-les-menuires"
 baseline: VTT Electrique aux Menuires
 engage: 'Rouler aux Menuires en VTT électrique    '

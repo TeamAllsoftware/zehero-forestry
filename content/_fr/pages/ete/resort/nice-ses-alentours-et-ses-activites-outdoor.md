@@ -14,7 +14,10 @@ introduction:
     ou trouver une activité
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
-title: 'Nice, ses alentours et ses activités outdoor '
+title: 'Nice, ses alentours et ses activités outdoor'
+activite: alpesmaritimes
+level: 2
+enHome: 2
 page_title: Nice, capitale de la côte d'Azur
 baseline: Soleil et collines
 resort_nameid: nice_et_ses_alentours

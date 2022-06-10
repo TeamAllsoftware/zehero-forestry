@@ -8,6 +8,10 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Surf
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Réserver des cours de surf pour profiter de la mer en hiver
 meta-description: Du surf et des activités aquatiques en eaux froides durant la saison
   d'hiver est une activité incroyable à réaliser pour se dépasser et vivre une émotion

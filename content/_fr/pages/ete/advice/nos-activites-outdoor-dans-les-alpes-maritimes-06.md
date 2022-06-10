@@ -8,6 +8,8 @@ meta-description: Voici nos différentes activités outdoor que nous proposons d
   de découverte, de sensation à partager et à vivre.
 topnav_color_text: light
 title: Nos activités outdoor dans les Alpes Maritimes 06
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/nos-activites-outdoor-alpes-maritimes"
 meta-title: 'Activités outdoors Ze Hero dans les Alpes Maritimes '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642673635/website/summer/hugo-vidal-OlB2K5n92KQ-unsplash_n0wlqf.jpg

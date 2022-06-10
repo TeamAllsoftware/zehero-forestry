@@ -8,6 +8,9 @@ meta-title: Le packraft - micro aventure entre eau et terre
 meta-description: Avec le packraft, variez les plaisirs et partez rouler en VTT, randonner
   à pied et naviguer à l'aide du packraft. Le kayak ultra léger et facile à gonfler.
 title: Le Packraft
+activite: packraft
+level: 1
+enHome: 2
 permalink: "/fr/ete/activites/packraft"
 baseline: Aventure, sensation et plaisir
 engage: Le packraft est un kayak ultra léger et gonflable.

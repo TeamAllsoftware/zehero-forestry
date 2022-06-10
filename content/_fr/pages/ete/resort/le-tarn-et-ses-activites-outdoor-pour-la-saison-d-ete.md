@@ -14,6 +14,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Le Tarn et ses activités outdoor pour la saison d'été
+activite: sudouest
+level: 2
+enHome: 2
 page_title: Le Tarn, beau et chaleureux
 baseline: Grands espaces
 resort_nameid: le_tarn

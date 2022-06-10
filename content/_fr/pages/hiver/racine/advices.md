@@ -66,6 +66,9 @@ page_sections:
     alt_button: Lien vers la réservation de cours de ski
 - template: listServices
   service: advice
+  filterCat: non
+  filterLevel: 2
+  filterHome: 2
   blockBGcolor: gris
   headtitle:
     headline: Tout est pour vous

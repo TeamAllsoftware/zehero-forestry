@@ -16,6 +16,10 @@ page_title: La Savoie
 resort_nameid: savoie
 resort_naming: La Savoie
 title: La Savoie (73) et ses activités outdoor pour la saison d'été
+titleHome: Que faire en Savoie
+activite: savoie
+level: 1
+enHome: 1
 permalink: "/fr/ete/destinations/savoie"
 redirect_from:
 - "/fr/ete/destination/savoie"

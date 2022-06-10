@@ -13,6 +13,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Chamonix et ses activités outdoor pour la saison d'été
+activite: hautesavoie
+level: 2
+enHome: 2
 page_title: Chamonix, capitale de l'alpinisme
 baseline: Montagnes et sommets
 resort_nameid: chamonix

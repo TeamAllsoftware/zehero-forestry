@@ -65,6 +65,9 @@ page_sections:
     alt_button: ''
 - template: listServices
   service: activity
+  filterCat: non
+  filterLevel: 2
+  filterHome: 2
   blockBGcolor: blanc
   headtitle:
     headline: ZE HERO propose
@@ -118,6 +121,9 @@ page_sections:
   button_2_more: false
 - template: listServices
   service: advice
+  filterCat: non
+  filterLevel: 2
+  filterHome: 2
   blockBGcolor: blanc
   headtitle:
     headline: ZE HERO propose

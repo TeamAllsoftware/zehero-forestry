@@ -23,6 +23,9 @@ page_sections:
     nous nous occupons de vos activités
 - template: listServices
   service: resort
+  filterCat: non
+  filterLevel: 2
+  filterHome: 2
   blockBGcolor: gris
   headtitle:
     headline: ZE HERO propose

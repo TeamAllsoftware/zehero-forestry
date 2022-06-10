@@ -9,6 +9,9 @@ meta-title: Rafting - Embarcation en groupe en rivière
 meta-description: 'Le Rafting, une embarcation en groupe en rivière qui vous fera
   vivre des sensations incroyable en groupe en rafting. Une activité sportive et sensationnelle. '
 title: Le Rafting
+activite: rafting
+level: 1
+enHome: 2
 permalink: "/fr/ete/activites/rafting"
 baseline: Equipe, sensation et découverte
 engage: Une descente en rivière pour un moment fort en sensation

@@ -13,6 +13,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Porge et ses activités outdoor pour la saison d'été
+activite: coteatlantique
+level: 2
+enHome: 2
 page_title: Porge, havre de paix
 baseline: Océan et nature
 resort_nameid: porge

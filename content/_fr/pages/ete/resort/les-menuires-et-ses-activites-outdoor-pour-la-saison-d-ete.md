@@ -13,6 +13,9 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Les Menuires et ses activités outdoor pour la saison d'été
+activite: savoie
+level: 2
+enHome: 2
 page_title: Les Menuires, village d'émotion
 baseline: Emotionssimples
 resort_nameid: les_menuires

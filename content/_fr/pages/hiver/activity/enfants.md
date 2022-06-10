@@ -8,6 +8,10 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Activités pour les enfants
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Réserver des activités d'hiver pour vos enfants
 meta-description: Vous pouvez réserver pour vos enfants des activités ludiques afin
   qu'ils s'amusent pleinement durant votre séjour en montagne.

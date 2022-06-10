@@ -10,6 +10,10 @@ topnav_color_text: light
 resort_nameid: val_thorens
 resort_naming: Val-Thorens
 title: Val-Thorens et ses activités outdoor d'hiver
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Activités outdoor à Val-Thorens pour l'hiver
 meta-description: Découvrez cette station de ski perché à 2300m d'altitude dans la
   vallée des Belleville. Elle fait parti du domaine 3 vallées qui offres 600km de

@@ -5,6 +5,9 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Yoga
+activite: yoga
+level: 1
+enHome: 2
 permalink: "/fr/ete/activite/yoga"
 redirect_from:
 - "/fr/ete/activite/yoga"

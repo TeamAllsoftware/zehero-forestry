@@ -8,6 +8,8 @@ meta-description: Choisir entre le coaching privé ou le coaching collectif. Que
   sont les avantages et les inconvénients.
 topnav_color_text: light
 title: Coaching privé ou collectif ?
+level: 2
+enHome: 2
 permalink: "/fr/ete/conseils/coaching-prive-collectif"
 redirect_from:
 - "/fr/ete/conseil/coaching-prive-collectif"

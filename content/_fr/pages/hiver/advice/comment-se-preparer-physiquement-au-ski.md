@@ -8,6 +8,10 @@ meta-description: Afin d'être en forme physiquement avant votre séjour au ski,
   quelques exercices à faire pour se préparer pour le ski.
 topnav_color_text: light
 title: Comment se préparer physiquement au ski ?
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 permalink: "/fr/hiver/conseils/comment-se-préparer-physiquement-au-ski"
 redirect_from:
   - "/fr/conseils-preparation-physique-ski/"

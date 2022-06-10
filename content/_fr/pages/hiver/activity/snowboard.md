@@ -8,6 +8,10 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Snowboard
+titleHome: 
+activite: 
+level: 2
+enHome: 2
 meta-title: Réserver des cours de snowboard pour apprendre la glisse
 meta-description: Partez rider le domaine skiable et les hors pistes en apprenant
   le snowboard
