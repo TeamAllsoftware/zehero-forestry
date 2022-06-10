@@ -24,8 +24,8 @@ permalink: "/fr/ete/destinations/les-landes"
 redirect_from:
 - "/fr/ete/destination/les-landes"
 meta-title: Vivez vos activités outdoor dans les Landes avec Ze Hero
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646379271/website/resorts/Les%20landes/jeffrey-brandjes-v4E9ObZ8Bno-unsplash_ffowmr.jpg
-image01_alt: Deux skateurs ridant dans un skatepark dans les Landes
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654866882/website/summer/ting-tse-wang-rl6lRpQErlU-unsplash.jpg
+image01_alt: Une jeune fille prend un cours de surf
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=

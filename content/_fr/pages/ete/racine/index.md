@@ -25,15 +25,28 @@ page_sections:
     title: 'Acheter du matériel'
     link: 'https://shop.ze-hero.com/fr/achat-neuf/'
   button_2_more: true
-- template: listServices
-  service: activity
-  filterCat: non
-  filterLevel: 1
-  filterHome: 1
+- template: listOffres
   blockBGcolor: blanc
   headtitle:
     headline: Seul, en famille, entre amis
     title: Sauter de joie, Etre fier, Partager.
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
+    image_alt: 
+    title: Débuter en canyoning
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17200-special-enfants-ruisseau-audin-activite-ze-hero
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883621/website/summer/Paddle-couple-mer_sw6sqk.jpg
+    image_alt: 
+    title: Débuter en surf
+    url: https://www.ze-hero.com/fr/ete/activites/surf
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654867638/website/summer/brian-metzler-nmWQ2SKvj5M-unsplash.jpg
+    image_alt: 
+    title: Mon 1er trail en itinérance
+    url: https://www.ze-hero.com/fr/ete/activites/trail-running
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654868042/website/summer/munbaik-cycling-clothing-Ot1rw5r6eF8-unsplash.jpg
+    image_alt: 
+    title: Ma 1ère traversée des Alpes à Vélo
+    url: https://www.ze-hero.com/fr/ete/activites/velo-de-route
 - template: listServices
   service: resort
   filterCat: non
