@@ -96,6 +96,12 @@ page_sections:
   title: Canyoning de l'Infernet dans les Alpes Maritime. Idéal en famille
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654842931/website/By%20Ze%20Hero%20Activity/Screenshot_3.jpg
   alt_text_for_image: Canyoning en famille à l'Infernet
+- template: videoPopup
+  blockBGcolor: blanc
+  url_video_youtube: https://www.youtube.com/watch?v=Z_r5KXJJCbo
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654843226/website/By%20Ze%20Hero%20Activity/Screenshot_4.jpg
+  title: Canyon alpes maritimes. La roudoule
+  alt_text_for_image: Canyoning la roudoule vidéo
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
