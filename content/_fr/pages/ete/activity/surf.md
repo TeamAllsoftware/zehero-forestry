@@ -42,27 +42,18 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
-  content: "* Bien débuter en surf\n\nPour bien débuter le surf, il est important
-    de réserver des cours de surf avec un moniteur afin qu'il vous accompagne dans
-    la connaissance du milieu et des aspects physiques et techniques. On débute généralement
-    le surf sur les mousses des vagues, c’est-à-dire après plus près du bord afin
-    d'avoir des vagues plus faciles à prendre et moins puissantes. Vous pouvez alors
-    débuter le surf dans des stages ou des cours collectifs pour profiter d'être avec
-    d'autres personnes, vos amis ou votre famille. Mais vous pouvez également réserver
-    un cours privé pour une session de surf avec un moniteur totalement dédiée à vous.\n\nDécouvrez
-    plus d'information sur notre page : **Débuter le surf**\n\n* S'équiper en surf\n\nS'équiper
-    en surf dépendra de votre niveau en ce qui concerne la planche de surf. Il existe
-    plusieurs types de surf, pour différents niveaux avec différentes constructions
-    et différents types de pratique. En fonction de la température de l'eau, il vous
-    faudra des combinaison longues ou courtes ou alors simplement un maillot, short
-    et un lycra. \n\nDécouvrez plus d'information sur notre page : **S'équiper en
-    surf**\n\n* Nos spots de surf\n\nLe surf en France se situe surtout sur toute
-    la côte Atlantique allant du Pays Basque jusqu'en Bretagne. L'hiver vous pouvez
-    parfois surfer sur la Méditerrané avec quelques spots tels que Cannes, Canet,
-    Villefranche ou encore Palavas les Flots. Avec Ze Hero, vous pourrez découvrir
-    les spots mythiques des Landes à Seignosse, Cabreton et Hossegor mais également
-    à Mimizan, Porge et St Brévin les Pins. \n\nDécouvrez plus d'information sur notre
-    page : **Nos spots de surf**"
+  content: |-
+    * Bien débuter en surf
+
+    Pour bien débuter le surf, il est important de réserver des cours de surf avec un moniteur afin qu'il vous accompagne dans la connaissance du milieu et des aspects physiques et techniques. On débute généralement le surf sur les mousses des vagues, c’est-à-dire après plus près du bord afin d'avoir des vagues plus faciles à prendre et moins puissantes. Vous pouvez alors débuter le surf dans des stages ou des cours collectifs pour profiter d'être avec d'autres personnes, vos amis ou votre famille. Mais vous pouvez également réserver un cours privé pour une session de surf avec un moniteur totalement dédiée à vous.
+
+    * S'équiper en surf
+
+    S'équiper en surf dépendra de votre niveau en ce qui concerne la planche de surf. Il existe plusieurs types de surf, pour différents niveaux avec différentes constructions et différents types de pratique. En fonction de la température de l'eau, il vous faudra des combinaison longues ou courtes ou alors simplement un maillot, short et un lycra.
+
+    * Nos spots de surf
+
+    Le surf en France se situe surtout sur toute la côte Atlantique allant du Pays Basque jusqu'en Bretagne. L'hiver vous pouvez parfois surfer sur la Méditerrané avec quelques spots tels que Cannes, Canet, Villefranche ou encore Palavas les Flots. Avec Ze Hero, vous pourrez découvrir les spots mythiques des Landes à Seignosse, Cabreton et Hossegor mais également à Mimizan, Porge et St Brévin les Pins.
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
