@@ -66,6 +66,30 @@ page_sections:
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195884/website/assets/Recadr%C3%A9es/randonnee.png
   alt_text_for_image: Equipement randonnée
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646301523/website/summer/lucas-favre-GzcI_rMNclY-unsplash_rwravw.jpg
+  alt_text_for_image: Femme faisant de la randonnée en montagne
+  title: Nos partenaires Ze Hero de randonnée
+  captiontitleuppercase: Trouvez votre activité de randonnée
+  content: "Chez Ze Hero, vous pourrez trouver différentes randonnées à faire dans
+    les Vosges, dans le Mercantour, dans les Pyrénées, dans les Cévennes et dans les
+    Préalpes quel que soit votre niveau. Chacun de nos partenaires offre différents
+    styles de randonnée parfois bien spécifiques afin de vous offrir une expérience
+    unique. Vous pourrez alors découvrir en groupe, des sommets, des lacs, des lieux
+    d'exception, aller à la rencontre d'animaux, faire de la sylvothérapie.\n\nVoici
+    les partenaires Ze Hero de randonnée en montagne :\n\n* [**Cueilleur de sommets**](https://www.ze-hero.com/fr/ete/partenaires/clement-sivera)
+    : Clément Sivera vous amène randonner dans les trésors de la Lozère, des Cévennes,
+    des gorges du Tarn et du Gard. Il vous fera découvrir ce parc naturel fabuleux
+    et aller à la rencontre des vautours. \n* **Sorties de routes** : Avec Albane,
+    découvrez les Vosges, ses chamois et ses forêts, partez bivouaquer et faire de
+    la sylviothérapie. Une expérience unique.\n* Dans le Mercantour et les Préalpes,
+    Ze Hero met à disposition différents accompagnateurs montagne afin de vous faire
+    découvrir ces joyaux montagnard et alpin des Alpes Maritimes"
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: imgWide
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649247144/website/assets/Personnages%20poses/Poses%20format%20large/Randonnee_Pose.png
