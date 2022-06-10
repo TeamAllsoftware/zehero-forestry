@@ -1,0 +1,48 @@
+<section class="padding-100px-tb {% if block.blockBGcolor == 'gris' %} bg-light-gray {% endif %}">
+    {% if block.headtitle %}
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-6 text-center margin-5-rem-bottom md-margin-4-rem-bottom wow animate__fadeIn">
+                <span class="alt-font font-weight-600 text-green text-uppercase letter-spacing-1px d-block margin-5px-bottom">{{ block.headtitle.headline }}</span>
+                <h2 class="h2 alt-font font-weight-700 text-slate-blue letter-spacing-minus-1px text-uppercase">{{ block.headtitle.title }}</h2>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+        {% assign collection = site[page.collection] %}
+        {% assign serviceType = block.service %}
+        {% assign filterCat = block.filterCat %}
+        {% assign filterLevel = block.filterLevel %}
+        {% assign filterHome = block.filterHome %}
+        {% assign servicePath = season_language | prepend:'/' | append: '/' | append: serviceType | append: '/' %}
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 filter-content">
+                <ul class="portfolio-classic portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-4col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center">
+                    <li class="grid-sizer"></li>
+                    {% for service in block.offreList %}
+                    <!-- start portfolio item -->
+                    <li class="grid-item {{ service.categorie | remove: ' ' | remove: '/' }} ">
+                        <div class="col interactive-banners-style-11 text-center lg-margin-30px-bottom xs-margin-15px-bottom margin-30px-bottom">
+                            <div class="interactive-banners-box">
+                                <div class="interactive-banners-box-image">
+                                    {% capture download_note %}{{ service.image_href }}{% endcapture %}
+                                    <img loading="lazy" src="{% include image.html file=download_note sizevar='activitylist' %}" alt="Image {{ service.image_alt }}" width='322px' height='446px' />
+                                    <div class="interactive-banners-text-overlay "></div>
+                                </div>
+                                <div class="interactive-banners-text-content padding-5-rem-lr xl-padding-3-half-rem-lr">
+                                        <h4 class="h3 alt-font font-weight-600 text-white text-uppercase margin-5px-bottom">{{ service.title }}</h4>
+                                        <a href="{{ service.url }}" class="btn btn-fancy btn-small btn-green margin-35px-top">Réserver</a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <!-- end portfolio item -->
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

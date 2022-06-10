@@ -21,7 +21,7 @@ meta-description: Profitez de sortie de Trail Running pour découvrir la nature,
   entraîner et vous perfectionner dans des cadres magiques.
 baseline: Dépassement, liberté et partage
 engage: Partez fouler chaque sentier en vous dépassant
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774637/website/By%20Ze%20Hero%20Activity/IMG_20200723_153328_1.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654867638/website/summer/brian-metzler-nmWQ2SKvj5M-unsplash.jpg
 image01_alt: Personnes courant en trail sur le long d'une crête de montagne lors du
   levé du soleil
 categorie: Running / Trail

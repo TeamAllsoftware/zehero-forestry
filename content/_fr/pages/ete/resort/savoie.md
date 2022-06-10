@@ -23,8 +23,8 @@ enHome: 1
 permalink: "/fr/ete/destinations/savoie"
 redirect_from:
 - "/fr/ete/destination/savoie"
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642749757/website/summer/mercvrie-YlWgxkbP_pY-unsplash_yves5y.jpg
-image01_alt: Vue sur le lac du bourget
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646912721/website/summer/graziano-de-maio-FymvetW__R4-unsplash.jpg
+image01_alt: Du VTT descente dans les forêts et montagnes de savoie
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité en Savoie
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=12%2F12%2F2021

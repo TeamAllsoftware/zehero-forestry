@@ -1,0 +1,46 @@
+---
+label: listOffres
+hide_body: true
+fields:
+- name: blockBGcolor
+  type: select
+  default: gris
+  config:
+    required: false
+    options:
+    - gris
+    - blanc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur de fond du composant
+- name: offreList
+  type: field_group_list
+  fields:
+  - name: image_href
+    type: text
+    config:
+      required: true
+    label: image_href
+  - name: image_alt
+    type: text
+    config:
+      required: true
+    label: image_alt
+  - name: title
+    type: text
+    config:
+      required: true
+    label: title
+  - name: url
+    type: text
+    config:
+      required: true
+    label: url 
+  config:
+    min: 
+    max: 
+    labelField: name
+  label: Offres list

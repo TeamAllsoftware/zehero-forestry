@@ -5,7 +5,7 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Vélo de route
-titleHome: Ma 1ère traversée des Alpes
+titleHome: Ma 1ère traversée des Alpes à vélo
 activite: velo
 level: 1
 enHome: 1
@@ -19,8 +19,8 @@ meta-description: 'Trouver votre sortie à vélo en parcourant cols et itinérai
   vélo de route'
 baseline: Explorer, rouler et grimper
 engage: Explorez de nouveaux horizons et grimpez les cols mythiques
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883618/website/summer/velo-duo-descente-col_bqhfjm.jpg
-image01_alt: 'Deux cycliste faisant du vélo de route dans une descente d''une route
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654868042/website/summer/munbaik-cycling-clothing-Ot1rw5r6eF8-unsplash.jpg
+image01_alt: '3 cyclistes faisant du vélo de route à travers les Alpes
   ensoleillé '
 categorie: Vélo
 page_sections:
