@@ -60,8 +60,8 @@ page_sections:
     Elle vous proposera des descentes uniques à travers la Dranse dans des paysages
     magnifiques pour un maximum de sensations fortes et de plaisir."
   button:
-    text_button: ''
-    href_button: ''
+    text_button: Réservez votre activité
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Rafting&start-date=
     alt_button: ''
 - template: newsletter
   title: Recevez nos dernières informations
