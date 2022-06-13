@@ -26,7 +26,7 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: textarea
   blockBGcolor: blanc
-  title: Les parcours de Trail au littoral des Alpes Maritimes
+  title: Les parcours de Trail sur le littoral des Alpes Maritimes
   content: |-
     Les Alpes Maritimes est un département unique et incroyable pour sa richesse environnemental Un lieu d'exception où les paysages sublimes se succèdent, où la végétation se diversifie d'étage en étage, où l'on peut admirer la mer depuis des sommets montagneux. On remarque une grande diversification de la nature, de son habitat, de sa faune et flore. C'est alors un lieu idéal pour fouler ses sentiers, ses chemins en pratiquant le trail. Rien de mieux que découvrir cet environnement en courant.
 
@@ -41,18 +41,18 @@ page_sections:
 - template: ctaShop4col
   blockBGcolor: blanc
   Image1:
-    alt_text: Chemin de Saint Jean Cap Ferrat
+    alt_text: Chemin de trail de Saint Jean Cap Ferrat
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653296578/website/By%20Ze%20Hero%20Activity/romain-gal-0W-fADtvFuk-unsplash.jpg
-    title: Le tour de St Jean Cap Ferrat
+    title: Le tour de St Jean Cap Ferrat dans les Alpes Maritimes
     title_Link: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
   Image2:
     title_Link: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653298288/website/By%20Ze%20Hero%20Activity/IMG20210527150640.jpg
-    alt_text: Chemin du Cap d'Antibes
-    title: Tour du Cap d'Antibes
+    alt_text: Chemin de trail du Cap d'Antibes dans les Alpes Maritimes
+    title: Tour trail du Cap d'Antibes
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653298484/website/By%20Ze%20Hero%20Activity/IMG20210527191741.jpg
-    alt_text: Bord de mer à Théoule sur mer
+    alt_text: Bord de mer à Théoule sur mer dans les Alpes Maritimes
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653296571/website/By%20Ze%20Hero%20Activity/lidija-jakovljevic-_zRsP2wzcew-unsplash.jpg
     alt_text: Eze village avec vue sur la mer des plantes vertes
@@ -75,7 +75,7 @@ page_sections:
 - template: 2coltxtimg
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653295947/website/By%20Ze%20Hero%20Activity/jeremy-bezanger-YLkr1Y39XSk-unsplash.jpg
-  alt_text_for_image: Vue du village de Gréolières et des montagnes derrieres
+  alt_text_for_image: Vue du village de Gréolières et des montagnes des Alpes Maritimes
   captiontitleuppercase: Les alentours du Cheiron
   title: Le Trail à Gréolières
   content: |-
@@ -94,7 +94,7 @@ page_sections:
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653295936/website/By%20Ze%20Hero%20Activity/guillaume-meurice-KaQ1XQ_DoCQ-unsplash.jpg
-  alt_text_for_image: Vue depuis Gourdon du pic des courmettes
+  alt_text_for_image: Vue depuis Gourdon du pic des courmettes, du trail dans les Alpes Maritimes
   captiontitleuppercase: Découvrez le plateau de Caussols
   title: Le Trail depuis Le Bar sur Loup et Gourdon
   content: |-
@@ -131,9 +131,9 @@ page_sections:
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653376586/website/By%20Ze%20Hero%20Activity/IMG20211104075044.jpg
-  alt_text_for_image: Sommet du Pic de courmettes
+  alt_text_for_image: Sommet du Pic de courmettes dans les Alpes Maritimes
   captiontitleuppercase: Le pic de Tourrettes et des Courmettes
-  title: Trail à Tourrettes-sur-Loup
+  title: Les sentiers Tourrettes-sur-Loup
   content: |-
     Le petit village médiéval de Tourrettes sur Loup, perché sur sa falaise est un village incontournable à visiter. Ces petites ruelles de pierres vous feront pénétrer dans une ambiance incroyable. Juste au-dessous, on retrouve le Pic de Courmettes qui culmine à 1248m et le Puy de Tourrettes à 1268m ainsi que le Puy de Naouri à 1024m. Découvrez ces plateaux où pâturent moutons et chèvres, le plateau de Saint Barnabé, le petit village de Courmes et le domaine des Courmettes. Une vue imprenable sur la mer et la Côte d’Azur ainsi que la chaîne montagneuse du Mercantour. Plongez dans la forêt enchantée de Courmes. Un lieu parfait pour pratiquer le Trail et profiter des sentiers.
 
@@ -151,7 +151,7 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653377912/website/By%20Ze%20Hero%20Activity/IMG20210716113649.jpg
   alt_text_for_image: Vue du sommet du Mont Vial
   captiontitleuppercase: Le Mont Vial
-  title: Trail depuis Bonson, Gilette, Levens
+  title: Bonson, Gilette, Levens dans les Alpes Maritimes
   content: |-
     Plus loin dans la vallée de Carros, où le Var passe avant de se jeter dans la mer, plusieurs villages perchés se situent dans les hauteurs. Vous découvrirez Bonson, Gilette, Levens, des villages au patrimoine culturel incroyable protégé et préservé.
 
