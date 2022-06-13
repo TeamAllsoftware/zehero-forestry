@@ -37,6 +37,20 @@ page_sections:
     * Les Vosges du Nord
 
     Les Vosges, c'est la destination nature et bien-être, c'est partir à l'aventure dans un environnement d'une richesse incroyable. Un lieu où se mélange la féerie, le sport, le bien-être, la nature, la découverte et les grands espaces.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655112692/website/resorts/Les%20Vosges/hiking-7062472_1920.jpg
+  alt_text_for_image: Randonneur dans les montagnes des Vosges
+  captiontitleuppercase: Les Vosges, séjour bien-être et sportif
+  title: Les activités natures aux Vosges
+  content: |-
+    Dans le massif des Vosges, il ne manque pas d'activité nature. Ce massif, à la nature d'exception, regorge de lieux magiques, de trésors, de lieux uniques qui n'attendent que vous. Séjournez dans les Vosges c'est bien sûr randonner, se promener. La nature, les montagnes, les lacs et les rivières sont à vos pieds. Une faune et une flore nichent dans ce massif. Partez observer les chamois, trouver des traces de Lynx. Les Vosges, c'est 20 000km de sentiers balisés à la découverte de paysages étonnant et surprenant. Vous pourrez traverser ce massif par le GR, faire le tour des Ballons des Vosges pour les plus sportifs. Partez à l'assaut du sommet du Grand Ballon et de l'Hohneck. Mais vous pourrez également randonner en famille, avec vos enfants. Partez à l'aventure en bivouaquant ou pour une randonnée bien-être.
+
+    Accompagné d'un guide, vous pourrez vous enrichir de toutes ses connaissances sur ce massif, découvrir et observer les animaux, vous laissez guider sur les plus beaux sentiers. Vous pourrez réserver une randonnée avec notre partenaire **Sorties de routes**, une accompagnatrice qui vous fera découvrir les joyaux des forêts des Vosges, pour un moment unique en famille.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
