@@ -58,6 +58,22 @@ page_sections:
 
     Les Vosges c'est aussi une terre pour les amoureux du trail-running. Vous trouverez dans ce massif de nombreuses compétitions de trail très réputées comme le trail du Petit Ballon. Avec les nombreux sentiers des Vosges, à vous les kilomètres et les dénivelés pour découvrir le massif, vous faire du bien.
   title: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655117845/website/resorts/Les%20Vosges/casper-van-battum-6PNkLIRxMFc-unsplash.jpg
+  alt_text_for_image: Coucher de soleil dans les montagnes des Vosges
+  captiontitleuppercase: Grandeur nature
+  title: Les activités sensation dans les Vosges
+  content: |-
+    Vous pourrez découvrir le VTT dans les Vosges et rouler sur les différents sentiers de ce massif. Le VTT dans les Vosges c'est plus de 3000km de sentiers balisés pour rouler et se faire plaisir que ce soit à VTT ou à VTT Electrique. Rouler entre les montagnes et les forêts, que ce soit entre amis, en famille, pour des circuits sportifs, de découverte ou d'initiations, vous pourrez trouver ce qu'il vous convient.
+
+    Vous pourrez également pratiquer différentes activités d'eau vive dans les Vosges. Partez découvrir le canyoning avec les canyonings du Seebach, Bockloch, Goutte des Saules et Rahin. Vous pourrez alors varier avec des canyons ludiques et familiaux mais également sportifs, avec de nombreux rappels et de sauts.
+
+    Pour les amateurs d'escalade, vous pourrez découvrir plusieurs spots dans les Vosges pour vous initier à l'escalade. Vous pourrez grimper en famille et découvrir les 1er techniques de grimpe, le matériel et comment assurer également. Pour les amateurs, partez à l'assaut de longues voies tels que la  Martinswand et Rocher Hans.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
