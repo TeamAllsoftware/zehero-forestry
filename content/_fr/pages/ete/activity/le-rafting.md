@@ -30,6 +30,13 @@ page_sections:
     Vous embarquerez aux nombres de 7 personnes ainsi que le moniteur pour un total de 8 personnes sur le bateau.
 
     Vous découvrirez alors différentes formules en fonction des écoles de Rafting qui seront généralement pour découvrir ou alors pour un moment plus intense et sport.
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: |-
+    * Débuter en rafting
+
+    Le Rafting est une activité d'eaux vives qui ne demande pas directement un niveau ou des compétences précises. Vous pourrez alors vous initier facilement lors de votre 1er descente de rivière en rafting. Cette activité demande tout de même une bonne condition physique car vous allez évoluer dans une eau avec parfois des courants puissants.
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648030134/website/summer/lindsey-erin-ayhiuTdcUEk-unsplash.jpg
@@ -106,5 +113,6 @@ page_sections:
     alt_button: ''
 - template: newsletter
   title: Recevez nos dernières informations
+published: false
 
 ---
