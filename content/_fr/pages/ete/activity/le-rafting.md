@@ -36,7 +36,15 @@ page_sections:
   content: |-
     * Débuter en rafting
 
-    Le Rafting est une activité d'eaux vives qui ne demande pas directement un niveau ou des compétences précises. Vous pourrez alors vous initier facilement lors de votre 1er descente de rivière en rafting. Cette activité demande tout de même une bonne condition physique car vous allez évoluer dans une eau avec parfois des courants puissants.
+    Le Rafting est une activité d'eaux vives qui ne demande pas directement un niveau ou des compétences précises. Vous pourrez alors vous initier facilement lors de votre 1er descente de rivière en rafting. Cette activité demande tout de même une bonne condition physique car vous allez évoluer dans une eau avec parfois des courants puissants. Le plus important est de bien écouter les conseils du moniteur pour profiter pleinement de la navigation. Il vous guidera, vous expliquera les gestes à faire et où se placer correctement sur le bateau. Le rafting est ouvert à tous, à partir du moment où vous savez nager. Selon les rivières et les rapides, il est parfois demandé d'un âge minimum et parfois une condition et un niveau exigé.
+
+    * L'équipement en rafting
+
+    Vous serez équipé directement sur la base nautique avec un équipement conçu pour le rafting : une combinaison, un casque, la pagaie et un gilet de sauvetage. Il faudra vous munir d'un maillot de bain et d'une paire de chaussure de sport.
+
+    * Nos spots de rafting
+
+    Il y a une multitude de spots en France où la pratique du rafting est idéale. En Savoie et Haute Savoie vous retrouverez de nombreux spots tel l'Isère vers Bourg Saint Maurice, le Doron vers Bozel, la Dranse entre Avoriaz et Thonons les Bains. Mais vous retrouverez de nombreux spots également dans les Pyrénées dans la Garonne, l'Aude, l'Ariège. Plus au Sud, les spots de rafting vont se trouver dans les Alpes maritimes avec la Roya, la Vésubie, le Var et la Tinée. Pour finir il y aura également toutes les Alpes de Haute Provence qui seront une destination idéale pour le rafting.
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648030134/website/summer/lindsey-erin-ayhiuTdcUEk-unsplash.jpg
