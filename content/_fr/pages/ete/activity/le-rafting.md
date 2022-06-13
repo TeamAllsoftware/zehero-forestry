@@ -47,6 +47,24 @@ page_sections:
     Il y a une multitude de spots en France où la pratique du rafting est idéale. En Savoie et Haute Savoie vous retrouverez de nombreux spots tel l'Isère vers Bourg Saint Maurice, le Doron vers Bozel, la Dranse entre Avoriaz et Thonons les Bains. Mais vous retrouverez de nombreux spots également dans les Pyrénées dans la Garonne, l'Aude, l'Ariège. Plus au Sud, les spots de rafting vont se trouver dans les Alpes maritimes avec la Roya, la Vésubie, le Var et la Tinée. Pour finir il y aura également toutes les Alpes de Haute Provence qui seront une destination idéale pour le rafting.
 - template: 2colimgtxt
   blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651482964/website/Partenaires/237738035_4387210021359321_143256446323364765_n.jpg
+  alt_text_for_image: Personne faisant du rafting dans la Dranse
+  captiontitleuppercase: Trouvez votre activité Rafting
+  title: Les partenaires Ze Hero de rafting
+  content: "Chez Ze Hero, vous pourrez réserver votre activité de rafting afin de
+    profiter d'une descente incroyable entre amis, en famille ou en couple. Vous trouverez
+    différentes formules : \n\n* Sportif\n* Découverte\n* Initiation\n\nCela permet
+    d'avoir de pouvoir profiter pleinement des descentes de rafting pour tous les
+    niveaux et toutes les envies.\n\nVous trouverez donc entre Thonons les Bains et
+    Avoriaz, la base nautique [**7 Aventures**](https://www.ze-hero.com/fr/ete/partenaires/7-aventures).
+    Elle vous proposera des descentes uniques à travers la Dranse dans des paysages
+    magnifiques pour un maximum de sensations fortes et de plaisir."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648030134/website/summer/lindsey-erin-ayhiuTdcUEk-unsplash.jpg
   alt_text_for_image: Un bateau de rafting sur une rivière avec plusieurs personne
     dedans
