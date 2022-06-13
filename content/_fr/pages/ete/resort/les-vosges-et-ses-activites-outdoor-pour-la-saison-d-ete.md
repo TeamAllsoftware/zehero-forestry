@@ -74,6 +74,13 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: ''
+  content: |-
+    Émerveillez vous devant les lacs des Vosges tel que le lac de Gérardmer, le lac blanc, le lac de Longemer. Plongez dans la cascade de Tendon.
+
+    Les Vosges, votre prochain lieu pour un séjour nature, sportif et relaxant au cœur d'une nature verdoyante et enchantée.
 published: false
 
 ---
