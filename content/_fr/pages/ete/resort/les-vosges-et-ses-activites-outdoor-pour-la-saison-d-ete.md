@@ -1,7 +1,7 @@
 ---
 layout: layout_resort
-language: ''
-season: winter
+language: fr
+season: summer
 code_postal: 88,Vosges,Grand Est
 meta-description: Trouvez votre activité outdoor dans le départements des Vosges.
   Un paradis naturel, entre lac et montagne, un massif vert où vous pourrez découvrir
