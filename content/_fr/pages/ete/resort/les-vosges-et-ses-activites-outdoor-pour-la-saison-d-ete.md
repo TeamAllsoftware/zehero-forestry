@@ -51,6 +51,13 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Le massif des Vosges, c'est la destination randonnée. Avec de nombreuses expériences uniques au sein de cette nature verdoyante, vous trouverez de nombreuses randonnées, ascension, découvertes, traversée, observations d'animaux partout dans ce massif.
+
+    Les Vosges c'est aussi une terre pour les amoureux du trail-running. Vous trouverez dans ce massif de nombreuses compétitions de trail très réputées comme le trail du Petit Ballon. Avec les nombreux sentiers des Vosges, à vous les kilomètres et les dénivelés pour découvrir le massif, vous faire du bien.
+  title: ''
 published: false
 
 ---
