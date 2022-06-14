@@ -32,6 +32,15 @@ page_sections:
     aux sensations fortes. Vous ressentirez les mouvements de l'eau par sa puissance
     et sa vitesse. Pour les amateurs de sensation forte, l'hydrospeed sera l'activité
     parfaite.
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: |-
+    * Débuter en Hydrospeed
+
+    Débuter en hydrospeed, c'est déjà savoir nager et avoir une bonne condition physique. Cette activité est ouverte à tous et ne demande pas de technique spécifique pour s'initier et profiter d'une descente en rivière. Dès 14 ans environ, vous pourrez pratiquer l'hydrospeed. Votre guide vous expliquera comment bien manier le flotteur afin d'être à l'aise dans les rapides et courants. Selon les rivières et le débit, l'hydrospeed est parfois très physique et technique. Les descentes sont d'environ 2h.
+
+    * S'équiper en hydrospeed
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785318-DSC_1518.jpg
@@ -101,5 +110,6 @@ page_sections:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hydrospeed&start-date=
     text_button: Réservez votre activité d'Hydrospeed à Thonon les Bains
     alt_button: ''
+published: false
 
 ---
