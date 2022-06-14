@@ -44,6 +44,22 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  content: |-
+    Il est obligatoire d'avoir un casque sur sa tête durant toute la descente du canyoning pour votre sécurité. Il vous protégera des chocs, d'une glissade, d'une pierre tombante... Vous ne pourrez emprunter aucun canyon si vous n'êtes pas muni d'un casque.
+
+    Ce sont des casques similaires aux casques d'escalade. Ils sont légers, l'eau s'évacue facilement, ils se feront facilement oublier sur votre tête. Une fois bien régler en fonction de votre tête, vous pourrez descendre en toute sérénité.
+
+    Il doit être conforme aux normes de sécurité.
+  captiontitleuppercase: Se protéger durant le canyoning
+  title: Le casque de canyoning
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655201007/website/By%20Ze%20Hero%20Activity/IMG_4222.jpg
+  alt_text_for_image: Des personnes dans un canyon dans les Alpes Maritimes
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
   content: |-
