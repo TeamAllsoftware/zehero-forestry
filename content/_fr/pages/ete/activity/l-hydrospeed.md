@@ -49,73 +49,19 @@ page_sections:
     La pratique de l'hydrospeed demande tout de même d'avoir une quantité suffisante d'eau dans la rivière afin de ne pas percuter et toucher les rochers. En France, il existe de nombreux spots où vous pourrez en pratiquer. Vous pourrez alors en faire dans la Durance, dans la Dranse, l'Aude, l'Allier, l'Isère, le Verdon, l'Ubaye et bien d'autres.
 - template: 2colimgtxt
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785318-DSC_1518.jpg
-  alt_text_for_image: Personne faisant de l'hydrospeed dans la Dranse
-  captiontitleuppercase: Une activité sportive et sensationnelle
-  title: Jouer dans les courants des rivières
-  content: L'hydrospeed c'est jouer dans les courants des rivières, c'est lire la
-    puissance des courants et des vagues. Vous allez surfer dans les rivières. Muni
-    d'un flotteur en mousse, vous serez équipé d'une combinaison néoprène, d'un casque,
-    de palme, de chausson néoprène et d'un gilet de sauvetage. Vous vous déplacerez
-    donc grâce aux palmes afin d'avancer et de vous guider. Le flotteur lui est très
-    maniable. Le haut de votre corps est alors posé sur le flotteur et vos jambes
-    pagaieront. Ce flotteur est pourvu de deux attaches pour le tenir de vos mains.
-    Il permettra également de vous protéger des cailloux et des différents obstacles
-    devant vous.
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785335-DSC_4439.jpg
+  alt_text_for_image: Groupe de personne faisant de l'hydrospeed
+  captiontitleuppercase: Trouvez votre activité d'Hydrospeed
+  title: Les partenaires Ze Hero d'hydrospeed
+  content: 'Chez Ze Hero, nous vous proposons de découvrir l''hydrospeed en Haute
+    Savoie, près de Thonon les Bains et d''Avoriaz. Au hameau de la Vernaz vous découvrirez
+    la Dranse ainsi que la base nautique [**7 Aventures**](https://www.ze-hero.com/fr/ete/partenaires/7-aventures).
+    Laissez vous tenter par une descente en hydrospeed avec un de leur moniteur. Que
+    vous soyez débutant, amateur ou confirmé, ils proposent 3 offres : La découverte,
+    le classique et le sportif.'
   button:
-    text_button: ''
-    href_button: ''
+    text_button: Trouvez votre activité d'Hydrospeed
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hydrospeed&start-date=
     alt_button: ''
-- template: textarea
-  blockBGcolor: blanc
-  content: Il est impératif de savoir nager et donc d'être plutôt à l'aise dans l'eau.
-    Selon les lieux et les rivières, vous allez passer dans des rapides et des courants
-    parfois forts. Laissez-vous guider par votre guide qui vous expliquera comment
-    bien manier l'hydrospeed, comment bien lire la rivière afin d'être de plus en
-    plus à l'aise.
-  title: ''
-- template: 2coltxtimg
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785324-DSC_1959.jpg
-  alt_text_for_image: Plusieurs personnes en hydrospeed avançant sur la Dranse
-  captiontitleuppercase: Une activité fun et ludique
-  title: L'hydrospeed, pour tous
-  content: |-
-    À condition de savoir nager, l'hydrospeed est une activité pour tous. Dès 14ans, vous pourrez embarquer en groupe allant jusqu'à 10 personnes avec un guide dans les différentes rivières de France. Vous devez simplement avoir sur vous un maillot de bain et une serviette, les compagnies et organisme s'occupera de vous équiper pour le reste. La plupart des activités d'hydrospeed dureront environ 2h en comprenant le temps d'équipement, d'explication et de la descente.
-
-    En fonction du débit et des lâchers de barrage, l’hydrospeed peut être parfois très sportif ou plus calme. Sur certains secteurs et parfois durant l’été il y a des jours impraticable à l’hydrospeed mais également si le niveau d’eau est trop faible.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: textarea
-  blockBGcolor: blanc
-  content: |-
-    Les différents organismes proposent généralement entre deux à trois types d'activité hydrospeed : Découverte / Initié et Sportif ou Confirmé. En fonction de votre aisance, de votre âge, de votre condition physique, si vous avez déjà pratiqué l'hydrospeed, vous serez amenés à faire différents parcours. Les débutants ou ceux qui découvrent l'activité n'iront pas directement dans les rapides et les courants puissants. L'activité, même si elle reste ouverte à tous, est physique et demande une bonne quantité d'énergie. Mais vous passerez un moment inoubliable dans un groupe où le plaisir sera omniprésent. De plus, vous découvrirez des lieux magnifiques, des rivières aux roches particulières et façonnées par l'eau, des décors magiques.
-
-    Vous pourrez alors pratiquer l'Hydrospeed dans la Dranse avec 7 Aventure. La Dranse fait partie des spots les plus réputés pour la pratique de rafting, de canoë-kayak et d'hydrospeed. Avec 7 Aventures vous pourrez alors découvrir, vous perfectionner en Hydrospeed. Vous pouvez également trouver des spots d'hydrospeed incontournables tels que les gorges du Verdon, de l'Allier, de l'Aude, de l'Ubaye, de l'Isère, de la Drac et bien d'autres.
-
-    Une activité unique en son genre, au contact de l'eau comme jamais vous le vivrez. L'hydrospeed ou encore la nage en eau vive vous emportera dans une aventure aux sensations fortes.
-  title: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785330-DSC_4366.jpg
-  alt_text_for_image: Personnes faisant de l'hydrospeed
-  captiontitleuppercase: Sensations fortes
-  title: L'hydrospeed autour de Thonon les Bains
-  content: "Avec Ze Hero, découvrez les différentes offres d'Hydrospeed à [Thonon
-    les Bains](https://www.ze-hero.com/fr/ete/destination/thonon-les-bains) avec notre
-    partenaire \" 7 Aventures \".  \nDans les gorges de la Dranse, vous découvrirez
-    cette activité sensationnelle au sein de la commune de La Vernaz. Ce village se
-    trouve à 25mn de Thonon les Bains, la base nautique \" 7 Aventures \" se trouvera
-    dans ce village. D'ici vous pourrez alors partir dans la Dranse en Hydrospeed.
-    \ \nDécouvrez un cadre unique en Haute-Savoie entre Morzine-Avoriaz et Thonon
-    les Bains.\n\n7 Aventures vous propose donc différentes offres d'hydrospeed :\n\n*
-    Hydrospeed Découverte\n* Hydrospeed Classique\n* Hydrospeed Sportive"
-  button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hydrospeed&start-date=
-    text_button: Réservez votre activité d'Hydrospeed à Thonon les Bains
-    alt_button: ''
-published: false
 
 ---
