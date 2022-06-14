@@ -26,6 +26,28 @@ page_sections:
 
     * [**Le matériel à avoir dans son sac de randonnée**](https://www.ze-hero.com/fr/ete/conseils/liste-materiel-randonnee)
     * [**Préparer sa 1er sortie en montagne**](https://www.ze-hero.com/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee)
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  title: Se préparer pour randonner
+  captiontitleuppercase: Partir randonner selon son niveau
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216735/website/summer/IMG_20200730_110620.jpg
+  alt_text_for_image: Des randonneurs en montagne devant un lac dans le Mercantour
+  content: |-
+    En fonction du choix des randonnées, certaines seront plus difficiles que d'autres sur le plan physique et musculaire. C'est pourquoi, il est préférable de se préparer physiquement avant de randonner.
+
+    Il suffit alors de marcher et de progressivement allonger vos distances, et d'augmenter le dénivelé. Cela vous permet de vous adapter au fur et à mesure à des distances plus longues et à marcher plus longtemps.
+
+    Il faut savoir qu'en randonnée la moyenne pour un débutant est de 3km/h et environ 300 à 400m de dénivelé par heure. Cela vous permet de réaliser en fonction des parcours choisis, le temps que cela vous prendra. Cela peut s'avérer différent si le chemin est technique (cailloux, escarpés, racine...)
+
+    Plus le dénivelé est important et moins il y aura de kilomètres, alors le chemin sera très raide.
+
+    Commencer par de petites randonnées de quelques heures, avec un dénivelé faible. Puis vous pourrez augmenter progressivement les distances et le dénivelé à des randonnées d'une journée. Vous pourrez par la suite partir sur des randonnées de plusieurs jours. I
+
+    Le choix des randonnées se fera donc en fonction de votre niveau et de ce que vous recherchez (en famille, sportif, lacs, sommets, chamois etc.)
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
