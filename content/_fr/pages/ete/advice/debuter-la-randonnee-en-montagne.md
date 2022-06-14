@@ -85,6 +85,12 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Ce qu'il faut dans son sac
+  content: 'Afin d''avoir toutes les informations pour l''équipement à avoir pour
+    une journée de randonnée : voici ce qu''il faut [**mettre dans son sac**](https://www.ze-hero.com/fr/ete/conseils/liste-materiel-randonnee)
+    ! '
 published: false
 
 ---
