@@ -24,7 +24,7 @@ page_sections:
 
     Les écoles de canyoning vont vous équiper de la combinaison, du baudrier avec jupe, des mousquetons, du casque et parfois des chaussures spécifiques aux canyonings.
 
-    Le sac à dos ne sera pas forcément porté par toutes les personnes. En étant débutant vous n'aurez pas à le porter. Mais le sac de canyoning doit être résistant à l'abrasion et il est composé de trous pour évacuer l'eau. Il contiendra les bidons étanches, l'alimentation et l'eau et d'autres équipements de sécurité et de soin.
+    Le sac à dos ne sera pas forcément porté par toutes les personnes. En étant débutant vous n'aurez pas à le porter. Mais le sac de canyoning doit être résistant à l'abrasion et il est composé de trous pour évacuer l'eau. Il contiendra les bidons étanches, l'alimentation et l'eau et d'autres équipements de sécurité tel que la corde ainsi qu'une trousse de secours.
   title: S'équiper en canyoning
 - template: 2colimgtxt
   blockBGcolor: blanc
@@ -44,6 +44,17 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: Il existe bien évidemment des chaussures vraiment spécifiques à la pratique
+    du canyoning. Elles vont évacuer l'eau très facilement, vous maintenir les chevilles
+    pour éviter toutes torsions et auront une semelle qui accrochera même sur les
+    pierres glissantes. Mais toutes les écoles de canyoning n'en sont pas forcément
+    équipées. C'est pour cela qu'ils peuvent soit vous demander de venir avec votre
+    propre paire de chaussures de sport avec crampons ou vous prêter des chaussures
+    de sport. Les chaussures de trail sont parfaites pour le canyoning ou de randonnée
+    mais très légères.
+  title: Les chaussures de canyoning
 - template: 2coltxtimg
   blockBGcolor: blanc
   content: |-
@@ -60,19 +71,21 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-- template: textarea
+- template: 2colimgtxt
   blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199356/website/By%20Ze%20Hero%20Activity/IMG_4903.jpg
+  alt_text_for_image: 3 personnes dans les gorges du loup faisant du canyoning
+  captiontitleuppercase: Etre assurer en canyoning
+  title: Le baudrier de canyoning
   content: |-
-    Tout d'abord, il existe des combinaisons spécifiques au canyoning. Elles sont épaisses afin de parer la fraicheur de l'eau des canyons. Elles font environ 5mm d'épaisseur. Il est important d'utiliser une combinaison spécifique au canyoning, elle aura des propriétés particulières, indispensables à la pratique. On retrouvera ainsi des renforts au niveau des fesses, des coudes et des genoux... Utiliser des combinaisons de surf ou de plongée est fortement déconseillé. Elles risqueraient de s'abîmer et de se trouer beaucoup plus facilement.
+    Le baudrier de canyoning est obligatoire et indispensable selon les canyons. Certains canyonings ne demandent pas forcément de matériel spécifique car il n'y aura aucuns rappels, ni tyrolienne mais uniquement de la randonnée aquatique.
 
-    Il faut porter des chaussures qui accrochent. L'idéal est d'utiliser des chaussures spécifiques au canyoning, sinon vous pouvez utiliser des chaussures de trail ou de randonnée (légères), qui seront donc plutôt souples et montantes, pour ne pas se torde les chevilles et avoir une bonne adhérence.
+    Mais pour les autres, vous aurez alors des passages en rappels parfois très haut, des tyroliennes et des passages techniques où il faut être encordé. Il vous faudra alors un baudrier spécialement pour le canyoning. Ils ont la particularité d'avoir une culotte de protection pour les glissades et les toboggans. Il sera facile de les manipuler et vous pourrez facilement mettre dessus longe, bloqueur, mousquetons etc.
 
-    Le port d'un casque en canyoning est obligatoire. C'est l'équipement de sécurité primordial à avoir lors de chaque session. Un casque d'escalade convient parfaitement pour le canyoning. Il protégera des chocs, en cas de collision, de chute de pierres etc.
-
-    Il faudra avoir avec vous un baudrier obligatoirement. Il est similaire à celui de d'escalade mais il contient également une jupe qui protège vos fesses lors des glissades. Il sera ainsi composé d'une longe, d’un huit avec un mousqueton à vis sur le pontet. Le baudrier sera complété par des descendeurs, des mousquetons, des bloqueurs etc. Le "chef" de groupe portera dans son sac une corde semi-statique de canyoning de préférence colorée.
-
-    Le sac à dos ne sera pas forcément porté par toutes les personnes. En étant débutant vous n'aurez pas à le porter. Mais le sac de canyoning doit être résistant à l'abrasion et il est composé de trous pour évacuer l'eau. Il contiendra les bidons étanches, l'alimentation et l'eau et d'autres équipements de sécurité et de soin.
-  title: ''
-published: false
+    Il présente généralement une culotte de protection pour les glissades.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
