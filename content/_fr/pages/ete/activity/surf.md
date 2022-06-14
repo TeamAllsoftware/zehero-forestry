@@ -70,11 +70,11 @@ page_sections:
     ou progresser techniquement, nos partenaires mettent à votre disposition plusieurs
     offres. Vous pourrez débuter dans la discipline, mais également apprendre des
     techniques plus poussées et prendre des vagues plus hautes.  \nVoici nos différents
-    partenaires surf chez Ze Hero :\n\n* [**Sama Sama Surf School **](https://www.ze-hero.com/fr/ete/partenaires/sama-sama-surf-school)qui
-    est basé à Porge et Mimizan met à disposition différents cours collectifs et des
-    cours privé, ainsi que des offres de Surf Thérapie. Une école à l'écoute de vos
-    besoins dans une ambiance conviviale.\n* [**Morgan d'Avezac **](https://www.ze-hero.com/fr/ete/partenaires/morgan-davezac-surf-seignosse)est
-    une moniteur indépendant basé à Seignosse. Un moniteur qui a pratiqué le surf
+    partenaires surf chez Ze Hero :\n\n* [Sama Sama Surf School](https://www.ze-hero.com/fr/ete/partenaires/sama-sama-surf-school)
+    qui est basé à Porge et Mimizan met à disposition différents cours collectifs
+    et des cours privé, ainsi que des offres de Surf Thérapie. Une école à l'écoute
+    de vos besoins dans une ambiance conviviale.\n* [Morgan d'Avezac](https://www.ze-hero.com/fr/ete/partenaires/morgan-davezac-surf-seignosse)
+    est une moniteur indépendant basé à Seignosse. Un moniteur qui a pratiqué le surf
     à haut niveau et qui aujourd'hui vous propose des cours privés sur les plages
     de [**Seignosse**](https://www.ze-hero.com/fr/reserver-cours-ecole-surf-seignosse).
     Profitez de ses conseils avisées et techniques.\n* **Altantic Surf Academy** est
