@@ -41,6 +41,12 @@ page_sections:
     Débuter en hydrospeed, c'est déjà savoir nager et avoir une bonne condition physique. Cette activité est ouverte à tous et ne demande pas de technique spécifique pour s'initier et profiter d'une descente en rivière. Dès 14 ans environ, vous pourrez pratiquer l'hydrospeed. Votre guide vous expliquera comment bien manier le flotteur afin d'être à l'aise dans les rapides et courants. Selon les rivières et le débit, l'hydrospeed est parfois très physique et technique. Les descentes sont d'environ 2h.
 
     * S'équiper en hydrospeed
+
+    Vous aurez besoin de porter un maillot de bain et ensuite la base nautique vous équipera d'une combinaison néoprène, de chausson néoprène, d'un casque, de palme, d'un gilet de sauvetage et du flotteur.
+
+    * Nos spots pour l'hydrospeed
+
+    La pratique de l'hydrospeed demande tout de même d'avoir une quantité suffisante d'eau dans la rivière afin de ne pas percuter et toucher les rochers. En France, il existe de nombreux spots où vous pourrez en pratiquer. Vous pourrez alors en faire dans la Durance, dans la Dranse, l'Aude, l'Allier, l'Isère, le Verdon, l'Ubaye et bien d'autres.
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785318-DSC_1518.jpg
