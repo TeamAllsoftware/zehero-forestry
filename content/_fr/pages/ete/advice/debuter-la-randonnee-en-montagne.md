@@ -48,6 +48,43 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Savoir se repérer
+  content: |-
+    Débuter en randonnée c’est savoir se repérer ou plutôt suivre le bon itinéraire est important. Si vous vous initiez à la randonnée, savoir lire une carte IGN 1/25000 demande une certaine aisance et une bonne expérience de terrain. Aujourd’hui, vous pourrez demander différents topos à l’office du tourisme, directement avec un accompagnateur de moyenne montagne et un guide ainsi que sur internet. Vous pouvez également avoir vos itinéraires sur vos montres GPS ou les applications sur téléphone.
+
+    Mais sur le terrain, vous allez retrouver différentes indications importantes. Cela vous permettra de comprendre où vous êtes, sur quel chemin vous êtes, où vous allez...
+
+    Tout d’abord, vous retrouverez des panneaux d’indications qui vous indiqueront le sens de la direction à prendre pour un lieu donné (refuge, sommet, lac, hameau, ville...) Il y a toujours un nombre inscrit dessus qui est également inscrit sur la carte IGN afin de se repérer. Parfois vous aurez des indictions de temps pour aller jusqu’au lieu indiqué.
+
+    Sur les sentiers vous retrouverez de la peinture. Cette peinture est une petite bande rectangulaire de la couleur jaune, rouge et blanche, rouge et jaune. C’est le balisage qui vous indique sur quels chemins vous marchez. Le balisage jaune indique des sentiers de " Promenade et sentiers ", le rouge et blanc indique les GR, et le rouge et jaune les GR de pays. Vous les verrez tout le long du sentier sur un arbre, des pierres, des poteaux...
+
+    Les cairns (petits tas de cailloux) indiquent également, dans des sentiers parfois techniques, le chemin à suivre.
+
+    Découvrez comment bien choisir son itinéraire dans notre page [**conseil**](https://www.ze-hero.com/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee) !
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654869668/website/summer/PXL_20220523_082022339.jpg
+  alt_text_for_image: Une personne faisant de la randonnée, traversant une rivière
+    sur des pierres
+  captiontitleuppercase: Bien débuter en randonnée, c'est bien s'équiper
+  title: S'équiper en randonnée
+  content: "S'équiper en randonnée est important, bien s'équiper encore plus. En fonction
+    de votre lieu de randonnée, du temps, des passages en altitude et de la météo,
+    il y a donc plusieurs paramètres. Sans même bivouaquer, la randonnée à la journée
+    demande tout de même une petite liste d'équipement important : [**tous les conseils
+    ici !**](https://www.ze-hero.com/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee)
+    \n\n* Sac à dos adapté\n* Chaussures de marche ou de trail\n* Vêtements techniques\n*
+    K-way\n* Casquette, buff, gants, lunettes\n* Trousse de secours \n* Bâtons de
+    marche\n* Téléphone chargé\n\nIl faudra prévoir de l'eau en conséquence et ne
+    pas être négligent sur cela. L'eau des rivières n'est pas toujours bonne à boire
+    surtout si un troupeau est juste au dessus. Il faut également prendre de quoi
+    s'alimenter pour la pause mais également pour garder un maximum d'énergie."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
