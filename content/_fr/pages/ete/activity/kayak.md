@@ -32,6 +32,21 @@ page_sections:
     physique afin de bien gérer les cours d'eau plus rapide et puissant.
   title: Le kayak
   blockBGcolor: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: |-
+    * Débuter en kayak
+
+    Il y a bien sûr plusieurs styles de kayak. Les descentes de rivières et de rapides demandent de la technique en fonction des rapides. Si vous randonnez en mer ou en lac, la navigation en mer sera un peu plus dure avec la houle. Vous allez apprendre tout ce qu'il faut le jour où vous débuterez. Débuter c'est savoir bien se positionner dans le kayak, c'est bien se positionner pour ramer et connaître les règles à respecter en fonction de l'environnement où on se trouve. Une activité que vous pouvez partager en famille, entre amis ou en couple. Vous pourrez être seul ou deux dans le kayak.
+
+    * Bien s'équiper en Kayak
+
+    Pour bien s'équiper en Kayak, cela dépendra du lieu où vous en pratiquez. Il vous faudra un maillot de bain, de la crème solaire et lunettes de soleil ainsi qu'un gilet de sauvetage. Si vous pratiquez le kayak en rivière, vous aurez besoin d'un casque, d'avoir des chaussures aux pieds et parfois un top ou une petite combinaison néoprène. Vous pouvez transporter vos affaires dans des bidons étanches et flottants. Pour finir, il vous faudra bien évidemment la pagaie à votre taille.
+
+    * Nos spots de kayak
+
+    Si vous partez naviguer en mer, vous trouverez de nombreux coins magnifiques. Partez naviguer sur le littoral de la Côte d'Azur vers le cap d'Antibes, des calanques de Marseille, de Saint Jean Cap Ferrat, dans l'Esterel, à Porquerolle et en Corse. En lac vous retrouverez le lac d'Annecy, de Sainte Croix, de Serre Ponçon, du Bourget, Léman et bien d'autres. En rivières vous pourrez avoir des descentes superbes en Ardeche, dans la Dranse, dans l'Isère, du Verdon, de la Roya et du Gard et l'Aveyron.
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195890/website/assets/Recadr%C3%A9es/kayak.png
