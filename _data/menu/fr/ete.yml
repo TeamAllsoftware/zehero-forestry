@@ -119,16 +119,12 @@ menu:
   column-02:
   - nested: Débuter
     menu-items:
-    - title: Comment débuter le trail ?
+    - title: Débuter la randonnée en montagne
+      href: "/fr/ete/conseils/débuter-randonnée-montagne"
+    - title: Débuter le canyoning
+      href: "/fr/ete/conseils/conseils-canyoning"
+    - title: Débuter le trail
       href: "/fr/ete/conseils/comment-debuter-trail"
-    - title: Les itinéraires de trail dans le 06
-      href: "/fr/ete/conseils/itineraires-trail-alpes-maritimes"
-    - title: Le fractionné en Trail
-      href: "/fr/ete/conseils/fractionne-trail"
-    - title: Comment se préparer à un 1er trail ?
-      href: "/fr/ete/conseils/preparation-course-trail"
-    - title: Coaching privé ou collectif
-      href: "/fr/hiver/activite/coaching-sportif"
   - nested: Tous nos conseils outdoor
     menu-items:
     - title: Nos activités outdoor dans les Alpes Maritimes 06
