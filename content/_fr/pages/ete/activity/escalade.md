@@ -40,6 +40,8 @@ page_sections:
     S'équiper en escalade si vous débutez c'est venir avec des vêtements de sport, léger et confortable afin d'avoir un maximum de liberté de mouvement. Il est parfois idéal d'avoir un pantalon ou short long afin de protéger les genoux des frottements. Ensuite, vous serez équipé d'un casque (obligatoire en extérieur) et d'un baudrier. Vous serez chaussé de chausson d'escalade afin d'adhérer parfaitement sur les prises et de ne pas glisser. Ensuite, il faudra donc une corde d'escalade afin d'être assuré. Sur le baudrier il faudra des mousquetons ainsi qu'un descendeur (grigri) ou système de frein. Il faudra également des dégaines qui permettent de grimper en tête et d'être assuré. Pour finir, vous pourrez avoir besoin de magnésie afin d'avoir les mains qui accrochent au mieux les prises (c'est une poudre blanche).
 
     * Nos spots d'escalade
+
+    Entre les salles d’escalade et les spots en extérieur, il existe un choix incroyable de lieu où grimper. En extérieur, il est important de regarder les topos d’un spot afin de vérifier les cotations et savoir si le lieu est aux normes et sécurisé. Dans le Sud de la France on retrouve énormément de spots tel qu’à Saint Jeannet, le Broc, Bonson, les gorges du Loup, la Turbie mais aussi les calanques, la Sainte Victoire. Orcières est également un spot très reconnu. En Savoie et Haute Savoie, vous trouverez de nombreux spots près de Chamonix, d’Annecy. L’Isère et ses nombreux massifs qui entourent Grenoble, offrent énormément de voies. En Ardèche, Drome, Aveyron vous pourrez également trouver de superbes voies d’escalade pour débuter.
 - template: imgWide
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833489/website/assets/Canyoning.png
