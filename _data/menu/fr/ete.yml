@@ -37,7 +37,6 @@ menu:
       href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
     - title: Kayak
       href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Kayak&start-date=
-
 - title: Activites
   id: "1"
   title-link: "/fr/ete/activites"
@@ -87,7 +86,23 @@ menu:
   image-link: "/fr/ete/conseils"
   txt-button: Tous les conseils
   column-01:
-  - nested: Matériel
+  - nested: Nos itinéraires / Spots
+    menu-items:
+    - title: Les spots de canyoning autour d'Annecy
+      href: "/fr/ete/activites/canyoning-annecy"
+    - title: Nos spots de canyoning dans les Alpes Maritimes
+      href: "/fr/meilleurs-spots-canyoning-alpes-maritimes"
+    - title: La traversée des Préalpes à vélo
+      href: "/fr/ete/activites/traversee-des-pre-alpes-en-velo"
+    - title: La traversée des Alpes à vélo
+      href: "/fr/ete/activites/traversee-des-alpes-en-velo"
+    - title: Courir dans les Préalpes d'Azur
+      href: "/fr/trail-running-alpes-maritimes-prealpes-azur"
+    - title: Séjours 6 jours à vélo à Méribel
+      href: "/fr/ete/activites/velo-de-route-sejour-6-jours-meribel"
+    - title: Les itinéraires de trail dans les Alpes Maritimes
+      href: "/fr/ete/conseils/itineraires-trail-alpes-maritimes"
+  - nested: S'équiper
     menu-items:
     - title: Comment bien préparer sa sortie de randonnée à la journée ?
       href: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
@@ -100,23 +115,7 @@ menu:
     - title: Comment choisir ses chaussures de trail ?
       href: "/fr/ete/conseils/chaussures-trail"
   column-02:
-  - nested: Outdoor
-    menu-items:
-    - title: Les différents conseils pour le canyoning
-      href: "/fr/ete/conseils/conseils-canyoning"
-    - title: Nos activités outdoor dans les Alpes Maritimes 06
-      href: "/fr/ete/conseils/nos-activites-outdoor-alpes-maritimes"
-    - title: Nos activités outdoor en Savoie 73
-      href: "/fr/ete/conseils/nos-activites-outdoor-savoie"
-    - title: Pourquoi vous devriez sortir en montagne, en forêt ou autre
-      href: "/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret"
-    - title: Quelles activités faire en montagne durant l'été
-      href: "/fr/ete/conseils/activites-montagne-ete"
-    - title: Séjours et activités en vélo de route
-      href: "/fr/ete/conseils/sejours-activites-velo-de-route"
-    - title: Comment bien préparer sa sortie de randonnée à la journée
-      href: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
-  - nested: Préparation
+  - nested: Débuter
     menu-items:
     - title: Comment débuter le trail ?
       href: "/fr/ete/conseils/comment-debuter-trail"
@@ -128,6 +127,18 @@ menu:
       href: "/fr/ete/conseils/preparation-course-trail"
     - title: Coaching privé ou collectif
       href: "/fr/hiver/activite/coaching-sportif"
+  - nested: Tous nos conseils outdoor
+    menu-items:
+    - title: Nos activités outdoor dans les Alpes Maritimes 06
+      href: "/fr/ete/conseils/nos-activites-outdoor-alpes-maritimes"
+    - title: Nos activités outdoor en Savoie 73
+      href: "/fr/ete/conseils/nos-activites-outdoor-savoie"
+    - title: Pourquoi vous devriez sortir en montagne, en forêt ou autre
+      href: "/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret"
+    - title: Quelles activités faire en montagne durant l'été
+      href: "/fr/ete/conseils/activites-montagne-ete"
+    - title: Séjours et activités en vélo de route
+      href: "/fr/ete/conseils/sejours-activites-velo-de-route"
 - title: Destinations
   id: "3"
   title-link: "/fr/ete/destinations"
