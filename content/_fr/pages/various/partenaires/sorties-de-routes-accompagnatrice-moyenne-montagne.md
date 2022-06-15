@@ -18,7 +18,7 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 s01:
-  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655284966/website/Partenaires/Sorties%20de%20route/286502662_8335452263146851_1308704725079728760_n.jpg
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655284962/website/Partenaires/Sorties%20de%20route/279043468_8147647781927301_8040385853317953313_n.jpg
   firstname: Sorties de
   lastname: Routes
   coachbaseline: 'Bien-être et évasion au naturel         '
@@ -86,16 +86,16 @@ s05:
       que " Sorties de routes " vous proposera.
 s06:
   achieve01:
-    title: ''
-    content: ''
+    title: Diplome
+    content: Diplôme d’Etat d’alpinisme d’accompagnateur moyenne montagne
   achieve02:
-    title: ''
-    content: ''
+    title: Mais aussi
+    content: Qualification Handisport et accélératrice de bien-être
   achieve03:
-    title: ''
-    content: ''
+    title: Lieux
+    content: Vosges, Ecrins, Auvergne
   achieve04:
-    title: ''
-    content: ''
+    title: Quand
+    content: 4 saisons
 
 ---
