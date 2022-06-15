@@ -153,14 +153,14 @@ menu:
   column-01:
   - nested: Les destinations
     menu-items:
+    - title: Le Bar sur Loup
+      href: "/fr/ete/destinations/le-bar-sur-loup"
+    - title: Les Houches
+      href: "/fr/ete/destinations/les-houches"
     - title: Chamonix
       href: "/fr/ete/destinations/chamonix"
-    - title: Aix les Bain - Le Revard
+    - title: Aix les Bains - Le Revard
       href: fr/ete/destinations/aix-les-bains-le-revard
-    - title: Val d'Isère
-      href: "/fr/ete/destinations/val-d-isere"
-    - title: Alpe d'Huez
-      href: "/fr/ete/destinations/alpe-huez"
     - title: Les Menuires
       href: "/fr/ete/destinations/les-menuires"
     - title: Méribel
