@@ -91,6 +91,5 @@ page_sections:
   content: 'Afin d''avoir toutes les informations pour l''équipement à avoir pour
     une journée de randonnée : voici ce qu''il faut [**mettre dans son sac**](https://www.ze-hero.com/fr/ete/conseils/liste-materiel-randonnee)
     ! '
-published: false
 
 ---
