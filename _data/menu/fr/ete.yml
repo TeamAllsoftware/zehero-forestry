@@ -127,6 +127,12 @@ menu:
       href: "/fr/ete/conseils/comment-debuter-trail"
   - nested: Tous nos conseils outdoor
     menu-items:
+    - title: Coaching privé ou collectif ?
+      href: "/fr/ete/conseils/coaching-prive-collectif"
+    - title: Le fractionné en trail
+      href: "/fr/ete/conseils/fractionne-trail"
+    - title: Se préparer pour un trail
+      href: "/fr/ete/conseils/preparation-course-trail"
     - title: Nos activités outdoor dans les Alpes Maritimes 06
       href: "/fr/ete/conseils/nos-activites-outdoor-alpes-maritimes"
     - title: Nos activités outdoor en Savoie 73
