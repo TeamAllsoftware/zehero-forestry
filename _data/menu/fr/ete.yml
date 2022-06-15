@@ -104,16 +104,18 @@ menu:
       href: "/fr/ete/conseils/itineraires-trail-alpes-maritimes"
   - nested: S'équiper
     menu-items:
-    - title: Comment bien préparer sa sortie de randonnée à la journée ?
+    - title: S'équiper en randonnée
       href: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
-    - title: Location Matériel Canyoning 06
-      href: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
-    - title: Que mettre dans son sac de randonnée pour une journée ?
-      href: "/fr/ete/conseils/liste-materiel-randonnee"
-    - title: Comment bien s'équiper en trail ?
+    - title: S'équiper en canyoning
+      href: "/fr/ete/conseils/equipement-canyoning"
+    - title: S'équiper en trail
       href: "/fr/ete/conseils/equipement-trail"
     - title: Comment choisir ses chaussures de trail ?
       href: "/fr/ete/conseils/chaussures-trail"
+    - title: Que mettre dans son sac de randonnée pour une journée ?
+      href: "/fr/ete/conseils/liste-materiel-randonnee"
+    - title: Location Matériel Canyoning 06
+      href: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
   column-02:
   - nested: Débuter
     menu-items:
