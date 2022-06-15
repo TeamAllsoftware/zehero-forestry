@@ -87,6 +87,13 @@ page_sections:
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
+  content: Il faudra prévoir de l'eau en conséquence et ne pas être négligent sur
+    cela. L'eau des rivières n'est pas toujours bonne à boire surtout si un troupeau
+    est juste au dessus. Il faut également prendre de quoi s'alimenter pour la pause
+    mais également pour garder un maximum d'énergie.
+  title: ''
+- template: textarea
+  blockBGcolor: blanc
   title: Ce qu'il faut dans son sac
   content: 'Afin d''avoir toutes les informations pour l''équipement à avoir pour
     une journée de randonnée : voici ce qu''il faut [**mettre dans son sac**](https://www.ze-hero.com/fr/ete/conseils/liste-materiel-randonnee)
