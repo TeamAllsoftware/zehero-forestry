@@ -32,67 +32,38 @@ page_sections:
     physique afin de bien gérer les cours d'eau plus rapide et puissant.
   title: Le kayak
   blockBGcolor: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: |-
+    * Débuter en kayak
+
+    Il y a bien sûr plusieurs styles de kayak. Les descentes de rivières et de rapides demandent de la technique en fonction des rapides. Si vous randonnez en mer ou en lac, la navigation en mer sera un peu plus dure avec la houle. Vous allez apprendre tout ce qu'il faut le jour où vous débuterez. Débuter c'est savoir bien se positionner dans le kayak, c'est bien se positionner pour ramer et connaître les règles à respecter en fonction de l'environnement où on se trouve. Une activité que vous pouvez partager en famille, entre amis ou en couple. Vous pourrez être seul ou deux dans le kayak.
+
+    * Bien s'équiper en Kayak
+
+    Pour bien s'équiper en Kayak, cela dépendra du lieu où vous en pratiquez. Il vous faudra un maillot de bain, de la crème solaire et lunettes de soleil ainsi qu'un gilet de sauvetage. Si vous pratiquez le kayak en rivière, vous aurez besoin d'un casque, d'avoir des chaussures aux pieds et parfois un top ou une petite combinaison néoprène. Vous pouvez transporter vos affaires dans des bidons étanches et flottants. Pour finir, il vous faudra bien évidemment la pagaie à votre taille.
+
+    * Nos spots de kayak
+
+    Si vous partez naviguer en mer, vous trouverez de nombreux coins magnifiques. Partez naviguer sur le littoral de la Côte d'Azur vers le cap d'Antibes, des calanques de Marseille, de Saint Jean Cap Ferrat, dans l'Esterel, à Porquerolle et en Corse. En lac vous retrouverez le lac d'Annecy, de Sainte Croix, de Serre Ponçon, du Bourget, Léman et bien d'autres. En rivières vous pourrez avoir des descentes superbes en Ardeche, dans la Dranse, dans l'Isère, du Verdon, de la Roya et du Gard et l'Aveyron.
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195890/website/assets/Recadr%C3%A9es/kayak.png
   alt_text_for_image: Kayak ZE HERO au bord de l'eau
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
-  captiontitleuppercase: Plusieurs styles de Kayak
-  title: Kayak de lac, mer et rivière
-  content: Le kayak peut se pratique dans plusieurs lieux. Vous allez pouvoir faire
-    du kayak sur lac et vous pourrez alors profitez de randonner et de découvrir le
-    lac d'une autre façon. Les lacs peuvent également se trouver entourés de montagnes
-    ce qui rend la balade encore plus belle. Vous allez également avoir le Kayak sur
-    mer. La randonnée sur mer en kayak vous permettra de longer les littoraux, de
-    découvrir des petites criques, des plages secrète, de naviguer en mer et de profiter
-    de plonger et de regarder les poissons. Pour finir, vous retrouver le kayak de
-    rivière qui permet de faire des randonnée mais également d'avoir des zones plus
-    techniques et physiques avec les rapides, les petites cascades.
-  alt_text_for_image: Vue d'en haut des gorges du lac de St croix avec beaucoup de
-    kayaks qui naviguent
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: gris
-- template: parlaxgridtxtimg
-  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883631/website/summer/Kayak-groupe-lac_l1awzz.jpg
-  captionabovetitle: Une randonnée rafraichissante
-  title: S'évader autrement
-  gridline1title: Le kayak à plusieurs
-  gridline1content: Partez naviguer en kayak en famille, entre amis, en couple et
-    randonnez afin de découvrir les paysages. Vous pouvez soit louer votre kayak soit
-    prendre un accompagnateur qui vous fera des découvrir des lieux uniques.
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588329/website/summer/drew-dau-zMSkCFHSXTU-unsplash_tbki8m.jpg
-  gridline2title: Eau et Terre
-  gridline2content: En plus de randonner sur des zones magnifiques accessibles uniquement
-    en kayak, vous pourrez également accéder à des lieux sur terres et partir randonnée
-    à pied et profiter de pique-niquer avant de reprendre votre navigation.
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588327/website/summer/art-rachen-aKqJCZSP4t4-unsplash_b1obn5.jpg
-  prlax_alt_text_for_image: Vue d'en haut de deux personnes faisant du kayak dans
-    un lac
-  grid_1_alt_text_for_image: Vue d'en haut des plusieurs kayaks prêt pour la location
-    de kayak
-  grid_2_alt_text_for_image: Vue d'une personne dans un kayak naviguant sur la mer
-    avec les collines à cotés
-- template: 2coltxtimg
   blockBGcolor: blanc
-  title: 'Les différents lieux '
-  content: "En France, il existe énormément de lieux où pratiquer le kayak. Vous allez
-    retrouver donc beaucoup de location et de randonnée sur mer avec des lieux parfaits
-    pour randonner à la journée tel que les Calanques, le Cap [d'Antibes ](https://www.ze-hero.com/fr/ete/destinations/antibes)et
-    l'Esterel, Porquerolles et la Corse.  \nEnsuite on va retrouver le kayak sur lac
-    avec l'incontournable lac de St Croix, le lac d'Annecy, le Lac de St Cassien,
-    le lac de Serre Ponçon.  \nPour finir, vous pourrez partir sur des les rivières
-    et faire du kayak dans les gorges de l'Ardeche, les gorges du Tarn, les gorges
-    du Verdon ainsi que dans la Roya Vésubie."
-  captiontitleuppercase: LIEUX
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648198217/website/assets/Personnages%20poses/Kayak.png
-  alt_text_for_image: Personnage ZE HERO en tenue de Kayak avec une pagaie à la main
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545630/website/summer/taylor-simpson-ROXggehIu7M-unsplash.jpg
+  alt_text_for_image: Personne faisant du Kayak du mer
+  captiontitleuppercase: Trouvez votre activité de Kayak
+  title: Les partenaires Ze Hero de Kayak
+  content: |-
+    Chez Ze Hero découvrez le Kayak en Haute Savoie dans la rivière de la Dranse. Entre Thonon les Bains et Avoriaz, vous trouverez la base nautique 7 Aventures. Embarquer alors en canoë-kayak sur les rapides de la Dranse pour une expérience unique entre sensation, découverte et plaisir. Avec 7 Aventures, vous découvrirez le Airboat gonflable, une expérience à faire seul dans les rapides. Vous pourrez également partir à deux sur des kayaks gonflables.
+
+    Que vous soyez débutant, amateur ou même confirmé dans l'activité Kayak, vous pourrez profiter pleinement d'un moment sensationnel dans un cadre magnifique.
   button:
-    text_button: ''
-    href_button: ''
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Kayak&start-date=
+    text_button: Réservez votre activité Kayak
     alt_button: ''
 - template: newsletter
   title: Recevez nos dernières informations

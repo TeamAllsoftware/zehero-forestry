@@ -7,7 +7,7 @@ meta-description: Découvrez nos différents conseils pour bien débuter dans le
   Le canyoning est une activité outdoor qui demande un certain niveau technique et
   physique ainsi que plusieurs commandements pour s'engager en sécurité.
 topnav_color_text: light
-title: Les différents conseils pour le canyoning
+title: Débuter dans le canyoning
 level: 2
 enHome: 2
 permalink: "/fr/ete/conseils/conseils-canyoning"
@@ -41,28 +41,6 @@ page_sections:
     De plus, il saura également mettre en place les différentes descentes en rappels, tyroliennes et les autres aspects techniques du canyoning. Ceci est la 1ère règle très importante afin d'avoir le maximum de sécurité pour vous et pour les autres si vous êtes en groupe.
 
     Réservez alors un cours avec un guide, qui vous fera découvrir les joies de cette discipline. Il pourra également vous apprendre quelques notions clés essentielles à la pratique. Il pourra également vous indiquer les différents canyons faciles d'accès, pouvant parfois être suivi en randonnée aquatique.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: ''
-- template: 2coltxtimg
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/IMG_4219_yu6r5e.jpg
-  alt_text_for_image: Deux enfants qui sont équipés pour faire du canyoning.
-  captiontitleuppercase: L'équipement pour pratiquer le canyoning
-  title: L'équipement
-  content: |-
-    Le canyoning demande un équipement bien spécifique à sa pratique et il est important de bien respecter le matériel.
-
-    Tout d'abord, il existe des combinaisons spécifiques au canyoning. Elles sont épaisses afin de parer la fraicheur de l'eau des canyons. Elles font environ 5mm d'épaisseur. Il est important d'utiliser une combinaison spécifique au canyoning, elle aura des propriétés particulières, indispensables à la pratique. On retrouvera ainsi des renforts au niveau des fesses, des coudes et des genoux... Utiliser des combinaisons de surf ou de plongée est fortement déconseillé. Elles risqueraient de s'abîmer et de se trouer beaucoup plus facilement.
-
-    Il faut porter des chaussures qui accrochent. L'idéal est d'utiliser des chaussures spécifiques au canyoning, sinon vous pouvez utiliser des chaussures de trail ou de randonnée (légères), qui seront donc plutôt souples et montantes, pour ne pas se torde les chevilles et avoir une bonne adhérence.
-
-    Le port d'un casque en canyoning est obligatoire. C'est l'équipement de sécurité primordial à avoir lors de chaque session. Un casque d'escalade convient parfaitement pour le canyoning. Il protégera des chocs, en cas de collision, de chute de pierres etc.
-
-    Il faudra avoir avec vous un baudrier obligatoirement. Il est similaire à celui de d'escalade mais il contient également une jupe qui protège vos fesses lors des glissades. Il sera ainsi composé d'une longe, d’un huit avec un mousqueton à vis sur le pontet. Le baudrier sera complété par des descendeurs, des mousquetons, des bloqueurs etc. Le "chef" de groupe portera dans son sac une corde semi-statique de canyoning de préférence colorée.
-
-    Le sac à dos ne sera pas forcément porté par toutes les personnes. En étant débutant vous n'aurez pas à le porter. Mais le sac de canyoning doit être résistant à l'abrasion et il est composé de trous pour évacuer l'eau. Il contiendra les bidons étanches, l'alimentation et l'eau et d'autres équipements de sécurité et de soin.
   button:
     text_button: ''
     href_button: ''
@@ -109,6 +87,22 @@ page_sections:
     les personnes s'engagent dans un passage.\n\nPour finir, prenez le temps de faire
     une petite pause. Il est très important de s'hydrater ainsi que de s'alimenter
     afin de rester lucide et d'avoir des muscles hydratés pour ne pas avoir des crampes."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+  blockBGcolor: ''
+- template: 2coltxtimg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029604/website/Canyoning%2006/GPTempDownload2.jpg
+  alt_text_for_image: Personne descendant avec une corde en canyoning
+  captiontitleuppercase: L'équipement pour pratiquer le canyoning
+  title: L'équipement
+  content: "Le canyoning demande et nécessite un équipement très spécifique. Il variera
+    également en fonction du guide et des personnes du personne du groupe.  Il est
+    important de bien respecter le matériel.  \nVous devrez alors être équipé :\n\n*
+    combinaison spécifique canyoning\n* casque\n* baudrier\n* chaussures de sport
+    avec crampons\n\nVous trouverez toutes les informations dans notre page : [**S'équiper
+    en canyoning**](/fr/ete/conseils/equipement-canyoning)"
   button:
     text_button: ''
     href_button: ''
