@@ -46,6 +46,20 @@ page_sections:
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833489/website/assets/Canyoning.png
   alt_text_for_image: Matériel d'escalade
-published: false
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278424/website/escalade/jonathan-j-castellon-FHNgTEuxyJA-unsplash.jpg
+  alt_text_for_image: Une personne faisant de l'escalade sur une falaise
+  title: Nos partenaires Ze Hero d'escalade
+  captiontitleuppercase: Trouvez votre activité l'escalade
+  content: Chez Ze Hero, découvrez aujourd'hui l'escalade aux Houches en Haute Savoie
+    dans la salle Mont Blanc Escalade. Vous pourrez alors vous initier à l'escalade
+    avec les différents moniteurs et guides en salle avant de vous laisser tenter
+    par l'escalade en nature. Que vous soyez débutant ou expert, vous trouverez la
+    voie qui vous convient en grimpant au cœur du Massif du Mont Blanc.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
