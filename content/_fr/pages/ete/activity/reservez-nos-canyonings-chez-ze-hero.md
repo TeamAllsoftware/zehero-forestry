@@ -110,5 +110,27 @@ page_sections:
   - 2h
   - 50€
   title: Plus d'informations
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  captiontitleuppercase: Niveau intermédiaire - Ambiance canyoning
+  title: Canyoning de Planfae
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029604/website/Canyoning%2006/GPTempDownload2.jpg
+  alt_text_for_image: Canyoning de Planfae
+  content: |-
+    Le Canyoning de Planfae est un canyon idéal en famille, pour s'initier dans une vraie ambiance canyoning. Découvrez ses gorges encaissées, une eau très claire, des toboggans ainsi que des petits rappels. Le rappel le plus long est de 10m. Vous aurez également des sauts.
+
+    Dès 10ans vous pourrez profiter de ce maximum canyoning pour une initiation avec tous les ingrédients pour un superbe canyon.
+  button:
+    text_button: Réservez maintenant
+    href_button: https://www.ze-hero.com/fr/contact
+    alt_button: ''
+- template: liststyle01
+  title: Plus d'informations
+  item:
+  - 'Lieu : lieu dit le Suquet'
+  - Parfait pour s'initier au canyoning
+  - 8 personnes max
+  - 2h30
+  - 60€
 
 ---
