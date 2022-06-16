@@ -86,5 +86,29 @@ page_sections:
   - 2h + 40mn de marche aller et 30mn marche retour
   - 10 personnes max
   - 50€
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199369/website/By%20Ze%20Hero%20Activity/IMG_4072.jpg
+  alt_text_for_image: Canyoning Audin
+  captiontitleuppercase: Initiation et spécial enfants
+  title: Canyoning ruisseau Audin
+  content: "Canyoning idéal pour débuter et il est possible dès l'âge de 6ans. Une
+    vrai ambiance canyoning avec des belles vasques et des toboggans. La marche d'approche
+    est simple dans un beau sentier pour une durée de 45mn. Le retour à pied est de
+    10mn.   \nLe canyoning ne présente pas de rappels, il sera alors parfait pour
+    profiter d'un moment en famille d'un cadre magnifique et à seulement 1h de Nice."
+  button:
+    href_button: https://www.ze-hero.com/fr/contact
+    text_button: Réservez maintenant
+    alt_button: ''
+- template: liststyle01
+  item:
+  - 'Lieu : Fanghetto '
+  - Toboggans / Sauts / Spécial enfants
+  - Facile
+  - 8 personnes max
+  - 2h
+  - 50€
+  title: Plus d'informations
 
 ---
