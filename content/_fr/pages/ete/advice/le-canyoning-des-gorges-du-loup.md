@@ -33,6 +33,5 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655389635/website/Canyoning%2006/IMG_20201017_120229.jpg
   atl_text_image_04: Cascades de Courmes
   title: ''
-published: false
 
 ---
