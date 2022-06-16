@@ -88,5 +88,30 @@ page_sections:
     text_button: Plus d'information ici !
     href_button: ''
     alt_button: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199359/website/By%20Ze%20Hero%20Activity/IMG_5305.jpg
+  alt_text_for_image: Canyoning Clue de la Cerise
+  captiontitleuppercase: Spécial famille et enfant
+  title: Canyoning clue de la Cerise
+  content: Le canyoning clue de la Cerise se situe dans le village de Gilette, tout
+    près de Nice. C'est un canyoning magnifique dans une ambiance féérique qui sera
+    idéale pour les familles. Ce canyoning est une vrai randonnée aquatique que vous
+    pourrez réaliser avec vos enfants.
+  button:
+    text_button: 'Plus d''information ici :'
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  title: 'Canyoning de Cramassouri '
+  captiontitleuppercase: Niveau Intermédiaire
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029604/website/Canyoning%2006/GPTempDownload2.jpg
+  alt_text_for_image: Canyoning de Cramassouri
+  content: 'le canyoning de Cramassouri est un canyoning complet '
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
