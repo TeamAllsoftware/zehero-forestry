@@ -39,7 +39,7 @@ page_sections:
   title: Le canyoning des Gorges du Loup
   captiontitleuppercase: Randonnée aquatique
   button:
-    text_button: Réserver votre canyoning
+    text_button: Réservez votre canyoning
     href_button: https://www.ze-hero.com/fr/contact
     alt_button: ''
   content: Le Canyoning des gorges du loup est surtout une magnifique randonnée aquatique
@@ -75,8 +75,8 @@ page_sections:
   captiontitleuppercase: Initiation Adulte
   title: Le canyoning du Haut Jabron
   button:
-    text_button: ''
-    href_button: ''
+    text_button: Réservez votre activité
+    href_button: https://www.ze-hero.com/fr/contact
     alt_button: ''
 - template: liststyle01
   title: Plus d'information
