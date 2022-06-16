@@ -49,5 +49,25 @@ page_sections:
   image_bg_href: https://res.cloudinary.com/deddrj0yb/video/upload/v1655359542/website/Canyoning%2006/GX011241_ALTA1642458316780515.mp4
   alt_text_for_image: f
   title: f
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655359805/website/Canyoning%2006/Screenshot_3.jpg
+  alt_text_for_image: Canyoning des Gorges du Loup
+  title: Le canyoning des Gorges du Loup
+  captiontitleuppercase: Randonnée aquatique
+  button:
+    text_button: Réserver votre canyoning
+    href_button: https://www.ze-hero.com/fr/contact
+    alt_button: ''
+  content: Le Canyoning des gorges du loup est surtout une magnifique randonnée aquatique
+    dans le Loup. C'est le canyon le plus proche de Nice et qui est surtout ouvert
+    à tous. Il ne demande d'exigence ni de difficulté particulière. Vous parcourrez
+    alors le Loup par de la marche aquatique, des sauts, des toboggans et de la nage.
+    En fonction des envies, vous trouverez différentes hauteurs de saut allant jusqu'à
+    environ 8m. Chacun pourra alors découvrir les joies de cette discipline. Profitez
+    également de découvrir ce décor incroyable et de la fraîcheur de l'eau. Les groupes
+    sont limités à 8 et ce canyon est idéal pour les familles et les enfants de 8
+    ans peuvent le pratiquer. L'horaire vous sera confirmé, une fois la réservation
+    confirmée, par le moniteur
 
 ---
