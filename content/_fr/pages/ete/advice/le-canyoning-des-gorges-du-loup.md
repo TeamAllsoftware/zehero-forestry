@@ -59,5 +59,11 @@ page_sections:
   - 'Lieu : Pont du Loup'
   - 'Temps globale : 2h à 2h30'
   - 'Prix : 50€'
+- template: cta
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://www.ze-hero.com/fr/contact
+  intro: Profitez d'un moment de sensation forte dans les
+  headline: Gorges du Loup
 
 ---
