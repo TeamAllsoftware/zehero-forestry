@@ -108,9 +108,12 @@ page_sections:
   captiontitleuppercase: Niveau Intermédiaire
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029604/website/Canyoning%2006/GPTempDownload2.jpg
   alt_text_for_image: Canyoning de Cramassouri
-  content: 'le canyoning de Cramassouri est un canyoning complet '
+  content: le canyoning de Cramassouri est un canyoning complet pour s'initier au
+    canyoning avec tous les ingrédients pour une superbe descente. Peu difficile,
+    vous partirez sur une durée de 4h, marche comprise. Tout près de Nice, dans la
+    vallée de Tinée, découvrez ce canyon idéal pour s'initier
   button:
-    text_button: ''
+    text_button: Plus d'information ici
     href_button: ''
     alt_button: ''
 
