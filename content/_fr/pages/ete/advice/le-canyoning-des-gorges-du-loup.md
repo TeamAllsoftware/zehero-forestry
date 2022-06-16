@@ -35,7 +35,7 @@ page_sections:
   title: ''
 - template: textarea
   blockBGcolor: blanc
-  title: 'Le canyoning des Gorges du Loup : pour tous et ludique'
+  title: 'Le canyoning des Gorges du Loup : ludique et pour tous'
   content: "Le canyoning des gorges du loup est un canyoning ouvert à tous et très
     ludique. Vous évoluerez dans une ambiance magnifique avec un parcours très joueur
     avec de belles vasques d'eau.  \nLe canyoning des Gorges du Loup est parfait pour
