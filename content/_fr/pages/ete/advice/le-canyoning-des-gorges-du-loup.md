@@ -24,10 +24,10 @@ page_sections:
 
     Découvrons les spécificités de ce canyoning :
 - template: imagegallery02
-  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655359805/website/Canyoning%2006/Screenshot_3.jpg
-  atl_text_image_01: Canyoning des gorges du Loup
-  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655365196/website/Canyoning%2006/Screenshot_5.jpg
-  atl_text_image_02: Saut dans le canyon des gorges du loup
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655365196/website/Canyoning%2006/Screenshot_5.jpg
+  atl_text_image_01: Saut dans le canyon des gorges du loup
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655359805/website/Canyoning%2006/Screenshot_3.jpg
+  atl_text_image_02: 'Canyoning des gorges du Loup, '
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655387129/website/By%20Ze%20Hero%20Activity/IMG_4903.jpg
   atl_text_image_03: Enfants dans le canyon des gorges du Loup
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655389635/website/Canyoning%2006/IMG_20201017_120229.jpg
