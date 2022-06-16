@@ -52,5 +52,13 @@ page_sections:
     sont limités à 8 et ce canyon est idéal pour les familles et les enfants de 8
     ans peuvent le pratiquer. L'horaire vous sera confirmé, une fois la réservation
     confirmée, par le moniteur
+- template: liststyle01
+  title: Plus d'information
+  item:
+  - Saut / Ambiance / Gorges magnifiques / Pour tous
+  - Facile
+  - 2h
+  - 8 personnes max
+  - 50€
 
 ---
