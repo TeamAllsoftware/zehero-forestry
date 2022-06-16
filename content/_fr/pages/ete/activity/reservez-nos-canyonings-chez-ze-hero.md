@@ -34,7 +34,7 @@ page_sections:
     Maritimes :"
 - template: 2colimgtxt
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655359805/website/Canyoning%2006/Screenshot_3.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655365196/website/Canyoning%2006/Screenshot_5.jpg
   alt_text_for_image: Canyoning des Gorges du Loup
   title: Le canyoning des Gorges du Loup
   captiontitleuppercase: Randonnée aquatique
