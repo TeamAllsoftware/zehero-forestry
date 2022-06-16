@@ -59,7 +59,7 @@ page_sections:
     et avec possibilité de deux rappels au départ. Environ 2h de descente pour adultes
     et enfants.
   button:
-    text_button: ''
+    text_button: Plus d'information
     href_button: ''
     alt_button: ''
 - template: 2colimgtxt
@@ -73,11 +73,11 @@ page_sections:
     1h de Nice.
   button:
     href_button: ''
-    text_button: Plus d'information ici !
+    text_button: Plus d'information ici
     alt_button: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029604/website/Canyoning%2006/GPTempDownload2.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655387129/website/By%20Ze%20Hero%20Activity/IMG_4903.jpg
   alt_text_for_image: Canyoning de Planfae
   captiontitleuppercase: Niveau intermédiaire - Ambiance canyoning
   title: Canyoning de Planfae
@@ -99,7 +99,7 @@ page_sections:
     idéale pour les familles. Ce canyoning est une vrai randonnée aquatique que vous
     pourrez réaliser avec vos enfants.
   button:
-    text_button: 'Plus d''information ici :'
+    text_button: Plus d'information ici
     href_button: ''
     alt_button: ''
 - template: 2colimgtxt
@@ -111,7 +111,7 @@ page_sections:
   content: le canyoning de Cramassouri est un canyoning complet pour s'initier au
     canyoning avec tous les ingrédients pour une superbe descente. Peu difficile,
     vous partirez sur une durée de 4h, marche comprise. Tout près de Nice, dans la
-    vallée de Tinée, découvrez ce canyon idéal pour s'initier
+    vallée de Tinée, découvrez ce canyon idéal pour s'initier.
   button:
     text_button: Plus d'information ici
     href_button: ''
