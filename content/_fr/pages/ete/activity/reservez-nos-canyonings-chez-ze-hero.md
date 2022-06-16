@@ -40,7 +40,7 @@ page_sections:
   captiontitleuppercase: Canyoning des gorges du Loup
   button:
     text_button: Plus d'information ici !
-    href_button: ''
+    href_button: "/fr/ete/conseil/canyoning-gorges-du-loup"
     alt_button: ''
   content: Le Canyoning des gorges du loup est le plus proche de Nice et qui est surtout
     ouvert à tous. Il ne présente pas de difficulté particulière. Vous parcourrez
