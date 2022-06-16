@@ -49,6 +49,19 @@ page_sections:
     et enfants.
 - template: 2colimgtxt
   blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
+  alt_text_for_image: Canyoning Gours du Ray
+  captiontitleuppercase: Niveau Intermédiaire
+  title: Le Gours du Ray
+  content: Le Canyon du Gours du Ray se trouve dans les gorges du Loup. Très sauvage,
+    il ne présente pas de grande technicité et permet de s'initier au canyoning. On
+    y retrouve un parcours très complet et fun. Pour tous !
+  button:
+    text_button: Plus d'information ici
+    href_button: ''
+    alt_button: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655201007/website/By%20Ze%20Hero%20Activity/IMG_4222.jpg
   alt_text_for_image: Canyoning Haut Jabron
   captiontitleuppercase: Initiation Adulte
