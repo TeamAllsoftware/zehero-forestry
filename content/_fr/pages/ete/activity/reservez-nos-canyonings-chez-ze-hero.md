@@ -55,10 +55,36 @@ page_sections:
 - template: liststyle01
   title: Plus d'information
   item:
+  - 'Lieux : Gorges du Loup ( Pont du Loup )'
   - Saut / Ambiance / Gorges magnifiques / Pour tous
   - Facile
   - 2h
   - 8 personnes max
+  - 50€
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  content: Le canyoning du Haut Jabron est idéal pour s'initier et découvrir la pratique
+    du canyoning dans les Hautes Alpes près de Castellane. Un canyoning très ludique
+    et ouvert à tous dans un lieu magnifique. Vous débuterez par un incroyable tunnel
+    toboggan, vous découvrirez de nombreux obstacles qui ne sont pas tous obligatoires.
+    Vous découvrirez un canyon très souterrain pour tous et toutes les envies. Il
+    y a environ 40mn de marche pour y aller et 30mn de marche retour. L'horaire exact
+    sera défini avec le moniteur une fois la réservation effectuée.
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655201007/website/By%20Ze%20Hero%20Activity/IMG_4222.jpg
+  alt_text_for_image: Canyoning Haut Jabron
+  captiontitleuppercase: Initiation Adulte
+  title: Le canyoning du Haut Jabron
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: liststyle01
+  title: Plus d'information
+  item:
+  - 'Lieux : Près de Castellane dans les Hautes Alpes'
+  - Parfait pour s'initier au canyoning
+  - 2h + 40mn de marche aller et 30mn marche retour
+  - 10 personnes max
   - 50€
 
 ---
