@@ -49,5 +49,6 @@ page_sections:
   image_bg_href: https://res.cloudinary.com/deddrj0yb/video/upload/v1655359542/website/Canyoning%2006/GX011241_ALTA1642458316780515.mp4
   alt_text_for_image: f
   title: f
+published: false
 
 ---
