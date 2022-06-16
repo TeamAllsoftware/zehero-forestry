@@ -37,100 +37,56 @@ page_sections:
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655365196/website/Canyoning%2006/Screenshot_5.jpg
   alt_text_for_image: Canyoning des Gorges du Loup
   title: Le canyoning des Gorges du Loup
-  captiontitleuppercase: Randonnée aquatique
+  captiontitleuppercase: Canyoning des gorges du Loup
   button:
-    text_button: Réservez votre canyoning
-    href_button: https://www.ze-hero.com/fr/contact
+    text_button: Plus d'information ici !
+    href_button: ''
     alt_button: ''
-  content: Le Canyoning des gorges du loup est surtout une magnifique randonnée aquatique
-    dans le Loup. C'est le canyon le plus proche de Nice et qui est surtout ouvert
-    à tous. Il ne demande d'exigence ni de difficulté particulière. Vous parcourrez
-    alors le Loup par de la marche aquatique, des sauts, des toboggans et de la nage.
-    En fonction des envies, vous trouverez différentes hauteurs de saut allant jusqu'à
-    environ 8m. Chacun pourra alors découvrir les joies de cette discipline. Profitez
-    également de découvrir ce décor incroyable et de la fraîcheur de l'eau. Les groupes
-    sont limités à 8 et ce canyon est idéal pour les familles et les enfants de 8
-    ans peuvent le pratiquer. L'horaire vous sera confirmé, une fois la réservation
-    confirmée, par le moniteur
-- template: liststyle01
-  title: Plus d'information
-  item:
-  - 'Lieux : Gorges du Loup ( Pont du Loup )'
-  - Saut / Ambiance / Gorges magnifiques / Pour tous
-  - Facile
-  - 2h
-  - 8 personnes max
-  - 50€
-- template: 2coltxtimg
+  content: Le Canyoning des gorges du loup est le plus proche de Nice et qui est surtout
+    ouvert à tous. Il ne présente pas de difficulté particulière. Vous parcourrez
+    alors le Loup par de la marche aquatique, des sauts, des toboggans et de la nage
+    et avec possibilité de deux rappels au départ. Environ 2h de descente pour adultes
+    et enfants.
+- template: 2colimgtxt
   blockBGcolor: blanc
-  content: Le canyoning du Haut Jabron est idéal pour s'initier et découvrir la pratique
-    du canyoning dans les Hautes Alpes près de Castellane. Un canyoning très ludique
-    et ouvert à tous dans un lieu magnifique. Vous débuterez par un incroyable tunnel
-    toboggan, vous découvrirez de nombreux obstacles qui ne sont pas tous obligatoires.
-    Vous découvrirez un canyon très souterrain pour tous et toutes les envies. Il
-    y a environ 40mn de marche pour y aller et 30mn de marche retour. L'horaire exact
-    sera défini avec le moniteur une fois la réservation effectuée.
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655201007/website/By%20Ze%20Hero%20Activity/IMG_4222.jpg
   alt_text_for_image: Canyoning Haut Jabron
   captiontitleuppercase: Initiation Adulte
-  title: Le canyoning du Haut Jabron
+  title: Canyoning Haut Jabron
+  content: Le Canyoning des gorges du loup est le plus proche de Nice et qui est surtout
+    ouvert à tous. Il ne présente pas de difficulté particulière. Vous parcourrez
+    alors le Loup par de la marche aquatique, des sauts, des toboggans et de la nage
+    et avec possibilité de deux rappels au départ. Environ 2h de descente pour adultes
+    et enfants.
   button:
-    text_button: Réservez votre activité
-    href_button: https://www.ze-hero.com/fr/contact
+    text_button: ''
+    href_button: ''
     alt_button: ''
-- template: liststyle01
-  title: Plus d'information
-  item:
-  - 'Lieux : Près de Castellane dans les Hautes Alpes'
-  - Parfait pour s'initier au canyoning
-  - 2h + 40mn de marche aller et 30mn marche retour
-  - 10 personnes max
-  - 50€
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199369/website/By%20Ze%20Hero%20Activity/IMG_4072.jpg
   alt_text_for_image: Canyoning Audin
   captiontitleuppercase: Initiation et spécial enfants
   title: Canyoning ruisseau Audin
-  content: "Canyoning idéal pour débuter et il est possible dès l'âge de 6ans. Une
-    vrai ambiance canyoning avec des belles vasques et des toboggans. La marche d'approche
-    est simple dans un beau sentier pour une durée de 45mn. Le retour à pied est de
-    10mn.   \nLe canyoning ne présente pas de rappels, il sera alors parfait pour
-    profiter d'un moment en famille d'un cadre magnifique et à seulement 1h de Nice."
+  content: Canyoning idéal pour débuter et il est possible dès l'âge de 6ans. Une
+    vrai ambiance canyoning avec des belles vasques et des toboggans, à seulement
+    1h de Nice.
   button:
-    href_button: https://www.ze-hero.com/fr/contact
-    text_button: Réservez maintenant
+    href_button: ''
+    text_button: Plus d'information ici !
     alt_button: ''
-- template: liststyle01
-  item:
-  - 'Lieu : Fanghetto '
-  - Toboggans / Sauts / Spécial enfants
-  - Facile
-  - 8 personnes max
-  - 2h
-  - 50€
-  title: Plus d'informations
-- template: 2coltxtimg
+- template: 2colimgtxt
   blockBGcolor: blanc
-  captiontitleuppercase: Niveau intermédiaire - Ambiance canyoning
-  title: Canyoning de Planfae
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029604/website/Canyoning%2006/GPTempDownload2.jpg
   alt_text_for_image: Canyoning de Planfae
-  content: |-
-    Le Canyoning de Planfae est un canyon idéal en famille, pour s'initier dans une vraie ambiance canyoning. Découvrez ses gorges encaissées, une eau très claire, des toboggans ainsi que des petits rappels. Le rappel le plus long est de 10m. Vous aurez également des sauts.
-
-    Dès 10ans vous pourrez profiter de ce maximum canyoning pour une initiation avec tous les ingrédients pour un superbe canyon.
+  captiontitleuppercase: Niveau intermédiaire - Ambiance canyoning
+  title: Canyoning de Planfae
+  content: Le Canyoning de Planfae est un canyon idéal en famille, pour s'initier
+    dans une vraie ambiance canyoning. Découvrez ses gorges encaissées, une eau très
+    claire, des toboggans ainsi que des petits rappels.
   button:
-    text_button: Réservez maintenant
-    href_button: https://www.ze-hero.com/fr/contact
+    text_button: Plus d'information ici !
+    href_button: ''
     alt_button: ''
-- template: liststyle01
-  title: Plus d'informations
-  item:
-  - 'Lieu : lieu dit le Suquet'
-  - Parfait pour s'initier au canyoning
-  - 8 personnes max
-  - 2h30
-  - 60€
 
 ---
