@@ -33,5 +33,31 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655389635/website/Canyoning%2006/IMG_20201017_120229.jpg
   atl_text_image_04: Cascades de Courmes
   title: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: 'Le canyoning des Gorges du Loup : pour tous et ludique'
+  content: "Le canyoning des gorges du loup est un canyoning ouvert à tous et très
+    ludique. Vous évoluerez dans une ambiance magnifique avec un parcours très joueur
+    avec de belles vasques d'eau.  \nLe canyoning des Gorges du Loup est parfait pour
+    les familles et même entre amis. Ce n'est pas un canyon très technique et il a
+    la particularité de permettre d'éviter certains obstacles si vous n'êtes à l'aise.
+    Certains sauts, entre 8m et 10m peuvent alors être évités.\n\n* 2 rappels courts
+    pour débuter le canyon pour s'initier\n* Beaucoup de toboggans\n* Beaucoup de
+    sauts jusqu'à 10m (contournables)\n* Nage dans une eau magnifique et claire\n\nC'est
+    le canyon idéal pour les enfants et pour ceux qui aiment les sauts. Hormis les
+    2 premiers petits rappels, le reste sera surtout de la randonnée aquatique et
+    très joueuse.  \nPlongez dans ce canyon et profitez d'un moment de partage, de
+    plaisir et de sensation forte.\n\nLa marche d'approche est rapide, moins de 10mn
+    et avec la marche de retour d'environ 10mn.  \nLa descente du canyoning peut varier
+    de 1h30 à 2h si vous aimez les sauts.\n\nLe matériel est pris en compte dans le
+    prix. Le moniteur vous apportera la combinaison ainsi que le casque et le baudrier.
+    \ \nIl faudra que vous preniez avec vous : chaussures de sport, maillot de bain,
+    serviette, boisson et un en-cas."
+- template: liststyle01
+  title: 'Les dernières informations :'
+  item:
+  - 'Lieu : Pont du Loup'
+  - 'Temps globale : 2h à 2h30'
+  - 'Prix : 50€'
 
 ---
