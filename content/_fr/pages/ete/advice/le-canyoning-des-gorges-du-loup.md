@@ -59,5 +59,6 @@ page_sections:
   - 'Lieu : Pont du Loup'
   - 'Temps globale : 2h à 2h30'
   - 'Prix : 50€'
+published: false
 
 ---
