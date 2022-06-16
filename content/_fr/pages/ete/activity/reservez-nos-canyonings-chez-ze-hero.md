@@ -23,15 +23,15 @@ page_sections:
   title: Les canyonings dans les Alpes Maritimes
   content: "Découvrez toutes nos offres de canyonings chez Ze Hero dans les Alpes
     Maritimes. Une sélection de plusieurs canyonings près de Nice pour tous, tous
-    les niveaux et toutes les envies.\n\nNous vous proposons différents canyonings
-    dans différents secteurs mais tout près de Nice.\n\nNos moniteurs professionnels
+    les niveaux et toutes les envies.  \nNous vous proposons différents canyonings
+    dans différents secteurs mais tout près de Nice.  \nNos moniteurs professionnels
     sont, diplômé d'Etat et connaissent parfaitement tous les canyonings des Alpes
-    Maritimes.\n\nNous vous apporterons tout le matériel nécessaire pour la pratique
+    Maritimes. Nous vous apporterons tout le matériel nécessaire pour la pratique
     du canyoning tel que la combinaison, le casque, le baudrier. Il faut venir avec
-    votre maillot de bain, des chaussures de sport.\n\nNous vous garantissons un moment
+    votre maillot de bain, des chaussures de sport.  \nNous vous garantissons un moment
     unique, de découverte, de plaisir et de partage. N'attendez plus ! Choisissez
     votre canyoning et réservez vite.\n\nVoici tous nos canyonings dans les Alpes
-    Maritimes : "
+    Maritimes :"
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655359805/website/Canyoning%2006/Screenshot_3.jpg
