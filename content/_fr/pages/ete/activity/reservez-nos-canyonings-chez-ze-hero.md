@@ -33,7 +33,7 @@ page_sections:
     votre canyoning et réservez vite.\n\nVoici tous nos canyonings dans les Alpes
     Maritimes :"
 - template: 2colimgtxt
-  blockBGcolor: blanc
+  blockBGcolor: gris
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655365196/website/Canyoning%2006/Screenshot_5.jpg
   alt_text_for_image: Canyoning des Gorges du Loup
   title: Le canyoning des Gorges du Loup
