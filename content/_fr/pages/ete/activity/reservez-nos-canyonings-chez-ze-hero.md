@@ -113,7 +113,7 @@ page_sections:
     pourrez réaliser avec vos enfants.
   button:
     text_button: Plus d'information ici
-    href_button: ''
+    href_button: "/fr/ete/conseils/canyoning-clue-de-la-cerise"
     alt_button: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
