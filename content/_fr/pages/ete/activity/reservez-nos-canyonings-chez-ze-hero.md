@@ -73,7 +73,7 @@ page_sections:
     et enfants.
   button:
     text_button: Plus d'information
-    href_button: ''
+    href_button: "/fr/ete/conseils/canyoning-haut-jabron"
     alt_button: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
