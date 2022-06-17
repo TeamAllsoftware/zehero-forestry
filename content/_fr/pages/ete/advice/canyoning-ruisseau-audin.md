@@ -24,6 +24,16 @@ page_sections:
 
     Découvrez ses spécificités :
   title: 'Le canyoning du Ruisseau Audin : Ludique et familiale'
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655386943/website/By%20Ze%20Hero%20Activity/IMG_4072.jpg
+  atl_text_image_01: Ruisseau Audin toboggans
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199369/website/By%20Ze%20Hero%20Activity/IMG_4080.jpg
+  atl_text_image_02: Trois personnes dans le ruisseau Audin, canyoning
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/IMG_4081_lbj3u9.jpg
+  atl_text_image_03: Plusieurs personne dans le canyon du Ruisseau Audin
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199368/website/By%20Ze%20Hero%20Activity/IMG_4901.jpg
+  atl_text_image_04: Fille canyoning Audin
+  title: ''
 published: false
 
 ---
