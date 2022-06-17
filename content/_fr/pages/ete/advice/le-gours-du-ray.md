@@ -63,5 +63,11 @@ page_sections:
   item:
   - 'Temps globale : 3h à 3h30'
   - 'Prix : 50€'
+- template: cta
+  intro: Profitez d'un moment de sensation forte dans le
+  headline: Gours du Ray
+  button:
+    text_button: Réservez ici
+    href_button: https://www.ze-hero.com/fr/contact
 
 ---
