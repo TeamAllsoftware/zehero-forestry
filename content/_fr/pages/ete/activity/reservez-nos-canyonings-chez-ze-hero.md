@@ -91,15 +91,15 @@ page_sections:
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655387129/website/By%20Ze%20Hero%20Activity/IMG_4903.jpg
-  alt_text_for_image: Canyoning de Planfae
+  alt_text_for_image: Canyoning de Planfaé
   captiontitleuppercase: Niveau intermédiaire - Ambiance canyoning
-  title: Canyoning de Planfae
-  content: Le Canyoning de Planfae est un canyon idéal en famille, pour s'initier
+  title: Canyoning de Planfaé
+  content: Le Canyoning de Planfaé est un canyon idéal en famille, pour s'initier
     dans une vraie ambiance canyoning. Découvrez ses gorges encaissées, une eau très
     claire, des toboggans ainsi que des petits rappels.
   button:
-    text_button: Plus d'information ici !
-    href_button: ''
+    text_button: 'Plus d''information ici '
+    href_button: "/fr/ete/conseils/canyoning-planfae"
     alt_button: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
