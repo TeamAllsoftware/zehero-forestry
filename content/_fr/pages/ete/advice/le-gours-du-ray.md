@@ -58,6 +58,10 @@ page_sections:
     que vous preniez avec vous : chaussures de sport, maillot de bain, serviette,
     boisson et un en-cas."
   title: 'Le canyoning du Gours du Ray : S''initier au canyoning'
-published: false
+- template: liststyle01
+  title: 'Les dernières informations :'
+  item:
+  - 'Temps globale : 3h à 3h30'
+  - 'Prix : 50€'
 
 ---
