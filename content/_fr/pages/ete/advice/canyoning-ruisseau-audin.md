@@ -23,7 +23,7 @@ page_sections:
     Dans un cadre magnifique, vous pourrez réaliser ce canyon en famille, sous un joli soleil et dans une eau claire et limpide pour un moment d'évasion.
 
     Découvrez ses spécificités :
-  title: 'Le canyoning du Ruisseau Audin : Ludique et familiale'
+  title: Le canyoning du Ruisseau Audin
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655386943/website/By%20Ze%20Hero%20Activity/IMG_4072.jpg
   atl_text_image_01: Ruisseau Audin toboggans
@@ -34,6 +34,32 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199368/website/By%20Ze%20Hero%20Activity/IMG_4901.jpg
   atl_text_image_04: Fille canyoning Audin
   title: ''
-published: false
+- template: textarea
+  blockBGcolor: blanc
+  title: 'Canyoning Ruisseau Audin : Familiale et ludique'
+  content: "Le canyoning du Ruisseau Audin est canyoning parfait pour les familles.
+    Très ludique, il est entre la randonnée aquatique et le canyoning. Facile et complet,
+    vous pourrez profiter de ses sauts, de ses toboggans, de petits rappels, d'un
+    lieu magnifique à 1h de Nice. Parfait pour débuter et s'initier dans le canyoning.
+    Vous découvrirez une vraie ambiance canyon avec de belles vasques et de beaux
+    toboggans.\n\n* Facile\n* Ludique\n* Sauts, toboggans pas raides ni hauts\n* Rappels
+    de 10m max\n* Lieu magnifique\n* Belle ambiance\n\nLa marche d'approche est simple
+    dans un beau sentier pour une durée de 45mn. Le retour à pied est de 10mn.   \nDurée
+    du canyoning : environ 2h \n\nLe matériel est pris en compte dans le prix. Le
+    moniteur vous apportera la combinaison ainsi que le casque et le baudrier.  \nIl
+    faudra que vous preniez avec vous : chaussures de sport, maillot de bain, serviette,
+    boisson et un en-cas."
+- template: liststyle01
+  title: Plus d'informations
+  item:
+  - 'Lieu : Fanghetto'
+  - 'Temps global : 3h'
+  - 'Prix : 50€'
+- template: cta
+  intro: Profitez d'un moment de sensation forte dans le
+  headline: ruisseau d'Audin
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://www.ze-hero.com/fr/contact
 
 ---
