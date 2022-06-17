@@ -85,7 +85,7 @@ page_sections:
     vrai ambiance canyoning avec des belles vasques et des toboggans, à seulement
     1h de Nice.
   button:
-    href_button: ''
+    href_button: "/fr/ete/conseils/canyoning-ruisseau-audin"
     text_button: Plus d'information ici
     alt_button: ''
 - template: 2colimgtxt
