@@ -18,14 +18,12 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   content: |-
-    Canyoning idéal pour débuter. Une vrai ambiance canyoning avec des belles vasques et des tobbogans. La marche d'approche est simple dans un beau sentier pour une durée de 45mn. Le retour à pied est de 10mn.
+    Le canyoning du ruisseau Audin se trouve près de Nice, à environ 1h de route. Il est à la frontière Franco-italienne avec un départ coté italien dans le village de Fanghetto. Vous vous trouverez dans la vallée de la Roya. Un paradis pour les descentes de canyoning. Vous évoluerez dans une végétation méditerranéenne et dans une eau limpide pour une descente entre le canyoning et la randonné aquatique.
 
-    Déroulé de la journée : RDV à proximité de Nice pour s'équiper et rencontrer le guide
+    Dans un cadre magnifique, vous pourrez réaliser ce canyon en famille, sous un joli soleil et dans une eau claire et limpide pour un moment d'évasion.
 
-    Ne pas oublier : des barres de céréales pour petite pause snack
-
-    Canyoning à 1h de Nice
-  title: ''
+    Découvrez ses spécificités :
+  title: 'Le canyoning du Ruisseau Audin : Ludique et familiale'
 published: false
 
 ---
