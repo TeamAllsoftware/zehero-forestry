@@ -6,7 +6,7 @@ meta-description: Découvrez et réservez votre canyoning dans le ruisseau Audin
   les Alpes Maritimes. Un canyon parfait pour profiter en famille d'une randonnée
   aquatique très ludique dans une belle ambiance
 topnav_color_text: light
-title: Canyoning Ruisseau Audin
+title: Le Canyoning Ruisseau Audin
 permalink: "/fr/ete/conseils/canyoning-ruisseau-audin"
 meta-title: Réservez votre canyoning ruisseau audin
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199369/website/By%20Ze%20Hero%20Activity/IMG_4080.jpg
