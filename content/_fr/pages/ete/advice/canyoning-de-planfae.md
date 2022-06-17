@@ -5,7 +5,7 @@ season: summer
 meta-description: 'Découvrez et réservez votre canyoning de Planfaé. Un canyon intermédiaire
   pour un plaisir grandiose tout près de Nice. '
 topnav_color_text: light
-title: Canyoning de Planfaé
+title: Le Canyoning de Planfaé
 permalink: "/fr/ete/conseils/canyoning-planfae"
 meta-title: 'Réservez votre canyoning planfae   '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
