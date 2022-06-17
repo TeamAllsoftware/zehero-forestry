@@ -39,7 +39,7 @@ page_sections:
   title: Le canyoning des Gorges du Loup
   captiontitleuppercase: Canyoning des gorges du Loup
   button:
-    text_button: Plus d'information ici !
+    text_button: Plus d'information ici
     href_button: "/fr/ete/conseil/canyoning-gorges-du-loup"
     alt_button: ''
   content: Le Canyoning des gorges du loup est le plus proche de Nice et qui est surtout
@@ -58,7 +58,7 @@ page_sections:
     y retrouve un parcours très complet et fun. Pour tous !
   button:
     text_button: Plus d'information ici
-    href_button: ''
+    href_button: "/fr/ete/conseils/canyoning-gours-du-ray"
     alt_button: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
