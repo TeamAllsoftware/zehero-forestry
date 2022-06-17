@@ -37,6 +37,27 @@ page_sections:
   atl_text_image_03: Canyoning Gours de Ray, fille descente en rappel
   atl_text_image_04: Vue de Gréolières
   title: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: "Le canyoning du Gours du Ray est un canyoning ouvert à tous, ludique et
+    parfait pour s'initier au canyoning. Dans une ambiance magnifique, vous évoluerez
+    dans un parcours varié et joueur. On y retrouve un parcours très complet fun avec
+    de multiples sauts, des toboggans ainsi que des descentes en rappel. Vous pourrez
+    à des hauteurs de plus de 10m dans des vasques d'eau limpides et incroyables\n\nLe
+    canyoning du Gours du Ray est idéal pour les familles et entre amis. Ce n'est
+    pas un canyon très technique, d'un niveau facile à intermédiaires. Vous pourrez
+    également parfois contourner les obstacles tel que les sauts de 8 à 10m.\n\n*
+    Toboggans\n* Des sauts jusqu'à 10m (contournables)\n* Quelques petits rappels\n*
+    Vasques au formes magnifiques \n* Nage dans une eau magnifique et claire\n\nC'est
+    le canyon idéal pour les enfants et pour ceux qui aiment les sauts. Le canyoning
+    du Gours du Ray est parfait pour s'initier et s'aventurer dans un lieu magnifique
+    pour un moment de plaisir et de sensation forte. \n\nLa marche d'approche est
+    \ de 15mn et avec la marche de retour d'environ 30mn.  \nLa descente du canyoning
+    est d'environ 2h.\n\nLe matériel est pris en compte dans le prix. Le moniteur
+    vous apportera la combinaison ainsi que le casque et le baudrier.  \nIl faudra
+    que vous preniez avec vous : chaussures de sport, maillot de bain, serviette,
+    boisson et un en-cas."
+  title: 'Le canyoning du Gours du Ray : S''initier au canyoning'
 published: false
 
 ---
