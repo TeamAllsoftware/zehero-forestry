@@ -50,5 +50,11 @@ page_sections:
   - 'Lieu :  La Tour-sur-Tinée'
   - 'Temps Globale : 3h'
   - 'Prix : 50€'
+- template: cta
+  intro: Profitez d'un moment de sensation forte dans le
+  headline: canyoning de Cramassouri
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://www.ze-hero.com/fr/contact
 
 ---
