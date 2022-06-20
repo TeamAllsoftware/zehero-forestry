@@ -107,8 +107,8 @@ page_sections:
     vous emmèneront à la découverte de la Dranse en Haute Savoie pour des canyonings
     sauvages"
   button:
-    text_button: Nos offres de canyoning
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+    text_button: Demande de réservation
+    href_button: "/fr/ete/activites/nos-canyonings"
     alt_button: ''
 - template: 3coltxtimgtxt
   blockBGcolor: blanc
