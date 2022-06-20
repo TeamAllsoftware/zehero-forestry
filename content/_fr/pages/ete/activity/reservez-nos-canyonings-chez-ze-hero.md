@@ -25,7 +25,7 @@ page_sections:
     Maritimes. Une sélection de plusieurs canyonings près de Nice pour tous, tous
     les niveaux et toutes les envies.  \nNous vous proposons différents canyonings
     dans différents secteurs mais tout près de Nice.  \nNos moniteurs professionnels
-    sont, diplômé d'Etat et connaissent parfaitement tous les canyonings des Alpes
+    sont, diplômés d'Etat et connaissent parfaitement tous les canyonings des Alpes
     Maritimes. Nous vous apporterons tout le matériel nécessaire pour la pratique
     du canyoning tel que la combinaison, le casque, le baudrier. Il faut venir avec
     votre maillot de bain, des chaussures de sport.  \nNous vous garantissons un moment
