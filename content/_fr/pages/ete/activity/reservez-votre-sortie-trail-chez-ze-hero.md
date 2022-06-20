@@ -83,6 +83,20 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304660/website/summer/IMG_9228.jpg
+  alt_text_for_image: Coureur Ze Hero à Saint Jeannet
+  captiontitleuppercase: Le Baou de St Jeannet
+  title: Le Trail à Saint Jeannet
+  content: Le Trail à Saint Jeannet, c'est courir au pied de ce fameux Baou de Saint
+    Jeannet, très connu dans le monde de l'escalade. Vous pourrez alors enchaîner
+    les différents baous, découvrir l'ancienne forteresse du Castellet ainsi que les
+    plateaux où les troupeaux de moutons et chèvres divaguent.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 published: false
 
 ---
