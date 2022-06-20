@@ -125,11 +125,11 @@ page_sections:
   headline: Activités enfants et adultes sont disponibles
   button:
     text_button: Réserver maintenant >
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+    href_button: "/fr/ete/activites/nos-canyonings"
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez une activité de canyoning
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+  url_to_shop_zehero: "/fr/ete/activites/nos-canyonings"
 
 ---
