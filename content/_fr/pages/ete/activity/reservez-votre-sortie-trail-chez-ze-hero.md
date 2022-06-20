@@ -97,6 +97,19 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-published: false
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  alt_text_for_image: Forêts près de Levens
+  captiontitleuppercase: Dans la vallée de Carros
+  title: Le Trail à Levens, Gilette et Bonson
+  content: Le Trail à Levens, Gilette ou encore Bonson, dans la vallée de Carros sont
+    des villages où partent de nombreux parcours et sentiers de trail. Vous retrouverez
+    Gilette et Bonson, qui se trouvent tout près du Mont Vial. Levens vous amène au
+    Mont Férion ainsi que vous des tours magnifiques sur les traces du GR5.
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655717507/website/By%20Ze%20Hero%20Activity/Screenshot_8.jpg
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
