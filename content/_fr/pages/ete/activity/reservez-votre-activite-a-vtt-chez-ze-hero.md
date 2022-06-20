@@ -4,7 +4,7 @@ language: fr
 season: summer
 categorie: Vélo
 topnav_color_text: dark
-meta-title: Réservez votre activité de VTT en Savoie et Haute Savoie
+meta-title: Réservez votre activité de VTT et VTT électrique en Savoie
 meta-description: Découvrez et réservez votre activité de VTT et VTT électrique dans
   la Savoie et en Haute Savoie. Partez découvrir les montagnes à VTT pour profiter
   de la nature et des sensations fortes
@@ -20,15 +20,12 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: textarea
   blockBGcolor: blanc
-  content: "Découvrez toutes nos offres de VTT chez Ze Hero en Savoie ainsi qu'en
-    Haute Savoie. Des sorties de VTT et de VTT électriques sur les sentiers montagneux
-    quelque soit votre niveau. Vous découvrirez différents itinéraires qui vous feront
-    découvrir les lieux, les panoramas, atteindre des points de vue d'exception, faire
-    le plein de sensation forte dans les descentes sur les sentiers. \n\nVous pourrez
-    réserver une sortie de VTT tout d'abord au sein des 3 vallées à Méribel et Les
-    Menuires. Notre guide de VTT vous propose différents itinéraires dans les montagnes
-    des Bellevilles et de Méribel. Vous pourrez alors découvrir ce domaine incroyable,
-    sa faune et flore riche, ses sentiers ludiques ainsi que de nombreux parcours."
+  content: |-
+    Découvrez toutes nos offres de VTT chez Ze Hero en Savoie ainsi qu'en Haute Savoie. Des sorties de VTT et de VTT électriques sur les sentiers montagneux quel que soit votre niveau. Vous découvrirez différents itinéraires qui vous feront découvrir les lieux, les panoramas, atteindre des points de vue d'exception, faire le plein de sensation forte dans les descentes sur les sentiers.
+
+    Vous pourrez réserver une sortie de VTT tout d'abord au sein des 3 vallées à Méribel et Les Menuires. Notre guide de VTT vous propose différents itinéraires dans les montagnes des Bellevilles et de Méribel. Vous pourrez alors découvrir ce domaine incroyable, sa faune et flore riche, ses sentiers ludiques ainsi que de nombreux parcours. Ils proposent des parcours de 2h pour les familles ainsi que les amateurs de VTT pour des parcours plus sportifs. Vous pourrez également visiter les différents villages et hameaux savoyards.
+
+    Vous pourrez également pratiquer et trouver votre activité de VTT et VTT électrique du coté d'Aix les Bains et du Grand Revard. Vous pourrez rouler ce que l'on appele le  "Petit canada savoyard ". Un plateau magnifique avec vue sur ce le lac et le Mont Blanc. En famille, entre amis, vous pourrez profiter de découvrir et de vous aventurer à VTT sur les sentiers en vous laissant guider par " [**Expérience Vélo**](https://www.ze-hero.com/fr/ete/partenaires/experience-velo) "
   title: ''
 published: false
 
