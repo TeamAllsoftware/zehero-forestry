@@ -127,7 +127,7 @@ page_sections:
     vallée de Tinée, découvrez ce canyon idéal pour s'initier.
   button:
     text_button: Plus d'information ici
-    href_button: ''
+    href_button: "/fr/ete/conseils/canyoning-cramassouri"
     alt_button: ''
 
 ---
