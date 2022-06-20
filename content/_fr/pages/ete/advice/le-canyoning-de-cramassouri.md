@@ -44,6 +44,11 @@ page_sections:
     pris en compte dans le prix. Le moniteur vous apportera la combinaison ainsi que
     le casque et le baudrier.  \nIl faudra que vous preniez avec vous : chaussures
     de sport, maillot de bain, serviette, boisson et un en-cas."
-published: false
+- template: liststyle01
+  title: Les derniers informations
+  item:
+  - 'Lieu :  La Tour-sur-Tinée'
+  - 'Temps Globale : 3h'
+  - 'Prix : 50€'
 
 ---
