@@ -13,7 +13,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199369/webs
 image01_alt: 3 personnes dans un canyon du ruisseau Audin
 button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17200-special-enfants-ruisseau-audin-activite-ze-hero
 page_sections:
 - template: textarea
   blockBGcolor: blanc
@@ -60,6 +60,6 @@ page_sections:
   headline: ruisseau d'Audin
   button:
     text_button: 'Réservez ici '
-    href_button: https://www.ze-hero.com/fr/contact
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17200-special-enfants-ruisseau-audin-activite-ze-hero
 
 ---
