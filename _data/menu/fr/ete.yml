@@ -38,7 +38,9 @@ menu:
   image-alt: ''
   image-link: ''
   txt-button: ''
-  column-01: ''
+  column-01:
+  - nested: ''
+    menu-items: ''
   column-02: ''
 - title: Conseils
   id: "2"
