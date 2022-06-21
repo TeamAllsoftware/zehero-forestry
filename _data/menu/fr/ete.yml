@@ -6,7 +6,7 @@ menu:
   image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642604271/website/summer/eshop-ze-hero-activites-ete_mhzdw2.png
   image-alt: Image illustrant la boutique en ligne ZE HERO
   image-link: ''
-  txt-button: Entrer dans le e-Shop
+  txt-button: ''
   column-01:
   - nested: Nos destinations
     menu-items:
