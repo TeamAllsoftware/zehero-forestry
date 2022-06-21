@@ -8,12 +8,16 @@ menu:
   image-link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
   txt-button: Entrer dans le e-Shop
   column-01:
-  - nested: Acheter
+  - nested: Nos activités
     menu-items:
-    - title: Vêtements
-      href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
-    - title: Accessoires de Trail Running
-      href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    - title: Canyoning
+      href: "/fr/ete/activites/canyoning"
+    - title: Trail
+      href: "/fr/ete/activites/trail-running"
+    - title: VTT
+      href: "/fr/ete/activites/vtt"
+    - title: Surf
+      href: "/fr/ete/activites/surf"
   column-02:
   - nested: Réserver
     menu-items:
@@ -37,7 +41,69 @@ menu:
       href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
     - title: Kayak
       href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Kayak&start-date=
-- title: Découvrez nos activités
+- title: Destinations
+  id: "3"
+  title-link: "/fr/ete/destinations"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
+  image-alt: Les Gorges du Verdon avec des kayaks et canoés
+  image-link: "/fr/ete/destinations"
+  txt-button: Toutes les destinations
+  column-01:
+  - nested: Les destinations
+    menu-items:
+    - title: Le Bar sur Loup
+      href: "/fr/ete/destinations/le-bar-sur-loup"
+    - title: Les Houches
+      href: "/fr/ete/destinations/les-houches"
+    - title: Chamonix
+      href: "/fr/ete/destinations/chamonix"
+    - title: Aix les Bains - Le Revard
+      href: fr/ete/destinations/aix-les-bains-le-revard
+    - title: Les Menuires
+      href: "/fr/ete/destinations/les-menuires"
+    - title: Méribel
+      href: "/fr/ete/destinations/meribel"
+    - title: Val-Thorens
+      href: "/fr/ete/destinations/val-thorens"
+  column-02:
+  - nested: Les stations balnéaires
+    menu-items:
+    - title: Porge
+      href: "/fr/ete/destinations/porge"
+    - title: Hossegor
+      href: "/fr/ete/destination/hossegor"
+    - title: Messanges
+      href: "/fr/ete/destination/messanges"
+    - title: Seignosse
+      href: "/fr/ete/destination/seignosse"
+    - title: Moliets et Maâ
+      href: "/fr/ete/destination/moliet-et-maa"
+    - title: St Brévin les pins
+      href: "/fr/ete/destinations/st-brevin-les-pins"
+    - title: Antibes
+      href: "/fr/ete/destinations/antibes"
+  column-03:
+  - nested: Les régions
+    menu-items:
+    - title: Gard
+      href: "/fr/ete/destinations/le-gard"
+    - title: Haute-Savoie
+      href: "/fr/ete/destinations/haute-savoie"
+    - title: Landes
+      href: "/fr/ete/destinations/les-landes"
+    - title: Loire Atlantique
+      href: "/fr/ete/destinations/loire-atlantique"
+    - title: Les Alpes Maritimes
+      href: "/fr/ete/destinations/alpes-maritimes"
+    - title: Lozère
+      href: "/fr/ete/destinations/savolozereie"
+    - title: Pays-Basque
+      href: "/fr/ete/destinations/pays-basque"
+    - title: Savoie
+      href: "/fr/ete/destinations/savoie"
+    - title: Tarn
+      href: "/fr/ete/destinations/le-tarn"
+- title: Nos activités
   id: "1"
   title-link: "/fr/ete/activites"
   image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592263/website/summer/eberhard-grossgasteiger-8lDkmXnKo7s-unsplash_wfd3xp.jpg
@@ -141,68 +207,6 @@ menu:
       href: "/fr/ete/conseils/activites-montagne-ete"
     - title: Séjours et activités en vélo de route
       href: "/fr/ete/conseils/sejours-activites-velo-de-route"
-- title: Destinations
-  id: "3"
-  title-link: "/fr/ete/destinations"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
-  image-alt: Les Gorges du Verdon avec des kayaks et canoés
-  image-link: "/fr/ete/destinations"
-  txt-button: Toutes les destinations
-  column-01:
-  - nested: Les destinations
-    menu-items:
-    - title: Le Bar sur Loup
-      href: "/fr/ete/destinations/le-bar-sur-loup"
-    - title: Les Houches
-      href: "/fr/ete/destinations/les-houches"
-    - title: Chamonix
-      href: "/fr/ete/destinations/chamonix"
-    - title: Aix les Bains - Le Revard
-      href: fr/ete/destinations/aix-les-bains-le-revard
-    - title: Les Menuires
-      href: "/fr/ete/destinations/les-menuires"
-    - title: Méribel
-      href: "/fr/ete/destinations/meribel"
-    - title: Val-Thorens
-      href: "/fr/ete/destinations/val-thorens"
-  column-02:
-  - nested: Les stations balnéaires
-    menu-items:
-    - title: Porge
-      href: "/fr/ete/destinations/porge"
-    - title: Hossegor
-      href: "/fr/ete/destination/hossegor"
-    - title: Messanges
-      href: "/fr/ete/destination/messanges"
-    - title: Seignosse
-      href: "/fr/ete/destination/seignosse"
-    - title: Moliets et Maâ
-      href: "/fr/ete/destination/moliet-et-maa"
-    - title: St Brévin les pins
-      href: "/fr/ete/destinations/st-brevin-les-pins"
-    - title: Antibes
-      href: "/fr/ete/destinations/antibes"
-  column-03:
-  - nested: Les régions
-    menu-items:
-    - title: Gard
-      href: "/fr/ete/destinations/le-gard"
-    - title: Haute-Savoie
-      href: "/fr/ete/destinations/haute-savoie"
-    - title: Landes
-      href: "/fr/ete/destinations/les-landes"
-    - title: Loire Atlantique
-      href: "/fr/ete/destinations/loire-atlantique"
-    - title: Les Alpes Maritimes
-      href: "/fr/ete/destinations/alpes-maritimes"
-    - title: Lozère
-      href: "/fr/ete/destinations/savolozereie"
-    - title: Pays-Basque
-      href: "/fr/ete/destinations/pays-basque"
-    - title: Savoie
-      href: "/fr/ete/destinations/savoie"
-    - title: Tarn
-      href: "/fr/ete/destinations/le-tarn"
 - title: Partenaires
   id: "4"
   title-link: "#"
