@@ -2,11 +2,11 @@
 menu:
 - title: Réserver une activité
   id: eshop
-  title-link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
+  title-link: https://www.ze-hero.com/fr/ete/activites
   image-href: ''
   image-alt: ''
   image-link: https://www.ze-hero.com/fr/ete/activites
-  txt-button: ''
+  txt-button: Réservez
   column-01:
   - nested: Nos activités
     menu-items:
