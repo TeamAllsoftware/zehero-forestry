@@ -48,7 +48,7 @@ page_sections:
     environnement magnifique. Des sorties pour débutants et pour des confirmés allant
     de la demi-journée à la journée entière de trail.
   button:
-    text_button: 'Plus d''informations ici '
+    text_button: ''
     href_button: ''
     alt_button: ''
 - template: 2colimgtxt

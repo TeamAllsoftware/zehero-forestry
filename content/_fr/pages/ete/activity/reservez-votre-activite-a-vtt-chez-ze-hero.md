@@ -28,7 +28,7 @@ page_sections:
     Vous pourrez également pratiquer et trouver votre activité de VTT et VTT électrique du coté d'Aix les Bains et du Grand Revard. Vous pourrez rouler ce que l'on appele le  "Petit canada savoyard ". Un plateau magnifique avec vue sur ce le lac et le Mont Blanc. En famille, entre amis, vous pourrez profiter de découvrir et de vous aventurer à VTT sur les sentiers en vous laissant guider par " [**Expérience Vélo**](https://www.ze-hero.com/fr/ete/partenaires/experience-velo) "
 
     Voici toutes nos offres de VTT en Savoie :
-  title: ''
+  title: Le VTT en Savoie
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108069/website/VTT%20AE/pexels-reinhard-bruckner-5328112.jpg
@@ -45,5 +45,6 @@ page_sections:
     text_button: Plus d'information ici
     href_button: ''
     alt_button: ''
+published: false
 
 ---
