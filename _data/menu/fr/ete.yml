@@ -3,23 +3,11 @@ menu:
 - title: Réserver une activité
   id: eshop
   title-link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642604271/website/summer/eshop-ze-hero-activites-ete_mhzdw2.png
-  image-alt: Image illustrant la boutique en ligne ZE HERO
+  image-href: ''
+  image-alt: ''
   image-link: ''
   txt-button: ''
   column-01:
-  - nested: Nos destinations
-    menu-items:
-    - title: La Loire-Atlantique
-      href: "/fr/ete/destinations/loire-atlantique"
-    - title: Les Landes
-      href: "/fr/ete/destinations/les-landes"
-    - title: La Haute-Savoie
-      href: "/fr/ete/destinations/haute-savoie"
-    - title: La Savoie
-      href: "/fr/ete/destinations/savoie"
-    - title: Les Alpes Maritimes
-      href: "/fr/ete/destinations/alpes-maritimes"
   - nested: Nos activités
     menu-items:
     - title: Canyoning
@@ -30,7 +18,19 @@ menu:
       href: "/fr/ete/activites/vtt"
     - title: Surf
       href: "/fr/ete/activites/surf"
-  column-02: []
+  column-02:
+  - nested: Nos destinations
+    menu-items:
+    - title: Les Alpes Maritimes
+      href: "/fr/ete/destinations/alpes-maritimes"
+    - title: La Savoie
+      href: "/fr/ete/destinations/savoie"
+    - title: La Haute Savoie
+      href: "/fr/ete/destinations/haute-savoie"
+    - title: Les Landes
+      href: "/fr/ete/destinations/les-landes"
+    - title: Loire altantique
+      href: "/fr/ete/destinations/loire-atlantique"
 - title: Destinations
   id: "3"
   title-link: "/fr/ete/destinations"
