@@ -57,15 +57,46 @@ page_sections:
     plus belles sessions !  \nUne fois le modèle choisi, passons au choix de l'épaisseur
     et de la doublure de votre combinaison néoprène. Lorsque que vous achetez une
     combinaison, vous trouverez l’épaisseur du néoprène noté en millimètres tel que
-    : 3/2 ou 4/3 ou encore 5/4.\n\nLe premier chiffre correspond à l’épaisseur du
+    : 3/2 ou 4/3 ou encore 5/4.  \nLe premier chiffre correspond à l’épaisseur du
     néoprène en millimètres au niveau du torse, dos et ventre et le second au niveau
     des bras et des jambes. Vous devez choisir l’épaisseur de votre équipement en
     fonction de la température de l’eau.\n\nVoici quelques indications :\n\nPour une
     température de l’eau au-delà de 22°C vous pouvez tout à fait choisir une 2/2.
     Si l’eau se situe entre 16°C et 22°C, optez pour une 3/2. En dessous de 16°C partez
     sur une 4/3 à laquelle vous pouvez ajouter les accessoires suivants : Chaussons,
-    gants, et cagoule."
+    gants, et cagoule.\n\nLa doublure intérieure de votre future combinaison est quant
+    à elle faite en polaire. De différentes technologies selon les marques. Ce qu’il
+    faut retenir : Au plus la surface interne de la combinaison est doublée, plus
+    celle-ci sera chaude et plus elle sèchera vite !\n\nEt pour terminer, le système
+    de fermeture. La fermeture se fera soit sur la poitrine( front-zip, chest-zip
+    ou zip-less), ou dans le dos (back-zip).  \nLa différence se fait principalement
+    sur l’étanchéité de la fermeture. Le système le plus répandu sur les combinaisons
+    premier prix sont les back-zip. Si c’est ce que vous choisissez, vérifiez que
+    la fermeture éclair ai une doublure pour des questions d’étanchéité mais aussi
+    de confort. Ce sera aussi la combinaison la plus simple à enlever après votre
+    session contrairement à la Zip-less qui sera la plus complexe à enfiler et enlever…"
   title: ''
-published: false
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651477288/website/Sama%20Sama/cours-de-surf-mimizan.jpg
+  alt_text_for_image: Un prof de surf et un élève de surf durant un cours de surf
+  captiontitleuppercase: Une combinaison de surf adapté à vous
+  content: |-
+    Pour clore ce chapitre des combinaisons, voici quelques conseils supplémentaires:
+
+    * Passez du temps à choisir, essayer et comparer les combinaisons avant de vous en acheter une. Les tailles, les matières sont différentes d’une marque à l’autre.
+    * Si vous achetez sur internet, munissez vous d’un mètre ruban et référez au Size chart de la combinaison qui vous a tapé dans l'œil. Une combinaison trop petite sera difficile à mettre, désagréable à porter. Une combinaison trop grande se remplira d’eau et ne fera plus office d’isolant.
+  title: Nos derniers conseils
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Le néoprène est un caoutchouc synthétique fabriqué soit à partir du pétrole soit à partir d’extraction de roche calcaire (limestone) qui a un impact environnemental coûteux. Certaines marques de surf ont décidé de chercher des alternatives et ont intégré 30% de pneus recyclés à leur néoprène, d’autres utilisent du caoutchouc naturel, ou encore un mélange de matières naturelles.
+
+    Vous avez maintenant toutes les clefs en main pour faire votre achat de combinaison !
+  title: 'Bon à savoir :'
 
 ---
