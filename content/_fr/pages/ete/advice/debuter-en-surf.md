@@ -83,7 +83,7 @@ page_sections:
 type: generic
 level: 2
 activite: surf
-titleHome: ''
+titleHome: Débuter en surf
 baseline: ''
 
 ---
