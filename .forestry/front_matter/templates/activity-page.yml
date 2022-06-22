@@ -131,43 +131,32 @@ fields:
   type: blocks
   label: Page Sections
   template_types:
-  - heroBreadcrumb
-  - heroBigTitle
-  - heroSlider
-  - heroImageTitle01
-  - heroImageFull
-  - heroImageFullSlider
-  - heroImage50percentHigh
-  - formDownload
   - textarea
+  - 3coltxtimgtxt
   - 2colimgtxt
   - 2coltxtimg
-  - 2colTitreTxt
-  - 2col2tiers1tiers
-  - 4col2imgTxtImg
-  - 3coltxtimgtxt
-  - blogPostList
-  - listServices
-  - listServices2
   - parlaxgridtxtimg
   - liststyle01
   - liststyle01numbered
   - imagegallery02
-  - imgWide
-  - imgWideInBox
   - numberinfo
   - cta
-  - ctaShop4col
+  - imgWide
   - ZEHEROintro
+  - 4col2imgTxtImg
+  - ctaShop4col
+  - 4col2imgTxtImg
+  - 2col2tiers1tiers
+  - ctaShop4col
+  - 2colTitreTxt
   - newsletter
-  - separatorLine
   - video2colImgTxt
   - videoPopup
+  - separatorLine
   config:
     min: 
     max: 
 pages:
-- content/_fr/pages/ete/activity/canyoning.md
 - content/_fr/pages/ete/activity/coaching-sportif-a-antibes-alpes-maritimes.md
 - content/_fr/pages/ete/activity/coaching-trail-et-course-a-pied-a-antibes-dans-les-alpes-maritimes.md
 - content/_fr/pages/ete/activity/courir-dans-les-alpes-maritimes-mer-et-prealpes-d-azur.md
