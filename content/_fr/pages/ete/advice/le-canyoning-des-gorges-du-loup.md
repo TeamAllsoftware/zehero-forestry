@@ -1,5 +1,5 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: summer
 meta-description: Découvrez le canyoning des gorges du Loup. Un canyon très ludique,
@@ -65,5 +65,12 @@ page_sections:
     href_button: https://www.ze-hero.com/fr/contact
   intro: Profitez d'un moment de sensation forte dans les
   headline: Gorges du Loup
+  blockBGcolor: ''
+  marge: ''
+type: generic
+level: 2
+titleHome: 'Canyoning des Gorges du Loup : Sauts et familiale'
+activite: canyoning
+baseline: ''
 
 ---
