@@ -1,5 +1,5 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: summer
 meta-description: Découvrez tous nos conseils afin de savoir comment bien s'équiper
@@ -98,5 +98,10 @@ page_sections:
 
     Vous avez maintenant toutes les clefs en main pour faire votre achat de combinaison !
   title: 'Bon à savoir :'
+type: generic
+level: 2
+activite: surf
+titleHome: ''
+baseline: ''
 
 ---
