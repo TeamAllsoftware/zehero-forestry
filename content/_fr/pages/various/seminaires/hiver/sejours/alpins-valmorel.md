@@ -9,8 +9,8 @@ title: Valmorel, ski nature
 permalink: "/fr/seminaires-hiver/idee-sejour-valmorel"
 meta-title: Valmorel, ski nature au "Grand Domaine"
 meta-description: Entre Vanoise et Beaufortain, Valmorel, village harmonieux skis aux pieds, s'intègre à merveille avec son environnement avec ses chalets de pierre et bois et ses toits en lauze... 
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650974625/website/resorts/Valmorel/jeanne-brossette-s2HRKJtJzW8-unsplash.jpg
-image_alt: Vue sur les montagnes enneigées aux alentours de la station de Valmorel dans les Alpes
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650974625/website/resorts/Valmorel/jeanne-brossette-s2HRKJtJzW8-unsplash.jpg
+image01_alt: Vue sur les montagnes enneigées aux alentours de la station de Valmorel dans les Alpes
 redirection_from:
 price: 299
 headline: Entre Vanoise et Beaufortain, Valmorel, village harmonieux skis aux pieds, s'intègre à merveille avec son environnement avec ses chalets de pierre et bois et ses toits en lauze... 

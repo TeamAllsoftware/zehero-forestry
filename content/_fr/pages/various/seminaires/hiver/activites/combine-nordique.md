@@ -9,8 +9,8 @@ title: Combiné nordique
 permalink: "/fr/seminaires-hiver/activites/combine-nordique"
 meta-title: Combiné nordique
 meta-description: Des épreuves nordiques adaptées à vos envies (par équipes)
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714160/website/Seminaires/hiver/IMG_3937.jpg
-image_alt: Epreuves de combiné nordique lors d'un challenge nordique en séminaire d'entreprise
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714160/website/Seminaires/hiver/IMG_3937.jpg
+image01_alt: Epreuves de combiné nordique lors d'un challenge nordique en séminaire d'entreprise
 redirection_from:
 price: 75
 headline: Des épreuves nordiques adaptées à vos envies (par équipes)

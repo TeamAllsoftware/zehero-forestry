@@ -9,8 +9,8 @@ title: Journée ski entreprise
 permalink: "/fr/seminaires-hiver/journees/ski-entreprise"
 meta-title: Journée ski entreprise
 meta-description: Une journée de ski d'entreprise durant laquelle vos équipes profitent d'un moment exceptionnel pour créer du lien différement.
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
-image_alt: Un skieur descend une magnifique piste bien dammée
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
+image01_alt: Un skieur descend une magnifique piste bien dammée
 redirection_from:
 price: 95
 headline: Une journée de ski d'entreprise durant laquelle vos équipes profitent d'un moment exceptionnel pour créer du lien différement.

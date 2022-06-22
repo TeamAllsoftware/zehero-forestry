@@ -17,7 +17,7 @@ page_sections:
   title: Liste des activités pour les séminaires hiver
   content: |-
     ZE HERO Séminaires organise votre événement d’entreprise entre Savoies, Mont Blanc et Jura, au cœur d’une nature généreuse, de massifs enneigés, de villages charmants et de lacs étincelants... un cadre unique à moins de 4h de Paris, qui sera apprécié par tous.
-- template: listServices
+- template: listServices2
   service: activites
 - template: cta
   intro: Demande de devis

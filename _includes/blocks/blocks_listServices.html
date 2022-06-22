@@ -1,6 +1,3 @@
-{% case page.type %}
-  {% when 'generic' %}
-
 <section class="padding-100px-tb {% if block.blockBGcolor == 'gris' %} bg-light-gray {% endif %}">
     {% if block.headtitle %}
     <div class="container">
@@ -86,34 +83,3 @@
         </div>
     </div>
 </section>
-
-{% when 'B2B' %}
-<!-- start section -->
-<section class="p-0 wow animate__fadeIn">
-    <div class="container">
-        <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center margin-9-rem-bottom lg-margin-7-rem-bottom">
-            {% assign collection = site[page.collection] %}
-            {% assign serviceType = block.service %}
-            {% assign servicePath = season_language | prepend:'/' | append: '/' | append: serviceType | append: '/' %}
-            
-            {% for service in collection %}
-            {% if service.path contains servicePath %}
-            <!-- start testimonial item -->
-            <div class="col margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
-                <div class="testimonials-style-02 border-radius-5px overflow-hidden">
-                    <img class="d-inline-block" loading="lazy" src="{{ imgsize.url }}{{ imgsize.blogpostlist }}{{ service.image_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ service.image_alt }}"  width="600px" height="450px" />
-                    <div class="testimonials-content padding-3-half-rem-all bg-light-gray  lg-padding-2-half-rem-lr">
-                        <h3 class="h-70px h3 alt-font font-weight-500 text-extra-dark-gray text-uppercase d-block">{{ service.title }}</h3>
-                        <p class="h-200px">{{ service.headline }}</p>
-                        <a href="{{ service.url }}" class="btn btn-large btn-{{ site.data.config[page.type].site-color }} btn-round-edge-small" title="Visiter la page {{ service.title }}">A partir de {{ service.price }}€ / pers</a>                        
-                    </div>
-                </div>
-            </div>
-            <!-- end testimonial item -->
-            {% endif %}
-            {% endfor %}
-        </div>
-    </div>
-</section>
-<!-- end section -->
-{% endcase %}

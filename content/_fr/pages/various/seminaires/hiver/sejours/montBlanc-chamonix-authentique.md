@@ -9,8 +9,8 @@ title: Chamonix en chalet-hôtel
 permalink: "/fr/seminaires-hiver/idee-sejour-chamonix-authentique"
 meta-title: Chamonix authentique en chalet-hôtel
 meta-description: Construit en 1928, ce chalet traditionnel revisité conjugue à merveille l'histoire de Chamonix avec son présent de capitale de l'arc alpin et s'offre comme un refuge face au glacier des Bossons pour organiser des événements d'entreprise magiques.
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649831424/website/resorts/Chamonix/jonathan-fors-fPivsmZ4t_E-unsplash.jpg
-image_alt: Vue du centre ville de Chamonix authentique
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649831424/website/resorts/Chamonix/jonathan-fors-fPivsmZ4t_E-unsplash.jpg
+image01_alt: Vue du centre ville de Chamonix authentique
 redirection_from:
 price: 299
 headline: Construit en 1928, ce chalet traditionnel revisité conjugue à merveille l'histoire de Chamonix avec son présent de capitale de l'arc alpin et s'offre comme un refuge face au glacier des Bossons.

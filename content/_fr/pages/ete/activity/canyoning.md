@@ -6,7 +6,7 @@ type: generic
 topnav_color_text: dark
 title: Canyoning
 titleHome: Débuter en canyoning
-activite: canyonning
+activite: canyonning 
 level: 1
 enHome: 1
 permalink: "/fr/ete/activites/canyoning"

@@ -18,7 +18,7 @@ page_sections:
     Notre expérience du terrain et de l'organisation de séminaires nous permet de proposer des idées de séjours. Vous pouvez choisir un séjour tout fait ou nous demander la réalisation d'un séminaire sur mesure. 
     
     Le but d'un séminaire d'un entreprise est de sortir de son environnement de travail quotidien et retrouver ses collègues autour d'activités originales pour créer de nouveaux liens et parfois découvrir des personalités insoupconnées dans le cadre du travail.
-- template: listServices
+- template: listServices2
   service: sejours
 - template: textarea
   title: Conditions

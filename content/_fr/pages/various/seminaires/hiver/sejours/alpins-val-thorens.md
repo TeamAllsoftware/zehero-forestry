@@ -9,8 +9,8 @@ title: Val Thorens
 permalink: "/fr/seminaires-hiver/idee-sejour-val-thorens"
 meta-title: Séjour à Val Thorens, plus haut village d'Europe !
 meta-description: Val Thorens (2 300 m), sommet des « 3 Vallées » et référence mondiale du ski offre son cirque grandiose de haute montagne et un enneigement exceptionnel.
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640165708/website/resorts/val-thorens/Val-Thorens-ecole-de-ski_apwjr4.jpg
-image_alt: Vue aérienne de la station de Val-Thorens dans les 3 Vallées
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640165708/website/resorts/val-thorens/Val-Thorens-ecole-de-ski_apwjr4.jpg
+image01_alt: Vue aérienne de la station de Val-Thorens dans les 3 Vallées
 redirection_from:
 price: 359
 headline: Val Thorens (2 300 m), sommet des « 3 Vallées » et référence mondiale du ski offre son cirque grandiose de haute montagne et un enneigement exceptionnel.

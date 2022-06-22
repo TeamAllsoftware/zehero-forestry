@@ -9,8 +9,8 @@ title: La nuit des loups
 permalink: "/fr/seminaires-ete/activites/nuit-des-loups"
 meta-title: La nuit des loups
 meta-description: Pour votre prochain séminaire d'entreprise vivez 24h avec une meute de loups pour une expérience formidable.
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654251642/website/Seminaires/ete/ray-hennessy-9rloii_qmmw-unsplash.jpg
-image_alt: Un loup se découpe dans le paysage nocture
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654251642/website/Seminaires/ete/ray-hennessy-9rloii_qmmw-unsplash.jpg
+image01_alt: Un loup se découpe dans le paysage nocture
 redirection_from:
 price: 149
 headline: |-

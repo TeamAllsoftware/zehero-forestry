@@ -9,8 +9,8 @@ title: Les Saisies, station Olympique
 permalink: "/fr/seminaires-hiver/idee-sejour-les-saisies"
 meta-title: Les Saisies, station Olympique
 meta-description: Surnommé le "Tyrol français", ce vaste plateau d'alpages situé entre Beaufortain et Val d'Arly offre une vue imprenable sur le Mont Blanc... Village réputé pour son domaine nordique (épreuves des JO de 1992), son domaine alpin demeure très vaste et très bien équipé, en témoigne son champion olympique Franck PICCARD médaillé à Calgary (1988) puis à Albertville (1992).
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714123/website/Seminaires/hiver/IMG_3941.jpg
-image_alt: Un participant aux activités de séminaire d'entreprise
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714123/website/Seminaires/hiver/IMG_3941.jpg
+image01_alt: Un participant aux activités de séminaire d'entreprise
 redirection_from:
 price: 319
 headline: Surnommé le "Tyrol français", ce vaste plateau d'alpages situé entre Beaufortain et Val d'Arly offre une vue imprenable sur le Mont Blanc...

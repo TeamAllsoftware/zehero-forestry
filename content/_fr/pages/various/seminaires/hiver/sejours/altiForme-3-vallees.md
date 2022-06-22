@@ -9,8 +9,8 @@ title: Ski et Bien-être dans les "3 Vallées"
 permalink: "/fr/seminaires-hiver/idee-sejour-bien-etre-3-vallees"
 meta-title: Ski et Bien-être dans les "3 Vallées"
 meta-description: Ville thermale de la vallée de Bozel spécialisée dans le bien-être par la diététique et la cuisine légère, Brides-Les-Bains offre l'immense atout d'être reliée à Méribel, coeur des "3 Vallées".
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652727970/website/resorts/meribel/maxence-pion-kG8sYayElYs-unsplash.jpg
-image_alt: Vue aérienne sur la station de Méribel sous la neige
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652727970/website/resorts/meribel/maxence-pion-kG8sYayElYs-unsplash.jpg
+image01_alt: Vue aérienne sur la station de Méribel sous la neige
 redirection_from:
 price: 359
 headline: Ville thermale de la vallée de Bozel spécialisée dans le bien-être par la diététique et la cuisine légère, Brides-Les-Bains offre l'immense atout d'être reliée à Méribel, coeur des "3 Vallées".

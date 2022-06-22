@@ -9,8 +9,8 @@ title: Journée challenge des neiges
 permalink: "/fr/seminaires-hiver/journees/challenge-des-neiges"
 meta-title: Journée challenge des neiges
 meta-description: Les Jeux Olympiques d'hiver de votre entreprise lors d'une journée challenge  des neiges
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Sourire-neige_jdsltw.jpg
-image_alt: Une participante au sémianire hilare de bonheur dans la neige
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Sourire-neige_jdsltw.jpg
+image01_alt: Une participante au sémianire hilare de bonheur dans la neige
 redirection_from:
 price: 95
 headline: Les Jeux Olympiques d'hiver de votre entreprise lors d'une journée challenge  des neiges

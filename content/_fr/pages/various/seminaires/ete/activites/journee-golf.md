@@ -9,8 +9,8 @@ title: Golf, Scramble ou initiation
 permalink: "/fr/seminaires-ete/activites/golf"
 meta-title: Golf, Scramble ou initiation
 meta-description: Initiation au golf en groupe sur practice, ou partie Scramble (un joueur confirmé joue en duo avec un novice)
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654256402/website/Seminaires/ete/andrew-anderson-6I0LxsA7Pd4-unsplash.jpg
-alt_href: Un homme et son caddie lors d'une partie de golf
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654256402/website/Seminaires/ete/andrew-anderson-6I0LxsA7Pd4-unsplash.jpg
+alt01_href: Un homme et son caddie lors d'une partie de golf
 redirection_from:
 price: 30
 headline: Initiation au golf en groupe sur practice, ou partie Scramble (un joueur confirmé joue en duo avec un novice)

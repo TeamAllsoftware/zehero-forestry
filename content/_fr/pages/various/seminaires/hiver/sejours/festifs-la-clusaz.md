@@ -9,8 +9,8 @@ title: La Clusaz, saveurs des Aravis
 permalink: "/fr/seminaires-hiver/idee-sejour-la-clusaz"
 meta-title: La Clusaz, saveurs des Aravis
 meta-description: Ce village montagnard authentique, sportif et festif, situé au cœur de la chaîne des Aravis est une étape incontournable des Alpes qui invite à déguster ses saveurs locales autour du célèbre reblochon fermier fabriqué depuis le 13ème...
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978792/website/resorts/La%20Clusaz/victoire-joncheray-UnKZKZiUQzQ-unsplash.jpg
-image_alt: Vue des toits enneigés des nombreux chalets de cette charmante station de la Clusaz
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650978792/website/resorts/La%20Clusaz/victoire-joncheray-UnKZKZiUQzQ-unsplash.jpg
+image01_alt: Vue des toits enneigés des nombreux chalets de cette charmante station de la Clusaz
 redirection_from:
 price: 290
 headline: Ce village montagnard authentique, sportif et festif, situé au cœur de la chaîne des Aravis est une étape incontournable des Alpes qui invite à déguster ses saveurs locales autour du célèbre reblochon fermier fabriqué depuis le 13ème...

@@ -9,8 +9,8 @@ title: Nature et Bien-être à Aix-les-Bains
 permalink: "/fr/seminaires-hiver/idee-sejour-lac-alpin-aix-les-bains"
 meta-title: Séjour Nature et Bien-être à Aix-les-Bains
 meta-description: Destination "sport et santé", Aix-les-Bains offre en spectacle le plus grand lac naturel de France avec ses rives abruptes et sauvages à découvrir en croisière
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726987/website/resorts/Aix-les-bains/mercvrie-YlWgxkbP_pY-unsplash.jpg
-image_alt: Vue aérienne sur le magnifique lac du Bourget à Aix-Les-Bains
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726987/website/resorts/Aix-les-bains/mercvrie-YlWgxkbP_pY-unsplash.jpg
+image01_alt: Vue aérienne sur le magnifique lac du Bourget à Aix-Les-Bains
 redirection_from:
 price: 319
 headline: Destination "sport et santé", Aix-les-Bains offre en spectacle le plus grand lac naturel de France avec ses rives abruptes et sauvages à découvrir en croisière

@@ -37,11 +37,35 @@ fields:
       file: 
       path: 
   label: season
+- name: level
+  type: select
+  default: 2
+  config:
+    required: 
+    options:
+    - 1
+    - 2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Page mère (1) ou fille (2) ?
 - name: title
   type: text
   config:
     required: true
   label: Title
+- name: titleHome
+  type: text
+  config:
+    required:
+  label: Surcharger le Title pour afficher autre chose dans les encarts de liste
+- name: activite
+  type: text
+  config:
+    required:
+  label: Quelle est l'activité ? Attention à l'orthographe afin que la "fille" retrouve la "mère"    
 - name: permalink
   type: text
   config:

@@ -9,8 +9,8 @@ title: Soirée Yourte dans la montagne
 permalink: "/fr/seminaires-hiver/activites/soiree-yourte-en-montagne"
 meta-title: Soirée Yourte dans la montagne
 meta-description: Ambiance et saveurs locales
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639607264/website/winter/francois-olwage-_FljDVONT4Y-unsplash_tjqq8h.jpg
-image_alt: Se faire tracter sur la neige, en ski, par un cheval, c'est le ski joëring ou skioring ou white turf
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639607264/website/winter/francois-olwage-_FljDVONT4Y-unsplash_tjqq8h.jpg
+image01_alt: Se faire tracter sur la neige, en ski, par un cheval, c'est le ski joëring ou skioring ou white turf
 redirection_from:
 price: 69
 headline: Ambiance et saveurs locales

@@ -18,7 +18,7 @@ page_sections:
   content: Lire dans vos yeux ce sentiment de béatitude que chacun ressent en vivant
     une émotion de profonde joie est notre plus grande quête, que vous soyez débutant
     ou amateur, seul, en famille ou entre amis.
-- template: listServices
+- template: listServices2
   service: activity
   filterCat: non
   filterLevel: 1
