@@ -47,9 +47,13 @@ page_sections:
 
     Pour bien débuter le surf, il est important de réserver des cours de surf avec un moniteur afin qu'il vous accompagne dans la connaissance du milieu et des aspects physiques et techniques. On débute généralement le surf sur les mousses des vagues, c’est-à-dire après plus près du bord afin d'avoir des vagues plus faciles à prendre et moins puissantes. Vous pouvez alors débuter le surf dans des stages ou des cours collectifs pour profiter d'être avec d'autres personnes, vos amis ou votre famille. Mais vous pouvez également réserver un cours privé pour une session de surf avec un moniteur totalement dédiée à vous.
 
+    Découvrez plus d'information sur notre page : [**Bien débuter en surf**](/fr/ete/conseils/debuter-surf)
+
     * S'équiper en surf
 
     S'équiper en surf dépendra de votre niveau en ce qui concerne la planche de surf. Il existe plusieurs types de surf, pour différents niveaux avec différentes constructions et différents types de pratique. En fonction de la température de l'eau, il vous faudra des combinaison longues ou courtes ou alors simplement un maillot, short et un lycra.
+
+    Découvrez plus d'information sur notre page : [**S'équiper en surf**](/fr/ete/conseils/equipement-surf)
 
     * Nos spots de surf
 
@@ -70,11 +74,11 @@ page_sections:
     ou progresser techniquement, nos partenaires mettent à votre disposition plusieurs
     offres. Vous pourrez débuter dans la discipline, mais également apprendre des
     techniques plus poussées et prendre des vagues plus hautes.  \nVoici nos différents
-    partenaires surf chez Ze Hero :\n\n* [**Sama Sama Surf School **](https://www.ze-hero.com/fr/ete/partenaires/sama-sama-surf-school)qui
-    est basé à Porge et Mimizan met à disposition différents cours collectifs et des
-    cours privé, ainsi que des offres de Surf Thérapie. Une école à l'écoute de vos
-    besoins dans une ambiance conviviale.\n* [**Morgan d'Avezac **](https://www.ze-hero.com/fr/ete/partenaires/morgan-davezac-surf-seignosse)est
-    une moniteur indépendant basé à Seignosse. Un moniteur qui a pratiqué le surf
+    partenaires surf chez Ze Hero :\n\n* [Sama Sama Surf School](https://www.ze-hero.com/fr/ete/partenaires/sama-sama-surf-school)
+    qui est basé à Porge et Mimizan met à disposition différents cours collectifs
+    et des cours privé, ainsi que des offres de Surf Thérapie. Une école à l'écoute
+    de vos besoins dans une ambiance conviviale.\n* [Morgan d'Avezac](https://www.ze-hero.com/fr/ete/partenaires/morgan-davezac-surf-seignosse)
+    est une moniteur indépendant basé à Seignosse. Un moniteur qui a pratiqué le surf
     à haut niveau et qui aujourd'hui vous propose des cours privés sur les plages
     de [**Seignosse**](https://www.ze-hero.com/fr/reserver-cours-ecole-surf-seignosse).
     Profitez de ses conseils avisées et techniques.\n* **Altantic Surf Academy** est

@@ -2,83 +2,46 @@
 menu:
 - title: Réserver une activité
   id: eshop
-  title-link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642604271/website/summer/eshop-ze-hero-activites-ete_mhzdw2.png
-  image-alt: Image illustrant la boutique en ligne ZE HERO
-  image-link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all
-  txt-button: Entrer dans le e-Shop
+  title-link: https://www.ze-hero.com/fr/ete/activites
+  image-href: ''
+  image-alt: ''
+  image-link: ''
+  txt-button: Réservez
   column-01:
-  - nested: Acheter
+  - nested: Nos activités
     menu-items:
-    - title: Vêtements
-      href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
-    - title: Accessoires de Trail Running
-      href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
-  column-02:
-  - nested: Réserver
-    menu-items:
-    - title: Escalade
-      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Escalade&start-date=
-    - title: Surf
-      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
-    - title: Trail
-      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
     - title: Canyoning
-      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
-    - title: Vélo de route
-      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
-    - title: Rafting
-      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Rafting&start-date=
-    - title: Randonnée
-      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Randonn%C3%A9e&start-date=#
-    - title: Hydrospeed
-      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hydrospeed&start-date=
-    - title: VTT
-      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
-    - title: Kayak
-      href: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Kayak&start-date=
-
-- title: Activites
-  id: "1"
-  title-link: "/fr/ete/activites"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592263/website/summer/eberhard-grossgasteiger-8lDkmXnKo7s-unsplash_wfd3xp.jpg
-  image-alt: Un VTT stationné en haut de la montagne prêt à faire une descente
-  image-link: "/fr/ete/activites"
-  txt-button: Toutes les activités
-  column-01:
-  - nested: Herbe, cailloux, asphalte
-    menu-items:
-    - title: " Trail Running Alpes Maritimes : mer et Préalpes Azur"
-      href: "/fr/trail-running-alpes-maritimes-prealpes-azur"
-    - title: Vélo de route - Séjour 6 jours - Méribel
-      href: "/fr/ete/activites/velo-de-route-sejour-6-jours-meribel"
-    - title: VTT electrique
-      href: "/fr/ete/activites/vtt-electrique"
-    - title: Vélo de route
-      href: "/fr/ete/activites/velo-de-route"
-    - title: Trail running
+      href: "/fr/ete/activites/canyoning"
+    - title: Trail
       href: "/fr/ete/activites/trail-running"
     - title: VTT
       href: "/fr/ete/activites/vtt"
-    - title: Randonnée en montagne
-      href: "/fr/ete/activites/randonnee-montagne"
-    - title: Traversée des Alpes à vélo
-      href: "/fr/ete/activites/traversee-des-alpes-en-velo"
-  column-02:
-  - nested: Air et eau
-    menu-items:
-    - title: Rafting
-      href: "/fr/ete/activites/rafting"
-    - title: Paddle
-      href: "/fr/ete/activites/paddle"
-    - title: Parapente
-      href: "/fr/ete/activites/parapente"
     - title: Surf
       href: "/fr/ete/activites/surf"
-    - title: Canyoning
-      href: "/fr/ete/activites/canyoning"
-    - title: Kayak
-      href: "/fr/ete/activites/kayak"
+  column-02:
+  - nested: Nos destinations
+    menu-items:
+    - title: Les Alpes Maritimes
+      href: "/fr/ete/destinations/alpes-maritimes"
+    - title: La Savoie
+      href: "/fr/ete/destinations/savoie"
+    - title: La Haute Savoie
+      href: "/fr/ete/destinations/haute-savoie"
+    - title: Les Landes
+      href: "/fr/ete/destinations/les-landes"
+    - title: Loire altantique
+      href: "/fr/ete/destinations/loire-atlantique"
+- title: Acheter
+  id: eshop
+  title-link: ''
+  image-href: ''
+  image-alt: ''
+  image-link: ''
+  txt-button: ''
+  column-01:
+  - nested: ''
+    menu-items: ''
+  column-02: ''
 - title: Conseils
   id: "2"
   title-link: "/fr/ete/conseils"
@@ -87,23 +50,53 @@ menu:
   image-link: "/fr/ete/conseils"
   txt-button: Tous les conseils
   column-01:
-  - nested: Matériel
+  - nested: Nos itinéraires / Spots
     menu-items:
-    - title: Comment bien préparer sa sortie de randonnée à la journée ?
+    - title: Les spots de canyoning autour d'Annecy
+      href: "/fr/ete/activites/canyoning-annecy"
+    - title: Nos spots de canyoning dans les Alpes Maritimes
+      href: "/fr/meilleurs-spots-canyoning-alpes-maritimes"
+    - title: La traversée des Préalpes à vélo
+      href: "/fr/ete/activites/traversee-des-pre-alpes-en-velo"
+    - title: La traversée des Alpes à vélo
+      href: "/fr/ete/activites/traversee-des-alpes-en-velo"
+    - title: Courir dans les Préalpes d'Azur
+      href: "/fr/trail-running-alpes-maritimes-prealpes-azur"
+    - title: Séjours 6 jours à vélo à Méribel
+      href: "/fr/ete/activites/velo-de-route-sejour-6-jours-meribel"
+    - title: Les itinéraires de trail dans les Alpes Maritimes
+      href: "/fr/ete/conseils/itineraires-trail-alpes-maritimes"
+  - nested: S'équiper
+    menu-items:
+    - title: S'équiper en randonnée
       href: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
-    - title: Location Matériel Canyoning 06
-      href: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
-    - title: Que mettre dans son sac de randonnée pour une journée ?
-      href: "/fr/ete/conseils/liste-materiel-randonnee"
-    - title: Comment bien s'équiper en trail ?
+    - title: S'équiper en canyoning
+      href: "/fr/ete/conseils/equipement-canyoning"
+    - title: S'équiper en trail
       href: "/fr/ete/conseils/equipement-trail"
     - title: Comment choisir ses chaussures de trail ?
       href: "/fr/ete/conseils/chaussures-trail"
+    - title: Que mettre dans son sac de randonnée pour une journée ?
+      href: "/fr/ete/conseils/liste-materiel-randonnee"
+    - title: Location Matériel Canyoning 06
+      href: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
   column-02:
-  - nested: Outdoor
+  - nested: Débuter
     menu-items:
-    - title: Les différents conseils pour le canyoning
+    - title: Débuter la randonnée en montagne
+      href: "/fr/ete/conseils/débuter-randonnée-montagne"
+    - title: Débuter le canyoning
       href: "/fr/ete/conseils/conseils-canyoning"
+    - title: Débuter le trail
+      href: "/fr/ete/conseils/comment-debuter-trail"
+  - nested: Tous nos conseils outdoor
+    menu-items:
+    - title: Coaching privé ou collectif ?
+      href: "/fr/ete/conseils/coaching-prive-collectif"
+    - title: Le fractionné en trail
+      href: "/fr/ete/conseils/fractionne-trail"
+    - title: Se préparer pour un trail
+      href: "/fr/ete/conseils/preparation-course-trail"
     - title: Nos activités outdoor dans les Alpes Maritimes 06
       href: "/fr/ete/conseils/nos-activites-outdoor-alpes-maritimes"
     - title: Nos activités outdoor en Savoie 73
@@ -114,82 +107,6 @@ menu:
       href: "/fr/ete/conseils/activites-montagne-ete"
     - title: Séjours et activités en vélo de route
       href: "/fr/ete/conseils/sejours-activites-velo-de-route"
-    - title: Comment bien préparer sa sortie de randonnée à la journée
-      href: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
-  - nested: Préparation
-    menu-items:
-    - title: Comment débuter le trail ?
-      href: "/fr/ete/conseils/comment-debuter-trail"
-    - title: Les itinéraires de trail dans le 06
-      href: "/fr/ete/conseils/itineraires-trail-alpes-maritimes"
-    - title: Le fractionné en Trail
-      href: "/fr/ete/conseils/fractionne-trail"
-    - title: Comment se préparer à un 1er trail ?
-      href: "/fr/ete/conseils/preparation-course-trail"
-    - title: Coaching privé ou collectif
-      href: "/fr/hiver/activite/coaching-sportif"
-- title: Destinations
-  id: "3"
-  title-link: "/fr/ete/destinations"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642588326/website/summer/pexels-kyle-loftus-2734521_k8jcqo.jpg
-  image-alt: Les Gorges du Verdon avec des kayaks et canoés
-  image-link: "/fr/ete/destinations"
-  txt-button: Toutes les destinations
-  column-01:
-  - nested: Les destinations
-    menu-items:
-    - title: Chamonix
-      href: "/fr/ete/destinations/chamonix"
-    - title: Aix les Bain - Le Revard
-      href: fr/ete/destinations/aix-les-bains-le-revard
-    - title: Val d'Isère
-      href: "/fr/ete/destinations/val-d-isere"
-    - title: Alpe d'Huez
-      href: "/fr/ete/destinations/alpe-huez"
-    - title: Les Menuires
-      href: "/fr/ete/destinations/les-menuires"
-    - title: Méribel
-      href: "/fr/ete/destinations/meribel"
-    - title: Val-Thorens
-      href: "/fr/ete/destinations/val-thorens"
-  column-02:
-  - nested: Les stations balnéaires
-    menu-items:
-    - title: Porge
-      href: "/fr/ete/destinations/porge"
-    - title: Hossegor
-      href: "/fr/ete/destination/hossegor"
-    - title: Messanges
-      href: "/fr/ete/destination/messanges"
-    - title: Seignosse
-      href: "/fr/ete/destination/seignosse"
-    - title: Moliets et Maâ
-      href: "/fr/ete/destination/moliet-et-maa"
-    - title: St Brévin les pins
-      href: "/fr/ete/destinations/st-brevin-les-pins"
-    - title: Antibes
-      href: "/fr/ete/destinations/antibes"
-  column-03:
-  - nested: Les régions
-    menu-items:
-    - title: Gard
-      href: "/fr/ete/destinations/le-gard"
-    - title: Haute-Savoie
-      href: "/fr/ete/destinations/haute-savoie"
-    - title: Landes
-      href: "/fr/ete/destinations/les-landes"
-    - title: Loire Atlantique
-      href: "/fr/ete/destinations/loire-atlantique"
-    - title: Les Alpes Maritimes
-      href: "/fr/ete/destinations/alpes-maritimes"
-    - title: Lozère
-      href: "/fr/ete/destinations/savolozereie"
-    - title: Pays-Basque
-      href: "/fr/ete/destinations/pays-basque"
-    - title: Savoie
-      href: "/fr/ete/destinations/savoie"
-    - title: Tarn
-      href: "/fr/ete/destinations/le-tarn"
 - title: Partenaires
   id: "4"
   title-link: "#"
@@ -199,6 +116,8 @@ menu:
   column-01:
   - nested: Les partenaires
     menu-items:
+    - title: Sorties de routes
+      href: "/fr/ete/partenaires/sorties-de-route"
     - title: Expérience Vélo
       href: "/fr/ete/partenaires/experience-velo"
     - title: 7 Aventures

@@ -40,9 +40,13 @@ page_sections:
 
     Débuter le VTT et le VAE, c'est être encadré par un moniteur afin de parcourir des sentiers dans un environnement naturel. C'est profiter de l'émulsion d'un groupe, de découvrir des lieux, des paysages, de rouler en montagne, en forêts. Vous pourrez alors apprendre comment bien pédaler en montée, les techniques de descente et profiter du moment. Que ce soit pour des petites balades, de longues randonnées pour famille ou sportive, partez rouler en VTT et VAE.
 
+    Plus d'information sur notre page : [**Débuter à VTT**](/fr/ete/conseils/debuter-vtt)
+
     * S'équiper en VTT et VAE
 
     S'équiper en VTT et VTT électrique c'est tout d'abord avoir des vêtements adaptés à l'activité. Il vous faudra vous protéger avec un casque et parfois des protections supplémentaires tel qu'aux coudes, genoux, cheville et dos. Il vaut mieux porter des lunettes afin de ne pas recevoir de projectiles dans les yeux. En ce qui concerne les VTT, si vous êtes encadrés par un moniteur, vous pourrez louer dans un magasin ou directement auprès de lui votre VTT.
+
+    Plus d'informations sur notre page : [**S'équiper en VTT**](/fr/ete/conseils/equipement-vtt)
 
     * Nos itinéraires de VTT et VAE
 

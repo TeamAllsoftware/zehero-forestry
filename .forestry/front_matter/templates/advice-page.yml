@@ -143,13 +143,25 @@ fields:
     min: 
     max: 
 pages:
+- content/_fr/pages/ete/advice/bien-debuter-a-vtt.md
+- content/_fr/pages/ete/advice/bien-s-equiper-en-surf.md
+- content/_fr/pages/ete/advice/bien-s-equiper-en-vtt.md
+- content/_fr/pages/ete/advice/canyoning-clue-de-la-cerise.md
+- content/_fr/pages/ete/advice/canyoning-de-planfae.md
+- content/_fr/pages/ete/advice/canyoning-ruisseau-audin.md
 - content/_fr/pages/ete/advice/coaching-prive-ou-collectif.md
 - content/_fr/pages/ete/advice/comment-bien-preparer-sa-sortie-de-randonnee-a-la-journee.md
 - content/_fr/pages/ete/advice/comment-choisir-ses-chaussures-de-trail.md
 - content/_fr/pages/ete/advice/comment-debuter-le-trail.md
 - content/_fr/pages/ete/advice/comment-s-equiper-en-trail.md
+- content/_fr/pages/ete/advice/debuter-en-surf.md
+- content/_fr/pages/ete/advice/debuter-la-randonnee-en-montagne.md
 - content/_fr/pages/ete/advice/faire-du-fractionne-en-trail.md
 - content/_fr/pages/ete/advice/la-preparation-d-une-course-de-trail.md
+- content/_fr/pages/ete/advice/le-canyoning-de-cramassouri.md
+- content/_fr/pages/ete/advice/le-canyoning-des-gorges-du-loup.md
+- content/_fr/pages/ete/advice/le-canyoning-du-haut-jabron.md
+- content/_fr/pages/ete/advice/le-gours-du-ray.md
 - content/_fr/pages/ete/advice/les-differentes-planches-de-surf.md
 - content/_fr/pages/ete/advice/les-differents-conseils-pour-le-canyoning.md
 - content/_fr/pages/ete/advice/les-itineraires-de-trail-dans-les-alpes-maritimes.md
@@ -160,6 +172,7 @@ pages:
 - content/_fr/pages/ete/advice/pourquoi-vous-devriez-sortir-en-montagne-en-foret-ou-autre.md
 - content/_fr/pages/ete/advice/quels-activites-faire-en-montagne-durant-l-ete.md
 - content/_fr/pages/ete/advice/randonner-dans-le-mercantour.md
+- content/_fr/pages/ete/advice/s-equiper-en-canyoning.md
 - content/_fr/pages/ete/advice/sejours-et-activites-en-velo-de-route.md
 - content/_fr/pages/hiver/advice/choisir-ses-batons-de-ski.md
 - content/_fr/pages/hiver/advice/choisir-ses-chaussures-de-ski.md

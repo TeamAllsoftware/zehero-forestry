@@ -20,8 +20,7 @@ meta-description: 'Trouver votre sortie à vélo en parcourant cols et itinérai
 baseline: Explorer, rouler et grimper
 engage: Explorez de nouveaux horizons et grimpez les cols mythiques
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654868042/website/summer/munbaik-cycling-clothing-Ot1rw5r6eF8-unsplash.jpg
-image01_alt: '3 cyclistes faisant du vélo de route à travers les Alpes
-  ensoleillé '
+image01_alt: '3 cyclistes faisant du vélo de route à travers les Alpes ensoleillé '
 categorie: Vélo
 page_sections:
 - template: textarea
@@ -30,67 +29,30 @@ page_sections:
     de grimper des cols mythiques. Que ce soit pour le plaisir ou la performance,
     vous trouverez dans le vélo le dépassement de soi, la découverte, mais également
     de fortes sensations en descente.  \nQue ce soit en montagne, dans les plaines,
-    sur des routes sauvages, vous trouverez des itinéraires magnifiques et surprenants."
+    sur des routes sauvages, vous trouverez des itinéraires magnifiques et surprenants.
+    \ \nPartez réaliser des traversés à vélo, en traversant les Alpes par exemple
+    par les cols mythiques."
   title: Le vélo de route
   blockBGcolor: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: |-
+    * Débuter à vélo de route
+
+    Si vous souhaitez vous initier à cette pratique, vous pourrez louer un vélo de route, être encadré lors d'une sortie découverte à vélo. Débuter à vélo de route, c'est apprendre à bien pédaler, savoir jouer avec les vitesses et plateaux et surtout bien se positionner sur son vélo. Le vélo demande une bonne condition physique et musculaire. Si vous désirez partir réaliser des traversées tel que les Alpes, les Préalpes ou enchaîner plusieurs journées de vélo autour de Méribel, il est important d'avoir roulé avant. Commencez par des sorties de 1h30 puis augmentez progressivement les heures à vélo tout comme le dénivelé.
+
+    * S'équiper pour le vélo de route
+
+    Si vous voulez vous initier au vélo, vous pourrez tout d'abord en louer un afin de tester et de voir ce qui vous plaît et vous convient. Vous pourrez alors essayer de rouler avec les cales. Ensuite il vous faudra porter un cuissard, un haut zippé avec les poches arrière pour plus de facilités pour ranger vos affaires, une gourde, un casque, des lunettes de soleil. Vous pouvez également prendre des gants spéciaux pour le vélo, un coupe-vent également et bien sûr un petit kit de réparation en cas de crevaison.
+
+    * Nos spots pour le vélo de route
+
+    Le vélo de route se pratique absolument partout. La France est un pays réputé pour le cyclisme et il y a un panel d'itinéraire, de boucle, de traversée et de col mythique. Avec Ze Hero aujourd'hui, nous vous proposons des expériences uniques à travers les Alpes et les Préalpes mais également en Savoie, dans la Tarentaise, autour de Méribel pour découvrir le vélo en montagne.
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234200/website/assets/Recadr%C3%A9es/veloroute.png
   alt_text_for_image: Velo de route sur bitume
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642669650/website/summer/mizzi-westphal-LIdAmXo7eqA-unsplash_c7pfwz.jpg
-  captiontitleuppercase: Partager un moment sur la route
-  title: Roulez et dépassez-vous
-  content: Le vélo de route est accessible à tous et permet de partager des moments
-    en groupe dans un environnement et un cadre parfois magnifique. C'est une activité
-    physique mais en fonction des parcours, elle peut être plus adaptée à des personnes
-    désirant des itinéraires moins longs et avec moins de dénivelé. Aller grimper
-    les cols, c'est atteindre des [sommets mythiques](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)
-    en vélo et avoir des panoramas grandioses.
-  alt_text_for_image: Femme faisant du vélo de route dans une montée en direction
-    d'un col en montagne
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: gris
-- template: textarea
-  title: Une activité partout en France
-  content: |-
-    Hormis en hiver où cette activité est moins pratiquée, le vélo de route se fait partout en France et quasiment toute l'année. Bien-sûr si vous désirez absolument réaliser des cols routiers, il faudra se rapprocher des montagnes, sinon il y aura de magnifiques routes à travers les campagnes, les forêts, le littoral et bien d'autre.
-
-    Afin de monter efficacement et atténuer son épuisement, il est essentiel d'apprendre la partie technique du vélo. Ces connaissances vous permettront par exemple de bien gérer vos pauses et votre ravitaillement. L'avantage du vélo de route en groupe est la possibilité d'échanger et partager un bon moment avec d'autres personnes. L'émulsion d'un groupe vous offre bien souvent de la motivation supplémentaire et rend l'effort physique plus facile ! Les sorties en groupe permettent également de moins se fatiguer en bénéficiant de l'aspiration.
-  blockBGcolor: ''
-- template: parlaxgridtxtimg
-  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883619/website/summer/Velo-duo-amis_rnipw2.jpg
-  captionabovetitle: Plaisir et performance
-  title: Quand les kilomètres défilent
-  gridline1title: De quelques heures à plusieurs jours
-  gridline1content: Le vélo de route vous permet de partir quelques heures sur un
-    parcours, une boucle ou simplement une ascension d'un ou deux cols. Mais il permet
-    également de partir en itinéraire sur plusieurs jours afin de réaliser des traversées
-    telles que la traversée des Alpes.
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642520836/website/summer/pexels-pavel-danilyuk-5807677_qkak2i.jpg
-  gridline2title: Des parcours uniques
-  gridline2content: Vous trouverez un panel d'itinéraires et de parcours variés qui
-    vous permettront de découvrir des lieux tout en se dépensant physiquement et mentalement.
-    Vous pouvez également venir sans vélo de route et le louer là où vous souhaitez
-    rouler.
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642671861/website/summer/viktor-bystrov-Gi0OMNguFaw-unsplash_mekt50.jpg
-  prlax_alt_text_for_image: Deux personnes faisant du vélo de route sur une route
-    de campagne
-  grid_1_alt_text_for_image: Trois personnes faisant du vélo de route sur une route
-    bordée de pins
-  grid_2_alt_text_for_image: Cycliste faisant du vélo de route sur une route de montagne
-- template: textarea
-  title: Etre encadré
-  content: En réservant une sortie à vélo, vous bénéficiez des conseils d'un professionnel
-    qui guidera votre sortie. Il sera en mesure de vous expliquer comment bien rouler
-    et être efficace sur son vélo. Il sera également possible de se laisser guider
-    sur de jolis parcours, de réaliser des ascensions. De plus, vous pourrez profiter
-    d'un ravitaillement et un suivi en voiture lorsque vous partez pour plusieurs
-    jours.
-  blockBGcolor: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-traversee-des-alpes-nice_jyfbgw.jpg
@@ -129,6 +91,8 @@ page_sections:
 
     * Séjour de 6 jours autour de Méribel : [plus d'infos ici !](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)
     * Journées autour de Méribel : [plus d'infos ici !](https://www.ze-hero.com/fr/ete/activites/velo-de-route-journees-meribel)
+
+    Chacune de ces offres est en partenariat avec [**l'Hôtel Le Savoy**](https://www.ze-hero.com/fr/ete/partenaires/le-savoy-meribel).
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
     text_button: Réservez votre activité vélo à Méribel
