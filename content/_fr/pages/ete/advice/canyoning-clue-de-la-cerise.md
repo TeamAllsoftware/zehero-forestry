@@ -1,5 +1,5 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: summer
 meta-description: Découvrez et réservez votre canyoning dans le clue de la cerise.
@@ -69,5 +69,12 @@ page_sections:
   button:
     text_button: 'Réservez ici '
     href_button: https://www.ze-hero.com/fr/contact
+  blockBGcolor: ''
+  marge: ''
+type: generic
+level: 2
+activite: canyoning
+titleHome: 'Canyoning Clue de la cerise : randonnée aquatique'
+baseline: ''
 
 ---
