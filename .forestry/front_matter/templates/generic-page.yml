@@ -73,13 +73,14 @@ fields:
 - name: titleHome
   type: text
   config:
-    required:
+    required: 
   label: Surcharger le Title pour afficher autre chose dans les encarts de liste
 - name: activite
   type: text
   config:
-    required:
-  label: Quelle est l'activité ? Attention à l'orthographe afin que la "fille" retrouve la "mère"    
+    required: 
+  label: Quelle est l'activité ? Attention à l'orthographe afin que la "fille" retrouve
+    la "mère"
 - name: permalink
   type: text
   config:
