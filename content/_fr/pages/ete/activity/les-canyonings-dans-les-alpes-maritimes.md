@@ -5,7 +5,7 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Le canyoning dans les Alpes Maritimes
-activite: canyonning
+activite: canyoning
 level: 2
 permalink: "/fr/meilleurs-spots-canyoning-alpes-maritimes"
 redirect_from:

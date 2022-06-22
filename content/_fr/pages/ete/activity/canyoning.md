@@ -6,7 +6,7 @@ type: generic
 topnav_color_text: dark
 title: Canyoning
 titleHome: Débuter en canyoning
-activite: canyonning 
+activite: 10 
 level: 1
 permalink: "/fr/ete/activites/canyoning"
 redirect_from:
@@ -37,6 +37,14 @@ page_sections:
     faciles et plus adaptées à des enfants ou des personnes désirant seulement faire
     une randonnée aquatique avec quelques sauts et glissades en toboggan."
   blockBGcolor: ''
+- template: listServices2
+  service: activity
+  whatActivity: canyoning
+  filterLevel: 2
+  blockBGcolor: blanc
+  headtitle:
+    headline: ZE HERO propose
+    title: Des activités pour la saison estivale
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de canyoning

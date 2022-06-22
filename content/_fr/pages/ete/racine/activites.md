@@ -18,12 +18,10 @@ page_sections:
   content: Lire dans vos yeux ce sentiment de béatitude que chacun ressent en vivant
     une émotion de profonde joie est notre plus grande quête, que vous soyez débutant
     ou amateur, seul, en famille ou entre amis.
-- template: listServices2
+- template: listServices
   service: activity
-  filterCat: non
-  activite: canyoning
-  filterLevel: 2
-  filterHome: 2
+  filterLevel: 1
+  filterHome: 1
   blockBGcolor: blanc
   headtitle:
     headline: ZE HERO propose

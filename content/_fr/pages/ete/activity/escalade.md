@@ -9,6 +9,8 @@ meta-description: Découvrez l'escalade en grimpant vos 1er voies. Que ce soit e
   ou en extérieur profitez de découvrir cette activité physique, technique et qui
   vous fera découvrir la nature d'une autre façon. 
 title: Escalade
+activite: escalade
+level: 2
 permalink: "/fr/ete/activites/escalade"
 baseline: Grimpez, plaisir et nature
 engage: Découvrez l'escalade, un moment d'évasion
