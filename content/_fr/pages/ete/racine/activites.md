@@ -21,7 +21,8 @@ page_sections:
 - template: listServices2
   service: activity
   filterCat: non
-  filterLevel: 1
+  activite: canyoning
+  filterLevel: 2
   filterHome: 2
   blockBGcolor: blanc
   headtitle:

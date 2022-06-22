@@ -2,7 +2,7 @@
 menu:
 - title: Réserver une activité
   id: eshop
-  title-link: https://www.ze-hero.com/fr/ete/activites
+  title-link: "/fr/ete/activites"
   image-href: ''
   image-alt: ''
   image-link: ''
