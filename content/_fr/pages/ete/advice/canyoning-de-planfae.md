@@ -1,5 +1,5 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: summer
 meta-description: 'Découvrez et réservez votre canyoning de Planfaé. Un canyon intermédiaire
@@ -51,5 +51,12 @@ page_sections:
   button:
     text_button: 'Réservez ici '
     href_button: https://www.ze-hero.com/fr/contact
+  blockBGcolor: ''
+  marge: ''
+type: generic
+level: 2
+activite: canyoning
+titleHome: 'Canyoning de Planfaé : niveau intermédiaire'
+baseline: ''
 
 ---
