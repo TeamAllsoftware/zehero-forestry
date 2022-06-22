@@ -42,6 +42,25 @@ page_sections:
 
     \*régime : vitesse à laquelle tourne les jambes « mouliner »
   title: ''
-published: false
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654867159/website/Sames%20Jones/IMG_20220521_130344.jpg
+  alt_text_for_image: VTT devant la nature
+  captiontitleuppercase: Etre positionner sur le VTT
+  title: Les positions à VTT
+  content: De manière général quand on pédale nous sommes en montée et donc dans une
+    position assise avec les coudes qui se rapproche du tronc du corps et en projetant
+    son regard afin de garder une trajectoire choisie.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Quand un vttétiste descend il est debout sur les pédales qui elles sont à plats (un pied devant l’autre) afin d’éviter de percuter un obstacle mais également d’être bien équilibré sur le vélo. Les coudes cette fois s’écarte afin d’avoir un pilotage plus puissant et le regard se projette plus loin plus la vitesse est importante, toujours dans le but d’anticiper la trajectoire. D’autre part plus la descente est raide plus le bassin du pilote se recule afin de reculer le centre de gravité, à l’inverse plus la montée est raide plus le cycliste rapproche son torse du guidon afin d’avancer son centre de gravité.
+
+    Sur ce, bonne balade !
+  title: ''
 
 ---
