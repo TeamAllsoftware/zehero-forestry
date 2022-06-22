@@ -7,7 +7,7 @@ meta-description: Découvrez tous nos conseils afin de savoir comment bien s'éq
   combinaisons afin de savoir quoi prendre pour surfer en fonction de votre niveau.
 topnav_color_text: light
 title: Bien s'équiper en surf
-permalink: "/fr/ete/conseils/s'equiper-surf"
+permalink: "/fr/ete/conseils/equipement-surf"
 meta-title: Tout l'équipement pour débuter en surf
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7714_fsigmd.jpg
 image01_alt: Personnes en surf sur le sable allongés sur la planche
