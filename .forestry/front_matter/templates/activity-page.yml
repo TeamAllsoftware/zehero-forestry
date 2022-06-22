@@ -17,7 +17,7 @@ fields:
       section: 
       file: 
       path: 
-  label: language
+  label: layout
 - name: language
   type: select
   default: []
