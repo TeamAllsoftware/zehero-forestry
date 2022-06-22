@@ -1,5 +1,5 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: summer
 meta-description: Découvrez et réservez une descente dans les Hautes Alpes dans le
@@ -62,5 +62,12 @@ page_sections:
   button:
     text_button: 'Réservez ici '
     href_button: https://www.ze-hero.com/fr/contact
+  blockBGcolor: ''
+  marge: ''
+type: generic
+level: 2
+titleHome: 'Canyoning du Haut Jabron : Initiation canyoning'
+activite: canyoning
+baseline: ''
 
 ---
