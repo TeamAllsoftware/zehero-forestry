@@ -101,7 +101,7 @@ page_sections:
 type: generic
 level: 2
 activite: surf
-titleHome: ''
+titleHome: Bien s'équiper en surf
 baseline: ''
 
 ---
