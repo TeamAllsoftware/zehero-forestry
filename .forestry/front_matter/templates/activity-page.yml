@@ -9,6 +9,22 @@ fields:
   default: layout_activity
   config:
     required: true
+- name: layout
+  type: select
+  default: layout_activity
+  config:
+    required: true
+    options:
+    - layout_generic
+    - layout_brand
+    - layout_coach
+    - layout_activity
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: language
 - name: language
   type: select
   default: []

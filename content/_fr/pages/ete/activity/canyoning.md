@@ -8,7 +8,6 @@ title: Canyoning
 titleHome: Débuter en canyoning
 activite: canyonning 
 level: 1
-enHome: 1
 permalink: "/fr/ete/activites/canyoning"
 redirect_from:
 - "/fr/canyoning-annecy/"
