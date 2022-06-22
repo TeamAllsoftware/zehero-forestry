@@ -1,5 +1,5 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: summer
 meta-description: Découvrez le canyoning du Gours du Ray et réservez une descente
@@ -69,5 +69,12 @@ page_sections:
   button:
     text_button: Réservez ici
     href_button: https://www.ze-hero.com/fr/contact
+  blockBGcolor: ''
+  marge: ''
+type: generic
+level: 2
+titleHome: 'Le Gours du Ray : Initiation au canyoning'
+activite: canyoning
+baseline: ''
 
 ---
