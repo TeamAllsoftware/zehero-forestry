@@ -2,13 +2,6 @@
 label: Activity page
 hide_body: true
 fields:
-- type: text
-  name: layout
-  label: layout
-  hidden: true
-  default: layout_activity
-  config:
-    required: true
 - name: layout
   type: select
   default: layout_activity
