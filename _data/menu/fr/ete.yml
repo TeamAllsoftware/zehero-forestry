@@ -39,8 +39,16 @@ menu:
   image-link: ''
   txt-button: ''
   column-01:
-  - nested: ''
-    menu-items: ''
+  - nested: Equipement outdoor
+    menu-items:
+    - title: Vêtements vélo
+      href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running?ca_brand=Fausse+Route&ca_type_gender=all&ca_clo_und=all
+    - title: Vêtement de trail
+      href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
+    - title: Accessoires de trail
+      href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Headwear-running
+    - title: Sacs de Trail
+      href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   column-02: ''
 - title: Conseils
   id: "2"
