@@ -6,7 +6,7 @@ meta-description: Découvrez nos conseils afin de bien débuter la randonnée en
   afin de partir sereinement, avec le bon matériel et toutes les informations importantes
 topnav_color_text: light
 title: Débuter la randonnée en montagne
-permalink: "/fr/ete/conseils/débuter-randonnée-montagne"
+permalink: "/fr/ete/conseils/debuter-randonnee-montagne"
 meta-title: Débuter la randonnée en montagne - Conseils
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655124182/website/resorts/Vosges/PXL_20220415_164613048.jpg
 image01_alt: Personnes en randonnée regardant une carte IGN
