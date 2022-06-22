@@ -5,7 +5,7 @@ season: summer
 meta-description: test
 topnav_color_text: light
 title: Test
-permalink: fr/ete/conseils/test
+permalink: "/fr/ete/conseils/test"
 meta-title: 'test                                            '
 image01_href: ''
 image01_alt: ''
