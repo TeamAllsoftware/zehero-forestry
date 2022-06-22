@@ -1,12 +1,12 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
 topnav_color_text: dark
 title: Canyoning
 titleHome: Débuter en canyoning
-activite: 10 
+activite: canyoning
 level: 1
 permalink: "/fr/ete/activites/canyoning"
 redirect_from:
