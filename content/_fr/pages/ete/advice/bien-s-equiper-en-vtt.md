@@ -6,7 +6,7 @@ meta-description: Découvrez tous nos conseils pour savoir comment bien s'équip
   VTT afin de bien débuter.
 topnav_color_text: light
 title: Bien s'équiper en VTT
-permalink: "/fr/ete/conseils/s'equiper-vtt"
+permalink: "/fr/ete/conseils/equipement-vtt"
 meta-title: L'équipement pour bien débuter à VTT
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/lachlan-cruickshank-S9v_EPJfGys-unsplash_b5jpdh.jpg
 image01_alt: Personnes faisant du VTT dans les montagnes
