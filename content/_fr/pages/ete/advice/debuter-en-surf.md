@@ -80,6 +80,5 @@ page_sections:
     S' il est possible d’apprendre à surfer seul, nous vous recommandons de vous rendre en école de surf pour être pris en charge par un moniteur de surf diplômé. Il sera le garant de votre sécurité, vous donnera les bons conseils au bon moment. Comment utiliser le courant pour aller au peak sans se fatiguer, les règles à suivre à l’eau, quel type de planche, quel spot pour quel conditions etc… Vous n’aurez qu'à vous laisser guider pour progresser.
 
     Alors vous allez où pour surfer ?
-published: false
 
 ---
