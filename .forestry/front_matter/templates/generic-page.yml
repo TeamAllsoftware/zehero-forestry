@@ -2,22 +2,13 @@
 label: Generic page
 hide_body: true
 fields:
-- name: layout
-  type: select
+- type: text
+  name: layout
+  label: layout
+  hidden: true
   default: layout_generic
   config:
     required: true
-    options:
-    - layout_generic
-    - layout_brand
-    - layout_coach
-    - layout_activity
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: layout
 - name: language
   type: select
   default: []

@@ -58,6 +58,7 @@ sections:
   match: "**/*"
   templates:
   - activity-page
+  - generic-page
 - type: directory
   path: content/_fr/pages/hiver/resort
   label: HIVER Resorts
@@ -65,6 +66,7 @@ sections:
   match: "**/*"
   templates:
   - resort-page
+  - generic-page
 - type: directory
   path: content/_fr/pages/hiver/advice
   label: HIVER Conseils
@@ -72,6 +74,7 @@ sections:
   match: "**/*"
   templates:
   - advice-page
+  - generic-page
 - type: heading
   label: French été
 - type: directory
@@ -91,6 +94,7 @@ sections:
   match: "**/*"
   templates:
   - activity-page
+  - generic-page
 - type: directory
   path: content/_fr/pages/ete/resort
   label: ETE Resorts
@@ -98,6 +102,7 @@ sections:
   match: "**/*"
   templates:
   - resort-page
+  - generic-page
 - type: directory
   path: content/_fr/pages/ete/advice
   label: ETE Conseils
@@ -105,6 +110,7 @@ sections:
   match: "**/*"
   templates:
   - advice-page
+  - generic-page
 - type: heading
   label: ENGLISH
 - type: directory
