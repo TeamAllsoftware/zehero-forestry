@@ -47,9 +47,13 @@ page_sections:
 
     Pour bien débuter le surf, il est important de réserver des cours de surf avec un moniteur afin qu'il vous accompagne dans la connaissance du milieu et des aspects physiques et techniques. On débute généralement le surf sur les mousses des vagues, c’est-à-dire après plus près du bord afin d'avoir des vagues plus faciles à prendre et moins puissantes. Vous pouvez alors débuter le surf dans des stages ou des cours collectifs pour profiter d'être avec d'autres personnes, vos amis ou votre famille. Mais vous pouvez également réserver un cours privé pour une session de surf avec un moniteur totalement dédiée à vous.
 
+    Découvrez plus d'information sur notre page : [**Bien débuter en surf**](/fr/ete/conseils/debuter-surf)
+
     * S'équiper en surf
 
     S'équiper en surf dépendra de votre niveau en ce qui concerne la planche de surf. Il existe plusieurs types de surf, pour différents niveaux avec différentes constructions et différents types de pratique. En fonction de la température de l'eau, il vous faudra des combinaison longues ou courtes ou alors simplement un maillot, short et un lycra.
+
+    Découvrez plus d'information sur notre page : [**S'équiper en surf**](/fr/ete/conseils/equipement-surf)
 
     * Nos spots de surf
 
