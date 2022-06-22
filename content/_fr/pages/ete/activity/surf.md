@@ -18,7 +18,7 @@ meta-description: Le surf est une activité d'eau qui permet de glisser sur les 
   et de vivre des sensations uniques.
 baseline: Take-off, glisse et ride
 engage: De la mousse à la vague, apprenez à glisser en surf
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883621/website/summer/Paddle-couple-mer_sw6sqk.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654866903/website/summer/austin-neill-uHD0uyp79Dg-unsplash.jpg
 image01_alt: Surfeur en train de surfer une vague dans un paysage avec des collines
   derrières.
 categorie: Surf
@@ -62,6 +62,11 @@ page_sections:
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
   alt_text_for_image: Equipement de surf
+- template: listServices2
+  blockBGcolor: blanc
+  service: advice
+  filterLevel: 2
+  whatActivity: surf
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651477287/website/Sama%20Sama/surf-enfant-mimizan.jpg
