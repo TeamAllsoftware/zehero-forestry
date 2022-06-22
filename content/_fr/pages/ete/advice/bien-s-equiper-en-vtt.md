@@ -23,6 +23,47 @@ page_sections:
 
     Choisir la taille de son vélo peut devenir assez complexe car il y a des tailles de cadre mais aussi des tailles de roues. Pour les enfants on parle en pouce (taille des roues) 20’ 1m10/1m30, 24’ 1m30 et plus. Ensuite on passe sur les vélos adultes nous retrouvons les tailles XS 1m40/50, S 1m50/70, M 1m70/80, L 1m80/90, XL 1m90 et plus. Le mieux reste de tester le vélo afin de choisir. Le réglage de selle est à faire de manière à l’avoir à hauteur de hanche ou de façon à avoir la jambe pratiquement tendue lorsqu’une des pédales est dans sa position la plus basse. Sur les VTT modernes nous avons également le choix entre deux tailles de roue 27,5’ et 29’. (Pour faire simple le 27.5 est plus maniable que le 29. Le 29 lui est plus roulant et plus stable)
   title: S'équiper en VTT
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592263/website/summer/eberhard-grossgasteiger-8lDkmXnKo7s-unsplash_wfd3xp.jpg
+  alt_text_for_image: VTT sur un sentier
+  captiontitleuppercase: Se protéger
+  title: L'équipement VTT de sécurité
+  content: Le Vélo tout terrain comme tout sport de pleine nature comporte des risques.
+    Il est donc important d’avoir un équipement de sécurité adapté à sa pratique.
+    Le casque et le premier élément de sécurité indispensable, il protègera votre
+    crâne en cas de chute. Il en existe de différents types. Les plus légers et minimaliste
+    pour les pratiques plutôt endurante comme le cross-country (XC). Il existe également
+    des casques pour des pratiques comme le « all-mountain » (toute montagne) ou l’enduro
+    qui est une pratique se rapprochant du vtt de descente « DH ». Ces dernier son
+    étudiés afin de protéger le crâne mais aussi une partie du reste de la tête (oreille,
+    visage..). Ils auront souvent une visière et seront plus profond afin de protéger
+    les parties basses de la boîte crânienne voir même de la nuque. En Down-hill (DH)
+    les vttistes portent des casques intégraux comme en moto, cela permet d’avoir
+    une protection du visage et de la mâchoire.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: En cas de chutes des gants peuvent sauver la paume de la main. Les mitaines
+    ou les intégraux pour les pratiques axées sur la descente. Pour ces pratiques
+    plutôt descendantes il est également conseillé de s’équiper de genouillères et
+    d’une dorsale.
+  title: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: 'Le reste de l’équipement du vttiste '
+  content: "Le reste de l’équipement du vttiste sont les chaussures et le textile.
+    \  \nPour commencer il est conseillé de porter des chaussures de sport à semelle
+    plate et plutôt rigide. Plus tard dans votre progression vous déciderez peut-être
+    d’opter pour des chaussures et pédales automatiques qui amélioreront votre rendement
+    au pédalage. En ce qui concerne le textile, il est fortement conseillé de porter
+    un cycliste ou une peau de chamois sous le short ou le pantalon afin de protéger
+    les parties du frottement avec la selle. Pour le reste des vêtements portés, il
+    est préférable de favoriser des matériaux qui sèchent vite et adapté aux conditions
+    météo que vous allez rencontrer pendant votre sortie."
 published: false
 
 ---
