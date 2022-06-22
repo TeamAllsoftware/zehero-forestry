@@ -61,7 +61,7 @@ page_sections:
 type: generic
 level: 2
 activite: canyoning
-titleHome: 'Canyoning de Cramassouri : Initiation et magnifique'
+titleHome: 'Canyoning de Cramassouri : Initiation canyoning'
 baseline: ''
 
 ---
