@@ -56,14 +56,22 @@ page_sections:
   blockBGcolor: blanc
   title: 'Le reste de l’équipement du vttiste '
   content: "Le reste de l’équipement du vttiste sont les chaussures et le textile.
-    \  \nPour commencer il est conseillé de porter des chaussures de sport à semelle
+    \ \nPour commencer il est conseillé de porter des chaussures de sport à semelle
     plate et plutôt rigide. Plus tard dans votre progression vous déciderez peut-être
     d’opter pour des chaussures et pédales automatiques qui amélioreront votre rendement
     au pédalage. En ce qui concerne le textile, il est fortement conseillé de porter
     un cycliste ou une peau de chamois sous le short ou le pantalon afin de protéger
     les parties du frottement avec la selle. Pour le reste des vêtements portés, il
     est préférable de favoriser des matériaux qui sèchent vite et adapté aux conditions
-    météo que vous allez rencontrer pendant votre sortie."
-published: false
+    météo que vous allez rencontrer pendant votre sortie.\n\nPendant un effort physique
+    il est important de s’hydrater. Un cycliste peut apporter de l’eau avec lui à
+    l’aide d’un porte bidon et d’une gourde fixer sur le cadre du velo. Il peut également
+    s’équiper d’un sac à dos afin de transporter de l’eau mais aussi le reste de ses
+    affaires. Le cyclisme étant un sport mécanique, nous ne sommes jamais à l’abri
+    d’un problème pendant la sortie. L’indispensable est d’avoir le nécessaire afin
+    de réparer une crevaison (démonte pneu, chambre à air et pompe). Il fortement
+    conseillé d’avoir un multi outils avec différente taille de clefs Allen et même
+    cruciforme et torx afin de pouvoir faire des réglages ou des réparations en cas
+    de panne."
 
 ---
