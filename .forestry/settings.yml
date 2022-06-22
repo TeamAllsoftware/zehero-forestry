@@ -57,6 +57,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - activity-page
 - type: directory
   path: content/_fr/pages/hiver/resort
@@ -64,6 +65,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - resort-page
 - type: directory
   path: content/_fr/pages/hiver/advice
@@ -71,6 +73,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - advice-page
 - type: heading
   label: French été
@@ -90,6 +93,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - activity-page
 - type: directory
   path: content/_fr/pages/ete/resort
@@ -97,6 +101,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - resort-page
 - type: directory
   path: content/_fr/pages/ete/advice
@@ -104,6 +109,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - advice-page
 - type: heading
   label: ENGLISH
