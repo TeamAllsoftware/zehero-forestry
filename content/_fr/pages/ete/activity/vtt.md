@@ -89,6 +89,11 @@ page_sections:
     et des longues balades à vélo, à gravel et à VTT. Il saura vous conseiller pour
     toutes vos questions et vous apportera toutes ces connaissances à travers ses
     expériences pour vous donner l'envie de partager ces moments de plaisir à VTT.
+- template: listServices2
+  blockBGcolor: gris
+  service: activity
+  whatActivity: VTT
+  filterLevel: 2
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''

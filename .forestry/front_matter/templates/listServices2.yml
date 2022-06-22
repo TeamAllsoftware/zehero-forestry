@@ -36,7 +36,8 @@ fields:
   config:
     required: false
   label: Quelle activité afficher ?
-  description: Attention de bien orthographier l'activité afin de lister l'ensemble des filles 
+  description: Attention de bien orthographier l'activité afin de lister l'ensemble
+    des filles
 - name: filterLevel
   type: select
   default: 2
@@ -50,4 +51,4 @@ fields:
       section: 
       file: 
       path: 
-  label:  "mere (1) ou fille (2)"
+  label: mere (1) ou fille (2)
