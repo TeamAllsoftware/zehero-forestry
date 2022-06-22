@@ -16,6 +16,20 @@ fields:
       file: 
       path: 
   label: language
+- name: type
+  type: select
+  default: generic
+  config:
+    required: true
+    options:
+    - B2B
+    - generic
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Quel type de page ? B2B ou non
 - name: season
   type: select
   default: winter
@@ -30,6 +44,20 @@ fields:
       file: 
       path: 
   label: season
+- name: level
+  type: select
+  default: 2
+  config:
+    required: 
+    options:
+    - 1
+    - 2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Page mère (1) ou fille (2) ?
 - name: meta-title
   label: META Title
   type: text
