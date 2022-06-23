@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Canyoning
 titleHome: Débuter en canyoning
 activite: canyoning
