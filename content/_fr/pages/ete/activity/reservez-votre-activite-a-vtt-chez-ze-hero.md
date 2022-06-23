@@ -29,22 +29,13 @@ page_sections:
 
     Voici toutes nos offres de VTT en Savoie :
   title: Le VTT en Savoie
-- template: 2colimgtxt
+- template: listServices2
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108069/website/VTT%20AE/pexels-reinhard-bruckner-5328112.jpg
-  alt_text_for_image: Vaches et un VTTiste en montagne
-  title: Le VTT dans les 3 vallées
-  captiontitleuppercase: Découvrez la tarentaise à VTT
-  content: Notre moniteur Sam Jones vous propose plusieurs sorties de 2h que vous
-    soyez débutant, en famille avec des enfants ou que vous soyez amateurs de VTT.
-    Il adaptera en fonction les itinéraires pour des sorties plus ou moins sportives
-    avec du dénivelé plus important ainsi que des descentes plus engageantes. Vous
-    pourrez rouler au sein de la station de Méribel, des Menuires et de Val Thorens.
-    Un vrai moment d'évasion, de découverte, de partage et de sensation forte.
-  button:
-    text_button: Plus d'information ici
-    href_button: ''
-    alt_button: ''
-published: false
+  service: activity
+  filterLevel: 2
+  whatActivity: vtt
+type: generic
+activite: vtt
+level: 1
 
 ---
