@@ -51,6 +51,14 @@ page_sections:
     * Nos itinéraires de VTT et VAE
 
     Le VTT et le VAE se pratique partout en France et il existe énormément d'itinéraires de VTT. Que ce soit en campagne, près du littoral, en montagne, vous pourrez profiter de nombreuses balades. Avec Ze Hero, nous vous proposons des sorties de VTT dans les Alpes et à Aix les Bains. Vous bénéficierez de rouler dans des lieux naturels, avec des paysages magnifiques. Des itinéraires adaptés à tous les niveaux pour des moments de découverte, d'effort et d'engagement.
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: Réservez votre sortie
+  headline: à VTT et VAE
+  button:
+    href_button: "/fr/ete/activites/reserver-vtt"
+    text_button: Réservez ici
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234241/website/assets/Recadr%C3%A9es/vtt.png
@@ -76,7 +84,7 @@ page_sections:
     entouré de sapins
   button:
     text_button: Nos offres VTT
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
+    href_button: "/fr/ete/activites/reserver-vtt"
     alt_button: ''
   blockBGcolor: gris
 - template: 3coltxtimgtxt
@@ -96,7 +104,7 @@ page_sections:
   filterLevel: 2
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: "/fr/ete/activites/reserver-vtt"
 activite: VTT
 level: 1
 enHome: 2
