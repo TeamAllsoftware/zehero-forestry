@@ -1,5 +1,5 @@
 ---
-layout: layout_generic
+layout: layout_advice
 language: fr
 type: generic
 season: summer
@@ -69,5 +69,7 @@ page_sections:
     text_button: Réservez
   intro: Découvrez les Préalpes d'Azur en trail
   headline: depuis Bar sur Loup
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
+image01_alt: Coureur à Bar sur Loup vers Gourdon
 
 ---
