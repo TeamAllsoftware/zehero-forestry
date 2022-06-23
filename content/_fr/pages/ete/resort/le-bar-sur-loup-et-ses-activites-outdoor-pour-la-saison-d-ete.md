@@ -101,6 +101,8 @@ page_sections:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
   headline: Trail, Canyoning, Randonnée et Escalade
-code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+  blockBGcolor: ''
+  marge: ''
+code_postal: ''
 
 ---
