@@ -32,19 +32,18 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: 'Trail à Tourrettes sur Loup : Débutant - Intérmédiaire'
-  content: "Depuis un parking situé à l'entrée du village, les sentiers partent directement
-    en direction du domaine des Courmettes. Des petits singles en sous-bois qui grimperont
-    jusqu'au pic des Courmettes où le terrain sera ici rocailleux. De là se trouve
-    le Puy de Tourrettes et un peu loin de Naouri. Il y a une multitude de choix possible
-    à faire et à découvrir parmi tous les sentiers présents.\n\nNous aurons la possibilité
-    de choisir entre plusieurs parcours tel que :\n\n* Les deux sommets pour 15km
-    et 950D+\n* Un parcours de 26km 1450D+ \n* Le tour des Courmettes avec 28km et
-    1300D+.\n\nExplication sur le trail avec enseignement sur la technique de montée
-    avec ou sans bâtons, sur la descente de descente et sur les différents entraînements
-    en trail tel que le fractionner. Sortie basée sur l’endurance avec jeu ludique
-    d’entraînement durant la séance.\n\nÉquipement à avoir : tenue adaptée au trail,
-    chaussures de trail, sac ou ceinture de portage avec flasques d’eau (2 fois 500ml
-    ou plus) + réserve alimentaire et coupe-vent."
+  content: |-
+    Depuis un parking situé à l'entrée du village, les sentiers partent directement en direction du domaine des Courmettes. Des petits singles en sous-bois qui grimperont jusqu'au pic des Courmettes où le terrain sera ici rocailleux. De là se trouve le Puy de Tourrettes et un peu loin de Naouri. Il y a une multitude de choix possible à faire et à découvrir parmi tous les sentiers présents.
+
+    Nous aurons la possibilité de choisir entre plusieurs parcours tel que :
+
+    * Le Trail des Pics : 15km et 941D+
+    * Le long parcours de Tourrettes-sur-Loup : 26km et 1440D+
+    * Le tour de Courmettes : 28km et 1320D+
+
+    Explication sur le trail avec enseignement sur la technique de montée avec ou sans bâtons, sur la descente de descente et sur les différents entraînements en trail tel que le fractionner. Sortie basée sur l’endurance avec jeu ludique d’entraînement durant la séance.
+
+    Équipement à avoir : tenue adaptée au trail, chaussures de trail, sac ou ceinture de portage avec flasques d’eau (2 fois 500ml ou plus) + réserve alimentaire et coupe-vent.
 - template: liststyle01
   title: Derniers informations
   item: []
