@@ -43,8 +43,6 @@ page_sections:
 
     Découvrons les spécificités :
 
-    Le Trail à Bar sur Loup : Débutant et confirmé
-
     Il ne manque pas de sentiers, avec le GR51, le chemin du paradis, le canal du Loup, le bois de Gourdon ainsi que tous les sentiers au dessus de Gourdon vers le plateau de Cavillore. Que ce soit pour une petite sortie découverte de trail et de village, on peut se trouver de belles boucles, techniques à la journée pour les traileurs confirmés
 
     * Débutant : de 3h environ pour 10 à 15km et 500 à 800D +
