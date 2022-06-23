@@ -132,7 +132,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-type: B2B
+type: generic
 level: 1
 
 ---
