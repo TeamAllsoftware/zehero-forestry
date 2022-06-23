@@ -9,7 +9,7 @@ topnav_color_text: light
 title: Le Canyoning Ruisseau Audin
 activite: spot
 level: 2
-permalink: "/fr/ete/conseils/canyoning-ruisseau-audin"
+permalink: "/fr/ete/activites/canyoning-ruisseau-audin"
 meta-title: Réservez votre canyoning ruisseau audin
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199369/website/By%20Ze%20Hero%20Activity/IMG_4080.jpg
 image01_alt: 3 personnes dans un canyon du ruisseau Audin

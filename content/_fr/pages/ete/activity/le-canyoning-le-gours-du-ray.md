@@ -7,7 +7,7 @@ meta-description: Découvrez le canyoning du Gours du Ray et réservez une desce
   au canyoning.
 topnav_color_text: light
 title: Le Gours du Ray
-permalink: "/fr/ete/conseils/canyoning-gours-du-ray"
+permalink: "/fr/ete/activites/canyoning-gours-du-ray"
 meta-title: Réservez votre canyoning Gours du Ray
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029604/website/Canyoning%2006/GPTempDownload2.jpg
 image01_alt: Personne descendant en rappel en canyoning

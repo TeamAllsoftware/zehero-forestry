@@ -8,7 +8,7 @@ topnav_color_text: light
 title: Trail à Gréolières
 titleHome: 'Trail à Gréolières : Confirmé'
 activite: trail
-permalink: "/fr/ete/conseils/reserver-trail-greolieres"
+permalink: "/fr/ete/activites/reserver-trail-greolieres"
 meta-title: Réservez votre sortie Trail à Gréolières
 meta-description: 'Réservez votre sortie de trail à Gréolières, dans les Alpes Maritimes,
   et découvrez les Préalpes d''Azur, la montagne du Cheiron. '

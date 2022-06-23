@@ -8,7 +8,7 @@ topnav_color_text: light
 title: Trail à Bar sur Loup
 titleHome: 'Trail à Bar sur Loup : Débutant et confirmé'
 activite: trail
-permalink: "/fr/ete/conseils/reserver-trail-bar-sur-loup"
+permalink: "/fr/ete/activites/reserver-trail-bar-sur-loup"
 meta-title: Réservez votre sortie de Trail à Bar sur Loup
 meta-description: Réservez une sortie Trail à Bar sur Loup, dans les Alpes Maritimes,
   que vous soyez débutant ou confirmé. Partez courir dans

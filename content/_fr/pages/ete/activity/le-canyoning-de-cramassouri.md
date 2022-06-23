@@ -6,7 +6,7 @@ meta-description: Découvrez et réservez votre descente dans le canyoning de cr
   Un canyon très aquatique, aux obstacles variées pour un niveau intermédiaire
 topnav_color_text: light
 title: Le canyoning de Cramassouri
-permalink: "/fr/ete/conseils/canyoning-cramassouri"
+permalink: "/fr/ete/activites/canyoning-cramassouri"
 meta-title: Réservez votre canyoning cramassouri
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654842931/website/By%20Ze%20Hero%20Activity/Screenshot_3.jpg
 image01_alt: Personne descendant en rappel en canyoning

@@ -37,7 +37,7 @@ page_sections:
     Alpes Maritimes :"
 - template: listServices2
   blockBGcolor: blanc
-  service: advice
+  service: activity
   filterLevel: 2
   whatActivity: trail
 - template: 2colimgtxt

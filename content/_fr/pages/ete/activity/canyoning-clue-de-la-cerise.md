@@ -7,7 +7,7 @@ meta-description: Découvrez et réservez votre canyoning dans le clue de la cer
   de matériel.
 topnav_color_text: light
 title: Canyoning Clue de la cerise
-permalink: "/fr/ete/conseils/canyoning-clue-de-la-cerise"
+permalink: "/fr/ete/activites/canyoning-clue-de-la-cerise"
 meta-title: Réservez votre canyoning du clue de la cerise
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
 image01_alt: Fille sautant dans le canyon de la clue de la cerise

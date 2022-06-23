@@ -6,7 +6,7 @@ meta-description: Découvrez le canyoning des gorges du Loup. Un canyon très lu
   dans une ambiance verdoyante pour toute la famille
 topnav_color_text: light
 title: Le canyoning des Gorges du Loup
-permalink: "/fr/ete/conseil/canyoning-gorges-du-loup"
+permalink: "/fr/ete/activites/canyoning-gorges-du-loup"
 meta-title: Réservez votre canyoning gorges du loup
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655359804/website/Canyoning%2006/Screenshot_4.jpg
 image01_alt: Rivière du canyon des Gorges du Loup

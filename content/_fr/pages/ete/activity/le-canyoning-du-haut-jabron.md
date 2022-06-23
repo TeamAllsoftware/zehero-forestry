@@ -7,7 +7,7 @@ meta-description: Découvrez et réservez une descente dans les Hautes Alpes dan
   les joies et les sensations du canyoning.
 topnav_color_text: light
 title: Le canyoning du Haut Jabron
-permalink: "/fr/ete/conseils/canyoning-haut-jabron"
+permalink: "/fr/ete/activites/canyoning-haut-jabron"
 meta-title: Réservez votre canyoning haut jabron
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655386912/website/By%20Ze%20Hero%20Activity/IMG_4222.jpg
 image01_alt: Canyoning du Haut Jabron

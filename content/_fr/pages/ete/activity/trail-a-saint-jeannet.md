@@ -8,7 +8,7 @@ topnav_color_text: light
 title: Trail à Saint Jeannet
 titleHome: 'Trail à Saint Jeannet : Débutant'
 activite: trail
-permalink: "/fr/ete/conseils/reserver-trail-saint-jeannet"
+permalink: "/fr/ete/activites/reserver-trail-saint-jeannet"
 meta-title: Réservez une sortie trail à Saint Jeannet
 meta-description: Réservez une sortie trail à Saint Jeannet afin de vous initier au
   trail et découvrir le Baou et ses lieux unqiues.

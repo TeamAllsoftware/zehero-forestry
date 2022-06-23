@@ -8,7 +8,7 @@ topnav_color_text: light
 title: 'Trail à Tourrettes sur Loup '
 titleHome: 'Trail à Tourrettes sur Loup '
 activite: trail
-permalink: "/fr/conseils/reserver-trail-tourrettes-sur-loup"
+permalink: "/fr/activites/reserver-trail-tourrettes-sur-loup"
 meta-title: Réservez votre sortie Trail à Tourrettes sur Loup
 meta-description: Réservez votre sortie de Trail à Tourrettes sur Loup, afin de vous
   initier, de progresser et de découvrir les Préalpes d'Azur ainsi que ses sommets.
