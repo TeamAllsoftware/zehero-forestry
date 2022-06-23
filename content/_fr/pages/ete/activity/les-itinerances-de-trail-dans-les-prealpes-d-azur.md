@@ -18,7 +18,18 @@ image01_alt: Traileur dans les Préalpes
 button_to_link_to_ze_hero_shop:
   button_text: Réservez ici
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17603-maralpine-traversee-des-prealpes-dazur-journee-ze-hero-yann-alarcon
-page_sections: []
-published: false
+page_sections:
+- template: textarea
+  blockBGcolor: blanc
+  content: "Avec Ze Hero, nous vous proposons de partir pour deux itinérances à travers
+    les Préalpes d’Azur. Des traversées uniques à travers les villages, les sommets
+    et les plateaux magnifiques des Préalpes d’Azur.  \nDécouvrez alors la Maralpine
+    partant de Saint Auban jusqu’à Vence pour 75km et 4000D +. Ainsi qu’une traversée
+    de Saint Jeannet à Le bar sur Loup soit par le GR51 soit par le Cheiron pour environ
+    50km et 2000D +.\n\nSur un jour ou deux, partez vivre une nouvelle aventure."
+  title: ''
+layout: layout_generic
+titleHome: Les itinérances de Trail dans les Préalpes d'Azur
+conseil: ''
 
 ---
