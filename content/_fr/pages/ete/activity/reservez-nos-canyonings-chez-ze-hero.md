@@ -35,11 +35,6 @@ page_sections:
     unique, de découverte, de plaisir et de partage. N'attendez plus ! Choisissez
     votre canyoning et réservez vite.\n\nVoici tous nos canyonings dans les Alpes
     Maritimes :"
-- template: listServices2
-  blockBGcolor: blanc
-  service: advice
-  filterLevel: 2
-  whatActivity: canyoning
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655365196/website/Canyoning%2006/Screenshot_5.jpg
