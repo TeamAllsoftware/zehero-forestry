@@ -1,5 +1,5 @@
 ---
-layout: layout_generic
+layout: layout_advice
 language: fr
 type: generic
 season: winter
@@ -55,5 +55,7 @@ page_sections:
   button:
     text_button: Réservez ici
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17591-trail-journee-greolieres-esteron-ze-hero-yann-alarcon
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216730/website/summer/IMG_20200723_153002.jpg
+image01_alt: Traileur courant sur les crètes du Cheiron
 
 ---
