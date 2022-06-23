@@ -45,10 +45,10 @@ page_sections:
 
     Il ne manque pas de sentiers, avec le GR51, le chemin du paradis, le canal du Loup, le bois de Gourdon ainsi que tous les sentiers au dessus de Gourdon vers le plateau de Cavillore. Que ce soit pour une petite sortie découverte de trail et de village, on peut se trouver de belles boucles, techniques à la journée pour les traileurs confirmés
 
-    * Débutant : de 3h environ pour 10 à 15km et 500 à 800D +
-    * Confirmé : demi-journée à journée entière / 20km à 40km / 800 à 1800D +
-    * Découverte des lieux phares
-    * Départ : parking Bar sur loup facile d’accès
+    * Le chemin du Paradis : Aller / Retour de 5,3km et 500D+
+    * Trail de Gourdon : 14km et 823D+
+    * Le tour de Caussols depuis Le Bar sur Loup : 33km et 1300D+
+    * Le Bois de Gourdon et Paradis : 12km et 510D+
 
     Explication sur le trail avec enseignement sur la technique de montée avec ou sans bâtons, sur la descente de descente et sur les différents entraînements en trail tel que le fractionner. Sortie basée sur l’endurance avec jeu ludique d’entraînement durant la séance.
 

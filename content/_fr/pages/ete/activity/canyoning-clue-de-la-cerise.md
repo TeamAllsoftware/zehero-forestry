@@ -73,7 +73,7 @@ page_sections:
   marge: 40
 type: generic
 level: 2
-conseil: spot
+conseil: ''
 activite: canyoning
 titleHome: 'Canyoning Clue de la cerise : randonnée aquatique'
 baseline: ''

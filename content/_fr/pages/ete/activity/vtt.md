@@ -32,6 +32,14 @@ page_sections:
     Electrique**](https://www.ze-hero.com/fr/ete/activites/vtt-electrique). "
   title: Le VTT
   blockBGcolor: ''
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: Réservez votre sortie
+  headline: à VTT et VAE
+  button:
+    href_button: "/fr/ete/activites/reserver-vtt"
+    text_button: Réservez ici
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
@@ -76,7 +84,7 @@ page_sections:
     entouré de sapins
   button:
     text_button: Nos offres VTT
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
+    href_button: "/fr/ete/activites/reserver-vtt"
     alt_button: ''
   blockBGcolor: gris
 - template: 3coltxtimgtxt
@@ -96,7 +104,7 @@ page_sections:
   filterLevel: 2
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: "/fr/ete/activites/reserver-vtt"
 activite: VTT
 level: 1
 enHome: 2

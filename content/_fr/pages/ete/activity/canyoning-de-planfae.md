@@ -55,7 +55,7 @@ page_sections:
   marge: 40
 type: generic
 level: 2
-conseil: spot
+conseil: ''
 activite: canyoning
 titleHome: 'Canyoning de Planfaé : niveau intermédiaire'
 baseline: ''

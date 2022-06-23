@@ -69,7 +69,7 @@ page_sections:
   marge: 40
 type: generic
 level: 2
-conseil: spot
+conseil: ''
 titleHome: 'Canyoning des Gorges du Loup : Sauts et familiale'
 activite: canyoning
 baseline: ''

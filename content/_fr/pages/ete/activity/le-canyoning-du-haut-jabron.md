@@ -66,7 +66,7 @@ page_sections:
   marge: 40
 type: generic
 level: 2
-conseil: spot
+conseil: ''
 titleHome: 'Canyoning du Haut Jabron : Initiation canyoning'
 activite: canyoning
 baseline: ''

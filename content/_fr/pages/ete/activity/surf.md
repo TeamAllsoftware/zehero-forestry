@@ -62,11 +62,6 @@ page_sections:
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
   alt_text_for_image: Equipement de surf
-- template: listServices2
-  blockBGcolor: blanc
-  service: advice
-  filterLevel: 2
-  whatActivity: surf
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651477287/website/Sama%20Sama/surf-enfant-mimizan.jpg
@@ -110,6 +105,8 @@ page_sections:
     text_button: Réserver maintenant >
   intro: Réservez dès maintenant vos activités surf
   headline: Cours privés ou collectifs, enfants et adultes sont disponibles
+  blockBGcolor: ''
+  marge: ''
 - template: imgWide
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238781/website/assets/Personnages%20poses/Poses%20format%20large/Surf.png
