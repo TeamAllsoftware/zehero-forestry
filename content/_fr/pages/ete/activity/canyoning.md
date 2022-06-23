@@ -37,14 +37,6 @@ page_sections:
     faciles et plus adaptées à des enfants ou des personnes désirant seulement faire
     une randonnée aquatique avec quelques sauts et glissades en toboggan."
   blockBGcolor: ''
-- template: listServices2
-  service: activity
-  whatActivity: canyoning
-  filterLevel: 2
-  blockBGcolor: blanc
-  headtitle:
-    headline: ZE HERO propose
-    title: Des activités pour la saison estivale
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de canyoning
@@ -92,6 +84,14 @@ page_sections:
     de magnifique canyoning en Corse, en Ardèche, dans el Verdon, dans les Pyrénées...
     \ \nAvec Ze Hero découvrez les plus beaux canyons : \n\n1. Des [**Alpes Maritimes**](https://www.ze-hero.com/fr/meilleurs-spots-canyoning-alpes-maritimes)\n2.
     De [**Savoie**](https://www.ze-hero.com/fr/ete/activites/canyoning-annecy)"
+- template: listServices2
+  service: activity
+  whatActivity: canyoning
+  filterLevel: 2
+  blockBGcolor: blanc
+  headtitle:
+    headline: ZE HERO propose
+    title: Des activités pour la saison estivale
 - template: imgWide
   blockBGcolor: blancGris
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649235420/website/assets/Recadr%C3%A9es/canyoning.png
@@ -114,7 +114,7 @@ page_sections:
     vous emmèneront à la découverte de la Dranse en Haute Savoie pour des canyonings
     sauvages"
   button:
-    text_button: Demande de réservation
+    text_button: Réserver votre canyoning
     href_button: "/fr/ete/activites/nos-canyonings"
     alt_button: ''
 - template: 3coltxtimgtxt
@@ -133,6 +133,8 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: "/fr/ete/activites/nos-canyonings"
+  blockBGcolor: ''
+  marge: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
