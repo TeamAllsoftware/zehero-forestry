@@ -12,7 +12,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/webs
 image01_alt: "¨Personne en rappel "
 button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17207-canyoning-planfae-special-famille-enfant-des-10-ans-activite-ze-hero
 page_sections:
 - template: textarea
   blockBGcolor: blanc

@@ -12,7 +12,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655359804/webs
 image01_alt: Rivière du canyon des Gorges du Loup
 button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17195-en-famille-gorges-du-loup-activite-ze-hero
 page_sections:
 - template: textarea
   blockBGcolor: blanc
@@ -62,11 +62,11 @@ page_sections:
 - template: cta
   button:
     text_button: 'Réservez ici '
-    href_button: https://www.ze-hero.com/fr/contact
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17195-en-famille-gorges-du-loup-activite-ze-hero
   intro: Profitez d'un moment de sensation forte dans les
   headline: Gorges du Loup
   blockBGcolor: ''
-  marge: ''
+  marge: 40
 type: generic
 level: 2
 titleHome: 'Canyoning des Gorges du Loup : Sauts et familiale'
