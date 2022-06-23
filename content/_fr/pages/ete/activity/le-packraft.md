@@ -96,5 +96,6 @@ page_sections:
   blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+published: false
 
 ---

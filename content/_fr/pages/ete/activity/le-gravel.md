@@ -94,5 +94,6 @@ page_sections:
   title: Liberté, Aventure, Exploration
   content: Le Gravel est plus qu'une activité de vélo, c'est une aventure, une expérience
     riche en découverte, en paysage et en partage.
+published: false
 
 ---
