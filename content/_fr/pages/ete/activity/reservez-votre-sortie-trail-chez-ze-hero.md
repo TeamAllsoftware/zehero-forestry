@@ -42,38 +42,6 @@ page_sections:
   whatActivity: trail
 - template: 2colimgtxt
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
-  alt_text_for_image: Coureur de trail à Bar sur Loup au dessus de Gourdon
-  title: Trail vers Le Bar sur Loup
-  captiontitleuppercase: Découvrez Gourdon et le plateau de Caussol
-  content: Le trail vers Le Bar sur Loup, c'est découvrir ce petit village, situé
-    où coule le Loup et proche des montagnes des Préalpes d'Azur. Découvrez alors
-    le village de perché de Gourdon ainsi que le plateau de Caussol, de Cavillore
-    avec les sommets qui l’entoure tel le Haut Montet, l’observatoire de Cerga, un
-    environnement magnifique. Des sorties pour débutants et pour des confirmés allant
-    de la demi-journée à la journée entière de trail.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216730/website/summer/IMG_20200723_153002.jpg
-  alt_text_for_image: Traileurs courant sur les crêtes du Cherion à Gréolières
-  captiontitleuppercase: Découvrir Gréolières et le Cherion
-  title: Le Trail à Gréolières
-  content: Le Trail à Gréolières, c’est partir d’un petit village de pierre situé
-    plein Sud, au pied de la montagne du Cherion avec son sommet culminant à 1778m
-    d’altitude. C’est parcourir une magnifique crête au-dessus de Gréolières les Neiges
-    situé sur la face Nord tout en voyant la mer au loin ainsi que le Mercantour.
-    Partez fouler les sentiers aux odeurs de lavande et de thym, sur le sommet des
-    Préalpes d’azur.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655715196/website/By%20Ze%20Hero%20Activity/IMG20211104075044.jpg
   alt_text_for_image: Vue des montagnes au Pic de courmettes
   captiontitleuppercase: Courir dans les courmettes
@@ -84,20 +52,6 @@ page_sections:
     sur toutes les Préalpes d'Azur ainsi que la mer. Entre montées raides et techniques,
     forêts enchantées, grands plateaux, vous vous évaderez dans un lieu parfait pour
     la pratique du trail dans les Préalpes d'Azur et les Alpes Maritimes.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304660/website/summer/IMG_9228.jpg
-  alt_text_for_image: Coureur Ze Hero à Saint Jeannet
-  captiontitleuppercase: Le Baou de St Jeannet
-  title: Le Trail à Saint Jeannet
-  content: Le Trail à Saint Jeannet, c'est courir au pied de ce fameux Baou de Saint
-    Jeannet, très connu dans le monde de l'escalade. Vous pourrez alors enchaîner
-    les différents baous, découvrir l'ancienne forteresse du Castellet ainsi que les
-    plateaux où les troupeaux de moutons et chèvres divaguent.
   button:
     text_button: ''
     href_button: ''
