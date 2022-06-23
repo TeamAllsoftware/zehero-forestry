@@ -44,11 +44,11 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   intro: Réservez dès maintenant vos sorties trail
-  headline: Cours privés ou collectifs sont disponibles
+  headline: pour débutants ou confirmés
   button:
     href_button: "/fr/ete/activites/nos-sorties-trail"
     text_button: Réservez votre sortie trail
-  blockBGcolor: ''
+  blockBGcolor: blanc
   marge: 20
 - template: imgWide
   blockBGcolor: blancGris
