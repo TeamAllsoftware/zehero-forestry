@@ -73,7 +73,7 @@ page_sections:
   marge: 40
 type: generic
 level: 2
-conseil: spot
+conseil: ''
 titleHome: 'Le Gours du Ray : Initiation au canyoning'
 activite: canyoning
 baseline: ''
