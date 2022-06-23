@@ -35,6 +35,11 @@ page_sections:
     de découverte, d'engagement, de plaisir et de partage. N'attendez plus ! Choisissez
     votre sortie trail et réservez vite.\n\nVoici toutes nos sorties trail dans les
     Alpes Maritimes :"
+- template: listServices2
+  blockBGcolor: blanc
+  service: advice
+  filterLevel: 2
+  whatActivity: trail
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
@@ -127,5 +132,7 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+type: B2B
+level: 1
 
 ---
