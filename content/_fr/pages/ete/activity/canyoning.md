@@ -99,7 +99,7 @@ page_sections:
     \ \nAvec Ze Hero découvrez les plus beaux canyons :"
 - template: listServices2
   service: advice
-  whatActivity: spot
+  whatActivity: spots
   filterLevel: 2
   blockBGcolor: blanc
   headtitle:
