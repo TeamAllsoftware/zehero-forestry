@@ -37,7 +37,7 @@ page_sections:
     url: "/fr/ete/activites/canyoning"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883621/website/summer/Paddle-couple-mer_sw6sqk.jpg
     image_alt: 
-    title: Débuter en surf
+    title: Le surf
     url: "/fr/ete/activites/surf"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654867638/website/summer/brian-metzler-nmWQ2SKvj5M-unsplash.jpg
     image_alt: 
