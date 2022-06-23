@@ -19,13 +19,13 @@ menu:
     - title: Surf
       href: "/fr/ete/activites/surf"
   column-02: []
-- title: Toutes nos destination
+- title: Toutes nos destinations
   id: resort
   title-link: "/fr/ete/destinations"
   image-href: ''
   image-alt: ''
-  image-link: ''
-  txt-button: ''
+  image-link: "/fr/ete/destinations"
+  txt-button: Toutes nos destinations
   column-01:
   - nested: Nos régions
     menu-items:
@@ -67,8 +67,8 @@ menu:
   title-link: ''
   image-href: ''
   image-alt: ''
-  image-link: ''
-  txt-button: ''
+  image-link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
+  txt-button: Acheter
   column-01:
   - nested: Equipement outdoor
     menu-items:
