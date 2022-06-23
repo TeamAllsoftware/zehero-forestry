@@ -13,7 +13,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655386912/webs
 image01_alt: Canyoning du Haut Jabron
 button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17614-initation-adulte-canyoning-beau-et-ludique-canyon-du-haut-jabron-activite-ze-hero
 page_sections:
 - template: textarea
   blockBGcolor: blanc
@@ -61,9 +61,9 @@ page_sections:
   headline: gorges du Haut Jabron
   button:
     text_button: 'Réservez ici '
-    href_button: https://www.ze-hero.com/fr/contact
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17614-initation-adulte-canyoning-beau-et-ludique-canyon-du-haut-jabron-activite-ze-hero
   blockBGcolor: ''
-  marge: ''
+  marge: 40
 type: generic
 level: 2
 titleHome: 'Canyoning du Haut Jabron : Initiation canyoning'
