@@ -25,7 +25,7 @@
             <div class="col margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
                 <div class="testimonials-style-02 border-radius-5px overflow-hidden">
                     <img class="d-inline-block" loading="lazy" src="{{ imgsize.url }}{{ imgsize.blogpostlist }}{{ service.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ service.image01_alt }}"  width="600px" height="450px" />
-                    <div class="testimonials-content padding-3-half-rem-all bg-light-gray  lg-padding-2-half-rem-lr">
+                    <div class="testimonials-content padding-3-half-rem-all bg-light-gray  lg-padding-2-half-rem-lr  {% if block.blockBGcolor == 'gris' %} bg-white {% endif %}">
                         <h3 class="h-90px h3 alt-font font-weight-500 text-extra-dark-gray text-uppercase d-block">{% if service.titleHome %}{{ service.titleHome }}{% else %}{{ service.title }}{% endif %}</h3>
                         {% if service.headline %}<p class="h-200px">{{ service.headline }}</p>{% else %}<div class="h-40px"></div>{% endif %}
                         <a href="{{ service.url }}" class="btn btn-large btn-{{ site.data.config[page.type].site-color }} btn-round-edge-small" title="Visiter la page {{ service.title }}">{% if service.price %}A partir de {{ service.price }}€ / pers{% else %}En savoir+{% endif %}</a>                        

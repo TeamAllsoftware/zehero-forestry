@@ -69,23 +69,6 @@ page_sections:
     text_button: 
     href_button: 
     alt_button: 
-- template: listServices
-  service: advice
-  filterCat: non
-  filterLevel: 2
-  filterHome: 2
-  blockBGcolor: gris
-  headtitle:
-    headline: Tout est pour vous
-    title: De précieux conseils pour débutants ou amateurs
-- template: 2colTitreTxt
-  title: Conseils, Materiels, Itinéraires.
-  content: De précieux conseils pour vous aider dans vos choix de vélo, de chaussures
-    de trail, ainsi que les meilleures activités outdoor en station de montagne pour
-    partager des sensations fortes ou calmes, et surtout pour profiter pleinement
-    de vacances et weekend magnifiques.
-- template: newsletter
-  title: Recevez nos dernières informations
 - template: listConseils
   service: advice
   whatAdvice: debuter
@@ -98,7 +81,7 @@ page_sections:
   service: advice
   whatAdvice: equiper
   filterLevel: 2
-  blockBGcolor: blanc
+  blockBGcolor: gris
   headtitle:
     headline: Tout est pour vous
     title: S'équiper
@@ -114,9 +97,18 @@ page_sections:
   service: advice
   whatAdvice: conseil
   filterLevel: 2
-  blockBGcolor: blanc
+  blockBGcolor: gris
   headtitle:
     headline: Tout est pour vous
     title: Tous nos conseils outdoor
+- template: 2colTitreTxt
+  title: Conseils, Materiels, Itinéraires.
+  content: De précieux conseils pour vous aider dans vos choix de vélo, de chaussures
+    de trail, ainsi que les meilleures activités outdoor en station de montagne pour
+    partager des sensations fortes ou calmes, et surtout pour profiter pleinement
+    de vacances et weekend magnifiques.
+- template: newsletter
+  title: Recevez nos dernières informations
+
 
 ---
