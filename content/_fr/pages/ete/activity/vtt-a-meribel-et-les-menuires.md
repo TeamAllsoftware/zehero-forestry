@@ -38,6 +38,18 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1648132826/website/M%C3%A9ribel/48230034906_3f54e7e3a3_c.jpg
   atl_text_image_04: Personnes en VTT électrique
   title: ''
-published: false
+- template: textarea
+  blockBGcolor: blanc
+  title: 'VTT à Méribel et aux Menuires : Famille, Débutant et Amateurs'
+  content: "Pour réservez ces sorties de VTT et VTT électrque, il faudra louer en
+    amont votre VTT au sein des différents magasins de location de Méribel ou des
+    Menuires. Ils vous guideront sur quel VTT louer en fonction de votre niveau.  \n
+    \ \nVous retrouverez 3 offres de VTT à Méribel et aux Menuires :\n\n* Sortie VTT
+    enfant famille à Méribel : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17610-vtt-electrique-enfant-famille-meribel-vtt-meribel-sam-jones)\n*
+    Sortie VTT enfant famille aux Menuires : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17613-vtt-electrique-enfant-famille-les-menuires-vtt-meribel-sam-jones)\n*
+    Sortie VTT débutant adulte à Méribel : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17612-vtt-electrique-debutant-adulte-meribel-vtt-meribel-sam-jones)\n*
+    Sortie VTT débutant adulte aux Menuires : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17609-vtt-electrique-debutant-adulte-les-menuires-vtt-meribel-sam-jones)\n*
+    Sortie VTT amateur à Méribel : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17611-vtt-electrique-amateur-adulte-meribel-vtt-meribel-sam-jones)\n*
+    Sortie VTT amateur aux Menuires : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17608-vtt-electrique-amateur-adulte-les-menuires-vtt-meribel-sam-jones)"
 
 ---
