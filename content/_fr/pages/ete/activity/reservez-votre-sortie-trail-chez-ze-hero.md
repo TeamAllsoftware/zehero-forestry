@@ -42,22 +42,6 @@ page_sections:
   whatActivity: trail
 - template: 2colimgtxt
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655715196/website/By%20Ze%20Hero%20Activity/IMG20211104075044.jpg
-  alt_text_for_image: Vue des montagnes au Pic de courmettes
-  captiontitleuppercase: Courir dans les courmettes
-  title: Le Trail à Tourrettes sur Loup
-  content: Le Trail à Tourrettes sur Loup, c'est découvrir déjà son village médiéval
-    et ses petites ruelles en pierres. Au pied du Pic des Courmettes et du Puy de
-    Tourrettes ainsi que le Puy de Naouri. Des sommets magnifiques, avec une vue incroyable
-    sur toutes les Préalpes d'Azur ainsi que la mer. Entre montées raides et techniques,
-    forêts enchantées, grands plateaux, vous vous évaderez dans un lieu parfait pour
-    la pratique du trail dans les Préalpes d'Azur et les Alpes Maritimes.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
   alt_text_for_image: Sommet vers Utelle
   captiontitleuppercase: Dans la vallée de Carros
   title: Le Trail à Levens, Gilette et Bonson
@@ -88,5 +72,6 @@ page_sections:
     alt_button: ''
 type: generic
 level: 1
+activite: trail
 
 ---
