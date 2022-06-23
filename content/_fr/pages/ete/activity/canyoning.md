@@ -129,12 +129,12 @@ page_sections:
     comme amateur et confirmé de canyoning.
 - template: cta
   intro: Réservez dès maintenant vos activités canyoning
-  headline: Activités enfants et adultes sont disponibles
+  headline: Découvrez toutes nos offres
   button:
     text_button: Réserver maintenant >
     href_button: "/fr/ete/activites/nos-canyonings"
-  blockBGcolor: ''
-  marge: ''
+  blockBGcolor: blanc
+  marge: 40
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
