@@ -42,6 +42,18 @@ page_sections:
     et l'esprit dans un moment de [plénitude](https://www.ze-hero.com/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret)."
   title: Le trail running
   blockBGcolor: ''
+- template: cta
+  intro: Réservez dès maintenant vos sorties trail
+  headline: Cours privés ou collectifs sont disponibles
+  button:
+    href_button: "/fr/ete/activites/nos-sorties-trail"
+    text_button: Réservez votre sortie trail
+  blockBGcolor: ''
+  marge: 20
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
+  alt_text_for_image: Equipement de trail
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de Trail
@@ -74,10 +86,6 @@ page_sections:
     Notre référent Trail est basé dans les Alpes Maritimes et il vous propose un choix varié d'itinéraires de trail dans le bas pays et le moyen pays niçois. De plus, vous pourrez réserver des initiations et des itinérances en trail dans des lieux uniques tel que la Maralpine. Découvrez le Mercantour et les Préalpes d'Azur mais également le Massif central, les Cévennes. Parcourez de nouveau terrain à l'assaut des sommets, des plus belles courses et de traversées.
 
     Découvrez toutes les informations en parcourant nos pages : [**Les itinéraires de trail dans les Alpes Maritimes**](https://www.ze-hero.com/fr/ete/conseils/itineraires-trail-alpes-maritimes) et le [**Trail dans les Alpes Maritimes**](https://www.ze-hero.com/fr/trail-running-alpes-maritimes-prealpes-azur).
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
-  alt_text_for_image: Equipement de trail
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650896367/website/By%20Ze%20Hero%20Activity/IMG20210424154801_01_1.jpg
@@ -111,12 +119,6 @@ page_sections:
     Après avoir parcouru les montagnes des Alpes du Nord, il se trouve aujourd'hui
     dans les Alpes Maritimes. Un passionné de la nature et l'entraînement qui vous
     apportera les meilleurs conseils dans le trail pour prendre du plaisir et progresser.
-- template: cta
-  intro: Réservez dès maintenant vos sorties trail
-  headline: Cours privés ou collectifs sont disponibles
-  button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
-    text_button: Réserver maintenant >
 - template: imgWide
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238382/website/assets/Personnages%20poses/Poses%20format%20large/Trail_Running.png
@@ -125,6 +127,6 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  url_to_shop_zehero: "/fr/ete/activites/nos-sorties-trail"
 
 ---
