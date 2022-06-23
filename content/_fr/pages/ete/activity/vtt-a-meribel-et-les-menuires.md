@@ -18,7 +18,16 @@ image01_alt: Des vaches et une personne à VTT en montagne
 button_to_link_to_ze_hero_shop:
   button_text: Réservez
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
-page_sections: []
+page_sections:
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Notre moniteur Sam Jones vous propose plusieurs sorties de 2h que vous soyez débutant, en famille avec des enfants ou que vous soyez amateurs de VTT. Il adaptera en fonction les itinéraires pour des sorties plus ou moins sportives avec du dénivelé plus important ainsi que des descentes plus engageantes. Vous pourrez rouler au sein de la station de Méribel, des Menuires et de Val Thorens. Un vrai moment d'évasion, de découverte, de partage et de sensation forte.
+
+    Vous pourrez alors découvrir l'univers du VTT parmi des sentiers spécialement conçues pour rouler et découvrir les montagnes du parc de la Vanoise. Que ce soit à VTT électrique ou à VTT normal, votre guide vous accompagnera et vous apportera les meilleurs conseils.
+
+    Découvrez les différentes offres de VTT :
+  title: Le VTT à Méribel et aux Menuires
 published: false
 
 ---
