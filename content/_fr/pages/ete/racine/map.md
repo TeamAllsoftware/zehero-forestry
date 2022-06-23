@@ -18,18 +18,51 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/
 
 ---
- <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="/js/jquery.vmap.js"></script>
-<script src="/js/jquery.vmap.france.js"></script>
 
-<script>
-    jQuery(document).ready(function () {
-      jQuery('#vmap').vectorMap({
-        map: 'france_fr',
-        enableZoom: true,
-        showTooltip: true
-      });
-    });
-  </script>
+<style type="text/css">
+    .slider {
+        margin: 20px 20px 60px 20px;
+    }
 
- <div id="vmap" style="width: 680px; height: 520px;"></div>
+    /* Specific mapael css class are below
+     * 'mapael' class is added by plugin
+    */
+
+    .mapael .map {
+        position: relative;
+    }
+
+    .mapael .mapTooltip {
+        position: absolute;
+        background-color: #fff;
+        moz-opacity: 0.70;
+        opacity: 0.70;
+        filter: alpha(opacity=70);
+        border-radius: 10px;
+        padding: 10px;
+        z-index: 1000;
+        max-width: 200px;
+        display: none;
+        color: #343434;
+    }
+</style>
+
+<!-- start section -->
+<section class="p-0 margin-3-rem-tb {% if block.blockBGcolor == 'gris' %} bg-light-gray {% endif %} contenu">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-10">
+                <div class="row">
+                    <div class="col-12 last-paragraph-no-margin wow animate__fadeIn mapcontainer">
+                       <div class="map">
+                          <span>Alternative content for the map</span>
+                      </div>
+                      <!-- <div class="areaLegend">
+                          <span>Alternative content for the legend</span>
+                      </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
