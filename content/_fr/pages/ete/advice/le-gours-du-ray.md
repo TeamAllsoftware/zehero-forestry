@@ -68,9 +68,9 @@ page_sections:
   headline: Gours du Ray
   button:
     text_button: Réservez ici
-    href_button: https://www.ze-hero.com/fr/contact
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17195-en-famille-gorges-du-loup-activite-ze-hero
   blockBGcolor: ''
-  marge: ''
+  marge: 40
 type: generic
 level: 2
 titleHome: 'Le Gours du Ray : Initiation au canyoning'
