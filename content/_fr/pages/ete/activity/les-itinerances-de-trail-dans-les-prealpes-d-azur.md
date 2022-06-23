@@ -4,7 +4,7 @@ type: generic
 season: summer
 level: 2
 categorie: Running / Trail
-topnav_color_text: dark
+topnav_color_text: light
 activite: trail
 meta-title: Partez en itinérance en Trail dans les Préalpes d'Azur
 meta-description: Partez réaliser des itinérances dans les Préalpes d'Azur en trail.
