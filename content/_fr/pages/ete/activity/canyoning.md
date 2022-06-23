@@ -98,8 +98,8 @@ page_sections:
     de magnifique canyoning en Corse, en Ardèche, dans el Verdon, dans les Pyrénées...
     \ \nAvec Ze Hero découvrez les plus beaux canyons :"
 - template: listServices2
-  service: advice
-  whatActivity: spots
+  service: activity
+  whatActivity: spot
   filterLevel: 2
   blockBGcolor: blanc
   headtitle:
