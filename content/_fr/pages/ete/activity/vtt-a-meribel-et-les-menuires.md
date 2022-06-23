@@ -51,5 +51,8 @@ page_sections:
     Sortie VTT débutant adulte aux Menuires : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17609-vtt-electrique-debutant-adulte-les-menuires-vtt-meribel-sam-jones)\n*
     Sortie VTT amateur à Méribel : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17611-vtt-electrique-amateur-adulte-meribel-vtt-meribel-sam-jones)\n*
     Sortie VTT amateur aux Menuires : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17608-vtt-electrique-amateur-adulte-les-menuires-vtt-meribel-sam-jones)"
+layout: layout_generic
+titleHome: ''
+conseil: ''
 
 ---
