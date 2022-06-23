@@ -22,8 +22,8 @@ page_sections:
     title: Réserver une activité
     link: https://shop.ze-hero.com/fr/activites-Outdoor/
   Button2:
-    title: 'Acheter du matériel'
-    link: 'https://shop.ze-hero.com/fr/achat-neuf/'
+    title: Acheter du matériel
+    link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   button_2_more: true
 - template: listOffres
   blockBGcolor: blanc
@@ -55,7 +55,7 @@ page_sections:
   blockBGcolor: blanc
   headtitle:
     headline: le voyage c'est la santé
-    title: "Nos destinations coup de coeur"
+    title: Nos destinations coup de coeur
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true
@@ -68,7 +68,7 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/11_l7a3ej.jpg
     alt_text: Notre coach référent sur le trail en pleine action
     title: Se préparer avec nos coachs
-    title_Link: "https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date="
+    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648197165/website/assets/Personnages%20poses/Trail.png
     alt_text: Personnage ZE HERO en tenue de trail
