@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: light
+topnav_color_text: dark
 title: Canyoning
 titleHome: Débuter en canyoning
 activite: canyoning
@@ -44,7 +44,7 @@ page_sections:
     text_button: Réserver maintenant >
     href_button: "/fr/ete/activites/nos-canyonings"
   blockBGcolor: blanc
-  marge: 40
+  marge: 20
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de canyoning
