@@ -85,7 +85,7 @@ page_sections:
 
     Notre référent Trail est basé dans les Alpes Maritimes et il vous propose un choix varié d'itinéraires de trail dans le bas pays et le moyen pays niçois. De plus, vous pourrez réserver des initiations et des itinérances en trail dans des lieux uniques tel que la Maralpine. Découvrez le Mercantour et les Préalpes d'Azur mais également le Massif central, les Cévennes. Parcourez de nouveau terrain à l'assaut des sommets, des plus belles courses et de traversées.
 
-    Découvrez toutes les informations en parcourant nos pages : [**Les itinéraires de trail dans les Alpes Maritimes**](https://www.ze-hero.com/fr/ete/conseils/itineraires-trail-alpes-maritimes) et le [**Trail dans les Alpes Maritimes**](https://www.ze-hero.com/fr/trail-running-alpes-maritimes-prealpes-azur).
+    Découvrez toutes les informations en parcourant nos pages : [**Les itinéraires de trail dans les Alpes Maritimes**](https://www.ze-hero.com/fr/ete/conseils/itineraires-trail-alpes-maritimes).
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650896367/website/By%20Ze%20Hero%20Activity/IMG20210424154801_01_1.jpg
