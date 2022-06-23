@@ -31,9 +31,8 @@ page_sections:
   content: |-
     Le Trail à Saint Jeannet c’est courir sur des sentiers plutôt techniques. Les chemins sont parsemés de pierre et de rochers. On travaille la proprioception en courant sur ses chemins. Mais on peut découvrir des sentiers variés avec des montés parfois raides mais courtes et des sentiers plus roulant et joueurs. Nous découvrirons alors le baou de la Gaude ainsi que Le chêne, les pâturages des moutons de saint Jeannet, le château de Castellet ainsi que le Baou de St Jeannet et sa vue imprenable sur toute la baie de la Côte d’Azur.
 
-    * Débutant : de 3h environ pour 10 à 15km et 500 à 800D +
-    * Découverte de l’environnement avec sommet des Baou
-    * Départ : parking facile d’accès
+    * Les 2 Baous : 13km et 645D+
+    * Mouton D’Anou, Baou et Castellet : 18km et 730D+
 
     Explication sur le trail avec enseignement sur la technique de montée avec ou sans bâtons, sur la descente de descente et sur les différents entraînements en trail tel que le fractionner. Sortie basée sur l’endurance avec jeu ludique d’entraînement durant la séance.
 
