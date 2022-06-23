@@ -1,5 +1,5 @@
 ---
-layout: layout_generic
+layout: layout_advice
 language: fr
 type: generic
 season: summer
@@ -57,5 +57,7 @@ page_sections:
     text_button: Réservez ici
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17593-trail-matin-tourrettes-sur-loup-ze-hero-yann-alarcon
 conseil: ''
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655715196/website/By%20Ze%20Hero%20Activity/IMG20211104075044.jpg
+image01_alt: Vue de Puy de Tourrettes
 
 ---
