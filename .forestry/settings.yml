@@ -54,7 +54,6 @@ sections:
 - type: document
   path: _data/menu_footer/fr/hiver.yml
   label: HIVER menu footer
-  match: "**/*"
 - type: directory
   path: content/_fr/pages/hiver/activity
   label: HIVER Activités
@@ -97,7 +96,6 @@ sections:
 - type: document
   path: _data/menu_footer/fr/ete.yml
   label: ETE menu footer
-  match: "**/*"
 - type: directory
   path: content/_fr/pages/ete/activity
   label: ETE Activités
