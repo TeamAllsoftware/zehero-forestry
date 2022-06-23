@@ -45,6 +45,10 @@ page_sections:
     href_button: "/fr/ete/activites/nos-canyonings"
   blockBGcolor: blanc
   marge: 20
+- template: imgWide
+  blockBGcolor: blancGris
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649235420/website/assets/Recadr%C3%A9es/canyoning.png
+  alt_text_for_image: Matériel de canyoning
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de canyoning
@@ -100,10 +104,6 @@ page_sections:
   headtitle:
     headline: ZE HERO propose
     title: Des activités pour la saison estivale
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649235420/website/assets/Recadr%C3%A9es/canyoning.png
-  alt_text_for_image: Matériel de canyoning
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
