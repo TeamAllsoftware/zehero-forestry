@@ -96,15 +96,8 @@ page_sections:
     départements. Tous seront bien différents, ils seront spécifiques à l’environnement,
     à la roche et seront destinés pour différents publics. Vous pourrez retrouver
     de magnifique canyoning en Corse, en Ardèche, dans el Verdon, dans les Pyrénées...
-    \ \nAvec Ze Hero découvrez les plus beaux canyons :"
-- template: listServices2
-  service: activity
-  whatActivity: spot
-  filterLevel: 2
-  blockBGcolor: blanc
-  headtitle:
-    headline: ZE HERO propose
-    title: Des activités pour la saison estivale
+    \ \nAvec Ze Hero découvrez les plus beaux canyons :\n\n* [**Les Alpes Maritimes**](/fr/meilleurs-spots-canyoning-alpes-maritimes)\n*
+    [**En Haute-Savoie**](/fr/ete/activites/canyoning-annecy)"
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
