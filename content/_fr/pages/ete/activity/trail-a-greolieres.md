@@ -33,16 +33,17 @@ page_sections:
   title: 'Trail à Gréolières : Débutant à confirmé'
   content: "Nous vous proposons différents parcours depuis le village de Gréolières.
     Nous avons mis en place différents tours autour du village et de la montagne du
-    Cheiron.    \nOn y découvre des sentiers techniques, de la forêt, une magnifique
+    Cheiron.  \nOn y découvre des sentiers techniques, de la forêt, une magnifique
     crètes pour atteindre le sommet du Cheiron, avec la vue sur la mer, sur le Mercantour
-    de l'autre coté.   \nDécouvrez nos différentes boucles :\n\n* Le tour du Cheiron
-    avec 30km et 1250D+ pour 5h \n* La boucle Gréolières - Esteron avec 31km et 2050D+
-    pour 6h\n* Parking facile d'accès \n\nExplication sur le trail avec enseignement
-    sur la technique de montée avec ou sans bâtons, sur la descente de descente et
-    sur les différents entraînements en trail tel que le fractionner. Sortie basée
-    sur l’endurance avec jeu ludique d’entraînement durant la séance.\n\nÉquipement
-    à avoir : tenue adaptée au trail, chaussures de trail, sac ou ceinture de portage
-    avec flasques d’eau (2 fois 500ml ou plus) + réserve alimentaire et coupe-vent."
+    de l'autre coté.  \nDécouvrez nos différentes boucles :\n\n* Le KV : un aller
+    / retour de 11km et 900D+ jusqu’au sommet du Cheiron\n* Les crètes du Cheiron
+    : 23km et 1240D+\n* Le Tour du Cheiron : 30km et 1250D+\n* Gréolières - Estéron
+    : 31km et 2050D+\n\nExplication sur le trail avec enseignement sur la technique
+    de montée avec ou sans bâtons, sur la descente de descente et sur les différents
+    entraînements en trail tel que le fractionner. Sortie basée sur l’endurance avec
+    jeu ludique d’entraînement durant la séance\n\nÉquipement à avoir : tenue adaptée
+    au trail, chaussures de trail, sac ou ceinture de portage avec flasques d’eau
+    (2 fois 500ml ou plus) + réserve alimentaire et coupe-vent."
 - template: liststyle01
   title: Derniers informations
   item:
