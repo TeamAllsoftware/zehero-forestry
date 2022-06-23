@@ -37,6 +37,14 @@ page_sections:
     faciles et plus adaptées à des enfants ou des personnes désirant seulement faire
     une randonnée aquatique avec quelques sauts et glissades en toboggan."
   blockBGcolor: ''
+- template: cta
+  intro: Réservez dès maintenant vos activités canyoning
+  headline: Découvrez toutes nos offres
+  button:
+    text_button: Réserver maintenant >
+    href_button: "/fr/ete/activites/nos-canyonings"
+  blockBGcolor: blanc
+  marge: 40
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de canyoning
@@ -127,14 +135,6 @@ page_sections:
     ses enfants dans les Alpes Maritimes et connaît tous les différents canyons de
     cette magnifique région. Elle saura vous guider que vous soyez novice et débutant
     comme amateur et confirmé de canyoning.
-- template: cta
-  intro: Réservez dès maintenant vos activités canyoning
-  headline: Découvrez toutes nos offres
-  button:
-    text_button: Réserver maintenant >
-    href_button: "/fr/ete/activites/nos-canyonings"
-  blockBGcolor: blanc
-  marge: 40
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
