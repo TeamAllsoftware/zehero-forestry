@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Canyoning
 titleHome: Débuter en canyoning
 activite: canyoning
@@ -22,6 +22,8 @@ image01_alt: Deux personnes faisant du canyoning et souriant dans l'eau dans les
   Maritimes
 categorie: Eaux vives
 page_sections:
+- template: heroBreadcrumb
+  title: Canyoning, kesako ?
 - template: textarea
   title: Qu'est-ce que le canyoning ?
   content: "Le canyoning, c'est quoi ?    \nLe canyoning, c'est une activité d'eau

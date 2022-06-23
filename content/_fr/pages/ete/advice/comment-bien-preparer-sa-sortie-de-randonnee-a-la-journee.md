@@ -7,6 +7,7 @@ meta-description: Il est important, lorsque l'on part randonner à la journée, 
   préparer sa sortie (équipements, itinéraires, points d'eau, alimentation...)
 topnav_color_text: light
 title: Comment bien préparer sa sortie de randonnée à la journée ?
+conseil: debuter
 level: 2
 enHome: 2
 permalink: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"

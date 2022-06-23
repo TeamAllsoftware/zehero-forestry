@@ -81,6 +81,11 @@ fields:
     required: 
   label: Quelle est l'activité ? Attention à l'orthographe afin que la "fille" retrouve
     la "mère"
+- name: conseil
+  type: text
+  config:
+    required: 
+  label: Quelle est le conseil ? Attention à l'orthographe afin tous les conseils identiques soient listés
 - name: permalink
   type: text
   config:
@@ -158,6 +163,7 @@ fields:
   - 4col2imgTxtImg
   - 3coltxtimgtxt
   - blogPostList
+  - listConseils
   - listServices
   - listServices2
   - parlaxgridtxtimg

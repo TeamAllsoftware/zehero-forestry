@@ -101,6 +101,7 @@ page_sections:
 type: generic
 level: 2
 activite: surf
+conseil: equiper
 titleHome: Bien s'équiper en surf
 baseline: ''
 

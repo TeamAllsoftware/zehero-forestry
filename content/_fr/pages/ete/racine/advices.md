@@ -86,5 +86,37 @@ page_sections:
     de vacances et weekend magnifiques.
 - template: newsletter
   title: Recevez nos dernières informations
+- template: listConseils
+  service: advice
+  whatAdvice: debuter
+  filterLevel: 2
+  blockBGcolor: blanc
+  headtitle:
+    headline: Tout est pour vous
+    title: Débuter
+- template: listConseils
+  service: advice
+  whatAdvice: equiper
+  filterLevel: 2
+  blockBGcolor: blanc
+  headtitle:
+    headline: Tout est pour vous
+    title: S'équiper
+- template: listConseils
+  service: advice
+  whatAdvice: spot
+  filterLevel: 2
+  blockBGcolor: blanc
+  headtitle:
+    headline: Tout est pour vous
+    title: Les supers spots
+- template: listConseils
+  service: advice
+  whatAdvice: conseil
+  filterLevel: 2
+  blockBGcolor: blanc
+  headtitle:
+    headline: Tout est pour vous
+    title: Tous nos conseils outdoor
 
 ---

@@ -9,6 +9,7 @@ meta-description: Le fractionné est l’entraînement clé pour la progression 
   forcément passer par l’entraînement fractionné.
 topnav_color_text: light
 title: Faire du fractionné en Trail
+conseil: debuter
 level: 2
 enHome: 2
 permalink: "/fr/ete/conseils/fractionne-trail"

@@ -83,6 +83,7 @@ page_sections:
 type: generic
 level: 2
 activite: surf
+conseil: debuter
 titleHome: Débuter en surf
 baseline: ''
 

@@ -60,6 +60,7 @@ page_sections:
   marge: 40
 type: generic
 level: 2
+conseil: spot
 activite: canyoning
 titleHome: 'Canyoning de Cramassouri : Initiation canyoning'
 baseline: ''

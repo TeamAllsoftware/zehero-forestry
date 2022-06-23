@@ -6,6 +6,9 @@ meta-description: Découvrez tous nos conseils afin de bien débuter dans l'acti
   de VTT.
 topnav_color_text: light
 title: Débuter à VTT
+activite: VTT
+conseil: debuter
+level: 2
 permalink: "/fr/ete/conseils/debuter-vtt"
 meta-title: Bien débuter à VTT - Conseils Ze Hero
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108071/website/VTT%20AE/forest-4366094_1920.jpg
