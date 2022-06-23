@@ -40,36 +40,6 @@ page_sections:
   service: activity
   filterLevel: 2
   whatActivity: trail
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  alt_text_for_image: Sommet vers Utelle
-  captiontitleuppercase: Dans la vallée de Carros
-  title: Le Trail à Levens, Gilette et Bonson
-  content: Le Trail à Levens, Gilette ou encore Bonson, dans la vallée de Carros sont
-    des villages où partent de nombreux parcours et sentiers de trail. Vous retrouverez
-    Gilette et Bonson, qui se trouvent tout près du Mont Vial. Levens vous amène au
-    Mont Férion ainsi que vous des tours magnifiques sur les traces du GR5.
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653928703/website/By%20Ze%20Hero%20Activity/IMG_20200713_104929.jpg
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653904886/website/By%20Ze%20Hero%20Activity/IMG_20201017_144143_BURST021.jpg
-  alt_text_for_image: Coureur dans les Préalpes d'Azur
-  captiontitleuppercase: Traverser les Préalpes
-  title: Les itinérances de trail dans les Préalpes d'Azur
-  content: "Avec Ze Hero, nous vous proposons de partir pour deux itinérances à travers
-    les Préalpes d'Azur. Des traversées uniques à travers les villages, les sommets
-    et les plateaux magnifiques des Préalpes d'Azur.  \nDécouvrez alors la Maralpine
-    partant de Saint Auban jusqu'à Vence pour 75km et 4000D +. Ainsi qu'une traversée
-    de Saint Jeannet à Le bar sur Loup soit par le GR51 soit par le Cheiron pour environ
-    50km et 2000D +.\n\nSur un jour ou deux, partez vivre une nouvelle aventure."
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
 type: generic
 level: 1
 activite: trail
