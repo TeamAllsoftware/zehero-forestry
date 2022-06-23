@@ -105,7 +105,7 @@ page_sections:
     [**Cueilleur de Sommet**](https://www.ze-hero.com/fr/ete/partenaires/clement-sivera)
     situé dans le Massif Central, les Cévennes les Pyrénées et la Haute Savoie."
   button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=21%2F11%2F2021
+    href_button: "/fr/ete/activites/nos-sorties-trail"
     text_button: Nos offres de trail
     alt_button: ''
 - template: 3coltxtimgtxt
