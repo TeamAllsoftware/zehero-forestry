@@ -13,7 +13,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/webs
 image01_alt: Fille sautant dans le canyon de la clue de la cerise
 button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17604-initiation-et-special-famille-canyoning-magnifique-et-sans-corde-clue-de-la-cerise-activite-ze-hero
 page_sections:
 - template: textarea
   blockBGcolor: blanc
@@ -68,9 +68,9 @@ page_sections:
   headline: Clue de la Cerise
   button:
     text_button: 'Réservez ici '
-    href_button: https://www.ze-hero.com/fr/contact
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17604-initiation-et-special-famille-canyoning-magnifique-et-sans-corde-clue-de-la-cerise-activite-ze-hero
   blockBGcolor: ''
-  marge: ''
+  marge: 40
 type: generic
 level: 2
 activite: canyoning
