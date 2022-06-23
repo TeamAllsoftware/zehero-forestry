@@ -50,9 +50,9 @@ page_sections:
   headline: canyon de Planfaé
   button:
     text_button: 'Réservez ici '
-    href_button: https://www.ze-hero.com/fr/contact
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17207-canyoning-planfae-special-famille-enfant-des-10-ans-activite-ze-hero
   blockBGcolor: ''
-  marge: ''
+  marge: 40
 type: generic
 level: 2
 activite: canyoning
