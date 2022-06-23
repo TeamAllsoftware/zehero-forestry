@@ -41,7 +41,8 @@ fields:
   type: text
   config:
     required: 
-  label: Quelle est le conseil ? Attention à l'orthographe afin tous les conseils identiques soient listés
+  label: Quelle est le conseil ? Attention à l'orthographe afin tous les conseils
+    identiques soient listés
 - name: title
   type: text
   config:
