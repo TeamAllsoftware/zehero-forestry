@@ -62,7 +62,7 @@ page_sections:
     text_button: 'Réservez ici '
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17200-special-enfants-ruisseau-audin-activite-ze-hero
   blockBGcolor: ''
-  marge: ''
+  marge: 40
 type: generic
 level: 2
 titleHome: 'Canyoning Ruisseau Audin : Familiale et ludique'
