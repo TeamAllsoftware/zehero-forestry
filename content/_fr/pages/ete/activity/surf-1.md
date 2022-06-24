@@ -2,7 +2,7 @@
 layout: layout_activity
 language: fr
 season: summer
-categorie: Eaux vives
+categorie: Surf
 topnav_color_text: dark
 meta-title: 'Activité outdoor surf - Biarritz la ville idéale '
 meta-description: 'Tenter l''expérience su surf, la sensation de glisse à Biarritz
@@ -82,5 +82,7 @@ page_sections:
   - 'De la wax (une gomme que l’on applique sur la planche pour éviter de glisser)
 
     '
+type: generic
+activite: ''
 
 ---
