@@ -45,18 +45,18 @@ page_sections:
   title: Le trail running
   blockBGcolor: ''
 - template: cta
-  intro: Réservez dès maintenant vos sorties trail
-  headline: tous niveaux
+  intro: 'Réservez dès maintenant '
+  headline: votre sortie trail
   button:
     href_button: "/fr/ete/activites/nos-sorties-trail"
-    text_button: Réservez votre sortie trail
+    text_button: Nos offres de trail
   blockBGcolor: blanc
   marge: 20
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216651/website/summer/IMG_20200627_052816.jpg
   atl_text_image_01: Traileur à Valmorel
-  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216722/website/summer/IMG_20200723_152933.jpg
-  atl_text_image_02: Traileur vers Gréolières
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1643038697/website/summer/117444833_3228512423882343_2122646883182493095_n_pymt7i.jpg
+  atl_text_image_02: Traileur à Valmorel
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650896367/website/By%20Ze%20Hero%20Activity/IMG20210722195727.jpg
   atl_text_image_03: Traileur dans le Mercantour
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1643040082/website/summer/IMG_20200725_103745_svblrc.jpg
