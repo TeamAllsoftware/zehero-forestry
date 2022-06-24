@@ -6,7 +6,7 @@ menu:
   image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304659/website/summer/IMG_9183.jpg
   image-alt: Deux personnes au sommet du Baou de Saint Jeannet
   image-link: "/fr/ete/activites"
-  txt-button: Réservez
+  txt-button: Réservez ici
   column-01:
   - nested: Par régions
     menu-items:
