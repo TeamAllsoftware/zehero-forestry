@@ -41,7 +41,7 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   intro: Réservez dès maintenant vos activités canyoning
-  headline: Nos offres
+  headline: Toutes nos offres
   button:
     text_button: Réserver maintenant >
     href_button: "/fr/ete/activites/nos-canyonings"
