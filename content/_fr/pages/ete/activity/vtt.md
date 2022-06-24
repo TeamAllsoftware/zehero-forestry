@@ -1,9 +1,9 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: VTT
 permalink: "/fr/ete/activites/vtt"
 redirect_from:
@@ -105,8 +105,10 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: "/fr/ete/activites/reserver-vtt"
-activite: VTT
+activite: vtt
 level: 1
 enHome: 2
+titleHome: VTT
+conseil: ''
 
 ---

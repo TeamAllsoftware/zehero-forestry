@@ -1,10 +1,10 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
 categorie: Eaux vives
-topnav_color_text: dark
+topnav_color_text: light
 meta-title: Réservez votre activité de canyoning
 meta-description: Découvrez toutes nos activités de canyoning sur Ze Hero avec nos
   canyonings dans les Alpes Maritimes et un canyoning en Haute Savoie. Choisissez
@@ -21,9 +21,11 @@ button_to_link_to_ze_hero_shop:
   button_text: Demande de réservation
   url_to_shop_zehero: https://www.ze-hero.com/fr/contact
 page_sections:
+- template: heroBreadcrumb
+  title: Nos offres de Canyoning chez Ze Hero
 - template: textarea
   blockBGcolor: blanc
-  title: Les canyonings dans les Alpes Maritimes
+  title: 'Les canyonings dans les Alpes Maritimes '
   content: "Découvrez toutes nos offres de canyonings chez Ze Hero dans les Alpes
     Maritimes. Une sélection de plusieurs canyonings près de Nice pour tous, tous
     les niveaux et toutes les envies.  \nNous vous proposons différents canyonings
@@ -40,5 +42,22 @@ page_sections:
   service: activity
   filterLevel: 2
   whatActivity: canyoning
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649081597/website/Partenaires/1638783865-DSC_0958.jpg
+  alt_text_for_image: Canyoning de Nyon / 7 Aventures
+  captiontitleuppercase: Canyoning en Haute Savoie
+  title: Le canyoning de Nyon près de Thonon les Bains
+  content: 'Le canyoning de Nyon est situé dans la Dranse, à Morzine, qui est tout
+    proche de Thonon les Bains. Partez pour un dépaysement total en Haute Savoie.  7
+    Aventure vous initieront aux techniques de base sur le canyon : glissades, marche,
+    nage et quand le dénivelé est très important nous faisons appel aux techniques
+    d''escalade.'
+  button:
+    text_button: En savoir +
+    href_button: "/fr/ete/activites/reserver-canyoning-nyon"
+    alt_button: ''
+titleHome: Réservez votre canyoning chez Ze Hero
+conseil: spot
 
 ---

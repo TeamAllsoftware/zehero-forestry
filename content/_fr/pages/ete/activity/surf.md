@@ -1,11 +1,11 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
 topnav_color_text: dark
 title: Surf
-titleHome: Débuter en surf
+titleHome: Surf
 activite: surf
 level: 1
 enHome: 1
@@ -39,6 +39,14 @@ page_sections:
     ces éléments afin que vous puissiez partager un moment de plaisir, de découverte
     entre amis, en famille en vous rafraichissant dans les vagues de l'Atlantique. "
   blockBGcolor: ''
+- template: cta
+  button:
+    href_button: "/fr/ete/activites/reserver-cours-surf"
+    text_button: Réserver ici
+  intro: Réservez dès maintenant vos cours de surf
+  headline: dans les Landes et en Loire Atlantique
+  blockBGcolor: blanc
+  marge: 20
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
@@ -58,10 +66,6 @@ page_sections:
     * Nos spots de surf
 
     Le surf en France se situe surtout sur toute la côte Atlantique allant du Pays Basque jusqu'en Bretagne. L'hiver vous pouvez parfois surfer sur la Méditerrané avec quelques spots tels que Cannes, Canet, Villefranche ou encore Palavas les Flots. Avec Ze Hero, vous pourrez découvrir les spots mythiques des Landes à Seignosse, Cabreton et Hossegor mais également à Mimizan, Porge et St Brévin les Pins.
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
-  alt_text_for_image: Equipement de surf
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651477287/website/Sama%20Sama/surf-enfant-mimizan.jpg
@@ -99,14 +103,6 @@ page_sections:
     excelle dans la pratique du surf. Il saura vous conseillé pour toutes vos questions
     sur la pratique du surf, de l''équipement et des meilleurs spots de surf qui seront
     idéals pour vous. '
-- template: cta
-  button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
-    text_button: Réserver maintenant >
-  intro: Réservez dès maintenant vos activités surf
-  headline: Cours privés ou collectifs, enfants et adultes sont disponibles
-  blockBGcolor: ''
-  marge: ''
 - template: imgWide
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238781/website/assets/Personnages%20poses/Poses%20format%20large/Surf.png
@@ -115,6 +111,7 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+  url_to_shop_zehero: "/fr/ete/activites/reserver-cours-surf"
+conseil: ''
 
 ---

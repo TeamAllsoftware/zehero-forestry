@@ -1,9 +1,9 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 categorie: Running / Trail
-topnav_color_text: dark
+topnav_color_text: light
 meta-title: Réservez votre sortie Trail Alpes Maritimes
 meta-description: Découvrez toutes nos sorties trail dans les Alpes Maritimes. Des
   sorties encadrés par un professionel afin de découvrir, de progresser, de partir
@@ -43,5 +43,7 @@ page_sections:
 type: generic
 level: 1
 activite: trail
+titleHome: ''
+conseil: ''
 
 ---

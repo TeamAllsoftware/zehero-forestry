@@ -1,11 +1,11 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Trail Running
-titleHome: Mon 1er trail en itinérance
+titleHome: Le Trail Running
 activite: trail
 level: 1
 enHome: 1
@@ -26,6 +26,8 @@ image01_alt: Personnes courant en trail sur le long d'une crête de montagne lor
   levé du soleil
 categorie: Running / Trail
 page_sections:
+- template: heroBreadcrumb
+  title: Trail, kesako ?
 - template: textarea
   content: "Le trail signifie \"sentier\" en anglais. Que ce soit en montagne, en
     plaine, dans la forêt, vous retrouverez ce sentier qui monte, qui descend et qui
@@ -43,17 +45,23 @@ page_sections:
   title: Le trail running
   blockBGcolor: ''
 - template: cta
-  intro: Réservez dès maintenant vos sorties trail
-  headline: pour débutants ou confirmés
+  intro: 'Réservez dès maintenant '
+  headline: votre sortie trail
   button:
     href_button: "/fr/ete/activites/nos-sorties-trail"
-    text_button: Réservez votre sortie trail
+    text_button: Nos offres de trail
   blockBGcolor: blanc
   marge: 20
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
-  alt_text_for_image: Equipement de trail
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216651/website/summer/IMG_20200627_052816.jpg
+  atl_text_image_01: Traileur à Valmorel
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1643038697/website/summer/117444833_3228512423882343_2122646883182493095_n_pymt7i.jpg
+  atl_text_image_02: Traileur à Valmorel
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650896367/website/By%20Ze%20Hero%20Activity/IMG20210722195727.jpg
+  atl_text_image_03: Traileur dans le Mercantour
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1643040082/website/summer/IMG_20200725_103745_svblrc.jpg
+  atl_text_image_04: Coureuse à Isola 2000
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de Trail
@@ -128,5 +136,6 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: "/fr/ete/activites/nos-sorties-trail"
+conseil: ''
 
 ---

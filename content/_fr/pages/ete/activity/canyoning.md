@@ -41,16 +41,22 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   intro: Réservez dès maintenant vos activités canyoning
-  headline: Découvrez toutes nos offres
+  headline: Toutes nos offres
   button:
     text_button: Réserver maintenant >
     href_button: "/fr/ete/activites/nos-canyonings"
   blockBGcolor: blanc
   marge: 20
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649235420/website/assets/Recadr%C3%A9es/canyoning.png
-  alt_text_for_image: Matériel de canyoning
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
+  atl_text_image_01: Enfants en canyoning
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
+  atl_text_image_02: Enfant sautant dans un canyoning
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655386912/website/By%20Ze%20Hero%20Activity/IMG_4222.jpg
+  atl_text_image_03: Personnes faisant du canyoning
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655359805/website/Canyoning%2006/Screenshot_3.jpg
+  atl_text_image_04: Canyoning gorges du loup
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de canyoning
@@ -65,19 +71,16 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
-  content: "* Débuter le Canyoning :\n\nDébuter le canyoning, c’est partir vivre une
-    expérience forte dans des lieux magnifiques. Le canyoning est une activité ouverte
-    à tout le monde à condition de savoir nager. Vous pourrez alors partager et vivre
-    des moments intenses. Pour les initiations et les débuts dans le canyoning, cela
-    ne nécessite pas forcément d’avoir une bonne condition physique, les parcours
-    sont plus ouverts avec plus de marche et de nage. Réserver une activité de canyoning,
-    c’est avoir un moniteur qui va gérer le groupe pour une durée de 2h à une journée
-    entière en fonction du canyon.\n\nDécouvrez plus d'information en parcourant notre
-    page conseil : [**Débuter le canyoning**](https://www.ze-hero.com/fr/ete/conseils/conseils-canyoning) "
+  content: |-
+    * **Débuter le Canyoning** :
+
+    Débuter le canyoning, c’est partir vivre une expérience forte dans des lieux magnifiques. Le canyoning est une activité ouverte à tout le monde à condition de savoir nager. Vous pourrez alors partager et vivre des moments intenses. Pour les initiations et les débuts dans le canyoning, cela ne nécessite pas forcément d’avoir une bonne condition physique, les parcours sont plus ouverts avec plus de marche et de nage. Réserver une activité de canyoning, c’est avoir un moniteur qui va gérer le groupe pour une durée de 2h à une journée entière en fonction du canyon.
+
+    Découvrez plus d'information en parcourant notre page conseil : [**Débuter le canyoning**](https://www.ze-hero.com/fr/ete/conseils/conseils-canyoning)
 - template: textarea
   blockBGcolor: blanc
   content: |-
-    * S'équiper en canyoning
+    * **S'équiper en canyoning**
 
     S’équiper en canyoning, c’est avoir avec soi du matériel spécifique. Le moniteur, l’encadrant du canyoning aura avec lui beaucoup plus de matériel que les clients. Il doit être équipé de sa corde, de dégaines, de bloqueurs, de mousquetons et bien plus encore, dans le but de vous assurer, de vous faire descendre. Mais toutes les personnes doivent avec avoir avec soi ce matériel-là :
 
@@ -91,7 +94,7 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: ''
-  content: "* Nos itinéraires de canyoning\n\nEn France, il existe un choix incroyable
+  content: "* **Nos itinéraires de canyoning**\n\nEn France, il existe un choix incroyable
     de parcours de canyonings. Vous allez en trouver dans de nombreuses régions et
     départements. Tous seront bien différents, ils seront spécifiques à l’environnement,
     à la roche et seront destinés pour différents publics. Vous pourrez retrouver

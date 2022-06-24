@@ -3,9 +3,9 @@ layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Le canyoning dans les Alpes Maritimes
-activite: canyoning
+activite: ''
 level: 2
 permalink: "/fr/meilleurs-spots-canyoning-alpes-maritimes"
 redirect_from:
@@ -20,6 +20,8 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/webs
 image01_alt: Personne sautant dans l'eau dans un canyoning dans les alpes maritimes
 categorie: Eaux vives
 page_sections:
+- template: heroBreadcrumb
+  title: Le canyoning dans les Alpes Maritimes
 - template: textarea
   title: Le canyoning dans les Alpes Maritimes
   content: |-

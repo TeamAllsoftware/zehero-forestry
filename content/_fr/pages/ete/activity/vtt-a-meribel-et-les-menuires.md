@@ -4,7 +4,7 @@ type: generic
 season: summer
 level: 2
 categorie: Vélo
-topnav_color_text: dark
+topnav_color_text: light
 activite: vtt
 meta-title: Réservez sortie VTT Méribel et Les Menuires
 meta-description: Réservez une sortie de VTT et de VTT électrique dans la station
@@ -52,7 +52,7 @@ page_sections:
     Sortie VTT amateur à Méribel : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17611-vtt-electrique-amateur-adulte-meribel-vtt-meribel-sam-jones)\n*
     Sortie VTT amateur aux Menuires : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17608-vtt-electrique-amateur-adulte-les-menuires-vtt-meribel-sam-jones)"
 layout: layout_generic
-titleHome: ''
+titleHome: Réservez VTT à Méribel et Les Ménuires
 conseil: ''
 
 ---
