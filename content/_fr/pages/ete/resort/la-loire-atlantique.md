@@ -55,5 +55,7 @@ page_sections:
   alt_text_for_image: 'Personne faisant du Kitesurf dans l''océan dans la Loire Atlantique '
 baseline: Littoral et nature
 code_postal: 44,Loire-Atlantique,Pays de la Loire
+level: 1
+listMother: 2
 
 ---
