@@ -31,6 +31,10 @@ page_sections:
   imageList:
   - image_href: Trail
     image_alt: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216651/website/summer/IMG_20200627_052816.jpg
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216661/website/summer/IMG_20200627_053613.jpg
+  alt_text_for_image: Trail
 - template: textarea
   content: "Le trail signifie \"sentier\" en anglais. Que ce soit en montagne, en
     plaine, dans la forêt, vous retrouverez ce sentier qui monte, qui descend et qui
