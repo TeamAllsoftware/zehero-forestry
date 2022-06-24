@@ -1,5 +1,5 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 categorie: Vélo
@@ -37,5 +37,7 @@ page_sections:
 type: generic
 activite: vtt
 level: 1
+titleHome: Réservez votre activité à VTT chez Ze Hero
+conseil: ''
 
 ---
