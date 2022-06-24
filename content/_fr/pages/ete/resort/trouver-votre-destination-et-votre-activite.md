@@ -19,9 +19,16 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 page_sections:
+- template: heroBreadcrumb
+  title: Trouvez votre prochaine destination outdoor
 - template: textarea
   blockBGcolor: blanc
   title: Les destinations chez Ze Hero
   content: Découvrez nos destinations où nos activité outdoors sont présentent.
+- template: listConseils
+  blockBGcolor: gris
+  service: resort
+  filterLevel: 2
+  whatAdvice: ''
 
 ---
