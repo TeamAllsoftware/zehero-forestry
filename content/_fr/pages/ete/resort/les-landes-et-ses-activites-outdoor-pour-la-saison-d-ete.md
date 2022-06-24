@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -13,7 +13,7 @@ introduction:
     pour toute la famille
 title: Les Landes et ses activités outdoor pour la saison d'été
 titleHome: La glisse sur la Côte Atlantique
-activite: coteatlantique
+activite: ''
 level: 1
 enHome: 1
 page_title: Les Landes, les grands espaces naturels
@@ -99,5 +99,7 @@ page_sections:
     sport et détente.
   blockBGcolor: ''
 code_postal: 40,Landes,Nouvelle-Aquitaine
+listMother: 1
+conseil: ''
 
 ---
