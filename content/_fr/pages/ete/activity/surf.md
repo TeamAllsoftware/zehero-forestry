@@ -1,11 +1,11 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
 topnav_color_text: dark
 title: Surf
-titleHome: Débuter en surf
+titleHome: Surf
 activite: surf
 level: 1
 enHome: 1
@@ -66,10 +66,6 @@ page_sections:
     * Nos spots de surf
 
     Le surf en France se situe surtout sur toute la côte Atlantique allant du Pays Basque jusqu'en Bretagne. L'hiver vous pouvez parfois surfer sur la Méditerrané avec quelques spots tels que Cannes, Canet, Villefranche ou encore Palavas les Flots. Avec Ze Hero, vous pourrez découvrir les spots mythiques des Landes à Seignosse, Cabreton et Hossegor mais également à Mimizan, Porge et St Brévin les Pins.
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
-  alt_text_for_image: Equipement de surf
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651477287/website/Sama%20Sama/surf-enfant-mimizan.jpg
@@ -116,5 +112,6 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: "/fr/ete/activites/reserver-cours-surf"
+conseil: ''
 
 ---
