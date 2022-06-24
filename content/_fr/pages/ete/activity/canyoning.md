@@ -24,6 +24,11 @@ categorie: Eaux vives
 page_sections:
 - template: heroBreadcrumb
   title: Canyoning, kesako ?
+- template: listServices2
+  blockBGcolor: gris
+  service: resort
+  filterLevel: 2
+  whatActivity: spot
 - template: textarea
   title: Qu'est-ce que le canyoning ?
   content: "Le canyoning, c'est quoi ?    \nLe canyoning, c'est une activité d'eau
