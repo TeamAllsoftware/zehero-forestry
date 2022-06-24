@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -16,9 +16,9 @@ introduction:
 page_title: La Haute Savoie
 resort_nameid: haute-savoie
 resort_naming: La Haute Savoie
-title: La Haute Savoie (74) et ses activités pour la saison d'été
-titleHome: Grimper en Haute-Savoie
-activite: hautesavoie
+title: La Haute Savoie et ses activités pour la saison d'été
+titleHome: La Haute Savoie
+activite: ''
 level: 1
 enHome: 1
 permalink: "/fr/ete/destinations/haute-savoie"
@@ -106,5 +106,7 @@ page_sections:
   blockBGcolor: ''
 baseline: Lacs et montagnes
 code_postal: 74,Haute-Savoie,Auvergne-Rhône-Alpes
+listMother: 1
+conseil: ''
 
 ---
