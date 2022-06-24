@@ -10,7 +10,7 @@ title: Trouvez votre destination et votre activité
 titleHome: Nos destinations d'activités
 activite: ''
 conseil: ''
-permalink: "/fr/destinations/trouver-destination-activites"
+permalink: "/fr/ete/destination/trouver-destination-activites"
 meta-title: Trouvez votre prochaine destination outdoor
 meta-description: Trouvez votre prochaine destination pour réservez les meilleurs
   activités outdoor.
