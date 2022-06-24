@@ -136,5 +136,6 @@ button_to_link_to_ze_hero_shop:
   button_text: Réservez une activité de canyoning
   url_to_shop_zehero: "/fr/ete/activites/nos-canyonings"
 conseil: ''
+published: false
 
 ---
