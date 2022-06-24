@@ -35,10 +35,43 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1649075351/website/Sama%20Sama/189675446_100441918915412_3648361918451523166_n.jpg
   atl_text_image_04: Professeur de surf de l'école Sama Sama Surf School
   title: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Les cours de surf avec Sama Sama Surf School
+  content: "Les cours de surf avec Sama Sama Surf School sont diverses et vous pourrez
+    en profiter à Mimizan (Landes) et à Porge (Gironde). Avec Sama Sama Surf School
+    vous aurez le choix par des cours de surf collectifs, des cours privé ainsi que
+    du surf thérapie. Il y a également le \" Jardin des vagues \" qui est destiné
+    exclusivement aux enfants. \n\nVoici les différentes offres à Mimizan et à Porge
+    par Sama Sama Surf School :\n\n* 2h de cours collectifs \n* Stage de 2 jours de
+    cours collectif\n* Stage de 3 jours de cours collectif"
+- template: liststyle01
+  title: Dernières informations
+  item:
+  - 'Durée cours surf collectif : 2h'
+  - 'Quand : matin ou après-midi en fonction des marées'
+  - Location de surf et de combinaison
+  - Groupe de niveau
+  - Groupe de 8 personnes
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: Réservez vos cours de surf
+  headline: à Mimizan
+  button:
+    text_button: Réservez ici
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail?station=Mimizan&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail?station=Porge&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    text_button: Réservez ici
+  intro: Réservez vos cours de surf
+  headline: à Porge
 categorie: Eaux vives
 engage: Partez surfez avec Sama Sama Surf school
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649066110/website/Sama%20Sama/216173831_123343679958569_6340812869216994865_n.jpg
 image01_alt: Surf Sama Sama Surf school
-published: false
 
 ---
