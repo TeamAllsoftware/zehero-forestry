@@ -1,5 +1,5 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -40,5 +40,7 @@ page_sections:
   service: activity
   filterLevel: 2
   whatActivity: canyoning
+titleHome: Réservez votre canyoning chez Ze Hero
+conseil: ''
 
 ---
