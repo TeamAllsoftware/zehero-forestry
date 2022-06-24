@@ -1,5 +1,5 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -55,5 +55,7 @@ page_sections:
   button:
     text_button: Réservez ici
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor/Surf/17567-surf-cours-prive-2h-matin-seignosse-morgan-davezac-morgan-davezac
+titleHome: Cours de surf à Seignosse
+conseil: ''
 
 ---
