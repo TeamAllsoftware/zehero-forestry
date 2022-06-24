@@ -55,7 +55,7 @@ page_sections:
     d''escalade.'
   button:
     text_button: Réservez ici
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17267-canyoning-de-nyon-7-aventures-7-aventures
+    href_button: "/fr/ete/activites/reserver-canyoning-nyon"
     alt_button: ''
 titleHome: Réservez votre canyoning chez Ze Hero
 conseil: spot
