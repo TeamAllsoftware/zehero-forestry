@@ -32,6 +32,11 @@ page_sections:
     planche et combinaison directement sur la plage à Seignosse puis vous mettre à
     l'eau.  \nN'attendez plus, réservez un cours de surf à Seignosse avec Morgan d'Avezac
     :"
+- template: listServices2
+  blockBGcolor: blanc
+  service: activity
+  filterLevel: 2
+  whatActivity: surf
 published: false
 
 ---
