@@ -32,8 +32,8 @@ page_sections:
   filterHome: 1
   blockBGcolor: blanc
   headtitle:
-    headline: le voyage c'est la santé
-    title: Nos destinations coup de coeur
+    headline: Trouvez votre prochaine destination
+    title: 100% outdoor
 - template: listOffres
   blockBGcolor: blanc
   headtitle:
