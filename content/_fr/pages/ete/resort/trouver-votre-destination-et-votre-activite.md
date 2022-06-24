@@ -25,10 +25,11 @@ page_sections:
   blockBGcolor: blanc
   title: Les destinations chez Ze Hero
   content: Découvrez nos destinations où nos activité outdoors sont présentent.
-- template: listConseils
-  blockBGcolor: gris
+- template: listServices
+  blockBGcolor: blanc
   service: resort
-  filterLevel: 2
-  whatAdvice: ''
+  headtitle:
+    headline: ''
+    title: ''
 
 ---
