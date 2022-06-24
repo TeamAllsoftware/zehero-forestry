@@ -9,7 +9,7 @@ activite: surf
 meta-title: 'Réservez votre activité et cours de surf '
 meta-description: Réservez vos prochains cours de surf, pour débutants ou confirmé,
   dans les Landes ou en Loire Atlantique.
-title: Réservez votre cours de surf
+title: Réservez votre cours de surf chez Ze hero
 permalink: "/fr/ete/activites/reserver-cours-surf"
 baseline: Réservez votre cours de surf
 engage: Partez surfer dans les Landes et en Loire Atlantique
