@@ -40,5 +40,6 @@ page_sections:
 layout: layout_generic
 titleHome: Réservez votre cours de surf chez Ze hero
 conseil: ''
+listMother: 2
 
 ---
