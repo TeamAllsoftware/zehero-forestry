@@ -15,6 +15,8 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 page_sections:
+- template: heroBreadcrumb
+  title: Activité Canyoning
 - template: textarea
   blockBGcolor: blanc
   content: "Découvrez toutes nos offres de canyonings chez Ze Hero dans les Alpes
