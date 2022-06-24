@@ -18,7 +18,33 @@ menu:
       href: "/fr/ete/activites/vtt"
     - title: Surf
       href: "/fr/ete/activites/surf"
-  column-02: []
+  column-02:
+  - nested: Nos Régions
+    menu-items:
+    - title: Loire Atlantique
+      href: "/fr/ete/destinations/loire-atlantique"
+    - title: Landes
+      href: "/fr/ete/destinations/landes"
+    - title: Haute Savoie
+      href: "/fr/ete/destinations/haute-savoie"
+    - title: Savoie
+      href: "/fr/ete/destinations/savoie"
+    - title: Alpes Maritimes
+      href: "/fr/ete/destinations/alpes-maritimes"
+  - nested: Nos spots
+    menu-items:
+    - title: Le Bar sur Loup
+      href: "/fr/ete/destinations/le-bar-sur-loup"
+    - title: Seignosse
+      href: "/fr/ete/destinations/seignosse"
+    - title: Mimizan
+      href: "/fr/ete/destinations/mimizan"
+    - title: Nice
+      href: "/fr/ete/destinations/nice"
+    - title: Les Menuires
+      href: "/fr/ete/destinations/les-menuires"
+    - href: "/fr/ete/destinations/meribel"
+      title: Méribel
 - title: Toutes nos destinations
   id: resort
   title-link: "/fr/ete/destinations"
