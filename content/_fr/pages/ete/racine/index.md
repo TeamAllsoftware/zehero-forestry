@@ -25,6 +25,15 @@ page_sections:
     title: Acheter du matériel
     link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   button_2_more: true
+- template: listServices
+  service: resort
+  filterCat: non
+  filterLevel: 1
+  filterHome: 1
+  blockBGcolor: blanc
+  headtitle:
+    headline: le voyage c'est la santé
+    title: Nos destinations coup de coeur
 - template: listOffres
   blockBGcolor: blanc
   headtitle:
@@ -47,15 +56,6 @@ page_sections:
     image_alt: 
     title: Le VTT
     url: https://www.ze-hero.com/fr/ete/activites/vtt
-- template: listServices
-  service: resort
-  filterCat: non
-  filterLevel: 1
-  filterHome: 1
-  blockBGcolor: blanc
-  headtitle:
-    headline: le voyage c'est la santé
-    title: Nos destinations coup de coeur
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true
