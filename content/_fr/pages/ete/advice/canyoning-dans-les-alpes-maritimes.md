@@ -36,7 +36,7 @@ page_sections:
   whatActivity: canyoning
 type: generic
 level: 2
-titleHome: ''
+titleHome: Canyoning dans les Alpes Maritimes
 activite: ''
 baseline: ''
 
