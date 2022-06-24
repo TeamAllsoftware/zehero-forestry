@@ -39,20 +39,9 @@ page_sections:
     faciles et plus adaptées à des enfants ou des personnes désirant seulement faire
     une randonnée aquatique avec quelques sauts et glissades en toboggan."
   blockBGcolor: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
-  alt_text_for_image: Canyoning Alpes Maritimes
-  captiontitleuppercase: Nos canyoning dans le 06
-  title: Les canyonings des Alpes Maritimes
-  content: Découvrez toutes nos offres dans les Alpes Maritimes
-  button:
-    href_button: https://preprod-zehero-202112.netlify.app/fr/ete/activites/nos-canyonings
-    text_button: Nos canyonings
-    alt_button: ''
 - template: cta
   intro: Réservez dès maintenant vos activités canyoning
-  headline: Découvrez toutes nos offres
+  headline: Nos offres
   button:
     text_button: Réserver maintenant >
     href_button: "/fr/ete/activites/nos-canyonings"
