@@ -17,6 +17,8 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/webs
 image01_alt: Groupe de personne faisant du VTT sur un sentier de terre face à la montagne
 categorie: Vélo
 page_sections:
+- template: heroBreadcrumb
+  title: VTT, késako ?
 - template: textarea
   content: "Le VTT, appelé également le mountain bike, le vélo tout terrain ou encore
     le vélo de montagne est une activité sportive, ludique et technique selon les
@@ -36,10 +38,20 @@ page_sections:
   blockBGcolor: blanc
   marge: 20
   intro: Réservez votre sortie
-  headline: à VTT et VAE
+  headline: VTT et VAE
   button:
     href_button: "/fr/ete/activites/reserver-vtt"
     text_button: Réservez ici
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108069/website/VTT%20AE/pexels-reinhard-bruckner-5328112.jpg
+  atl_text_image_01: Des vaches et une personne faisant du VTT en montagne
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108071/website/VTT%20AE/forest-4366094_1920.jpg
+  atl_text_image_02: Un groupe de personne faisant du VTT
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1654866668/website/Sames%20Jones/FB_IMG_1654680653467.jpg
+  atl_text_image_03: Personne descendant à VTT
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1653899659/website/Exp%C3%A9rience%20V%C3%A9lo/randonn%C3%A9e_en_vtt_%C3%A9lectrique_%C3%A0_proximit%C3%A9_du_lac_d_annecy_en_haute-savoie..jpg
+  atl_text_image_04: Expérience Vélo
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
