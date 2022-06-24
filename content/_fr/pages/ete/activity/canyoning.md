@@ -24,11 +24,6 @@ categorie: Eaux vives
 page_sections:
 - template: heroBreadcrumb
   title: Canyoning, kesako ?
-- template: listServices2
-  blockBGcolor: gris
-  service: resort
-  filterLevel: 2
-  whatActivity: spot
 - template: textarea
   title: Qu'est-ce que le canyoning ?
   content: "Le canyoning, c'est quoi ?    \nLe canyoning, c'est une activité d'eau
@@ -44,6 +39,11 @@ page_sections:
     faciles et plus adaptées à des enfants ou des personnes désirant seulement faire
     une randonnée aquatique avec quelques sauts et glissades en toboggan."
   blockBGcolor: ''
+- template: listServices2
+  blockBGcolor: blanc
+  service: advice
+  filterLevel: 2
+  whatActivity: spot
 - template: cta
   intro: Réservez dès maintenant vos activités canyoning
   headline: Découvrez toutes nos offres
@@ -52,10 +52,6 @@ page_sections:
     href_button: "/fr/ete/activites/nos-canyonings"
   blockBGcolor: blanc
   marge: 20
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649235420/website/assets/Recadr%C3%A9es/canyoning.png
-  alt_text_for_image: Matériel de canyoning
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de canyoning
