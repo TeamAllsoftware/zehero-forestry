@@ -16,7 +16,7 @@
                 {% assign serviceType = block.service %}
                 {% assign filterCat = block.filterCat %}
                 {% assign filterLevel = block.filterLevel %}
-                {% assign filterHome = block.filterHome %}
+                {% assign listMother = block.listMother %}
                 {% assign servicePath = season_language | prepend:'/' | append: '/' | append: serviceType | append: '/' %}
                 
                 {% if serviceType == 'activity' and filterCat == 'oui' %}
@@ -46,7 +46,7 @@
                 <ul class="portfolio-classic portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-4col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center">
                     <li class="grid-sizer"></li>
 
-                    {% assign activityList = site[page.collection] | where_exp: 'item',"item.level == filterLevel" %}
+                    {% assign activityList = site[page.collection] | where_exp: 'item',"item.level == filterLevel and item.listMother == listMother" %}
                     
                     {% for service in activityList %}
                     {% if service.path contains servicePath %}

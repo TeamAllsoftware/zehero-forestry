@@ -65,6 +65,20 @@ fields:
       file: 
       path: 
   label: Page mère (1) ou fille (2) ?
+- name: listMother
+  type: select
+  default: 2
+  config:
+    required: 
+    options:
+    - 1
+    - 2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Afficher (1) ou non (2) cette page mère dans les listes ?
 - name: title
   type: text
   config:

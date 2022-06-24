@@ -15,7 +15,8 @@
         <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center margin-9-rem-bottom lg-margin-7-rem-bottom">
             {% assign filterLevel = block.filterLevel %}
             {% assign whatActivity = block.whatActivity %}
-            {% assign collection = site[page.collection] | where_exp: 'item',"item.activite == whatActivity and item.level == filterLevel" %}
+            {% assign listMother = block.listMother %}
+            {% assign collection = site[page.collection] | where_exp: 'item',"item.activite == whatActivity and item.level == filterLevel and item.listMother == listMother" %}
             {% assign serviceType = block.service %}
             {% assign servicePath = season_language | prepend:'/' | append: '/' | append: serviceType | append: '/' %}
             

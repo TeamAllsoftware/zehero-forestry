@@ -7,8 +7,8 @@ topnav_color_text: light
 title: Trail Running
 titleHome: Le Trail Running
 activite: trail
+listMother: 1
 level: 1
-enHome: 1
 permalink: "/fr/ete/activites/trail-running"
 redirect_from:
 - "/fr/itineraire-trail-alpes-maritimes/"

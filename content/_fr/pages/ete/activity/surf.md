@@ -7,8 +7,8 @@ topnav_color_text: dark
 title: Surf
 titleHome: Surf
 activite: surf
+listMother: 1
 level: 1
-enHome: 1
 permalink: "/fr/ete/activites/surf"
 redirect_from:
 - "/fr/surf-loire-atlantique/"

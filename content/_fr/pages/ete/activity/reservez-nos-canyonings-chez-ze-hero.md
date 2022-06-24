@@ -12,6 +12,7 @@ meta-description: Découvrez toutes nos activités de canyoning sur Ze Hero avec
 title: Réservez votre canyoning chez Ze Hero
 activite: canyonning
 level: 1
+listMother: 2
 permalink: "/fr/ete/activites/nos-canyonings"
 baseline: Nos canyoning chez Ze Hero
 engage: Découvrez et partagez un moment unique en canyoning

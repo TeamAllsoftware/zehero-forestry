@@ -106,8 +106,8 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: "/fr/ete/activites/reserver-vtt"
 activite: vtt
+listMother: 1
 level: 1
-enHome: 2
 titleHome: VTT
 conseil: ''
 

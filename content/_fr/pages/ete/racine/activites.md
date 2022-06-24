@@ -21,7 +21,7 @@ page_sections:
 - template: listServices
   service: activity
   filterLevel: 1
-  filterHome: 1
+  listMother: 1 
   blockBGcolor: blanc
   headtitle:
     headline: ZE HERO propose
