@@ -21,11 +21,6 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Trouvez votre prochaine destination outdoor
-- template: listServices2
-  blockBGcolor: blanc
-  service: resort
-  filterLevel: 1
-  whatActivity: ''
 - template: textarea
   blockBGcolor: blanc
   title: Les destinations chez Ze Hero
