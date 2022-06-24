@@ -37,5 +37,6 @@ page_sections:
   service: activity
   filterLevel: 2
   whatActivity: surf
+published: false
 
 ---
