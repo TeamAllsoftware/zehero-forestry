@@ -31,5 +31,10 @@ page_sections:
   headtitle:
     headline: ''
     title: ''
+- template: listServices2
+  blockBGcolor: gris
+  service: resort
+  filterLevel: 2
+  whatActivity: ''
 
 ---
