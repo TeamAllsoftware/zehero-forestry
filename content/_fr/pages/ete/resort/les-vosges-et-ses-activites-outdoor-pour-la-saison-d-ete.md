@@ -18,7 +18,7 @@ baseline: Montagne de trésors
 resort_nameid: les_vosges
 resort_naming: Les Voges
 permalink: "/fr/ete/destinations/les-vosges"
-meta-title: Activités outdoor à Thonon-les-Bains pour l'été
+meta-title: Activités outdoor dans les Vosges pour l'été
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655112748/website/resorts/Les%20Vosges/alexis-antoine-7L5398cO3Zk-unsplash.jpg
 image01_alt: Forêts et sapin dans le massif des Vosges
 button_to_link_to_ze_hero_shop:
