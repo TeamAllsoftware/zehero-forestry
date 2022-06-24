@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -17,7 +17,7 @@ resort_nameid: alpes-maritimes
 resort_naming: Les Alpes Maritimes
 title: Les Alpes Maritimes et ses activités outdoor pour la saison d'été
 titleHome: Découvrir les Alpes-Maritimes
-activite: alpesmaritimes
+activite: ''
 level: 1
 enHome: 1
 permalink: "/fr/ete/destinations/alpes-maritimes"
@@ -152,5 +152,7 @@ page_sections:
   blockBGcolor: ''
 baseline: Mer et Montagne
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+listMother: 1
+conseil: ''
 
 ---
