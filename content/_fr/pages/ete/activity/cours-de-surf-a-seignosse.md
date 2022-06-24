@@ -33,10 +33,16 @@ page_sections:
 
     Les cours privés de surf à Seignosse vont vous permettre d'avoir un moniteur dédié à vous pendant 1h30 à 2h. Il restera avec vous afin de regarder chacun de vos gestes, de vos mouvements. Il vous permettra alors d'apprendre et de progresser beaucoup plus vite qu'en cours collectif. Un moniteur spécifique pour vous qui vous accompagnera dans votre progression et dans vos objectifs.
   blockBGcolor: ''
-- template: imgWide
-  blockBGcolor: blanc
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654866903/website/summer/austin-neill-uHD0uyp79Dg-unsplash.jpg
-  alt_text_for_image: Personnage faisant du surf
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340583/website/Ind%C3%A9pendant/51668639_2264458490442592_3894814208168034304_n.png
+  atl_text_image_01: Surfeur sur une vague à Seignosse
+  atl_text_image_02: Surfeur sur une vague à Seignosse
+  atl_text_image_03: Surfeur sur une vague à Seignosse
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340584/website/Ind%C3%A9pendant/51492224_2264458510442590_1849281714996641792_n.png
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340586/website/Ind%C3%A9pendant/51611112_2264458663775908_5798386440089894912_n.png
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1649320042/website/Ind%C3%A9pendant/51300714_2264461690442272_8556519707782414336_n.jpg
+  atl_text_image_04: Surfeur marchant avec sa planche
+  title: ''
 - template: liststyle01
   title: Les informations
   item:
