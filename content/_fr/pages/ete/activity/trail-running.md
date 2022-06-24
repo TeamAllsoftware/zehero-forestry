@@ -26,9 +26,6 @@ image01_alt: Personnes courant en trail sur le long d'une crête de montagne lor
   levé du soleil
 categorie: Running / Trail
 page_sections:
-- template: heroImage50percentHigh
-  title: Le Trail
-  content: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216651/website/summer/IMG_20200627_052816.jpg
 - template: textarea
   content: "Le trail signifie \"sentier\" en anglais. Que ce soit en montagne, en
     plaine, dans la forêt, vous retrouverez ce sentier qui monte, qui descend et qui
@@ -128,6 +125,11 @@ page_sections:
   alt_text_for_image: Personnage célébrant son trail
 - template: newsletter
   title: Recevez nos dernières informations
+- template: imgWideInBox
+  blockBGcolor: blanc
+  imageList:
+  - image_href: Trail
+    image_alt: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216651/website/summer/IMG_20200627_052816.jpg
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: "/fr/ete/activites/nos-sorties-trail"
