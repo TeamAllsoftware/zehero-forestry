@@ -34,7 +34,7 @@ page_sections:
 - template: listServices2
   blockBGcolor: gris
   service: resort
-  filterLevel: 2
+  filterLevel: 1
   whatActivity: ''
 
 ---
