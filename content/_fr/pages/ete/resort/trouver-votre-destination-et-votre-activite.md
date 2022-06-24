@@ -32,7 +32,7 @@ page_sections:
     headline: ''
     title: ''
 - template: listServices2
-  blockBGcolor: gris
+  blockBGcolor: blanc
   service: resort
   filterLevel: 1
   whatActivity: ''
