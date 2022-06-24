@@ -38,7 +38,7 @@ page_sections:
   filterLevel: 2
   whatActivity: surf
 layout: layout_generic
-titleHome: ''
+titleHome: Réservez votre cours de surf chez Ze hero
 conseil: ''
 
 ---
