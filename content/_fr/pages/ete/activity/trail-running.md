@@ -134,6 +134,13 @@ page_sections:
   alt_text_for_image: Personnage célébrant son trail
 - template: newsletter
   title: Recevez nos dernières informations
+- template: heroImageTitle01
+  title: Trail
+  top: oui
+  baseline: 'Un deux '
+  engage: coucoucououcooccuicuucuiuciucuicicuicuiuicu
+  image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216661/website/summer/IMG_20200627_053613.jpg
+  image01_alt: ee
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: "/fr/ete/activites/nos-sorties-trail"
