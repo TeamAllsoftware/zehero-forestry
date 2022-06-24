@@ -5,7 +5,7 @@ season: summer
 type: generic
 topnav_color_text: dark
 title: Le Canyoning à Annecy
-activite: canyoning
+activite: ''
 level: 2
 permalink: "/fr/ete/activites/canyoning-annecy"
 redirect_from:
