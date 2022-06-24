@@ -5,7 +5,7 @@ season: summer
 level: 2
 categorie: Eaux vives
 topnav_color_text: light
-activite: canyoning
+activite: ''
 meta-title: Réservez canyoning de Nyon - Thonon les Bains
 meta-description: Découvrez et réservez une descente du canyoning de Nyon situé dans
   la Dranse proche de Thonon les bains. Avec 7 Aventures laissez vous tenter par une
