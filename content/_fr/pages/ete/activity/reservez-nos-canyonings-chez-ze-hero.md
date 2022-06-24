@@ -22,7 +22,7 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: https://www.ze-hero.com/fr/contact
 page_sections:
 - template: heroBreadcrumb
-  title: Nos offres de Canyoning chez Ze Hero
+  title: Nos offres de Canyoning 06 chez Ze Hero
 - template: textarea
   blockBGcolor: blanc
   title: 'Les canyonings dans les Alpes Maritimes '
@@ -42,6 +42,8 @@ page_sections:
   service: activity
   filterLevel: 2
   whatActivity: canyoning
+- template: heroBreadcrumb
+  title: Nos offres de Canyoning 74 chez Ze Hero
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649081597/website/Partenaires/1638783865-DSC_0958.jpg
@@ -54,7 +56,7 @@ page_sections:
     nage et quand le dénivelé est très important nous faisons appel aux techniques
     d''escalade.'
   button:
-    text_button: Réservez ici
+    text_button: En savoir +
     href_button: "/fr/ete/activites/reserver-canyoning-nyon"
     alt_button: ''
 titleHome: Réservez votre canyoning chez Ze Hero
