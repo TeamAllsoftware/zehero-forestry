@@ -21,6 +21,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Demande de réservation
   url_to_shop_zehero: https://www.ze-hero.com/fr/contact
 page_sections:
+- template: heroBreadcrumb
+  title: Nos offres de Canyoning chez Ze Hero
 - template: textarea
   blockBGcolor: blanc
   title: Les canyonings dans les Alpes Maritimes
