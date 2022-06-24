@@ -8,7 +8,7 @@ topnav_color_text: dark
 meta-title: Réservez cours de surf Seignosse Tout niveau
 meta-description: Réservez un cours de surf privé ou collectif à Seignosse, tout niveau.
   Location de surf et de combinaison de surf à Seignosse.
-title: Cours de surf à Seignosse
+title: Réservez cours de surf à Seignosse
 activite: surf
 level: 2
 permalink: "/fr/reserver-cours-ecole-surf-seignosse"
@@ -16,7 +16,7 @@ redirect_from:
 - "/fr/ete/activites/cours-surf-seignosse"
 baseline: Nos cours de surf à Seignosse
 engage: Partez surfer dans les Landes et prenez vos 1er vagues
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641562732/website/summer/cedric-frixon-G9Rfc1qccH4-unsplash_gr8ksg.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340583/website/Ind%C3%A9pendant/51668639_2264458490442592_3894814208168034304_n.png
 image01_alt: Surfeur à Seignosse faisant du surf
 button_to_link_to_ze_hero_shop:
   button_text: ''
