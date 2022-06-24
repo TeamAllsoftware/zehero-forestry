@@ -19,12 +19,12 @@ page_sections:
     title: Le meilleur des activités outdoor
     color: white
   Button1:
-    title: Réserver une activité
-    link: https://shop.ze-hero.com/fr/activites-Outdoor/
+    title: Trouver votre destination
+    link: "/fr/destinations/trouver-destination-activites"
   Button2:
     title: Acheter du matériel
     link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
-  button_2_more: true
+  button_2_more: false
 - template: listServices
   service: resort
   filterCat: non
