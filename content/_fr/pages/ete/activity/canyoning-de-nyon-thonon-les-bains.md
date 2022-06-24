@@ -4,7 +4,7 @@ type: generic
 season: summer
 level: 2
 categorie: Eaux vives
-topnav_color_text: dark
+topnav_color_text: light
 activite: canyoning
 meta-title: Réservez canyoning de Nyon - Thonon les Bains
 meta-description: Découvrez et réservez une descente du canyoning de Nyon situé dans
@@ -54,5 +54,8 @@ page_sections:
     text_button: Réservez ici
   intro: Réservez votre descente du
   headline: canyoning de Nyon
+layout: layout_generic
+titleHome: Canyoning de Nyon - Thonon les Bains
+conseil: ''
 
 ---
