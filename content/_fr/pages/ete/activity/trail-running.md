@@ -1,11 +1,11 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Trail Running
-titleHome: Mon 1er trail en itinérance
+titleHome: Le Trail Running
 activite: trail
 level: 1
 enHome: 1
@@ -50,10 +50,6 @@ page_sections:
     text_button: Réservez votre sortie trail
   blockBGcolor: blanc
   marge: 20
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
-  alt_text_for_image: Equipement de trail
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de Trail
@@ -128,5 +124,6 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: "/fr/ete/activites/nos-sorties-trail"
+conseil: ''
 
 ---
