@@ -21,13 +21,20 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Cours de surf à Mimizan et à Porge
-  content: Réservez vos prochains cours de surf à Mimizan et à Porge avec l'école
-    de surf Sama Sama Surf school. Une école de surf passionné qui vous transmettrons
-    leurs savoir, leurs compétences ainsi que leurs bonnes humeurs. Profitez d'apprendre
-    le surf dans une ambiance conviviale. Vous partirez surfez dans des spots adaptés
-    à vous, avec un choix de matériel adapté à vous et aux conditions. Les différents
-    cours collectifs sont par groupes de niveaux. Les moniteurs vous apporteront également
-    un coaching adapté afin de vous faire évoluer dans une ambiance décontractée.
+  content: |-
+    Réservez vos prochains cours de surf à Mimizan et à Porge avec l’école de surf [**Sama Sama Surf School**](https://www.ze-hero.com/fr/ete/partenaires/sama-sama-surf-school). Une école de surf passionné qui vous transmettra leur savoir, leurs compétences ainsi que leurs bonnes humeurs. Profitez d’apprendre le surf dans une ambiance conviviale. Vous partirez surfer dans des spots adaptés à vous, avec un choix de matériel adapté à vous et aux conditions. Les différents cours collectifs sont par groupes de niveaux. Les moniteurs vous apporteront également un coaching adapté afin de vous faire évoluer dans une ambiance décontractée.
+
+    Vous aurez tout pour passer un moment agréable, dans un lieu magique, au sein d'une école de surf professionnelle qui vous apportera les meilleurs conseils, pour un moment de partage et de plaisir.
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1649066110/website/Sama%20Sama/216173831_123343679958569_6340812869216994865_n.jpg
+  atl_text_image_01: Cours collectif de surf Mimizan Sama Sama Surf School
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1651477288/website/Sama%20Sama/cours-de-surf-therapie.jpg
+  atl_text_image_02: Débutant en surf avec Sama Sama Surf School
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1649066104/website/Sama%20Sama/234678700_130484902577780_3671224569988669569_n.jpg
+  atl_text_image_03: Vagues et surf à Mimizan
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1649075351/website/Sama%20Sama/189675446_100441918915412_3648361918451523166_n.jpg
+  atl_text_image_04: Professeur de surf de l'école Sama Sama Surf School
+  title: ''
 categorie: Eaux vives
 engage: Partez surfez avec Sama Sama Surf school
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649066110/website/Sama%20Sama/216173831_123343679958569_6340812869216994865_n.jpg
