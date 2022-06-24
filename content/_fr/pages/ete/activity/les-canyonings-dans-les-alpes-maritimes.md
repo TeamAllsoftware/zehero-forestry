@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Le canyoning dans les Alpes Maritimes
 activite: canyoning
 level: 2
