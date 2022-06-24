@@ -26,6 +26,8 @@ image01_alt: Personnes courant en trail sur le long d'une crête de montagne lor
   levé du soleil
 categorie: Running / Trail
 page_sections:
+- template: heroBreadcrumb
+  title: Trail, kesako ?
 - template: textarea
   content: "Le trail signifie \"sentier\" en anglais. Que ce soit en montagne, en
     plaine, dans la forêt, vous retrouverez ce sentier qui monte, qui descend et qui
@@ -50,6 +52,16 @@ page_sections:
     text_button: Réservez votre sortie trail
   blockBGcolor: blanc
   marge: 20
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216651/website/summer/IMG_20200627_052816.jpg
+  atl_text_image_01: Traileur à Valmorel
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216722/website/summer/IMG_20200723_152933.jpg
+  atl_text_image_02: Traileur vers Gréolières
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650896367/website/By%20Ze%20Hero%20Activity/IMG20210722195727.jpg
+  atl_text_image_03: Traileur dans le Mercantour
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1643040082/website/summer/IMG_20200725_103745_svblrc.jpg
+  atl_text_image_04: Coureuse à Isola 2000
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de Trail
