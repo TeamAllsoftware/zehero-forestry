@@ -1,7 +1,7 @@
 ---
 language: fr
 type: generic
-season: winter
+season: summer
 level: 1
 categorie: Surf
 topnav_color_text: dark
