@@ -39,11 +39,11 @@ page_sections:
     faciles et plus adaptées à des enfants ou des personnes désirant seulement faire
     une randonnée aquatique avec quelques sauts et glissades en toboggan."
   blockBGcolor: ''
-- template: listServices2
+- template: listConseils
   blockBGcolor: blanc
   service: advice
   filterLevel: 2
-  whatActivity: spot
+  whatAdvice: spot
 - template: cta
   intro: Réservez dès maintenant vos activités canyoning
   headline: Découvrez toutes nos offres
