@@ -47,6 +47,16 @@ page_sections:
     href_button: "/fr/ete/activites/nos-canyonings"
   blockBGcolor: blanc
   marge: 20
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
+  atl_text_image_01: Enfants en canyoning
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
+  atl_text_image_02: Enfant sautant dans un canyoning
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655386912/website/By%20Ze%20Hero%20Activity/IMG_4222.jpg
+  atl_text_image_03: Personnes faisant du canyoning
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655359805/website/Canyoning%2006/Screenshot_3.jpg
+  atl_text_image_04: Canyoning gorges du loup
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de canyoning
