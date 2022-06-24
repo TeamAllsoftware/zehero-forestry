@@ -24,9 +24,10 @@ page_sections:
   content: Réservez vos prochains cours de surf à Mimizan et à Porge avec l'école
     de surf Sama Sama Surf school. Une école de surf passionné qui vous transmettrons
     leurs savoir, leurs compétences ainsi que leurs bonnes humeurs. Profitez d'apprendre
-    le surf dans une ambiance conviviale. Avec des spots adaptés à vous, un choix
-    de matériel adapté à vous et aux conditions, des groupes de niveaux ainsi qu'un
-    coaching adapté à chacun, votre moniteur vous fera évoluer dans une ambiance décontractée
+    le surf dans une ambiance conviviale. Vous partirez surfez dans des spots adaptés
+    à vous, avec un choix de matériel adapté à vous et aux conditions. Les différents
+    cours collectifs sont par groupes de niveaux. Les moniteurs vous apporteront également
+    un coaching adapté afin de vous faire évoluer dans une ambiance décontractée.
 categorie: Eaux vives
 engage: Partez surfez avec Sama Sama Surf school
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649066110/website/Sama%20Sama/216173831_123343679958569_6340812869216994865_n.jpg
