@@ -41,6 +41,6 @@ page_sections:
   filterLevel: 2
   whatActivity: canyoning
 titleHome: Réservez votre canyoning chez Ze Hero
-conseil: ''
+conseil: spot
 
 ---
