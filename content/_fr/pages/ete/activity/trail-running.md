@@ -44,7 +44,7 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   intro: Réservez dès maintenant vos sorties trail
-  headline: pour débutants ou confirmés
+  headline: tous niveaux
   button:
     href_button: "/fr/ete/activites/nos-sorties-trail"
     text_button: Réservez votre sortie trail
