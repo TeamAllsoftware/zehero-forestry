@@ -4,7 +4,7 @@ language: fr
 season: summer
 type: generic
 categorie: Eaux vives
-topnav_color_text: dark
+topnav_color_text: light
 meta-title: Réservez votre activité de canyoning
 meta-description: Découvrez toutes nos activités de canyoning sur Ze Hero avec nos
   canyonings dans les Alpes Maritimes et un canyoning en Haute Savoie. Choisissez
