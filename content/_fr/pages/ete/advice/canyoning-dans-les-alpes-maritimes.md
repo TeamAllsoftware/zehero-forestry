@@ -30,7 +30,7 @@ page_sections:
     Maritimes :"
   title: Les canyonings dans les Alpes Maritimes
 - template: listServices2
-  blockBGcolor: gris
+  blockBGcolor: blanc
   service: advice
   filterLevel: 2
   whatActivity: canyoning
