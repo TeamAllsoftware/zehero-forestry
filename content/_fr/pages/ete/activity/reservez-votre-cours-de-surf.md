@@ -33,7 +33,7 @@ page_sections:
     l'eau.  \nN'attendez plus, réservez un cours de surf à Seignosse avec Morgan d'Avezac
     :"
 - template: listServices2
-  blockBGcolor: blanc
+  blockBGcolor: gris
   service: activity
   filterLevel: 2
   whatActivity: surf
