@@ -39,6 +39,14 @@ page_sections:
     ces éléments afin que vous puissiez partager un moment de plaisir, de découverte
     entre amis, en famille en vous rafraichissant dans les vagues de l'Atlantique. "
   blockBGcolor: ''
+- template: cta
+  button:
+    href_button: https://preprod-zehero-202112.netlify.app/fr/ete/activites/surf
+    text_button: Réserver maintenant >
+  intro: Réservez dès maintenant vos cours de surf
+  headline: dans les Landes et en Loire Atlantique
+  blockBGcolor: blanc
+  marge: 20
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
@@ -99,14 +107,6 @@ page_sections:
     excelle dans la pratique du surf. Il saura vous conseillé pour toutes vos questions
     sur la pratique du surf, de l''équipement et des meilleurs spots de surf qui seront
     idéals pour vous. '
-- template: cta
-  button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
-    text_button: Réserver maintenant >
-  intro: Réservez dès maintenant vos activités surf
-  headline: Cours privés ou collectifs, enfants et adultes sont disponibles
-  blockBGcolor: ''
-  marge: ''
 - template: imgWide
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238781/website/assets/Personnages%20poses/Poses%20format%20large/Surf.png
