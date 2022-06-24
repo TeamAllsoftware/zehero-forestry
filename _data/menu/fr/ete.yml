@@ -45,6 +45,49 @@ menu:
       href: "/fr/ete/destinations/les-menuires"
     - href: "/fr/ete/destinations/meribel"
       title: Méribel
+- title: Toutes nos destinations
+  id: resort
+  title-link: "/fr/ete/destinations"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654852015/website/By%20Ze%20Hero%20Activity/jane-ackerley-WiN6Az_8cGQ-unsplash.jpg
+  image-alt: Antibes
+  image-link: "/fr/ete/destinations"
+  txt-button: Toutes nos spots
+  column-01:
+  - nested: Nos régions
+    menu-items:
+    - title: Les Alpes Maritimes
+      href: "/fr/ete/destinations/alpes-maritimes"
+    - title: La Savoie
+      href: "/fr/ete/destinations/savoie"
+    - title: Les Landes
+      href: "/fr/ete/destinations/les-landes"
+    - title: La Haute Savoie
+      href: "/fr/ete/destinations/haute-savoie"
+    - title: La Loire-Atlantique
+      href: "/fr/ete/destinations/loire-atlantique"
+  column-02:
+  - nested: Nos Spots
+    menu-items:
+    - title: Le Bar sur Loup
+      href: "/fr/ete/destinations/le-bar-sur-loup"
+    - title: Les Houches
+      href: "/fr/ete/destinations/st-brevin-les-pins"
+    - title: Mimizan
+      href: "/fr/ete/destinations/mimizan"
+    - title: St Brévin les pins
+      href: "/fr/ete/destinations/st-brevin-les-pins"
+    - title: Seignosse
+      href: "/fr/ete/destination/seignosse"
+    - title: Aix les Bains et Le Revard
+      href: "/fr/ete/destinations/aix-les-bains-le-revard"
+    - title: Nice
+      href: "/fr/ete/destinations/nice"
+    - title: Les Menuires
+      href: "/fr/ete/destinations/les-menuires"
+    - title: Méribel
+      href: "/fr/ete/destinations/meribel"
+    - title: Les Houches
+      href: "/fr/ete/destinations/les-houches"
 - title: Acheter
   id: eshop
   title-link: 'Acheter '
