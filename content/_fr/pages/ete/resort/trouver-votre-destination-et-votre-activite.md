@@ -8,7 +8,7 @@ listMother: 2
 topnav_color_text: light
 title: Trouvez votre destination et votre activité
 titleHome: Nos destinations d'activités
-activite: ''
+activite: resort
 conseil: ''
 permalink: "/fr/destinations/trouver-destination-activites"
 meta-title: Trouvez votre prochaine destination outdoor
