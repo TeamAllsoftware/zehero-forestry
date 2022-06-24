@@ -18,16 +18,6 @@ menu:
       href: "/fr/ete/destinations/haute-savoie"
     - title: Savoie
       href: "/fr/ete/destinations/savoie"
-  - nested: Nos activités
-    menu-items:
-    - title: Canyoning
-      href: "/fr/ete/activites/canyoning"
-    - title: Trail
-      href: "/fr/ete/activites/trail-running"
-    - title: VTT
-      href: "/fr/ete/activites/vtt"
-    - title: Surf
-      href: "/fr/ete/activites/surf"
   column-02:
   - nested: Toutes les activités
     menu-items:
