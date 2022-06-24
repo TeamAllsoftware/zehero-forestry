@@ -41,8 +41,8 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   button:
-    href_button: https://preprod-zehero-202112.netlify.app/fr/ete/activites/surf
-    text_button: Réserver maintenant >
+    href_button: "/fr/ete/activites/reserver-cours-surf"
+    text_button: Réserver ici
   intro: Réservez dès maintenant vos cours de surf
   headline: dans les Landes et en Loire Atlantique
   blockBGcolor: blanc
@@ -115,6 +115,6 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+  url_to_shop_zehero: "/fr/ete/activites/reserver-cours-surf"
 
 ---
