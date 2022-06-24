@@ -4,7 +4,7 @@ type: generic
 season: summer
 level: 1
 categorie: Surf
-topnav_color_text: dark
+topnav_color_text: light
 activite: surf
 meta-title: 'Réservez votre activité et cours de surf '
 meta-description: Réservez vos prochains cours de surf, pour débutants ou confirmé,
@@ -37,5 +37,8 @@ page_sections:
   service: activity
   filterLevel: 2
   whatActivity: surf
+layout: layout_generic
+titleHome: ''
+conseil: ''
 
 ---
