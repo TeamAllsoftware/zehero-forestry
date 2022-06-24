@@ -43,18 +43,16 @@ menu:
       href: "/fr/ete/destinations/les-menuires"
     - href: "/fr/ete/destinations/meribel"
       title: Méribel
-  - nested: Par Régions
+  - nested: Toutes les activités
     menu-items:
-    - title: Loire Atlantique
-      href: "/fr/ete/destinations/loire-atlantique"
-    - title: Landes
-      href: "/fr/ete/destinations/landes"
-    - title: Haute Savoie
-      href: "/fr/ete/destinations/haute-savoie"
-    - title: Savoie
-      href: "/fr/ete/destinations/savoie"
-    - title: Alpes Maritimes
-      href: "/fr/ete/destinations/alpes-maritimes"
+    - title: Canyoning
+      href: "/fr/ete/activites/canyoning"
+    - title: Trail
+      href: "/fr/ete/activites/trail"
+    - title: VTT
+      href: "/fr/ete/activites/vtt"
+    - title: Surf
+      href: "/fr/ete/activites/surf"
 - title: Toutes nos destinations
   id: resort
   title-link: "/fr/ete/destinations"
