@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -17,7 +17,7 @@ resort_nameid: savoie
 resort_naming: La Savoie
 title: La Savoie et ses activités outdoor pour la saison d'été
 titleHome: Que faire en Savoie
-activite: savoie
+activite: ''
 level: 1
 enHome: 1
 permalink: "/fr/ete/destinations/savoie"
@@ -123,5 +123,7 @@ page_sections:
   blockBGcolor: ''
 baseline: Montagnes et charme
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
+listMother: 1
+conseil: ''
 
 ---
