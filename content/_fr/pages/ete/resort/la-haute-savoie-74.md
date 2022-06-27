@@ -77,6 +77,6 @@ page_sections:
 baseline: Lacs et montagnes
 code_postal: 74,Haute-Savoie,Auvergne-Rhône-Alpes
 listMother: 1
-conseil: ''
+conseil: spot
 
 ---
