@@ -85,7 +85,7 @@ page_sections:
     alt_button: ''
 baseline: Mer et Montagne
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
-listMother: 1
-conseil: spot
+listMother: 2
+conseil: ''
 
 ---
