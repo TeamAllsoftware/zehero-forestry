@@ -63,7 +63,7 @@ page_sections:
     href_button: "/fr/ete/activites/reserver-cours-surf"
     alt_button: ''
 code_postal: 40,Landes,Nouvelle-Aquitaine
-listMother: 1
-conseil: spot
+listMother: 2
+conseil: ''
 
 ---
