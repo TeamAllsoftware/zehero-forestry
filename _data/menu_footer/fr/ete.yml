@@ -26,6 +26,21 @@ columns:
     subhref: "/fr/ete/activites/canyoning"
   - subtitle: Kayak
     subhref: "/fr/ete/activites/kayak"
+- col: Nos partenaires
+  title-link: ''
+  link:
+  - subtitle: Cueilleur de sommets
+    subhref: "/fr/ete/partenaires/clement-sivera"
+  - subtitle: Sama Sama Surf School
+    subhref: "/fr/ete/partenaires/sama-sama-surf-school"
+  - subtitle: Morgan d'Avezac
+    subhref: "/fr/ete/partenaires/morgan-davezac-surf-seignosse"
+  - subtitle: 7 Aventures
+    subhref: "/fr/ete/partenaires/7-aventures"
+  - subtitle: Expérience vélo
+    subhref: "/fr/ete/partenaires/experience-velo"
+  - subtitle: Sorties de routes
+    subhref: "/fr/ete/partenaires/sorties-de-route"
 - col: ZE HERO
   title-link: "#"
   link:
