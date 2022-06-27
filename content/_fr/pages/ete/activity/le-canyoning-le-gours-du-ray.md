@@ -15,6 +15,8 @@ button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17195-en-famille-gorges-du-loup-activite-ze-hero
 page_sections:
+- template: heroBreadcrumb
+  title: 'Le canyoning du Gours du Ray : S''initier au canyoning'
 - template: textarea
   blockBGcolor: blanc
   content: "Le canyoning du Gours du Ray est un canyoning qui se situe tout près de
@@ -27,6 +29,14 @@ page_sections:
     du Ray est un canyon magnifique où vous plongerez dans une belle ambiance pour
     un moment unique.\n\nDécouvrez les spécificités de ce canyon :"
   title: Le canyoning du Gours du Ray
+- template: cta
+  intro: Profitez d'un moment de sensation forte dans le
+  headline: Gours du Ray
+  button:
+    text_button: Réservez ici
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17195-en-famille-gorges-du-loup-activite-ze-hero
+  blockBGcolor: ''
+  marge: 40
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0000.jpg
@@ -57,20 +67,11 @@ page_sections:
     vous apportera la combinaison ainsi que le casque et le baudrier.  \nIl faudra
     que vous preniez avec vous : chaussures de sport, maillot de bain, serviette,
     boisson et un en-cas."
-  title: 'Le canyoning du Gours du Ray : S''initier au canyoning'
 - template: liststyle01
   title: 'Les dernières informations :'
   item:
   - 'Temps globale : 3h à 3h30'
   - 'Prix : 50€'
-- template: cta
-  intro: Profitez d'un moment de sensation forte dans le
-  headline: Gours du Ray
-  button:
-    text_button: Réservez ici
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17195-en-famille-gorges-du-loup-activite-ze-hero
-  blockBGcolor: ''
-  marge: 40
 type: generic
 level: 2
 conseil: ''
