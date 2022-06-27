@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 season: summer
 categorie: Vélo
-topnav_color_text: dark
+topnav_color_text: light
 meta-title: Réservez votre activité de VTT et VTT électrique en Savoie
 meta-description: Découvrez et réservez votre activité de VTT et VTT électrique dans
   la Savoie et en Haute Savoie. Partez découvrir les montagnes à VTT pour profiter
