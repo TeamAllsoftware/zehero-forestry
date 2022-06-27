@@ -67,7 +67,7 @@ page_sections:
     Revard avec Expérience Vélo.\n\nPlaisir, partage et émotion."
 baseline: Montagnes et charme
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
-listMother: 1
-conseil: spot
+listMother: 2
+conseil: ''
 
 ---
