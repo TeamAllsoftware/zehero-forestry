@@ -29,6 +29,7 @@ page_sections:
   blockBGcolor: gris
   service: resort
   filterLevel: 1
+  whatActivity: destinations
 - template: listServices
   service: resort
   filterCat: non
