@@ -29,7 +29,7 @@ page_sections:
   blockBGcolor: blanc
   service: resort
   filterLevel: 1
-  whatAdvice: resort
+  whatAdvice: spot
 - template: listServices
   blockBGcolor: blanc
   service: resort
