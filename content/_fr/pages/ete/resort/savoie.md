@@ -18,7 +18,7 @@ resort_naming: La Savoie
 title: La Savoie et ses activités outdoor pour la saison d'été
 titleHome: Les activités en Savoie
 activite: ''
-level: 2
+level: 1
 enHome: 1
 permalink: "/fr/ete/destinations/savoie"
 redirect_from:
@@ -67,7 +67,7 @@ page_sections:
     Revard avec Expérience Vélo.\n\nPlaisir, partage et émotion."
 baseline: Montagnes et charme
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
-listMother: 2
+listMother: 1
 conseil: ''
 
 ---
