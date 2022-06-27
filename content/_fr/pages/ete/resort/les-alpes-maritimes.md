@@ -18,7 +18,7 @@ resort_naming: Les Alpes Maritimes
 title: Les Alpes Maritimes et ses activités outdoor pour la saison d'été
 titleHome: Les Alpes-Maritimes
 activite: ''
-level: 2
+level: 1
 enHome: 1
 permalink: "/fr/ete/destinations/alpes-maritimes"
 redirect_from:
