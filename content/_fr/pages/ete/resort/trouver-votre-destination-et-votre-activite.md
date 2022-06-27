@@ -8,7 +8,7 @@ listMother: 2
 topnav_color_text: light
 title: Tous nos destinations
 titleHome: Nos destinations d'activités
-activite: spot
+activite: ''
 conseil: spot
 permalink: "/fr/destinations/trouver-destination-activites"
 meta-title: Trouvez votre prochaine destination outdoor
@@ -29,6 +29,6 @@ page_sections:
   blockBGcolor: blanc
   service: resort
   filterLevel: 1
-  whatAdvice: spot
+  whatAdvice: ''
 
 ---
