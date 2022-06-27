@@ -25,11 +25,6 @@ page_sections:
     title: Acheter du matériel
     link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   button_2_more: false
-- template: listServices2
-  blockBGcolor: gris
-  service: resort
-  filterLevel: 1
-  whatActivity: destinations
 - template: listServices
   service: resort
   filterCat: non
