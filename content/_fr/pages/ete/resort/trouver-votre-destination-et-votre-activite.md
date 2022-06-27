@@ -30,7 +30,7 @@ page_sections:
   service: resort
   headtitle:
     headline: Nos destinations
-    title: ''
+    title: Nos destinations
 - template: listConseils
   blockBGcolor: blanc
   service: resort
