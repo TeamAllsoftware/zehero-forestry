@@ -14,6 +14,8 @@ button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17195-en-famille-gorges-du-loup-activite-ze-hero
 page_sections:
+- template: heroBreadcrumb
+  title: 'Le canyoning des Gorges du Loup : ludique et pour tous'
 - template: textarea
   blockBGcolor: blanc
   title: Le canyoning des Gorges du Loup
@@ -23,6 +25,14 @@ page_sections:
     Les gorges du Loup sont également convoitées par les meilleurs grimpeurs d'escalade car on retrouve des voies allant du jusqu'au 9a. Le canyoning des gorges du loup est très facile d'accès et vous permet de découvrir un lieu d'exception dans un cadre incroyable.
 
     Découvrons les spécificités de ce canyoning :
+- template: cta
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17195-en-famille-gorges-du-loup-activite-ze-hero
+  intro: Profitez d'un moment de sensation forte dans les
+  headline: Gorges du Loup
+  blockBGcolor: ''
+  marge: 40
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655365196/website/Canyoning%2006/Screenshot_5.jpg
   atl_text_image_01: Saut dans le canyon des gorges du loup
@@ -35,7 +45,7 @@ page_sections:
   title: ''
 - template: textarea
   blockBGcolor: blanc
-  title: 'Le canyoning des Gorges du Loup : ludique et pour tous'
+  title: ''
   content: "Le canyoning des gorges du loup est un canyoning ouvert à tous et très
     ludique. Vous évoluerez dans une ambiance magnifique avec un parcours très joueur
     avec de belles vasques d'eau.  \nLe canyoning des Gorges du Loup est parfait pour
@@ -59,14 +69,6 @@ page_sections:
   - 'Lieu : Pont du Loup'
   - 'Temps globale : 2h à 2h30'
   - 'Prix : 50€'
-- template: cta
-  button:
-    text_button: 'Réservez ici '
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17195-en-famille-gorges-du-loup-activite-ze-hero
-  intro: Profitez d'un moment de sensation forte dans les
-  headline: Gorges du Loup
-  blockBGcolor: ''
-  marge: 40
 type: generic
 level: 2
 conseil: ''
