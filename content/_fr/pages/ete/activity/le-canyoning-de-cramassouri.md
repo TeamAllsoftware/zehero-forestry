@@ -14,6 +14,8 @@ button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17202-canyoning-cramassouri-06-activite-ze-hero
 page_sections:
+- template: heroBreadcrumb
+  title: 'Le Canyoning de Cramassouri : ludique et intermédiaire'
 - template: textarea
   blockBGcolor: blanc
   title: Le canyoning de Cramassouri
@@ -25,9 +27,17 @@ page_sections:
     est un des plus beaux canyons des Alpes Maritimes.\n\nTout près de Nice, vous
     pourrez profiter d'une descente rafraîchissante dans un lieu unique :\n\nDécouvrez
     les spécificités du canyoning de Cramassouri :"
+- template: cta
+  intro: Profitez d'un moment de sensation forte dans le
+  headline: canyoning de Cramassouri
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17202-canyoning-cramassouri-06-activite-ze-hero
+  blockBGcolor: ''
+  marge: 40
 - template: textarea
   blockBGcolor: blanc
-  title: 'Canyoning de Cramassouri : ludique et intermédiaire'
+  title: ''
   content: "Le canyoning de Cramassouri est un canyon parfait pour ceux qui s'initient
     et souhaitent découvrir un canyon magnifique et varié. C'est un canyon au niveau
     intermédiaire car vous retrouverez un nombre très varié d'obstacle à franchir.
@@ -50,14 +60,6 @@ page_sections:
   - 'Lieu :  La Tour-sur-Tinée'
   - 'Temps Globale : 3h'
   - 'Prix : 50€'
-- template: cta
-  intro: Profitez d'un moment de sensation forte dans le
-  headline: canyoning de Cramassouri
-  button:
-    text_button: 'Réservez ici '
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17202-canyoning-cramassouri-06-activite-ze-hero
-  blockBGcolor: ''
-  marge: 40
 type: generic
 level: 2
 conseil: ''
