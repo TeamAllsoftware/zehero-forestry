@@ -19,7 +19,7 @@ resort_naming: La Haute Savoie
 title: La Haute Savoie et ses activités pour la saison d'été
 titleHome: La Haute Savoie
 activite: spot
-level: 2
+level: 1
 enHome: 1
 permalink: "/fr/ete/destinations/haute-savoie"
 redirect_from:
