@@ -5,7 +5,7 @@ season: summer
 type: generic
 topnav_color_text: light
 title: Canyoning
-titleHome: Débuter en canyoning
+titleHome: Canyoning
 activite: canyoning
 listMother: 1
 level: 1
