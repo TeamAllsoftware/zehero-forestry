@@ -56,9 +56,9 @@ page_sections:
     title: Acheter du textile
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   Image2:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/11_l7a3ej.jpg
-    alt_text: Notre coach référent sur le trail en pleine action
-    title: Se préparer avec nos coachs
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/speezone16R_xhbtls.jpg
+    alt_text: Ski d'occasion à vendre Prosneige
+    title: Vente de skis d'occasion
     title_Link: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648197165/website/assets/Personnages%20poses/Trail.png
