@@ -24,7 +24,7 @@ enHome: 1
 permalink: "/fr/ete/destinations/haute-savoie"
 redirect_from:
 - "/fr/ete/destination/haute-savoie"
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654869584/website/summer/PXL_20220522_102041361.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1656336181/website/resorts/Chamonix/ben-o-bro-TgpWr5YI7Ls-unsplash.jpg
 image01_alt: Vue panorama d'un randonneur en montagne devant un lac, des montagnes
   l'été
 button_to_link_to_ze_hero_shop:
