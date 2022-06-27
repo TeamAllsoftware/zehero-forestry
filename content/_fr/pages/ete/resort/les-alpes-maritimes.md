@@ -48,6 +48,24 @@ page_sections:
     vous ennuyer."
   title: Une région de rêve
   blockBGcolor: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  button:
+    href_button: "/fr/ete/activites/nos-canyonings"
+    text_button: Nos canyoning dans les Alpes Maritimes
+    alt_button: ''
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
+  alt_text_for_image: Des personnes avec des enfants faisant du canyoning dans les
+    Alpes Maritimes
+  captiontitleuppercase: Nos activités dans les Alpes Maritimes
+  title: Le Canyoning dans les Alpes Maritimes
+  content: Les Alpes Maritimes sont une destination incroyable pour la pratique du
+    canyoning. Avec les Gorges du Loup, de la Roya, de la Tinée, de la Vésubie et
+    bien d'autres. Ceux qui souhaitent s'initier au canyoning, découvrir des lieux
+    merveilleux, partager un moment d'émotions fortes en famille, de sensations entre
+    amis, c'est le département idéal. Vous pourrez alors retrouver de la randonnée
+    aquatique, des canyonings parfaits pour s'initier, des gorges magnifiques, des
+    canyonings techniques avec de belles ambiances.
 baseline: Mer et Montagne
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
 listMother: 1
