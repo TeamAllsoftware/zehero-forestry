@@ -15,9 +15,11 @@ button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17604-initiation-et-special-famille-canyoning-magnifique-et-sans-corde-clue-de-la-cerise-activite-ze-hero
 page_sections:
+- template: heroBreadcrumb
+  title: Le canyoning de Clue de la Cerise
 - template: textarea
   blockBGcolor: blanc
-  title: Canyoning du Clue de la Cerise
+  title: 'Canyoning du Clue de la Cerise : randonné aquatique'
   content: "Le canyoning du Clue de la Cerise est un canyon qui se situe près de Nice.
     Dans la vallée du Var et de Carros, vous découvrirez des petits villages perchés
     sur les hauteurs dont le village Gilette. C'est un magnifique village situé dans
