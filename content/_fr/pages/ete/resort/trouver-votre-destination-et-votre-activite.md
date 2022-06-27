@@ -28,7 +28,7 @@ page_sections:
 - template: listConseils
   blockBGcolor: blanc
   service: resort
-  filterLevel: 1
+  filterLevel: 2
   whatAdvice: spot
 
 ---
