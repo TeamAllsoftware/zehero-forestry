@@ -1,5 +1,5 @@
 ---
-layout: layout_generic
+layout: layout_resort
 language: fr
 season: summer
 type: generic
