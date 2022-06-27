@@ -31,5 +31,10 @@ page_sections:
   headtitle:
     headline: ''
     title: ''
+- template: listConseils
+  blockBGcolor: gris
+  service: resort
+  filterLevel: 1
+  whatAdvice: ''
 
 ---
