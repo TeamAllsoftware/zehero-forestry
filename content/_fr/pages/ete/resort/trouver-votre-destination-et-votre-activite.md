@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 type: generic
 season: summer
-level: 2
+level: 1
 listMother: 2
 topnav_color_text: light
 title: Tous nos destinations
