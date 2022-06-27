@@ -103,6 +103,6 @@ page_sections:
   headline: Trail, Canyoning, Randonnée et Escalade
   blockBGcolor: ''
   marge: ''
-code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+code_postal: ''
 
 ---
