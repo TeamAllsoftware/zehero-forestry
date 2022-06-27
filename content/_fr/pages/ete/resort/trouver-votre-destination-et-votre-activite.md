@@ -3,14 +3,14 @@ layout: layout_generic
 language: fr
 type: generic
 season: summer
-level: 1
-listMother: 2
+level: ''
+listMother: ''
 topnav_color_text: light
-title: Trouvez votre destination et votre activité
+title: Tous nos destinations
 titleHome: Nos destinations d'activités
 activite: ''
 conseil: ''
-permalink: "/fr/ete/destination/trouver-destination-activites"
+permalink: "/fr/map/"
 meta-title: Trouvez votre prochaine destination outdoor
 meta-description: Trouvez votre prochaine destination pour réservez les meilleurs
   activités outdoor.
@@ -25,11 +25,5 @@ page_sections:
   blockBGcolor: blanc
   title: Les destinations chez Ze Hero
   content: Où souhaitez vous aller ?
-- template: listServices
-  blockBGcolor: blanc
-  service: resort
-  headtitle:
-    headline: ''
-    title: ''
 
 ---
