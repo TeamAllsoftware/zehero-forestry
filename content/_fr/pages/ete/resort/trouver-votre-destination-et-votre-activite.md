@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 type: generic
 season: summer
-level: 1
+level: 2
 listMother: 2
 topnav_color_text: light
 title: Tous nos destinations
@@ -27,7 +27,7 @@ page_sections:
   content: Où souhaitez vous aller ?
 - template: listConseils
   blockBGcolor: blanc
-  service: resort
+  service: activity
   filterLevel: 2
   whatAdvice: spot
 
