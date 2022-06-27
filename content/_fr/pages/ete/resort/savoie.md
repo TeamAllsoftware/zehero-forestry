@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -33,16 +33,18 @@ page_sections:
   content: "Le département de la Savoie de la région Auvergne-Rhône-Alpes est le plus
     montagneux de France avec près de 90 % de son territoire situé en zone de montagne.
     Il s’agit principalement du massif des Alpes, mais aussi dans une moindre mesure
-    du massif du Jura à l’Ouest.\n\nLes 60 stations de sport d’hiver que compte le
-    département se répartissent de vastes domaines skiables. On y retrouve Courchevel,
-    Val Thorens, Les Arcs, Tignes et bien d'autres.  \nLe département compte 3 parcs
-    naturels : un parc national (Parc National de la Vanoise) et deux parcs naturels
-    régionaux (Parc Naturel Régional des Bauges et Parc Naturel Régional de Chartreuse).\n\nVous
-    retrouverez également en Savoie le Lac du Bourget : plus grand lac naturel de
-    France avec ses 18km de long ainsi que le Lac d'Aiguebelette. \n\nLe nom Savoie
-    provient de l’ancien territoire Sapaudie qui signifie le pays des sapins ou le
-    pays couvert de sapins. Le nom aurait ensuite dérivé en Sabaudia, Sabogla, Saboia,
-    Savogia et enfin Savoie."
+    du massif du Jura à l’Ouest. La Savoie, c'est également 60 stations de sport d’hiver.
+    On y retrouve Courchevel, Val Thorens, Les Arcs, Tignes et bien d'autres.  \nLe
+    département compte 3 parcs naturels : un parc national (Parc National de la Vanoise)
+    et deux parcs naturels régionaux (Parc Naturel Régional des Bauges et Parc Naturel
+    Régional de Chartreuse). Vous retrouverez également en Savoie le Lac du Bourget
+    : plus grand lac naturel de France avec ses 18km de long ainsi que le Lac d'Aiguebelette.
+    \ \nLe nom Savoie provient de l’ancien territoire Sapaudie qui signifie le pays
+    des sapins ou le pays couvert de sapins. Le nom aurait ensuite dérivé en Sabaudia,
+    Sabogla, Saboia, Savogia et enfin Savoie.\n\nLa Savoie est un lieu d'exception
+    pour de nombreuses activités outdoors. Partez découvrir les montagnes, les lacs,
+    les forêts. Vivez des sensations fortes, admirez, détendez vous et partagez vos
+    émotions.\n\nDécouvrez toutes nos offres en Savoie"
   title: La Savoie
   blockBGcolor: ''
 - template: 2colimgtxt
