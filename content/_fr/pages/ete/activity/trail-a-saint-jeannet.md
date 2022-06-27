@@ -17,6 +17,8 @@ button_to_link_to_ze_hero_shop:
   button_text: 'Réservez '
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17600-trail-matin-st-jeannet-ze-hero-yann-alarcon
 page_sections:
+- template: heroBreadcrumb
+  title: 'Trail à Saint Jeannet : Débutant'
 - template: textarea
   blockBGcolor: blanc
   content: |-
@@ -26,6 +28,14 @@ page_sections:
 
     Découvrons les spécificités :
   title: Le Trail à Saint Jeannet
+- template: cta
+  blockBGcolor: blanc
+  marge: 40
+  intro: Découvre les Préalpes d'Azur et le baou
+  headline: en trail depuis St Jeannet
+  button:
+    text_button: Réservez ici
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17600-trail-matin-st-jeannet-ze-hero-yann-alarcon
 - template: textarea
   blockBGcolor: blanc
   content: |-
@@ -37,19 +47,10 @@ page_sections:
     Explication sur le trail avec enseignement sur la technique de montée avec ou sans bâtons, sur la descente de descente et sur les différents entraînements en trail tel que le fractionner. Sortie basée sur l’endurance avec jeu ludique d’entraînement durant la séance.
 
     Équipement à avoir : tenue adaptée au trail, chaussures de trail, sac ou ceinture de portage avec flasques d’eau (2 fois 500ml ou plus) + réserve alimentaire et coupe vent.
-  title: 'Trail à Saint Jeannet : Débutant'
 - template: liststyle01
   title: Dernières informations
   item:
   - 'Prix : 60€ les 3h'
-- template: cta
-  blockBGcolor: blanc
-  marge: 40
-  intro: Découvre les Préalpes d'Azur et le baou
-  headline: en trail depuis St Jeannet
-  button:
-    text_button: Réservez ici
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17600-trail-matin-st-jeannet-ze-hero-yann-alarcon
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304660/website/summer/IMG_9228.jpg
 image01_alt: Coureur dans le Baou de Saint Jeannet
 
