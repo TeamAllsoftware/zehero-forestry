@@ -137,6 +137,5 @@ button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: "/fr/ete/activites/nos-sorties-trail"
 conseil: ''
-published: false
 
 ---
