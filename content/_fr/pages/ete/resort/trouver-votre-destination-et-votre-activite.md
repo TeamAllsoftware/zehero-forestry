@@ -35,6 +35,6 @@ page_sections:
   blockBGcolor: gris
   service: resort
   filterLevel: 1
-  whatAdvice: ''
+  whatAdvice: spot
 
 ---
