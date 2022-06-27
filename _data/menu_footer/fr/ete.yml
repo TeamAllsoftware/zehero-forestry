@@ -1,25 +1,5 @@
 ---
 columns:
-- col: Nos conseils
-  title-link: "/fr/ete/conseils"
-  link:
-  - subtitle: Comment bien s'équiper en trail ?
-    subhref: "/fr/ete/conseils/equipement-trail"
-  - subtitle: Comment choisir ses chaussures de trail ?
-    subhref: "/fr/ete/conseils/chaussures-trail"
-  - subtitle: Débuter le Trail running
-    subhref: "/fr/ete/conseils/comment-debuter-trail"
-- col: Nos activités
-  title-link: "/fr/ete/activites"
-  link:
-  - subtitle: Trail running
-    subhref: "/fr/trail-running-alpes-maritimes-prealpes-azur"
-  - subtitle: VTT
-    subhref: "/fr/ete/activites/vtt"
-  - subtitle: Canyoning
-    subhref: "/fr/ete/activites/canyoning"
-  - subtitle: Surf
-    subhref: "/fr/ete/activites/surf"
 - col: Nos partenaires
   title-link: ''
   link:
