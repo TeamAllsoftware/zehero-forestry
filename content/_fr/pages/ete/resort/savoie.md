@@ -49,6 +49,22 @@ page_sections:
     émotions.\n\nDécouvrez toutes nos offres en Savoie"
   title: La Savoie
   blockBGcolor: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  button:
+    href_button: https://preprod-zehero-202112.netlify.app/fr/ete/activites/reserver-vtt
+    text_button: Nos offres de VTT en Savoie
+    alt_button: ''
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108069/website/VTT%20AE/pexels-reinhard-bruckner-5328112.jpg
+  alt_text_for_image: Des vaches et une personnes faisant du VTT en Savoie
+  captiontitleuppercase: Nos activités en Savoie
+  title: Le VTT en Savoie
+  content: "Découvrez avec Ze Hero toutes nos offres de VTT en Savoie. Partez explorer
+    les sentiers en VTT ainsi qu'en VTT électrique. Que ce soit en famille, entre
+    amis, chacune des offres sera adaptée aux niveaux et aux envies.  \nVous pourrez
+    alors rouler en VTT à Méribel et à Les Menuires avec notre moniteur de VTT. Vous
+    pourrez également découvrir les hauteurs d'Aix les Bains et le plateau du Grand
+    Revard avec Expérience Vélo.\n\nPlaisir, partage et émotion."
 baseline: Montagnes et charme
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 listMother: 2
