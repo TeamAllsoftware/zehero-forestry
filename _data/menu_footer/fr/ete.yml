@@ -41,6 +41,13 @@ columns:
     subhref: "/fr/ete/partenaires/experience-velo"
   - subtitle: Sorties de routes
     subhref: "/fr/ete/partenaires/sorties-de-route"
+- col: Nos marques
+  title-link: ''
+  link:
+  - subtitle: Instinct Trail
+    subhref: "/fr/marques/instinct-trail-inspired"
+  - subtitle: Altore
+    subhref: "/fr/marques/altore"
 - col: ZE HERO
   title-link: "#"
   link:
