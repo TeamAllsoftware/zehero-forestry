@@ -29,6 +29,6 @@ page_sections:
   blockBGcolor: blanc
   service: resort
   filterLevel: 1
-  whatAdvice: ''
+  whatAdvice: resort
 
 ---
