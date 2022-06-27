@@ -78,10 +78,6 @@ menu:
       href: "/fr/ete/conseils/equipement-trail"
     - title: Comment choisir ses chaussures de trail ?
       href: "/fr/ete/conseils/chaussures-trail"
-    - title: Que mettre dans son sac de randonnée pour une journée ?
-      href: "/fr/ete/conseils/liste-materiel-randonnee"
-    - title: Location Matériel Canyoning 06
-      href: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
   column-02:
   - nested: Débuter
     menu-items:
