@@ -19,7 +19,7 @@ page_sections:
     title: Le meilleur des activités outdoor
     color: white
   Button1:
-    title: Trouvez votre destination
+    title: Votre destination
     link: "/fr/destinations/trouver-destination-activites"
   Button2:
     title: Acheter du matériel
