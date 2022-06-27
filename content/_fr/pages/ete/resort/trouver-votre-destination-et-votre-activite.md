@@ -30,5 +30,11 @@ page_sections:
   service: resort
   filterLevel: 1
   whatAdvice: spot
+- template: listServices
+  blockBGcolor: gris
+  service: resort
+  headtitle:
+    headline: ''
+    title: ''
 
 ---
