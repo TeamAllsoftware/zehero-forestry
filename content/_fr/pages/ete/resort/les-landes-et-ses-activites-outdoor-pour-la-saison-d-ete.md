@@ -45,6 +45,23 @@ page_sections:
     Capbreton, Hossegor, Messanges, Biscarosse. C'est également une terre de thermalisme
     reconnu avec Dax.\n\nDécouvrez toutes nos offres de surf dans les Landes"
   blockBGcolor: ''
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649066110/website/Sama%20Sama/216173831_123343679958569_6340812869216994865_n.jpg
+  alt_text_for_image: Groupe de surfeur en cours de surf à Mimizan
+  captiontitleuppercase: Nos activités dans les Landes
+  title: Le surf dans les Landes
+  content: Avec Ze Hero, nous vous proposons plusieurs offres de surf dans les Landes.
+    Partez découvrir, vous initier, progresser et même vous perfectionner en surf
+    que ce soit dans des cours privé ou collectif ou des stages de plusieurs jours.
+    Nous vous proposons de surfer à Seignosse avec un moniteur indépendant, Morgan
+    d'Avezac, qui vous apportera tous les meilleurs conseils dans des cours privés
+    de surf. Mais également de surfer à Mimizan avec l'école de surf Sama Sama Surf
+    School, dans une ambiance conviviale et fun pour un maximum de plaisir.
+  button:
+    text_button: Nos offres de surf dans les Landes
+    href_button: "/fr/ete/activites/reserver-cours-surf"
+    alt_button: ''
 code_postal: 40,Landes,Nouvelle-Aquitaine
 listMother: 1
 conseil: ''
