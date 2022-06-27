@@ -25,5 +25,11 @@ page_sections:
   blockBGcolor: blanc
   title: Les destinations chez Ze Hero
   content: Où souhaitez vous aller ?
+- template: listServices
+  blockBGcolor: blanc
+  service: resort
+  headtitle:
+    headline: ''
+    title: ''
 
 ---
