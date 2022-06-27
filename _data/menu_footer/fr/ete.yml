@@ -16,16 +16,10 @@ columns:
     subhref: "/fr/trail-running-alpes-maritimes-prealpes-azur"
   - subtitle: VTT
     subhref: "/fr/ete/activites/vtt"
-  - subtitle: Randonnée en montagne
-    subhref: "/fr/ete/activites/randonnee-montagne"
-  - subtitle: Traversée des Alpes à vélo
-    subhref: "/fr/ete/activites/traversee-des-alpes-en-velo"
-  - subtitle: Surf
-    subhref: "/fr/ete/activites/surf"
   - subtitle: Canyoning
     subhref: "/fr/ete/activites/canyoning"
-  - subtitle: Kayak
-    subhref: "/fr/ete/activites/kayak"
+  - subtitle: Surf
+    subhref: "/fr/ete/activites/surf"
 - col: Nos partenaires
   title-link: ''
   link:
