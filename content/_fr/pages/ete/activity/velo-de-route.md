@@ -1,11 +1,11 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Vélo de route
-titleHome: Ma 1ère traversée des Alpes à vélo
+titleHome: Vélo de route
 activite: velo
 level: 1
 enHome: 1
@@ -103,5 +103,6 @@ button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
 listMother: 1
+conseil: ''
 
 ---
