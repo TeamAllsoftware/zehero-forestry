@@ -15,6 +15,8 @@ button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17614-initation-adulte-canyoning-beau-et-ludique-canyon-du-haut-jabron-activite-ze-hero
 page_sections:
+- template: heroBreadcrumb
+  title: 'Canyoning du Haut Jabron : Initiation'
 - template: textarea
   blockBGcolor: blanc
   title: Le canyoning du Haut Jabron
@@ -22,6 +24,14 @@ page_sections:
     Le canyoning du Haut Jabron se situe dans les Hautes Alpes près de Castellane. Vous partirez de la commune La Batie pour une descente très ludique et magnifique et souterrain. Vous évoluerez dans les gorges du Jabron.
 
     Un canyoning très varié pour le plaisir de tous : toboggans, sauts, rappel, nage, passage étroit, eau limpide, tunnel... Le canyoning du Haut Jabron à tous les ingrédients pour un moment de partage, de découverte et de sensation forte dans un lieu exceptionnel.
+- template: cta
+  intro: Profitez d'un moment de sensation forte dans les
+  headline: gorges du Haut Jabron
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17614-initation-adulte-canyoning-beau-et-ludique-canyon-du-haut-jabron-activite-ze-hero
+  blockBGcolor: ''
+  marge: 40
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655201053/website/By%20Ze%20Hero%20Activity/IMG_4221.jpg
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655386912/website/By%20Ze%20Hero%20Activity/IMG_4222.jpg
@@ -49,21 +59,13 @@ page_sections:
     1h30 à 2h.\n\nLe matériel est pris en compte dans le prix. Le moniteur vous apportera
     la combinaison ainsi que le casque et le baudrier.  \nIl faudra que vous preniez
     avec vous : chaussures de sport, maillot de bain, serviette, boisson et un en-cas."
-  title: 'Canyoning du Haut Jabron : Initiation'
+  title: ''
 - template: liststyle01numbered
   item:
   - 'Lieu : La Batie (10km de Castellane)'
   - 'Temps globale : 3h'
   - 'Prix : 50€'
   title: ''
-- template: cta
-  intro: Profitez d'un moment de sensation forte dans les
-  headline: gorges du Haut Jabron
-  button:
-    text_button: 'Réservez ici '
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17614-initation-adulte-canyoning-beau-et-ludique-canyon-du-haut-jabron-activite-ze-hero
-  blockBGcolor: ''
-  marge: 40
 type: generic
 level: 2
 conseil: ''
