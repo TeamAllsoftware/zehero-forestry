@@ -17,7 +17,7 @@ page_title: La Haute Savoie
 resort_nameid: haute-savoie
 resort_naming: La Haute Savoie
 title: La Haute Savoie et ses activités pour la saison d'été
-titleHome: La Haute Savoie
+titleHome: Les activités en Haute Savoie
 activite: spot
 level: 1
 enHome: 1
