@@ -29,6 +29,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité en Savoie
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=12%2F12%2F2021
 page_sections:
+- template: heroBreadcrumb
+  title: Nos activités en Savoie
 - template: textarea
   content: "Le département de la Savoie de la région Auvergne-Rhône-Alpes est le plus
     montagneux de France avec près de 90 % de son territoire situé en zone de montagne.
