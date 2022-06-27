@@ -39,8 +39,6 @@ menu:
   column-01:
   - nested: Equipement outdoor
     menu-items:
-    - title: Vêtements vélo
-      href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running?ca_brand=Fausse+Route&ca_type_gender=all&ca_clo_und=all
     - title: Vêtement de trail
       href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
     - title: Accessoires de trail
