@@ -30,6 +30,14 @@ page_sections:
     dans cette rivière dans un cadre unique et magique.\n\nUn canyon à faire en famille
     ou entre amis, qui ne demande pas de matériel spécifique mais une bonne condition
     physique.\n\nVoyons les spécificité de ce canyon :"
+- template: cta
+  intro: Profitez d'un moment d'évasion dans le
+  headline: Clue de la Cerise
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17604-initiation-et-special-famille-canyoning-magnifique-et-sans-corde-clue-de-la-cerise-activite-ze-hero
+  blockBGcolor: ''
+  marge: 40
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655476307/website/By%20Ze%20Hero%20Activity/GPTempDownload_1.jpg
   atl_text_image_01: Saut dans le clue de la cerise
@@ -65,14 +73,6 @@ page_sections:
   - 'Lieu : Gilette'
   - 'Temps global : 3h30'
   - 'Prix : 50€'
-- template: cta
-  intro: Profitez d'un moment d'évasion dans le
-  headline: Clue de la Cerise
-  button:
-    text_button: 'Réservez ici '
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17604-initiation-et-special-famille-canyoning-magnifique-et-sans-corde-clue-de-la-cerise-activite-ze-hero
-  blockBGcolor: ''
-  marge: 40
 type: generic
 level: 2
 conseil: ''
