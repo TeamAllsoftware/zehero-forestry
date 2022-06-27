@@ -29,7 +29,7 @@ page_sections:
   blockBGcolor: gris
   service: resort
   headtitle:
-    headline: ''
+    headline: Nos destinations
     title: ''
 - template: listConseils
   blockBGcolor: blanc
