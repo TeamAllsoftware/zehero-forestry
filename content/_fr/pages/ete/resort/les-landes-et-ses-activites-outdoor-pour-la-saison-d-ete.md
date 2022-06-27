@@ -64,6 +64,6 @@ page_sections:
     alt_button: ''
 code_postal: 40,Landes,Nouvelle-Aquitaine
 listMother: 1
-conseil: ''
+conseil: spot
 
 ---
