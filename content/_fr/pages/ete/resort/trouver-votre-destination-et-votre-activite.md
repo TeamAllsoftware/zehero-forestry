@@ -27,7 +27,7 @@ page_sections:
   content: Où souhaitez vous aller ?
 - template: listConseils
   blockBGcolor: blanc
-  service: advice
+  service: resort
   filterLevel: 1
   whatAdvice: spot
 
