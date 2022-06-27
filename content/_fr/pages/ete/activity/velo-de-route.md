@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: light
+topnav_color_text: dark
 title: Vélo de route
 titleHome: Vélo de route
 activite: velo
