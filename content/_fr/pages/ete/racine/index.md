@@ -61,8 +61,8 @@ page_sections:
     title: Vente de skis d'occasion
     title_Link: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648197165/website/assets/Personnages%20poses/Trail.png
-    alt_text: Personnage ZE HERO en tenue de trail
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649925957/website/assets/Personnages%20poses/heros0001.png
+    alt_text: Personnages ZE HERO sports
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/Instinct_X_Mannequin_Front_View_1080x1080px_abvcdc.jpg
