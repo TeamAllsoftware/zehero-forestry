@@ -17,6 +17,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Réservez
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17591-trail-journee-greolieres-esteron-ze-hero-yann-alarcon
 page_sections:
+- template: heroBreadcrumb
+  title: 'Trail à Gréolières : Débutant à confirmé'
 - template: textarea
   blockBGcolor: blanc
   title: Trail à Gréolières
@@ -28,9 +30,17 @@ page_sections:
     Préalpes d’azur. Tout proche de Nice, dans les hauteurs et dans l''arrières pays
     niçois, on découvre une nature sauvage, préservé. Derrière la montagne du Cheiron
     se trouve la station de ski " Gréolières les neiges". '
+- template: cta
+  blockBGcolor: blanc
+  marge: 40
+  intro: Découvrez les Préalpes d'Azur en trail
+  headline: à Gréolières
+  button:
+    text_button: Réservez ici
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17591-trail-journee-greolieres-esteron-ze-hero-yann-alarcon
 - template: textarea
   blockBGcolor: blanc
-  title: 'Trail à Gréolières : Débutant à confirmé'
+  title: ''
   content: "Nous vous proposons différents parcours depuis le village de Gréolières.
     Nous avons mis en place différents tours autour du village et de la montagne du
     Cheiron.  \nOn y découvre des sentiers techniques, de la forêt, une magnifique
@@ -48,14 +58,6 @@ page_sections:
   title: Derniers informations
   item:
   - 'Prix : 80€ '
-- template: cta
-  blockBGcolor: blanc
-  marge: 40
-  intro: Découvrez les Préalpes d'Azur en trail
-  headline: à Gréolières
-  button:
-    text_button: Réservez ici
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17591-trail-journee-greolieres-esteron-ze-hero-yann-alarcon
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216730/website/summer/IMG_20200723_153002.jpg
 image01_alt: Traileur courant sur les crètes du Cheiron
 

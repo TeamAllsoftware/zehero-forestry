@@ -19,6 +19,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Réservez ici
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17603-maralpine-traversee-des-prealpes-dazur-journee-ze-hero-yann-alarcon
 page_sections:
+- template: heroBreadcrumb
+  title: Itinérance de trail dans les Alpes Maritimes
 - template: textarea
   blockBGcolor: blanc
   content: "Les itinérances en trail dans les Préalpes d'Azur sont des traversées
@@ -34,6 +36,14 @@ page_sections:
     à 75km selon les niveaux des coureurs du groupe.\n\nDécouvrez notre itinérance
     de trail chez Ze Hero :"
   title: Nos itinérances de trail dans les Préalpes d'Azur
+- template: cta
+  blockBGcolor: blanc
+  marge: 40
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17578-trail-journee-traversee-st-jeannet-bar-sur-loup-par-le-cheiron-yann-alarcon
+    text_button: Réservez ici
+  intro: Partez en itinérance en trail
+  headline: sur la Maralpine
 - template: textarea
   blockBGcolor: blanc
   content: |-
@@ -45,16 +55,9 @@ page_sections:
     * 250€
     * Niveau : Confirmé
   title: La Maralpine en Trail avec Ze Hero
-- template: cta
-  blockBGcolor: blanc
-  marge: 40
-  button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17578-trail-journee-traversee-st-jeannet-bar-sur-loup-par-le-cheiron-yann-alarcon
-    text_button: Réservez ici
-  intro: Partez en itinérance en trail
-  headline: deux jours sur la Maralpine
 layout: layout_generic
 titleHome: Les itinérances de Trail dans les Préalpes d'Azur
 conseil: ''
+listMother: ''
 
 ---

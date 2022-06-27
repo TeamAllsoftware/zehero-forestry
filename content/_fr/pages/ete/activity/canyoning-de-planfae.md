@@ -14,6 +14,8 @@ button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17207-canyoning-planfae-special-famille-enfant-des-10-ans-activite-ze-hero
 page_sections:
+- template: heroBreadcrumb
+  title: 'Le canyoning de Planfaé : Niveau intermédiaire'
 - template: textarea
   blockBGcolor: blanc
   title: Le canyoning de Planfaé
@@ -23,9 +25,17 @@ page_sections:
     saura vous charmer.  \nDécouvrez un canyon ludique, complet, court mais condensé
     pour le plaisir de chacun. Vous découvrirez une belle roche calcaire pour un canyon
     très encaissé.\n\nVoyons les spécificités du canyoning de Planfaé :"
+- template: cta
+  intro: Profitez d'un moment de sensation forte dans le
+  headline: canyon de Planfaé
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17207-canyoning-planfae-special-famille-enfant-des-10-ans-activite-ze-hero
+  blockBGcolor: ''
+  marge: 40
 - template: textarea
   blockBGcolor: blanc
-  title: 'Canyoning de Planfaé : Niveau intermédiaire'
+  title: ''
   content: "Le canyoning de Planfaé est un canyon de niveau intermédiaire, qui reste
     court par sa distance mais qui sera très complet. En effet ce canyon vous proposera
     tout ce qu'il faut pour se plongez dans une vrai ambiance canyon sans grosses
@@ -45,14 +55,6 @@ page_sections:
   - 'Temps global : 3h30 à 4h'
   - 'Prix : 60€'
   title: 'Les dernières informations :'
-- template: cta
-  intro: Profitez d'un moment de sensation forte dans le
-  headline: canyon de Planfaé
-  button:
-    text_button: 'Réservez ici '
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17207-canyoning-planfae-special-famille-enfant-des-10-ans-activite-ze-hero
-  blockBGcolor: ''
-  marge: 40
 type: generic
 level: 2
 conseil: ''

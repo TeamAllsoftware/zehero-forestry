@@ -6,7 +6,7 @@ type: generic
 topnav_color_text: dark
 title: Parapente
 activite: parapente
-listMother: 1
+listMother: 2
 level: 1
 permalink: "/fr/ete/activites/parapente"
 redirect_from:

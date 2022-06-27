@@ -6,14 +6,14 @@ menu:
   image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304659/website/summer/IMG_9183.jpg
   image-alt: Deux personnes au sommet du Baou de Saint Jeannet
   image-link: "/fr/ete/activites"
-  txt-button: Réservez ici
+  txt-button: Découvrez
   column-01:
   - nested: Par régions
     menu-items:
     - title: Alpes Maritimes
       href: "/fr/ete/destinations/alpes-maritimes"
     - title: Landes
-      href: "/fr/ete/destinations/landes"
+      href: "/fr/ete/destinations/les-landes"
     - title: Haute Savoie
       href: "/fr/ete/destinations/haute-savoie"
     - title: Savoie
@@ -24,7 +24,7 @@ menu:
     - title: Canyoning
       href: "/fr/ete/activites/canyoning"
     - title: Trail
-      href: "/fr/ete/activites/trail"
+      href: "/fr/ete/activites/trail-running"
     - title: VTT
       href: "/fr/ete/activites/vtt"
     - title: Surf
@@ -39,8 +39,6 @@ menu:
   column-01:
   - nested: Equipement outdoor
     menu-items:
-    - title: Vêtements vélo
-      href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running?ca_brand=Fausse+Route&ca_type_gender=all&ca_clo_und=all
     - title: Vêtement de trail
       href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
     - title: Accessoires de trail
@@ -60,7 +58,7 @@ menu:
     menu-items:
     - title: Les spots de canyoning autour d'Annecy
       href: "/fr/ete/activites/canyoning-annecy"
-    - title: Nos spots de canyoning dans les Alpes Maritimes
+    - title: Les spots de canyoning dans les Alpes Maritimes
       href: "/fr/meilleurs-spots-canyoning-alpes-maritimes"
     - title: La traversée des Préalpes à vélo
       href: "/fr/ete/activites/traversee-des-pre-alpes-en-velo"
@@ -68,8 +66,6 @@ menu:
       href: "/fr/ete/activites/traversee-des-alpes-en-velo"
     - title: Courir dans les Préalpes d'Azur
       href: "/fr/trail-running-alpes-maritimes-prealpes-azur"
-    - title: Séjours 6 jours à vélo à Méribel
-      href: "/fr/ete/activites/velo-de-route-sejour-6-jours-meribel"
     - title: Les itinéraires de trail dans les Alpes Maritimes
       href: "/fr/ete/conseils/itineraires-trail-alpes-maritimes"
   - nested: S'équiper
@@ -82,10 +78,6 @@ menu:
       href: "/fr/ete/conseils/equipement-trail"
     - title: Comment choisir ses chaussures de trail ?
       href: "/fr/ete/conseils/chaussures-trail"
-    - title: Que mettre dans son sac de randonnée pour une journée ?
-      href: "/fr/ete/conseils/liste-materiel-randonnee"
-    - title: Location Matériel Canyoning 06
-      href: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
   column-02:
   - nested: Débuter
     menu-items:
@@ -103,49 +95,5 @@ menu:
       href: "/fr/ete/conseils/fractionne-trail"
     - title: Se préparer pour un trail
       href: "/fr/ete/conseils/preparation-course-trail"
-    - title: Nos activités outdoor dans les Alpes Maritimes 06
-      href: "/fr/ete/conseils/nos-activites-outdoor-alpes-maritimes"
-    - title: Nos activités outdoor en Savoie 73
-      href: "/fr/ete/conseils/nos-activites-outdoor-savoie"
-    - title: Pourquoi vous devriez sortir en montagne, en forêt ou autre
-      href: "/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret"
-    - title: Quelles activités faire en montagne durant l'été
-      href: "/fr/ete/conseils/activites-montagne-ete"
     - title: Séjours et activités en vélo de route
       href: "/fr/ete/conseils/sejours-activites-velo-de-route"
-- title: Partenaires
-  id: "4"
-  title-link: "#"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1639426229/website/summer/rahadiansyah-pjHfslqy01o-unsplash_ief9vm.jpg
-  image-alt: Une femme grimpe une voie d'escalade indoor
-  image-link: "#"
-  column-01:
-  - nested: Les partenaires
-    menu-items:
-    - title: Sorties de routes
-      href: "/fr/ete/partenaires/sorties-de-route"
-    - title: Expérience Vélo
-      href: "/fr/ete/partenaires/experience-velo"
-    - title: 7 Aventures
-      href: "/fr/ete/partenaires/7-aventures"
-    - title: L'Hôtel le Savoy, Méribel
-      href: "/fr/ete/partenaires/le-savoy-meribel"
-    - title: Morgan d'Avezac
-      href: "/fr/ete/partenaires/morgan-davezac-surf-seignosse"
-    - title: Sama Sama Surf School
-      href: "/fr/ete/partenaires/sama-sama-surf-school"
-    - title: Cueilleurs de sommets
-      href: "/fr/ete/partenaires/clement-sivera"
-    - title: Yann Alarçon
-      href: "/fr/partenaires/yann-alarcon"
-    - title: Nathan Alarçon
-      href: "/fr/partenaires/nathan-alarcon"
-  column-02:
-  - nested: Les marques
-    menu-items:
-    - title: Altore
-      href: "/fr/marques/altore"
-    - title: Fausse Route
-      href: "/fr/marques/fausseroute"
-    - title: Instinct Trail Inspired
-      href: "/fr/marques/instinct-trail-inspired"

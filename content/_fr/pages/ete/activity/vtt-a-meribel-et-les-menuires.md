@@ -19,6 +19,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Réservez
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
 page_sections:
+- template: heroBreadcrumb
+  title: VTT et VAE dans les 3 vallées
 - template: textarea
   blockBGcolor: blanc
   content: |-
@@ -54,5 +56,6 @@ page_sections:
 layout: layout_generic
 titleHome: Réservez VTT à Méribel et Les Ménuires
 conseil: ''
+listMother: ''
 
 ---

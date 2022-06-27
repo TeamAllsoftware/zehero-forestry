@@ -19,6 +19,8 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 page_sections:
+- template: heroBreadcrumb
+  title: Nos offres de surf chez Ze Hero
 - template: textarea
   blockBGcolor: blanc
   title: Le surf dans les Landes

@@ -17,6 +17,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Réservez votre sortie Trail
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17283-trail-bar-sur-loup-decouverte-yann-alarcon
 page_sections:
+- template: heroBreadcrumb
+  title: 'Trail à Bar sur Loup : Débutant et confirmé'
 - template: textarea
   blockBGcolor: blanc
   content: Pratiquer le trail à Bar sur Loup, c’est parcourir les Préalpes d’Azur
@@ -26,6 +28,14 @@ page_sections:
     verdoyante nourrie par le Loup. Un peu au-dessus, on aperçoit le Pic des Courmettes,
     le Haut Montet.
   title: Le Trail à Bar sur Loup
+- template: cta
+  blockBGcolor: blanc
+  marge: 40
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17283-trail-bar-sur-loup-decouverte-yann-alarcon
+    text_button: Réservez
+  intro: Découvrez les Préalpes d'Azur en trail
+  headline: depuis Bar sur Loup
 - template: imagegallery02
   image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
   atl_text_image_02: Coureur vers Gourdon
@@ -53,20 +63,11 @@ page_sections:
     Explication sur le trail avec enseignement sur la technique de montée avec ou sans bâtons, sur la descente de descente et sur les différents entraînements en trail tel que le fractionner. Sortie basée sur l’endurance avec jeu ludique d’entraînement durant la séance.
 
     Équipement à avoir : tenue adaptée au trail, chaussures de trail, sac ou ceinture de portage avec flasques d’eau (2 fois 500ml ou plus) + réserve alimentaire et coupe-vent.
-  title: 'Trail à Bar sur Loup : Débutant et confirmé'
 - template: liststyle01
   title: Dernières informations
   item:
   - '60€ sortie débutant : 3h'
   - '100€ sortie confirmé : à la journée'
-- template: cta
-  blockBGcolor: blanc
-  marge: 40
-  button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17283-trail-bar-sur-loup-decouverte-yann-alarcon
-    text_button: Réservez
-  intro: Découvrez les Préalpes d'Azur en trail
-  headline: depuis Bar sur Loup
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
 image01_alt: Coureur à Bar sur Loup vers Gourdon
 

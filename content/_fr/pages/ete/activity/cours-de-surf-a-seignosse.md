@@ -4,7 +4,7 @@ language: fr
 season: summer
 type: generic
 categorie: Surf
-topnav_color_text: dark
+topnav_color_text: light
 meta-title: Réservez cours de surf Seignosse Tout niveau
 meta-description: Réservez un cours de surf privé ou collectif à Seignosse, tout niveau.
   Location de surf et de combinaison de surf à Seignosse.
@@ -22,6 +22,8 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Seignosse&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 page_sections:
+- template: heroBreadcrumb
+  title: Surfer à Seignosse dans les Landes
 - template: textarea
   title: Cours de surf à Seignosse
   content: |-
@@ -33,6 +35,14 @@ page_sections:
 
     Les cours privés de surf à Seignosse vont vous permettre d'avoir un moniteur dédié à vous pendant 1h30 à 2h. Il restera avec vous afin de regarder chacun de vos gestes, de vos mouvements. Il vous permettra alors d'apprendre et de progresser beaucoup plus vite qu'en cours collectif. Un moniteur spécifique pour vous qui vous accompagnera dans votre progression et dans vos objectifs.
   blockBGcolor: ''
+- template: cta
+  blockBGcolor: blanc
+  marge: 40
+  intro: Réservez votre prochain cours
+  headline: " de surf à Seignosse"
+  button:
+    text_button: Réservez ici
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/Surf/17567-surf-cours-prive-2h-matin-seignosse-morgan-davezac-morgan-davezac
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340583/website/Ind%C3%A9pendant/51668639_2264458490442592_3894814208168034304_n.png
   atl_text_image_01: Surfeur sur une vague à Seignosse
@@ -53,15 +63,8 @@ page_sections:
   - 'Pour qui : Tout niveau'
   - 3 personnes max
   - Venir avec son matériel ou le louer sur place
-- template: cta
-  blockBGcolor: blanc
-  marge: 40
-  intro: Réservez votre prochain cours
-  headline: " de surf à Seignosse"
-  button:
-    text_button: Réservez ici
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/Surf/17567-surf-cours-prive-2h-matin-seignosse-morgan-davezac-morgan-davezac
 titleHome: Réservez cours de surf à Seignosse
 conseil: ''
+listMother: ''
 
 ---

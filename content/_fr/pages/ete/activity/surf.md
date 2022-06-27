@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Surf
 titleHome: Surf
 activite: surf
@@ -23,6 +23,8 @@ image01_alt: Surfeur en train de surfer une vague dans un paysage avec des colli
   derrières.
 categorie: Surf
 page_sections:
+- template: heroBreadcrumb
+  title: Le surf, késako ?
 - template: textarea
   title: Le surf
   content: "Le surf, c'est le fait de glisser sur un vague en étant debout sur une

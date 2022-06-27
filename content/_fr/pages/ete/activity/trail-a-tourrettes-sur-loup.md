@@ -17,6 +17,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Réservez
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17593-trail-matin-tourrettes-sur-loup-ze-hero-yann-alarcon
 page_sections:
+- template: heroBreadcrumb
+  title: 'Trail à Tourrettes sur Loup : Débutant - Intérmédiaire'
 - template: textarea
   blockBGcolor: blanc
   title: Trail à Tourrettes sur Loup
@@ -29,9 +31,17 @@ page_sections:
     découvrant un magnifique environnement. On retrouve des sentiers techniques, des
     sentiers roulants, des monotraces ainsi que des chemins 4*4, de belles descentes,
     des crêtes et des passages en forêt.
+- template: cta
+  blockBGcolor: blanc
+  marge: 40
+  intro: Découvrez les Préalpes d'Azur en trail
+  headline: depuis le village de Tourrettes sur Loup
+  button:
+    text_button: Réservez ici
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17593-trail-matin-tourrettes-sur-loup-ze-hero-yann-alarcon
 - template: textarea
   blockBGcolor: blanc
-  title: 'Trail à Tourrettes sur Loup : Débutant - Intérmédiaire'
+  title: ''
   content: |-
     Depuis un parking situé à l'entrée du village, les sentiers partent directement en direction du domaine des Courmettes. Des petits singles en sous-bois qui grimperont jusqu'au pic des Courmettes où le terrain sera ici rocailleux. De là se trouve le Puy de Tourrettes et un peu loin de Naouri. Il y a une multitude de choix possible à faire et à découvrir parmi tous les sentiers présents.
 
@@ -47,14 +57,6 @@ page_sections:
 - template: liststyle01
   title: Derniers informations
   item: []
-- template: cta
-  blockBGcolor: blanc
-  marge: 40
-  intro: Découvrez les Préalpes d'Azur en trail
-  headline: depuis le village de Tourrettes sur Loup
-  button:
-    text_button: Réservez ici
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17593-trail-matin-tourrettes-sur-loup-ze-hero-yann-alarcon
 conseil: ''
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655715196/website/By%20Ze%20Hero%20Activity/IMG20211104075044.jpg
 image01_alt: Vue de Puy de Tourrettes

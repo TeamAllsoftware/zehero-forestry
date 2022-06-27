@@ -1,31 +1,27 @@
 ---
 columns:
-- col: Nos conseils
-  title-link: "/fr/ete/conseils"
+- col: Nos partenaires
+  title-link: ''
   link:
-  - subtitle: Comment bien s'équiper en trail ?
-    subhref: "/fr/ete/conseils/equipement-trail"
-  - subtitle: Comment choisir ses chaussures de trail ?
-    subhref: "/fr/ete/conseils/chaussures-trail"
-  - subtitle: Débuter le Trail running
-    subhref: "/fr/ete/conseils/comment-debuter-trail"
-- col: Nos activités
-  title-link: "/fr/ete/activites"
+  - subtitle: Cueilleur de sommets
+    subhref: "/fr/ete/partenaires/clement-sivera"
+  - subtitle: Sama Sama Surf School
+    subhref: "/fr/ete/partenaires/sama-sama-surf-school"
+  - subtitle: Morgan d'Avezac
+    subhref: "/fr/ete/partenaires/morgan-davezac-surf-seignosse"
+  - subtitle: 7 Aventures
+    subhref: "/fr/ete/partenaires/7-aventures"
+  - subtitle: Expérience vélo
+    subhref: "/fr/ete/partenaires/experience-velo"
+  - subtitle: Sorties de routes
+    subhref: "/fr/ete/partenaires/sorties-de-route"
+- col: Nos marques
+  title-link: ''
   link:
-  - subtitle: Trail running
-    subhref: "/fr/trail-running-alpes-maritimes-prealpes-azur"
-  - subtitle: VTT
-    subhref: "/fr/ete/activites/vtt"
-  - subtitle: Randonnée en montagne
-    subhref: "/fr/ete/activites/randonnee-montagne"
-  - subtitle: Traversée des Alpes à vélo
-    subhref: "/fr/ete/activites/traversee-des-alpes-en-velo"
-  - subtitle: Surf
-    subhref: "/fr/ete/activites/surf"
-  - subtitle: Canyoning
-    subhref: "/fr/ete/activites/canyoning"
-  - subtitle: Kayak
-    subhref: "/fr/ete/activites/kayak"
+  - subtitle: Instinct Trail
+    subhref: "/fr/marques/instinct-trail-inspired"
+  - subtitle: Altore
+    subhref: "/fr/marques/altore"
 - col: ZE HERO
   title-link: "#"
   link:

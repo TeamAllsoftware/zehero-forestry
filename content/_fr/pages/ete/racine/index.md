@@ -13,13 +13,13 @@ page_sections:
 - template: heroImageFull
   top: oui
   grosTitre: non
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654858995/website/summer/IMG_9194_01.jpg
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654858498/website/summer/IMG_9194.jpg
   gradient: grad
   headline:
     title: Le meilleur des activités outdoor
     color: white
   Button1:
-    title: Trouvez votre destination
+    title: Votre destination
     link: "/fr/destinations/trouver-destination-activites"
   Button2:
     title: Acheter du matériel
@@ -62,22 +62,22 @@ page_sections:
   Image1:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651037463/website/Altore/V%C3%AAtement%20/Bavella_rouge_bk_H_1100x.webp
     alt_text: Maillot de course de trail de la marque Altore
-    title: Acheter du matériel
-    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    title: Acheter du textile
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   Image2:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/11_l7a3ej.jpg
-    alt_text: Notre coach référent sur le trail en pleine action
-    title: Se préparer avec nos coachs
-    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/IMGL6944_web_900x900_uzb0te.jpg
+    alt_text: Sac Instinct Trail Inspired
+    title: Acheter vos sacs de trail
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648197165/website/assets/Personnages%20poses/Trail.png
-    alt_text: Personnage ZE HERO en tenue de trail
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196348/website/assets/Personnages%20poses/RandoHiver.png
+    alt_text: Personnage ZE HERO randonnée
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/Instinct_X_Mannequin_Front_View_1080x1080px_abvcdc.jpg
-    alt_text: Equipement de trail de la marque Instinct Trail
-    title: Acheter du matériel de trail
-    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail?ca_brand=Instinct+Trail+Inspired&ca_type_gender=all
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/speezone16R_xhbtls.jpg
+    alt_text: Ski d'occasion à vendre Prosneige
+    title: Acheter des skis d'occasions
+    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
 - template: video2colImgTxt
   blockBGcolor: gris
   image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643816166/website/summer/japheth-mast-Ls3yexjyRpk-unsplash_uxxrwp.jpg
