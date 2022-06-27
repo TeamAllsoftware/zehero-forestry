@@ -46,7 +46,7 @@ page_sections:
     ses rivières, le parc des Préalpes d'azur, ses lacs ainsi que le parc national
     du Mercantour.   \nUne région qui a beaucoup à offrir et dont vous ne pourrez
     vous ennuyer."
-  title: Une région de rêve
+  title: Les Alpes Maritimes
   blockBGcolor: ''
 - template: 2colimgtxt
   blockBGcolor: blanc
