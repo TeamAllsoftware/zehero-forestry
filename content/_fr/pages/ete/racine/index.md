@@ -53,8 +53,8 @@ page_sections:
   Image1:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651037463/website/Altore/V%C3%AAtement%20/Bavella_rouge_bk_H_1100x.webp
     alt_text: Maillot de course de trail de la marque Altore
-    title: Acheter du matériel
-    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+    title: Acheter du textile
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   Image2:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/11_l7a3ej.jpg
     alt_text: Notre coach référent sur le trail en pleine action
