@@ -68,6 +68,6 @@ page_sections:
 baseline: Montagnes et charme
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 listMother: 1
-conseil: ''
+conseil: spot
 
 ---
