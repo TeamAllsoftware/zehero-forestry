@@ -19,7 +19,7 @@ title: Les Alpes Maritimes et ses activités outdoor pour la saison d'été
 titleHome: Découvrir les Alpes-Maritimes
 activite: ''
 level: 1
-enHome: 1
+listMother: 1
 permalink: "/fr/ete/destinations/alpes-maritimes"
 redirect_from:
 - "/fr/ete/destination/alpes-maritimes"
@@ -152,7 +152,6 @@ page_sections:
   blockBGcolor: ''
 baseline: Mer et Montagne
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
-listMother: 1
 conseil: ''
 
 ---

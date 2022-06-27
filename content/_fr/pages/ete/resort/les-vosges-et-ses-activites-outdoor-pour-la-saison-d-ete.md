@@ -13,6 +13,8 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Les Vosges et ses activités outdoor pour la saison d'été
+level: 1
+listMother: 1
 page_title: Les Vosges, paradis vert
 baseline: Montagne de trésors
 resort_nameid: les_vosges

@@ -29,7 +29,7 @@ page_sections:
   service: resort
   filterCat: non
   filterLevel: 1
-  filterHome: 1
+  listMother: 1
   blockBGcolor: blanc
   headtitle:
     headline: Trouvez votre prochaine destination
