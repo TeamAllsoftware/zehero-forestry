@@ -9,7 +9,7 @@ topnav_color_text: light
 title: Tous nos destinations
 titleHome: Nos destinations d'activités
 activite: ''
-conseil: ''
+conseil: spot
 permalink: "/fr/destinations/trouver-destination-activites"
 meta-title: Trouvez votre prochaine destination outdoor
 meta-description: Trouvez votre prochaine destination pour réservez les meilleurs
