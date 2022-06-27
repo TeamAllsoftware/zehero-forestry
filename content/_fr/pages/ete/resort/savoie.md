@@ -1,10 +1,10 @@
 ---
-layout: layout_generic
+layout: layout_resort
 language: fr
 season: summer
 type: generic
 meta-title: Activités outdoor en Savoie pour l'été
-meta-description: découvrez toutes les activités outdoor dans le département savoyard.
+meta-description: Découvrez toutes les activités outdoor dans le département savoyard.
   La Savoie est un département composée d'une chaine montagneuse incroyable ainsi
   que des lacs.
 topnav_color_text: light
@@ -16,15 +16,15 @@ page_title: La Savoie
 resort_nameid: savoie
 resort_naming: La Savoie
 title: La Savoie et ses activités outdoor pour la saison d'été
-titleHome: Que faire en Savoie
+titleHome: Les activités en Savoie
 activite: ''
-level: 1
+level: 2
 enHome: 1
 permalink: "/fr/ete/destinations/savoie"
 redirect_from:
 - "/fr/ete/destination/savoie"
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646912721/website/summer/graziano-de-maio-FymvetW__R4-unsplash.jpg
-image01_alt: Du VTT descente dans les forêts et montagnes de savoie
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644398781/website/resorts/les%20menuires/Myrtilliers_et_vue_sur_station-Vincent_LOTTENBERG-30356-1600px_bbaihi.jpg
+image01_alt: station de ski les Menuires
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité en Savoie
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Savoie+%2873%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=12%2F12%2F2021
@@ -123,7 +123,7 @@ page_sections:
   blockBGcolor: ''
 baseline: Montagnes et charme
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
-listMother: 1
+listMother: 2
 conseil: ''
 
 ---
