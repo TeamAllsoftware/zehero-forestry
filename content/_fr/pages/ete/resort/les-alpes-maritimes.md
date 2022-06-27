@@ -66,6 +66,23 @@ page_sections:
     amis, c'est le département idéal. Vous pourrez alors retrouver de la randonnée
     aquatique, des canyonings parfaits pour s'initier, des gorges magnifiques, des
     canyonings techniques avec de belles ambiances.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216730/website/summer/IMG_20200723_153002.jpg
+  alt_text_for_image: Des traileurs sur la crètes du Cheiron dans les Alpes Maritimes
+  captiontitleuppercase: Nos activités dans les Alpes Maritimes
+  title: Le Trail dans les Alpes Maritimes
+  content: Tout comme le canyoning, les Alpes Maritimes sont un département où la
+    pratique du trail est idéale. Un département nature avec ses sentiers littoraux,
+    son parc naturel des Préalpes d'Azur, le massif de l'Esterel ainsi que le parc
+    national du Mercantour. Une terre unique où on y découvre un environnement protégé
+    et préservé. Nous proposons alors de nombreuse sortie de Trail pour débutants
+    et confirmé avec également la mise en place d'itinérance sur deux journées à travers
+    les Préalpes d'Azur pour un voyage extraordinaire.
+  button:
+    text_button: Nos offres de trail dans les Alpes Maritimes
+    href_button: "/fr/ete/activites/nos-sorties-trail"
+    alt_button: ''
 baseline: Mer et Montagne
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
 listMother: 1
