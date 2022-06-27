@@ -4,7 +4,7 @@ type: generic
 season: summer
 level: 2
 categorie: Vélo
-topnav_color_text: dark
+topnav_color_text: light
 activite: vtt
 meta-title: 'Réservez sortie de VTT au Grand Revard '
 meta-description: Réservez votre prochaine sortie de VTT et VTT électrique à Aix les
@@ -19,6 +19,8 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 page_sections:
+- template: heroBreadcrumb
+  title: Le VTT et VAE au Grand Revard et Aix les Bains
 - template: textarea
   blockBGcolor: blanc
   title: Le VTT et VAE au Grand Revard
@@ -30,12 +32,6 @@ page_sections:
     en famille, avec vos enfants, entre amis. Les sorties seront adaptés également
     au niveau et désir du groupe. Pour cela, les moniteurs de VTT vous proposeront
     différents circuits afin de les adaptés à toutes les envies et niveaux.
-- template: liststyle01
-  title: Plus d'information
-  item:
-  - 'Prix : 65€'
-  - 'Temps : 3h'
-  - 15 personnes max
 - template: cta
   blockBGcolor: blanc
   marge: 20
@@ -44,6 +40,12 @@ page_sections:
     text_button: Réservez ici
   intro: Réservez votre sortie de VTT
   headline: au Grand Revard
+- template: liststyle01
+  title: Plus d'information
+  item:
+  - 'Prix : 65€'
+  - 'Temps : 3h'
+  - 15 personnes max
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1653393324/website/Exp%C3%A9rience%20V%C3%A9lo/passage_%C3%A0_v%C3%A9lo_sur_la_passerelle_de_cusy_en_savoie..jpg
   atl_text_image_01: Deux personnes à VTT Savoie
@@ -54,5 +56,9 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1653393336/website/Exp%C3%A9rience%20V%C3%A9lo/circuit_dans_les_bauges_en_vtt_%C3%A9lectrique.jpg
   atl_text_image_04: Groupe de VTT en Savoie
   title: ''
+listMother: ''
+layout: layout_generic
+titleHome: ''
+conseil: ''
 
 ---
