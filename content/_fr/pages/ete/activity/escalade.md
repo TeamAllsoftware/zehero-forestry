@@ -1,16 +1,16 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 categorie: Eaux vives
-topnav_color_text: dark
+topnav_color_text: light
 meta-title: Escalade - Découvrir et grimper ses 1er voies
 meta-description: Découvrez l'escalade en grimpant vos 1er voies. Que ce soit en intérieur
   ou en extérieur profitez de découvrir cette activité physique, technique et qui
   vous fera découvrir la nature d'une autre façon. 
 title: Escalade
 activite: escalade
-level: 2
+level: 1
 permalink: "/fr/ete/activites/escalade"
 baseline: Grimpez, plaisir et nature
 engage: Découvrez l'escalade, un moment d'évasion
@@ -20,6 +20,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Réserver votre séance d'escalade
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Escalade&start-date=
 page_sections:
+- template: heroBreadcrumb
+  title: L'escalade, késako ?
 - template: textarea
   blockBGcolor: blanc
   title: L'escalade
@@ -44,10 +46,6 @@ page_sections:
     * Nos spots d'escalade
 
     Entre les salles d’escalade et les spots en extérieur, il existe un choix incroyable de lieu où grimper. En extérieur, il est important de regarder les topos d’un spot afin de vérifier les cotations et savoir si le lieu est aux normes et sécurisé. Dans le Sud de la France on retrouve énormément de spots tel qu’à Saint Jeannet, le Broc, Bonson, les gorges du Loup, la Turbie mais aussi les calanques, la Sainte Victoire. Orcières est également un spot très reconnu. En Savoie et Haute Savoie, vous trouverez de nombreux spots près de Chamonix, d’Annecy. L’Isère et ses nombreux massifs qui entourent Grenoble, offrent énormément de voies. En Ardèche, Drome, Aveyron vous pourrez également trouver de superbes voies d’escalade pour débuter.
-- template: imgWide
-  blockBGcolor: blanc
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833489/website/assets/Canyoning.png
-  alt_text_for_image: Matériel d'escalade
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278424/website/escalade/jonathan-j-castellon-FHNgTEuxyJA-unsplash.jpg
@@ -63,5 +61,9 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+type: generic
+listMother: 1
+titleHome: Escalade
+conseil: ''
 
 ---
