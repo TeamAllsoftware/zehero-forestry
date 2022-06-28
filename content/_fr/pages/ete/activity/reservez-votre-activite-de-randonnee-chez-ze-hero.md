@@ -30,17 +30,17 @@ page_sections:
     de sa faune sauvage, des troupeaux de vache et de moutons, à la découverte de
     cette flore incroyable. La montagne regorge de trésor et d'une beauté sans nom.
     \ \nDans les différents massifs de France, on retrouve des paysages différents
-    et uniques.\n\nNous vous proposons de partir dans les Vosges avec \" [**Sorties
+    et uniques.\n\nNous vous proposons de partir dans les **Vosges** avec \" [**Sorties
     de routes**](/fr/ete/partenaires/sorties-de-route) \" pour observer les chamois,
     bivouaquer en forêts en famille et découvrir la nature pour un réel bien être
-    au naturel.\n\nPartez ensuite dans les Cévennes, dans la Lozère et le Gard, avec
-    \" [**Cueilleur de sommets**](/fr/ete/partenaires/clement-sivera) \" qui vous
-    emmènera à la rencontre des vautours, sur des sentiers escarpés ou encore au sommet
-    du Mont Aigoual."
+    au naturel.\n\nPartez ensuite dans les **Cévennes**, dans la Lozère et le Gard,
+    avec \" [**Cueilleur de sommets**](/fr/ete/partenaires/clement-sivera) \" qui
+    vous emmènera à la rencontre des vautours, sur des sentiers escarpés ou encore
+    au sommet du Mont Aigoual."
 - template: listServices2
   blockBGcolor: blanc
   service: activity
-  filterLevel: 2
+  filterLevel: 1
   whatActivity: randonnee
 categorie: Randonnée
 engage: 'Partez découvrir et marcher en montagne '
