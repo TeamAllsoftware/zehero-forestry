@@ -37,11 +37,11 @@ page_sections:
 - template: cta
   blockBGcolor: blanc
   marge: 20
-  intro: Réservez votre sortie
-  headline: VTT et VAE
+  intro: Découvrez dès maintenant nos activités VTT
+  headline: Toutes nos offres
   button:
     href_button: "/fr/ete/activites/reserver-vtt"
-    text_button: Réservez ici
+    text_button: Nos offres
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108069/website/VTT%20AE/pexels-reinhard-bruckner-5328112.jpg
   atl_text_image_01: Des vaches et une personne faisant du VTT en montagne
