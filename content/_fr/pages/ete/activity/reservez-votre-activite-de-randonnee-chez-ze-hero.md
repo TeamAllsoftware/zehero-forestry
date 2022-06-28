@@ -18,7 +18,9 @@ baseline: Randonnée en montagne
 button_to_link_to_ze_hero_shop:
   button_text: Demande de réservation
   url_to_shop_zehero: https://www.ze-hero.com/fr/contact
-page_sections: []
+page_sections:
+- template: heroBreadcrumb
+  title: Nos offres de randonnée chez Ze Hero
 categorie: Randonnée
 engage: 'Partez découvrir et marcher en montagne '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654869688/website/summer/PXL_20220522_074713115.jpg
