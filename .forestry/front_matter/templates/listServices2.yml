@@ -52,3 +52,17 @@ fields:
       file: 
       path: 
   label: mere (1) ou fille (2)
+- name: listMother
+  type: select
+  default: 2
+  config:
+    required: true
+    options:
+    - 1
+    - 2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: parmi les pages affichées en home (1) ou non (2)

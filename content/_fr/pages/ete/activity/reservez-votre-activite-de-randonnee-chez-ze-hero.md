@@ -40,6 +40,7 @@ page_sections:
 - template: listServices2
   blockBGcolor: blanc
   service: activity
+  listMother: 2
   filterLevel: 2
   whatActivity: randonnee
 categorie: Randonnée
