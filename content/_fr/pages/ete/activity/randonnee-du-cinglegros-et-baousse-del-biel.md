@@ -21,7 +21,7 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: ''
 page_sections: []
 layout: layout_generic
-titleHome: ''
+titleHome: Randonnée du Cinglegros et Baousse del biel Lozère
 conseil: ''
 
 ---
