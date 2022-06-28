@@ -65,6 +65,6 @@ page_sections:
   - Venir avec son matériel ou le louer sur place
 titleHome: Réservez cours de surf à Seignosse
 conseil: ''
-listMother: ''
+listMother: 2
 
 ---

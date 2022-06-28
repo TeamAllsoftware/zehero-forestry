@@ -58,6 +58,6 @@ page_sections:
 layout: layout_generic
 titleHome: Les itinérances de Trail dans les Préalpes d'Azur
 conseil: ''
-listMother: ''
+listMother: 2
 
 ---

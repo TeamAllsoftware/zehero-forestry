@@ -39,6 +39,7 @@ page_sections:
   service: activity
   filterLevel: 2
   whatActivity: surf
+  listMother: 2
 layout: layout_generic
 titleHome: Réservez votre cours de surf chez Ze hero
 conseil: ''
