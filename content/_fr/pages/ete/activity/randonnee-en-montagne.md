@@ -32,6 +32,24 @@ page_sections:
 
     Être accompagné d'un guide, c'est randonner en apprenant tout sur ce qu'il vous entoure, c'est être guidé vers les plus beaux lieux.
   blockBGcolor: ''
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: Découvrez dès maintenant nos offres de randonnée
+  headline: Toutes nos offres
+  button:
+    text_button: Nos offres
+    href_button: "/fr/ete/activites/reserver-randonnee"
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1654869668/website/summer/PXL_20220523_082022339.jpg
+  atl_text_image_01: Personne faisant de la randonnée dans les Pyrénées
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216735/website/summer/IMG_20200730_110620.jpg
+  atl_text_image_02: Randonnée dans le Mercantour au Gélas
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216729/website/summer/IMG_20200730_101625.jpg
+  atl_text_image_03: Randonnée dans le Mercantour
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1646229802/website/summer/holly-mandarich-7MrXw_o7Eo4-unsplash_np8sxy.jpg
+  atl_text_image_04: Personnes faisant de la randonnée avec un chien
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de randonnées
