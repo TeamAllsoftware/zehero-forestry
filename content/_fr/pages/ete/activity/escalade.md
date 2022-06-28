@@ -31,6 +31,16 @@ page_sections:
     L'escalade est une activité pour tous et ouvert à tout le monde. Pour ceux qu'ils veulent s'initier à cette pratique, un guide vous accompagnera avec le matériel nécessaire et vous expliquera comment assurer et bien grimper.
 
     L'escalade est une activité outdoor qui vous permet de partager un moment dans des lieux naturels, avec vos amis ou votre famille, en se dépassant.
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278285/website/escalade/brook-anderson-gTQbZXL417Q-unsplash.jpg
+  atl_text_image_01: 'Corde d''escalade dans des dégaines '
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278364/website/escalade/tommy-lisbin-g5F4ZzeNEgY-unsplash.jpg
+  atl_text_image_02: Grimpeuse dans une fissure
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278424/website/escalade/jonathan-j-castellon-FHNgTEuxyJA-unsplash.jpg
+  atl_text_image_03: Salle d'escalade
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1654065065/website/Mont%20Blanc%20Escalade/rachel-GGlz-QSvL38-unsplash.jpg
+  atl_text_image_04: Enfant à l'escalade
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
@@ -61,16 +71,6 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-- template: imagegallery02
-  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278285/website/escalade/brook-anderson-gTQbZXL417Q-unsplash.jpg
-  atl_text_image_01: 'Corde d''escalade dans des dégaines '
-  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278364/website/escalade/tommy-lisbin-g5F4ZzeNEgY-unsplash.jpg
-  atl_text_image_02: Grimpeuse dans une fissure
-  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278424/website/escalade/jonathan-j-castellon-FHNgTEuxyJA-unsplash.jpg
-  atl_text_image_03: Salle d'escalade
-  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1654065065/website/Mont%20Blanc%20Escalade/rachel-GGlz-QSvL38-unsplash.jpg
-  atl_text_image_04: Enfant à l'escalade
-  title: ''
 type: generic
 listMother: 1
 titleHome: Escalade
