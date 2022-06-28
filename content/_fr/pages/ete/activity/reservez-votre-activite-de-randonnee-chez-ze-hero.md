@@ -21,6 +21,11 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de randonnée chez Ze Hero
+- template: listServices2
+  blockBGcolor: blanc
+  service: activity
+  filterLevel: 2
+  whatActivity: randonnee
 categorie: Randonnée
 engage: 'Partez découvrir et marcher en montagne '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654869688/website/summer/PXL_20220522_074713115.jpg
