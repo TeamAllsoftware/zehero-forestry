@@ -19,7 +19,7 @@ title: Les Alpes Maritimes et ses activités outdoor pour la saison d'été
 titleHome: Les activités dans les Alpes-Maritimes
 activite: ''
 level: 1
-listMother: 1
+listMother: 2
 permalink: "/fr/ete/destinations/alpes-maritimes"
 redirect_from:
 - "/fr/ete/destination/alpes-maritimes"
