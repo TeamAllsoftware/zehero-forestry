@@ -61,7 +61,7 @@ page_sections:
     alt_button: ''
 type: generic
 level: 1
-listMother: 1
+listMother: 2
 titleHome: Les activités dans les Vosges
 activite: ''
 conseil: ''
