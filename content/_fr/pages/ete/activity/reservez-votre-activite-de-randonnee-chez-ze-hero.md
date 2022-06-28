@@ -5,7 +5,7 @@ type: generic
 season: summer
 level: 1
 listMother: 2
-topnav_color_text: dark
+topnav_color_text: light
 title: Réservez votre activité de randonnée chez Ze Hero
 titleHome: Réservez votre activité de randonnée chez Ze Hero
 activite: randonnee
@@ -24,7 +24,7 @@ page_sections:
 - template: listServices2
   blockBGcolor: blanc
   service: activity
-  filterLevel: 2
+  filterLevel: 1
   whatActivity: randonnee
 categorie: Randonnée
 engage: 'Partez découvrir et marcher en montagne '
