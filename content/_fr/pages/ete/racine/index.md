@@ -25,6 +25,16 @@ page_sections:
     title: Acheter du matériel
     link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   button_2_more: false
+- template: textarea
+  title: Cliquez sur votre département de destination
+  content: |-
+    
+
+    <div class="mapcontainer">
+      <div class="map">
+          <span>Alternative content for the map</span>
+      </div>
+    </div>
 - template: listServices
   service: resort
   filterCat: non

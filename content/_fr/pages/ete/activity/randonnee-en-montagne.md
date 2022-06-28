@@ -7,7 +7,7 @@ topnav_color_text: light
 title: Randonner en montagne
 activite: randonnee
 level: 1
-enHome: 2
+listMother: 2
 permalink: "/fr/ete/activites/randonnee-montagne"
 redirect_from:
 - "/fr/ete/activite/randonnee-montagne"
