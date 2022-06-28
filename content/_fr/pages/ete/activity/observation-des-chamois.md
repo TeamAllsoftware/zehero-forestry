@@ -62,7 +62,7 @@ page_sections:
   - 'Durée : de 18h à 20h'
   - 'Lieu : col de la schlucht devant la brasserie ( Vosges )'
 layout: layout_generic
-titleHome: Observation des chamois dans les Vosges
+titleHome: Observation des chamois - Vosges
 conseil: ''
 
 ---
