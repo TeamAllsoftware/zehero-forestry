@@ -21,6 +21,22 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de randonnée chez Ze Hero
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos offres de randonnée en montagne
+  content: "Chez Ze Hero, nous vous proposons plusieurs offres de randonnée en montagne
+    dans de multiples lieux en France. Partez explorer les sommets, les forêts, les
+    prairies, les pâturages, les sentiers, les sommets et les lacs. Allez à la rencontre
+    de sa faune sauvage, des troupeaux de vache et de moutons, à la découverte de
+    cette flore incroyable. La montagne regorge de trésor et d'une beauté sans nom.
+    \ \nDans les différents massifs de France, on retrouve des paysages différents
+    et uniques.\n\nNous vous proposons de partir dans les Vosges avec \" [**Sorties
+    de routes**](/fr/ete/partenaires/sorties-de-route) \" pour observer les chamois,
+    bivouaquer en forêts en famille et découvrir la nature pour un réel bien être
+    au naturel.\n\nPartez ensuite dans les Cévennes, dans la Lozère et le Gard, avec
+    \" [**Cueilleur de sommets**](/fr/ete/partenaires/clement-sivera) \" qui vous
+    emmènera à la rencontre des vautours, sur des sentiers escarpés ou encore au sommet
+    du Mont Aigoual."
 - template: listServices2
   blockBGcolor: blanc
   service: activity
