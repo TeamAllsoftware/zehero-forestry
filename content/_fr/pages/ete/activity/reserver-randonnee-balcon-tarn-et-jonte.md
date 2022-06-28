@@ -10,7 +10,7 @@ activite: randonnee
 meta-title: Réserver randonnée balcon Tarn et Jonte
 meta-description: Réservez votre randonnée en Lozère et découvrez les balcons du Tarn
   et de la Jonte et observez les vautours
-title: Réserver randonnée balcons Tarn et Jonte
+title: Randonnée balcons Tarn et Jonte
 permalink: "/fr/ete/activtes/reserver-randonner-tarn-jonte"
 baseline: Randonnée en Lozère
 engage: Découvrez les balcons du Tarn et de la Jonte
@@ -55,7 +55,7 @@ page_sections:
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782614/website/Partenaires/Cueilleur%20de%20sommet/Entre_Tarn_et_Jonte_2.jpg
   alt_text_for_image: Balcon Tarn et Jonte
 layout: layout_generic
-titleHome: Réserver randonnée balcons Tarn et Jonte - Lozère
+titleHome: Randonnée balcons Tarn et Jonte - Lozère
 conseil: ''
 
 ---
