@@ -39,11 +39,6 @@ page_sections:
   button:
     text_button: 'Réservez ici '
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor/randonnee/17605-sortie-bivouac-sorties-de-route
-- template: imgWideInBox
-  blockBGcolor: blanc
-  imageList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654870383/website/Partenaires/Sorties%20de%20route/8ABD909F-AF45-448A-BA87-AF4D2E04C974_1_201_a.jpg
-    image_alt: Feu de camp
 - template: textarea
   blockBGcolor: blanc
   content: |-
@@ -57,6 +52,10 @@ page_sections:
   - 'Durée : de 17h à 9h '
   - 'Prix : 66€'
   - 'Lieu : Le Rouge-Gazon à Saint Maurice sur Moselle ( Vosges )'
+- template: imgWide
+  blockBGcolor: blanc
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654870383/website/Partenaires/Sorties%20de%20route/8ABD909F-AF45-448A-BA87-AF4D2E04C974_1_201_a.jpg
+  alt_text_for_image: Bivouac en montagne
 layout: layout_generic
 titleHome: Sortie Bivouac - Vosges
 conseil: ''
