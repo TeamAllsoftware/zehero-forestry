@@ -55,7 +55,7 @@ page_sections:
   - 'Durée : 9h30 à 12h'
   - 'Lieu : l’Ardoise verte à Epinal'
 layout: layout_generic
-titleHome: Randonnée et sylvothérapie dans les Vosges
+titleHome: Randonnée et sylvothérapie - Vosges
 conseil: ''
 
 ---
