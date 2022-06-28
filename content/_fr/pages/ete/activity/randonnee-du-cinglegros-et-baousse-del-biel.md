@@ -54,7 +54,7 @@ page_sections:
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650868138/website/Partenaires/Cueilleur%20de%20sommet/Pas_de_l_Arc_-_Cinglegros.jpg
   alt_text_for_image: Pas de l'Arc Cinglegros
 layout: layout_generic
-titleHome: Randonnée du Cinglegros et Baousse del biel Lozère
+titleHome: Randonnée du Cinglegros et Baousse del biel  - Lozère
 conseil: ''
 
 ---
