@@ -42,8 +42,6 @@ page_sections:
 - template: imgWideInBox
   blockBGcolor: blanc
   imageList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655284943/website/Partenaires/Sorties%20de%20route/208881350_6496237057068390_4504530441867068567_n.jpg
-    image_alt: Bivouac et feu de camp
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654870383/website/Partenaires/Sorties%20de%20route/8ABD909F-AF45-448A-BA87-AF4D2E04C974_1_201_a.jpg
     image_alt: Feu de camp
 - template: textarea
