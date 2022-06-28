@@ -18,6 +18,8 @@ menu:
       href: "/fr/ete/destinations/haute-savoie"
     - title: Savoie
       href: "/fr/ete/destinations/savoie"
+    - title: Vosges
+      href: "/fr/ete/destinations/les-vosges"
   column-02:
   - nested: Toutes les activités
     menu-items:
