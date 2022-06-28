@@ -41,10 +41,10 @@ page_sections:
     une randonnée aquatique avec quelques sauts et glissades en toboggan."
   blockBGcolor: ''
 - template: cta
-  intro: Réservez dès maintenant vos activités canyoning
+  intro: Découvrez dès maintenant nos activités canyoning
   headline: Toutes nos offres
   button:
-    text_button: Réserver maintenant >
+    text_button: Nos offres
     href_button: "/fr/ete/activites/nos-canyonings"
   blockBGcolor: blanc
   marge: 20
