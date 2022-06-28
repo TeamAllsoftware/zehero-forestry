@@ -26,23 +26,15 @@ page_sections:
     link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   button_2_more: false
 - template: textarea
-  title: Cliquez sur votre département de destination
-  content: |-
-    <br>
-    <div class="row align-items-center justify-content-center">
-    <div class="col-11 col-xl-4 col-md-6 md-margin-30px-bottom">
-      <p class="text-large line-height-38px">Nous pouvons mettre ici un texte qui expliquerait cette carte</p>
-    </div>
-      <div class="col-11 col-xl-6 offset-xl-1 col-md-6 wow animate__fadeIn" data-wow-delay="0.2s">
-          
-        <div class="mapcontainer">
-          <div class="map">
-              <span>Alternative content for the map</span>
-          </div>
-        </div>     
-      </div>
-    </div>
-
+  title: Choississez votre département de destination
+  content: "<br> <div class=\"row align-items-center justify-content-center\"> <div
+    class=\"col-11 col-xl-4 col-md-6 md-margin-30px-bottom\"> <p class=\"text-large
+    line-height-38px\">Découvrez toutes nos offres et toutes nos activités Ze Hero.
+    Choisissez votre destination et cliquez pour découvrir les activités. Nous sommes
+    présent dans les départements colorés en vert. </p> </div> <div class=\"col-11
+    col-xl-6 offset-xl-1 col-md-6 wow animate__fadeIn\" data-wow-delay=\"0.2s\">\n\n
+    \   <div class=\"mapcontainer\">\n      <div class=\"map\">\n          <span>Alternative
+    content for the map</span>\n      </div>\n    </div>     \n\n</div>\n</div>"
 - template: listServices
   service: resort
   filterCat: non
