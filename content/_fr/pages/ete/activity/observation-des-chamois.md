@@ -40,11 +40,6 @@ page_sections:
     text_button: Réserver ici
   intro: Partez observer les chamois
   headline: dans les Voges
-- template: imgWideInBox
-  blockBGcolor: blanc
-  imageList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654870471/website/Partenaires/Sorties%20de%20route/fabien-martin-fnpdR-warXQ-unsplash.jpg
-    image_alt: Horde de chamois
 - template: textarea
   blockBGcolor: blanc
   content: "Vous partirez en fin de journée, voir même au crépuscule, à la rencontre
@@ -61,6 +56,11 @@ page_sections:
   - 'Prix : 28€'
   - 'Durée : de 18h à 20h'
   - 'Lieu : col de la schlucht devant la brasserie ( Vosges )'
+- template: imgWideInBox
+  blockBGcolor: blanc
+  imageList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654870471/website/Partenaires/Sorties%20de%20route/fabien-martin-fnpdR-warXQ-unsplash.jpg
+    image_alt: Horde de chamois
 layout: layout_generic
 titleHome: Observation des chamois - Vosges
 conseil: ''
