@@ -45,8 +45,8 @@ page_sections:
   title: Le trail running
   blockBGcolor: ''
 - template: cta
-  intro: Découvrez dès maintenant nos offres de trail
-  headline: nos offres
+  intro: Découvrez dès maintenant nos activités trails
+  headline: Toutes nos offres
   button:
     href_button: "/fr/ete/activites/nos-sorties-trail"
     text_button: Nos offres de trail
