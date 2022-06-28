@@ -40,7 +40,7 @@ page_sections:
 - template: listServices2
   blockBGcolor: blanc
   service: activity
-  filterLevel: 1
+  filterLevel: 2
   whatActivity: randonnee
 categorie: Randonnée
 engage: 'Partez découvrir et marcher en montagne '
