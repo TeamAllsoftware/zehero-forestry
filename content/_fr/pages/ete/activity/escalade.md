@@ -61,6 +61,16 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278285/website/escalade/brook-anderson-gTQbZXL417Q-unsplash.jpg
+  atl_text_image_01: 'Corde d''escalade dans des dégaines '
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278364/website/escalade/tommy-lisbin-g5F4ZzeNEgY-unsplash.jpg
+  atl_text_image_02: Grimpeuse dans une fissure
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278424/website/escalade/jonathan-j-castellon-FHNgTEuxyJA-unsplash.jpg
+  atl_text_image_03: Salle d'escalade
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1654065065/website/Mont%20Blanc%20Escalade/rachel-GGlz-QSvL38-unsplash.jpg
+  atl_text_image_04: Enfant à l'escalade
+  title: ''
 type: generic
 listMother: 1
 titleHome: Escalade
