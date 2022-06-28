@@ -28,13 +28,21 @@ page_sections:
 - template: textarea
   title: Cliquez sur votre département de destination
   content: |-
-    
-
-    <div class="mapcontainer">
-      <div class="map">
-          <span>Alternative content for the map</span>
+    <br>
+    <div class="row align-items-center justify-content-center">
+    <div class="col-11 col-xl-4 col-md-6 md-margin-30px-bottom">
+      <p class="text-large line-height-38px">Nous pouvons mettre ici un texte qui expliquerait cette carte</p>
+    </div>
+      <div class="col-11 col-xl-6 offset-xl-1 col-md-6 wow animate__fadeIn" data-wow-delay="0.2s">
+          
+        <div class="mapcontainer">
+          <div class="map">
+              <span>Alternative content for the map</span>
+          </div>
+        </div>     
       </div>
     </div>
+
 - template: listServices
   service: resort
   filterCat: non
