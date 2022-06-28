@@ -1,9 +1,9 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Randonner en montagne
 activite: randonnee
 level: 1
@@ -107,5 +107,7 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 listMother: 1
+titleHome: La randonnée
+conseil: ''
 
 ---
