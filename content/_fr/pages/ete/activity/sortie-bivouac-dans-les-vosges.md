@@ -58,7 +58,7 @@ page_sections:
   - 'Prix : 66€'
   - 'Lieu : Le Rouge-Gazon à Saint Maurice sur Moselle ( Vosges )'
 layout: layout_generic
-titleHome: Sortie Bivouac dans les Vosges
+titleHome: Sortie Bivouac - Vosges
 conseil: ''
 
 ---
