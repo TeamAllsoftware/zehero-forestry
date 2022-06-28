@@ -28,8 +28,11 @@ page_sections:
     et un environnement d'exception en Lozère. Les balcons du Tarn et de la Jonte
     sont des lieux classés et emblématique par leurs falaises et la beauté du spectacle
     naturel. Découvrez alors une géologie particulière, des roches abruptes. Vous
-    évoluerez parfois sur des sentiers presque vertigineux.    \nPlongez dans un décors
-    majestueux et contemplez les vautours qui voleront aussi de vous tête. "
+    évoluerez parfois sur des sentiers presque vertigineux.  \nPlongez dans un décors
+    majestueux et contemplez les vautours qui voleront aussi de vous tête.\n\nSous
+    le thème de la géologie, de l'observation des vautours et des grands panoramas,
+    votre accompagnateur \" [**Cueilleur de sommets**](/fr/ete/partenaires/clement-sivera)
+    \" vous apportera toutes ces connaissances de ce milieu."
   title: Randonnée dans les gorges du Tarn et de la Jonte
 - template: cta
   blockBGcolor: blanc
@@ -42,6 +45,7 @@ page_sections:
 - template: liststyle01
   title: Dernières informations
   item:
+  - 'Parcours : 15km à 20km pour 1000D+'
   - Venir en tenue de sport, chaussures de marche + eau et pique nique
   - 'Prix : 40€'
   - 'Durée : 8h'
