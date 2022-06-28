@@ -5,7 +5,7 @@ season: summer
 level: 2
 listMother: ''
 categorie: Randonnée
-topnav_color_text: dark
+topnav_color_text: light
 activite: randonnee
 meta-title: Réservez sortie Bivouac dans les Vosges
 meta-description: Réservez votre sortie Bivouac dans les Vosges en famille et dormez
@@ -22,5 +22,8 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Sortie Bivouac dans les Vosges - Famille
+layout: layout_generic
+titleHome: Sortie Bivouac dans les Vosges
+conseil: ''
 
 ---
