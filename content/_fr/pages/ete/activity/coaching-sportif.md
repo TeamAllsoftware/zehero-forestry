@@ -6,7 +6,7 @@ redirect_from:
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Coaching sportif
 activite: coaching
 level: 1
@@ -63,10 +63,6 @@ page_sections:
     * Le E-coaching
 
     On retrouve également le coaching à distance, le e-coaching. Cela permet d'être suivi par un coach à distance qui, par le biais d'application de coaching ou d'Excel, mettra en place vos séances quotidiennes personnalisés. Le coach fera des retours sur chacune de vos séances.
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649236206/website/assets/Recadr%C3%A9es/coaching.png
-  alt_text_for_image: Matériel de coaching
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293325/website/Coaching/G0180403_1638033833951-min_eyxwxy.jpg
@@ -94,5 +90,6 @@ engage: Une préparation pour affronter toutes les situations
 button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
   button_text: Réservez votre coaching sportif
+titleHome: Coaching sportif
 
 ---
