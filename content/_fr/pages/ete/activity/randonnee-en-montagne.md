@@ -21,6 +21,8 @@ image01_alt: Groupe de marcheurs et de randonneurs en montagne qui marchent sur 
   sentier
 categorie: Randonnée
 page_sections:
+- template: heroBreadcrumb
+  title: La randonnée, késako ?
 - template: textarea
   title: La randonnée en montagne
   content: |-
@@ -71,10 +73,6 @@ page_sections:
     Alpes Maritimes à travers les Préalpes d'Azur et le Mercantour. Mais nous avons
     également sélectionné des itinéraires incroyables en Savoie, en Haute Savoie,
     dans les Cévennes, la Lozère ainsi que les Vosges."
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195884/website/assets/Recadr%C3%A9es/randonnee.png
-  alt_text_for_image: Equipement randonnée
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646301523/website/summer/lucas-favre-GzcI_rMNclY-unsplash_rwravw.jpg
