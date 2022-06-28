@@ -3,7 +3,7 @@ language: fr
 type: generic
 season: summer
 level: 2
-listMother: ''
+listMother: 2
 categorie: Randonnée
 topnav_color_text: dark
 activite: randonnee
