@@ -48,7 +48,7 @@ page_sections:
   - 'Prix : 20€'
   - 'Durée : 3h30'
   - 'Lieu : La Bourgarie 48210'
-  title: ''
+  title: Dernières informations
 - template: imgWide
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650868138/website/Partenaires/Cueilleur%20de%20sommet/Pas_de_l_Arc_-_Cinglegros.jpg
