@@ -45,8 +45,8 @@ page_sections:
   button:
     href_button: "/fr/ete/activites/reserver-cours-surf"
     text_button: Nos offres
-  intro: Découvrez dès maintenant nos cours de surf
-  headline: dans les Landes et en Loire Atlantique
+  intro: Découvrez dès maintenant nos activités surf
+  headline: Toutes nos offres
   blockBGcolor: blanc
   marge: 20
 - template: textarea
