@@ -30,7 +30,7 @@ page_sections:
   title: Le Trail à Bar sur Loup
 - template: cta
   blockBGcolor: blanc
-  marge: 40
+  marge: 20
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17283-trail-bar-sur-loup-decouverte-yann-alarcon
     text_button: Réservez
