@@ -35,11 +35,6 @@ page_sections:
     calmer votre esprit et écouter le calme de la forêt. Une pause bien-être.  \nNotre
     partenaire \" [**Sorties de routes**](/fr/ete/partenaires/sorties-de-route) \"
     vous fera découvrir les Vosges, ses forêts, son calme et sa beauté."
-- template: imgWideInBox
-  blockBGcolor: blanc
-  imageList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655284949/website/Partenaires/Sorties%20de%20route/101063924_4563986853626763_4727020776681635840_n.jpg
-    image_alt: Randonnée dans les Vosges
 - template: cta
   blockBGcolor: blanc
   marge: 20
@@ -54,6 +49,11 @@ page_sections:
   - 'Prix : 33€'
   - 'Durée : 9h30 à 12h'
   - 'Lieu : l’Ardoise verte à Epinal'
+- template: imgWideInBox
+  blockBGcolor: blanc
+  imageList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655284949/website/Partenaires/Sorties%20de%20route/101063924_4563986853626763_4727020776681635840_n.jpg
+    image_alt: Randonnée dans les Vosges
 layout: layout_generic
 titleHome: Randonnée et sylvothérapie - Vosges
 conseil: ''
