@@ -29,6 +29,8 @@ menu:
       href: "/fr/ete/activites/vtt"
     - title: Surf
       href: "/fr/ete/activites/surf"
+    - title: Randonnée
+      href: "/fr/ete/activites/randonnee-montagne"
 - title: Acheter
   id: eshop
   title-link: 'Acheter '
