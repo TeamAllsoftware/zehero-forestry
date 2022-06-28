@@ -8,7 +8,7 @@ meta-title: Réservez votre activité de VTT et VTT électrique en Savoie
 meta-description: Découvrez et réservez votre activité de VTT et VTT électrique dans
   la Savoie et en Haute Savoie. Partez découvrir les montagnes à VTT pour profiter
   de la nature et des sensations fortes
-title: Réservez votre activité à VTT chez Ze Hero
+title: Réservez votre activité de VTT chez Ze Hero
 permalink: "/fr/ete/activites/reserver-vtt"
 baseline: Nos offres de VTT chez Ze Hero
 engage: Partez rouler et profiter à VTT en montagne
@@ -39,7 +39,7 @@ page_sections:
 type: generic
 activite: vtt
 level: 1
-titleHome: Réservez votre activité à VTT chez Ze Hero
+titleHome: Réservez votre activité de VTT chez Ze Hero
 conseil: ''
 listMother: 2
 
