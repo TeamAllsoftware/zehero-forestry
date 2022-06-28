@@ -5,7 +5,7 @@ type: generic
 season: summer
 level: 1
 listMother: 2
-topnav_color_text: light
+topnav_color_text: dark
 title: Réservez votre activité de randonnée chez Ze Hero
 titleHome: Réservez votre activité de randonnée chez Ze Hero
 activite: randonnee
@@ -16,8 +16,12 @@ meta-description: Découvrez et réservez vos sorties de randonnée en montagne 
   découvrir la faune, les paysages et son envirronement.
 baseline: Randonnée en montagne
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Demande de réservation
+  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
 page_sections: []
+categorie: Randonnée
+engage: 'Partez découvrir et marcher en montagne '
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654869688/website/summer/PXL_20220522_074713115.jpg
+image01_alt: Des personnes faisant de la randonnée en montagne
 
 ---
