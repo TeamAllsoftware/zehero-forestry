@@ -31,16 +31,16 @@ page_sections:
     lieu idéal pour s'imprégner de la culture surf et de profiter de prendre cours,
     quel que soit son niveau.\n\nAvec Ze Hero, nous vous proposons des cours à **Seignosse**
     avec [**Morgan d'Avezac**](/fr/ete/partenaires/morgan-davezac-surf-seignosse),
-    un entraîneur de surf qui a été longuement à haut niveau. \n\nVous pourrez également
+    un entraîneur de surf qui a été longuement à haut niveau.\n\nVous pourrez également
     surfer et prendre des cours de surf à **Mimizan** avec l'école [**Sama Sama Surf
     School**](/fr/ete/partenaires/sama-sama-surf-school). Cette école se trouve aussi
-    à **Porge**. \n\nPlus haut sur la côte, en Loire Atlantique, partez surfer à **St
-    Brévins les Pins**, avec l'école de surf **Atlantic Surf School**. Un spot parfait
+    à **Porge**.\n\nPlus haut sur la côte, en Loire Atlantique, partez surfer à **St
+    Brévin les Pins**, avec l'école de surf **Atlantic Surf School**. Un spot parfait
     pour s'initier au surf et avoir des vagues plus faciles et régulières que dans
-    les Landes. \n\nVous pourrez louer votre planche et combinaison directement sur
+    les Landes.\n\nVous pourrez louer votre planche et combinaison directement sur
     la plage à Seignosse puis vous mettre à l'eau.  \nN'attendez plus, réservez un
     cours de surf à Seignosse, un cours de surf à Mimizan ou Porge avec Sama Sama
-    Surf School ou encore à St Brévins les Pins avec Atlantic Surf School."
+    Surf School ou encore à St Brévin les Pins avec Atlantic Surf School."
 - template: listServices2
   blockBGcolor: blanc
   service: activity
