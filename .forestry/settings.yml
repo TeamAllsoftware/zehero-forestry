@@ -24,7 +24,6 @@ sections:
 - type: document
   path: _includes/structure/map.html
   label: Carte
-  match: "**/*"
 - type: heading
   label: FRENCH
 - type: directory
