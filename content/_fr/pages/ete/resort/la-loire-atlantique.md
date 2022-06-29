@@ -56,8 +56,8 @@ page_sections:
   captiontitleuppercase: Nos activités en Loire Atlantique
   title: Le surf en Loire Atlantique
   button:
-    text_button: ''
-    href_button: ''
+    text_button: Nos offres de surf en Loire Atlantique
+    href_button: "/fr/ete/activites/reserver-cours-surf"
     alt_button: ''
   alt_text_for_image: Enfant faisant du surf en Loire Atlantique à St Brévin les Pins
   blockBGcolor: ''
