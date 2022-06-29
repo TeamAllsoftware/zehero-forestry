@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: summer
 code_postal: 48,Lozère,Occitanie
@@ -14,8 +14,8 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: La Lozère et ses activités outdoor pour la saison d'été
-activite: sudouest
-level: 2
+activite: ''
+level: 1
 enHome: 2
 page_title: La Lozère, Terre d'aventure
 baseline: Sites d'exception
@@ -114,5 +114,8 @@ page_sections:
     La Lozère est préservée et protégé, peu peuplé, elle offre une infinité de choix d'activité outdoor variée et unique. Ces grands espaces, son histoire, sa beauté en fait un département où votre séjour vous fera vibrer de sensations et d'émotions. Une terre d'une nature exceptionnelle pour le plaisir de tous.
   title: ''
 type: generic
+listMother: 2
+titleHome: Les activités en Lozère
+conseil: ''
 
 ---
