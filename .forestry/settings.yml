@@ -21,6 +21,10 @@ sections:
   path: _data/codepostaux.yml
   label: Code postaux
   read_only: true
+- type: document
+  path: _includes/structure/map.html
+  label: Carte
+  match: "**/*"
 - type: heading
   label: FRENCH
 - type: directory
