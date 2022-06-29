@@ -19,8 +19,8 @@ title: La Loire Atlantique et ses activités outdoor pour la saison d'été
 permalink: "/fr/ete/destinations/loire-atlantique"
 redirect_from:
 - "/fr/ete/destination/loire-atlantique"
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642758793/website/summer/lechat-valentin-Ho17T_ZBJ5k-unsplash_xcbczl.jpg
-image01_alt: Surfeur en train de surfer une vague en bretagne sur une Longboard
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1656490025/website/resorts/St%20Br%C3%A9vin%20les%20pins/murilo-silva-S9kTO57hQ9I-unsplash.jpg
+image01_alt: Plage de la Loire Atlantique
 button_to_link_to_ze_hero_shop:
   button_text: Découvrez toutes les activités en Loire Atlantique
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
@@ -35,6 +35,7 @@ page_sections:
 
     Avec plus de 130 km de côtes, 6200 hectares d’espaces naturels, 2000 km d’itinéraires vélo et un riche patrimoine, la Loire-Atlantique est le 7e département **touristique** de France. Un territoire qui promeut le tourisme écologique et durable et le développement d’une offre d’hébergement et de loisirs innovants.
   title: 'Loire-Atlantique : La Bretagne, ses plages et l’Océan Atlantique'
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642758789/website/summer/geoffroy-hauwen-fmtqbNMB8ho-unsplash_n64wm7.jpg
   content: La Loire-Atlantique présente un merveilleux littoral, alternant **plages**
@@ -53,9 +54,10 @@ page_sections:
     href_button: ''
     alt_button: ''
   alt_text_for_image: 'Personne faisant du Kitesurf dans l''océan dans la Loire Atlantique '
+  blockBGcolor: ''
 baseline: Littoral et nature
 code_postal: 44,Loire-Atlantique,Pays de la Loire
 level: 1
-listMother: 1
+listMother: 2
 
 ---
