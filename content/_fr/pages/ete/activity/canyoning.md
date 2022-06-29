@@ -90,7 +90,7 @@ page_sections:
     * Casque pour se protéger
     * Des chaussures de sports avec des crampons
 
-    Pour plus d'information, découvrez notre page conseils : [**S'équiper en canyoning**](https://www.ze-hero.com/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes)
+    Pour plus d'information, découvrez notre page conseils : [**S'équiper en canyoning**](/fr/ete/conseils/equipement-canyoning)
   title: ''
 - template: textarea
   blockBGcolor: blanc
