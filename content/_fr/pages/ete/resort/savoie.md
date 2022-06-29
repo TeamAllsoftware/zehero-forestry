@@ -67,7 +67,7 @@ page_sections:
     Revard avec Expérience Vélo.\n\nPlaisir, partage et émotion."
 - template: listServices2
   blockBGcolor: gris
-  service: activity
+  service: resort
   filterLevel: 1
   listMother: 2
   whatActivity: savoie
