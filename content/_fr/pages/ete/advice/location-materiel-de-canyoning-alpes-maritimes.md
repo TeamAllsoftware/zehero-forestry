@@ -37,7 +37,13 @@ page_sections:
     physique, d'engagement ainsi que de découverte d'une nature d'exception.\n\nAvec
     Ze Hero, nous vous offrons la possibilité de louer votre matériel de canyoning
     directement à Bar sur Loup. De plus, Le Bar sur Loup, est situé à 10mn de départ
-    du canyoning des Gorges du Loup, du Gours du Ray."
+    du canyoning des Gorges du Loup, du Gours du Ray.  \nVous profiterez de la location
+    à la journée afin de profiter pleinement de vos randonnées aquatiques et descentes
+    des différents canyons des Alpes Maritimes. Le matériel de canyonings loué devra
+    cependant être ramené ensuite à Le Bar sur Loup.  \nVous pourrez réaliser les
+    différents canyonings tel que le Gours du Ray, les gorges du Loup, le canyoning
+    de Courmes. Sinon, il faudra aller plus loin en direction du Mercantour pour ceux
+    de la Tinée, de la Vésubie, de la Roya etc."
 - template: liststyle01
   title: La location comprend
   item:
@@ -62,15 +68,6 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-- template: textarea
-  blockBGcolor: blanc
-  content: "Vous profiterez de la location à la journée afin de profiter pleinement
-    de vos randonnées aquatiques et descentes des différents canyons des Alpes Maritimes.
-    Le matériel de canyonings loué devra cependant être ramené ensuite à Le Bar sur
-    Loup.  \nVous pourrez réaliser les différents canyonings tel que le Gours du Ray,
-    les gorges du Loup, le canyoning de Courmes. Sinon, il faudra aller plus loin
-    en direction du Mercantour pour ceux de la Tinée, de la Vésubie, de la Roya etc."
-  title: ''
 listMother: 2
 titleHome: Louer votre matériel de canyoning dans les Alpes Maritimes
 baseline: Louer votre matériel de canyoning
