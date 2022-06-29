@@ -25,12 +25,12 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Sortie en bivouac dans les forêts des Vosges
-  content: "Avec notre partenaire [**Sorties de routes**](/fr/ete/partenaires/sorties-de-route)
+  content: Avec notre partenaire [**Sorties de routes**](/fr/ete/partenaires/sorties-de-route)
     , partez faire l'expérience d'une nuit en extérieur en famille ou entre amis.
     Découvrez les forêts Vosgienne, écoutez les bruits des animaux et observez les
     étoiles avec cette sortie bivouac unique. Voyez la vie en Vosges et partager en
     moment unique en famille autour d'un feu de camp, d'une belle nuit étoilé. Retrouvez
-    l'essentielle pour vous détendre et profiter de l'instant présent."
+    l'essentielle pour vous détendre et profiter de l'instant présent.
 - template: cta
   blockBGcolor: blanc
   marge: 20
@@ -54,9 +54,7 @@ page_sections:
   - 'Lieu : Le Rouge-Gazon à Saint Maurice sur Moselle ( Vosges )'
 - template: imgWideInBox
   blockBGcolor: blanc
-  imageList:
-    - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655101383/website/Partenaires/Sorties%20de%20route/hichem-meghachou-7I-Rj_E9ihI-unsplash.jpg
-    - image_alt: Bivouac en montagne
+  imageList: []
 layout: layout_generic
 titleHome: Sortie Bivouac - Vosges
 conseil: ''
