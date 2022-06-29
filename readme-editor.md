@@ -19,6 +19,32 @@ Once you have been introduce to our system, you might want to use the block comp
 
 ## LASTEST UPDATES
 
+#### update 29.06.2022 : Gérer les départements de la carte
+
+La carte se gère depuis la page "carte" dans le menu. C'est une page de code assez simple à gérer.
+
+A partir de la ligne 39, chaque département est présenté, et encodé, comme suis:
+
+    {
+    	"department-59": {
+         value: "0",
+         href: "#",
+         tooltip: {content: "<span style=\"font-weight:bold;\">Nord (59)</span>"}
+       },
+
+Tu peux modifier les 2 champs suivants c'est tout :
+
+* value = "0" le département est gris, "1" le département est vert
+* href = "#" le département n'a pas de lien, ou alors tu colles le lien vers la page (ex: "/fr/ete/destinations/savoie")
+
+#### update 29.06.2022 : Ajouter la carte dans une page
+
+un "snippet" pour coller automatiquement le code qui affiche la carte. TU peux prendre ce snippet dans le composant "TEXT PARAGRAPH WITH OPTION TITLE"
+
+![](https://res.cloudinary.com/deddrj0yb/image/upload/v1656493223/website/admin%20forestry/snippet-carte.png)
+
+et bien sur tu peux changer le texte à afficher dans la colonne de gauche
+
 #### update 11.03.2022 : Add new components
 
 * video2colImgTxt
