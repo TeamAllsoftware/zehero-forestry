@@ -25,6 +25,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Découvrez toutes les activités en Loire Atlantique
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
+- template: heroBreadcrumb
+  title: Nos activités en Loire Atlantique
 - template: textarea
   content: "Le département de **Loire-Atlantique**, c'est des sentiers qui vous mèneront
     dans des terres contrastées : landes granitiques et fermes aux toits d’ardoise,
@@ -39,7 +41,7 @@ page_sections:
     et de loisirs innovants.\n\nC'est un département où vous pourrez pratiquer le
     surf et de nombreuses autre activités dans l'océan.\n\nVoici nos activités outdoors
     en Loire Atlantique :"
-  title: 'Loire-Atlantique : La Bretagne, ses plages et l’Océan Atlantique'
+  title: 'La Loire Atlantique '
   blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7885_dljybe.jpg
