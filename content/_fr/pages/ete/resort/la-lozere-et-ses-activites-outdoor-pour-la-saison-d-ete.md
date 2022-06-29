@@ -38,6 +38,26 @@ page_sections:
 
     La Lozère est une destination parfaite pour toutes les activité outdoor. Entre ses parcs, ses sites naturels, ses rivières et ses lacs, vous trouverez un choix varié de terrain de jeux et de découverte pour toutes vos activités outdoor.
   title: La Lozère
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782603/website/Partenaires/Cueilleur%20de%20sommet/Entre_Tarn_et_Jonte_1.jpg
+  alt_text_for_image: Entre Tarn et Jonte en Lozère
+  captiontitleuppercase: Nos activités en Lozère
+  title: La randonnée en Lozère
+  content: Avec Ze Hero, nous vous proposons de partir randonner en Lozère avec notre
+    partenaire " [**Cueilleur de sommets**](/fr/ete/partenaires/clement-sivera) ".
+    Cet accompagnateur de montagne vous emmènera dans les coins uniques de la Lozère,
+    tel que les balcons du Tarn et de la Jonte, le Cinglegros et le Baousse del Biel.
+    Vous pourrez également observer les vautours et leurs nids, découvrir des sentiers
+    vertigineux. Partez à l'aventure, randonner et découvrir la nature pour un moment
+    d'évasion, de plaisir et de partage. Des randonnées à la journée ou à la demi-journée,
+    pour les familles ou entre amis, votre accompagnateur vous apportera également
+    tous les éléments pour comprendre cette nature, cette faune et flore dans le parc
+    des Cévennes.
+  button:
+    href_button: https://preprod-zehero-202112.netlify.app/fr/ete/activites/reserver-randonnee
+    text_button: Nos offres de randonnée en Lozère
+    alt_button: ''
 type: generic
 listMother: 2
 titleHome: Les activités en Lozère
