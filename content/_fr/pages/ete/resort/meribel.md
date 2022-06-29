@@ -10,7 +10,7 @@ topnav_color_text: light
 resort_nameid: meribel
 resort_naming: Méribel
 title: Méribel et ses activités outdoor pour la saison d'été
-activite: savoie
+activite: ''
 level: 2
 enHome: 2
 meta-title: Activités outdoor à Méribel pour l'été
@@ -133,5 +133,6 @@ introduction:
     matériel
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 listMother: 2
+conseil: savoie
 
 ---
