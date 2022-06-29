@@ -41,7 +41,7 @@ page_sections:
 - template: liststyle01
   title: La location comprend
   item:
-  - Combinaison 5mm + baudrier
+  - Combinaison 5mm + baudrier + casque
   - 25€
   - A la journée
   - 'Lieu de location : Le Bar sur Loup'
