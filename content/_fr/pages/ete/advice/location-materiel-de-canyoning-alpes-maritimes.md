@@ -34,24 +34,19 @@ page_sections:
     et du Daluis. Vous avez donc le choix de 6 vallées où la nature sera différente,
     tout comme les difficultés et l'environnement. Le canyoning dans les Alpes Maritimes
     est un vrai paradis pour tous les amateurs de sensations fortes, de dépassement
-    physique, d'engagement ainsi que de découverte d'une nature d'exception.\n\nA
-    Le Bar sur Loup, vous pourrez directement chercher votre matériel de canyoning
-    afin de le louer à la journée. De plus, Le Bar sur Loup, est situé à 10mn de départ
-    du canyoning des Gorges du Loup, du Gours du Ray.\n\nAvec Ze Hero, nous vous offrons
-    la possibilité de louer votre matériel de canyoning directement à Bar sur Loup
-    au sein de notre équipe."
+    physique, d'engagement ainsi que de découverte d'une nature d'exception.\n\nAvec
+    Ze Hero, nous vous offrons la possibilité de louer votre matériel de canyoning
+    directement à Bar sur Loup. De plus, Le Bar sur Loup, est situé à 10mn de départ
+    du canyoning des Gorges du Loup, du Gours du Ray."
 - template: liststyle01
-  title: Plus d'informations
+  title: La location comprend
   item:
-  - 'Lieu de location : Le Bar sur Loup'
+  - Combinaison 5mm + baudrier
   - 25€
   - A la journée
-- template: 2coltxtimg
+  - 'Lieu de location : Le Bar sur Loup'
+- template: 2colimgtxt
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
-  alt_text_for_image: Personnes faisant du canyoning dans les Alpes Maritimes
-  captiontitleuppercase: Le canyoning dans le 06
-  title: Location d'équipement de canyoning dans les Alpes Maritimes
   content: "Nous proposons alors la location d'équipement de canyoning dans les Alpes
     Maritimes.  \nVous pourrez alors louer votre combinaison de la marque \" Vade
     Retro \", votre casque et votre baudrier directement à St Jeannet. Tout près de
@@ -59,6 +54,10 @@ page_sections:
     de canyoning afin de vous équiper et de profiter de cette activité.\n\nAu tarif
     de 25€ vous bénéficierez de tout l'équipement de canyoning. Nous proposons la
     location uniquement pour adulte."
+  title: Location d'équipement de canyoning dans les Alpes Maritimes
+  captiontitleuppercase: Le canyoning dans le 06
+  alt_text_for_image: Personnes faisant du canyoning dans les Alpes Maritimes
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
   button:
     text_button: ''
     href_button: ''
@@ -67,12 +66,10 @@ page_sections:
   blockBGcolor: blanc
   content: "Vous profiterez de la location à la journée afin de profiter pleinement
     de vos randonnées aquatiques et descentes des différents canyons des Alpes Maritimes.
-    \ \nLe matériel de canyonings loué devra cependant être ramené ensuite à Le Bar
-    sur Loup.\n\nVous pourrez réaliser les différents canyonings tel que le Gours
-    du Ray, les gorges du Loup, le canyoning de Courmes. Sinon, il faudra aller plus
-    loin en direction du Mercantour pour ceux de la Tinée, de la Vésubie, de la Roya
-    etc.\n\nIl faudra également venir avec des chaussures de sport avec crampons,
-    types chaussure de trail afin de ne pas glisser sur les rochers."
+    Le matériel de canyonings loué devra cependant être ramené ensuite à Le Bar sur
+    Loup.  \nVous pourrez réaliser les différents canyonings tel que le Gours du Ray,
+    les gorges du Loup, le canyoning de Courmes. Sinon, il faudra aller plus loin
+    en direction du Mercantour pour ceux de la Tinée, de la Vésubie, de la Roya etc."
   title: ''
 listMother: 2
 titleHome: Louer votre matériel de canyoning dans les Alpes Maritimes
