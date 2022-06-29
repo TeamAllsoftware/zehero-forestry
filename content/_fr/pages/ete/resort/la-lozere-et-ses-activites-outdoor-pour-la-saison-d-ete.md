@@ -40,7 +40,7 @@ page_sections:
   title: La Lozère
 - template: 2colimgtxt
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782603/website/Partenaires/Cueilleur%20de%20sommet/Entre_Tarn_et_Jonte_1.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782622/website/Partenaires/Cueilleur%20de%20sommet/Baume_Jonte_4.jpg
   alt_text_for_image: Entre Tarn et Jonte en Lozère
   captiontitleuppercase: Nos activités en Lozère
   title: La randonnée en Lozère
