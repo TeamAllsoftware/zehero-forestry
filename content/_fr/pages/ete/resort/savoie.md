@@ -65,12 +65,11 @@ page_sections:
     alors rouler en VTT à Méribel et à Les Menuires avec notre moniteur de VTT. Vous
     pourrez également découvrir les hauteurs d'Aix les Bains et le plateau du Grand
     Revard avec Expérience Vélo.\n\nPlaisir, partage et émotion."
-- template: listServices2
+- template: listConseils
   blockBGcolor: gris
   service: resort
-  filterLevel: 1
-  listMother: 1
-  whatActivity: savoie
+  filterLevel: 2
+  whatAdvice: spot
 baseline: Montagnes et charme
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 listMother: 2
