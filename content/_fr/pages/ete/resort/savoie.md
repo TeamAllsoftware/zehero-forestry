@@ -66,7 +66,7 @@ page_sections:
     pourrez également découvrir les hauteurs d'Aix les Bains et le plateau du Grand
     Revard avec Expérience Vélo.\n\nPlaisir, partage et émotion."
 - template: listConseils
-  blockBGcolor: gris
+  blockBGcolor: blanc
   service: resort
   filterLevel: 2
   whatAdvice: spot
