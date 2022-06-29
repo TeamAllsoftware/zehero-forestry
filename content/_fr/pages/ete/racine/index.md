@@ -35,15 +35,6 @@ page_sections:
     col-xl-6 offset-xl-1 col-md-6 wow animate__fadeIn\" data-wow-delay=\"0.2s\">\n\n
     \   <div class=\"mapcontainer\">\n      <div class=\"map\">\n          <span>Alternative
     content for the map</span>\n      </div>\n    </div>     \n\n</div>\n</div>"
-- template: listServices
-  service: resort
-  filterCat: non
-  filterLevel: 1
-  listMother: 1
-  blockBGcolor: blanc
-  headtitle:
-    headline: Trouvez votre prochaine destination
-    title: 100% outdoor
 - template: listOffres
   blockBGcolor: blanc
   headtitle:
