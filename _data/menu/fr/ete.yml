@@ -20,6 +20,8 @@ menu:
       href: "/fr/ete/destinations/savoie"
     - title: Vosges
       href: "/fr/ete/destinations/les-vosges"
+    - title: Lozère
+      href: "/fr/ete/destinations/lozere"
   column-02:
   - nested: Toutes les activités
     menu-items:
