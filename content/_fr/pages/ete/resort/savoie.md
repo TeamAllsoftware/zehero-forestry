@@ -69,7 +69,7 @@ page_sections:
   blockBGcolor: gris
   service: resort
   filterLevel: 1
-  listMother: 2
+  listMother: 1
   whatActivity: savoie
 baseline: Montagnes et charme
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
