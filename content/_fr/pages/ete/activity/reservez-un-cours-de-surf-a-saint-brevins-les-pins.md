@@ -56,7 +56,7 @@ page_sections:
   - Tous Niveaux
   - Enfants / Adultes
 layout: layout_generic
-titleHome: Réservez un cours de surf à Saint Brévin les Pins
+titleHome: Réservez cours de surf à St Brévin les Pins - Loire Atlantique
 conseil: ''
 
 ---
