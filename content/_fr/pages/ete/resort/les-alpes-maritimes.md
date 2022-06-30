@@ -66,29 +66,6 @@ page_sections:
     url: "/fr/ete/activites//fr/ete/conseils/conseils-canyoning-canyonings"
 - template: textarea
   blockBGcolor: blanc
-  title: Nos destinations dans les Alpes Maritimes
-  content: " "
-- template: listOffres
-  blockBGcolor: blanc
-  offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/jane-ackerley-WiN6Az_8cGQ-unsplash_cmbknc.jpg
-    image_alt: Vu des remparts d'Antibes, avec la mer et les montagnes
-    title: Antibes
-    url: "/fr/ete/destinations/antibes"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650013821/website/resorts/Nice/danilo-pantalena-5SUQiV-tS4c-unsplash.jpg
-    image_alt: Vue de la mer et de la ville de Nice, côte d'Azur
-    title: Nice
-    url: "/fr/ete/destinations/nice"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653660434/website/resorts/Saint%20Jeannet/GOPR0185_1613322643497.jpg
-    image_alt: Vue de la mer et de Saint Jeannet depuis la voix rouge
-    title: Saint Jeannet
-    url: "/fr/ete/destinations/saint-jeannet"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649756837/website/resorts/Le%20Bar%20sur%20Loup/landscape-319855_1920.jpg
-    image_alt: Village de Bar sur Loup
-    title: Le Bar sur Loup
-    url: "/fr/ete/destinations/le-bar-sur-loup"
-- template: textarea
-  blockBGcolor: blanc
   content: |-
     Les Alpes Maritimes sont une destination incroyable pour la pratique du canyoning. Avec les Gorges du Loup, de la Roya, de la Tinée, de la Vésubie et bien d'autres. Ceux qui souhaitent s'initier au canyoning, découvrir des lieux merveilleux, partager un moment d'émotions fortes en famille, de sensations entre amis, c'est le département idéal. Vous pourrez alors retrouver de la randonnée aquatique, des canyonings parfaits pour s'initier, des gorges magnifiques, des canyonings techniques avec de belles ambiances.
 
