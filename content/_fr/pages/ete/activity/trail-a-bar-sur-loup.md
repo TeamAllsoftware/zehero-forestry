@@ -70,5 +70,6 @@ page_sections:
   - '100€ sortie confirmé : à la journée'
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
 image01_alt: Coureur à Bar sur Loup vers Gourdon
+listMother: 2
 
 ---
