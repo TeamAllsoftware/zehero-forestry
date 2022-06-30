@@ -36,6 +36,7 @@ page_sections:
   service: activity
   filterLevel: 2
   whatActivity: vtt
+  listMother: 2
 type: generic
 activite: vtt
 level: 1
