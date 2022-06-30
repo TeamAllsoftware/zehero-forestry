@@ -24,12 +24,10 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Le surf dans les Landes et en Loire Atlantique
-  content: Les Landes, c'est le département du surf. On y retrouve de nombreux spots
-    mondialement connus dans le monde du surf tel que Hossegor, Cabreton, Seignosse,
-    Mimizan où se déroulent des compétitions internationales. Avec ces plages de sable
-    infinies, ces vagues qui déferlent, des spots pour tous les niveaux, c'est le
-    lieu idéal pour s'imprégner de la culture surf et de profiter de prendre cours,
-    quel que soit son niveau.
+  content: |-
+    Les Landes, c'est le département du surf. On y retrouve de nombreux spots mondialement connus dans le monde du surf tel que Hossegor, Cabreton, Seignosse, Mimizan où se déroulent des compétitions internationales. Avec ces plages de sable infinies, ces vagues qui déferlent, des spots pour tous les niveaux, c'est le lieu idéal pour s'imprégner de la culture surf et de profiter de prendre cours, quel que soit son niveau.
+
+    Découvrez nos offres dans les Landes à Seignosse et Mimizan ainsi qu'en Loire Atlantique à St Brévins les Pins.
 - template: listServices2
   blockBGcolor: blanc
   service: activity
