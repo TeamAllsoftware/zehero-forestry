@@ -25,23 +25,26 @@ page_sections:
   title: Le trail dans les Alpes Maritimes
   content: "Découvrez toutes nos offres de trail chez Ze Hero dans les Alpes Maritimes.
     Une sélection de plusieurs itinéraires adaptés aux niveaux, aux envies ainsi qu'une
-    différentes offres en itinérances dans les Préalpes d'Azur.\n\nNos sorties de
+    différentes offres en itinérances dans les Préalpes d'Azur.  \nNos sorties de
     Trail se trouvent surtout dans les Préalpes d'Azur, dans le moyen pays niçois.
     Découvrez les montagnes de Tourrettes sur Loup, de Gréolières, de Vence, de Bar
     sur Loup, de Saint Jeannet mais également de Saint Aubin, de Bonson et bien d'autres.
     \ \nNos encadrants professionnels sont, diplômés d'Etat et connaissent parfaitement
-    les différents sentiers des Alpes Maritimes ainsi que des Préalpes d'Azur.\n\nNous
-    échangerons avec vous avant la sortie afin de savoir votre niveau, vos compétences.
-    Nous mettons également en place un suivi d'entraînement afin de vous emmener en
-    itinérance comme objectif d'entraînement.  \nNous vous garantissons un moment
-    de découverte, d'engagement, de plaisir et de partage. N'attendez plus ! Choisissez
-    votre sortie trail et réservez vite.\n\nVoici toutes nos sorties trail dans les
-    Alpes Maritimes :"
+    les différents sentiers des Alpes Maritimes ainsi que des Préalpes d'Azur."
 - template: listServices2
   blockBGcolor: blanc
   service: activity
   filterLevel: 2
   whatActivity: trail
+  listMother: 1
+- template: textarea
+  blockBGcolor: blanc
+  content: "Nous échangerons avec vous avant la sortie afin de savoir votre niveau,
+    vos compétences. Nous mettons également en place un suivi d'entraînement afin
+    de vous emmener en itinérance comme objectif d'entraînement.  \nNous vous garantissons
+    un moment de découverte, d'engagement, de plaisir et de partage. N'attendez plus
+    ! Choisissez votre sortie trail et réservez vite."
+  title: ''
 type: generic
 level: 1
 activite: trail
