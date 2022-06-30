@@ -36,7 +36,7 @@ page_sections:
   service: activity
   filterLevel: 2
   whatActivity: trail
-  listMother: 1
+  listMother: 2
 - template: textarea
   blockBGcolor: blanc
   content: "Nous échangerons avec vous avant la sortie afin de savoir votre niveau,
