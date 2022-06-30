@@ -43,7 +43,7 @@ page_sections:
     de paysage et de végétation avec son littoral de 100km de plage vous offre un
     lieu d'exception.  \nPartez surfer sur les plages mythiques de Seignosse, Mimizan,
     Capbreton, Hossegor, Messanges, Biscarosse. C'est également une terre de thermalisme
-    reconnu avec Dax.\n\nDécouvrez toutes nos offres de surf dans les Landes"
+    reconnu avec Dax."
   blockBGcolor: ''
 - template: textarea
   blockBGcolor: blanc

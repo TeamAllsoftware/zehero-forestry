@@ -28,44 +28,50 @@ page_sections:
 - template: heroBreadcrumb
   title: Nos activités en Loire Atlantique
 - template: textarea
-  content: |-
-    Le département de **Loire-Atlantique**, c'est des sentiers qui vous mèneront dans des terres contrastées : landes granitiques et fermes aux toits d’ardoise, maisons basses aux toits de tuiles romaines typiques et ses vignes ou aux marais salants du parc de Brière. Vers les côtes de Jade, Amour ou Sauvage, s’étendent des plages très prisées. Avec 6200 hectares d’espaces naturels, 2000 km d’itinéraires vélo et un riche patrimoine, la Loire-Atlantique est le 7e département **touristique** de France. C'est également ses 130 km de côtes, ses grandes plages et ses vagues. C'est un département où vous pourrez pratiquer le surf et de nombreuses autre activités dans l'océan.
-
-    Voici nos activités outdoors en Loire Atlantique :
+  content: 'Le département de **Loire-Atlantique**, c''est des sentiers qui vous mèneront
+    dans des terres contrastées : landes granitiques et fermes aux toits d’ardoise,
+    maisons basses aux toits de tuiles romaines typiques et ses vignes ou aux marais
+    salants du parc de Brière. Vers les côtes de Jade, Amour ou Sauvage, s’étendent
+    des plages très prisées. Avec 6200 hectares d’espaces naturels, 2000 km d’itinéraires
+    vélo et un riche patrimoine, la Loire-Atlantique est le 7e département **touristique**
+    de France. C''est également ses 130 km de côtes, ses grandes plages et ses vagues.
+    C''est un département où vous pourrez pratiquer le surf et de nombreuses autre
+    activités dans l''océan.'
   title: 'La Loire Atlantique '
   blockBGcolor: ''
-- template: cta
+- template: textarea
   blockBGcolor: blanc
-  marge: 20
-  button:
-    href_button: "/fr/ete/activites/reserver-cours-surf"
-    text_button: Nos cours de surf en Loire Atlantique
-  intro: Nos offres de cours de surf en
-  headline: Loire Atlantique
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7885_dljybe.jpg
-  content: Découvrez le surf en Loire Atlantique et plus précisément à Saint Brévin
-    les Pins avec l'école de surf **Atlantic Surf Academy**. Les vagues ici sont parfaites
-    pour apprendre, progresser et savourer la glisse sur les vagues. Une école parfaite
-    pour prendre des cours de surf et découvrir, s'initier et progresser en surf.
-    Les spots de surf y sont idéales avec des vagues qui déroulent idéalement. L'école
-    de surf de St Brévin les Pins, vous apportera les meilleurs conseils pour surf
-    avec des stages de plusieurs jours pour enfants et adultes ainsi que des cours
-    privés. Vous pourrez également louer tout votre matériel directement sur place.
-  captiontitleuppercase: Nos activités en Loire Atlantique
-  title: Le surf en Loire Atlantique
-  button:
-    text_button: Nos offres de surf en Loire Atlantique
-    href_button: "/fr/ete/activites/reserver-cours-surf"
-    alt_button: ''
-  alt_text_for_image: Enfant faisant du surf en Loire Atlantique à St Brévin les Pins
-  blockBGcolor: ''
+  title: Nos activités en Loire Atlantique
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624275/website/Surf%20Atlantic/IMG_3213_dwivw3.jpg
+    image_alt: Groupe enfant de surf
+    url: "/fr/ete/activites/reserver-cours-surf-st-brevin-les-pins"
+    title: Cours de Surf à St Brévins les pins
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624275/website/Surf%20Atlantic/IMG_7584_itolid.jpg
+    image_alt: Enfant cours de surf
+    title: Comment bien débuter le surf
+    url: "/fr/ete/conseils/debuter-surf"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7712_jj6zyy.jpg
+    image_alt: Groupe cours de surf courant sur la plage
+    url: "/fr/ete/conseils/equipement-surf"
+    title: Comment bien s'équiper en surf
 - template: textarea
   blockBGcolor: blanc
   content: "Partez parcourir le **littoral atlantique** à vélo.  Découvrir l’histoire
     du sel dans les marais salants rosés de Guérande ou Noirmoutier…  \nUn territoire
     qui promeut le tourisme écologique et durable et le développement d’une offre
-    d’hébergement et de loisirs innovants."
+    d’hébergement et de loisirs innovants.\n\nDécouvrez le surf en Loire Atlantique
+    et plus précisément à Saint Brévin les Pins avec l'école de surf **Atlantic Surf
+    Academy**. Les vagues ici sont parfaites pour apprendre, progresser et savourer
+    la glisse sur les vagues. Une école parfaite pour prendre des cours de surf et
+    découvrir, s'initier et progresser en surf. Les spots de surf y sont idéales avec
+    des vagues qui déroulent idéalement. L'école de surf de St Brévin les Pins, vous
+    apportera les meilleurs conseils pour surf avec des stages de plusieurs jours
+    pour enfants et adultes ainsi que des cours privés. Vous pourrez également louer
+    tout votre matériel directement sur place."
   title: ''
 baseline: Littoral et nature
 code_postal: 44,Loire-Atlantique,Pays de la Loire

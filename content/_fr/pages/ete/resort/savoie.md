@@ -39,7 +39,7 @@ page_sections:
     On y retrouve Courchevel, Val Thorens, Les Arcs, Tignes et bien d'autres.  \nLa
     Savoie est un lieu d'exception pour de nombreuses activités outdoors. Partez découvrir
     les montagnes, les lacs, les forêts. Vivez des sensations fortes, admirez, détendez
-    vous et partagez vos émotions.  \nDécouvrez toutes nos offres en Savoie : "
+    vous et partagez vos émotions."
   title: La Savoie
   blockBGcolor: ''
 - template: textarea
