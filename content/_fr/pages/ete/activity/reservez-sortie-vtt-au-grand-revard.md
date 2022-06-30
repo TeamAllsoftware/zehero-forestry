@@ -56,7 +56,7 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1653393336/website/Exp%C3%A9rience%20V%C3%A9lo/circuit_dans_les_bauges_en_vtt_%C3%A9lectrique.jpg
   atl_text_image_04: Groupe de VTT en Savoie
   title: ''
-listMother: ''
+listMother: 2
 layout: layout_generic
 titleHome: ''
 conseil: ''
