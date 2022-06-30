@@ -40,7 +40,7 @@ menu:
     - title: Escalade
       href: "/fr/ete/activites/escalade"
 - title: Acheter
-  id: eshop
+  id: ''
   title-link: 'Acheter '
   image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651147585/website/Altore/photo_marina.jpg
   image-alt: Femme Running Altore
