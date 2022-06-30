@@ -22,14 +22,12 @@ page_sections:
   title: Nos offres de VTT chez Ze Hero
 - template: textarea
   blockBGcolor: blanc
-  content: |-
-    Découvrez toutes nos offres de VTT chez Ze Hero en Savoie. Des sorties de VTT et de VTT électriques sur les sentiers montagneux quel que soit votre niveau. Vous découvrirez différents itinéraires qui vous feront découvrir les lieux, les panoramas, atteindre des points de vue d'exception, faire le plein de sensation forte dans les descentes sur les sentiers.
-
-    Vous pourrez réserver une sortie de VTT tout d'abord au sein des 3 vallées à Méribel et Les Menuires. Notre guide de VTT vous propose différents itinéraires dans les montagnes des Bellevilles et de Méribel. Vous pourrez alors découvrir ce domaine incroyable, sa faune et flore riche, ses sentiers ludiques ainsi que de nombreux parcours. Ils proposent des parcours de 2h pour les familles ainsi que les amateurs de VTT pour des parcours plus sportifs. Vous pourrez également visiter les différents villages et hameaux savoyards.
-
-    Vous pourrez également pratiquer et trouver votre activité de VTT et VTT électrique du coté d'Aix les Bains et du Grand Revard. Vous pourrez rouler ce que l'on appele le  "Petit canada savoyard ". Un plateau magnifique avec vue sur ce le lac et le Mont Blanc. En famille, entre amis, vous pourrez profiter de découvrir et de vous aventurer à VTT sur les sentiers en vous laissant guider par " [**Expérience Vélo**](https://www.ze-hero.com/fr/ete/partenaires/experience-velo) "
-
-    Voici toutes nos offres de VTT en Savoie :
+  content: "Découvrez toutes nos offres de VTT chez Ze Hero en Savoie. Des sorties
+    de VTT et de VTT électriques sur les sentiers montagneux quel que soit votre niveau.
+    Vous découvrirez différents itinéraires qui vous feront découvrir les lieux, les
+    panoramas, atteindre des points de vue d'exception, faire le plein de sensation
+    forte dans les descentes sur les sentiers.  \nDécouvrez nos offres de VTT à Méribel
+    et les Ménuires ainsi qu'à Aix les Bains / Le Grand Revard :"
   title: Le VTT en Savoie
 - template: listServices2
   blockBGcolor: blanc
@@ -37,6 +35,13 @@ page_sections:
   filterLevel: 2
   whatActivity: vtt
   listMother: 2
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Vous pourrez réserver une sortie de VTT tout d'abord au sein des 3 vallées à Méribel et Les Menuires. Notre guide de VTT vous propose différents itinéraires dans les montagnes des Bellevilles et de Méribel. Vous pourrez alors découvrir ce domaine incroyable, sa faune et flore riche, ses sentiers ludiques ainsi que de nombreux parcours. Ils proposent des parcours de 2h pour les familles ainsi que les amateurs de VTT pour des parcours plus sportifs. Vous pourrez également visiter les différents villages et hameaux savoyards.
+
+    Vous pourrez également pratiquer et trouver votre activité de VTT et VTT électrique du coté d'Aix les Bains et du Grand Revard. Vous pourrez rouler ce que l'on appele le  "Petit canada savoyard ". Un plateau magnifique avec vue sur ce le lac et le Mont Blanc. En famille, entre amis, vous pourrez profiter de découvrir et de vous aventurer à VTT sur les sentiers en vous laissant guider par " [**Expérience Vélo**](https://www.ze-hero.com/fr/ete/partenaires/experience-velo) "
+  title: ''
 type: generic
 activite: vtt
 level: 1
