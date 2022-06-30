@@ -66,8 +66,8 @@ page_sections:
     débuter et se perfectionner mais aussi grimper les jours de mauvais temps, lorsqu'on
     ne peut marcher ou randonnée dans le massif. "
   button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Escalade&start-date=
-    text_button: Réservez votre séance d'escalade
+    href_button: ''
+    text_button: ''
     alt_button: ''
 - template: cta
   blockBGcolor: blanc
