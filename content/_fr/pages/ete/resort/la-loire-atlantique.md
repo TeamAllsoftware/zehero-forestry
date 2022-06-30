@@ -28,21 +28,20 @@ page_sections:
 - template: heroBreadcrumb
   title: Nos activités en Loire Atlantique
 - template: textarea
-  content: "Le département de **Loire-Atlantique**, c'est des sentiers qui vous mèneront
-    dans des terres contrastées : landes granitiques et fermes aux toits d’ardoise,
-    maisons basses aux toits de tuiles romaines typiques et ses vignes ou aux marais
-    salants du parc de Brière. Vers les côtes de Jade, Amour ou Sauvage, s’étendent
-    des plages très prisées. Avec 6200 hectares d’espaces naturels, 2000 km d’itinéraires
-    vélo et un riche patrimoine, la Loire-Atlantique est le 7e département **touristique**
-    de France. C'est également ses 130 km de côtes, ses grandes plages et ses vagues.
-    Partez parcourir le **littoral atlantique** à vélo.  Découvrir l’histoire du sel
-    dans les marais salants rosés de Guérande ou Noirmoutier…   \nUn territoire qui
-    promeut le tourisme écologique et durable et le développement d’une offre d’hébergement
-    et de loisirs innovants.\n\nC'est un département où vous pourrez pratiquer le
-    surf et de nombreuses autre activités dans l'océan.\n\nVoici nos activités outdoors
-    en Loire Atlantique :"
+  content: |-
+    Le département de **Loire-Atlantique**, c'est des sentiers qui vous mèneront dans des terres contrastées : landes granitiques et fermes aux toits d’ardoise, maisons basses aux toits de tuiles romaines typiques et ses vignes ou aux marais salants du parc de Brière. Vers les côtes de Jade, Amour ou Sauvage, s’étendent des plages très prisées. Avec 6200 hectares d’espaces naturels, 2000 km d’itinéraires vélo et un riche patrimoine, la Loire-Atlantique est le 7e département **touristique** de France. C'est également ses 130 km de côtes, ses grandes plages et ses vagues. C'est un département où vous pourrez pratiquer le surf et de nombreuses autre activités dans l'océan.
+
+    Voici nos activités outdoors en Loire Atlantique :
   title: 'La Loire Atlantique '
   blockBGcolor: ''
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: "/fr/ete/activites/reserver-cours-surf"
+    text_button: Nos cours de surf en Loire Atlantique
+  intro: Nos offres de cours de surf en
+  headline: Loire Atlantique
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7885_dljybe.jpg
   content: Découvrez le surf en Loire Atlantique et plus précisément à Saint Brévin
@@ -61,6 +60,13 @@ page_sections:
     alt_button: ''
   alt_text_for_image: Enfant faisant du surf en Loire Atlantique à St Brévin les Pins
   blockBGcolor: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: "Partez parcourir le **littoral atlantique** à vélo.  Découvrir l’histoire
+    du sel dans les marais salants rosés de Guérande ou Noirmoutier…  \nUn territoire
+    qui promeut le tourisme écologique et durable et le développement d’une offre
+    d’hébergement et de loisirs innovants."
+  title: ''
 baseline: Littoral et nature
 code_postal: 44,Loire-Atlantique,Pays de la Loire
 level: 1
