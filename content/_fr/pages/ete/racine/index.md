@@ -27,16 +27,13 @@ page_sections:
   button_2_more: false
 - template: textarea
   title: Choississez votre département de destination
-  content: |-
-    <br> 
-    <div class="row align-items-center justify-content-center">
-    <div class="col-11 col-xl-4 col-md-6 md-margin-30px-bottom"><p class="text-large
-    line-height-38px">Découvrez toutes nos offres et toutes nos activités Ze Hero.
-    Choisissez votre destination et cliquez pour découvrir les activités. Nous sommes
-    présent dans les départements colorés en vert.</p></div> <div class="col-11
-    col-xl-6 offset-xl-1 col-md-6 wow animate__fadeIn" data-wow-delay="0.2s"><div
-    class="mapcontainer"><div class="map"> <span>Alternative content
-    for the map</span></div></div></div></div>
+  content: "<br> \n<div class=\"row align-items-center justify-content-center\">\n<div
+    class=\"col-11 col-xl-4 col-md-6 md-margin-30px-bottom\"><p class=\"text-large\nline-height-38px\">Découvrez
+    toutes nos offres et toutes nos activités Ze Hero.\nChoisissez votre destination
+    et cliquez pour découvrir les activités. Nous sommes\nprésent dans les départements
+    colorés en vert.</p></div> <div class=\"col-11\ncol-xl-6 offset-xl-1 col-md-6
+    wow animate__fadeIn\" data-wow-delay=\"0.2s\"><div\nclass=\"mapcontainer\"><div
+    class=\"map\"> <span>Alternative content\nfor the map</span></div></div></div></div>"
 - template: listOffres
   blockBGcolor: blanc
   headtitle:
@@ -44,19 +41,19 @@ page_sections:
     title: Sauter de joie, Etre fier, Partager.
   offreList:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
-    image_alt: 
+    image_alt: Personnes dans un canyoning
     title: Le canyoning
     url: "/fr/ete/activites/canyoning"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883621/website/summer/Paddle-couple-mer_sw6sqk.jpg
-    image_alt: 
+    image_alt: Deux personnes sur un paddle surf
     title: Le surf
     url: "/fr/ete/activites/surf"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654867638/website/summer/brian-metzler-nmWQ2SKvj5M-unsplash.jpg
-    image_alt: 
+    image_alt: Un coureur en montagne faisant du trail
     title: Le Trail
     url: "/fr/ete/activites/trail-running"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/lachlan-cruickshank-S9v_EPJfGys-unsplash_b5jpdh.jpg
-    image_alt: 
+    image_alt: Des personnes en groupe faisant du VTT en montagne
     title: Le VTT
     url: https://www.ze-hero.com/fr/ete/activites/vtt
 - template: ctaShop4col
@@ -115,19 +112,6 @@ page_sections:
     title: Osez l'émotion
     content: Grâce aux activités sélectionnées et testées par nos équipes professionnelles
     icon: line-icon-Cool
-- template: heroImageFull
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643722536/website/summer/krakenimages-5HsCIUSeq7Q-unsplash_fcnhy8.jpg
-  gradient: non
-  headline:
-    title: L'outdoor<br> en couple<br> c'est + FUN
-    color: white
-  Button1:
-    title: Bien préparer sa rando !
-    link: "/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee"
-  Button2:
-    title: Voir toutes les activités
-    link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
-  button_2_more: false
 - template: blogPostList
   blockBGcolor: gris
   postNumber: 4
