@@ -102,6 +102,25 @@ page_sections:
     le parc des Préalpes d'azur, ses lacs ainsi que le parc national du Mercantour.
     \ \nUne région qui a beaucoup à offrir et dont vous ne pourrez vous ennuyer."
   title: ''
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/jane-ackerley-WiN6Az_8cGQ-unsplash_cmbknc.jpg
+    image_alt: Vu des remparts d'Antibes, avec la mer et les montagnes
+    title: Antibes
+    url: "/fr/ete/destinations/antibes"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650013821/website/resorts/Nice/danilo-pantalena-5SUQiV-tS4c-unsplash.jpg
+    image_alt: Vue de la mer et de la ville de Nice, côte d'Azur
+    title: Nice
+    url: "/fr/ete/destinations/nice"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653660434/website/resorts/Saint%20Jeannet/GOPR0185_1613322643497.jpg
+    image_alt: Vue de la mer et de Saint Jeannet depuis la voix rouge
+    title: Saint Jeannet
+    url: "/fr/ete/destinations/saint-jeannet"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649756837/website/resorts/Le%20Bar%20sur%20Loup/landscape-319855_1920.jpg
+    image_alt: Village de Bar sur Loup
+    title: Le Bar sur Loup
+    url: "/fr/ete/destinations/le-bar-sur-loup"
 baseline: Mer et Montagne
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
 conseil: ''
