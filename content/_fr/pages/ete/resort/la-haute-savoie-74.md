@@ -44,63 +44,49 @@ page_sections:
     sa spécificité et son authenticité.
   title: 'La Haute-Savoie '
   blockBGcolor: ''
-- template: cta
-  blockBGcolor: blanc
-  marge: 20
-  button:
-    href_button: https://www.montblancescalade.com/fr/
-    text_button: Découvrez la salle d'escalades des Houches
-  intro: Découvrez la salle d'escalades aux
-  headline: Houches
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654064807/website/Mont%20Blanc%20Escalade/70711889_2619714781427875_3156349677461307392_n.jpg
-  alt_text_for_image: 'Salle d''escalade : Mont Blanc Escalade'
-  captiontitleuppercase: Nos activités en Haute Savoie
-  title: L'escalade en Haute Savoie
-  content: "Découvrez nos offres d'escalades en Haute Savoie. Aujourd'hui, nous sommes
-    partenaires avec la salle d'escalade Mont Blanc escalade, situé aux Houches en
-    Haute Savoie. C'est la seule salle d'escalade de la vallée du Mont Blanc avec
-    plus de 100 voies, une partie de block, de la location de matériel mais aussi
-    des activités comme le canyoning.  \nUne salle idéale pour vous initier à l'escalade,
-    débuter et se perfectionner mais aussi grimper les jours de mauvais temps, lorsqu'on
-    ne peut marcher ou randonnée dans le massif. "
-  button:
-    href_button: ''
-    text_button: ''
-    alt_button: ''
-- template: cta
-  blockBGcolor: blanc
-  marge: 20
-  button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-    text_button: Réservez votre activité d'eau vive
-  intro: Les offres d'activité en eau vive vers
-  headline: Thonon les Bains
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649084757/website/Partenaires/1638783567-DSC_0355.jpg
-  alt_text_for_image: Groupe de personne en rafting en Haute savoie avec 7 Aventures
-  captiontitleuppercase: Nos activités en Haute Savoie
-  title: Activités eaux vives en Haute Savoie
-  content: Découvrez toutes nos activités d'eaux vives en Haute Savoie avec notre
-    partenaire 7 Aventures. Une base de loisir, situé dans le hameau de la Vernaz,
-    proche de Thonon les Bains, d'Avoriaz et de Morzine. Elle se trouve au bord de
-    la Dranse, où vous pourrez alors partir en canyoning, en rafting, en hydrospeed
-    ainsi qu'en kayak pour un moment de sensations forte et de fraicheur garantis.
-    Des descentes uniques, pour un maximum de plaisir et de partage, quelque soit
-    votre niveau, si vous êtes en famille ou entre amis, vous pourrez profiter pleinement.
-  button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-    text_button: Réservez votre activité d'eau vive
-    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  content: Vous ne pourrez vous ennuyer en Haute-Savoie. Ce département est un paradis
+  title: Nos activités en Haute-Savoie
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278424/website/escalade/jonathan-j-castellon-FHNgTEuxyJA-unsplash.jpg
+    image_alt: Personne dans une salle d'escalade
+    title: Salle d'escalade Mont Blanc Escalade
+    url: https://www.montblancescalade.com/fr/
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278285/website/escalade/brook-anderson-gTQbZXL417Q-unsplash.jpg
+    title: Location équipement montagne
+    url: https://www.montblancescalade.com/fr/locations-materiel-equipement-montagne
+    image_alt: Corde d'escalade et dégaines
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649084755/website/Partenaires/1638783649-DSC_0689.jpg
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+    title: Activités en eau vive vers Morzine
+    image_alt: Groupe de personne en Rafting
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/website/Partenaires/1638785330-DSC_4366.jpg
+    image_alt: Groupe de personne en hydrospeed
+    title: Activités en eau vive avec 7 Aventures
+    url: "/fr/ete/partenaires/7-aventures"
+- template: textarea
+  blockBGcolor: blanc
+  content: "Vous ne pourrez vous ennuyer en Haute-Savoie. Ce département est un paradis
     d'activité Outdoor, de sport sensationnel, de découverte, d'expérience nouvelle
     de voyage à travers la nature et des lieux d'exceptions. Que vous soyez seul,
     entre amis, en famille, en couple, vous trouverez votre activité quelque soit
-    vos gouts et votre niveau.
+    vos gouts et votre niveau.\n\nDécouvrez nos offres d'escalades en Haute Savoie.
+    Aujourd'hui, nous sommes partenaires avec la salle d'escalade Mont Blanc escalade,
+    situé aux Houches en Haute Savoie. C'est la seule salle d'escalade de la vallée
+    du Mont Blanc avec plus de 100 voies, une partie de block, de la location de matériel
+    mais aussi des activités comme le canyoning.  \nUne salle idéale pour vous initier
+    à l'escalade, débuter et se perfectionner mais aussi grimper les jours de mauvais
+    temps, lorsqu'on ne peut marcher ou randonnée dans le massif.\n\nDécouvrez toutes
+    nos activités en eau vive en Haute Savoie avec notre partenaire 7 Aventures. Une
+    base de loisir, situé dans le hameau de la Vernaz, proche de Thonon les Bains,
+    d’Avoriaz et de Morzine. Elle se trouve au bord de la Dranse, où vous pourrez
+    alors partir en canyoning, en rafting, en hydrospeed ainsi qu’en kayak pour un
+    moment de sensations forte et de fraicheur garantis. Des descentes uniques, pour
+    un maximum de plaisir et de partage, quelque soit votre niveau, si vous êtes en
+    famille ou entre amis, vous pourrez profiter pleinement."
   title: ''
 baseline: Lacs et montagnes
 code_postal: 74,Haute-Savoie,Auvergne-Rhône-Alpes
