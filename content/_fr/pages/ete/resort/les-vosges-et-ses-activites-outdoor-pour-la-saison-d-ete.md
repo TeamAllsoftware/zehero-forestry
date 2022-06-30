@@ -61,8 +61,8 @@ page_sections:
     aussi des sorties bien-être et de sylvothérapie pour un moment d'évasion et de
     détente.  \nPartez marcher dans les Vosges vous évader pour des randonnées uniques. "
   button:
-    href_button: "/fr/ete/activites/reserver-randonnee"
-    text_button: Nos offres de randonné Vosges
+    href_button: ''
+    text_button: ''
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
