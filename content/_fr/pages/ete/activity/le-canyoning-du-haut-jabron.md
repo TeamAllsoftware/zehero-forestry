@@ -72,5 +72,6 @@ conseil: ''
 titleHome: 'Canyoning du Haut Jabron : Initiation canyoning'
 activite: canyoning
 baseline: ''
+listMother: 2
 
 ---
