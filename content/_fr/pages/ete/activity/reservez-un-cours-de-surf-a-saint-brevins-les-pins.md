@@ -5,12 +5,12 @@ season: summer
 level: 2
 listMother: 2
 categorie: Surf
-topnav_color_text: dark
+topnav_color_text: light
 activite: surf
-meta-title: Réservez un cours de surf à Saint Brévins les Pins
+meta-title: Réservez un cours de surf à Saint Brévin les Pins
 meta-description: Réservez un cours de surf à Saint Brévin les Pins, en Loire Atlantique,
   pour enfants et adultes, pour un ou plusieurs jours.
-title: Réservez un cours de surf à Saint Brévins les Pins
+title: Réservez un cours de surf à Saint Brévin les Pins
 permalink: "/fr/ete/activites/reserver-cours-surf-st-brevin-les-pins"
 baseline: Cours de surf à St Brévin les Pins
 engage: Surfer avec Atlantique Surf School à St Brévin les Pins
@@ -35,8 +35,8 @@ page_sections:
   intro: Réservez vos cours de surf à
   headline: Saint Brévin les Pins
   button:
-    text_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
-    href_button: Réservez ici
+    text_button: Réservez ici
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7714_fsigmd.jpg
   atl_text_image_01: Groupe de surf sur la plage
@@ -55,5 +55,8 @@ page_sections:
   - Jardin des vagues
   - Tous Niveaux
   - Enfants / Adultes
+layout: layout_generic
+titleHome: Réservez cours de surf à St Brévin les Pins - Loire Atlantique
+conseil: ''
 
 ---

@@ -63,7 +63,7 @@ page_sections:
   - 'Pour qui : Tout niveau'
   - 3 personnes max
   - Venir avec son matériel ou le louer sur place
-titleHome: Réservez cours de surf à Seignosse
+titleHome: Réservez cours de surf à Seignosse - Landes
 conseil: ''
 listMother: 2
 

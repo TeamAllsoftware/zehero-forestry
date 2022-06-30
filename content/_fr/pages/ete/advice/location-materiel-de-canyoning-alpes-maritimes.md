@@ -1,5 +1,5 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -19,23 +19,48 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 page_sections:
+- template: heroBreadcrumb
+  title: Location de matériel de canyoning dans les Alpes Maritimes
 - template: textarea
   blockBGcolor: blanc
   title: Location de matériel de canyoning dans les Alpes Maritimes
-  content: |-
-    La location de matériel de [canyoning dans les Alpes Maritimes](https://www.ze-hero.com/fr/ete/activites/canyoning-alpes-maritimes) vous permettra de louer tout votre équipement à la journée ou pour plusieurs jours. Si vous désirez vous initier au canyoning, que vous êtes un adepte mais que vous n'avez pas votre équipement de canyoning, vous trouverez où le louer dans les Alpes Maritimes.
-
-    La diversité des canyonings dans les Alpes Maritimes est incroyable. Partez découvrir les plus beaux canyons du Sud de la France. Explorez les canyons des gorges de la Vésubie, de la Tinée, de la Roya mais également du Loup, du Cians et du Daluis. Vous avez donc le choix de 6 vallées où la nature sera différente, tout comme les difficultés et l'environnement. LE canyoning dans les Alpes Maritimes est un vrai paradis pour tous les amateurs de sensations fortes, de dépassement physique, d'engagement ainsi que de découverte d'une nature d'exception.
-
-    Vous pourrez alors louer votre matériel dans différents lieux en fonction également de là où vous irez pratiquer. Vous pouvez donc louer directement dans les écoles de canyoning à Nice, Bar sur Loup, Antibes, Plan du Var...
-
-    Avec Ze Hero, nous vous offrons la possibilité de louer votre matériel de canyoning à St Jeannet.
-- template: 2coltxtimg
+  content: "La location de matériel de [canyoning dans les Alpes Maritimes](https://www.ze-hero.com/fr/ete/activites/canyoning-alpes-maritimes)
+    vous permettra de louer tout votre équipement à la journée ou pour plusieurs jours.
+    Si vous désirez vous initier au canyoning, que vous êtes un adepte mais que vous
+    n'avez pas votre équipement de canyoning, vous trouverez où le louer dans les
+    Alpes Maritimes.  \nLa diversité des canyonings dans les Alpes Maritimes est incroyable.
+    Partez découvrir les plus beaux canyons du Sud de la France. Explorez les canyons
+    des gorges de la Vésubie, de la Tinée, de la Roya mais également du Loup, du Cians
+    et du Daluis. Vous avez donc le choix de 6 vallées où la nature sera différente,
+    tout comme les difficultés et l'environnement. Le canyoning dans les Alpes Maritimes
+    est un vrai paradis pour tous les amateurs de sensations fortes, de dépassement
+    physique, d'engagement ainsi que de découverte d'une nature d'exception.\n\nAvec
+    Ze Hero, nous vous offrons la possibilité de louer votre matériel de canyoning
+    directement à Bar sur Loup. De plus, Le Bar sur Loup, est situé à 10mn de départ
+    du canyoning des Gorges du Loup, du Gours du Ray.  \nVous profiterez de la location
+    à la journée afin de profiter pleinement de vos randonnées aquatiques et descentes
+    des différents canyons des Alpes Maritimes. Le matériel de canyonings loué devra
+    cependant être ramené ensuite à Le Bar sur Loup.  \nVous pourrez réaliser les
+    différents canyonings tel que le Gours du Ray, les gorges du Loup, le canyoning
+    de Courmes. Sinon, il faudra aller plus loin en direction du Mercantour pour ceux
+    de la Tinée, de la Vésubie, de la Roya etc."
+- template: cta
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
-  alt_text_for_image: Personnes faisant du canyoning dans les Alpes Maritimes
-  captiontitleuppercase: Le canyoning dans le 06
-  title: Location d'équipement de canyoning dans les Alpes Maritimes
+  marge: 20
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17729-location-materiel-de-canyoning-le-bar-sur-loup-alpes-maritimes-activite-ze-hero
+    text_button: Louez ici
+  intro: Location de matériel de canyoning
+  headline: dans les Alpes Maritimes
+- template: liststyle01
+  title: La location comprend
+  item:
+  - Combinaison 5mm + baudrier + casque
+  - 25€
+  - A la journée
+  - 'Lieu de location : Le Bar sur Loup'
+- template: 2colimgtxt
+  blockBGcolor: blanc
   content: "Nous proposons alors la location d'équipement de canyoning dans les Alpes
     Maritimes.  \nVous pourrez alors louer votre combinaison de la marque \" Vade
     Retro \", votre casque et votre baudrier directement à St Jeannet. Tout près de
@@ -43,83 +68,17 @@ page_sections:
     de canyoning afin de vous équiper et de profiter de cette activité.\n\nAu tarif
     de 25€ vous bénéficierez de tout l'équipement de canyoning. Nous proposons la
     location uniquement pour adulte."
+  title: Location d'équipement de canyoning dans les Alpes Maritimes
+  captiontitleuppercase: Le canyoning dans le 06
+  alt_text_for_image: Personnes faisant du canyoning dans les Alpes Maritimes
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
-- template: textarea
-  blockBGcolor: blanc
-  content: "Vous profiterez de la location à la journée afin de profiter pleinement
-    de vos randonnées aquatiques et descentes des différents canyons des Alpes Maritimes.
-    \ \nLe matériel de canyonings loué devra cependant être ramené ensuite à St Jeannet.\n\nVous
-    pourrez partir de St Jeannet et aller dans les gorges du Loup afin de réaliser
-    les différents canyonings tel que le Gours du Ray, les gorges du Loup, le canyoning
-    de Courmes. Sinon, il faudra aller plus loin en direction du Mercantour pour ceux
-    de la Tinée, de la Vésubie, de la Roya etc.\n\nQuel que soit votre niveau, il
-    sera nécessaire de partir faire du canyoning avec une combinaison, un casque et
-    un baudrier. Parfois certains moniteurs ne possèdent pas tout l'équipement pour
-    ces groupes, c'est pourquoi il faut louer son matériel en amont.\n\nIl faudra
-    également venir avec des chaussures de sport avec des crampons, types chaussure
-    de trail afin de ne pas glisser sur les rochers."
-  title: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650888235/website/By%20Ze%20Hero%20Activity/Loc%20Canyoning/117036248_10157887471289864_3482499957593166063_n.jpg
-  alt_text_for_image: Personne portant une combinaison de canyoning Vade Retro
-  title: La combinaison de canyoning
-  captiontitleuppercase: Des températures souvent fraîches
-  content: "La combinaison de canyoning sera obligatoire lorsque vous irez faire du
-    canyoning.\n\nSoit vous lourez votre combinaison de canyoning soit elle sera incluse
-    lors de votre réservation d'activité avec votre moniteur. Mais dans tous les cas,
-    vous partirez équiper d'une combinaison spécialement conçue pour descendre dans
-    les rivières.\n\nTout d'abord, les combinaisons de canyoning ont pour but de vous
-    tenir chaud, elles sont en néoprène. La température de l'eau des rivières peut
-    être froide même l'été sous 30 degrés. L'eau des rivières descend directement
-    des montagnes et dans certaines gorges, le soleil pénètre mal. L'eau se réchauffe
-    très peu. Pour des descentes de plusieurs heures dans l'eau, il est important
-    alors de ne jamais avoir froid. C'est pourquoi certaines de ces combinaisons font
-    faciles 5mm d'épaisseur. De plus, l'épaisseur vous fera flotter dans l'eau sans
-    forcément altérer vos mouvements.  \nEnsuite, ce qui est important, c'est que
-    les combinaisons de canyoning présentent des renforts au niveau des fesses, des
-    genoux et coudes. Vous allez faire des toboggans et donc glisser sur les fesses
-    sur les rochers. Il faudra alors un tissu costaud afin de ne pas se déchirer et
-    vous protéger également. C'est pour cela qu'il ne faut pas prendre une combinaison
-    de plongée car même s'il est fait 5mm, elle sera très fragile et vous la déchirerez."
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: 2coltxtimg
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650888228/website/By%20Ze%20Hero%20Activity/Loc%20Canyoning/74302032_10157100296984864_365135021171802112_n.jpg
-  alt_text_for_image: Personnes dans un canyon descendant avec des cordes
-  captiontitleuppercase: 'Se protéger '
-  title: Le casque de canyoning
-  content: |-
-    La combinaison de canyoning est obligatoire mais le casque l'est encore plus. En effet le casque vous protégera et il ne faut jamais partir dans un casque dans un canyon.
-
-    Il vous protègera la tête si vous glisser en marchand, si vous tombez, si vous taper en descendant en rappel et que vous tapez contre une paroi, si une pierre tombe. Peut importe la situation, il sera obligatoire et pourra vous sauver la vie.
-
-    Durant la descente il se fera oublier. Il sera léger, il présente de nombreux trous afin d'évacuer l'eau. Il est préférable qu'il soit ajustable afin de bien le régler sur votre tête.
-
-    Il doit être conforme aux normes de sécurité.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650888234/website/By%20Ze%20Hero%20Activity/Loc%20Canyoning/238898642_10158725231439864_1893978740914260398_n.jpg
-  alt_text_for_image: 'Personne dans un canyon descendant en rappel '
-  captiontitleuppercase: 'Le baudrier, indispensable '
-  title: Le baudrier de canyoning
-  content: |-
-    Le baudrier de canyoning est obligatoire selon vos canyons. Certains canyonings sont uniquement de la randonnée aquatique. D'autres, par contre présentent des rappels, des tyroliennes et différents passages techniques. De ce fait il est obligatoire d'avoir un baudrier spécialement pour le canyoning. Ils sont différents de ceux pour l'escalade et facilitent toutes les manipulations. Vous pourrez donc facilement mettre longe, bloqueur, mousquetons etc.
-
-    Il présente généralement une culotte de protection pour les glissades.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+listMother: 2
+titleHome: Louer votre matériel de canyoning dans les Alpes Maritimes
+baseline: Louer votre matériel de canyoning
+activite: ''
 
 ---

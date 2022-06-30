@@ -6,7 +6,7 @@ season: summer
 level: 2
 topnav_color_text: light
 title: Réservez cours de Surf à Mimizan et Porge
-titleHome: Réservez cours de Surf à Mimizan et Porge
+titleHome: Réservez cours de Surf à Mimizan et Porge - Landes
 activite: surf
 conseil: ''
 permalink: "/fr/ete/activites-reserver-cours-surf-mimizan-porge"
