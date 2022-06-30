@@ -180,28 +180,40 @@ fields:
   type: blocks
   label: Page Sections
   template_types:
+  - heroBreadcrumb
+  - heroBigTitle
+  - heroSlider
+  - heroImageTitle01
+  - heroImageFull
+  - heroImageFullSlider
+  - heroImage50percentHigh
+  - formDownload
   - textarea
-  - 3coltxtimgtxt
   - 2colimgtxt
   - 2coltxtimg
+  - 2colTitreTxt
+  - 2col2tiers1tiers
+  - 4col2imgTxtImg
+  - 3coltxtimgtxt
+  - blogPostList
+  - listConseils
+  - listOffres
+  - listServices
+  - listServices2
   - parlaxgridtxtimg
   - liststyle01
   - liststyle01numbered
   - imagegallery02
+  - imgWide
+  - imgWideInBox
   - numberinfo
   - cta
-  - imgWide
+  - ctaShop4col
   - ZEHEROintro
-  - 4col2imgTxtImg
-  - ctaShop4col
-  - 4col2imgTxtImg
-  - 2col2tiers1tiers
-  - ctaShop4col
-  - 2colTitreTxt
   - newsletter
-  - video2colImgTxt
   - separatorLine
-  - heroImageFull
+  - video2colImgTxt
+  - videoPopup
   config:
     min: 
     max: 
