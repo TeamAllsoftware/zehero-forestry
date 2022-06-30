@@ -5,7 +5,7 @@ season: summer
 level: 2
 listMother: 2
 categorie: Randonnée
-topnav_color_text: dark
+topnav_color_text: light
 activite: randonnee
 meta-title: Randonnée et observation de chamois - Vosges
 meta-description: Partez observer les chamois en fin de journée dans les montagnes
