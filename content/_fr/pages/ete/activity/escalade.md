@@ -31,6 +31,14 @@ page_sections:
     L'escalade est une activité pour tous et ouvert à tout le monde. Pour ceux qu'ils veulent s'initier à cette pratique, un guide vous accompagnera avec le matériel nécessaire et vous expliquera comment assurer et bien grimper.
 
     L'escalade est une activité outdoor qui vous permet de partager un moment dans des lieux naturels, avec vos amis ou votre famille, en se dépassant.
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: https://www.montblancescalade.com/fr/
+    text_button: Nos offres d'escalade
+  intro: Découvrez la salle d'escalade
+  headline: aux Houches
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278285/website/escalade/brook-anderson-gTQbZXL417Q-unsplash.jpg
   atl_text_image_01: 'Corde d''escalade dans des dégaines '
