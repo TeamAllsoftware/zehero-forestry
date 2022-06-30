@@ -45,6 +45,25 @@ page_sections:
     Capbreton, Hossegor, Messanges, Biscarosse. C'est également une terre de thermalisme
     reconnu avec Dax.\n\nDécouvrez toutes nos offres de surf dans les Landes"
   blockBGcolor: ''
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649066104/website/Sama%20Sama/226734982_127748049518132_4391291001134263191_n.jpg
+    image_alt: Planches de surf colorés
+    title: Surfez à Mimizan
+    url: "/fr/ete/activites-reserver-cours-surf-mimizan-porge"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340584/website/Ind%C3%A9pendant/51492224_2264458510442590_1849281714996641792_n.png
+    title: Surfez avec Morgan d'Avezac
+    url: "/fr/ete/partenaires/morgan-davezac-surf-seignosse"
+    image_alt: Figue en surf sur une vague
+  - url: "/fr/reserver-cours-ecole-surf-seignosse"
+    image_alt: Surfeur à Seignosse
+    title: Surfez à Seignosse
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340583/website/Ind%C3%A9pendant/51668639_2264458490442592_3894814208168034304_n.png
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649066110/website/Sama%20Sama/216173831_123343679958569_6340812869216994865_n.jpg
+    image_alt: Groupes cours de surf à Mimizan
+    title: Surfez avec Sama Sama Surf School
+    url: "/fr/ete/partenaires/sama-sama-surf-school"
 - template: cta
   blockBGcolor: blanc
   marge: 20
