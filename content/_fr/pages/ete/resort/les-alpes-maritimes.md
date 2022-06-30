@@ -67,6 +67,14 @@ page_sections:
     amis, c'est le département idéal. Vous pourrez alors retrouver de la randonnée
     aquatique, des canyonings parfaits pour s'initier, des gorges magnifiques, des
     canyonings techniques avec de belles ambiances.
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: 'Les sorties de trail dans les '
+  headline: Alpes Maritimes
+  button:
+    href_button: "/fr/ete/activites/nos-sorties-trail"
+    text_button: Le trail dans le 06
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216730/website/summer/IMG_20200723_153002.jpg
@@ -81,9 +89,9 @@ page_sections:
     et confirmé avec également la mise en place d'itinérance sur deux journées à travers
     les Préalpes d'Azur pour un voyage extraordinaire.
   button:
-    text_button: Nos offres de trail dans les Alpes Maritimes
-    href_button: "/fr/ete/activites/nos-sorties-trail"
     alt_button: ''
+    text_button: ''
+    href_button: ''
 - template: textarea
   blockBGcolor: blanc
   content: "Le littoral est composé de ville comme Nice, Antibes ou encore Cannes.
