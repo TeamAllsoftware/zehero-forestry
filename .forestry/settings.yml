@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: readme-editor.md
-  label: Help (updated 29 juin 22)
+  label: Help (updated 30 juin 22)
   read_only: true
 - type: document
   path: index.html
