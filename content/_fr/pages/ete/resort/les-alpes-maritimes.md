@@ -52,66 +52,21 @@ page_sections:
     image_alt: Adultes et enfants faisant du canyoning dans les Alpes Maritimes
     title: Canyoning dans les Alpes Maritimes
     url: "/fr/ete/activites/nos-canyonings"
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  button:
-    href_button: ''
-    text_button: ''
-    alt_button: ''
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
-  alt_text_for_image: Des personnes avec des enfants faisant du canyoning dans les
-    Alpes Maritimes
-  captiontitleuppercase: Nos activités dans les Alpes Maritimes
-  title: Le Canyoning dans les Alpes Maritimes
-  content: Les Alpes Maritimes sont une destination incroyable pour la pratique du
-    canyoning. Avec les Gorges du Loup, de la Roya, de la Tinée, de la Vésubie et
-    bien d'autres. Ceux qui souhaitent s'initier au canyoning, découvrir des lieux
-    merveilleux, partager un moment d'émotions fortes en famille, de sensations entre
-    amis, c'est le département idéal. Vous pourrez alors retrouver de la randonnée
-    aquatique, des canyonings parfaits pour s'initier, des gorges magnifiques, des
-    canyonings techniques avec de belles ambiances.
-- template: cta
-  blockBGcolor: blanc
-  marge: 20
-  intro: 'Les sorties de trail dans les '
-  headline: Alpes Maritimes
-  button:
-    href_button: "/fr/ete/activites/nos-sorties-trail"
-    text_button: Le trail dans le 06
-- template: cta
-  blockBGcolor: blanc
-  marge: 20
-  intro: 'Les canyonings dans les '
-  headline: Alpes Maritimes
-  button:
-    text_button: Offres de canyoning 06
-    href_button: "/fr/ete/activites/nos-canyonings"
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216730/website/summer/IMG_20200723_153002.jpg
-  alt_text_for_image: Des traileurs sur la crètes du Cheiron dans les Alpes Maritimes
-  captiontitleuppercase: Nos activités dans les Alpes Maritimes
-  title: Le Trail dans les Alpes Maritimes
-  content: Tout comme le canyoning, les Alpes Maritimes sont un département où la
-    pratique du trail est idéale. Un département nature avec ses sentiers littoraux,
-    son parc naturel des Préalpes d'Azur, le massif de l'Esterel ainsi que le parc
-    national du Mercantour. Une terre unique où on y découvre un environnement protégé
-    et préservé. Nous proposons alors de nombreuse sortie de Trail pour débutants
-    et confirmé avec également la mise en place d'itinérance sur deux journées à travers
-    les Préalpes d'Azur pour un voyage extraordinaire.
-  button:
-    alt_button: ''
-    text_button: ''
-    href_button: ''
 - template: textarea
   blockBGcolor: blanc
-  content: "Le littoral est composé de ville comme Nice, Antibes ou encore Cannes.
+  content: |-
+    Les Alpes Maritimes sont une destination incroyable pour la pratique du canyoning. Avec les Gorges du Loup, de la Roya, de la Tinée, de la Vésubie et bien d'autres. Ceux qui souhaitent s'initier au canyoning, découvrir des lieux merveilleux, partager un moment d'émotions fortes en famille, de sensations entre amis, c'est le département idéal. Vous pourrez alors retrouver de la randonnée aquatique, des canyonings parfaits pour s'initier, des gorges magnifiques, des canyonings techniques avec de belles ambiances.
+
+    Tout comme le canyoning, les Alpes Maritimes sont un département où la pratique du trail est idéale. Un département nature avec ses sentiers littoraux, son parc naturel des Préalpes d'Azur, le massif de l'Esterel ainsi que le parc national du Mercantour. Une terre unique où on y découvre un environnement protégé et préservé. Nous proposons alors de nombreuse sortie de Trail pour débutants et confirmé avec également la mise en place d'itinérance sur deux journées à travers les Préalpes d'Azur pour un voyage extraordinaire.
+  title: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: Le littoral est composé de ville comme Nice, Antibes ou encore Cannes.
     Un peu plus haut dans les Préalpes, on retrouve des villes comme Vence, St Paule
     de Vence, Tourrettes sur Loup et encore Grasse. Et lorsque qu’on grimpe plus haut
     dans les montagnes, nous retrouvons Isola 2000, Auron, Valberg, St Etienne de
     Tinée, St Martin de Vésubie… Découvrez alors tout son littoral, ses rivières,
     le parc des Préalpes d'azur, ses lacs ainsi que le parc national du Mercantour.
-    \ \nUne région qui a beaucoup à offrir et dont vous ne pourrez vous ennuyer."
   title: ''
 - template: listOffres
   blockBGcolor: blanc
