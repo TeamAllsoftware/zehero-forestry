@@ -44,6 +44,14 @@ page_sections:
   filterLevel: 2
   whatActivity: canyoning
   listMother: 2
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
+    text_button: Louez votre équipement de canyoning
+  intro: 'Location d''équipement de canyoning dans les '
+  headline: Alpes Maritimes
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649081597/website/Partenaires/1638783865-DSC_0958.jpg
