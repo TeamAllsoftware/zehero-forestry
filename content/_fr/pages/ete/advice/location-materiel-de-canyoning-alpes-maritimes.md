@@ -44,6 +44,14 @@ page_sections:
     différents canyonings tel que le Gours du Ray, les gorges du Loup, le canyoning
     de Courmes. Sinon, il faudra aller plus loin en direction du Mercantour pour ceux
     de la Tinée, de la Vésubie, de la Roya etc."
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17729-location-materiel-de-canyoning-le-bar-sur-loup-alpes-maritimes-activite-ze-hero
+    text_button: Louez ici
+  intro: Location de matériel de canyoning
+  headline: dans les Alpes Maritimes
 - template: liststyle01
   title: La location comprend
   item:
