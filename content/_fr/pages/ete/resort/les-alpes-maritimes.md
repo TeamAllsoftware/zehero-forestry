@@ -43,7 +43,7 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   blockBGcolor: blanc
-  marge: 40
+  marge: 20
   intro: 'Les canyonings dans les '
   headline: Alpes Maritimes
   button:
