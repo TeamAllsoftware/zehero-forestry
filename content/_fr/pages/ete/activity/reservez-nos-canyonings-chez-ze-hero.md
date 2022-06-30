@@ -43,6 +43,7 @@ page_sections:
   service: activity
   filterLevel: 2
   whatActivity: canyoning
+  listMother: 2
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649081597/website/Partenaires/1638783865-DSC_0958.jpg
