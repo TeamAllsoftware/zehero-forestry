@@ -48,10 +48,6 @@ page_sections:
     image_alt: Coureur sur le plateau de Caussol
     title: Le Trail dans les Alpes Maritimes
     url: "/fr/ete/activites/nos-sorties-trail"
-  - image_href: " "
-    image_alt: " "
-    title: " "
-    url: " "
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
     image_alt: Adultes et enfants faisant du canyoning dans les Alpes Maritimes
     title: Canyoning dans les Alpes Maritimes
