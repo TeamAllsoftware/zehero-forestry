@@ -38,43 +38,39 @@ page_sections:
     tel que le Grand Ballon et le Hoeneck. Un massif où vous pourrez rencontrer des
     chamois, des lynx, pratiquer de nombreuses activités. \n\nDécouvrez toutes nos
     offres dans les Vosges"
-- template: cta
-  blockBGcolor: blanc
-  marge: 20
-  button:
-    href_button: "/fr/ete/activites/reserver-randonnee"
-    text_button: Nos randonnées dans les Vosges
-  intro: Nos offres de randonnée dans les
-  headline: Vosges
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655284949/website/Partenaires/Sorties%20de%20route/101063924_4563986853626763_4727020776681635840_n.jpg
-  alt_text_for_image: Randonneurs dans les Vosges au dessus d'une cascade
-  captiontitleuppercase: Nos activités dans les Vosges
-  title: La randonnée dans les Vosges
-  content: "Partez à la découverte du massif des Vosges en randonnant avec \" [**Sorties
-    de routes**](/fr/ete/partenaires/sorties-de-route) \". Cette accompagnatrice montagne,
-    spécialisé dans le bien-être, vous emmènera dans la forêts, sur les sentiers des
-    montagnes, à la découverte de cette nature, de sa faune et flore pour des randonnées
-    d'exceptions. Elles proposent de nombreuses randonnées pour les familles, avec
-    l'observation de chamois, des nuit e bivouac avec un feu de camp. Elle propose
-    aussi des sorties bien-être et de sylvothérapie pour un moment d'évasion et de
-    détente.  \nPartez marcher dans les Vosges vous évader pour des randonnées uniques. "
-  button:
-    href_button: ''
-    text_button: ''
-    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  content: |-
-    Les Vosges sont séparés en 4 parties :
-
-    * Les Hauts Vosges
-    * Les Vosges centrales
-    * Les Vosges du Sud
-    * Les Vosges du Nord
-
-    Les Vosges, c'est la destination nature et bien-être, c'est partir à l'aventure dans un environnement d'une richesse incroyable. Un lieu où se mélange la féerie, le sport, le bien-être, la nature, la découverte et les grands espaces. Dans le massif des Vosges, il ne manque pas d'activité nature.
+  title: Nos activités dans les Vosges
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654870381/website/Partenaires/Sorties%20de%20route/0BF05CFA-BF59-4622-B034-F92B5A07B856_1_201_a.jpg
+    image_alt: Chamois dans une jumelle
+    title: Observez les chamois
+    url: "/fr/ete/activites/randonnee-observation-chamois"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655286604/website/Partenaires/Sorties%20de%20route/albane-accompagnatrice-hautes-vosges.jpeg.webp
+    image_alt: Randonneuse dans les Vosges
+    url: "/fr/ete/activites/randonnee-sylvotherapie-vosges"
+    title: Randonnée et Sylvothérapie
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655101383/website/Partenaires/Sorties%20de%20route/hichem-meghachou-7I-Rj_E9ihI-unsplash.jpg
+    image_alt: Bivouac tente et feu de camp
+    title: 'Sortie randonnée et bivouac '
+    url: "/fr/ete/activites/sortie-bivouac-vosges"
+- template: textarea
+  blockBGcolor: blanc
+  content: "Les Vosges, c'est la destination nature et bien-être, c'est partir à l'aventure
+    dans un environnement d'une richesse incroyable. Un lieu où se mélange la féerie,
+    le sport, le bien-être, la nature, la découverte et les grands espaces. Dans le
+    massif des Vosges, il ne manque pas d'activité nature.\n\nPartez à la découverte
+    du massif des Vosges en randonnant avec \" [**Sorties de routes**](/fr/ete/partenaires/sorties-de-route)
+    \". Cette accompagnatrice montagne, spécialisé dans le bien-être, vous emmènera
+    dans la forêts, sur les sentiers des montagnes, à la découverte de cette nature,
+    de sa faune et flore pour des randonnées d'exceptions. Elles proposent de nombreuses
+    randonnées pour les familles, avec l'observation de chamois, des nuit e bivouac
+    avec un feu de camp. Elle propose aussi des sorties bien-être et de sylvothérapie
+    pour un moment d'évasion et de détente.  \nPartez marcher dans les Vosges vous
+    évader pour des randonnées uniques."
   title: ''
 type: generic
 level: 1
