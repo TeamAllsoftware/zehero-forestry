@@ -121,7 +121,7 @@ page_sections:
   image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650965162/website/logo/Image%20Background/ZEHERO_TEAM_BACKGROUND.png
   baseline: L’outdoor au rythme de vos émotions
   title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
-  url_link: https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  url_link: https://shop.ze-hero.com/fr/activites-Outdoor
   title_link: Visiter la boutique
 author: geoffreyarduini
 baseline: ''
