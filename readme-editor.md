@@ -19,6 +19,18 @@ Once you have been introduce to our system, you might want to use the block comp
 
 ## LASTEST UPDATES
 
+#### update 30.06.2022 : Gérer la saison de la home du site
+
+Quand arrive le changement de saison et que la home du site doit afficher la nouvelle saison, tu édites la page "Site choix saison pour la home" dans le menu et tu modifies les 2 parties du code dans lesquels il est écrit
+
+    /fr/ete/
+
+et tu mets à jour pour 
+
+    /fr/hiver/
+
+et voila, dans notre example, la home du site sera la saison d'hiver.
+
 #### update 29.06.2022 : Gérer les départements de la carte
 
 La carte se gère depuis la page "carte" dans le menu. C'est une page de code assez simple à gérer.
