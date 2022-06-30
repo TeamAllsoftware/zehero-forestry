@@ -65,22 +65,6 @@ page_sections:
     image_alt: Groupe de personne à VTT en forêt
     title: Découvrez comment bien débuter le VTT
     url: "/fr/ete/conseils/debuter-vtt"
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  button:
-    href_button: ''
-    text_button: ''
-    alt_button: ''
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108069/website/VTT%20AE/pexels-reinhard-bruckner-5328112.jpg
-  alt_text_for_image: Des vaches et une personnes faisant du VTT en Savoie
-  captiontitleuppercase: Nos activités en Savoie
-  title: Le VTT en Savoie
-  content: "Découvrez avec Ze Hero toutes nos offres de VTT en Savoie. Partez explorer
-    les sentiers en VTT ainsi qu'en VTT électrique. Que ce soit en famille, entre
-    amis, chacune des offres sera adaptée aux niveaux et aux envies.  \nVous pourrez
-    alors rouler en VTT à Méribel et à Les Menuires avec notre moniteur de VTT. Vous
-    pourrez également découvrir les hauteurs d'Aix les Bains et le plateau du Grand
-    Revard avec Expérience Vélo."
 - template: textarea
   blockBGcolor: blanc
   content: "Le département compte 3 parcs naturels : un parc national (Parc National
