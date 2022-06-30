@@ -1,13 +1,13 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Randonner en montagne
 activite: randonnee
 level: 1
-enHome: 2
+listMother: 2
 permalink: "/fr/ete/activites/randonnee-montagne"
 redirect_from:
 - "/fr/ete/activite/randonnee-montagne"
@@ -21,6 +21,8 @@ image01_alt: Groupe de marcheurs et de randonneurs en montagne qui marchent sur 
   sentier
 categorie: Randonnée
 page_sections:
+- template: heroBreadcrumb
+  title: La randonnée, késako ?
 - template: textarea
   title: La randonnée en montagne
   content: |-
@@ -30,6 +32,24 @@ page_sections:
 
     Être accompagné d'un guide, c'est randonner en apprenant tout sur ce qu'il vous entoure, c'est être guidé vers les plus beaux lieux.
   blockBGcolor: ''
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: Découvrez dès maintenant nos offres de randonnée
+  headline: Toutes nos offres
+  button:
+    text_button: Nos offres
+    href_button: "/fr/ete/activites/reserver-randonnee"
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1654869668/website/summer/PXL_20220523_082022339.jpg
+  atl_text_image_01: Personne faisant de la randonnée dans les Pyrénées
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216735/website/summer/IMG_20200730_110620.jpg
+  atl_text_image_02: Randonnée dans le Mercantour au Gélas
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216729/website/summer/IMG_20200730_101625.jpg
+  atl_text_image_03: Randonnée dans le Mercantour
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1646229802/website/summer/holly-mandarich-7MrXw_o7Eo4-unsplash_np8sxy.jpg
+  atl_text_image_04: Personnes faisant de la randonnée avec un chien
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de randonnées
@@ -44,37 +64,22 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
-  content: "* Débuter en randonnée\n\nDébuter en randonnée, c'est savoir faire les
-    itinéraires qui nous conviennent et qui sont adaptés à notre niveau. Il est important
-    de ne pas brûler les étapes et de comprendre les différents aspects de la randonnée
-    en montagne. C'est donc acquérir différents aspects physiques mais également des
-    connaissances sur l'environnement, le terrain, la météorologie ainsi que le matériel.
-    Avoir un guide vous permet de bien débuter et de comprendre toutes ces notions
-    en pratiquants la randonnée avec ce guide.\n\nDécouvrez plus d'information sur
-    notre page : Débuter la randonnée en montagne\n\n* S'équiper en randonnée\n\nSi
-    vous n'avez aucune idée de comment vous équiper pour pratiquer la randonnée, nous
-    allons vous aider. Il y a des équipements plus adaptés à la marche et à la randonnée
-    et qui vous permettrons d'être plus à l'aise, d'avoir une liberté de mouvement
-    plus importante. Les chaussures de randonnée sont un équipement important à bien
-    choisir, comme le sac à dos. Vous évoluerez dans un milieu naturel qui peut être
-    changeant et incertain, il faut donc toujours prévoir les imprévisibilités.\n\nDécouvrez
-    plus d'information sur nos pages : [**Le matériel à avoir dans son sac **](https://www.ze-hero.com/fr/ete/conseils/liste-materiel-randonnee)et
-    [**bien préparer sa sortie**](https://www.ze-hero.com/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee)**.**
-    \n\n* Nos itinéraires de randonnée\n\nIl existe un choix énorme en France avec
-    nos différentes montagnes telles que dans les Pyrénées, la Vanoise, le Jura, les
-    Vosges, le Mercantour, les Bauges, les Ecrins, le Queyras, la vallée de Chamonix
-    et bien d’autres. On retrouve des massifs et des parcs où la végétation est très
-    différente, tout comme la roche et l'environnement, des lieux plus minérales ou
-    plus boisés, des lieux avec des glaciers et d’autres entourés de sapins. Vous
-    avez le choix, de plus les différents GR vous amènent à travers des lieux uniques.
-    Nous avons sélectionné chez Ze Hero avec nos partenaires des randonnées dans les
-    Alpes Maritimes à travers les Préalpes d'Azur et le Mercantour. Mais nous avons
-    également sélectionné des itinéraires incroyables en Savoie, en Haute Savoie,
-    dans les Cévennes, la Lozère ainsi que les Vosges."
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195884/website/assets/Recadr%C3%A9es/randonnee.png
-  alt_text_for_image: Equipement randonnée
+  content: |-
+    * Débuter en randonnée
+
+    Débuter en randonnée, c'est savoir faire les itinéraires qui nous conviennent et qui sont adaptés à notre niveau. Il est important de ne pas brûler les étapes et de comprendre les différents aspects de la randonnée en montagne. C'est donc acquérir différents aspects physiques mais également des connaissances sur l'environnement, le terrain, la météorologie ainsi que le matériel. Avoir un guide vous permet de bien débuter et de comprendre toutes ces notions en pratiquants la randonnée avec ce guide.
+
+    Découvrez plus d'information sur notre page : Débuter la randonnée en montagne
+
+    * S'équiper en randonnée
+
+    Si vous n'avez aucune idée de comment vous équiper pour pratiquer la randonnée, nous allons vous aider. Il y a des équipements plus adaptés à la marche et à la randonnée et qui vous permettrons d'être plus à l'aise, d'avoir une liberté de mouvement plus importante. Les chaussures de randonnée sont un équipement important à bien choisir, comme le sac à dos. Vous évoluerez dans un milieu naturel qui peut être changeant et incertain, il faut donc toujours prévoir les imprévisibilités.
+
+    Découvrez plus d'information sur nos pages : [**Le matériel à avoir dans son sac**](https://www.ze-hero.com/fr/ete/conseils/liste-materiel-randonnee) et [**bien préparer sa sortie**](https://www.ze-hero.com/fr/ete/conseils/preparer-sa-sortie-randonnee-a-la-journee)**.**
+
+    * Nos itinéraires de randonnée
+
+    Il existe un choix énorme en France avec nos différentes montagnes telles que dans les Pyrénées, la Vanoise, le Jura, les Vosges, le Mercantour, les Bauges, les Ecrins, le Queyras, la vallée de Chamonix et bien d’autres. On retrouve des massifs et des parcs où la végétation est très différente, tout comme la roche et l'environnement, des lieux plus minérales ou plus boisés, des lieux avec des glaciers et d’autres entourés de sapins. Vous avez le choix, de plus les différents GR vous amènent à travers des lieux uniques. Nous avons sélectionné chez Ze Hero avec nos partenaires des randonnées dans les Alpes Maritimes à travers les Préalpes d'Azur et le Mercantour. Mais nous avons également sélectionné des itinéraires incroyables en Savoie, en Haute Savoie, dans les Cévennes, la Lozère ainsi que les Vosges.
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646301523/website/summer/lucas-favre-GzcI_rMNclY-unsplash_rwravw.jpg
@@ -108,5 +113,8 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+listMother: 1
+titleHome: La randonnée
+conseil: ''
 
 ---

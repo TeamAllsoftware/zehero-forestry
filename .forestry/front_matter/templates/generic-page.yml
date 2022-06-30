@@ -23,6 +23,20 @@ fields:
       file: 
       path: 
   label: language
+- name: type
+  type: select
+  default: generic
+  config:
+    required: true
+    options:
+    - B2B
+    - generic
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Quel type de page ? B2B ou non
 - name: season
   type: select
   default: winter
@@ -37,11 +51,56 @@ fields:
       file: 
       path: 
   label: season
+- name: level
+  type: select
+  default: 2
+  config:
+    required: 
+    options:
+    - 1
+    - 2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Page mère (1) ou fille (2) ?
+- name: listMother
+  type: select
+  default: 2
+  config:
+    required: 
+    options:
+    - 1
+    - 2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Afficher (1) ou non (2) cette page mère dans les listes ?
 - name: title
   type: text
   config:
     required: true
   label: Title
+- name: titleHome
+  type: text
+  config:
+    required: 
+  label: Surcharger le Title pour afficher autre chose dans les encarts de liste
+- name: activite
+  type: text
+  config:
+    required: 
+  label: Quelle est l'activité ? Attention à l'orthographe afin que la "fille" retrouve
+    la "mère"
+- name: conseil
+  type: text
+  config:
+    required: 
+  label: Quelle est le conseil ? Attention à l'orthographe afin tous les conseils
+    identiques soient listés
 - name: permalink
   type: text
   config:
@@ -119,7 +178,10 @@ fields:
   - 4col2imgTxtImg
   - 3coltxtimgtxt
   - blogPostList
+  - listConseils
+  - listOffres
   - listServices
+  - listServices2
   - parlaxgridtxtimg
   - liststyle01
   - liststyle01numbered
@@ -138,6 +200,44 @@ fields:
     min: 
     max: 
 pages:
+- content/_fr/pages/ete/activity/canyoning-de-nyon-thonon-les-bains.md
+- content/_fr/pages/ete/activity/canyoning.md
+- content/_fr/pages/ete/activity/cours-de-surf-a-seignosse.md
+- content/_fr/pages/ete/activity/escalade.md
+- content/_fr/pages/ete/activity/la-canyoning-a-annecy.md
+- content/_fr/pages/ete/activity/les-canyonings-dans-les-alpes-maritimes.md
+- content/_fr/pages/ete/activity/les-itinerances-de-trail-dans-les-prealpes-d-azur.md
+- content/_fr/pages/ete/activity/observation-des-chamois.md
+- content/_fr/pages/ete/activity/randonnee-du-cinglegros-et-baousse-del-biel.md
+- content/_fr/pages/ete/activity/randonnee-en-montagne.md
+- content/_fr/pages/ete/activity/randonnee-et-sylvotherapie-dans-les-vosges.md
+- content/_fr/pages/ete/activity/reserver-randonnee-balcon-tarn-et-jonte.md
+- content/_fr/pages/ete/activity/reservez-cours-de-surf-a-mimizan-et-porge.md
+- content/_fr/pages/ete/activity/reservez-nos-canyonings-chez-ze-hero.md
+- content/_fr/pages/ete/activity/reservez-sortie-vtt-au-grand-revard.md
+- content/_fr/pages/ete/activity/reservez-un-cours-de-surf-a-saint-brevins-les-pins.md
+- content/_fr/pages/ete/activity/reservez-votre-activite-a-vtt-chez-ze-hero.md
+- content/_fr/pages/ete/activity/reservez-votre-activite-de-randonnee-chez-ze-hero.md
+- content/_fr/pages/ete/activity/reservez-votre-cours-de-surf.md
+- content/_fr/pages/ete/activity/reservez-votre-sortie-trail-chez-ze-hero.md
+- content/_fr/pages/ete/activity/sortie-bivouac-dans-les-vosges.md
+- content/_fr/pages/ete/activity/surf.md
+- content/_fr/pages/ete/activity/trail-running.md
+- content/_fr/pages/ete/activity/vtt-a-meribel-et-les-menuires.md
+- content/_fr/pages/ete/activity/vtt.md
+- content/_fr/pages/ete/activity/yoga.md
+- content/_fr/pages/ete/advice/bien-s-equiper-en-surf.md
+- content/_fr/pages/ete/advice/canyoning-dans-les-alpes-maritimes.md
+- content/_fr/pages/ete/advice/debuter-en-surf.md
+- content/_fr/pages/ete/advice/location-materiel-de-canyoning-alpes-maritimes.md
+- content/_fr/pages/ete/resort/la-haute-savoie-74.md
+- content/_fr/pages/ete/resort/la-loire-atlantique.md
+- content/_fr/pages/ete/resort/la-lozere-et-ses-activites-outdoor-pour-la-saison-d-ete.md
+- content/_fr/pages/ete/resort/les-alpes-maritimes.md
+- content/_fr/pages/ete/resort/les-landes-et-ses-activites-outdoor-pour-la-saison-d-ete.md
+- content/_fr/pages/ete/resort/les-vosges-et-ses-activites-outdoor-pour-la-saison-d-ete.md
+- content/_fr/pages/ete/resort/savoie.md
+- content/_fr/pages/ete/resort/trouver-votre-destination-et-votre-activite.md
 - content/_fr/pages/hiver/racine/prosneige-partenariat-1.md
 - content/_fr/pages/hiver/racine/prosneige-partenariat.md
 - content/_fr/pages/various/divers/landing-livreBlanc-trail.md

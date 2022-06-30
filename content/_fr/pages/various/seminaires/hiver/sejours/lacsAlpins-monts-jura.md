@@ -9,8 +9,8 @@ title: Détente entre Léman, Suisse et Jura
 permalink: "/fr/seminaires-hiver/idee-sejour-lac-alpin-mont-jura"
 meta-title: Séjour Pure-Détente entre Léman, Suisse et Jura
 meta-description: Au printemps, automne, le lac Léman offre toutes les activités nautiques imaginables...
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652727783/website/resorts/Monts-Jura/droneviews-fr-xYWvFa8ZLYE-unsplash.jpg
-image_alt: Vue aérienne de Divonne-les-Bains avec son lac et ses montagnes très proches
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652727783/website/resorts/Monts-Jura/droneviews-fr-xYWvFa8ZLYE-unsplash.jpg
+image01_alt: Vue aérienne de Divonne-les-Bains avec son lac et ses montagnes très proches
 redirection_from:
 price: 289
 headline: Au printemps, automne, le lac Léman offre toutes les activités nautiques imaginables...

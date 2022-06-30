@@ -16,7 +16,7 @@ page_sections:
   title: Liste des activités pour les séminaires été
   content: |-
     ZE HERO Séminaires organise votre événement d’entreprise entre Mont Blanc, Côte d'Azur, Provence et Mercantour, au cœur d’une nature généreuse, de villages charmants, de plages de sable fin et d'eaux cristalines... un cadre unique et parfois prestigieux qui sera apprécié par tous.
-- template: listServices
+- template: listServices2
   service: activites
 - template: cta
   intro: Demande de devis

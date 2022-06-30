@@ -10,6 +10,7 @@ meta-description: Pratiquez le VTT électrique pour découvrir la montagne à v�
   faire de longue balades. Sportive ou
 title: VTT Electrique
 activite: VTT
+listMother: 2
 level: 2
 permalink: "/fr/ete/activites/vtt-electrique"
 baseline: Balade, randonnée, découverte

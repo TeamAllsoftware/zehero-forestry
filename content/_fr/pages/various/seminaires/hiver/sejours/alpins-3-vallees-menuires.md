@@ -9,8 +9,8 @@ title: Les 3 Vallées depuis Les Menuires
 permalink: "/fr/seminaires-hiver/idee-sejour-3-valles-depuis-les-menuires"
 meta-title: Séjour Les 3 Vallées depuis Les Menuires
 meta-description: Les Menuires, à mi chemin entre le village de Saint Martin de Belleville (1 400 m.) et Val Thorens (2 300 m.) offrent à 1 800 m. le point de départ idéal pour découvrir les "3 Vallées" à skis mais également en formule piétons...
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
-image_alt: Vue aérienne de la station des Ménuires dans les 3 vallées
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
+image01_alt: Vue aérienne de la station des Ménuires dans les 3 vallées
 redirection_from:
 price: 329
 headline: Les Menuires, à mi chemin entre le village de Saint Martin de Belleville (1 400 m.) et Val Thorens (2 300 m.) offrent à 1 800 m. le point de départ idéal pour découvrir les "3 Vallées" à skis mais également en formule piétons...

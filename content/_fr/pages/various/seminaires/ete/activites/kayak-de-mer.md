@@ -9,8 +9,8 @@ title: Kayak de mer
 permalink: "/fr/seminaires-ete/activites/kayak-de-mer"
 meta-title: Kayak de mer
 meta-description: Naviguez en Kayak en toute sécurité, le long d'une des perles de la Côte d'Azur
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545630/website/summer/christian-bowen-uknf_4Umtqc-unsplash.jpg
-alt_href: Des participantes sur un kayak des mer
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648545630/website/summer/christian-bowen-uknf_4Umtqc-unsplash.jpg
+alt01_href: Des participantes sur un kayak des mer
 redirection_from:
 price: 35
 headline: Naviguez en Kayak en toute sécurité, le long d'une des perles de la Côte d'Azur

@@ -1,5 +1,5 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: summer
 meta-description: Découvrez et réservez votre canyoning dans le clue de la cerise.
@@ -7,17 +7,19 @@ meta-description: Découvrez et réservez votre canyoning dans le clue de la cer
   de matériel.
 topnav_color_text: light
 title: Canyoning Clue de la cerise
-permalink: "/fr/ete/conseils/canyoning-clue-de-la-cerise"
+permalink: "/fr/ete/activites/canyoning-clue-de-la-cerise"
 meta-title: Réservez votre canyoning du clue de la cerise
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
 image01_alt: Fille sautant dans le canyon de la clue de la cerise
 button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17604-initiation-et-special-famille-canyoning-magnifique-et-sans-corde-clue-de-la-cerise-activite-ze-hero
 page_sections:
+- template: heroBreadcrumb
+  title: Le canyoning de Clue de la Cerise
 - template: textarea
   blockBGcolor: blanc
-  title: Canyoning du Clue de la Cerise
+  title: 'Canyoning du Clue de la Cerise : randonné aquatique'
   content: "Le canyoning du Clue de la Cerise est un canyon qui se situe près de Nice.
     Dans la vallée du Var et de Carros, vous découvrirez des petits villages perchés
     sur les hauteurs dont le village Gilette. C'est un magnifique village situé dans
@@ -28,6 +30,14 @@ page_sections:
     dans cette rivière dans un cadre unique et magique.\n\nUn canyon à faire en famille
     ou entre amis, qui ne demande pas de matériel spécifique mais une bonne condition
     physique.\n\nVoyons les spécificité de ce canyon :"
+- template: cta
+  intro: Profitez d'un moment d'évasion dans le
+  headline: Clue de la Cerise
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17604-initiation-et-special-famille-canyoning-magnifique-et-sans-corde-clue-de-la-cerise-activite-ze-hero
+  blockBGcolor: ''
+  marge: 40
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655476307/website/By%20Ze%20Hero%20Activity/GPTempDownload_1.jpg
   atl_text_image_01: Saut dans le clue de la cerise
@@ -63,11 +73,12 @@ page_sections:
   - 'Lieu : Gilette'
   - 'Temps global : 3h30'
   - 'Prix : 50€'
-- template: cta
-  intro: Profitez d'un moment d'évasion dans le
-  headline: Clue de la Cerise
-  button:
-    text_button: 'Réservez ici '
-    href_button: https://www.ze-hero.com/fr/contact
+type: generic
+level: 2
+conseil: ''
+activite: canyoning
+titleHome: 'Canyoning Clue de la cerise : randonnée aquatique'
+baseline: ''
+listMother: 2
 
 ---

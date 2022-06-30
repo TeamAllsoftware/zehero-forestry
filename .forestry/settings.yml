@@ -6,8 +6,11 @@ webhook_url:
 sections:
 - type: document
   path: readme-editor.md
-  label: Help (updated 11 mar 22)
+  label: Help (updated 30 juin 22)
   read_only: true
+- type: document
+  path: index.html
+  label: Site choix saison pour la home
 - type: document
   path: _data/authors.yml
   label: Authors
@@ -21,6 +24,9 @@ sections:
   path: _data/codepostaux.yml
   label: Code postaux
   read_only: true
+- type: document
+  path: _includes/structure/map.html
+  label: Carte
 - type: heading
   label: FRENCH
 - type: directory
@@ -51,27 +57,36 @@ sections:
 - type: document
   path: _data/menu/fr/hiver.yml
   label: HIVER menu header
+- type: document
+  path: _data/menu_footer/fr/hiver.yml
+  label: HIVER menu footer
 - type: directory
   path: content/_fr/pages/hiver/activity
   label: HIVER Activités
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - activity-page
+  - generic-page
 - type: directory
   path: content/_fr/pages/hiver/resort
   label: HIVER Resorts
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - resort-page
+  - generic-page
 - type: directory
   path: content/_fr/pages/hiver/advice
   label: HIVER Conseils
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - advice-page
+  - generic-page
 - type: heading
   label: French été
 - type: directory
@@ -84,27 +99,36 @@ sections:
 - type: document
   path: _data/menu/fr/ete.yml
   label: ETE menu header
+- type: document
+  path: _data/menu_footer/fr/ete.yml
+  label: ETE menu footer
 - type: directory
   path: content/_fr/pages/ete/activity
   label: ETE Activités
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - activity-page
+  - generic-page
 - type: directory
   path: content/_fr/pages/ete/resort
   label: ETE Resorts
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - resort-page
+  - generic-page
 - type: directory
   path: content/_fr/pages/ete/advice
   label: ETE Conseils
   create: documents
   match: "**/*"
   templates:
+  - generic-page
   - advice-page
+  - generic-page
 - type: heading
   label: ENGLISH
 - type: directory

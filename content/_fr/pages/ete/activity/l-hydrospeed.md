@@ -12,8 +12,8 @@ meta-description: 'Découvrez l''hydrospeed afin de nager dans les rivières, d'
   une aventure inoubliable. '
 title: L'Hydrospeed
 activite: hydrospeed
+listMother: 1
 level: 1
-enHome: 2
 permalink: "/fr/ete/activites/hydrospeed"
 baseline: Surfez dans les rivières
 engage: 'Découvrez la nage en rivière             '

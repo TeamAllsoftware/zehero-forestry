@@ -1,11 +1,11 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
 topnav_color_text: dark
 title: Le Canyoning à Annecy
-activite: canyonning
+activite: ''
 level: 2
 permalink: "/fr/ete/activites/canyoning-annecy"
 redirect_from:
@@ -65,5 +65,7 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Canyoning&start-date=
+titleHome: Le Canyoning à Annecy
+conseil: spot
 
 ---

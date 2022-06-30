@@ -9,8 +9,8 @@ title: Chasse au trésor
 permalink: "/fr/seminaires-ete/activites/chasse-au-tresor"
 meta-title: Chasse au trésor
 meta-description: Avec l'aide d'un iPhone récoltez vos indices grâce à la carte enregistrée dans l'appareil
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654279791/website/Seminaires/ete/adrien-bruneau-UdiNfm-UdCw-unsplash.jpg
-alt_href: Une chasse au trésor sur la Côte d'Azur
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654279791/website/Seminaires/ete/adrien-bruneau-UdiNfm-UdCw-unsplash.jpg
+alt01_href: Une chasse au trésor sur la Côte d'Azur
 redirection_from:
 price: 30
 headline: Récoltez vos indices grâce à la carte enregistrée dans votre smartphone et dégustez des produits locaux pour accéder à vos indices et valider les points de passage et trouver le trésor.

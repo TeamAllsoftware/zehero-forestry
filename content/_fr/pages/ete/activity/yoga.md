@@ -1,13 +1,13 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
 topnav_color_text: dark
 title: Yoga
 activite: yoga
+listMother: 1
 level: 1
-enHome: 2
 permalink: "/fr/ete/activite/yoga"
 redirect_from:
 - "/fr/ete/activite/yoga"
@@ -21,7 +21,7 @@ image01_alt: Femme faisant du Yoga sur un tapis au coucher de soleil dans une po
 categorie: Yoga
 page_sections:
 - template: textarea
-  title: Présentation Yoga
+  title: Présentation Yoga2
   content: Le Yoga, d'une manière générale, est une pratique de bien-être, de détente,
     de méditation mais aussi de tonicité. On va y retrouver alors de la gymnastique
     douce, différentes postures et enchainement de gestes, de la respiration, des
@@ -114,5 +114,7 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+titleHome: ''
+published: false
 
 ---

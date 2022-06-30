@@ -1,5 +1,5 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: summer
 meta-description: Découvrez et réservez votre canyoning dans le ruisseau Audin dans
@@ -7,14 +7,18 @@ meta-description: Découvrez et réservez votre canyoning dans le ruisseau Audin
   aquatique très ludique dans une belle ambiance
 topnav_color_text: light
 title: Le Canyoning Ruisseau Audin
-permalink: "/fr/ete/conseils/canyoning-ruisseau-audin"
+activite: canyoning
+level: 2
+permalink: "/fr/ete/activites/canyoning-ruisseau-audin"
 meta-title: Réservez votre canyoning ruisseau audin
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199369/website/By%20Ze%20Hero%20Activity/IMG_4080.jpg
 image01_alt: 3 personnes dans un canyon du ruisseau Audin
 button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17200-special-enfants-ruisseau-audin-activite-ze-hero
 page_sections:
+- template: heroBreadcrumb
+  title: 'Le Canyoning Ruisseau Audin : Familiale et ludique'
 - template: textarea
   blockBGcolor: blanc
   content: |-
@@ -24,6 +28,14 @@ page_sections:
 
     Découvrez ses spécificités :
   title: Le canyoning du Ruisseau Audin
+- template: cta
+  intro: Profitez d'un moment de sensation forte dans le
+  headline: ruisseau d'Audin
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17200-special-enfants-ruisseau-audin-activite-ze-hero
+  blockBGcolor: ''
+  marge: 40
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655386943/website/By%20Ze%20Hero%20Activity/IMG_4072.jpg
   atl_text_image_01: Ruisseau Audin toboggans
@@ -36,7 +48,7 @@ page_sections:
   title: ''
 - template: textarea
   blockBGcolor: blanc
-  title: 'Canyoning Ruisseau Audin : Familiale et ludique'
+  title: ''
   content: "Le canyoning du Ruisseau Audin est canyoning parfait pour les familles.
     Très ludique, il est entre la randonnée aquatique et le canyoning. Facile et complet,
     vous pourrez profiter de ses sauts, de ses toboggans, de petits rappels, d'un
@@ -55,11 +67,9 @@ page_sections:
   - 'Lieu : Fanghetto'
   - 'Temps global : 3h'
   - 'Prix : 50€'
-- template: cta
-  intro: Profitez d'un moment de sensation forte dans le
-  headline: ruisseau d'Audin
-  button:
-    text_button: 'Réservez ici '
-    href_button: https://www.ze-hero.com/fr/contact
+type: generic
+titleHome: 'Canyoning Ruisseau Audin : Familiale et ludique'
+baseline: ''
+listMother: 2
 
 ---

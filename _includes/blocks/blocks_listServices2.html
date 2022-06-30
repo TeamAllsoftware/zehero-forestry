@@ -1,0 +1,42 @@
+
+<!-- start section -->
+<section class="padding-100px-top padding-20px-bottom {% if block.blockBGcolor == 'gris' %} bg-light-gray {% endif %}">
+    {% if block.headtitle %} 
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-6 text-center margin-5-rem-bottom md-margin-4-rem-bottom wow animate__fadeIn">
+                <span class="alt-font font-weight-600 text-green text-uppercase letter-spacing-1px d-block margin-5px-bottom">{{ block.headtitle.headline }}</span>
+                <h2 class="h2 alt-font font-weight-700 text-slate-blue letter-spacing-minus-1px text-uppercase">{{ block.headtitle.title }}</h2>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    <div class="container">
+        <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center margin-9-rem-bottom lg-margin-7-rem-bottom">
+            {% assign filterLevel = block.filterLevel %}
+            {% assign whatActivity = block.whatActivity %}
+            {% assign listMother = block.listMother %}
+            {% assign collection = site[page.collection] | where_exp: 'item',"item.activite == whatActivity and item.level == filterLevel and item.listMother == listMother" %}
+            {% assign serviceType = block.service %}
+            {% assign servicePath = season_language | prepend:'/' | append: '/' | append: serviceType | append: '/' %}
+            
+            {% for service in collection %}
+            {% if service.path contains servicePath %}
+            <!-- start testimonial item -->
+            <div class="col margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
+                <div class="testimonials-style-02 border-radius-5px overflow-hidden">
+                    <img class="d-inline-block" loading="lazy" src="{{ imgsize.url }}{{ imgsize.blogpostlist }}{{ service.image01_href | remove: 'https://res.cloudinary.com/deddrj0yb/image/upload' }}" alt="{{ service.image01_alt }}"  width="600px" height="450px" />
+                    <div class="testimonials-content padding-3-half-rem-all bg-light-gray  lg-padding-2-half-rem-lr  {% if block.blockBGcolor == 'gris' %} bg-white {% endif %}">
+                        <h3 class="h-90px h3 alt-font font-weight-500 text-extra-dark-gray text-uppercase d-block">{% if service.titleHome %}{{ service.titleHome }}{% else %}{{ service.title }}{% endif %}</h3>
+                        {% if service.headline %}<p class="h-200px">{{ service.headline }}</p>{% else %}<div class="h-40px"></div>{% endif %}
+                        <a href="{{ service.url }}" class="btn btn-large btn-{{ site.data.config[page.type].site-color }} btn-round-edge-small" title="Visiter la page {{ service.title }}">{% if service.price %}A partir de {{ service.price }}€ / pers{% else %}En savoir+{% endif %}</a>                        
+                    </div>
+                </div>
+            </div>
+            <!-- end testimonial item -->
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- end section -->

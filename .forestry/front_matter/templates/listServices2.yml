@@ -1,0 +1,68 @@
+---
+label: listServices 02
+hide_body: true
+fields:
+- name: blockBGcolor
+  type: select
+  default: gris
+  config:
+    required: false
+    options:
+    - gris
+    - blanc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur de fond du composant
+- name: service
+  type: select
+  default: activity
+  config:
+    required: true
+    options:
+    - activity
+    - advice
+    - resort
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Quelle liste afficher ?
+- name: whatActivity
+  type: text
+  config:
+    required: false
+  label: Quelle activité afficher ?
+  description: Attention de bien orthographier l'activité afin de lister l'ensemble
+    des filles
+- name: filterLevel
+  type: select
+  default: 2
+  config:
+    required: true
+    options:
+    - 1
+    - 2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: mere (1) ou fille (2)
+- name: listMother
+  type: select
+  default: 2
+  config:
+    required: true
+    options:
+    - 1
+    - 2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: parmi les pages affichées en home (1) ou non (2)

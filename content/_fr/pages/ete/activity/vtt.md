@@ -1,14 +1,14 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: VTT
 permalink: "/fr/ete/activites/vtt"
 redirect_from:
 - "/fr/ete/activite/vtt"
-meta-title: Sortie et randonnée en VTT - Famille et sportif
+meta-title: Sortie de VTT et VAE - Famille et sportif
 meta-description: Pratiquez le VTT pour découvrir des paysages, vivre des descentes
   sensationnelles à travers la nature.
 baseline: Vitesse, sensation et randonnée
@@ -17,6 +17,8 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/webs
 image01_alt: Groupe de personne faisant du VTT sur un sentier de terre face à la montagne
 categorie: Vélo
 page_sections:
+- template: heroBreadcrumb
+  title: VTT, késako ?
 - template: textarea
   content: "Le VTT, appelé également le mountain bike, le vélo tout terrain ou encore
     le vélo de montagne est une activité sportive, ludique et technique selon les
@@ -32,6 +34,24 @@ page_sections:
     Electrique**](https://www.ze-hero.com/fr/ete/activites/vtt-electrique). "
   title: Le VTT
   blockBGcolor: ''
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: Découvrez dès maintenant nos activités VTT
+  headline: Toutes nos offres
+  button:
+    href_button: "/fr/ete/activites/reserver-vtt"
+    text_button: Nos offres
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108069/website/VTT%20AE/pexels-reinhard-bruckner-5328112.jpg
+  atl_text_image_01: Des vaches et une personne faisant du VTT en montagne
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108071/website/VTT%20AE/forest-4366094_1920.jpg
+  atl_text_image_02: Un groupe de personne faisant du VTT
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1654866668/website/Sames%20Jones/FB_IMG_1654680653467.jpg
+  atl_text_image_03: Personne descendant à VTT
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1653899659/website/Exp%C3%A9rience%20V%C3%A9lo/randonn%C3%A9e_en_vtt_%C3%A9lectrique_%C3%A0_proximit%C3%A9_du_lac_d_annecy_en_haute-savoie..jpg
+  atl_text_image_04: Expérience Vélo
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
@@ -40,17 +60,17 @@ page_sections:
 
     Débuter le VTT et le VAE, c'est être encadré par un moniteur afin de parcourir des sentiers dans un environnement naturel. C'est profiter de l'émulsion d'un groupe, de découvrir des lieux, des paysages, de rouler en montagne, en forêts. Vous pourrez alors apprendre comment bien pédaler en montée, les techniques de descente et profiter du moment. Que ce soit pour des petites balades, de longues randonnées pour famille ou sportive, partez rouler en VTT et VAE.
 
+    Plus d'information sur notre page : [**Débuter à VTT**](/fr/ete/conseils/debuter-vtt)
+
     * S'équiper en VTT et VAE
 
     S'équiper en VTT et VTT électrique c'est tout d'abord avoir des vêtements adaptés à l'activité. Il vous faudra vous protéger avec un casque et parfois des protections supplémentaires tel qu'aux coudes, genoux, cheville et dos. Il vaut mieux porter des lunettes afin de ne pas recevoir de projectiles dans les yeux. En ce qui concerne les VTT, si vous êtes encadrés par un moniteur, vous pourrez louer dans un magasin ou directement auprès de lui votre VTT.
 
+    Plus d'informations sur notre page : [**S'équiper en VTT**](/fr/ete/conseils/equipement-vtt)
+
     * Nos itinéraires de VTT et VAE
 
     Le VTT et le VAE se pratique partout en France et il existe énormément d'itinéraires de VTT. Que ce soit en campagne, près du littoral, en montagne, vous pourrez profiter de nombreuses balades. Avec Ze Hero, nous vous proposons des sorties de VTT dans les Alpes et à Aix les Bains. Vous bénéficierez de rouler dans des lieux naturels, avec des paysages magnifiques. Des itinéraires adaptés à tous les niveaux pour des moments de découverte, d'effort et d'engagement.
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234241/website/assets/Recadr%C3%A9es/vtt.png
-  alt_text_for_image: VTT au milieu de la forêt
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/tim-foster-qrIy8dBzCVU-unsplash_t0p4kh.jpg
   captiontitleuppercase: Trouvez votre activité de VTT
@@ -72,7 +92,7 @@ page_sections:
     entouré de sapins
   button:
     text_button: Nos offres VTT
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
+    href_button: "/fr/ete/activites/reserver-vtt"
     alt_button: ''
   blockBGcolor: gris
 - template: 3coltxtimgtxt
@@ -87,9 +107,11 @@ page_sections:
     expériences pour vous donner l'envie de partager ces moments de plaisir à VTT.
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
-activite: VTT
+  url_to_shop_zehero: "/fr/ete/activites/reserver-vtt"
+activite: vtt
+listMother: 1
 level: 1
-enHome: 2
+titleHome: VTT
+conseil: ''
 
 ---

@@ -8,8 +8,8 @@ meta-description: Découvrez nos différents itinéraires de trail et de course 
   dans les Préalpes d'Azur et les alpes maritimes
 topnav_color_text: light
 title: Les Itinéraires de Trail dans les Alpes Maritimes
+conseil: spot
 level: 2
-enHome: 2
 permalink: "/fr/ete/conseils/itineraires-trail-alpes-maritimes"
 redirect_from:
 - "/fr/ete/conseil/itineraires-trail-alpes-maritimes"

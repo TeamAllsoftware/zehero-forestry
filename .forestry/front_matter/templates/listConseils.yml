@@ -1,0 +1,54 @@
+---
+label: listConseils
+hide_body: true
+fields:
+- name: blockBGcolor
+  type: select
+  default: gris
+  config:
+    required: false
+    options:
+    - gris
+    - blanc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur de fond du composant
+- name: service
+  type: select
+  default: advice
+  config:
+    required: true
+    options:
+    - activity
+    - advice
+    - resort
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Quelle liste afficher ?
+- name: whatAdvice
+  type: text
+  config:
+    required: false
+  label: Quelle type de conseil afficher ?
+  description: Attention de bien orthographier le conseil afin de lister l'ensemble
+    des filles
+- name: filterLevel
+  type: select
+  default: 2
+  config:
+    required: true
+    options:
+    - 1
+    - 2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: mere (1) ou fille (2)

@@ -9,8 +9,8 @@ title: Grand lac alpin d'Annecy
 permalink: "/fr/seminaires-hiver/idee-sejour-lac-alpin-annecy"
 meta-title: Séjour grand lac alpin d'Annecy
 meta-description: Perle des Alpes au charme irrésistible avec la vieille ville et son château
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726847/website/resorts/Annecy/adora-goodenough-idVr61-b7qM-unsplash.jpg
-image_alt: Vue sur le plus beau lac d'Europe à Annecy
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652726847/website/resorts/Annecy/adora-goodenough-idVr61-b7qM-unsplash.jpg
+image01_alt: Vue sur le plus beau lac d'Europe à Annecy
 redirection_from:
 price: 379
 headline: Perle des Alpes au charme irrésistible avec la vieille ville et son château, son lac réputé pour la qualité de ses eaux... Annecy invite aussi à la contemplation depuis le Semnoz culminant à 1 700 m. au dessus du lac

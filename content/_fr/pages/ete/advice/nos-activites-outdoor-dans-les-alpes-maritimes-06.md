@@ -8,6 +8,7 @@ meta-description: Voici nos différentes activités outdoor que nous proposons d
   de découverte, de sensation à partager et à vivre.
 topnav_color_text: light
 title: Nos activités outdoor dans les Alpes Maritimes 06
+conseil: spot
 level: 2
 enHome: 2
 permalink: "/fr/ete/conseils/nos-activites-outdoor-alpes-maritimes"

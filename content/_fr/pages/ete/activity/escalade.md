@@ -1,14 +1,16 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 categorie: Eaux vives
-topnav_color_text: dark
+topnav_color_text: light
 meta-title: Escalade - Découvrir et grimper ses 1er voies
 meta-description: Découvrez l'escalade en grimpant vos 1er voies. Que ce soit en intérieur
   ou en extérieur profitez de découvrir cette activité physique, technique et qui
   vous fera découvrir la nature d'une autre façon. 
 title: Escalade
+activite: escalade
+level: 1
 permalink: "/fr/ete/activites/escalade"
 baseline: Grimpez, plaisir et nature
 engage: Découvrez l'escalade, un moment d'évasion
@@ -18,6 +20,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Réserver votre séance d'escalade
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/trail?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Escalade&start-date=
 page_sections:
+- template: heroBreadcrumb
+  title: L'escalade, késako ?
 - template: textarea
   blockBGcolor: blanc
   title: L'escalade
@@ -27,6 +31,24 @@ page_sections:
     L'escalade est une activité pour tous et ouvert à tout le monde. Pour ceux qu'ils veulent s'initier à cette pratique, un guide vous accompagnera avec le matériel nécessaire et vous expliquera comment assurer et bien grimper.
 
     L'escalade est une activité outdoor qui vous permet de partager un moment dans des lieux naturels, avec vos amis ou votre famille, en se dépassant.
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: https://www.montblancescalade.com/fr/
+    text_button: Nos offres d'escalade
+  intro: Découvrez la salle d'escalade
+  headline: aux Houches
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278285/website/escalade/brook-anderson-gTQbZXL417Q-unsplash.jpg
+  atl_text_image_01: 'Corde d''escalade dans des dégaines '
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278364/website/escalade/tommy-lisbin-g5F4ZzeNEgY-unsplash.jpg
+  atl_text_image_02: Grimpeuse dans une fissure
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278424/website/escalade/jonathan-j-castellon-FHNgTEuxyJA-unsplash.jpg
+  atl_text_image_03: Salle d'escalade
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1654065065/website/Mont%20Blanc%20Escalade/rachel-GGlz-QSvL38-unsplash.jpg
+  atl_text_image_04: Enfant à l'escalade
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
@@ -42,10 +64,6 @@ page_sections:
     * Nos spots d'escalade
 
     Entre les salles d’escalade et les spots en extérieur, il existe un choix incroyable de lieu où grimper. En extérieur, il est important de regarder les topos d’un spot afin de vérifier les cotations et savoir si le lieu est aux normes et sécurisé. Dans le Sud de la France on retrouve énormément de spots tel qu’à Saint Jeannet, le Broc, Bonson, les gorges du Loup, la Turbie mais aussi les calanques, la Sainte Victoire. Orcières est également un spot très reconnu. En Savoie et Haute Savoie, vous trouverez de nombreux spots près de Chamonix, d’Annecy. L’Isère et ses nombreux massifs qui entourent Grenoble, offrent énormément de voies. En Ardèche, Drome, Aveyron vous pourrez également trouver de superbes voies d’escalade pour débuter.
-- template: imgWide
-  blockBGcolor: blanc
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833489/website/assets/Canyoning.png
-  alt_text_for_image: Matériel d'escalade
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278424/website/escalade/jonathan-j-castellon-FHNgTEuxyJA-unsplash.jpg
@@ -61,5 +79,9 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+type: generic
+listMother: 1
+titleHome: Escalade
+conseil: ''
 
 ---

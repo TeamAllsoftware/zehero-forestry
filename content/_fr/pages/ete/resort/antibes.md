@@ -27,6 +27,7 @@ page_sections:
     géographique vous permet de profitez de la mer, des préAlpes d'Azur ainsi que
     du massif du Mercantour.
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/v2f-ulodjS9910U-unsplash_rpg51d.jpg
   captiontitleuppercase: Mer, Montagne et Soleil
@@ -36,6 +37,11 @@ page_sections:
     Antibes est aussi une terre de cyclisme avec les nombreux parcours sur le bord
     de mer, et vers les Préalpes Maritimes. '
   alt_text_for_image: Bord de mer sur le cap d'Antibes avec la mer
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+  blockBGcolor: ''
 - template: textarea
   content: "Le stade du fort carré est ouvert au public et permet d'avoir une piste
     récente et très bien entretenu. L'hiver, quelques vagues se forment au fort carré
@@ -44,6 +50,7 @@ page_sections:
     l'escalade en falaise, le cayonning, le ski et le ski de randonnée l'hiver, le
     parapente, le VTT ainsi que toutes les activités nautiques."
   title: ''
+  blockBGcolor: ''
 - template: 3coltxtimgtxt
   imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/anthony-s-I1hzGTtKMgU-unsplash_opyeq6.jpg
   captionleftcontent: Activités et entraînements
@@ -53,6 +60,7 @@ page_sections:
     aurez le choix, que ce soit pour le plaisir ou pour l'entraînement, de le faire
     sous un beau soleil.
   center_alt_text_for_image: Vue du ca d'Antibes avec la mer et les montagnes derrière
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472430/website/resorts/Antibes/laurent-simon-o0RpFUskLtk-unsplash_dj7ifo.jpg
   captiontitleuppercase: Faites le plein d'énergie
@@ -64,6 +72,11 @@ page_sections:
     profiter des montagnes afin de faire du ski, du snowboard, de la raquette, ainsi
     que de l'alpinisme.
   alt_text_for_image: Vue du Fort carré avec les montagnes enneigées derrière
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+  blockBGcolor: ''
 - template: listServices
   service: activity
   blockBGcolor: gris

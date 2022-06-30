@@ -6,8 +6,8 @@ type: generic
 topnav_color_text: dark
 title: Paddle
 activite: paddle
+listMother: 1
 level: 1
-enHome: 2
 permalink: "/fr/ete/activites/paddle"
 redirect_from:
 - "/fr/ete/activite/paddle"
@@ -105,5 +105,6 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+published: false
 
 ---

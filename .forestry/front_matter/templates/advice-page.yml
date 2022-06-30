@@ -37,6 +37,12 @@ fields:
       file: 
       path: 
   label: season
+- name: conseil
+  type: text
+  config:
+    required: 
+  label: Quelle est le conseil ? Attention à l'orthographe afin tous les conseils
+    identiques soient listés
 - name: title
   type: text
   config:
@@ -117,35 +123,46 @@ fields:
   type: blocks
   label: Page Sections
   template_types:
+  - heroBreadcrumb
+  - heroBigTitle
+  - heroSlider
+  - heroImageTitle01
+  - heroImageFull
+  - heroImageFullSlider
+  - heroImage50percentHigh
+  - formDownload
   - textarea
-  - 3coltxtimgtxt
   - 2colimgtxt
   - 2coltxtimg
+  - 2colTitreTxt
+  - 2col2tiers1tiers
+  - 4col2imgTxtImg
+  - 3coltxtimgtxt
+  - blogPostList
+  - listConseils
+  - listOffres
+  - listServices
+  - listServices2
   - parlaxgridtxtimg
   - liststyle01
   - liststyle01numbered
   - imagegallery02
+  - imgWide
+  - imgWideInBox
   - numberinfo
   - cta
-  - imgWide
+  - ctaShop4col
   - ZEHEROintro
-  - 4col2imgTxtImg
-  - ctaShop4col
-  - 4col2imgTxtImg
-  - 2col2tiers1tiers
-  - ctaShop4col
-  - 2colTitreTxt
   - newsletter
-  - video2colImgTxt
   - separatorLine
+  - video2colImgTxt
   - videoPopup
   config:
     min: 
     max: 
 pages:
-- content/_fr/pages/ete/advice/canyoning-clue-de-la-cerise.md
-- content/_fr/pages/ete/advice/canyoning-de-planfae.md
-- content/_fr/pages/ete/advice/canyoning-ruisseau-audin.md
+- content/_fr/pages/ete/advice/bien-debuter-a-vtt.md
+- content/_fr/pages/ete/advice/bien-s-equiper-en-vtt.md
 - content/_fr/pages/ete/advice/coaching-prive-ou-collectif.md
 - content/_fr/pages/ete/advice/comment-bien-preparer-sa-sortie-de-randonnee-a-la-journee.md
 - content/_fr/pages/ete/advice/comment-choisir-ses-chaussures-de-trail.md
@@ -154,15 +171,10 @@ pages:
 - content/_fr/pages/ete/advice/debuter-la-randonnee-en-montagne.md
 - content/_fr/pages/ete/advice/faire-du-fractionne-en-trail.md
 - content/_fr/pages/ete/advice/la-preparation-d-une-course-de-trail.md
-- content/_fr/pages/ete/advice/le-canyoning-de-cramassouri.md
-- content/_fr/pages/ete/advice/le-canyoning-des-gorges-du-loup.md
-- content/_fr/pages/ete/advice/le-canyoning-du-haut-jabron.md
-- content/_fr/pages/ete/advice/le-gours-du-ray.md
 - content/_fr/pages/ete/advice/les-differentes-planches-de-surf.md
 - content/_fr/pages/ete/advice/les-differents-conseils-pour-le-canyoning.md
 - content/_fr/pages/ete/advice/les-itineraires-de-trail-dans-les-alpes-maritimes.md
 - content/_fr/pages/ete/advice/liste-du-materiel-a-avoir-dans-son-sac-pour-partir-en-randonnee-a-la-journee.md
-- content/_fr/pages/ete/advice/location-materiel-de-canyoning-alpes-maritimes.md
 - content/_fr/pages/ete/advice/nos-activites-outdoor-dans-les-alpes-maritimes-06.md
 - content/_fr/pages/ete/advice/nos-activites-outdoor-en-savoie-73.md
 - content/_fr/pages/ete/advice/pourquoi-vous-devriez-sortir-en-montagne-en-foret-ou-autre.md

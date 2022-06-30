@@ -50,6 +50,17 @@
         <meta name="twitter:image" content="https://screenshot-zehero.netlify.app/{{ site.data.config.og_url | url_encode }}{{ page.url | url_encode }}/opengraph/1:1/smaller">
         <!-- END OPEN GRAPH -->
 
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" charset="utf-8"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js" charset="utf-8"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js" charset="utf-8"></script>
+
+        <script src="/js/jquery.mapael.js" charset="utf-8"></script>
+        <script src="/js/maps/france_departments.js" charset="utf-8"></script>
+        <script src="/js/maps/world_countries.js" charset="utf-8"></script>
+        <script src="/js/maps/usa_states.js" charset="utf-8"></script>
+
+        {% include structure/map.html %}
+
         {% if jekyll.environment == 'production' %}
         <script src="/js/tarteaucitron/tarteaucitron.js"></script>
         <script type="text/javascript">

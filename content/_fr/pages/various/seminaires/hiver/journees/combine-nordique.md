@@ -9,8 +9,8 @@ title: Journée challenge nordique
 permalink: "/fr/seminaires-hiver/journees/challenge-nordique"
 meta-title: Journée challenge nordique
 meta-description: Des épreuves nordiques adaptées à vos envies (par équipes)
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714160/website/Seminaires/hiver/IMG_3937.jpg
-image_alt: Stand de tir pour biatlhon des neiges lors d'un séminaire d'entreprise
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652714160/website/Seminaires/hiver/IMG_3937.jpg
+image01_alt: Stand de tir pour biatlhon des neiges lors d'un séminaire d'entreprise
 redirection_from:
 price: 95
 headline: Des épreuves nordiques adaptées à vos envies (par équipes)

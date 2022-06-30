@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -7,7 +7,7 @@ meta-title: Activités outdoor en Haute-Savoie pour l'été
 meta-description: Trouvez vos prochaines activités outdoor dans le département haut
   savoyard. La Haute Savoie est un département composée d'une chaine montagneuse incroyable
   ainsi que des lacs.
-topnav_color_text: dark
+topnav_color_text: light
 introduction:
   you_arrive: Découvrez toutes les activités et les différentes locations en Haute
     Savoie
@@ -16,95 +16,95 @@ introduction:
 page_title: La Haute Savoie
 resort_nameid: haute-savoie
 resort_naming: La Haute Savoie
-title: La Haute Savoie (74) et ses activités pour la saison d'été
-titleHome: Grimper en Haute-Savoie
-activite: hautesavoie
+title: La Haute Savoie et ses activités pour la saison d'été
+titleHome: Les activités en Haute Savoie
+activite: spot
 level: 1
 enHome: 1
 permalink: "/fr/ete/destinations/haute-savoie"
 redirect_from:
 - "/fr/ete/destination/haute-savoie"
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654869584/website/summer/PXL_20220522_102041361.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1656336181/website/resorts/Chamonix/ben-o-bro-TgpWr5YI7Ls-unsplash.jpg
 image01_alt: Vue panorama d'un randonneur en montagne devant un lac, des montagnes
   l'été
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité en Haute Savoie
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Haute+Savoie+%2874%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=12%2F12%2F2021
 page_sections:
+- template: heroBreadcrumb
+  title: Nos activités en Haute Savoie
 - template: textarea
-  content: |-
-    La Haute-Savoie est d’abord un pays de montagne avec le sommet de l’Europe, le Mont-Blanc, régnant majestueusement du haut de ses 4810 mètres. C’est aussi un département où, petit à petit, l’eau a dessiné de grandes et profondes vallées creusant délicatement les abords des massifs aux noms typiques (Aravis, Bauges, Bornes…) rendus accessibles hiver comme été pour le plus grand plaisir des vacanciers et des haut-savoyards.
-
-    Ensuite, la proximité de l’Italie et de la Suisse voisines ont donné à cette région un peu du charme délicat qui construisent son caractère, sa spécificité et son authenticité : Annecy, le Genevois et les Aravis, le Pays du Mont-Blanc-Grand Massif, le lac Leman et les portes du soleil.
-  title: 'La Haute-Savoie : entre lacs et montagnes'
+  content: La Haute-Savoie est d’abord un pays de montagne avec le sommet de l’Europe,
+    le Mont-Blanc, régnant majestueusement du haut de ses 4810 mètres. C’est aussi
+    un département où, petit à petit, l’eau a dessiné de grandes et profondes vallées
+    creusant délicatement les abords des massifs aux noms typiques (Aravis, Bauges,
+    Bornes…) rendus accessibles hiver comme été pour le plus grand plaisir des vacanciers
+    et des haut-savoyards. Ensuite, la proximité de l’Italie et de la Suisse voisines
+    ont donné à cette région un peu du charme délicat qui construisent son caractère,
+    sa spécificité et son authenticité.
+  title: 'La Haute-Savoie '
   blockBGcolor: ''
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643015413/website/summer/clemence-bergougnoux-AJkNPizwyAo-unsplash_nelgjc.jpg
-  captiontitleuppercase: Un patrimoine naturel exceptionnel
-  title: Riche en sites remarquables
-  content: Toit de l’Europe, le majestueux massif du Mont-Blanc est le paradis de
-    tout passionné d’**alpinisme**, de **ski** et de paysages époustouflants. Les
-    vastes domaines skiables, les célèbres stations de sports d’hiver, les Réserves
-    Naturelles, mais également les stations thermales réputées, les lacs propices
-    aux activités nautiques, la superbe ville d’Annecy, surnommée la Venise des Alpes
-    ou encore les délicieuses spécialités savoyardes, autant d’atouts qui font de
-    la Haute-Savoie une destination privilégiée.
-  alt_text_for_image: Vue d'une falaise au lever de soleil avec un lac devant en montagne
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
   button:
-    text_button: ''
+    href_button: https://www.montblancescalade.com/fr/
+    text_button: Découvrez la salle d'escalades des Houches
+  intro: Découvrez la salle d'escalades aux
+  headline: Houches
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654064807/website/Mont%20Blanc%20Escalade/70711889_2619714781427875_3156349677461307392_n.jpg
+  alt_text_for_image: 'Salle d''escalade : Mont Blanc Escalade'
+  captiontitleuppercase: Nos activités en Haute Savoie
+  title: L'escalade en Haute Savoie
+  content: "Découvrez nos offres d'escalades en Haute Savoie. Aujourd'hui, nous sommes
+    partenaires avec la salle d'escalade Mont Blanc escalade, situé aux Houches en
+    Haute Savoie. C'est la seule salle d'escalade de la vallée du Mont Blanc avec
+    plus de 100 voies, une partie de block, de la location de matériel mais aussi
+    des activités comme le canyoning.  \nUne salle idéale pour vous initier à l'escalade,
+    débuter et se perfectionner mais aussi grimper les jours de mauvais temps, lorsqu'on
+    ne peut marcher ou randonnée dans le massif. "
+  button:
     href_button: ''
+    text_button: ''
     alt_button: ''
-  blockBGcolor: ''
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+    text_button: Réservez votre activité d'eau vive
+  intro: Les offres d'activité en eau vive vers
+  headline: Thonon les Bains
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649084757/website/Partenaires/1638783567-DSC_0355.jpg
+  alt_text_for_image: Groupe de personne en rafting en Haute savoie avec 7 Aventures
+  captiontitleuppercase: Nos activités en Haute Savoie
+  title: Activités eaux vives en Haute Savoie
+  content: Découvrez toutes nos activités d'eaux vives en Haute Savoie avec notre
+    partenaire 7 Aventures. Une base de loisir, situé dans le hameau de la Vernaz,
+    proche de Thonon les Bains, d'Avoriaz et de Morzine. Elle se trouve au bord de
+    la Dranse, où vous pourrez alors partir en canyoning, en rafting, en hydrospeed
+    ainsi qu'en kayak pour un moment de sensations forte et de fraicheur garantis.
+    Des descentes uniques, pour un maximum de plaisir et de partage, quelque soit
+    votre niveau, si vous êtes en famille ou entre amis, vous pourrez profiter pleinement.
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+    text_button: Réservez votre activité d'eau vive
+    alt_button: ''
 - template: textarea
-  title: Les activités en Haute Savoie
-  content: "Vous ne pourrez vous ennuyer en Haute-Savoie. Ce département est un paradis
+  blockBGcolor: blanc
+  content: Vous ne pourrez vous ennuyer en Haute-Savoie. Ce département est un paradis
     d'activité Outdoor, de sport sensationnel, de découverte, d'expérience nouvelle
     de voyage à travers la nature et des lieux d'exceptions. Que vous soyez seul,
     entre amis, en famille, en couple, vous trouverez votre activité quelque soit
-    vos gouts et votre niveau.  \nVous pourrez alors partir randonner en montagne
-    avec un accompagnateur qui vous fera découvrir les merveilles du massif du Mont-Blanc,
-    de la réserve des Aiguilles Rouges, du massif des Aravis, du Chablais ainsi que
-    les Portes du Soleil. Vous pourrez également profitez du lac d'Annecy et de vous
-    balader entre le Semnoz, la Tournette ou encore le Mont Veyrier.  \nVous retrouvez
-    d'innombrables sommets et de randonnée à la journée ou des treks de plusieurs
-    jours avec des sommets mythiques et des randonnées incroyables. Partez sous les
-    glaciers du Mont Blanc, observez les bouquetins et le marmottes ainsi que la richesse
-    de la biodiversité de ces différents massifs Si vous désirez marcher ou courir,
-    vous trouverez votre bonheur.  \nC'est aussi une destination mondialement connue
-    pour la pratique du trail avec notamment l'UTMB et d'autres courses dans tout
-    le département. Une terre de coureur et de randonneur."
-  blockBGcolor: ''
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643015412/website/summer/aurelien-krier-pwyueOgekMM-unsplash_fofpwu.jpg
-  captiontitleuppercase: Volez, roulez, grimpez
-  title: Le bonheur des aventuriers
-  content: Autre que la marche, en Haute Savoie vous trouverez également énormément
-    de zones pour faire du parapente. Volez au dessus du lac d'Annecy ou encore face
-    au Mont Blanc. Bien sûr c'est également un département idéale pour la pratique
-    du VTT. Vous trouverez des stations tels que Avoriaz, Morzine, les Gets, La Clusaz
-    qui offriront des pistes parfaites pour tous les niveaux. Partez également grimper
-    des voies dans des lieux uniques. Vous trouverez un panel de lieu parfait pour
-    pratiquer l'escalade.
-  alt_text_for_image: Vue du col de la Forclaz du lac d'Annecy
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: ''
-- template: textarea
-  title: Mais encore
-  content: "Ce n'est pas tout ! Les autres activités en Haute-Savoie sont encore nombreuses,
-    avec encore le Canyoning et le Rafting. Avec le canyon de la Balme, de la Pointe
-    Percé, d'Andon ou encore de Montmin, vous trouverez votre bonheur. Vous pourrez
-    également pratiquez le paddle, le kayak en navigant sur le lac d'Annecy ou encore
-    le Lac Léman.  \nPrenez votre vélo de route, sillonner les routes et partez à
-    l'assaut du col des Glières, du Semnoz, des Araviz ou encore de la Colombière.\n\nEvidement,
-    la Haute-Savoie regroupe énormément d'activité d'alpinisme entre les courses incroyables
-    à faire dans le massif du Mont-Blanc.\n\nN'attendez plus et venez profiter d'un
-    séjour unique dans le département de la Haute-Savoie et vivez des expériences
-    et de nouvelles aventures avec Ze Hero."
-  blockBGcolor: ''
+    vos gouts et votre niveau.
+  title: ''
 baseline: Lacs et montagnes
 code_postal: 74,Haute-Savoie,Auvergne-Rhône-Alpes
+listMother: 2
+conseil: ''
 
 ---

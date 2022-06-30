@@ -9,8 +9,8 @@ title: Chamonix classe affaire
 permalink: "/fr/seminaires-hiver/idee-sejour-chamonix-mythique"
 meta-title: Chamonix mythique en classe affaire
 meta-description: Une ville à la montagne, capitale touristique de l'arc alpin depuis le 18ème siècle avec le Mont-Blanc (4 807 m.) et ses glaciers... Découvrez la féérie de la Mer de Glace à 1913 m. par le train du Montenvers avec une vue unique sur les grandes Jorasses et les aiguilles des Drus !
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652860520/website/resorts/Chamonix/gregory-dalleau-Q0CARQx1WQk-unsplash.jpg
-image_alt: Train à crémaillière rouge qui mène à la mer de glace à Chamonix
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652860520/website/resorts/Chamonix/gregory-dalleau-Q0CARQx1WQk-unsplash.jpg
+image01_alt: Train à crémaillière rouge qui mène à la mer de glace à Chamonix
 redirection_from:
 price: 389
 headline: Une ville à la montagne, capitale touristique de l'arc alpin depuis le 18ème siècle avec le Mont-Blanc (4 807 m.) et ses glaciers...

@@ -1,14 +1,14 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Surf
-titleHome: Débuter en surf
+titleHome: Surf
 activite: surf
+listMother: 1
 level: 1
-enHome: 1
 permalink: "/fr/ete/activites/surf"
 redirect_from:
 - "/fr/surf-loire-atlantique/"
@@ -18,11 +18,13 @@ meta-description: Le surf est une activité d'eau qui permet de glisser sur les 
   et de vivre des sensations uniques.
 baseline: Take-off, glisse et ride
 engage: De la mousse à la vague, apprenez à glisser en surf
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883621/website/summer/Paddle-couple-mer_sw6sqk.jpg
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654866903/website/summer/austin-neill-uHD0uyp79Dg-unsplash.jpg
 image01_alt: Surfeur en train de surfer une vague dans un paysage avec des collines
   derrières.
 categorie: Surf
 page_sections:
+- template: heroBreadcrumb
+  title: Le surf, késako ?
 - template: textarea
   title: Le surf
   content: "Le surf, c'est le fait de glisser sur un vague en étant debout sur une
@@ -39,6 +41,14 @@ page_sections:
     ces éléments afin que vous puissiez partager un moment de plaisir, de découverte
     entre amis, en famille en vous rafraichissant dans les vagues de l'Atlantique. "
   blockBGcolor: ''
+- template: cta
+  button:
+    href_button: "/fr/ete/activites/reserver-cours-surf"
+    text_button: Nos offres
+  intro: Découvrez dès maintenant nos activités surf
+  headline: Toutes nos offres
+  blockBGcolor: blanc
+  marge: 20
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
@@ -47,17 +57,17 @@ page_sections:
 
     Pour bien débuter le surf, il est important de réserver des cours de surf avec un moniteur afin qu'il vous accompagne dans la connaissance du milieu et des aspects physiques et techniques. On débute généralement le surf sur les mousses des vagues, c’est-à-dire après plus près du bord afin d'avoir des vagues plus faciles à prendre et moins puissantes. Vous pouvez alors débuter le surf dans des stages ou des cours collectifs pour profiter d'être avec d'autres personnes, vos amis ou votre famille. Mais vous pouvez également réserver un cours privé pour une session de surf avec un moniteur totalement dédiée à vous.
 
+    Découvrez plus d'information sur notre page : [**Bien débuter en surf**](/fr/ete/conseils/debuter-surf)
+
     * S'équiper en surf
 
     S'équiper en surf dépendra de votre niveau en ce qui concerne la planche de surf. Il existe plusieurs types de surf, pour différents niveaux avec différentes constructions et différents types de pratique. En fonction de la température de l'eau, il vous faudra des combinaison longues ou courtes ou alors simplement un maillot, short et un lycra.
 
+    Découvrez plus d'information sur notre page : [**S'équiper en surf**](/fr/ete/conseils/equipement-surf)
+
     * Nos spots de surf
 
     Le surf en France se situe surtout sur toute la côte Atlantique allant du Pays Basque jusqu'en Bretagne. L'hiver vous pouvez parfois surfer sur la Méditerrané avec quelques spots tels que Cannes, Canet, Villefranche ou encore Palavas les Flots. Avec Ze Hero, vous pourrez découvrir les spots mythiques des Landes à Seignosse, Cabreton et Hossegor mais également à Mimizan, Porge et St Brévin les Pins.
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195891/website/assets/Recadr%C3%A9es/surf.png
-  alt_text_for_image: Equipement de surf
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651477287/website/Sama%20Sama/surf-enfant-mimizan.jpg
@@ -95,12 +105,6 @@ page_sections:
     excelle dans la pratique du surf. Il saura vous conseillé pour toutes vos questions
     sur la pratique du surf, de l''équipement et des meilleurs spots de surf qui seront
     idéals pour vous. '
-- template: cta
-  button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
-    text_button: Réserver maintenant >
-  intro: Réservez dès maintenant vos activités surf
-  headline: Cours privés ou collectifs, enfants et adultes sont disponibles
 - template: imgWide
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238781/website/assets/Personnages%20poses/Poses%20format%20large/Surf.png
@@ -109,6 +113,7 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+  url_to_shop_zehero: "/fr/ete/activites/reserver-cours-surf"
+conseil: ''
 
 ---

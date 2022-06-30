@@ -2,13 +2,14 @@
 layout: layout_activity
 language: fr
 season: summer
-categorie: Eaux vives
+categorie: Surf
 topnav_color_text: dark
 meta-title: 'Activité outdoor surf - Biarritz la ville idéale '
 meta-description: 'Tenter l''expérience su surf, la sensation de glisse à Biarritz
   au pays basque '
 title: Surf à Biarritz
-permalink: "/fr/ete/activities/surf-biarritz"
+level: 2
+permalink: "/fr/ete/activites/surf-biarritz"
 baseline: 'Glisse, rame et sensation '
 engage: 'Faire le plein de sensations de glisse et se familiariser '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641562732/website/summer/carles-rabada-TbJg-UB7mGs-unsplash_ktkrqh.jpg
@@ -81,5 +82,7 @@ page_sections:
   - 'De la wax (une gomme que l’on applique sur la planche pour éviter de glisser)
 
     '
+type: generic
+activite: ''
 
 ---

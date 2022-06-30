@@ -69,15 +69,38 @@ page_sections:
     text_button: 
     href_button: 
     alt_button: 
-- template: listServices
+- template: listConseils
   service: advice
-  filterCat: non
+  whatAdvice: debuter
   filterLevel: 2
-  filterHome: 2
+  blockBGcolor: blanc
+  headtitle:
+    headline: Tout est pour vous
+    title: Débuter
+- template: listConseils
+  service: advice
+  whatAdvice: equiper
+  filterLevel: 2
   blockBGcolor: gris
   headtitle:
     headline: Tout est pour vous
-    title: De précieux conseils pour débutants ou amateurs
+    title: S'équiper
+- template: listConseils
+  service: advice
+  whatAdvice: spot
+  filterLevel: 2
+  blockBGcolor: blanc
+  headtitle:
+    headline: Tout est pour vous
+    title: Les supers spots
+- template: listConseils
+  service: advice
+  whatAdvice: conseil
+  filterLevel: 2
+  blockBGcolor: gris
+  headtitle:
+    headline: Tout est pour vous
+    title: Tous nos conseils outdoor
 - template: 2colTitreTxt
   title: Conseils, Materiels, Itinéraires.
   content: De précieux conseils pour vous aider dans vos choix de vélo, de chaussures
@@ -86,5 +109,6 @@ page_sections:
     de vacances et weekend magnifiques.
 - template: newsletter
   title: Recevez nos dernières informations
+
 
 ---

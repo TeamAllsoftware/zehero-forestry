@@ -9,8 +9,8 @@ title: Odyssée avec les huskies
 permalink: "/fr/seminaires-hiver/activites/odysee-avec-huskies"
 meta-title: Odyssée avec les huskies
 meta-description: Un traineau tracté par des chiens huskies pour une magnifique balade dans les forêts enneigées
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492673/website/winter/catalin-sandru-OceHnUOl7vI-unsplash_svtevg.jpg
-image_alt: Un traineau tracté par des chiens huskies pour une magnifique balade dans les forêts enneigées
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492673/website/winter/catalin-sandru-OceHnUOl7vI-unsplash_svtevg.jpg
+image01_alt: Un traineau tracté par des chiens huskies pour une magnifique balade dans les forêts enneigées
 redirection_from:
 price: 95
 headline: Un traineau tracté par des chiens huskies pour une magnifique balade dans les forêts enneigées

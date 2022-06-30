@@ -1,14 +1,18 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
+type: generic
 categorie: Eaux vives
-topnav_color_text: dark
+topnav_color_text: light
 meta-title: Réservez votre activité de canyoning
 meta-description: Découvrez toutes nos activités de canyoning sur Ze Hero avec nos
   canyonings dans les Alpes Maritimes et un canyoning en Haute Savoie. Choisissez
   et réservez sur notre site.
 title: Réservez votre canyoning chez Ze Hero
+activite: canyonning
+level: 1
+listMother: 2
 permalink: "/fr/ete/activites/nos-canyonings"
 baseline: Nos canyoning chez Ze Hero
 engage: Découvrez et partagez un moment unique en canyoning
@@ -18,9 +22,11 @@ button_to_link_to_ze_hero_shop:
   button_text: Demande de réservation
   url_to_shop_zehero: https://www.ze-hero.com/fr/contact
 page_sections:
+- template: heroBreadcrumb
+  title: Nos offres de Canyoning chez Ze Hero
 - template: textarea
   blockBGcolor: blanc
-  title: Les canyonings dans les Alpes Maritimes
+  title: 'Les canyonings dans les Alpes Maritimes '
   content: "Découvrez toutes nos offres de canyonings chez Ze Hero dans les Alpes
     Maritimes. Une sélection de plusieurs canyonings près de Nice pour tous, tous
     les niveaux et toutes les envies.  \nNous vous proposons différents canyonings
@@ -32,102 +38,36 @@ page_sections:
     unique, de découverte, de plaisir et de partage. N'attendez plus ! Choisissez
     votre canyoning et réservez vite.\n\nVoici tous nos canyonings dans les Alpes
     Maritimes :"
+- template: listServices2
+  blockBGcolor: blanc
+  service: activity
+  filterLevel: 2
+  whatActivity: canyoning
+  listMother: 2
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: "/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes"
+    text_button: Louez votre équipement de canyoning
+  intro: 'Location d''équipement de canyoning dans les '
+  headline: Alpes Maritimes
 - template: 2colimgtxt
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655365196/website/Canyoning%2006/Screenshot_5.jpg
-  alt_text_for_image: Canyoning des Gorges du Loup
-  title: Le canyoning des Gorges du Loup
-  captiontitleuppercase: Canyoning des gorges du Loup
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649081597/website/Partenaires/1638783865-DSC_0958.jpg
+  alt_text_for_image: Canyoning de Nyon / 7 Aventures
+  captiontitleuppercase: Canyoning en Haute Savoie
+  title: Le canyoning de Nyon près de Thonon les Bains
+  content: 'Le canyoning de Nyon est situé dans la Dranse, à Morzine, qui est tout
+    proche de Thonon les Bains. Partez pour un dépaysement total en Haute Savoie.  7
+    Aventure vous initieront aux techniques de base sur le canyon : glissades, marche,
+    nage et quand le dénivelé est très important nous faisons appel aux techniques
+    d''escalade.'
   button:
-    text_button: Plus d'information ici
-    href_button: "/fr/ete/conseil/canyoning-gorges-du-loup"
+    text_button: En savoir +
+    href_button: "/fr/ete/activites/reserver-canyoning-nyon"
     alt_button: ''
-  content: Le Canyoning des gorges du loup est le plus proche de Nice et qui est surtout
-    ouvert à tous. Il ne présente pas de difficulté particulière. Vous parcourrez
-    alors le Loup par de la marche aquatique, des sauts, des toboggans et de la nage
-    et avec possibilité de deux rappels au départ. Environ 2h de descente pour adultes
-    et enfants.
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
-  alt_text_for_image: Canyoning Gours du Ray
-  captiontitleuppercase: Niveau Intermédiaire
-  title: Le Gours du Ray
-  content: Le Canyon du Gours du Ray se trouve dans les gorges du Loup. Très sauvage,
-    il ne présente pas de grande technicité et permet de s'initier au canyoning. On
-    y retrouve un parcours très complet et fun. Pour tous !
-  button:
-    text_button: Plus d'information ici
-    href_button: "/fr/ete/conseils/canyoning-gours-du-ray"
-    alt_button: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655201007/website/By%20Ze%20Hero%20Activity/IMG_4222.jpg
-  alt_text_for_image: Canyoning Haut Jabron
-  captiontitleuppercase: Initiation Adulte
-  title: Canyoning Haut Jabron
-  content: Le Canyoning des gorges du loup est le plus proche de Nice et qui est surtout
-    ouvert à tous. Il ne présente pas de difficulté particulière. Vous parcourrez
-    alors le Loup par de la marche aquatique, des sauts, des toboggans et de la nage
-    et avec possibilité de deux rappels au départ. Environ 2h de descente pour adultes
-    et enfants.
-  button:
-    text_button: Plus d'information
-    href_button: "/fr/ete/conseils/canyoning-haut-jabron"
-    alt_button: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199369/website/By%20Ze%20Hero%20Activity/IMG_4072.jpg
-  alt_text_for_image: Canyoning Audin
-  captiontitleuppercase: Initiation et spécial enfants
-  title: Canyoning ruisseau Audin
-  content: Canyoning idéal pour débuter et il est possible dès l'âge de 6ans. Une
-    vrai ambiance canyoning avec des belles vasques et des toboggans, à seulement
-    1h de Nice.
-  button:
-    href_button: "/fr/ete/conseils/canyoning-ruisseau-audin"
-    text_button: Plus d'information ici
-    alt_button: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655387129/website/By%20Ze%20Hero%20Activity/IMG_4903.jpg
-  alt_text_for_image: Canyoning de Planfaé
-  captiontitleuppercase: Niveau intermédiaire - Ambiance canyoning
-  title: Canyoning de Planfaé
-  content: Le Canyoning de Planfaé est un canyon idéal en famille, pour s'initier
-    dans une vraie ambiance canyoning. Découvrez ses gorges encaissées, une eau très
-    claire, des toboggans ainsi que des petits rappels.
-  button:
-    text_button: 'Plus d''information ici '
-    href_button: "/fr/ete/conseils/canyoning-planfae"
-    alt_button: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655199359/website/By%20Ze%20Hero%20Activity/IMG_5305.jpg
-  alt_text_for_image: Canyoning Clue de la Cerise
-  captiontitleuppercase: Spécial famille et enfant
-  title: Canyoning clue de la Cerise
-  content: Le canyoning clue de la Cerise se situe dans le village de Gilette, tout
-    près de Nice. C'est un canyoning magnifique dans une ambiance féérique qui sera
-    idéale pour les familles. Ce canyoning est une vrai randonnée aquatique que vous
-    pourrez réaliser avec vos enfants.
-  button:
-    text_button: Plus d'information ici
-    href_button: "/fr/ete/conseils/canyoning-clue-de-la-cerise"
-    alt_button: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  title: 'Canyoning de Cramassouri '
-  captiontitleuppercase: Niveau Intermédiaire
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029604/website/Canyoning%2006/GPTempDownload2.jpg
-  alt_text_for_image: Canyoning de Cramassouri
-  content: le canyoning de Cramassouri est un canyoning complet pour s'initier au
-    canyoning avec tous les ingrédients pour une superbe descente. Peu difficile,
-    vous partirez sur une durée de 4h, marche comprise. Tout près de Nice, dans la
-    vallée de Tinée, découvrez ce canyon idéal pour s'initier.
-  button:
-    text_button: Plus d'information ici
-    href_button: "/fr/ete/conseils/canyoning-cramassouri"
-    alt_button: ''
+titleHome: Réservez votre canyoning chez Ze Hero
+conseil: spot
 
 ---

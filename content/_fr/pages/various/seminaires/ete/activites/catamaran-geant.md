@@ -9,8 +9,8 @@ title: Croisière catamaran
 permalink: "/fr/seminaires-ete/activites/croisiere-catamaran"
 meta-title: Croisière catamaran
 meta-description: Soirée privée, de 19h à 23h, à bord d'un catamaran
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654242591/website/Seminaires/ete/mike-swigunski-XClsGH4JuhA-unsplash.jpg
-image_alt: A bord d'un catamaran géant pour un croisière privée de 4h
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654242591/website/Seminaires/ete/mike-swigunski-XClsGH4JuhA-unsplash.jpg
+image01_alt: A bord d'un catamaran géant pour un croisière privée de 4h
 redirection_from:
 price: 135
 headline: Soirée privée, de 19h à 23h, à bord d'un catamaran géant avec soleil couchant et une vue imprenable sur la baie des anges. 

@@ -1,44 +1,41 @@
+---
 columns:
-  - col: "Nos activités"
-    title-link: /fr/ete/activites
-    link:
-    - subtitle: Trail running
-      subhref: "/fr/trail-running-alpes-maritimes-prealpes-azur"
-    - subtitle: VTT
-      subhref: "/fr/ete/activites/vtt"
-    - subtitle: Randonnée en montagne
-      subhref: "/fr/ete/activites/randonnee-montagne"
-    - subtitle: Traversée des Alpes à vélo
-      subhref: "/fr/ete/activites/traversee-des-alpes-en-velo"
-    - subtitle: Surf
-      subhref: "/fr/ete/activites/surf"
-    - subtitle: Canyoning
-      subhref: "/fr/ete/activites/canyoning"
-    - subtitle: Kayak
-      subhref: "/fr/ete/activites/kayak"
-  - col: "Nos conseils"
-    title-link: /fr/ete/conseils
-    link:
-    - subtitle: Comment bien s'équiper en trail ?
-      subhref: /fr/ete/conseils/equipement-trail
-    - subtitle: Comment choisir ses chaussures de trail ?
-      subhref: /fr/ete/conseils/chaussures-trail
-    - subtitle: Débuter le Trail running
-      subhref: /fr/ete/conseils/comment-debuter-trail
-  - col: "ZE HERO"
-    title-link: "#"
-    link:
-    - subtitle: "Lire le blog"
-      subhref: "/fr/ete/blog"
-    - subtitle: "Qui sommes-nous ?"
-      subhref: "/fr/qui-sommes-nous"
-    - subtitle: "Nous contacter"
-      subhref: "/fr/contact"
-    - subtitle: "Séminaire été"
-      subhref: "/fr/seminaires-ete"
-    - subtitle: "Séminaire hiver"
-      subhref: "/fr/seminaires-hiver"
-    - subtitle: "Saison d'hiver"
-      subhref: "/fr/hiver"
+- col: Nos partenaires
+  title-link: ''
+  link:
+  - subtitle: Cueilleur de sommets
+    subhref: "/fr/ete/partenaires/clement-sivera"
+  - subtitle: Sama Sama Surf School
+    subhref: "/fr/ete/partenaires/sama-sama-surf-school"
+  - subtitle: Morgan d'Avezac
+    subhref: "/fr/ete/partenaires/morgan-davezac-surf-seignosse"
+  - subtitle: 7 Aventures
+    subhref: "/fr/ete/partenaires/7-aventures"
+  - subtitle: Expérience vélo
+    subhref: "/fr/ete/partenaires/experience-velo"
+  - subtitle: Sorties de routes
+    subhref: "/fr/ete/partenaires/sorties-de-route"
+- col: Nos marques
+  title-link: ''
+  link:
+  - subtitle: Instinct Trail
+    subhref: "/fr/marques/instinct-trail-inspired"
+  - subtitle: Altore
+    subhref: "/fr/marques/altore"
+- col: ZE HERO
+  title-link: "#"
+  link:
+  - subtitle: Lire le blog
+    subhref: "/fr/ete/blog"
+  - subtitle: Qui sommes-nous ?
+    subhref: "/fr/qui-sommes-nous"
+  - subtitle: Nous contacter
+    subhref: "/fr/contact"
+  - subtitle: Séminaire été
+    subhref: "/fr/seminaires-ete"
+  - subtitle: Séminaire hiver
+    subhref: "/fr/seminaires-hiver"
+  - subtitle: Saison d'hiver
+    subhref: "/fr/hiver"
 payment-title: Modes de paiement
 payment-txt01: Les paiements sont sécurisés par 3D Secure de Monetico Crédit Mutuel

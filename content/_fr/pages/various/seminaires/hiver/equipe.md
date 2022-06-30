@@ -32,15 +32,6 @@ page_sections:
   content: |- 
     - 4ème mondiale en snowboard en 1998 et 1999<br>
     - Diplômée E.S.C de Chambéry
-- template: 2colimgtxt
-  blockBGcolor: gris
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638866559/website/global/staff/20211117_capsule_photo_profil_v0.2_GA_rzdl4o.png
-  alt_text_for_image: Geoffrey Arduini, membre de l'équipe d'organisation des séminaires d'entreprise
-  captiontitleuppercase: Directeur Séminaires
-  title: Geoffrey Arduini
-  content: |- 
-    - Directeur ZE HERO<br>
-    - Diplômée HEC Paris
 - template: 2coltxtimg
   blockBGcolor: 
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650903071/website/Seminaires/ian-stauffer-bH7kZ0yazB0-unsplash.jpg

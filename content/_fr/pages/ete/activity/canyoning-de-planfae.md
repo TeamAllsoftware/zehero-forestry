@@ -1,19 +1,21 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: summer
 meta-description: 'Découvrez et réservez votre canyoning de Planfaé. Un canyon intermédiaire
   pour un plaisir grandiose tout près de Nice. '
 topnav_color_text: light
 title: Le Canyoning de Planfaé
-permalink: "/fr/ete/conseils/canyoning-planfae"
+permalink: "/fr/ete/activites/canyoning-planfae"
 meta-title: 'Réservez votre canyoning planfae   '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643730311/website/Canyoning%2006/IMG_6342_nrdlmr.jpg
 image01_alt: "¨Personne en rappel "
 button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17207-canyoning-planfae-special-famille-enfant-des-10-ans-activite-ze-hero
 page_sections:
+- template: heroBreadcrumb
+  title: 'Le canyoning de Planfaé : Niveau intermédiaire'
 - template: textarea
   blockBGcolor: blanc
   title: Le canyoning de Planfaé
@@ -23,9 +25,17 @@ page_sections:
     saura vous charmer.  \nDécouvrez un canyon ludique, complet, court mais condensé
     pour le plaisir de chacun. Vous découvrirez une belle roche calcaire pour un canyon
     très encaissé.\n\nVoyons les spécificités du canyoning de Planfaé :"
+- template: cta
+  intro: Profitez d'un moment de sensation forte dans le
+  headline: canyon de Planfaé
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17207-canyoning-planfae-special-famille-enfant-des-10-ans-activite-ze-hero
+  blockBGcolor: ''
+  marge: 40
 - template: textarea
   blockBGcolor: blanc
-  title: 'Canyoning de Planfaé : Niveau intermédiaire'
+  title: ''
   content: "Le canyoning de Planfaé est un canyon de niveau intermédiaire, qui reste
     court par sa distance mais qui sera très complet. En effet ce canyon vous proposera
     tout ce qu'il faut pour se plongez dans une vrai ambiance canyon sans grosses
@@ -45,11 +55,12 @@ page_sections:
   - 'Temps global : 3h30 à 4h'
   - 'Prix : 60€'
   title: 'Les dernières informations :'
-- template: cta
-  intro: Profitez d'un moment de sensation forte dans le
-  headline: canyon de Planfaé
-  button:
-    text_button: 'Réservez ici '
-    href_button: https://www.ze-hero.com/fr/contact
+type: generic
+level: 2
+conseil: ''
+activite: canyoning
+titleHome: 'Canyoning de Planfaé : niveau intermédiaire'
+baseline: ''
+listMother: 2
 
 ---

@@ -1,14 +1,14 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Canyoning
-titleHome: Débuter en canyoning
-activite: canyonning
+titleHome: Canyoning
+activite: canyoning
+listMother: 1
 level: 1
-enHome: 1
 permalink: "/fr/ete/activites/canyoning"
 redirect_from:
 - "/fr/canyoning-annecy/"
@@ -23,6 +23,8 @@ image01_alt: Deux personnes faisant du canyoning et souriant dans l'eau dans les
   Maritimes
 categorie: Eaux vives
 page_sections:
+- template: heroBreadcrumb
+  title: Canyoning, kesako ?
 - template: textarea
   title: Qu'est-ce que le canyoning ?
   content: "Le canyoning, c'est quoi ?    \nLe canyoning, c'est une activité d'eau
@@ -38,6 +40,24 @@ page_sections:
     faciles et plus adaptées à des enfants ou des personnes désirant seulement faire
     une randonnée aquatique avec quelques sauts et glissades en toboggan."
   blockBGcolor: ''
+- template: cta
+  intro: Découvrez dès maintenant nos activités canyoning
+  headline: Toutes nos offres
+  button:
+    text_button: Nos offres
+    href_button: "/fr/ete/activites/nos-canyonings"
+  blockBGcolor: blanc
+  marge: 20
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
+  atl_text_image_01: Enfants en canyoning
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
+  atl_text_image_02: Enfant sautant dans un canyoning
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655386912/website/By%20Ze%20Hero%20Activity/IMG_4222.jpg
+  atl_text_image_03: Personnes faisant du canyoning
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655359805/website/Canyoning%2006/Screenshot_3.jpg
+  atl_text_image_04: Canyoning gorges du loup
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   title: Les différents types de canyoning
@@ -52,19 +72,16 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos conseils Ze Hero
-  content: "* Débuter le Canyoning :\n\nDébuter le canyoning, c’est partir vivre une
-    expérience forte dans des lieux magnifiques. Le canyoning est une activité ouverte
-    à tout le monde à condition de savoir nager. Vous pourrez alors partager et vivre
-    des moments intenses. Pour les initiations et les débuts dans le canyoning, cela
-    ne nécessite pas forcément d’avoir une bonne condition physique, les parcours
-    sont plus ouverts avec plus de marche et de nage. Réserver une activité de canyoning,
-    c’est avoir un moniteur qui va gérer le groupe pour une durée de 2h à une journée
-    entière en fonction du canyon.\n\nDécouvrez plus d'information en parcourant notre
-    page conseil : [**Débuter le canyoning**](https://www.ze-hero.com/fr/ete/conseils/conseils-canyoning) "
+  content: |-
+    * **Débuter le Canyoning** :
+
+    Débuter le canyoning, c’est partir vivre une expérience forte dans des lieux magnifiques. Le canyoning est une activité ouverte à tout le monde à condition de savoir nager. Vous pourrez alors partager et vivre des moments intenses. Pour les initiations et les débuts dans le canyoning, cela ne nécessite pas forcément d’avoir une bonne condition physique, les parcours sont plus ouverts avec plus de marche et de nage. Réserver une activité de canyoning, c’est avoir un moniteur qui va gérer le groupe pour une durée de 2h à une journée entière en fonction du canyon.
+
+    Découvrez plus d'information en parcourant notre page conseil : [**Débuter le canyoning**](https://www.ze-hero.com/fr/ete/conseils/conseils-canyoning)
 - template: textarea
   blockBGcolor: blanc
   content: |-
-    * S'équiper en canyoning
+    * **S'équiper en canyoning**
 
     S’équiper en canyoning, c’est avoir avec soi du matériel spécifique. Le moniteur, l’encadrant du canyoning aura avec lui beaucoup plus de matériel que les clients. Il doit être équipé de sa corde, de dégaines, de bloqueurs, de mousquetons et bien plus encore, dans le but de vous assurer, de vous faire descendre. Mais toutes les personnes doivent avec avoir avec soi ce matériel-là :
 
@@ -73,22 +90,18 @@ page_sections:
     * Casque pour se protéger
     * Des chaussures de sports avec des crampons
 
-    Pour plus d'information, découvrez notre page conseils : [**S'équiper en canyoning**](https://www.ze-hero.com/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes)
+    Pour plus d'information, découvrez notre page conseils : [**S'équiper en canyoning**](/fr/ete/conseils/equipement-canyoning)
   title: ''
 - template: textarea
   blockBGcolor: blanc
   title: ''
-  content: "* Nos itinéraires de canyoning\n\nEn France, il existe un choix incroyable
+  content: "* **Nos itinéraires de canyoning**\n\nEn France, il existe un choix incroyable
     de parcours de canyonings. Vous allez en trouver dans de nombreuses régions et
     départements. Tous seront bien différents, ils seront spécifiques à l’environnement,
     à la roche et seront destinés pour différents publics. Vous pourrez retrouver
     de magnifique canyoning en Corse, en Ardèche, dans el Verdon, dans les Pyrénées...
-    \ \nAvec Ze Hero découvrez les plus beaux canyons : \n\n1. Des [**Alpes Maritimes**](https://www.ze-hero.com/fr/meilleurs-spots-canyoning-alpes-maritimes)\n2.
-    De [**Savoie**](https://www.ze-hero.com/fr/ete/activites/canyoning-annecy)"
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649235420/website/assets/Recadr%C3%A9es/canyoning.png
-  alt_text_for_image: Matériel de canyoning
+    \ \nAvec Ze Hero découvrez les plus beaux canyons :\n\n* [**Les Alpes Maritimes**](/fr/meilleurs-spots-canyoning-alpes-maritimes)\n*
+    [**En Haute-Savoie**](/fr/ete/activites/canyoning-annecy)"
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643629416/website/Canyoning%2006/GPTempDownload_2_o77y31.jpg
@@ -107,7 +120,7 @@ page_sections:
     vous emmèneront à la découverte de la Dranse en Haute Savoie pour des canyonings
     sauvages"
   button:
-    text_button: Demande de réservation
+    text_button: Réserver votre canyoning
     href_button: "/fr/ete/activites/nos-canyonings"
     alt_button: ''
 - template: 3coltxtimgtxt
@@ -120,16 +133,11 @@ page_sections:
     ses enfants dans les Alpes Maritimes et connaît tous les différents canyons de
     cette magnifique région. Elle saura vous guider que vous soyez novice et débutant
     comme amateur et confirmé de canyoning.
-- template: cta
-  intro: Réservez dès maintenant vos activités canyoning
-  headline: Activités enfants et adultes sont disponibles
-  button:
-    text_button: Réserver maintenant >
-    href_button: "/fr/ete/activites/nos-canyonings"
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez une activité de canyoning
   url_to_shop_zehero: "/fr/ete/activites/nos-canyonings"
+conseil: ''
 
 ---

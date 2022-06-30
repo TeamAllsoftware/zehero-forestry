@@ -7,6 +7,7 @@ meta-description: Comprendre les différentes planches de surf, leurs tailles et
   utilités.
 topnav_color_text: light
 title: Les différentes planches de surf
+conseil: equiper
 level: 2
 enHome: 2
 permalink: "/fr/ete/conseils/differentes-planches-surf"

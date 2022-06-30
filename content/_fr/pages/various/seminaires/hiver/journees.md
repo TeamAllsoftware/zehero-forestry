@@ -17,7 +17,7 @@ page_sections:
   title: Liste des journées types pour les séminaires hiver
   content: |-
     ZE HERO Séminaires vous propose des journées préparées, parfait pour les clients proches et vos équipes.
-- template: listServices
+- template: listServices2
   service: journees
 - template: cta
   intro: Demande de devis

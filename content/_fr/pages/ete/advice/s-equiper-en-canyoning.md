@@ -7,6 +7,9 @@ meta-description: Voici les différents conseils de Ze Hero afin de savoir comme
   toute sécurité.
 topnav_color_text: light
 title: S'équiper en canyoning
+activite: canyoning
+level: 2
+conseil: equiper
 permalink: "/fr/ete/conseils/equipement-canyoning"
 meta-title: L'équipement pour débuter en canyoning
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg

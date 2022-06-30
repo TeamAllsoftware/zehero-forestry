@@ -16,7 +16,7 @@ introduction:
 title: St Brevin les pins et ses activités pour la saison d'été
 activite: coteatlantique
 level: 2
-enHome: 2
+listMother: 1
 page_title: St Brevin les pins, émotions brutes
 baseline: Océan et nature
 resort_nameid: stbrevinlespins

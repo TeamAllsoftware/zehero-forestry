@@ -9,8 +9,8 @@ title: Escalade, Via Ferrata, Canyoning
 permalink: "/fr/seminaires-ete/activites/escalade-viaferrata-canyoning"
 meta-title: Escalade, Via Ferrata, Canyoning
 meta-description: Demi journée escalade, via ferrata ou canyoning au choix
-image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654249284/website/Seminaires/ete/patrick-hendry-w5hNCbJfX3w-unsplash.jpg
-image_alt: escalade de voie naturelle sur la côte d'azur en France
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654249284/website/Seminaires/ete/patrick-hendry-w5hNCbJfX3w-unsplash.jpg
+image01_alt: escalade de voie naturelle sur la côte d'azur en France
 redirection_from:
 price: 35
 headline: Une demi-journée d'escalade, de via ferrata ou de canyoning accessible du niveau débutant au niveau expert, le tout encadré par un moniteur diplômé d'état.

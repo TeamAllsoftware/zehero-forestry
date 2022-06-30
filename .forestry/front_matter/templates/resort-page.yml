@@ -180,50 +180,58 @@ fields:
   type: blocks
   label: Page Sections
   template_types:
+  - heroBreadcrumb
+  - heroBigTitle
+  - heroSlider
+  - heroImageTitle01
+  - heroImageFull
+  - heroImageFullSlider
+  - heroImage50percentHigh
+  - formDownload
   - textarea
-  - 3coltxtimgtxt
   - 2colimgtxt
   - 2coltxtimg
+  - 2colTitreTxt
+  - 2col2tiers1tiers
+  - 4col2imgTxtImg
+  - 3coltxtimgtxt
+  - blogPostList
+  - listConseils
+  - listOffres
+  - listServices
+  - listServices2
   - parlaxgridtxtimg
   - liststyle01
   - liststyle01numbered
   - imagegallery02
+  - imgWide
+  - imgWideInBox
   - numberinfo
   - cta
-  - imgWide
+  - ctaShop4col
   - ZEHEROintro
-  - 4col2imgTxtImg
-  - ctaShop4col
-  - 4col2imgTxtImg
-  - 2col2tiers1tiers
-  - ctaShop4col
-  - 2colTitreTxt
   - newsletter
-  - video2colImgTxt
   - separatorLine
-  - heroImageFull
+  - video2colImgTxt
+  - videoPopup
   config:
     min: 
     max: 
 pages:
 - content/_fr/pages/ete/resort/aix-les-bains-le-revard-et-ses-activites-outdoor.md
 - content/_fr/pages/ete/resort/alpe-d-huez-et-ses-activites-pour-la-saison-d-ete.md
+- content/_fr/pages/ete/resort/antibes.md
 - content/_fr/pages/ete/resort/chamonix-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/hossegor-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/l-aveyron-et-ses-activites-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/l-isere-38.md
 - content/_fr/pages/ete/resort/la-corse-et-ses-activites-outdoor-pour-la-saison-d-ete.md
-- content/_fr/pages/ete/resort/la-haute-savoie-74.md
-- content/_fr/pages/ete/resort/la-lozere-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/le-bar-sur-loup-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/le-gard-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/le-pays-basque-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/le-tarn-et-ses-activites-outdoor-pour-la-saison-d-ete.md
-- content/_fr/pages/ete/resort/les-alpes-maritimes.md
 - content/_fr/pages/ete/resort/les-houches-et-ses-activites-outdoor-pour-la-saison-d-ete.md
-- content/_fr/pages/ete/resort/les-landes-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/les-menuires-et-ses-activites-outdoor-pour-la-saison-d-ete.md
-- content/_fr/pages/ete/resort/les-vosges-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/messanges-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/millau-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/mimizan-et-ses-activites-outdoor-pour-la-saison-d-ete.md
@@ -231,7 +239,6 @@ pages:
 - content/_fr/pages/ete/resort/nice-ses-alentours-et-ses-activites-outdoor.md
 - content/_fr/pages/ete/resort/porge-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/saint-jeannet-et-es-activites-outdoor-pour-la-saison-d-ete.md
-- content/_fr/pages/ete/resort/savoie.md
 - content/_fr/pages/ete/resort/seignosse-et-ses-activites-outdoor-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/st-brevin-les-pins-et-ses-activites-pour-la-saison-d-ete.md
 - content/_fr/pages/ete/resort/thonon-les-bains-et-ses-activites-outdoor-pour-la-saison-d-ete.md

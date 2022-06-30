@@ -31,3 +31,18 @@ fields:
       file: 
       path: 
   label: Quelle liste afficher ?
+- name: headtitle
+  type: field_group
+  config: {}
+  fields:
+  - name: headline
+    type: text
+    config:
+      required: false
+    label: Headline
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  label: Block titre

@@ -8,6 +8,8 @@ meta-description: Savoir comment débuter le trail, comment s'équiper et s'entr
   lorsqu'on est débutant
 topnav_color_text: light
 title: Comment débuter le trail ?
+activite: trail
+conseil: debuter
 level: 2
 enHome: 2
 permalink: "/fr/ete/conseils/comment-debuter-trail"

@@ -1,19 +1,21 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: summer
 meta-description: Découvrez et réservez votre descente dans le canyoning de cramassouri.
   Un canyon très aquatique, aux obstacles variées pour un niveau intermédiaire
 topnav_color_text: light
 title: Le canyoning de Cramassouri
-permalink: "/fr/ete/conseils/canyoning-cramassouri"
+permalink: "/fr/ete/activites/canyoning-cramassouri"
 meta-title: Réservez votre canyoning cramassouri
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654842931/website/By%20Ze%20Hero%20Activity/Screenshot_3.jpg
 image01_alt: Personne descendant en rappel en canyoning
 button_to_link_to_ze_hero_shop:
   button_text: 'Réservez ici '
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17202-canyoning-cramassouri-06-activite-ze-hero
 page_sections:
+- template: heroBreadcrumb
+  title: 'Le Canyoning de Cramassouri : ludique et intermédiaire'
 - template: textarea
   blockBGcolor: blanc
   title: Le canyoning de Cramassouri
@@ -25,9 +27,17 @@ page_sections:
     est un des plus beaux canyons des Alpes Maritimes.\n\nTout près de Nice, vous
     pourrez profiter d'une descente rafraîchissante dans un lieu unique :\n\nDécouvrez
     les spécificités du canyoning de Cramassouri :"
+- template: cta
+  intro: Profitez d'un moment de sensation forte dans le
+  headline: canyoning de Cramassouri
+  button:
+    text_button: 'Réservez ici '
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17202-canyoning-cramassouri-06-activite-ze-hero
+  blockBGcolor: ''
+  marge: 40
 - template: textarea
   blockBGcolor: blanc
-  title: 'Canyoning de Cramassouri : ludique et intermédiaire'
+  title: ''
   content: "Le canyoning de Cramassouri est un canyon parfait pour ceux qui s'initient
     et souhaitent découvrir un canyon magnifique et varié. C'est un canyon au niveau
     intermédiaire car vous retrouverez un nombre très varié d'obstacle à franchir.
@@ -50,11 +60,12 @@ page_sections:
   - 'Lieu :  La Tour-sur-Tinée'
   - 'Temps Globale : 3h'
   - 'Prix : 50€'
-- template: cta
-  intro: Profitez d'un moment de sensation forte dans le
-  headline: canyoning de Cramassouri
-  button:
-    text_button: 'Réservez ici '
-    href_button: https://www.ze-hero.com/fr/contact
+type: generic
+level: 2
+conseil: ''
+activite: canyoning
+titleHome: 'Canyoning de Cramassouri : Initiation canyoning'
+baseline: ''
+listMother: 2
 
 ---
