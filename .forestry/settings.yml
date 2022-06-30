@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: index.html
+  label: Site choix saison pour la home
+  match: "**/*"
+- type: document
   path: readme-editor.md
   label: Help (updated 29 juin 22)
 - type: document
