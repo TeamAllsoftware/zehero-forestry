@@ -87,8 +87,8 @@ page_sections:
 
     Découvrir l'unique salle d'escalade de la vallée de Chamonix aux Houches, Mont Blanc Escalade. La salle d'escalade " Mont Blanc Escalade " est partenaire avec Ze Hero. Vous trouverez 100 voies allant du 4 au 8c, des zones dédiées aux enfants, une salle de pans. En accès libre, vous pourrez également profiter de cours encadré par des professionnelles, des stages mais aussi de cours spécialement dédiés pour les babys, les enfants et les adolescents. Depuis la salle d'escalade, vous pourrez également profiter d'encadrement de canyoning mais aussi de via ferrata avec la location de matériel.
   button:
-    text_button: ''
-    href_button: ''
+    text_button: Découvrez la salle d'escalade
+    href_button: https://www.montblancescalade.com/fr/
     alt_button: ''
 
 ---
