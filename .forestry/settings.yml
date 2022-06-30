@@ -5,11 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: index.html
-  label: Site choix saison pour la home
-- type: document
   path: readme-editor.md
   label: Help (updated 29 juin 22)
+  read_only: true
+- type: document
+  path: index.html
+  label: Site choix saison pour la home
 - type: document
   path: _data/authors.yml
   label: Authors
