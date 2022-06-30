@@ -41,14 +41,17 @@ page_sections:
     pour toutes vos activités.
   title: Les Alpes Maritimes
   blockBGcolor: ''
-- template: cta
+- template: listOffres
   blockBGcolor: blanc
-  marge: 20
-  intro: 'Les canyonings dans les '
-  headline: Alpes Maritimes
-  button:
-    text_button: Offres de canyoning 06
-    href_button: "/fr/ete/activites/nos-canyonings"
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655970333/website/By%20Ze%20Hero%20Activity/IMG20220612105528_1.jpg
+    image_alt: Coureur sur le plateau de Caussol
+    title: Le Trail dans les Alpes Maritimes
+    url: "/fr/ete/activites/nos-sorties-trail"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
+    image_alt: Adultes et enfants faisant du canyoning dans les Alpes Maritimes
+    title: Canyoning dans les Alpes Maritimes
+    url: "/fr/ete/activites/nos-canyonings"
 - template: 2colimgtxt
   blockBGcolor: blanc
   button:
@@ -75,6 +78,14 @@ page_sections:
   button:
     href_button: "/fr/ete/activites/nos-sorties-trail"
     text_button: Le trail dans le 06
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: 'Les canyonings dans les '
+  headline: Alpes Maritimes
+  button:
+    text_button: Offres de canyoning 06
+    href_button: "/fr/ete/activites/nos-canyonings"
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216730/website/summer/IMG_20200723_153002.jpg
