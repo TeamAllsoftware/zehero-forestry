@@ -30,14 +30,13 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Les Vosges
-  content: "Les Vosges se situent à quelques kilomètres de la frontière Allemande
-    et vous embarquent dans une multitude de paysages grandioses entre lacs et montagnes.
+  content: Les Vosges se situent à quelques kilomètres de la frontière Allemande et
+    vous embarquent dans une multitude de paysages grandioses entre lacs et montagnes.
     Un massif vert où les forêts s'imposent pour offrir des ambiances féeriques, calmes
     et uniques. Découvrez la montagne dans des pentes douces et agréables, découvrez
     ces grandes prairies ainsi que les 14 sommets qui culminent à plus de 1000m d'altitude
     tel que le Grand Ballon et le Hoeneck. Un massif où vous pourrez rencontrer des
-    chamois, des lynx, pratiquer de nombreuses activités. \n\nDécouvrez toutes nos
-    offres dans les Vosges"
+    chamois, des lynx, pratiquer de nombreuses activités.
 - template: textarea
   blockBGcolor: blanc
   title: Nos activités dans les Vosges
