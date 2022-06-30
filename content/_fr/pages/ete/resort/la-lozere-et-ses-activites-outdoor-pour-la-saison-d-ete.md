@@ -67,8 +67,8 @@ page_sections:
     tous les éléments pour comprendre cette nature, cette faune et flore dans le parc
     des Cévennes.
   button:
-    href_button: "/fr/ete/activites/reserver-randonnee"
-    text_button: Nos offres de randonnée en Lozère
+    href_button: ''
+    text_button: ''
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
