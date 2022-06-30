@@ -53,8 +53,8 @@ page_sections:
 - template: 2colimgtxt
   blockBGcolor: blanc
   button:
-    href_button: "/fr/ete/activites/reserver-vtt"
-    text_button: Nos offres de VTT en Savoie
+    href_button: ''
+    text_button: ''
     alt_button: ''
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108069/website/VTT%20AE/pexels-reinhard-bruckner-5328112.jpg
   alt_text_for_image: Des vaches et une personnes faisant du VTT en Savoie
