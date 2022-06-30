@@ -65,7 +65,7 @@ page_sections:
     amis, chacune des offres sera adaptée aux niveaux et aux envies.  \nVous pourrez
     alors rouler en VTT à Méribel et à Les Menuires avec notre moniteur de VTT. Vous
     pourrez également découvrir les hauteurs d'Aix les Bains et le plateau du Grand
-    Revard avec Expérience Vélo.\n\nPlaisir, partage et émotion."
+    Revard avec Expérience Vélo."
 - template: textarea
   blockBGcolor: blanc
   content: "Le département compte 3 parcs naturels : un parc national (Parc National
