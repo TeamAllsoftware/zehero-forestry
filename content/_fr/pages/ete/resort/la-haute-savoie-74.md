@@ -34,12 +34,24 @@ page_sections:
 - template: heroBreadcrumb
   title: Nos activités en Haute Savoie
 - template: textarea
-  content: |-
-    La Haute-Savoie est d’abord un pays de montagne avec le sommet de l’Europe, le Mont-Blanc, régnant majestueusement du haut de ses 4810 mètres. C’est aussi un département où, petit à petit, l’eau a dessiné de grandes et profondes vallées creusant délicatement les abords des massifs aux noms typiques (Aravis, Bauges, Bornes…) rendus accessibles hiver comme été pour le plus grand plaisir des vacanciers et des haut-savoyards. Ensuite, la proximité de l’Italie et de la Suisse voisines ont donné à cette région un peu du charme délicat qui construisent son caractère, sa spécificité et son authenticité : Annecy, le Genevois et les Aravis, le Pays du Mont-Blanc-Grand Massif, le lac Leman et les Portes du soleil.
-
-    Vous ne pourrez vous ennuyer en Haute-Savoie. Ce département est un paradis d'activité Outdoor, de sport sensationnel, de découverte, d'expérience nouvelle de voyage à travers la nature et des lieux d'exceptions. Que vous soyez seul, entre amis, en famille, en couple, vous trouverez votre activité quelque soit vos gouts et votre niveau.
+  content: La Haute-Savoie est d’abord un pays de montagne avec le sommet de l’Europe,
+    le Mont-Blanc, régnant majestueusement du haut de ses 4810 mètres. C’est aussi
+    un département où, petit à petit, l’eau a dessiné de grandes et profondes vallées
+    creusant délicatement les abords des massifs aux noms typiques (Aravis, Bauges,
+    Bornes…) rendus accessibles hiver comme été pour le plus grand plaisir des vacanciers
+    et des haut-savoyards. Ensuite, la proximité de l’Italie et de la Suisse voisines
+    ont donné à cette région un peu du charme délicat qui construisent son caractère,
+    sa spécificité et son authenticité.
   title: 'La Haute-Savoie '
   blockBGcolor: ''
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: https://www.montblancescalade.com/fr/
+    text_button: Découvrez la salle d'escalades des Houches
+  intro: Découvrez la salle d'escalades aux
+  headline: Houches
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654064807/website/Mont%20Blanc%20Escalade/70711889_2619714781427875_3156349677461307392_n.jpg
@@ -54,9 +66,17 @@ page_sections:
     débuter et se perfectionner mais aussi grimper les jours de mauvais temps, lorsqu'on
     ne peut marcher ou randonnée dans le massif. "
   button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Escalade&start-date=
-    text_button: Réservez votre séance d'escalade
+    href_button: ''
+    text_button: ''
     alt_button: ''
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+    text_button: Réservez votre activité d'eau vive
+  intro: Les offres d'activité en eau vive vers
+  headline: Thonon les Bains
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649084757/website/Partenaires/1638783567-DSC_0355.jpg
@@ -72,8 +92,16 @@ page_sections:
     votre niveau, si vous êtes en famille ou entre amis, vous pourrez profiter pleinement.
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Thonon+les+Bains&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-    text_button: Réservez votre activités d'eaux vives
+    text_button: Réservez votre activité d'eau vive
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: Vous ne pourrez vous ennuyer en Haute-Savoie. Ce département est un paradis
+    d'activité Outdoor, de sport sensationnel, de découverte, d'expérience nouvelle
+    de voyage à travers la nature et des lieux d'exceptions. Que vous soyez seul,
+    entre amis, en famille, en couple, vous trouverez votre activité quelque soit
+    vos gouts et votre niveau.
+  title: ''
 baseline: Lacs et montagnes
 code_postal: 74,Haute-Savoie,Auvergne-Rhône-Alpes
 listMother: 2

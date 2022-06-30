@@ -25,16 +25,13 @@ page_sections:
   blockBGcolor: blanc
   content: "Les itinérances en trail dans les Préalpes d'Azur sont des traversées
     en trail sur 1 à deux jours. Elles seront réservées à des coureurs confirmés pouvant
-    courir et enchaîner 30km chaque jour avec 2000 de dénivelé.\n\nNous avons mis
-    en place des itinéraires tout d’abord dans les Préalpes d'Azur à travers les villages
-    et cette nature protégée et si particulière. Découvrez alors les Préalpes en les
-    traversants par des itinéraires qui vous amènent dans les plus beaux lieux.  \nNous
-    partirons en groupe de 4 à 10 personnes. Le parcours passe dans des villages afin
-    de se ravitailler en eau et également si besoin en nourriture.  \nNous avons donc
-    mis en place plusieurs itinérances à faire sur un jour ou sur plusieurs selon
-    les niveaux. Ces itinérances peuvent être des journées de Trail allant de 30km
-    à 75km selon les niveaux des coureurs du groupe.\n\nDécouvrez notre itinérance
-    de trail chez Ze Hero :"
+    courir et enchaîner 30km chaque jour avec 2000 de dénivelé.  \nNous partirons
+    en groupe de 4 à 10 personnes. Le parcours passe dans des villages afin de se
+    ravitailler en eau et également si besoin en nourriture.  \nNous avons donc mis
+    en place plusieurs itinérances à faire sur un jour ou sur plusieurs selon les
+    niveaux. Ces itinérances peuvent être des journées de Trail allant de 30km à 75km
+    selon les niveaux des coureurs du groupe.\n\nDécouvrez notre itinérance de trail
+    chez Ze Hero :"
   title: Nos itinérances de trail dans les Préalpes d'Azur
 - template: cta
   blockBGcolor: blanc

@@ -33,11 +33,23 @@ page_sections:
   title: Nos activités en Lozère
 - template: textarea
   blockBGcolor: blanc
-  content: |-
-    La Lozère est un département situé en Occitanie. Une terre incroyable, d'air pur et de grands espaces. Elle regorge de sites natures d'exception où la nature prospère. Ce petit département vous offre à coup sûr un dépaysement total. Un pue méconnue, pourtant vous retrouverez en Lozère le parc national des Cévennes, le parc naturel régional de l'Aubrac et des Monts d'Ardèche ainsi que les gorges du Tarn, les Causses et bien d'autres. Outre ses sites naturels, on y retrouve un patrimoine d'exception, historique et culturel. Séjournez en Lozère, c'est éviter l'afflux du monde, c'est profiter d'espaces immenses, d'une nature préservée, d'activité outdoor et d'un lieu de bien-être et de calme. Vous y découvrirez ses différents sommets tel que le Mont Lozère, le Mont Aigoual, ses grottes et ses lacs, ses rivières tel que le Tarn, le Lot, la Jonte.
-
-    La Lozère est une destination parfaite pour toutes les activité outdoor. Entre ses parcs, ses sites naturels, ses rivières et ses lacs, vous trouverez un choix varié de terrain de jeux et de découverte pour toutes vos activités outdoor.
+  content: "La Lozère est un département situé en Occitanie. Une terre incroyable,
+    d'air pur et de grands espaces. Elle regorge de sites natures d'exception où la
+    nature prospère. Ce petit département vous offre à coup sûr un dépaysement total.
+    Vous retrouverez en Lozère le parc national des Cévennes, le parc naturel régional
+    de l'Aubrac et des Monts d'Ardèche ainsi que les gorges du Tarn, les Causses et
+    bien d'autres.   \nLa Lozère est une destination parfaite pour toutes les activité
+    outdoor. Entre ses parcs, ses sites naturels, ses rivières et ses lacs, vous trouverez
+    un choix varié de terrain de jeux et de découverte pour toutes vos activités outdoor."
   title: La Lozère
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: "/fr/ete/activites/reserver-randonnee"
+    text_button: Nos randonnées en Lozère
+  intro: Nos offres de randonnées en
+  headline: Lozère
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782622/website/Partenaires/Cueilleur%20de%20sommet/Baume_Jonte_4.jpg
@@ -55,9 +67,18 @@ page_sections:
     tous les éléments pour comprendre cette nature, cette faune et flore dans le parc
     des Cévennes.
   button:
-    href_button: https://preprod-zehero-202112.netlify.app/fr/ete/activites/reserver-randonnee
+    href_button: "/fr/ete/activites/reserver-randonnee"
     text_button: Nos offres de randonnée en Lozère
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: Outre ses sites naturels, on y retrouve un patrimoine d'exception, historique
+    et culturel. Séjournez en Lozère, c'est éviter l'afflux du monde, c'est profiter
+    d'espaces immenses, d'une nature préservée, d'activité outdoor et d'un lieu de
+    bien-être et de calme. Vous y découvrirez ses différents sommets tel que le Mont
+    Lozère, le Mont Aigoual, ses grottes et ses lacs, ses rivières tel que le Tarn,
+    le Lot, la Jonte.
+  title: ''
 type: generic
 listMother: 2
 titleHome: Les activités en Lozère

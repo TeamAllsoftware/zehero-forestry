@@ -55,10 +55,11 @@ page_sections:
     au trail, chaussures de trail, sac ou ceinture de portage avec flasques d’eau
     (2 fois 500ml ou plus) + réserve alimentaire et coupe-vent."
 - template: liststyle01
-  title: Derniers informations
+  title: Dernières informations
   item:
-  - 'Prix : 80€ '
+  - 'Prix : 80€ / 6h'
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216730/website/summer/IMG_20200723_153002.jpg
 image01_alt: Traileur courant sur les crètes du Cheiron
+listMother: 2
 
 ---

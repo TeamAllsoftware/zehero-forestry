@@ -56,9 +56,10 @@ page_sections:
   title: La location comprend
   item:
   - Combinaison 5mm + baudrier + casque
-  - 25€
-  - A la journée
-  - 'Lieu de location : Le Bar sur Loup'
+  - Spécifiez votre taille lors de la réservation !
+  - 'Taille : XS / S / M / L / XL'
+  - 25€ à la journée
+  - 'Lieu de location : Le Bar sur Loup / Parking La Jarerie'
 - template: 2colimgtxt
   blockBGcolor: blanc
   content: "Nous proposons alors la location d'équipement de canyoning dans les Alpes

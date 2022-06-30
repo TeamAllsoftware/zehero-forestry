@@ -32,27 +32,28 @@ page_sections:
 - template: heroBreadcrumb
   title: Nos activités dans les Alpes Maritimes
 - template: textarea
-  content: "Les Alpes Maritimes (06) est une région incroyable pour toutes les activités
+  content: Les Alpes Maritimes (06) est une région incroyable pour toutes les activités
     outdoor. Au Sud de la France, elle est baignée par le soleil profitant d’un climat
     incroyable. Le magnifique massif de l’Esterel fait office de barrage au mistral,
     de ce fait, il y a moins de vent que dans le Var et dans les Bouches-du-Rhône.
     Entre mer et montagne, les Alpes-Maritimes regorgent de trésors naturels. Avec
     un ensoleillement légendaire, vous pourrez bénéficier de belles journées de soleil
-    pour toutes vos activités.\n\nLe littoral est composé de ville comme Nice, Antibes
-    ou encore Cannes. Un peu plus haut dans les Préalpes, on retrouve des villes comme
-    Vence, St Paule de Vence, Tourrettes sur Loup et encore Grasse. Et lorsque qu’on
-    grimpe plus haut dans les montagnes, nous retrouvons Isola 2000, Auron, Valberg,
-    St Etienne de Tinée, St Martin de Vésubie… Découvrez alors tout son littoral,
-    ses rivières, le parc des Préalpes d'azur, ses lacs ainsi que le parc national
-    du Mercantour.   \nUne région qui a beaucoup à offrir et dont vous ne pourrez
-    vous ennuyer."
+    pour toutes vos activités.
   title: Les Alpes Maritimes
   blockBGcolor: ''
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: 'Les canyonings dans les '
+  headline: Alpes Maritimes
+  button:
+    text_button: Offres de canyoning 06
+    href_button: "/fr/ete/activites/nos-canyonings"
 - template: 2colimgtxt
   blockBGcolor: blanc
   button:
-    href_button: "/fr/ete/activites/nos-canyonings"
-    text_button: Nos canyoning dans les Alpes Maritimes
+    href_button: ''
+    text_button: ''
     alt_button: ''
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
   alt_text_for_image: Des personnes avec des enfants faisant du canyoning dans les
@@ -66,6 +67,14 @@ page_sections:
     amis, c'est le département idéal. Vous pourrez alors retrouver de la randonnée
     aquatique, des canyonings parfaits pour s'initier, des gorges magnifiques, des
     canyonings techniques avec de belles ambiances.
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: 'Les sorties de trail dans les '
+  headline: Alpes Maritimes
+  button:
+    href_button: "/fr/ete/activites/nos-sorties-trail"
+    text_button: Le trail dans le 06
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216730/website/summer/IMG_20200723_153002.jpg
@@ -80,9 +89,19 @@ page_sections:
     et confirmé avec également la mise en place d'itinérance sur deux journées à travers
     les Préalpes d'Azur pour un voyage extraordinaire.
   button:
-    text_button: Nos offres de trail dans les Alpes Maritimes
-    href_button: "/fr/ete/activites/nos-sorties-trail"
     alt_button: ''
+    text_button: ''
+    href_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: "Le littoral est composé de ville comme Nice, Antibes ou encore Cannes.
+    Un peu plus haut dans les Préalpes, on retrouve des villes comme Vence, St Paule
+    de Vence, Tourrettes sur Loup et encore Grasse. Et lorsque qu’on grimpe plus haut
+    dans les montagnes, nous retrouvons Isola 2000, Auron, Valberg, St Etienne de
+    Tinée, St Martin de Vésubie… Découvrez alors tout son littoral, ses rivières,
+    le parc des Préalpes d'azur, ses lacs ainsi que le parc national du Mercantour.
+    \ \nUne région qui a beaucoup à offrir et dont vous ne pourrez vous ennuyer."
+  title: ''
 baseline: Mer et Montagne
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
 conseil: ''
