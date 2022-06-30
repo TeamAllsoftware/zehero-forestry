@@ -54,7 +54,7 @@ page_sections:
     Sortie VTT amateur à Méribel : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17611-vtt-electrique-amateur-adulte-meribel-vtt-meribel-sam-jones)\n*
     Sortie VTT amateur aux Menuires : [**Réservez ici !**](https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17608-vtt-electrique-amateur-adulte-les-menuires-vtt-meribel-sam-jones)"
 layout: layout_generic
-titleHome: Réservez VTT à Méribel et Les Ménuires
+titleHome: Réservez VTT à Méribel et Les Ménuires - Savoie
 conseil: ''
 listMother: 2
 

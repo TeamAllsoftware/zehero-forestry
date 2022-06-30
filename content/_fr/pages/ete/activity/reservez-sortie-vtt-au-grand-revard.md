@@ -9,7 +9,7 @@ activite: vtt
 meta-title: 'Réservez sortie de VTT au Grand Revard '
 meta-description: Réservez votre prochaine sortie de VTT et VTT électrique à Aix les
   Bains et au Grand Revard pour tous niveaux.
-title: Réservez sortie VTT au Grand Revard
+title: Réservez sortie VTT au Grand Revard - Savoie
 permalink: "/fr/ete/activites/reserver-vtt-grand-revard"
 baseline: Sortie VTT Grand Revard
 engage: Partez rouler en VTT ou VTT Electrique en famille
@@ -58,7 +58,7 @@ page_sections:
   title: ''
 listMother: 2
 layout: layout_generic
-titleHome: ''
+titleHome: Réservez sortie VTT au Grand Revard
 conseil: ''
 
 ---
