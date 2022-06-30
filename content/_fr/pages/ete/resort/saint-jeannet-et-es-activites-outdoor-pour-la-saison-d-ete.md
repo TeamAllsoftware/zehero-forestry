@@ -11,7 +11,7 @@ introduction:
   you_arrive: Trouvez votre activité à Saint Jeannet
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
-title: Saint Jeannet et es activités outdoor pour la saison d'été
+title: Saint Jeannet et ses activités outdoor pour la saison d'été
 activite: alpesmaritimes
 level: 2
 enHome: 2
