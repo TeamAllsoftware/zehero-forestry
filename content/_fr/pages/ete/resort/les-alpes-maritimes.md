@@ -48,9 +48,17 @@ page_sections:
     image_alt: Coureur sur le plateau de Caussol
     title: Le Trail dans les Alpes Maritimes
     url: "/fr/ete/activites/nos-sorties-trail"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653904846/website/By%20Ze%20Hero%20Activity/IMG_20200723_153725.jpg
+    image_alt: Coureur à Gréolières
+    title: Courir dans les Préalpes d'Azur
+    url: "/fr/ete/activites/nos-sorties-trail"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
     image_alt: Adultes et enfants faisant du canyoning dans les Alpes Maritimes
     title: Canyoning dans les Alpes Maritimes
+    url: "/fr/ete/activites/nos-canyonings"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655387608/website/By%20Ze%20Hero%20Activity/IMG_5305.jpg
+    image_alt: Canyoning du Clue de la Cerise
+    title: Les plus beaux canyons des Alpes Maritimes
     url: "/fr/ete/activites/nos-canyonings"
 - template: textarea
   blockBGcolor: blanc
