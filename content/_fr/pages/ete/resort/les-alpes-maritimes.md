@@ -52,8 +52,8 @@ page_sections:
 - template: 2colimgtxt
   blockBGcolor: blanc
   button:
-    href_button: "/fr/ete/activites/nos-canyonings"
-    text_button: Nos canyoning dans les Alpes Maritimes
+    href_button: ''
+    text_button: ''
     alt_button: ''
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
   alt_text_for_image: Des personnes avec des enfants faisant du canyoning dans les
