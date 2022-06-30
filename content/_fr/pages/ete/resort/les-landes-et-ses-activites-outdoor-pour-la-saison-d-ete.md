@@ -45,6 +45,10 @@ page_sections:
     Capbreton, Hossegor, Messanges, Biscarosse. C'est également une terre de thermalisme
     reconnu avec Dax.\n\nDécouvrez toutes nos offres de surf dans les Landes"
   blockBGcolor: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos activités dans les Landes
+  content: " "
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -64,20 +68,8 @@ page_sections:
     image_alt: Groupes cours de surf à Mimizan
     title: Surfez avec Sama Sama Surf School
     url: "/fr/ete/partenaires/sama-sama-surf-school"
-- template: cta
+- template: textarea
   blockBGcolor: blanc
-  marge: 20
-  button:
-    href_button: "/fr/ete/activites/reserver-cours-surf"
-    text_button: Nos offres de surf dans les Landes
-  intro: Nos offres de surf dans les
-  headline: Landes
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649066110/website/Sama%20Sama/216173831_123343679958569_6340812869216994865_n.jpg
-  alt_text_for_image: Groupe de surfeur en cours de surf à Mimizan
-  captiontitleuppercase: Nos activités dans les Landes
-  title: Le surf dans les Landes
   content: Avec Ze Hero, nous vous proposons plusieurs offres de surf dans les Landes.
     Partez découvrir, vous initier, progresser et même vous perfectionner en surf
     que ce soit dans des cours privé ou collectif ou des stages de plusieurs jours.
@@ -85,10 +77,7 @@ page_sections:
     d'Avezac, qui vous apportera tous les meilleurs conseils dans des cours privés
     de surf. Mais également de surfer à Mimizan avec l'école de surf Sama Sama Surf
     School, dans une ambiance conviviale et fun pour un maximum de plaisir.
-  button:
-    alt_button: ''
-    text_button: ''
-    href_button: ''
+  title: ''
 code_postal: 40,Landes,Nouvelle-Aquitaine
 listMother: 2
 conseil: ''
