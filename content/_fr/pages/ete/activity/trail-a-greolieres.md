@@ -60,5 +60,6 @@ page_sections:
   - 'Prix : 80€ / 6h'
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216730/website/summer/IMG_20200723_153002.jpg
 image01_alt: Traileur courant sur les crètes du Cheiron
+listMother: 2
 
 ---
