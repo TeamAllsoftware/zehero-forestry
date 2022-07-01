@@ -38,7 +38,7 @@ page_sections:
   blockBGcolor: blanc
   marge: 20
   intro: Découvrez dès maintenant nos activités VTT
-  headline: Toutes nos offres
+  headline: Toutes nos offres de VTT
   button:
     href_button: "/fr/ete/activites/reserver-vtt"
     text_button: Nos offres

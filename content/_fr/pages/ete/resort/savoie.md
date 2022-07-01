@@ -39,42 +39,44 @@ page_sections:
     On y retrouve Courchevel, Val Thorens, Les Arcs, Tignes et bien d'autres.  \nLa
     Savoie est un lieu d'exception pour de nombreuses activités outdoors. Partez découvrir
     les montagnes, les lacs, les forêts. Vivez des sensations fortes, admirez, détendez
-    vous et partagez vos émotions.  \nDécouvrez toutes nos offres en Savoie : "
+    vous et partagez vos émotions."
   title: La Savoie
   blockBGcolor: ''
-- template: cta
+- template: textarea
   blockBGcolor: blanc
-  marge: 20
-  button:
-    href_button: "/fr/ete/activites/reserver-vtt"
-    text_button: Nos offres de VTT en Savoie
-  intro: 'Découvrez nos offres de VTT en '
-  headline: Savoie
-- template: 2colimgtxt
+  title: Nos activités en Savoie
+  content: " "
+- template: listOffres
   blockBGcolor: blanc
-  button:
-    href_button: ''
-    text_button: ''
-    alt_button: ''
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108069/website/VTT%20AE/pexels-reinhard-bruckner-5328112.jpg
-  alt_text_for_image: Des vaches et une personnes faisant du VTT en Savoie
-  captiontitleuppercase: Nos activités en Savoie
-  title: Le VTT en Savoie
-  content: "Découvrez avec Ze Hero toutes nos offres de VTT en Savoie. Partez explorer
-    les sentiers en VTT ainsi qu'en VTT électrique. Que ce soit en famille, entre
-    amis, chacune des offres sera adaptée aux niveaux et aux envies.  \nVous pourrez
-    alors rouler en VTT à Méribel et à Les Menuires avec notre moniteur de VTT. Vous
-    pourrez également découvrir les hauteurs d'Aix les Bains et le plateau du Grand
-    Revard avec Expérience Vélo."
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653899659/website/Exp%C3%A9rience%20V%C3%A9lo/randonn%C3%A9e_en_vtt_%C3%A9lectrique_%C3%A0_proximit%C3%A9_du_lac_d_annecy_en_haute-savoie..jpg
+    title: Le VTT au Grand Revard
+    url: "/fr/ete/activites/reserver-vtt-grand-revard"
+    image_alt: Une personne sur un VTT électrique en Savoie
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653393324/website/Exp%C3%A9rience%20V%C3%A9lo/passage_%C3%A0_v%C3%A9lo_sur_la_passerelle_de_cusy_en_savoie..jpg
+    image_alt: Deux personnes en VTT en Savoie
+    url: "/fr/ete/partenaires/experience-velo"
+    title: Rouler à VTT avec Expérience Vélo
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108069/website/VTT%20AE/pexels-reinhard-bruckner-5328112.jpg
+    title: VTT à Méribel et Les Menuires
+    url: "/fr/ete/activites/reserver-vtt-meribel-menuires"
+    image_alt: Personne en VTT a cotés de vache en montagne
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108071/website/VTT%20AE/forest-4366094_1920.jpg
+    image_alt: Groupe de personne à VTT en forêt
+    title: Découvrez comment bien débuter le VTT
+    url: "/fr/ete/conseils/debuter-vtt"
 - template: textarea
   blockBGcolor: blanc
   content: "Le département compte 3 parcs naturels : un parc national (Parc National
     de la Vanoise) et deux parcs naturels régionaux (Parc Naturel Régional des Bauges
     et Parc Naturel Régional de Chartreuse). Vous retrouverez également en Savoie
     le Lac du Bourget : plus grand lac naturel de France avec ses 18km de long ainsi
-    que le Lac d'Aiguebelette.  \nLe nom Savoie provient de l’ancien territoire Sapaudie
-    qui signifie le pays des sapins ou le pays couvert de sapins. Le nom aurait ensuite
-    dérivé en Sabaudia, Sabogla, Saboia, Savogia et enfin Savoie."
+    que le Lac d'Aiguebelette.\n\nDécouvrez avec Ze Hero toutes nos offres de VTT
+    en Savoie. Partez explorer les sentiers en VTT ainsi qu'en VTT électrique. Que
+    ce soit en famille, entre amis, chacune des offres sera adaptée aux niveaux et
+    aux envies.  \nVous pourrez alors rouler en VTT à Méribel et à Les Menuires avec
+    notre moniteur de VTT. Vous pourrez également découvrir les hauteurs d'Aix les
+    Bains et le plateau du Grand Revard avec Expérience Vélo."
   title: ''
 baseline: Montagnes et charme
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes

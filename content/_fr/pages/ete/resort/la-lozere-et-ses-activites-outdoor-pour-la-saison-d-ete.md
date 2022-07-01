@@ -42,42 +42,35 @@ page_sections:
     outdoor. Entre ses parcs, ses sites naturels, ses rivières et ses lacs, vous trouverez
     un choix varié de terrain de jeux et de découverte pour toutes vos activités outdoor."
   title: La Lozère
-- template: cta
-  blockBGcolor: blanc
-  marge: 20
-  button:
-    href_button: "/fr/ete/activites/reserver-randonnee"
-    text_button: Nos randonnées en Lozère
-  intro: Nos offres de randonnées en
-  headline: Lozère
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782622/website/Partenaires/Cueilleur%20de%20sommet/Baume_Jonte_4.jpg
-  alt_text_for_image: Entre Tarn et Jonte en Lozère
-  captiontitleuppercase: Nos activités en Lozère
-  title: La randonnée en Lozère
-  content: Avec Ze Hero, nous vous proposons de partir randonner en Lozère avec notre
-    partenaire " [**Cueilleur de sommets**](/fr/ete/partenaires/clement-sivera) ".
-    Cet accompagnateur de montagne vous emmènera dans les coins uniques de la Lozère,
-    tel que les balcons du Tarn et de la Jonte, le Cinglegros et le Baousse del Biel.
-    Vous pourrez également observer les vautours et leurs nids, découvrir des sentiers
-    vertigineux. Partez à l'aventure, randonner et découvrir la nature pour un moment
-    d'évasion, de plaisir et de partage. Des randonnées à la journée ou à la demi-journée,
-    pour les familles ou entre amis, votre accompagnateur vous apportera également
-    tous les éléments pour comprendre cette nature, cette faune et flore dans le parc
-    des Cévennes.
-  button:
-    href_button: ''
-    text_button: ''
-    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  content: Outre ses sites naturels, on y retrouve un patrimoine d'exception, historique
-    et culturel. Séjournez en Lozère, c'est éviter l'afflux du monde, c'est profiter
-    d'espaces immenses, d'une nature préservée, d'activité outdoor et d'un lieu de
-    bien-être et de calme. Vous y découvrirez ses différents sommets tel que le Mont
-    Lozère, le Mont Aigoual, ses grottes et ses lacs, ses rivières tel que le Tarn,
-    le Lot, la Jonte.
+  title: Nos activités en Lozère
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782614/website/Partenaires/Cueilleur%20de%20sommet/Entre_Tarn_et_Jonte_2.jpg
+    image_alt: Nature balcons du tarn et de la jonte
+    title: Randonnée dans les gorges du Tarn et de la Jonte
+    url: "/fr/ete/activtes/reserver-randonner-tarn-jonte"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782623/website/Partenaires/Cueilleur%20de%20sommet/Baume_Jonte_2.jpg
+    image_alt: Baousse del biel
+    title: Randonnée du Cinglegros et Baousse del biel
+    url: "/fr/ete/activites/reserver-randonne-cinglegros-baousse-biel"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650868143/website/Partenaires/Cueilleur%20de%20sommet/2d0dea58-a43f-446f-8ab8-d7f0fab6b5ea.jpg
+    image_alt: Randonneur en montagne
+    title: Randonnez avec Cueilleur de Sommets
+    url: "/fr/ete/partenaires/clement-sivera"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654869688/website/summer/PXL_20220522_074713115.jpg
+    image_alt: Groupe de personne en randonnée
+    title: Comment bien débuter en randonnée
+    url: fr/ete/conseils/debuter-randonnee-montagne
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Séjournez en Lozère, c'est éviter l'afflux du monde, c'est profiter d'espaces immenses, d'une nature préservée, d'activité outdoor et d'un lieu de bien-être et de calme. Vous y découvrirez ses différents sommets tel que le Mont Lozère, le Mont Aigoual, ses grottes et ses lacs, ses rivières tel que le Tarn, le Lot, la Jonte.
+
+    Avec Ze Hero, nous vous proposons de partir randonner en Lozère avec notre partenaire " [**Cueilleur de sommets**](/fr/ete/partenaires/clement-sivera) ". Cet accompagnateur de montagne vous emmènera dans les coins uniques de la Lozère, tel que les balcons du Tarn et de la Jonte, le Cinglegros et le Baousse del Biel. Vous pourrez également observer les vautours et leurs nids, découvrir des sentiers vertigineux. Partez à l'aventure, randonner et découvrir la nature pour un moment d'évasion, de plaisir et de partage. Des randonnées à la journée ou à la demi-journée, pour les familles ou entre amis, votre accompagnateur vous apportera également tous les éléments pour comprendre cette nature, cette faune et flore dans le parc des Cévennes.
   title: ''
 type: generic
 listMother: 2
