@@ -46,7 +46,7 @@ page_sections:
   blockBGcolor: blanc
   offreList:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649066110/website/Sama%20Sama/216173831_123343679958569_6340812869216994865_n.jpg
-    title: Stage 3 jours
+    title: Stage 3 jours surf
     url: https://shop.ze-hero.com/fr/activites-Outdoor/Surf/17558-surf-stage-3-jours-matin-mimizan-sama-sama-sama-sama-surf-school
     image_alt: Groupe de personnes cours de surf
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651477288/website/Sama%20Sama/cours-de-surf-therapie.jpg
