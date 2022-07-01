@@ -38,6 +38,10 @@ page_sections:
     forêts pour un environnement préservé. Vous trouverez un patrimoine culturel et
     naturel important.
   blockBGcolor: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos activités à Mimizan
+  content: " "
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -58,7 +62,6 @@ page_sections:
     title: Sama Sama Surf School
     url: "/fr/ete/partenaires/sama-sama-surf-school"
 - template: textarea
-  title: Mimizan pour un séjour famille
   content: Vous y trouverez des vagues idéales pour débuter et également pour vous
     perfectionner. Avec 10km de plage, vous allez trouver de nombreux spots parfaits
     pour surfer. Toute l'année les vagues offrent des conditions idéales pour surfer,
@@ -72,6 +75,7 @@ page_sections:
     avec un moniteur de surf à l'eau, que ce soit pour un cours ou un stage de plusieurs
     jours. Ouvert à tous, découvrez les sensations et les joies du surf à Mimizan.
   blockBGcolor: ''
+  title: ''
 code_postal: 40,Landes,Nouvelle-Aquitaine
 listMother: 2
 titleHome: ''
