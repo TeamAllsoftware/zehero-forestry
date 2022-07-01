@@ -73,6 +73,10 @@ page_sections:
     pour enfants et adultes ainsi que des cours privés. Vous pourrez également louer
     tout votre matériel directement sur place."
   title: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos destinations en Loire Atlantique
+  content: " "
 - template: listOffres
   blockBGcolor: blanc
   offreList:
