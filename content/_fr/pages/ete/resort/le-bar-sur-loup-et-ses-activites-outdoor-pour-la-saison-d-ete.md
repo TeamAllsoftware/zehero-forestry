@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -27,15 +27,19 @@ button_to_link_to_ze_hero_shop:
   button_text: Réserver votre activité à Bar sur Loup
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
+- template: heroBreadcrumb
+  title: Nos activité à Le Bar sur Loup
 - template: textarea
   blockBGcolor: blanc
   title: Le Bar Sur Loup
-  content: |-
-    Le Bar sur Loup est un petit village médiéval des [Alpes Maritimes](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes). Situé à mi-chemin entre la Méditerrané et les montagnes du Mercantour, il se trouve dans les Préalpes d'Azur. Entouré d'un espace vert, de petits sommets et de villages typiques, ce petit village est un havre de paix. L'orange est un symbole fort et Bar sur Loup est surnommé la Cité des Orangers.
-
-    Ce village est à 30mn de la mer mais aussi [d'Antibes ](https://www.ze-hero.com/fr/ete/destinations/antibes)et de Cagne sur Mer. Il se trouve tout prêt également de Gréolières les neiges. Le Mercantour lui, un peu loin, reste tout de même seulement à 1h15 de route.
-
-    Entouré du sommet du Pic des Courmettes, du Puy de Tourrettes, de Naouri, du plateau de Caussol, il est également traversé par le Loup. Un village perché qui offre une nature d’exception, préservé et protégé. Alternant gorges et cascades, plateaux et cols, sommets et vue panoramique, ce petit village est un coin de paradis pour les activités outdoor.
+  content: "Le Bar sur Loup est un petit village médiéval des [Alpes Maritimes](https://www.ze-hero.com/fr/ete/destinations/alpes-maritimes).
+    Situé à mi-chemin entre la Méditerrané et les montagnes du Mercantour, il se trouve
+    dans les Préalpes d'Azur. \n\nLe Bar sur Loup est un petit village parfait si
+    vous désirez pratiquer de multiples activités outdoor, vous laissez tenter par
+    le canyoning, de la randonnée, du trail et du parapente. Vous pourrez également
+    grimper les différents cols des alentours à vélo. Ici, Ze Hero est implanté en
+    mettant en place à Bar sur Loup ses différentes offres de Canyoning mais également
+    de trail et de randonnée."
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649756917/website/resorts/Le%20Bar%20sur%20Loup/guillaume-meurice-KaQ1XQ_DoCQ-unsplash.jpg
@@ -88,13 +92,6 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-- template: textarea
-  blockBGcolor: blanc
-  title: Un paradis outdoor
-  content: |-
-    Le Bar sur Loup est un petit village parfait si vous désirez pratiquer de multiples activités outdoor, vous laissez tenter par le canyoning, de la randonnée, du trail et du parapente. Vous pourrez également grimper les différents cols des alentours à vélo.
-
-    Ici, Ze Hero est implanté en mettant en place à Bar sur Loup ses différentes offres de Canyoning mais également de trail et de randonnée.
 - template: cta
   intro: Réservez vos activités à Le Bar sur Loup
   button:
@@ -103,6 +100,17 @@ page_sections:
   headline: Trail, Canyoning, Randonnée et Escalade
   blockBGcolor: ''
   marge: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Ce village est à 30mn de la mer mais aussi [d'Antibes ](https://www.ze-hero.com/fr/ete/destinations/antibes)et de Cagne sur Mer. Il se trouve tout prêt également de Gréolières les neiges. Le Mercantour lui, un peu loin, reste tout de même seulement à 1h15 de route.
+
+    Entouré du sommet du Pic des Courmettes, du Puy de Tourrettes, de Naouri, du plateau de Caussol, il est également traversé par le Loup. Un village perché qui offre une nature d’exception, préservé et protégé. Alternant gorges et cascades, plateaux et cols, sommets et vue panoramique, ce petit village est un coin de paradis pour les activités outdoor.
+  title: ''
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+listMother: 2
+titleHome: ''
+conseil: ''
+published: false
 
 ---
