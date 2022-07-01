@@ -26,6 +26,8 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 page_sections:
+- template: heroBreadcrumb
+  title: Nos activités à Seignosse
 - template: textarea
   title: Seignosse
   content: "Seignosse, c'est un petit paradis landais. Un lieux 100% nature qui offre
