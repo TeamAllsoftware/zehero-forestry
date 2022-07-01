@@ -79,6 +79,10 @@ page_sections:
     image_alt: Deux skateurs ridant dans un skatepark dans les Landes à Seignosse
     title: Seignosse
     url: "/fr/ete/destination/seignosse"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647959887/website/resorts/Mimizan/pieter-de-malsche-FegcrLoYH9g-unsplash.jpg
+    image_alt: Femmes portant leurs planches de surf au coucher de soleil vers Mimizan
+    title: Mimizan
+    url: "/fr/ete/destination/mimizan"
 - template: textarea
   blockBGcolor: blanc
   content: Avec Ze Hero, nous vous proposons plusieurs offres de surf dans les Landes.
