@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 permalink: "/fr/ete/destinations/antibes"
 redirect_from:
 - "/fr/ete/destination/antibes"
@@ -72,5 +72,8 @@ introduction:
   zehero_advice: ZE HERO vous conseille des activités et de la location pour toute
     votre famille
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+listMother: 2
+titleHome: Nos activité à Antibes
+conseil: ''
 
 ---
