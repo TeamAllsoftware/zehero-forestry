@@ -70,6 +70,17 @@ page_sections:
     url: "/fr/ete/activites-reserver-cours-surf-mimizan-porge"
 - template: textarea
   blockBGcolor: blanc
+  title: Nos destinations dans les Landes
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647264196/website/resorts/Seignosse/jeffrey-brandjes-v4E9ObZ8Bno-unsplash_1.jpg
+    image_alt: Deux skateurs ridant dans un skatepark dans les Landes à Seignosse
+    title: Seignosse
+    url: "/fr/ete/destination/seignosse"
+- template: textarea
+  blockBGcolor: blanc
   content: Avec Ze Hero, nous vous proposons plusieurs offres de surf dans les Landes.
     Partez découvrir, vous initier, progresser et même vous perfectionner en surf
     que ce soit dans des cours privé ou collectif ou des stages de plusieurs jours.
