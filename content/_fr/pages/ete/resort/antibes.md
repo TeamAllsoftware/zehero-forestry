@@ -20,69 +20,46 @@ meta-description: Trouvez votre activité outdoor à Antibes. Antibes est une vi
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/jane-ackerley-WiN6Az_8cGQ-unsplash_cmbknc.jpg
 image01_alt: Vu des remparts d'Antibes, avec la mer et les montagnes
 page_sections:
+- template: heroBreadcrumb
+  title: Nos activités à Antibes
 - template: textarea
   content: La ville d'Antibes est un petit paradis entre la mer et les montagnes.
     Profitez du soleil de la côte d'azur, de ces plages et de son sentier littoral
     du cap d'Antibes. Avec sa vue imprenable sur les montagnes du Mercantour, sa situation
     géographique vous permet de profitez de la mer, des préAlpes d'Azur ainsi que
     du massif du Mercantour.
-  title: ''
-  blockBGcolor: ''
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/v2f-ulodjS9910U-unsplash_rpg51d.jpg
-  captiontitleuppercase: Mer, Montagne et Soleil
-  title: Le Plaisir des activités Outdoor
-  content: 'Profitez de plusieurs parc tel que le parc de la Valmasque et de Vaugrenier
-    qui vous permet de courir, de faire des activités physiques mais aussi du VTT.
-    Antibes est aussi une terre de cyclisme avec les nombreux parcours sur le bord
-    de mer, et vers les Préalpes Maritimes. '
-  alt_text_for_image: Bord de mer sur le cap d'Antibes avec la mer
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+  title: Antibes
   blockBGcolor: ''
 - template: textarea
-  content: "Le stade du fort carré est ouvert au public et permet d'avoir une piste
-    récente et très bien entretenu. L'hiver, quelques vagues se forment au fort carré
-    mais aussi vers le cap d'Antibes, ce qui permet aux surfeurs d'enfiler leurs combinaison
-    et de surfer.   \nAntibes est aux portes d'un grand nombre d'activité tel que
-    l'escalade en falaise, le cayonning, le ski et le ski de randonnée l'hiver, le
-    parapente, le VTT ainsi que toutes les activités nautiques."
+  blockBGcolor: blanc
+  title: Nos activités à Antibes
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293326/website/Coaching/GOPR0299_1638033833951-min_rjq5k5.jpg
+    image_alt: Coach sportif Antibes
+    title: Séance de coaching
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/Coaching/16729-coaching-personnalise-et-prive-1h-antibes-06-activite-ze-hero
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293325/website/Coaching/G0090154_1638033833951-min_exdyrm.jpg
+    image_alt: Coureur sur le Fort Carré à Antibes
+    title: Séances spécifiques de course à pied
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/Coaching/16728-seances-specifiques-course-a-pied-activite-ze-hero
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650619667/website/By%20Ze%20Hero%20Activity/_D5C4137_-lr.jpg
+    image_alt: Coureur de Trail dans l'Esterel
+    title: Sortie Trail - Esterel
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/Coaching/16010-esterel-83-trail-sortie-longue-mercredi-apres-midi-3h-activite-ze-hero
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654852126/website/By%20Ze%20Hero%20Activity/IMG_20200723_153328_1.jpg
+    image_alt: Coureur à Gréolières
+    title: Sortie Trail - Environ d'Antibes
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17579-trail-journee-levens-ze-hero-yann-alarcon
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Si vous séjournez à Antibes, vous pourrez bénéficier d'un grand nombre d'activités parfois situées à Antibes même ou dans les alentours. Vous aurez le choix, que ce soit pour le plaisir ou pour l'entraînement, de le faire sous un beau soleil.
+
+    Antibes offre un large choix d'activité tel que du kayak, de la course à pied, du vélo et du VTT, du padel, du surf, de la planche à voile. Dans ses alentours proches on y retrouve de l'escalade en salle ou en extérieur, du trail, du parapente, du canyoning, de la via ferrata. En hiver, vous pouvez également profiter des montagnes afin de faire du ski, du snowboard, de la raquette, ainsi que de l'alpinisme.
   title: ''
-  blockBGcolor: ''
-- template: 3coltxtimgtxt
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/anthony-s-I1hzGTtKMgU-unsplash_opyeq6.jpg
-  captionleftcontent: Activités et entraînements
-  captionrighttitle: Le climat parfait
-  captionrightcontent: Si vous séjournez à Antibes, vous pourrez bénéficier d'un grand
-    nombre d'activités parfois situées à Antibes même ou dans les alentours. Vous
-    aurez le choix, que ce soit pour le plaisir ou pour l'entraînement, de le faire
-    sous un beau soleil.
-  center_alt_text_for_image: Vue du ca d'Antibes avec la mer et les montagnes derrière
-  blockBGcolor: ''
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472430/website/resorts/Antibes/laurent-simon-o0RpFUskLtk-unsplash_dj7ifo.jpg
-  captiontitleuppercase: Faites le plein d'énergie
-  title: Les activités à Antibes
-  content: Antibes offre un large choix d'activité tel que du kayak, de la course
-    à pied, du vélo et du VTT, du padel, du surf, de la planche à voile. Dans ses
-    alentours proches on y retrouve de l'escalade en salle ou en extérieur, du trail,
-    du parapente, du canyoning, de la via ferrata. En hiver, vous pouvez également
-    profiter des montagnes afin de faire du ski, du snowboard, de la raquette, ainsi
-    que de l'alpinisme.
-  alt_text_for_image: Vue du Fort carré avec les montagnes enneigées derrière
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: ''
-- template: listServices
-  service: activity
-  blockBGcolor: gris
-  headtitle:
-    headline: ZE HERO vous propose
-    title: ses activités à Antibes
 baseline: Soleil et Panorama
 engage: 'test test test test test test test test '
 page_title: Antibes, mer et montagne
