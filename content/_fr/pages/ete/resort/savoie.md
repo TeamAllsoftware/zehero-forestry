@@ -72,6 +72,10 @@ page_sections:
 - template: listOffres
   blockBGcolor: blanc
   offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51413475434_999c49bc4f_k_tzeznm.jpg
+    image_alt: Vue des montagnes à Méribel en Savoie.
+    title: Méribel
+    url: "/fr/ete/destinations/meribel"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653471444/website/resorts/Le%20Revard/mercvrie-YlWgxkbP_pY-unsplash.jpg
     image_alt: Vue du lac du Bourget
     title: Aix les Bains - Le Revard
