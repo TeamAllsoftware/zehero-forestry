@@ -72,6 +72,11 @@ page_sections:
 - template: listOffres
   blockBGcolor: blanc
   offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644398781/website/resorts/les%20menuires/Myrtilliers_et_vue_sur_station-Vincent_LOTTENBERG-30356-1600px_bbaihi.jpg
+    image_alt: Vue de la station des Menuires avec les montagnes et des fleurs de
+      montage devant
+    title: Les Menuires
+    url: "/fr/ete/destinations/les-menuires"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51413475434_999c49bc4f_k_tzeznm.jpg
     image_alt: Vue des montagnes à Méribel en Savoie.
     title: Méribel
