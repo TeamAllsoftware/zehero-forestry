@@ -16,7 +16,7 @@ page_title: La Savoie
 resort_nameid: savoie
 resort_naming: La Savoie
 title: La Savoie et ses activités outdoor pour la saison d'été
-titleHome: Les activités en Savoie
+titleHome: Les activités en Savoie 73
 activite: ''
 level: 1
 enHome: 1
