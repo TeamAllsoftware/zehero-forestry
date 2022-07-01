@@ -73,6 +73,13 @@ page_sections:
     pour enfants et adultes ainsi que des cours privés. Vous pourrez également louer
     tout votre matériel directement sur place."
   title: ''
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642758795/website/summer/pexels-riccardo-bertolo-4245813_npkgby.jpg
+    image_alt: Plage de la Loire Atlantique vers St Nazaire et St Brévin les Pins
+    title: Saint Brévin les Pins
+    url: "/fr/ete/destinations/st-brevin-les-pins"
 baseline: Littoral et nature
 code_postal: 44,Loire-Atlantique,Pays de la Loire
 level: 1
