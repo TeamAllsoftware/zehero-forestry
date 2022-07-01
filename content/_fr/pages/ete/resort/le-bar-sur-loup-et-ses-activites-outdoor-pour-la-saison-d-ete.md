@@ -68,7 +68,7 @@ page_sections:
   title: ''
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
 listMother: 2
-titleHome: ''
+titleHome: Nos activités à Bar sur Loup
 conseil: ''
 
 ---
