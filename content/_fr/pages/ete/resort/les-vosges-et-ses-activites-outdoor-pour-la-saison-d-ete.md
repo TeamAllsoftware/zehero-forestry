@@ -74,7 +74,7 @@ page_sections:
 type: generic
 level: 1
 listMother: 2
-titleHome: Les activités dans les Vosges
+titleHome: Les activités dans les Vosges 88
 activite: ''
 conseil: ''
 
