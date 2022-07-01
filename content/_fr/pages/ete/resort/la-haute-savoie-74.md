@@ -69,6 +69,17 @@ page_sections:
     url: "/fr/ete/partenaires/7-aventures"
 - template: textarea
   blockBGcolor: blanc
+  title: Nos destinations en Haute-Savoie
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649230728/website/resorts/Thonon-les-bains/danijel-dzankic-GT6k4-YIV3o-unsplash.jpg
+    image_alt: Lac Léman
+    title: Thonon les Bains
+    url: "/fr/ete/destination/thonon-les-bains"
+- template: textarea
+  blockBGcolor: blanc
   content: "Vous ne pourrez vous ennuyer en Haute-Savoie. Ce département est un paradis
     d'activité Outdoor, de sport sensationnel, de découverte, d'expérience nouvelle
     de voyage à travers la nature et des lieux d'exceptions. Que vous soyez seul,
