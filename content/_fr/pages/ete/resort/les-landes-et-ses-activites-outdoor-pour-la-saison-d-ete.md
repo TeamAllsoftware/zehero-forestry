@@ -12,7 +12,7 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Les Landes et ses activités outdoor pour la saison d'été
-titleHome: Les activités dans les Landes
+titleHome: Les activités dans les Landes 40
 activite: ''
 level: 1
 enHome: 1

@@ -16,7 +16,7 @@ page_title: Alpes Maritimes
 resort_nameid: alpes-maritimes
 resort_naming: Les Alpes Maritimes
 title: Les Alpes Maritimes et ses activités outdoor pour la saison d'été
-titleHome: Les activités dans les Alpes-Maritimes
+titleHome: Les activités dans les Alpes-Maritimes 06
 activite: ''
 level: 1
 listMother: 2
