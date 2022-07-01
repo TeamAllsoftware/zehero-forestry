@@ -67,6 +67,17 @@ page_sections:
     url: "/fr/ete/conseils/debuter-vtt"
 - template: textarea
   blockBGcolor: blanc
+  title: Nos destinations en Savoie
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653471444/website/resorts/Le%20Revard/mercvrie-YlWgxkbP_pY-unsplash.jpg
+    image_alt: Vue du lac du Bourget
+    title: Aix les Bains - Le Revard
+    url: "/fr/ete/destinations/aix-les-bains-le-revard"
+- template: textarea
+  blockBGcolor: blanc
   content: "Le département compte 3 parcs naturels : un parc national (Parc National
     de la Vanoise) et deux parcs naturels régionaux (Parc Naturel Régional des Bauges
     et Parc Naturel Régional de Chartreuse). Vous retrouverez également en Savoie
@@ -78,17 +89,6 @@ page_sections:
     notre moniteur de VTT. Vous pourrez également découvrir les hauteurs d'Aix les
     Bains et le plateau du Grand Revard avec Expérience Vélo."
   title: ''
-- template: textarea
-  blockBGcolor: blanc
-  title: Nos destinations en Savoie
-  content: " "
-- template: listOffres
-  blockBGcolor: blanc
-  offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653471444/website/resorts/Le%20Revard/mercvrie-YlWgxkbP_pY-unsplash.jpg
-    image_alt: Vue du lac du Bourget
-    title: Aix les Bains - Le Revard
-    url: "/fr/ete/destinations/aix-les-bains-le-revard"
 baseline: Montagnes et charme
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 listMother: 2
