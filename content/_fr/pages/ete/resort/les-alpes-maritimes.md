@@ -75,6 +75,10 @@ page_sections:
     image_alt: Village de Bar sur Loup
     title: Le Bar sur Loup
     url: "/fr/ete/destinations/le-bar-sur-loup"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654852015/website/By%20Ze%20Hero%20Activity/jane-ackerley-WiN6Az_8cGQ-unsplash.jpg
+    image_alt: Rempart d'Antibes
+    url: "/fr/ete/destinations/antibes"
+    title: Antibes
 - template: textarea
   blockBGcolor: blanc
   content: |-
