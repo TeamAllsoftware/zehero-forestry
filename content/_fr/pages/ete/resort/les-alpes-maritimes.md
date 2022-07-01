@@ -66,6 +66,17 @@ page_sections:
     url: "/fr/ete/activites//fr/ete/conseils/conseils-canyoning-canyonings"
 - template: textarea
   blockBGcolor: blanc
+  title: Nos destinations dans les Alpes Maritimes
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649756837/website/resorts/Le%20Bar%20sur%20Loup/landscape-319855_1920.jpg
+    image_alt: Village de Bar sur Loup
+    title: Le Bar sur Loup
+    url: "/fr/ete/destinations/le-bar-sur-loup"
+- template: textarea
+  blockBGcolor: blanc
   content: |-
     Les Alpes Maritimes sont une destination incroyable pour la pratique du canyoning. Avec les Gorges du Loup, de la Roya, de la Tinée, de la Vésubie et bien d'autres. Ceux qui souhaitent s'initier au canyoning, découvrir des lieux merveilleux, partager un moment d'émotions fortes en famille, de sensations entre amis, c'est le département idéal. Vous pourrez alors retrouver de la randonnée aquatique, des canyonings parfaits pour s'initier, des gorges magnifiques, des canyonings techniques avec de belles ambiances.
 
