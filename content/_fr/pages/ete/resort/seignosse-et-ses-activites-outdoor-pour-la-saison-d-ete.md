@@ -68,7 +68,7 @@ page_sections:
   title: ''
 code_postal: 40,Landes,Nouvelle-Aquitaine
 listMother: 2
-titleHome: ''
+titleHome: Nos activités à Seignosse
 conseil: ''
 
 ---
