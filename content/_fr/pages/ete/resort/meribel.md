@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 permalink: "/fr/ete/destinations/meribel"
 redirect_from:
 - "/fr/ete/destination/meribel"
@@ -21,61 +21,41 @@ meta-description: Trouvez votre activité outdoor dans la station de Méribel. E
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51413475434_999c49bc4f_k_tzeznm.jpg
 image01_alt: Vue des montagnes à Méribel en Savoie.
 page_sections:
+- template: heroBreadcrumb
+  title: Nos activités à Méribel
 - template: textarea
   content: "Méribel est une station de ski mais également plusieurs villages. Des
     villages aux charmes traditionnels savoyards plongez dans un décor majestueux.
     Avec son identité authentique, on se retrouve en montagne, sommets, lacs et forets.
-    Voici les différents villages de Méribel :  \n\\- Les Allues  \n\\- Méribel Centre
-    \ \n\\- Méribel Village  \n\\- Méribel Mottaret  \nSitué entre 1400m et 1800m
-    d'altitude, l'été, Méribel offre une variété incroyables de décors naturels, d'expériences,
-    d'activités."
-  title: ''
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269871/website/M%C3%A9ribel/48230749811_989a61d1d1_k_pk9iwg.jpg
-  captiontitleuppercase: Charme et volupté
-  title: Familiale, sportif et détente
-  content: 'Profitez d''une station très active l''été avec de nombreuses [activités](https://www.ze-hero.com/fr/ete/conseils/activites-montagne-ete).
-    Méribel s''est aussi une réserve naturelle : Tueda. Un espace préservé, qui est
-    plongé dans le parc national de la Vanoise. Admirez et profitez d''un espace naturel
-    entre lac et montagne. Entre village et nature, vous bénéficierez de moment au
-    calme dans une nature incroyable.'
-  alt_text_for_image: Lac en montagne avec une flore présente et les montagnes à cotés
+    \ \nSitué entre 1400m et 1800m d'altitude, l'été, Méribel offre une variété incroyables
+    de décors naturels, d'expériences, d'activités. Profitez d'une station très active
+    l'été avec de nombreuses activités. Méribel s'est aussi une réserve naturelle
+    : Tueda. Un espace naturel entre lac et montagne. Entre village et nature, vous
+    bénéficierez de moment au calme dans une nature incroyable.\n\nProfitez de découvrir
+    Méribel à VTT et VTT électrique, en famille ou entre amis :"
+  title: Méribel
+  blockBGcolor: ''
 - template: textarea
-  content: L'été, plusieurs remontées mécaniques vont être en marche. Vous pourrez
-    profiter en tant que piéton et accéder directement à des [randonnées ](https://www.ze-hero.com/fr/ete/activites/randonnee-montagne)proches
-    des crêtes et des sommets. Mais vous pourrez également en profiter pour pratiquer
-    le [VTT ](https://www.ze-hero.com/fr/ete/activites/vtt)et le VTT électrique. Méribel
-    est une station qui offre un incroyable parc de VTT. Vous trouverez énormément
-    de pistes de descente pour tous les niveaux ainsi que des balades d'exception
-    pour les familles et les plus sportifs.
-  title: ''
-- template: 3coltxtimgtxt
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51413714050_374a9a4e10_k_kk6wwz.jpg
-  captionleftcontent: Le plaisir avant tout
-  captionrighttitle: Prenez un bol d'air
-  captionrightcontent: Méribel est un petit coin de paradis aux grands espaces. Profitez
-    de la montagne pour partir faire du [Yoga ](https://www.ze-hero.com/fr/ete/activite/yoga)et
-    de la relaxation au bord du lac de Tueda. Mais également des randonnées initiatique
-    et ludique, des ateliers de respirations et de Qi-Gong. Vous pourrez aussi profiter
-    des espaces bien-être et vous relaxez dans les jacuzzis, hammam, saunas et les
-    massages.
-  center_alt_text_for_image: Trois femmes faisant du Yoga à Méribel au lac de Tueda
-    le matin
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269871/website/M%C3%A9ribel/51367737119_ac6986edcc_k_mhxcfu.jpg
-  captiontitleuppercase: Des activités fortes
-  title: Les activités à Méribel
-  content: Partez randonner à pied dans les hauteurs de Méribel en découvrant le refuge
-    du saut, de glacier de Gréboulaz, le Lac des Fées, l'aiguille du Fruit, la crête
-    de Tougnète et bien d'autres. Profitez de sentiers à travers des lieux sauvages
-    où vous pourrez apercevoir des marmottes, des chamois, des bouquetins. Accompagné
-    d'un guide, vous pourrez découvrir une nouvelle facette de cette montagne, de
-    sa faune et de sa flore. C'est également une station propice au [Trail Running](https://www.ze-hero.com/fr/ete/activites/trail-running),
-    avec des sentiers balisés, des compétitions.
-  alt_text_for_image: Trois coureurs faisant du trail à Méribel en montagne avec une
-    mer de nuage derrière eux
+  blockBGcolor: blanc
+  title: Nos activité à Méribel
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654866668/website/Sames%20Jones/FB_IMG_1654680653467.jpg
+    image_alt: Personne en VTT de descente
+    title: VTT Electrique Amateur Adulte
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17611-vtt-electrique-amateur-adulte-meribel-vtt-meribel-sam-jones
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108075/website/VTT%20AE/pexels-darcy-lawrey-1010546.jpg
+    image_alt: Adulte en VTT à cotés de vaches en montagne
+    title: VTT Electrique Débutant Adulte
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17612-vtt-electrique-debutant-adulte-meribel-vtt-meribel-sam-jones
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108075/website/VTT%20AE/pexels-darcy-lawrey-1010546.jpg
+    image_alt: Groupe enfant et adulte à VTT
+    title: VTT Electrique Enfant Famille
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17610-vtt-electrique-enfant-famille-meribel-vtt-meribel-sam-jones
 - template: textarea
-  content: "Que vous soyez en famille, entre amis, en couple ou seul, vous trouverez
+  content: Que vous soyez en famille, entre amis, en couple ou seul, vous trouverez
     une activité à votre goût. Méribel c'est également des promenades à cheval, ce
     sont des activités comme le tir à l'arc, la trottinette électrique tout terrain.
     Vous pourrez aussi faire de la Via Ferrata et faire le plein de sensation forte
@@ -83,43 +63,9 @@ page_sections:
     ainsi que des [canyonings](https://www.ze-hero.com/fr/ete/activites/canyoning).
     Si vous aimez l'outdoor et ses activités alors vous trouverez tout ce que vous
     aimez à Méribel. Vous pourrez par ailleurs travailler votre Swing dans le magnifique
-    Golf que propose Méribel. Un golf unique plongez au cœur des montagnes.  \nC'est
-    également le lieu idéal pour faire son baptême de [parapente ](https://www.ze-hero.com/fr/ete/activites/parapente)et
-    voler au-dessus des villages de Méribel et de ses sommets.\n\nC'est aussi du [vélo
-    de route](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)
-    avec de nombreuses ascensions et parcours qui vous feront découvrir les paysages
-    de montagne et de Savoie. Lancez vous dans des défis sportifs en grimpant le fameux
-    col de la Loze.  \nVous pourrez alors découvrir nos nombreuses offres depuis Méribel
-    qui sont en partenariat avec [l'Hôtel Le Savoy](https://www.ze-hero.com/fr/ete/partenaires/le-savoy-meribel)
-    situé au centre de Méribel. Un hôtel 4 étoiles, authentique, face aux montagnes,
-    pour un séjour de dépaysement et de bien être. Voici les différentes offres de
-    vélo de route à Méribel avec les nuits à l'Hôtel Le Savoy :\n\n* [Séjours de 6
-    jours de vélo à Méribel ](https://www.ze-hero.com/fr/ete/activites/velo-de-route-sejour-6-jours-meribel)\n*
-    [Sortie journée de vélo à Méribel](https://www.ze-hero.com/fr/ete/activites/velo-de-route-journees-meribel)\n*
-    [Traversée des Préalpes depuis Méribel](https://www.ze-hero.com/fr/ete/activites/traversee-des-pre-alpes-en-velo)\n*
-    [Traversée des Alpes à vélo depuis Méribel](https://www.ze-hero.com/fr/ete/activites/traversee-des-alpes-en-velo)"
+    Golf que propose Méribel. Un golf unique plongez au cœur des montagnes.
   title: ''
-- template: parlaxgridtxtimg
-  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269873/website/M%C3%A9ribel/51412716796_70cc7b315e_k_plp4js.jpg
-  captionabovetitle: Sauvage et charmante
-  title: Un séjour bien-être et sportif
-  gridline1title: Vivez l'outdoor
-  gridline1content: En plus de toutes les activités extérieures que vous trouverez,
-    vous pourrez aussi retrouver de nombreuses activités indoor tel que la piscine,
-    le bowling, le mur d'escalade. Vous dégusterez des plats typiques savoyards des
-    cadres traditionnels. Méribel, c'est un patrimoine culturel riche.
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269871/website/M%C3%A9ribel/51413698130_20d68e0b60_k_c0s6pk.jpg
-  gridline2title: Pour tout le monde
-  gridline2content: Quelque soit votre niveau ou votre envie, chacune des activités
-    sera adaptées à vous afin d'en profiter pleinement et de vivre en moment inoubliable.
-    Vous trouverez des magasins afin de louer tout l'équipement que ce soit pour le
-    VTT, le Vélo, la via ferrata, les trottinettes etc.
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51412982923_ff9f82a30a_k_cmlulv.jpg
-  prlax_alt_text_for_image: Personne faisant de la via Ferrat à Méribel montant sur
-    une parois raide
-  grid_1_alt_text_for_image: Personne faisant du VTT en descente sur une piste de
-    VTT dans la forêt à Méribel
-  grid_2_alt_text_for_image: Alpiniste en montagne marchant sur une crête à Méribel
+  blockBGcolor: ''
 baseline: Charme et volupté
 engage: 'test test test test test test test test '
 page_title: 'Méribel, station d''exception '
@@ -134,5 +80,6 @@ introduction:
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 listMother: 2
 conseil: spot
+titleHome: ''
 
 ---

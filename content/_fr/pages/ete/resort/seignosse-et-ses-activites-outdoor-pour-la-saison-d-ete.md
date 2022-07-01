@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -23,9 +23,11 @@ meta-title: Activités outdoor à Seignosse l'été
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647264196/website/resorts/Seignosse/jeffrey-brandjes-v4E9ObZ8Bno-unsplash_1.jpg
 image01_alt: Deux skateurs ridant dans un skatepark dans les Landes à Seignosse
 button_to_link_to_ze_hero_shop:
-  button_text: Réserver votre activité à Seignosse
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Seignosse&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+  button_text: ''
+  url_to_shop_zehero: ''
 page_sections:
+- template: heroBreadcrumb
+  title: Nos activités à Seignosse
 - template: textarea
   title: Seignosse
   content: "Seignosse, c'est un petit paradis landais. Un lieux 100% nature qui offre
@@ -36,12 +38,23 @@ page_sections:
     le surf et pour le skateboard. Une petite ville maritime où la culture de la glisse
     y est forte. La nature y est respecté et on s'y sent bien."
   blockBGcolor: ''
-- template: 2colimgtxt
+- template: textarea
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647264217/website/resorts/Seignosse/tom-wolff-XYCIp21GBQQ-unsplash.jpg
-  alt_text_for_image: Surfeur sautant une vague sur la plage de Seignosse
-  captiontitleuppercase: Seignosse, culture surf
-  title: Le surf à Seignosse
+  title: Nos activités à Seignosse
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340586/website/Ind%C3%A9pendant/51611112_2264458663775908_5798386440089894912_n.png
+    image_alt: Surfeur sur une vague
+    title: Cours de surf à Seignosse
+    url: "/fr/reserver-cours-ecole-surf-seignosse"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649320042/website/Ind%C3%A9pendant/51300714_2264461690442272_8556519707782414336_n.jpg
+    image_alt: Moniteur de Surf
+    url: "/fr/ete/partenaires/morgan-davezac-surf-seignosse"
+    title: Moniteur de Surf - Seignosse
+- template: textarea
+  blockBGcolor: blanc
   content: Le surf à Seignosse, c'est déjà plus de 20 écoles de surf présentent sur
     les différentes plages. On retrouve 4 plages à Seignosse, la plage du Penon, la
     plage des Bourdaines, la plage des Estagnots et la plage des Casernes. Si vous
@@ -52,44 +65,10 @@ page_sections:
     de surf et louer votre combinaison de surf dans les différentes écoles de surf
     de Seignosse. Seignosse est mondialement connu pour le surf. Pour apprendre c'est
     également un lieu parfait car les vagues sont régulières.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: textarea
-  content: |-
-    Seignosse est également connu pour ses compétitions internationales avec [Hossegor ](https://www.ze-hero.com/fr/ete/destination/hossegor)de surf. Vous trouverez ici les meilleurs spots de beach break. Vous trouverez toujours une école près de vous, d'un shop qui vous louera une planche ou autre. Que ce soit pour des cours collectifs, des cours privé ou des stages, chacun trouvera son bonheur.
-
-    Vous pourrez également pratiquer le body board ou le [stand up paddle](https://www.ze-hero.com/fr/ete/activites/paddle).
   title: ''
-  blockBGcolor: ''
-- template: 2coltxtimg
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647264212/website/resorts/Seignosse/joackim-weiler-Fgu1YhXEY-E-unsplash_1.jpg
-  alt_text_for_image: Route de bitume à Seignosse à travers les pins maritimes
-  captiontitleuppercase: Séjour plaisir à Seignosse
-  title: Les autres activités à Seignosse
-  content: |-
-    Les activités à Seignosse ça ne manque pas. Vous trouverez un large choix de différentes activités outdoor. Seignosse c'est plusieurs skateparks magnifiques où vous pourrez pratiquer le skate pour le plaisir ou alors prendre des cours avec une école de skate.
-
-    C'est louer un [VTT ](https://www.ze-hero.com/fr/ete/activites/vtt)ou un [vélo de route](https://www.ze-hero.com/fr/ete/activites/velo-de-route) et partir rouler sur les pistes cyclables ou les pistes forestières. C'est découvrir ces lieux au charme landais, entre les pins et les dunes de sable.
-
-    C'est également des activités d'eaux vives que propose Seignosse à quelques kilomètres d'elle. Vous trouverez du rafting, du [canyoning](https://www.ze-hero.com/fr/ete/activites/canyoning), de [canoë-kayak](https://www.ze-hero.com/fr/ete/activites/kayak) ainsi que de l'escalade.
-
-    Seignosse c'est aussi le lieu idéal pour les amateurs de golf. Son parcours rentre dans le top 10 des golfs en France. De quoi ravir les amateurs de swing.
-
-    Mais cette petite ville sera également un lieu parfait pour la détente et le [yoga ](https://www.ze-hero.com/fr/ete/activite/yoga)sur la plage devant un coucher de soleil. Respirez profondément l'air marrant et méditer afin de vivre uniquement le moment présent.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: textarea
-  title: Seignosse n'attend que vous
-  content: |-
-    Séjournez à Seignosse c'est vivre au rythme de l'océan, ces longues journées de soleil. C'est apprendre et ressentir la culture surf au sein d'un environnement respecté et protégé.
-
-    N'attendez plus, trouvez votre activité qui vous fera vibrer.
-  blockBGcolor: ''
 code_postal: 40,Landes,Nouvelle-Aquitaine
+listMother: 2
+titleHome: Nos activités à Seignosse
+conseil: ''
 
 ---

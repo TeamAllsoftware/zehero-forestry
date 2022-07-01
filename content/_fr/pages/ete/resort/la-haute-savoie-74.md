@@ -17,7 +17,7 @@ page_title: La Haute Savoie
 resort_nameid: haute-savoie
 resort_naming: La Haute Savoie
 title: La Haute Savoie et ses activités pour la saison d'été
-titleHome: Les activités en Haute Savoie
+titleHome: Les activités en Haute Savoie 74
 activite: spot
 level: 1
 enHome: 1
@@ -67,6 +67,17 @@ page_sections:
     image_alt: Groupe de personne en hydrospeed
     title: Activités en eau vive avec 7 Aventures
     url: "/fr/ete/partenaires/7-aventures"
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos destinations en Haute-Savoie
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649230728/website/resorts/Thonon-les-bains/danijel-dzankic-GT6k4-YIV3o-unsplash.jpg
+    image_alt: Lac Léman
+    title: Thonon les Bains
+    url: "/fr/ete/destination/thonon-les-bains"
 - template: textarea
   blockBGcolor: blanc
   content: "Vous ne pourrez vous ennuyer en Haute-Savoie. Ce département est un paradis

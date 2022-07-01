@@ -16,7 +16,7 @@ page_title: La Savoie
 resort_nameid: savoie
 resort_naming: La Savoie
 title: La Savoie et ses activités outdoor pour la saison d'été
-titleHome: Les activités en Savoie
+titleHome: Les activités en Savoie 73
 activite: ''
 level: 1
 enHome: 1
@@ -65,6 +65,26 @@ page_sections:
     image_alt: Groupe de personne à VTT en forêt
     title: Découvrez comment bien débuter le VTT
     url: "/fr/ete/conseils/debuter-vtt"
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos destinations en Savoie
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644398781/website/resorts/les%20menuires/Myrtilliers_et_vue_sur_station-Vincent_LOTTENBERG-30356-1600px_bbaihi.jpg
+    image_alt: Vue de la station des Menuires avec les montagnes et des fleurs de
+      montage devant
+    title: Les Menuires
+    url: "/fr/ete/destinations/les-menuires"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51413475434_999c49bc4f_k_tzeznm.jpg
+    image_alt: Vue des montagnes à Méribel en Savoie.
+    title: Méribel
+    url: "/fr/ete/destinations/meribel"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653471444/website/resorts/Le%20Revard/mercvrie-YlWgxkbP_pY-unsplash.jpg
+    image_alt: Vue du lac du Bourget
+    title: Aix les Bains - Le Revard
+    url: "/fr/ete/destinations/aix-les-bains-le-revard"
 - template: textarea
   blockBGcolor: blanc
   content: "Le département compte 3 parcs naturels : un parc national (Parc National

@@ -16,7 +16,7 @@ page_title: Alpes Maritimes
 resort_nameid: alpes-maritimes
 resort_naming: Les Alpes Maritimes
 title: Les Alpes Maritimes et ses activités outdoor pour la saison d'été
-titleHome: Les activités dans les Alpes-Maritimes
+titleHome: Les activités dans les Alpes-Maritimes 06
 activite: ''
 level: 1
 listMother: 2
@@ -64,6 +64,21 @@ page_sections:
     image_alt: Canyoning et enfants
     title: Débuter en canyoning
     url: "/fr/ete/activites//fr/ete/conseils/conseils-canyoning-canyonings"
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos destinations dans les Alpes Maritimes
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649756837/website/resorts/Le%20Bar%20sur%20Loup/landscape-319855_1920.jpg
+    image_alt: Village de Bar sur Loup
+    title: Le Bar sur Loup
+    url: "/fr/ete/destinations/le-bar-sur-loup"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654852015/website/By%20Ze%20Hero%20Activity/jane-ackerley-WiN6Az_8cGQ-unsplash.jpg
+    image_alt: Rempart d'Antibes
+    url: "/fr/ete/destinations/antibes"
+    title: Antibes
 - template: textarea
   blockBGcolor: blanc
   content: |-
