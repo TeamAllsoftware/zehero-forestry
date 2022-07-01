@@ -28,7 +28,7 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
 - template: heroBreadcrumb
-  title: Nos activité à Le Bar sur Loup
+  title: Nos activités à Le Bar sur Loup
 - template: textarea
   blockBGcolor: blanc
   title: Le Bar Sur Loup
