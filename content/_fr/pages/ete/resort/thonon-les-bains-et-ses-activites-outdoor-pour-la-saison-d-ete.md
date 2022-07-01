@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -28,6 +28,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité à Thonon-les-Bains
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor
 page_sections:
+- template: heroBreadcrumb
+  title: Nos activités à Thonon les Bains
 - template: textarea
   blockBGcolor: blanc
   title: Thonon-les-Bains
@@ -38,46 +40,37 @@ page_sections:
     les plongeons dans ce lac gigantesque face la suisse, des rivières, des prairies.
     Avec un patrimoine culturel, naturel, gastronomique important, votre séjour sera
     diversifié et riche en découverte.
-- template: 2colimgtxt
+- template: listOffres
   blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649230744/website/resorts/Thonon-les-bains/blanche-peulot-rCQxee1eXso-unsplash.jpg
-  alt_text_for_image: Image du lac Léman vers Evian les Bains
-  captiontitleuppercase: Le lac Léman et ses rivières
-  title: Les activités d'eau
-  content: |-
-    À Thonon-les-Bains entre le lac Léman et les rivières, vous trouverez un choix varié d'activité d'eau. En effet, vous trouverez déjà de nombreuses activités au bord du lac. Vous pourrez alors louer un paddle et vous promener sur les bords du lac Léman. Vous pourrez également pratiquer la planche à voile, la voile. Naviguez sur l'eau dans un environnement unique et vous découvrirez les bords du lac Français et les paysages Suisse en face de vous.
-
-    Thonon-les-Bains est tout prêt de rivières qui proposent toutes les activités d'eau vive. Vous pourrez alors découvrir les joies des sports de sensation au cœur des rivières des montagnes. Des sports aux sensations fortes dans des cadres uniques et parmi les plus beaux de France. Différentes structures dont 7 Aventures vous proposent alors les activités comme le canyoning, le rafting, l'hydrospeed et le canoë-kayak. Vous pourrez alors naviguer dans la Dranse en rafting, l'hydrospeed et en kayak, en découvrant une rivière puissante et magnifique. Le canyoning va se pratiquer également dans la Dranse mais vous trouverez d'autre canyon comme celui d'Angon, de Nyon.
-
-    Thonon-les-Bains regorge d'activité aquatique, que ce soit sur le lac ou en rivière, vous aurez le choix. Des activités pour tous, aux sensations fortes dans un environnement riche et unique.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-- template: 2coltxtimg
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649230772/website/resorts/Thonon-les-bains/yannick-van-houtven-YGYT4_SFUUk-unsplash.jpg
-  alt_text_for_image: Montagne et roches avec un sommet en Haute Savoie vers Thonon
-    les Bains
-  captiontitleuppercase: Thonon-les-bains, montagnes alpines
-  title: Les activité terres
-  content: |-
-    Thonon-les-Bains c'est le lieu idéal pour toutes les activités naturelles et de terre. Vous pourrez alors trouver de nombreuses randonnées pédestres. Entouré de montagne, prêt des stations de Chatel, d'Avoriaz, de Morzine, d'Abondance et St Jean D'Aulps, le nombre de balades alpines sera énorme. Découvrez un paysage unique au patrimoine riche et naturel. Accompagné d'un guide, découvrez le massif du Chablais, les balcons du Lac Léman. Vous pourrez avoir une vue sur le Mont Blanc et une vue sur le lac Léman. Partez au cœur de u massif des Portes du Soleil. Les amoureux de la natures et les randonneurs seront au paradis. Pour tous les amateurs de trail, c'est aussi le lieux idéale pour fouler les sentiers.
-
-    Partez découvrir un faune, une flore et les secrets de la vallais du Chablais.
-
-    Vous pourrez également pratiquer des activités outdoor tel que l'escalade et le parapente. Le VTT sera également une activité idéale pour découvrir l'environnement dans les vallées de l'Abondance et de l'Aulps. Vous pourrez aussi partir rouler sur les terres des Portes du soleil. Les stations comme Avoriaz, Samoens seront des lieux parfaits pour la pratique du VTT.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649084755/website/Partenaires/1638783636-DSC_0792.jpg
+    image_alt: Groupe de personne en rafting
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/rafting/17266-rafting-decouverte-matin-7-aventures-7-aventures
+    title: Découverte Rafting - Dranse
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146577/website/Partenaires/1638785326-DSC_1978.jpg
+    image_alt: Groupe de personne en hydrospeed
+    title: Découverte Hydrospeed  - Dranse
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/hydrospeed/17275-hydrospeed-decouverte-matin-7-aventures-7-aventures
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649081597/website/Partenaires/1638783865-DSC_0958.jpg
+    image_alt: Personne sautant en canyoning à Nyon
+    title: Canyoning de Nyon
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17267-canyoning-de-nyon-7-aventures-7-aventures
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649149880/website/Partenaires/1638785725-DSC_1413.jpg
+    image_alt: Une personne en canoë
+    title: Canoë 2 Places - Dranse
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/kayak/17277-canoe-gonflable-matin-2-places-7-aventures-7-aventures
 - template: textarea
   blockBGcolor: blanc
   title: Séjournez et réservez votre activité à Thonon-les-Bains
   content: |-
+    Thonon-les-Bains est tout prêt de rivières qui proposent toutes les activités d'eau vive. Vous pourrez alors découvrir les joies des sports de sensation au cœur des rivières des montagnes. Des sports aux sensations fortes dans des cadres uniques et parmi les plus beaux de France. Différentes structures dont [**7 Aventures**](/fr/ete/partenaires/7-aventures) vous proposent alors les activités comme le canyoning, le rafting, l'hydrospeed et le canoë-kayak. Vous pourrez alors naviguer dans la Dranse en rafting, l'hydrospeed et en kayak, en découvrant une rivière puissante et magnifique. Le canyoning va se pratiquer également dans la Dranse mais vous trouverez d'autre canyon comme celui d'Angon, de Nyon.
+
     Réservez votre prochaine activité à Thonon-les-Bains et profitez d'un séjour au cœur d'un environnement riche et préservé. Entre lac et montagne, richesse des terres, patrimoine et une nature d'exception, vous trouverez toutes les activités outdoor pour des moments riches en émotions.
 
     Que ce soit en famille, entre amis, en couple, partez vivre de nouvelles expériences.
 code_postal: 74,Haute-Savoie,Auvergne-Rhône-Alpes
+listMother: 2
+titleHome: Nos activité à Thonon les Bains
+conseil: ''
 
 ---
