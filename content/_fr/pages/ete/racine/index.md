@@ -26,7 +26,7 @@ page_sections:
     link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   button_2_more: false
 - template: textarea
-  title: Choississez votre département de destination
+  title: Choisissez votre département de destination
   content: "<br> \n<div class=\"row align-items-center justify-content-center\">\n<div
     class=\"col-11 col-xl-4 col-md-6 md-margin-30px-bottom\"><p class=\"text-large\nline-height-38px\">Découvrez
     toutes nos offres et toutes nos activités Ze Hero.\nChoisissez votre destination
