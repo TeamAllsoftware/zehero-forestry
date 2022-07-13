@@ -15,7 +15,7 @@ columns:
     subhref: "/fr/ete/partenaires/experience-velo"
   - subtitle: Sorties de routes
     subhref: "/fr/ete/partenaires/sorties-de-route"
-- col: Nos marques +
+- col: Nos marques
   title-link: ''
   link:
   - subtitle: Instinct Trail
