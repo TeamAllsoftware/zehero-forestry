@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: summer
 type: generic
@@ -59,5 +59,8 @@ page_sections:
 
     Nice et ses alentours, c'est un choix d'activités immense. Pour tous les amoureux de la nature, il y a un large que ce soit dans la mer, dans les rivières, sur terre. C'est visiter, découvrir et se dépayser. C'est avoir des possibilités incroyables à disposition dans un rayon de 2h maximum de voiture. C'est profiter d'une nature riche et préservé, d'un dynamisme fort. Séjournez en famille, entre amis, en couple à Nice et dans ses environs, c'est profiter du soleil, d'activité sensationnel et de découverte. C'est se dépasser et se ressourcer.
   title: ''
+listMother: 2
+titleHome: Les activités à Nice
+conseil: ''
 
 ---
