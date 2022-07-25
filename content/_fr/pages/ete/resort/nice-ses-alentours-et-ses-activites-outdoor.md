@@ -48,6 +48,10 @@ page_sections:
     image_alt: Toboggan en canyoning
     title: Le canyoning près de Nice
     url: https://www.ze-hero.com/fr/ete/activites/nos-canyonings
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0003.jpg
+    image_alt: Deux personnes dans un canyoning dans les Alpes Maritimes
+    title: Location équipement Canyoning
+    url: https://www.ze-hero.com/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes
 - template: textarea
   blockBGcolor: blanc
   content: |-
