@@ -20,7 +20,9 @@ image01_alt: Vue d'un lac en montagne vers Isola 2000
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
-page_sections: []
+page_sections:
+- template: heroBreadcrumb
+  title: Randonnée dans le Mercantour - Rando à la journée
 published: false
 
 ---
