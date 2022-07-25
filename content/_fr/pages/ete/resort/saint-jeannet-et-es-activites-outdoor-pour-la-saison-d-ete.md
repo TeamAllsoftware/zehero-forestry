@@ -53,7 +53,7 @@ page_sections:
     url: https://www.ze-hero.com/fr/ete/conseils/location-materiel-canyoning-alpes-maritimes
 - template: textarea
   blockBGcolor: blanc
-  title: Des activités Outdoor à Saint Jeannet
+  title: Découvrez un village outdoor
   content: Les activités outdoor à Saint Jeannet ne manquent pas et vous pourrez profiter
     de nombreuses activités pour tous. Que ce soit pour grimper les falaises du Baou
     de Saint Jeannet, de randonner ou de courir sur les sentiers, de rouler à vélo
