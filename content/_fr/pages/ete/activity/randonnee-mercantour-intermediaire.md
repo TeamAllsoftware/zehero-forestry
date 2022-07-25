@@ -23,6 +23,11 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Randonnée dans le Mercantour - Rando à la journée
+- template: textarea
+  blockBGcolor: blanc
+  title: Partez randonner à la journée dans le Mercantour
+  content: 'Partez randonner et découvrir le parc national du Mercantour à la journée
+    en compagnie d''un guide de moyenne montagne. '
 published: false
 
 ---
