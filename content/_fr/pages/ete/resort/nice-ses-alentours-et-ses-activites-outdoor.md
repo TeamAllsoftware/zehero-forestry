@@ -30,6 +30,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité à Thonon-les-Bains
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 page_sections:
+- template: heroBreadcrumb
+  title: Nos activités à Nice
 - template: textarea
   blockBGcolor: blanc
   title: Nice et ses alentours
