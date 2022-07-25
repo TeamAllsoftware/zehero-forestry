@@ -74,6 +74,10 @@ page_sections:
 - template: listOffres
   blockBGcolor: blanc
   offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654089908/website/resorts/Les%20Houches/guillaume-brocker-wzZLrzLXSzM-unsplash.jpg
+    image_alt: Vue des montagnes près des Houches en Haute Savoie
+    title: Les Houches
+    url: "/fr/ete/destinations/les-houches"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649230728/website/resorts/Thonon-les-bains/danijel-dzankic-GT6k4-YIV3o-unsplash.jpg
     image_alt: Lac Léman
     title: Thonon les Bains
