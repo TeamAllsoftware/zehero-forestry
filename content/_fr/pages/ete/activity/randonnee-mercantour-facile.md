@@ -44,6 +44,11 @@ page_sections:
   - 'Lieu : A définir avec le guide ( Vésubie ou Tinée )'
   - 'Durée : 3h à 4h'
   - 'Prix : 40€'
+- template: imgWideInBox
+  blockBGcolor: blanc
+  imageList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658750307/website/resorts/Mercantour/IMG_20200805_130515.jpg
+    image_alt: Horde de chamois dans le Mercantour
 published: false
 
 ---
