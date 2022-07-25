@@ -79,6 +79,10 @@ page_sections:
     image_alt: Rempart d'Antibes
     url: "/fr/ete/destinations/antibes"
     title: Antibes
+  - image_alt: Femme au baou de saint Jeannet en randonnée
+    title: Saint Jeannet
+    url: "/fr/ete/destinations/saint-jeannet"
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304676/website/summer/IMG_9140.jpg
 - template: textarea
   blockBGcolor: blanc
   content: |-
