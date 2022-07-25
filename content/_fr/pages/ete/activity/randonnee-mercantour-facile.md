@@ -7,7 +7,7 @@ listMother: 2
 categorie: Randonnée
 topnav_color_text: dark
 activite: randonnee
-meta-title: Randonnée dans le Mercantour - Découverte
+meta-title: Réservez une randonnée dans le Mercantour - Découverte
 meta-description: 'Partez randonner dans le Mercantour en famille et découvrez la
   faune, la flore ainsi que les lacs du magnifique massif du Mercantour. Une randonnée
   de 3h environ. '
@@ -49,6 +49,9 @@ page_sections:
   imageList:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658750307/website/resorts/Mercantour/IMG_20200805_130515.jpg
     image_alt: Horde de chamois dans le Mercantour
+layout: layout_generic
+titleHome: ''
+conseil: ''
 published: false
 
 ---
