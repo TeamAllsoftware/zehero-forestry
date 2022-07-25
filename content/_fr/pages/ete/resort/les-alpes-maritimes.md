@@ -79,6 +79,14 @@ page_sections:
     image_alt: Rempart d'Antibes
     url: "/fr/ete/destinations/antibes"
     title: Antibes
+  - image_alt: Femme au baou de saint Jeannet en randonnée
+    title: Saint Jeannet
+    url: "/fr/ete/destinations/saint-jeannet"
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304676/website/summer/IMG_9140.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650013850/website/resorts/Nice/arno-smit-lndaG6uN1yw-unsplash.jpg
+    image_alt: Vue de la mer et de la ville de Nice
+    title: Nice
+    url: "/fr/ete/destinations/nice"
 - template: textarea
   blockBGcolor: blanc
   content: |-

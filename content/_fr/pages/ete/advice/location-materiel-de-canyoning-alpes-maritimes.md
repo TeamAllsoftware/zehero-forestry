@@ -57,7 +57,7 @@ page_sections:
   item:
   - Combinaison 5mm + baudrier + casque
   - Spécifiez votre taille lors de la réservation !
-  - 'Taille : XS / S / M / L / XL'
+  - 'Taille : XS / S / M / L / XL / XXL / XXXL'
   - 25€ à la journée
   - 'Lieu de location : Le Bar sur Loup / Parking La Jarerie'
 - template: 2colimgtxt
