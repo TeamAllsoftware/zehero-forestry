@@ -1,24 +1,27 @@
 ---
 menu:
-- title: Activités
+- title: Réserver une activité
   id: "1"
   title-link: "/fr/hiver/activites"
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg
-  image-alt: Un skieur porte ses skis en montant une arrête pour descendre une voie
-    en hors-piste
-  image-link: "/fr/hiver/activites"
-  txt-button: Toutes les activités
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641898596/website/winter/slide-4-prosneige-cours-location-ecole-ski-snowboard_mezbdr.jpg
+  image-alt: Un groupe d'enfant avec un moniteur en cours de snowboard
+  image-link: "/fr/destinations/trouver-destination-activites"
+  txt-button: Découvrez
   column-01:
-  - nested: Nos activités ski
+  - nested: Par régions
     menu-items:
-    - title: Ski de piste
-      href: "/fr/hiver/activites/ski-de-piste"
-    - title: Ski de randonnée
-      href: "/fr/hiver/activites/ski-de-randonnee"
-    - title: Ski freeride
-      href: "/fr/hiver/activites/ski-freeride"
-    - title: Ski de fond
-      href: "/fr/hiver/activites/ski-de-fond"
+    - title: Val Thorens
+      href: "/fr/hiver/destinations/val-thorens"
+    - title: Val d'Isère
+      href: "/fr/hiver/destinations/val-d-isere"
+    - title: Alpe d'Huez
+      href: "/fr/hiver/destinations/alpe-d-huez"
+    - title: Les Menuires
+      href: "/fr/hiver/destinations/les-menuires"
+    - title: Méribel
+      href: "/fr/hiver/destinations/meribel"
+    - title: Tignes
+      href: "/fr/hiver/destinations/tignes"
   column-02:
   - nested: Nos autres activités
     menu-items:
@@ -136,8 +139,8 @@ menu:
   id: blog
   title-link: "/fr/hiver/blog"
   image-href: https://res.cloudinary.com/deddrj0yb/image/upload/c_fill,g_xy_center,h_600,w_400/v1638825044/website/summer/perfect-snacks-hI3GvlabQkA-unsplash_fb3qrq.jpg
-  image-alt: Un campeur se prépare un thé dans une cabane en montagne en lisant
-    une carte et un guide
+  image-alt: Un campeur se prépare un thé dans une cabane en montagne en lisant une
+    carte et un guide
   image-link: "/fr/hiver/blog"
   txt-button: Entrer dans le blog
   column-01:
