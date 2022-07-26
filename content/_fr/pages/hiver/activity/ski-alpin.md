@@ -1,18 +1,18 @@
 ---
-layout: layout_activity
+layout: layout_generic
 permalink: "/fr/hiver/activites/ski-de-piste"
 redirect_from:
 - "/fr/hiver/activite/ski-de-piste"
 language: fr
 season: winter
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Ski de piste
-titleHome: 
-activite: 
-level: 2
+titleHome: Ski de piste
+activite: ski de piste
+level: 1
 enHome: 2
-meta-title: Ski de piste, prendre des cours, puis visiter la station
+meta-title: Ski de piste - cours privé ou collectif
 meta-description: Des premiers virages au carving, pratiquez le ski de piste et profitez
   du domaine skiable.
 baseline: Slalom, chasse-neige, tout schuss
@@ -20,85 +20,43 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/webs
 image01_alt: Ski de piste domaine skiable montagne
 categorie: Ski
 page_sections:
+- template: heroBreadcrumb
+  title: Ski de piste, késako ?
 - template: textarea
-  content: Le ski alpin est une discipline qui consiste à descendre les pistes de
-    ski. Le ski alpin se pratique dans le domaine skiable et sur les pistes balisées.
-    Que ce soit pour le loisir, la performance, la découverte d'un domaine ou la compétition,
-    cela demande de la technique et une [bonne condition physique](https://www.ze-hero.com/fr/hiver/conseils/comment-se-pr%C3%A9parer-physiquement-au-ski).
-  title: ''
-  blockBGcolor: ''
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195877/website/assets/Recadr%C3%A9es/ski.png
-  alt_text_for_image: Equipement ski de piste
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
-  captiontitleuppercase: Apprendre le ski alpin
-  title: Pour tous, dès 3ans
-  content: Le ski s'apprend dès 3 ans dans les écoles de ski qui proposent la garderie
-    et l'apprentissage du ski. Vous pouvez ensuite, à tout âge, apprendre le ski que
+  content: Le ski de piste ou le ski alpin est une discipline qui consiste à descendre
+    les pistes de ski. Le ski alpin se pratique dans le domaine skiable et sur les
+    pistes balisées. Que ce soit pour le loisir, la performance, la découverte d'un
+    domaine ou la compétition, cela demande de la technique et une [bonne condition
+    physique](https://www.ze-hero.com/fr/hiver/conseils/comment-se-pr%C3%A9parer-physiquement-au-ski).
+    Le ski s'apprend dès 3 ans dans les écoles de ski qui proposent la garderie et
+    l'apprentissage du ski. Vous pouvez ensuite, à tout âge, apprendre le ski que
     ce soit en cours collectif ou en cours privé. Chaque domaine skiable sera composé
     de piste verte, bleue, rouge et noire, qui seront donc synonyme de la difficulté
     de la piste. Le plaisir du ski alpin va varier en fonction de votre style de ski.
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  alt_text_for_image: Skieur faisant du ski alpin sur une piste en faisant un virage
-    carvé avec des skis rossignol
-  blockBGcolor: gris
-- template: liststyle01
-  item:
-  - Le ski zen pour profiter du paysage et du domaine
-  - La godille
-  - La vitesse et les sensations fortes
-  - Carver à chaque virages
-  title: ''
-- template: textarea
-  content: "Le ski alpin aujourd'hui est devenu une pratique où les avancées technologiques
+    Le ski alpin aujourd'hui est devenu une pratique où les avancées technologiques
     ne font qu'augmenter. La technicité du matériel permet d'avoir des chaussures
     très performantes et confortables, d'avoir tous les types de ski pout tous les
-    niveaux. \n\nLe ski ne cesse d'évoluer et vous apporte ce à quoi vous avez besoin.
+    niveaux. Le ski ne cesse d'évoluer et vous apporte ce à quoi vous avez besoin.
     La plaisir de cette sensation de glisse dans de tel cadre est source de bien-être.
-    C'est un sport, une pratique où sont cadre est idyllique et paradisiaque. "
-  title: ''
+    C'est un sport, une pratique où sont cadre est idyllique et paradisiaque.
+  title: Le ski de piste
   blockBGcolor: ''
-- template: parlaxgridtxtimg
-  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1640090973/website/winter/valentin-b-kremer-xZyeRwQGKk4-unsplash_gztr6e.jpg
-  captionabovetitle: Débuter, se perfectionner, devenir expert
-  title: Le ski ne cesse jamais d'évoluer
-  gridline1title: Cours privé ou cours collectif
-  gridline1content: 'Apprendre le ski seul est très compliqué, tout comme se perfectionner
-    seul. Il est donc important d''avoir des conseils précis par une personne référente
-    du milieu. Il pourra alors corriger votre posture, votre technique, vos appuis
-    et vous permettre d''évoluer. '
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640090973/website/winter/nicolai-berntsen-OyP-8El8vWk-unsplash_pzgx3v.jpg
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Ski-descente_fo1bqg.jpg
-  gridline2content: 'Quelque soit votre station de ski, profitez de la glisse et du
-    domaine skiable et faîtes le plein de sensation. Seul ou à plusieurs, le ski alpin
-    vous permettra de vivre des moments forts en émotion. '
-  gridline2title: En famille, en couple, entre amis ou seul
-  prlax_alt_text_for_image: Trace de dameuse sur une piste de ski
-  grid_1_alt_text_for_image: Skieuse faisant du ski alpin dans une piste de ski très
-    raide en faisant un virage
-  grid_2_alt_text_for_image: Skieur faisant du ski alpin sur une piste avec un sac
-    à dos
-- template: imgWide
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646833488/website/assets/SkiAlpin.png
-  alt_text_for_image: Illustration du ski de piste
-  blockBGcolor: gris
 - template: cta
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
-    text_button: Réserver maintenant >
-  intro: Réservez dès maintenant vos activités ski
-  headline: Cours privés ou collectifs, enfants et adultes sont disponibles
+    text_button: 'Réserver maintenant '
+  intro: Découvrez nos activités de ski de piste
+  headline: Toutes nos offres
+  blockBGcolor: blanc
+  marge: 20
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
 engage: Visiter un domaine en dévalant chaque piste
 button_to_link_to_ze_hero_shop:
-  button_text: réserver des cours de ski de piste
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
+  button_text: Réservez votre activité
+  url_to_shop_zehero: ''
+listMother: 1
+conseil: ''
 
 ---
