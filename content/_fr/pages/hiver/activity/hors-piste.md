@@ -65,7 +65,7 @@ page_sections:
 
     Tout comme le ski de piste, le ski freeride requiert du matériel spécifique avec des skis adaptés à sa pratique. Ce sont des skis qui sont plus larges afin de mieux flotter sur la neige. Découvrez plus d'informations sur notre page "choisir ses skis freeride". Les chaussures de ski freeride seront aussi adaptés à la pratique. De plus, il est indispensable d'être équipé d'un sac à dos contenant au moins un DVA, une sonde et une pelle. Le casque est très fortement recommandé également.
 
-    * Où faire du ski freeride
+    * Où faire du ski freeride ?
 
     Le ski freeride se pratique partout en dehors des pistes. Certaines stations permettent directement l’accès à des hors-pistes via les remontés mécaniques. Vous trouverez alors des stations de ski où la pratique de ski freeride est idéale tel que Val d’Isère, Tignes, St Foy en Tarentaise, Méribel, Chamonix...
   title: Nos conseils Ze Hero
