@@ -107,7 +107,7 @@ page_sections:
 topnav_text_color: light
 engage: 'Explorer la montagne et ses hors pistes '
 button_to_link_to_ze_hero_shop:
-  button_text: Trouvez votre cours de hors piste
+  button_text: Trouvez votre cours de ski freeride
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=21%2F11%2F2021
 categorie: Ski
 listMother: 1

@@ -1,5 +1,5 @@
 ---
-layout: layout_activity
+layout: layout_generic
 permalink: "/fr/hiver/activites/ski-de-randonnee"
 redirect_from:
 - "/fr/ski-randonnee-isere/"
@@ -8,11 +8,11 @@ redirect_from:
 language: fr
 season: winter
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Ski de randonnée
-titleHome: 
-activite: 
-level: 2
+titleHome: Ski de randonnée
+activite: ski de randonnée
+level: 1
 enHome: 2
 meta-title: Réserver des cours de ski de randonnée
 meta-description: Partez explorer les montagnes en ski de randonnée afin de profiter
@@ -171,11 +171,15 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+  blockBGcolor: ''
+  marge: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
-  button_text: Réservez votre cours de ski
+  button_text: Trouvez votre cours de ski de randonnée
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
 categorie: Ski
+listMother: 1
+conseil: ''
 
 ---
