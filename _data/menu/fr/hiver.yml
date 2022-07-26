@@ -23,14 +23,24 @@ menu:
     - title: Tignes
       href: "/fr/hiver/destinations/tignes"
   column-02:
-  - nested: Nos autres activités
+  - nested: Toutes les activités
     menu-items:
-    - title: Snowboards
+    - title: Ski alpin
+      href: "/fr/hiver/activites/ski-de-piste"
+    - title: Ski freeride
+      href: "/fr/hiver/activites/ski-freeride"
+    - title: Ski de randonnée
+      href: "/fr/hiver/activites/ski-de-randonnee"
+    - title: Snowboard
       href: "/fr/hiver/activites/snowboard"
-    - title: Raquettes à neige
-      href: "/fr/hiver/activites/raquettes-a-neige"
     - title: Pour les enfants
       href: "/fr/hiver/activites/activites-pour-les-enfants"
+    - title: Randonnée en raquettes
+      href: "/fr/hiver/activites/raquettes-a-neige"
+    - title: Randonnée
+      href: "/fr/ete/activites/randonnee-montagne"
+    - title: Trail Running
+      href: "/fr/hiver/activites/trail-running"
 - title: Conseils
   id: "2"
   title-link: "/fr/hiver/conseils"
