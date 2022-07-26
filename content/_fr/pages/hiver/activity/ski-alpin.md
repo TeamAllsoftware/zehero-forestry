@@ -59,6 +59,21 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825166/website/winter/debuter-le-ski-pour-adultes-avec-prosneige-_dou0sp.jpg
   atl_text_image_04: Moniteur Prosneige en cours de ski privé avec une personne
   title: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: |-
+    * Débuter en ski de piste
+
+    Débuter le ski de piste, c'est prendre des cours de ski afin de partir en toute sécurité et sérénité sur les pistes. C'est avoir un moniteur qui va vous expliquer, vous montrez toutes les aspects techniques et physiques afin de skier et de prendre du plaisir et descendre les différentes pistes de ski du domaine skiable. Débuter en ski, c'est débuter sur les pistes adaptées à votre niveau, c'est aller dans les jardins d'enfants pour les tout-petits. Vous pourrez alors débuter le ski en prenant des cours collectifs ou des cours privés.
+
+    * S'équiper en ski de piste
+
+    Il est important de bien s'équiper en ski de piste, c'est à dire avoir le bon matériel et le bon équipement. Il faudra donc des chaussures et des skis adaptés à sa pratique, donc le ski de piste, ainsi qu'à son niveau. Pour cela vous retrouverez tous les détails de comment bien choisir des chaussures de ski et ses skis de piste dans nos conseils. Il faudra également avoir une tenue complète adaptée au ski.
+
+    * Où faire du ski de piste ?
+
+    Où faire du ski de piste ? Le choix en France est immense et vous trouverez de très nombreuses stations pour pratiquer le ski de piste. Les stations de ski vont se différencier pour leur ambiance, leur domaine skiable qui sera plus ou moins grand, avec des pistes difficiles ou moins difficiles.
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
