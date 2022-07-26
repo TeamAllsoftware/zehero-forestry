@@ -125,7 +125,7 @@ page_sections:
 author: geoffreyarduini
 baseline: ''
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
+  button_text: Votre destination
+  url_to_shop_zehero: "/fr/destinations/trouver-destination-activites"
 
 ---
