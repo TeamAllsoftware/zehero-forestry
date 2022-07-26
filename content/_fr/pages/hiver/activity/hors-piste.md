@@ -56,15 +56,19 @@ page_sections:
   atl_text_image_04: Skieur dans une combe en freeride
   title: ''
 - template: textarea
-  content: "Dès que l'on quitte les pistes sécurisées, nous sommes face à la montagne
-    et donc face à des risques plus élevés. La plus courante reste l'avalanche, mais
-    il y aussi les crevasses, les barres rocheuses, la météo qui se dégrade. Ces différents
-    paramètres sont importants à connaître avant de se lancer en hors-piste. Un guide
-    ou un moniteur peuvent vous expliquer tous ces paramètres lors d'une journée d'encadrement
-    en freeride.  \nIl est également important d'avoir systématiquement sur soi le
-    matériel de sécurité :  \n\\- DVA  \n\\- Pelle  \n\\- Sonde  \nMais aussi un casque
-    et parfois des protections supplémentaires telles qu'une dorsale etc."
-  title: ''
+  content: |-
+    * Débuter en ski freeride
+
+    Le ski freeride est une pratique du ski qui demande un bon niveau en ski. Le freeride requiert des compétences physiques et techniques car skier dans la poudreuse est totalement différent du ski sur la piste. Outre ces compétences, il est également très important de savoir faire fonctionner un DVA, la recherche avec une sonde et savoir utiliser la pelle. Les cours de ski freeride vous permettrons de partir sereinement avec un moniteur, d'apprendre à skier en poudreuse et de découvrir des spots incroyables.
+
+    * S'équiper en ski freeride
+
+    Tout comme le ski de piste, le ski freeride requiert du matériel spécifique avec des skis adaptés à sa pratique. Ce sont des skis qui sont plus larges afin de mieux flotter sur la neige. Découvrez plus d'informations sur notre page "choisir ses skis freeride". Les chaussures de ski freeride seront aussi adaptés à la pratique. De plus, il est indispensable d'être équipé d'un sac à dos contenant au moins un DVA, une sonde et une pelle. Le casque est très fortement recommandé également.
+
+    * Où faire du ski freeride
+
+    Le ski freeride se pratique partout en dehors des pistes. Certaines stations permettent directement l’accès à des hors-pistes via les remontés mécaniques. Vous trouverez alors des stations de ski où la pratique de ski freeride est idéale tel que Val d’Isère, Tignes, St Foy en Tarentaise, Méribel, Chamonix...
+  title: Nos conseils Ze Hero
   blockBGcolor: ''
 - template: textarea
   content: Sinon il faut parfois marcher après avoir pris une remontée mécanique,
