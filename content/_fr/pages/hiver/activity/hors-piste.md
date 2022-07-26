@@ -79,13 +79,14 @@ page_sections:
   blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
-  captiontitleuppercase: Le matériel
-  title: Un matériel spécifique pour le freeride
-  content: Si vous pratiquez le ski, il faudra alors une paire de ski dont le patin
-    sera plus important. Généralement on va retrouver des skis allant de 90mm à 110mm
-    au patin. Les skis présentent également un rocker important voir un double rocker
-    afin d'avoir une meilleure flottaison dans la neige fraîche. Il faudra également
-    un sac afin de transporter la pelle et la sonde ainsi que porter sur soi le DVA.
+  captiontitleuppercase: Trouvez votre activité de ski freeride
+  title: Les partenaires Ze Hero de ski freeride
+  content: Chez Ze Hero, nous vous proposons de partir vous découvrir les pentes vierges
+    et de vous perfectionner dans le ski freeride avec l'école de ski Prosneige. Une
+    école de ski professionnelle que vous trouverez dans de nombreuses stations de
+    ski. Ils sauront vous accueillir dans le meilleur des cadres pour un moment unique
+    en freeride. Laissez-vous porter par les moniteurs et partez découvrir le domaine
+    skiable et ses hors-pistes.
   alt_text_for_image: Snowboardeur faisant du freeride dans une pente de poudreuse
   button:
     text_button: ''
