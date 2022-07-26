@@ -49,6 +49,16 @@ page_sections:
   headline: Toutes nos offres
   blockBGcolor: blanc
   marge: 20
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-groupe-amis_weuk4g.jpg
+  atl_text_image_01: Groupe de skieurs sur une piste de ski
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
+  atl_text_image_02: Skieur en virage sur une piste de ski
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492455/website/winter/maxwell-ingham-d3Lm40Dn9rA-unsplash_b6tuda.jpg
+  atl_text_image_03: Groupe d'enfant en cours de ski
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825166/website/winter/debuter-le-ski-pour-adultes-avec-prosneige-_dou0sp.jpg
+  atl_text_image_04: Moniteur Prosneige en cours de ski privé avec une personne
+  title: ''
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
