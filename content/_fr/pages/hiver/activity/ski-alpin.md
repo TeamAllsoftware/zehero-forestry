@@ -12,7 +12,7 @@ titleHome: Ski de piste
 activite: ski de piste
 level: 1
 enHome: 2
-meta-title: Ski de piste - cours privé ou collectif
+meta-title: 'Réserver un cours privé ou collectif de ski de piste '
 meta-description: Des premiers virages au carving, pratiquez le ski de piste et profitez
   du domaine skiable.
 baseline: Slalom, chasse-neige, tout schuss
