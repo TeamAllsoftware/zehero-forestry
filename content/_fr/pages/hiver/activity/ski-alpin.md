@@ -74,6 +74,21 @@ page_sections:
     * Où faire du ski de piste ?
 
     Où faire du ski de piste ? Le choix en France est immense et vous trouverez de très nombreuses stations pour pratiquer le ski de piste. Les stations de ski vont se différencier pour leur ambiance, leur domaine skiable qui sera plus ou moins grand, avec des pistes difficiles ou moins difficiles.
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825166/website/winter/A2104-190_c9ypfm.jpg
+  alt_text_for_image: Professeur de snowboard avec des enfants en cours de ski
+  captiontitleuppercase: Trouvez votre activité de ski de piste
+  title: Les partenaires Ze Hero de ski de piste
+  content: Chez Ze Hero, nous vous proposons de partir vous amuser et d'apprendre
+    le ski avec l'école de ski Prosneige. Une école de ski professionnelle que vous
+    trouverez dans de nombreuses stations de ski. Ils sauront vous accueillir dans
+    le meilleur des cadres pour un moment agréable sur les pistes. Laissez-vous porter
+    par les moniteurs et partez découvrir le domaine skiable.
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
