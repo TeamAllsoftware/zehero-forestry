@@ -62,97 +62,39 @@ page_sections:
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1658843993/website/winter/GOPR1121_1644667504059.jpg
   atl_text_image_01: Une personne en ski de randonnée sur Crève tête à Valmorel
   title: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: |-
+    * Débuter en ski de randonnée
+
+    Le ski de randonnée est destiné à des personnes pratiquant déjà le ski ou même le ski freeride. Il demande un certain niveau technique et physique à ski afin d’être à l’aise dans le hors-piste en montée ainsi qu’en descente. Débuter en ski de randonnée c’est savoir choisir où aller, ne pas aller dans des lieux trop exigeant ou dangereux. C’est également apprendre à réaliser des conversions, à monter efficacement en monter et savoir bien descendre dans les hors-pistes. Vous apprendrez également avec un moniteur, de comprendre la nivologie, les conditions météo et de savoir se servir de l’équipement indispensable en hors-piste.
+
+    * S'équiper en ski de randonnée
+
+    Le ski de randonnée est très spécifique. Les skis devront être assez légers pour la montée et stable et large pour la descente. Tout dépend également de votre pratique de ski de randonnée. Il faut ensuite avoir les fixations adaptées à cette pratique. Comme les skis, il en existe plusieurs pour différentes pratiques. Certaines sont comme des fixations de ski classiques avec une plateforme qui permet de décoller la fixation. Ensuite, on retrouve celle à insert, qui permette d’avoir des fixations plus légères tout en étant performantes. Elles évolueront en fonction de la pratique, du poids que vous voulez avoir sur vos skis.
+
+    Les chaussures sont ensuite un équipement très important. Il faut avoir aux pieds une chaussure qui est très confortable pour vous, avec un bon débattement pour la montée. Aujourd’hui, il existe des chaussures ultra-light mais qui seront moins adaptées pour des longues sessions hors-pistes par leurs rigidités plus souples.
+
+    * Où faire du ski de randonnée ?
+
+    Le ski de randonnée se pratique partout en hors piste dans toutes les stations. Certaines stations ont également mis en place des pistes de montée de ski de randonnée pour ceux qui veulent faire des montées sèches et rapides. Dans certaines stations, vous pourrez trouver des sentiers balisés pour le ski de randonnée. Cela permet d'avoir des itinéraires faciles et agréables afin de profiter sereinement de la montagne.
 - template: 2colimgtxt
-  content: Le ski de randonnée se pratique avec du matériel différents du ski alpin
-    ou freeride. Les ski de randonnée vont varier selon les pratiques. Vous trouverez
-    alors de skis de randonnée larges mais plus lourds qui seront parfaits pour la
-    descente mais plus difficile en montée. Mais aussi des ski plus légers qui seront
-    un bon intermédiaire pour la montée et la descente. Ainsi que des skis très légers,
-    qui seront faciles pour la montée mais moins agréables à la descente.
-  title: Le matériel du ski de randonnée
+  content: Chez Ze Hero, nous vous proposons de partir vous découvrir les pentes vierges
+    et de vous perfectionner dans le ski de randonnée avec l'école de ski Prosneige.
+    Une école de ski professionnelle que vous trouverez dans de nombreuses stations
+    de ski. Ils sauront vous accueillir dans le meilleur des cadres pour un moment
+    unique en randonnée et en hors-piste. Laissez-vous porter par les moniteurs et
+    partez découvrir le domaine skiable et ses hors-pistes.
+  title: Les partenaires Ze Hero de ski de randonnée
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/amza-andrei-LiwdRhUaGZ0-unsplash_sqwdgb.jpg
-  captiontitleuppercase: Léger et technique
+  captiontitleuppercase: Trouvez votre activité de ski de randonnée
   alt_text_for_image: Un homme faisant du ski de randonnée avec un sac à dos face
     à une montagne et son sommet
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
-- template: textarea
-  content: "Certains skis sont dédiés uniquement à la pratique du ski de randonnée,
-    d'autres seront adaptés pour une pratique freeride et de randonnée. Mais l'idéal
-    est tout de même une paire plutôt légère mais qui a une bonne tenue en hors-piste.
-    \ \nIl faut ensuite avoir les fixations adaptés à cette pratique. Comme les skis,
-    il en existe plusieurs pour différentes pratiques. Certaines sont comme des fixations
-    de ski classiques avec une plateforme qui permet de décoller la fixation. Ensuite,
-    on retrouve celle à insert, qui permettent d'avoir des fixations plus légères
-    tout en étant performantes. Elles évolueront en fonction de la pratique, du poids
-    que vous voulez avoir sur vos skis.  \nLes chaussures sont ensuite un équipement
-    très important. Il faut avoir aux pieds une chaussure qui est très confortable
-    pour vous, avec un bon débattement pour la montée. Aujourd'hui, il existe des
-    chaussures ultra-light mais qui seront moins adaptées pour des longues sessions
-    hors-pistes par leurs rigidités plus souple."
-  title: ''
-  blockBGcolor: ''
-- template: 3coltxtimgtxt
-  captionleftcontent: Liberté et découverte, plongez dans le paradis blanc
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540484/website/winter/robson-hatsukami-morgan-bkdzvgBB7rQ-unsplash_bnafvq.jpg
-  captionrighttitle: Découvrez, progressez, dépassez-vous
-  captionrightcontent: Laissez guider par un guide afin de suivre des itinéraires
-    sûrs. Il vous permettra de vous accompagner seul ou en groupe, dans les coins
-    magiques en fonction des conditions de neige et de météo. Il vous apprendra cette
-    pratique mais également les différentes notions à avoir sur la qualité de neige,
-    des différentes couches, des risques d'avalanches. Toutes ces informations essentielles,
-    vous permettrons de partager un moment riche en émotions et en apprentissage.
-  center_alt_text_for_image: Une personne faisant du ski de randonnée la nuit à la
-    frontale en montagne sous un ciel étoilé
-  blockBGcolor: ''
-- template: textarea
-  title: Plutôt freeride ou collant pipette ?
-  content: "Le ski de randonnée est aujourd'hui de plus en plus pratiqué. Vous trouverez
-    alors la pratique de la découverte des grands espaces, des itinéraires plaisirs
-    afin de profiter d'une descente agréable. Mais aussi, ceux qui partiront vers
-    des sommets plus engagés, dans des pentes raides, voir plusieurs jours en dormants
-    dans des refuges. On y découvre aussi le ski de randonnée de compétition. Du matériel
-    ultra-light afin de réaliser des montées, des descentes très rapides. On y retrouve
-    parfois des montées sèches, des compétitions qui mixent montées et descentes.
-    Vous avez peut-être déjà entendu parlé de la Pierra Menta ?  \nDiscipline devenu
-    aujourd'hui olympique, elle demande une très forte dépense énergétique car elle
-    très complète et physique."
-  blockBGcolor: ''
-- template: parlaxgridtxtimg
-  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883537/website/winter/Montagne-randonnee-blizzard_imccfq.jpg
-  captionabovetitle: Physique à la montée, technique à la descente
-  title: La montagne pour vous seul
-  gridline1title: Quel que soit votre niveau, ne partez jamais sans le matériel de
-    sécurité et sans avoir vérifier les conditions
-  gridline1content: Le ski de randonnée demande une bonne condition physique à la
-    montée et une technique plutôt aguerrie pour la descente. Il nécessite aussi une
-    bonne connaissance du terrain, de la météo en montagne pour y gérer les risques
-    associés.
-  gridline2title: Cependant, tout type de sortie reste possible
-  gridline2content: Des sorties tranquilles avec peu de dénivelé positif pour les
-    moins initiés et d’autres plus engagées pour les personnes plus aguerries. Le
-    rythme est souvent donné par le/la guide qui adapte la vitesse au niveau du groupe.
-    Le but est de combiner contemplation du paysage et effort.
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/greg-rosenke-ijFOmhUCp58-unsplash_lmnims.jpg
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/jon-flobrant-wElgJTwsibs-unsplash_mo3el7.jpg
-  prlax_alt_text_for_image: trois personnes faisant du ski de randonnée et alpinisme
-    sur une trace en haute montagne avec du vent
-  grid_1_alt_text_for_image: Deux skieurs de randonnée montant à pied dans la montagne
-    avec les skis accrochés au sac
-  grid_2_alt_text_for_image: Une personne faisant du ski de randonnée en montant en
-    hors-piste dans une pente vierge avec quelques arbres autour de lui
-- template: textarea
-  content: "Vous trouverez en France un choix gigantesque de randonnée à faire. Que
-    vous soyez encadré ou non, toutes les possibilités s'offrent à vous. Vous pourrez
-    alors vous échapper dans le massif de la Vanoise, dans le massif du Mont Blanc
-    mais aussi dans celui du Mercantour, dans le Jura et encore celui des Pyrénées.
-    \ \n  \nDans certaines stations, vous pourrez trouver des sentiers balisés pour
-    le ski de randonnée. Cela permet d'avoir des itinéraires faciles et agréables
-    afin de profiter sereinement de la montagne.  "
-  title: Où aller ?
   blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations

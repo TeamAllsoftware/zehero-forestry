@@ -70,13 +70,6 @@ page_sections:
     Le ski freeride se pratique partout en dehors des pistes. Certaines stations permettent directement l’accès à des hors-pistes via les remontés mécaniques. Vous trouverez alors des stations de ski où la pratique de ski freeride est idéale tel que Val d’Isère, Tignes, St Foy en Tarentaise, Méribel, Chamonix...
   title: Nos conseils Ze Hero
   blockBGcolor: ''
-- template: textarea
-  content: Sinon il faut parfois marcher après avoir pris une remontée mécanique,
-    continuer soit à pied soit en ski de randonnée. Certains ski de freeride vont
-    avoir une fixation de randonnée ainsi qu'une peau adaptée à leurs dimensions.
-    Cela dans le but plutôt de faire de marche d'approche que de la randonnée pure.
-  title: ''
-  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
   captiontitleuppercase: Trouvez votre activité de ski freeride
@@ -92,15 +85,6 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: ''
-- template: textarea
-  content: "Plongez dans l'univers majestueux du hors-piste, apprenez à connaitre
-    la montagne, ses pentes, sa neige et ses risques.  \nProgressez techniquement
-    grâce à un professionnel de la montagne qui sera vous montrer comment skier en
-    hors piste dans toutes les neiges et les pentes.\n\nLe freeride vous fera vivre
-    un moment inoubliable. L'implication physique et mentale est forte, à vous de
-    laisser votre trace."
-  title: ''
   blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
