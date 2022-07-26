@@ -1,7 +1,7 @@
 ---
 layout: layout_generic
-title: Le e-shop de vos activités outdoors
-meta-title: Commander en ligne vos activités outdoors pour l'hiver
+title: Toutes les activités de l'hiver
+meta-title: Activités outdoor et boutique en ligne pour l'hiver
 meta-description: ZE HERO, c'est une boutique en ligne pour commander des activités
   de plein air, louer ou acheter du matériel; et un site web avec des conseils et
   des articles de blog pour s'inspirer et progresser dans sa pratique.
@@ -16,7 +16,7 @@ page_sections:
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883535/website/winter/Sourire-neige-femme_rucodo.jpg
   gradient: grad
   headline:
-    title: L'outdoor<br> dont vous<br> êtes<br> ZE HERO
+    title: Le meilleur des activités outdoor
     color: white
   Button1:
     title: Acheter des skis d'occasion
@@ -25,53 +25,57 @@ page_sections:
     title: ''
     link: ''
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  content: <br> <div class="row align-items-center justify-content-center"> <div class="col-11
+    col-xl-4 col-md-6 md-margin-30px-bottom"><p class="text-large line-height-38px">Découvrez
+    toutes nos offres et toutes nos activités Ze Hero. Choisissez votre destination
+    et cliquez pour découvrir les activités. Nous sommes présent dans les départements
+    colorés en vert.</p></div> <div class="col-11 col-xl-6 offset-xl-1 col-md-6 wow
+    animate__fadeIn" data-wow-delay="0.2s"><div class="mapcontainer"><div class="map">
+    <span>Alternative content for the map</span></div></div></div></div>
+  title: Choisissez votre département de destination
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-groupe-amis_weuk4g.jpg
+    image_alt: Skieur de piste skiant dans une station de ski
+    title: Ski alpin
+    url: https://www.ze-hero.com/fr/hiver/activites/ski-de-piste
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
+    image_alt: Snowboardeur surfant en poudreuse
+    url: https://www.ze-hero.com/fr/hiver/activites/snowboard
+    title: Snowboard
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540483/website/winter/guillaume-marques-9HRLg-yzeq8-unsplash_ulzuqx.jpg
+    image_alt: Des personnes faisant du ski de randonnée en hors piste
+    title: Ski de randonnée
+    url: https://www.ze-hero.com/fr/hiver/activites/ski-de-randonnee
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Ski-descente-poudreuse_jkfdf6.jpg
+    image_alt: Un skieur en freeride
+    title: Ski Freeride
+    url: https://www.ze-hero.com/fr/hiver/activites/ski-freeride
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true
   Image1:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593905/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-47_wyt28z.jpg
-    alt_text: Randonnée à ski avec un polo Fausse Route composé de 100% de laine de
-      mouton mérinos
-    title: Marque <br>Fausse Route
-    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651037463/website/Altore/V%C3%AAtement%20/Bavella_rouge_bk_H_1100x.webp
+    alt_text: Maillot de course de trail de la marque Altore
+    title: Acheter du textile
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   Image2:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593919/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-46_uv063b.jpg
-    alt_text: Un polo laine mérinos pour toutes les activités outdoors
-    title: Polo 100%<br> laine mérinos
-    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/IMGL6944_web_900x900_uzb0te.jpg
+    alt_text: Sac Instinct Trail Inspired
+    title: Achetez vos sacs de trail
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644594757/website/marques/Fausse%20Route/20201015_135621-ANIMATION_gzcibs.gif
-    alt_text: Que mettre dans son sac pour partir en randonnée vélo ou à ski, un e
-      polo Fausse Route, bien sûr
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196348/website/assets/Personnages%20poses/RandoHiver.png
+    alt_text: Personnage ZE HERO randonnée
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644593865/website/marques/Fausse%20Route/fausseroute-vetement-outdoor-1_lnswan.jpg
-    alt_text: Les polos Fausse Route en vente dans la boutique ZE HERO
-    title: En vente <br> dans le eShop
-    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-neuf/sous-vetement-technique-neuf?ca_brand=Fausse+Route
-- template: 2coltxtimg
-  blockBGcolor: gris
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642676740/website/winter/ze-hero-marketplace-eshop_jwwp12.png
-  alt_text_for_image: Le eshop dans la rubrique vente de skis d'occasion
-  captiontitleuppercase: tester de nouveaux skis
-  title: VIVE LES SKIS D'OCCASION !
-  content: Les skis d’occasion sont parfaits pour la saison 2022. Que vous souhaitiez
-    offrir des skis à un débutant ou à un enfant qui grandit, ou que vous souhaitiez
-    vous équiper à moindre coût, notre sélection de grandes marques vous tend les
-    bras.
-  button:
-    text_button: Acheter maintenant
-    href_button: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
-    alt_button: ''
-- template: listServices
-  service: activity
-  filterCat: non
-  filterLevel: 2
-  filterHome: 2
-  blockBGcolor: blanc
-  headtitle:
-    headline: ZE HERO propose
-    title: Des activités pour votre hiver
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/speezone16R_xhbtls.jpg
+    alt_text: Ski d'occasion à vendre Prosneige
+    title: Acheter des skis d'occasions
+    title_Link: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
 - template: video2colImgTxt
   blockBGcolor: gris
   image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Randonne-neige-seul_mxdyy6.jpg
@@ -106,28 +110,6 @@ page_sections:
     title: Osez l'émotion
     content: Grâce aux activités sélectionnées et testées par nos équipes professionnelles
     icon: line-icon-Cool
-- template: heroImageFull
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639754132/website/winter/ethan-hu-Ouhu9FOlJnY-unsplash_cgrmw5.jpg
-  gradient: non
-  headline:
-    title: L'outdoor<br> entre amis<br> c'est + FUN
-    color: white
-  Button1:
-    title: Acheter des skis d'occasion
-    link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
-  Button2:
-    title: Voir toutes les activités
-    link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
-  button_2_more: false
-- template: listServices
-  service: advice
-  filterCat: non
-  filterLevel: 2
-  filterHome: 2
-  blockBGcolor: blanc
-  headtitle:
-    headline: ZE HERO propose
-    title: Des conseils pour votre hiver
 - template: blogPostList
   blockBGcolor: gris
   postNumber: 4
