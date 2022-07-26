@@ -6,7 +6,7 @@ redirect_from:
 language: fr
 season: winter
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Ski freeride
 titleHome: Ski Freeride
 activite: ski freeride
