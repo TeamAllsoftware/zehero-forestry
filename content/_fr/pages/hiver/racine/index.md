@@ -27,13 +27,14 @@ page_sections:
   button_2_more: false
 - template: textarea
   blockBGcolor: blanc
-  content: <br> <div class="row align-items-center justify-content-center"> <div class="col-11
-    col-xl-4 col-md-6 md-margin-30px-bottom"><p class="text-large line-height-38px">Découvrez
-    toutes nos offres et toutes nos activités Ze Hero. Choisissez votre destination
-    et cliquez pour découvrir les activités. Nous sommes présent dans les départements
-    colorés en vert.</p></div> <div class="col-11 col-xl-6 offset-xl-1 col-md-6 wow
-    animate__fadeIn" data-wow-delay="0.2s"><div class="mapcontainer"><div class="map">
-    <span>Alternative content for the map</span></div></div></div></div>
+  content: "<br>   \n<div class=\"row align-items-center justify-content-center\">
+    \  \n<div class=\"col-11 col-xl-4 col-md-6 md-margin-30px-bottom\"><p class=\"text-large
+    \  \nline-height-38px\">Découvrez toutes nos offres et toutes nos activités Ze
+    Hero.   \nChoisissez votre destination et cliquez pour découvrir les activités.
+    Nous sommes   \nprésent dans les départements colorés en vert.</p></div> <div
+    class=\"col-11 col-xl-6 offset-xl-1 col-md-6 wow animate__fadeIn\" data-wow-delay=\"0.2s\"><div
+    \  \nclass=\"mapcontainer\"><div class=\"map\"> <span>Alternative content   \nfor
+    the map</span></div></div></div></div>"
   title: Choisissez votre département de destination
 - template: listOffres
   blockBGcolor: blanc
