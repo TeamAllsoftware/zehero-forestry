@@ -19,12 +19,13 @@ page_sections:
     title: Le meilleur des activités outdoor
     color: white
   Button1:
-    title: Acheter des skis d'occasion
-    link: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
+    title: Votre destination
+    link: "/fr/destinations/trouver-destination-activites"
   Button2:
     title: ''
     link: ''
   button_2_more: false
+  grosTitre: non
 - template: textarea
   blockBGcolor: blanc
   content: "<br>   \n<div class=\"row align-items-center justify-content-center\">
