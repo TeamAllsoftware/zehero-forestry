@@ -22,56 +22,45 @@ engage: Profiter de la nature sans la cohue des pistes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645804153/website/winter/PXL_20201219_101906679_tuwz64.jpg
 image01_alt: Ski de randonnée dans les domaines du Queyras
 page_sections:
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195880/website/assets/Recadr%C3%A9es/skirando.png
-  alt_text_for_image: Equipement ski de randonnée
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540806/website/winter/luke-helgeson-LbScmQnQncc-unsplash_gep5xf.jpg
-  title: La liberté de s'éloigner des pistes, de faire sa trace, de descendre des
-    pentes vierges au cœur des montagnes.
-  content: On peut enfiler les peaux de phoques pour s'éloigner des pistes et du monde,
-    aller réaliser de beaux hors-pistes, se balader en forêts, atteindre des sommets
-    ou même s'entraîner à faire du dénivelé. Il y a plusieurs raisons de faire du
-    ski de randonnée. Cette pratique demande du matériel spécifique, ainsi que des
-    connaissances sur la sécurité et sur la montagne.
-  captiontitleuppercase: Le ski de randonnée
-  alt_text_for_image: Skieur de randonnée en train de monter dans une pente avec beaucoup
-    de sapin en hors piste avec un sac à dos de ski
+- template: heroBreadcrumb
+  title: Le ski de randonnée, késako ?
+- template: textarea
+  content: "Le ski de randonnée est une pratique de ski qui consiste à monter sans
+    prendre les remontés mécaniques afin de descendre par la suite en ski. Le ski
+    de randonnée vous emmène là où personne ne va, là où les pentes ne sont pas damés
+    et où vous pouvez faire votre trace en monté comme en descente. Le ski de randonnée,
+    c'est le ski en liberté. Cela nécessite donc de partir en hors-piste et d'avoir
+    les compétences techniques, physiques mais aussi sur la nivologie. Il faut donc
+    dans un 1er temps, connaître les conditions de neige et le bulletins de risque
+    d'avalanche (BAR). C'est la 1er chose à faire avant de partir en montagne ainsi
+    que les conditions météorologiques. C'est une activité physique car la montée
+    demande une bonne condition physique. Le dénivelé positif sera exigeant pour vos
+    jambes, votre cardio ainsi que pour les bras. La technique de montée s'apprend
+    afin d'être plus efficace sur la poussée du bâton et sur les pas en fonction du
+    degré de la pente. Vous apprendrez ensuite à réaliser des conversions qui seront
+    nécessaires pour monter en zig-zag.  \nPartez atteindre les sommets afin d'avoir
+    des points de vue uniques. Respirez l'air pur, écoutez le silence, admirez la
+    plénitude de la montagne vierge et sauvage. Tracez vos propres lignes en hors-piste
+    et profitez du hors-piste pour flotter sur la neige."
+  title: Le ski de randonnée
+  blockBGcolor: ''
+- template: cta
+  intro: Découvrez nos activités de ski de randonnée
+  headline: Toutes nos offres
   button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: gris
-- template: textarea
-  content: "Le ski de randonnée reste une activité physique car la montée demande
-    une bonne condition physique. Le dénivelé positif sera exigeant pour vos jambes,
-    votre cardio ainsi que pour les bras. La technique de montée s'apprend afin d'être
-    plus efficace sur la poussée du bâton et sur les pas en fonction du degré de la
-    pente. Vous apprendrez ensuite à réaliser des conversions qui seront nécessaires
-    pour monter en zig-zag.  \nPartez atteindre les sommets afin d'avoir des points
-    de vue uniques. Respirez l'air pur, écoutez le silence, admirez la plénitude de
-    la montagne vierge et sauvage. Tracez vos propres lignes en hors-piste et profitez
-    du hors-piste pour flotter sur la neige."
-  title: ''
-  blockBGcolor: ''
-- template: textarea
-  textarea: Et je peux en ajouter un au dessus histoire d'ajouter du contenu à ma
-    guise. c'est absolument génial.
-  title: Connaître la montagne et la sécurité
-  content: 'Avant tout chose, le ski de randonné est le plus souvent pratiqué en dehors
-    des pistes., donc non sécurisé. Il faut donc dans un 1er temps, connaître les
-    conditions de neige et le bulletins de risque d''avalanche (BAR). C''est la 1er
-    chose à faire avant de partir en montagne ainsi que les conditions météorologiques.
-    Il faut également connaître son itinéraire afin de savoir quelle trace prendre
-    et éviter de prendre des endroits trop risqués. Ensuite, il est impératif d''avoir
-    sur soi, tout le matériel adéquat :'
-  blockBGcolor: ''
-- template: liststyle01numbered
-  item:
-  - Sonde
-  - Pelle
-  - DVA ou Arva
+    text_button: Réserver maintenant >
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+  blockBGcolor: blanc
+  marge: 20
+- template: imagegallery02
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1658843782/website/winter/IMG20210319120454.jpg
+  atl_text_image_02: Une personne en ski de randonnée à la Dôle
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1658843776/website/winter/IMG20210324103201.jpg
+  atl_text_image_03: Deux personnes dans une face en ski de randonnée à Valmorel
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/greg-rosenke-ijFOmhUCp58-unsplash_lmnims.jpg
+  atl_text_image_04: Des personnes faisant du ski de randonnée
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1658843993/website/winter/GOPR1121_1644667504059.jpg
+  atl_text_image_01: Une personne en ski de randonnée sur Crève tête à Valmorel
   title: ''
 - template: 2colimgtxt
   content: Le ski de randonnée se pratique avec du matériel différents du ski alpin
@@ -165,14 +154,6 @@ page_sections:
     afin de profiter sereinement de la montagne.  "
   title: Où aller ?
   blockBGcolor: ''
-- template: cta
-  intro: Réservez vos activités de ski de randonnée
-  headline: Cours privés ou collectifs, enfant et adultes sont disponibles
-  button:
-    text_button: Réserver maintenant >
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
-  blockBGcolor: ''
-  marge: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
