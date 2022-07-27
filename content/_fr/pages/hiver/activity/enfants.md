@@ -1,16 +1,16 @@
 ---
-layout: layout_activity
+layout: layout_generic
 permalink: "/fr/hiver/activites/activites-pour-les-enfants"
 redirect_from:
 - "/fr/hiver/activite/activites-pour-les-enfants"
 language: fr
 season: winter
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Activités pour les enfants
-titleHome: 
-activite: 
-level: 2
+titleHome: Activités pour les enfants
+activite: Activité enfants
+level: 1
 enHome: 2
 meta-title: Réserver des activités d'hiver pour vos enfants
 meta-description: Vous pouvez réserver pour vos enfants des activités ludiques afin
@@ -19,6 +19,8 @@ baseline: Igloo et boules de neige
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492452/website/winter/jesse-orrico-rnguvzoG-x8-unsplash_lkfhnk.jpg
 image01_alt: Enfants qui s'amusent dans la neige
 page_sections:
+- template: heroBreadcrumb
+  title: Activités pour les enfants, késako ?
 - template: textarea
   textarea: C'est vraiment excellent
   title: ''
@@ -35,6 +37,15 @@ page_sections:
     * Biathlon
     * Luge et autre activité de glisse
     * et bien d'autres activités
+  blockBGcolor: ''
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  button:
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+    text_button: Réservez
+  intro: Découvrez dès maintenant nos activités enfants
+  headline: Toutes nos offres
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641808699/website/winter/ethan-hu-5WIqleHzOok-unsplash_elnk58.jpg
   captiontitleuppercase: Découvrir la montagne
@@ -57,12 +68,15 @@ page_sections:
 
     Retrouvez toutes les [activités non-ski ](https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=)pour vos enfants.
   title: ''
+  blockBGcolor: ''
 - template: cta
   intro: Réservez dès maintenant vos activités pour enfants
   headline: Igloo, raquettes et luge, les activités pour vos enfants
   button:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+  blockBGcolor: ''
+  marge: ''
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
@@ -71,5 +85,7 @@ button_to_link_to_ze_hero_shop:
   button_text: Trouvez une activité pour v
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=21%2F11%2F2021
 categorie: Pour les enfants
+listMother: 1
+conseil: ''
 
 ---
