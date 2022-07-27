@@ -94,13 +94,18 @@ page_sections:
   alt_text_for_image: Coureur faisant du trail dans le massif de l'esterel
   captiontitleuppercase: 'Trouvez votre activité de Trail '
   title: Les partenaires Ze Hero de Trail
-  content: Chez Ze Hero, nous allons vous proposer différentes sorties trail, d'entraînements
+  content: "Chez Ze Hero, nous allons vous proposer différentes sorties trail, d'entraînements
     et coaching de trail que ce soit pour des débutants, des amateurs ainsi que des
     confirmés. Vous pourrez réserver des cours dans les Alpes Maritimes avec Antibes,
     Le Bar sur Loup, Saint Jeannet et bien d'autre. Vous pourrez également retrouver
     des activités dans le Gars, l'Aveyron et la Lozère. Chacun des accompagnateurs
     et entraîneur de Trail, vous apportera tous les meilleurs conseils pour apprendre,
-    progresser mais surtout profiter et vivre des moments uniques en nature.
+    progresser mais surtout profiter et vivre des moments uniques en nature.  \nVoici
+    nos différents partenaires trail chez Ze Hero :\n\n* Nos entraîneurs et accompagnateurs
+    de trail de Ze Hero, qui vous accompagnera dans les Alpes Maritimes : [**Alarcon
+    Yann**](https://www.ze-hero.com/fr/partenaires/yann-alarcon)\n* Notre partenaire
+    [**Cueilleur de Sommet**](https://www.ze-hero.com/fr/ete/partenaires/clement-sivera)
+    situé dans le Massif Central, les Cévennes les Pyrénées et la Haute Savoie."
   button:
     text_button: ''
     href_button: ''
