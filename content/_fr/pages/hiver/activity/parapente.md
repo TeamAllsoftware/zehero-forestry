@@ -1,13 +1,13 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: winter
 type: generic
 topnav_color_text: dark
 title: Vol en parapente
-titleHome: 
-activite: 
-level: 2
+titleHome: ''
+activite: ''
+level: 1
 enHome: 2
 permalink: "/fr/hiver/activites/vol-en-parapente"
 redirect_from:
@@ -66,5 +66,7 @@ button_to_link_to_ze_hero_shop:
   button_text: Réservez votre vol de parapente
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Parapente&start-date=
 categorie: Dans les airs
+listMother: 1
+conseil: ''
 
 ---
