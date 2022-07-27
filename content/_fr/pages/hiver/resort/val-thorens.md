@@ -12,7 +12,7 @@ resort_naming: Val-Thorens
 title: Val-Thorens et ses activités outdoor d'hiver
 titleHome: Nos activités à Val Thorens
 activite: 
-level: 1
+level: 2
 enHome: 2
 meta-title: Activités outdoor à Val-Thorens pour l'hiver
 meta-description: Découvrez cette station de ski perché à 2300m d'altitude dans la
@@ -63,6 +63,6 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour louer des skis, des chaussures de ski,
     des casques et beaucoup d'autres équipements pour toute votre famille
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
-listMother: 1
+listMother: 2
 
 ---
