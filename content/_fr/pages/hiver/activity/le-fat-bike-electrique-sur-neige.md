@@ -1,16 +1,16 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: winter
 type: generic
-topnav_color_text: dark
-meta-title: Pédalez sur neige avec le Fat Bike Electrique
-meta-description: 'Partir pédaler dans la neige et vivre le plein de sensation avec
-  le fat bike électrique '
+topnav_color_text: light
+meta-title: Réservez votre activité de Fatbike sur neige
+meta-description: Réservez une activité de Fatbike sur neige afin de profiter d'une
+  randonnée en groupe et découvrir une activité unique et orginale.
 title: Le Fat Bike électrique sur neige
-titleHome: 
-activite: 
-level: 2
+titleHome: Fat Bike sur neige
+activite: VTT
+level: 1
 enHome: 2
 permalink: "/fr/hiver/activites/fatbike-electrique-hiver"
 baseline: Glisse, découverte et fun
@@ -21,6 +21,8 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 page_sections:
+- template: heroBreadcrumb
+  title: Le Fat bike sur neige, késako ?
 - template: textarea
   content: |-
     Le Fat bike est un VTT est équipé de gros pneus afin d'adhérer facilement sur tous les terrains. Cette discipline, et pratique, vient d'Alaska. Ce VTT permet des déplacements beaucoup plus faciles sur des sentiers et terrains accidentés, et permet de rouler aisément sur la neige et sur le sable. Ses pneus sont XXL et présentent de gros crampons. Le Fat bike sera tout aussi efficace pour réaliser des petits virages comme des grands virages, d'amortir les chocs et de réaliser des sauts.
@@ -85,5 +87,7 @@ page_sections:
 - template: newsletter
   title: Recevez nos dernières informations
 categorie: Vélo
+listMother: 1
+conseil: ''
 
 ---
