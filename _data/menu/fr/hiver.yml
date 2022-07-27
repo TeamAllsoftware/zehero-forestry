@@ -61,21 +61,7 @@ menu:
       href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Headwear-running
     - title: Sacs de Trail
       href: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
-  column-02:
-  - nested: Apprendre
-    menu-items:
-    - title: Comment choisir son école de ski ?
-      href: "/fr/hiver/conseils/choisir-ecole-de-ski"
-    - title: Apprendre en cours privé ou collectif ?
-      href: "/fr/hiver/conseils/cours-privé-cours-collectif"
-    - title: Choisir le bon niveau de cours en ski et snowboard
-      href: "/fr/hiver/conseils/choisir-niveau-ski-snowboard"
-  - nested: Entraînement / Préparation
-    menu-items:
-    - title: Coaching privé ou collectif
-      href: "/fr/hiver/activites/coaching-sportif"
-    - title: Comment se préparer physiquement pour le ski
-      href: "/fr/hiver/conseils/comment-se-préparer-physiquement-au-ski"
+  column-02: []
 - title: Conseils
   id: "2"
   title-link: "/fr/hiver/conseils"
