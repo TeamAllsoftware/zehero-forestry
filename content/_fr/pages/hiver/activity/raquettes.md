@@ -55,20 +55,30 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883541/website/winter/Raquettes-neige-pause_gixsqu.jpg
   atl_text_image_04: Une personne en raquette à neige avec un café
   title: ''
-- template: liststyle01
-  title: 'L''équipement '
-  item:
-  - Sac à dos
-  - Bonnet, lunette et buff
-  - Après-ski ou chaussures spéciales raquette à neige
-  - Bâtons de ski
-  - Chaussettes chaudes et respirantes
-  - Gants imperméables et chauds
-  - 2ème couche chaude et respirante
-  - 1er couche technique
-  - Veste chaude et imperméable
-  - 'Guêtres '
-  - Pantalon de ski ou de marche imperméable et chaud
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos conseils Ze Hero
+  content: "* Bien débuter en raquette à neige\n\nBien débuter en raquette à neige,
+    c'est partir randonner en montagne avec un moniteur pour apprendre et découvrir
+    les joies de cette activité. Vous trouverez des circuits balisés afin de randonner
+    facilement autour des stations de ski et dans les forêts. Avec un moniteur, vous
+    pourrez partir dans des randonnées hors des sentiers et découvrir des lieux uniques
+    en vous laissant guider. Il vous expliquera comment bien marcher, bien utiliser
+    les bâtons, comprendre la nivologie et se repérer en montagne et sur une carte.
+    \n\n* S'équiper en raquette à neige\n\nPartir en randonnée à raquette à neige
+    nécessite du matériel adapté à cette pratique. Cela évoluera également en fonction
+    du type de randonnée et si vous partez quelques heures, à la journée ou plusieurs
+    jours. Il vous faudra une paire de raquettes adaptée à votre taille, votre poids
+    et votre pratique. Il faudra des chaussures adaptées à la marche dans la neige
+    et chaude. Il est indispensable d'avoir des bâtons avec des rondelles afin de
+    ne pas s'enfoncer dans la neige. Ensuite, il vous faudra des habits adaptés, tel
+    que des vêtements respirant, un pantalon imperméable, des gants, un bonnet. Selon
+    vos randonnées en raquette il est important d'avoir avec vous un DVA, une pelle
+    et une sonde.\n\n* Où pratiquer la randonnée à raquette à neige ?\n\nLa randonnée
+    à raquette à neige se pratique dans de nombreuse station de ski mais également
+    partout où la neige est présente. Les stations aujourd'hui mettent à disposition
+    des parcours balisés afin de réaliser des randonnées en autonomie. Vous trouverez
+    des randonnées adaptées aux enfants également."
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
