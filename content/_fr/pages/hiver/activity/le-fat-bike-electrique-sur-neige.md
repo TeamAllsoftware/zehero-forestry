@@ -24,66 +24,74 @@ page_sections:
 - template: heroBreadcrumb
   title: Le Fat bike sur neige, késako ?
 - template: textarea
-  content: |-
-    Le Fat bike est un VTT est équipé de gros pneus afin d'adhérer facilement sur tous les terrains. Cette discipline, et pratique, vient d'Alaska. Ce VTT permet des déplacements beaucoup plus faciles sur des sentiers et terrains accidentés, et permet de rouler aisément sur la neige et sur le sable. Ses pneus sont XXL et présentent de gros crampons. Le Fat bike sera tout aussi efficace pour réaliser des petits virages comme des grands virages, d'amortir les chocs et de réaliser des sauts.
-
-    L'assistance électrique limitera l'effort à fournir, surtout dans la neige. Grimpez plus facilement les chemins enneigés avant de les descendre à toute vitesse. Progressez dans la neige fraîche, la neige damée, la neige trafollée pour plus de sensation et de découverte.
-  title: Le Fat bike
+  content: Le Fat bike sur neige est un VTT est équipé de gros pneus afin d'adhérer
+    facilement sur tous les terrains. Cette discipline, et pratique, vient d'Alaska.
+    Ses pneus sont XXL et présentent de gros crampons. Le Fat bike sera tout aussi
+    efficace pour réaliser des petits virages comme des grands virages, d'amortir
+    les chocs et de réaliser des sauts. L'assistance électrique limitera l'effort
+    à fournir, surtout dans la neige. Grimpez plus facilement les chemins enneigés
+    avant de les descendre à toute vitesse. Progressez dans la neige fraîche, la neige
+    damée, la neige trafollée pour plus de sensation et de découverte. Le Fat Bike
+    est une activité outdoor qui vous emmènera découvrir la montagne autrement qu'en
+    ski ou à pied. Partez dévaler les pentes enneigées sous les sapins et découvrez
+    de nouveaux paysages. Une activité insolite que les stations de ski mettent en
+    avant aujourd'hui afin de proposer des expériences uniques en journée et parfois
+    également la nuit à la frontale. Que vous soyez un amateur du VTT ou que vous
+    souhaitiez simplement découvrir le VTT sur neige, vous allez vivre une expérience
+    nouvelle et unique en son genre. Ouvert à tout le monde, c'est un moyen de vous
+    amuser différent que sur des skis en étant guidé par un moniteur qui vous fera
+    découvrir les lieux et vous apprendra comment bien utiliser le Fat Bike en montée,
+    et comment bien descendre et prendre les virages en toute sécurité.
+  title: Le Fat bike sur neige
   blockBGcolor: ''
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234241/website/assets/Recadr%C3%A9es/vtt.png
-  alt_text_for_image: Equipement fatbike électrique
-- template: 2colimgtxt
-  blockBGcolor: gris
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914885/website/winter/himiway-bikes-YKlNW7ggdjU-unsplash.jpg
-  alt_text_for_image: Personne roulant en fit bike sur la neige sur une poste damée
-  captiontitleuppercase: Découvrir la montagne l'hiver autrement
-  title: Une nouvelle sensation de glisse
-  content: |-
-    Le Fat Bike est une activité outdoor qui vous emmènera découvrir la montagne autrement qu'en ski ou à pied. Partez dévaler les pentes enneigées sous les sapins et découvrez de nouveaux paysages. Une activité insolite que les stations de ski mettent en avant aujourd'hui afin de proposer des expériences uniques en journée et parfois également la nuit à la frontale. Que vous soyez un amateur du VTT ou que vous souhaitiez simplement découvrir le VTT sur neige, vous allez vivre une expérience nouvelle et unique en son genre.
-
-    Vous partirez sur différentes randonnées, différents parcours qui vous feront pédaler de 1h30 à plusieurs heures en fonction de ce que vous désirez faire et de ce que propose le moniteur. Partez rouler pour un moment de sport, de découverte, de partage et de glisse au sein des forêts, des chemins et des pistes.
-
-    Ouvert à tout le monde, c'est un moyen de vous amuser différent que sur des skis en étant guidé par un moniteur qui vous fera découvrir les lieux et vous apprendra comment bien utiliser le Fat Bike en montée, et comment bien descendre et prendre les virages en toute sécurité.
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: Découvrez dès maintenant nos activités de Fat bike
+  headline: Toutes nos offres
   button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
+    href_button: "/fr/ete/activites/reserver-vtt-grand-revard"
+    text_button: Réservez
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914893/website/winter/himiway-bikes-N7tJYvvIQVo-unsplash.jpg
+  atl_text_image_01: Personne roulant sur une Fatbike sur une piste de ski
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914885/website/winter/himiway-bikes-YKlNW7ggdjU-unsplash.jpg
+  atl_text_image_02: Personne sur un Fatbike sur neige écartant les bras
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914823/website/winter/himiway-bikes-LJ2OcgX18Yg-unsplash.jpg
+  atl_text_image_03: Fatbike posé sur un arbre l'hiver
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914186/website/winter/tim-foster-vBC6hHHW6r8-unsplash.jpg
+  atl_text_image_04: Fatbike dans un décors d eneige
+  title: ''
+- template: textarea
+  content: |-
+    * Bien débuter le Fatbike sur neige
+
+    Pour bien débuter le Fatbike sur neige, vous pourrez partir accompagné d'un moniteur afin de rouler sereinement et de vous laisser guider. Il vous apportera les différents conseils afin de rouler efficace et d'avoir une bonne gestion de la batterie du Fatbike. Il vous apportera les conseils techniques pour bien monter mais également bien descendre, réaliser des grands et des petits virages et de prendre de l'assurance dans n'importe quelle pente. Vous pourrez partir rouler en famille, entre amis et les parcours seront adaptés selon les niveaux.
+
+    * S'équiper en Fatbike sur neige
+
+    Si vous réservez une activité de Fat bike sur neige, la plupart des compagnies mettront en place la location de Fatbike ou le Fatbike sera alors compris dans le prix directement. Vous serez munis également d’un casque, d’une tenue chaude et imperméable et des gants.
+
+    * Où pratiquer le Fatbike sur neige ?
+
+    Le Fat bike sur neige se pratique dans de nombreuses stations de ski et plusieurs lieux parfaits pour la pratique du Fat Bike sur neige. Vous pourrez en pratiquer dans le Grand Revard par exemple, un lieu exceptionnel pour rouler sur les plateaux du Revard, que l'on nomme " le petit canada savoyard ".
+  title: Nos conseils Ze Hero
+  blockBGcolor: ''
 - template: 2coltxtimg
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914823/website/winter/himiway-bikes-LJ2OcgX18Yg-unsplash.jpg
   alt_text_for_image: Fat bike électrique posé dans la neige debout devant des arbres
     enneigées
-  captiontitleuppercase: Montez facilement et savourez la descente
-  title: S'équiper en Fat bike
-  content: |-
-    Il faudra être à l'aise pour pouvoir pédaler facilement mais garder tout de même des vêtements chauds surtout si vous pédalez la nuit. Le casque est obligatoire et les gants sont très fortement conseillés afin de ne pas avoir les doigts gelés. Prenez également avec vous de quoi boire et vous alimenter. Les sessions peuvent aller de 1h30 à 3h.
-
-    L'assistance électrique du Fat bike vous permettra de monter beaucoup plus facilement les chemins surtout si les conditions de neige sont importantes et fraîches. Le Fat bike vous permettra ensuite de vivre des descentes agréables, avec une incroyable accroche et facilité.
-
-    Pour les plus sportifs, vous pourrez également trouver des parcours plus exigeants et techniques avec des passages plus raides, des enchaînements de virages et des sauts.
-
-    Visiter un domaine, se balader en famille ou vivre un moment de sensation forte et une expérience sportive différente, le Fat bike est idéal.
-
-    Partez rouler la journée sous un beau soleil sur les chemins piétons, les pistes de ski de fond ou même sur les pistes avant que le domaine ouvre. Le fat bike est également proposé la nuit, au clair de lune et à la frontale pour des sessions sur des chemins plus glacés par le froid.
+  captiontitleuppercase: 'Trouvez votre activité de Fat bike '
+  title: Les partenaires Ze Hero de Fatbike
+  content: 'Chez Ze Hero, vous trouverez des activités de Fatbike près d''Aix les
+    Bains, du Grand Revard avec " [Expérience Vélo](fr/ete/partenaires/experience-velo)
+    ". Vous pourrez découvrir cette pratique incroyable à travers les sapins enneigés.
+    Ils vous proposeront plusieurs sorties pour tous dans un décors magique. '
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
-- template: textarea
-  content: |-
-    Beaucoup de stations, via des partenaires, proposent la location de Fat Bike, des cours et des sessions de Fat Bike avec des Ecoles de ski ou des indépendant. Vous pouvez en pratiquer à Valmorel, aux Saisies, à Valberg, en Chartreuse, le Grand Colombier avec Experience Vélo, la Rosière et bien d'autre station.
-
-    La station du Grand Revard avec Expérience Vélo propose de nombreuses activité de Fat bike qui vous feront découvrir les joies de la glisse sur la neige. Vous découvrirez les paysages sauvages, les villages traditionnelles savoyards. Vous pourrez également
-    rouler au coucher de soleil et vivre un moment unique dans le petit Canada Savoyard dans une ambiance glaciale.
-
-    Le Grand Revard est idéal pour la pratique du Fat Bike avec ses grands plateaux, ses montées plutôt douce et ses descentes qui vous
-    permettront une initiation à la vitesse. Dans un décors vêtu de blanc, vous aurez face à vous le massif de Belledonne.
-
-    Le Fat Bike va permettra de vivre une expérience riche en émotion et en partage. Avec Ze Hero, trouvez votre activité et partez rouler sur la neige en Fat bike.
-  title: Où pratiquer le Fat Bike
-  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
 categorie: Vélo
