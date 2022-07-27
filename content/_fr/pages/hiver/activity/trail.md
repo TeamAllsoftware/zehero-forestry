@@ -1,13 +1,13 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: winter
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Trail Running
-titleHome: 
-activite: 
-level: 2
+titleHome: Trail Running
+activite: trail
+level: 1
 enHome: 2
 permalink: "/fr/hiver/activites/trail-running"
 redirect_from:
@@ -132,6 +132,8 @@ page_sections:
     text_button: Réservez maintenant >
   intro: Réservez dès maintenant vos sorties de trail
   headline: Cours privés ou collectifs sont disponibles
+  blockBGcolor: ''
+  marge: ''
 - template: imgWide
   blockBGcolor: blanc
   image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238382/website/assets/Personnages%20poses/Poses%20format%20large/Trail_Running.png
@@ -142,5 +144,7 @@ button_to_link_to_ze_hero_shop:
   button_text: Trouver votre activité de trail
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 categorie: Running / Trail
+listMother: 1
+conseil: ''
 
 ---
