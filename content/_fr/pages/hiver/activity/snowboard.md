@@ -10,7 +10,7 @@ topnav_color_text: light
 title: Snowboard
 titleHome: Snowboard
 activite: snowboard
-level: 2
+level: 1
 enHome: 2
 meta-title: Réserver des cours de snowboard pour apprendre la glisse
 meta-description: Partez rider le domaine skiable et les hors pistes en apprenant
@@ -98,7 +98,7 @@ button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre cours de snowboard
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=21%2F11%2F2021
 categorie: Snowboard
-listMother: 2
+listMother: 1
 conseil: ''
 
 ---
