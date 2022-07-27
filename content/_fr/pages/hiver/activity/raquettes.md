@@ -45,6 +45,16 @@ page_sections:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
   blockBGcolor: blanc
   marge: 20
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080084/website/winter/pablo-guerrero-xglh7hBu9QU-unsplash_nvbvyf.jpg
+  atl_text_image_01: Une personne randonnant en raquette à neige au cœur des montagnes
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Raquettes-groupe-enfants_xwknbx.jpg
+  atl_text_image_02: Des enfants marchant en forêts sous la neige en raquette à neige
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1652866526/website/winter/sandra-grunewald-weOMxCS6tD0-unsplash.jpg
+  atl_text_image_03: Femme marchant en raquette à neige dans une montée
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883541/website/winter/Raquettes-neige-pause_gixsqu.jpg
+  atl_text_image_04: Une personne en raquette à neige avec un café
+  title: ''
 - template: liststyle01
   title: 'L''équipement '
   item:
