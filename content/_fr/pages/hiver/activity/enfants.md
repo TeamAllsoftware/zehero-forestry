@@ -23,9 +23,9 @@ page_sections:
   title: Activités pour les enfants, késako ?
 - template: textarea
   textarea: C'est vraiment excellent
-  title: ''
+  title: Les activités enfants l'hiver
   content: |-
-    Vous venez profiter d'un séjour à la montagne avec vos enfants ? Vous voulez trouver d'autres activités que le ski afin qu'ils s'amusent et profite autrement de la montagne ?
+    Vous venez profiter d'un séjour à la montagne avec vos enfants ? Vous voulez trouver d'autres activités que le ski afin qu'ils s'amusent et profite autrement de la montagne ? Si votre enfant ne souhaite pas forcément apprendre le ski ou qu'en plus du ski, il souhaite également s'amuser, il pourra s'inscrire dans ces activités ludiques. Cela permet d'avoir un panel d'activité amusante, fun, nouvelles mais aussi ludiques. Il découvrira la montagne d'une autre façon, en s'amusant avec ses copains.
 
     Certaines écoles de ski vont proposer des activités pour les enfants ludiques et amusantes sans ski. En effet, les enfants pourront participer à :
 
@@ -46,22 +46,16 @@ page_sections:
     text_button: Réservez
   intro: Découvrez dès maintenant nos activités enfants
   headline: Toutes nos offres
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641808699/website/winter/ethan-hu-5WIqleHzOok-unsplash_elnk58.jpg
-  captiontitleuppercase: Découvrir la montagne
-  title: Des moments inoubliables et amusants pour vos enfants
-  content: Si votre enfant ne souhaite pas forcément apprendre le ski ou qu'en plus
-    du ski, il souhaite également s'amuser, il pourra s'inscrire dans ces activités
-    ludiques. Cela permet d'avoir un panel d'activité amusante, fun, nouvelles mais
-    aussi ludiques. Il découvrira la montagne d'une autre façon, en s'amusant avec
-    ses copains.
-  alt_text_for_image: Deux petites filles jouant dans la neige en faisant un bonhomme
-    de neige
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: ''
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641808699/website/winter/ethan-hu-5WIqleHzOok-unsplash_elnk58.jpg
+  atl_text_image_01: Enfants qui font un bonhomme de neige
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1639754132/website/winter/ethan-hu-Ouhu9FOlJnY-unsplash_cgrmw5.jpg
+  atl_text_image_02: Groupe de personnes jouant dans la neige
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492449/website/winter/greg-rosenke-lR5d86EU5OI-unsplash_a5ihjx.jpg
+  atl_text_image_03: 'Enfants jouant dans la neige '
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492446/website/winter/abbat-f4Z2czDXO0U-unsplash_uiso94.jpg
+  atl_text_image_04: Enfant jouant sur une luge
+  title: ''
 - template: textarea
   content: |-
     Les différentes structures qui mettent en place ses activités proposent chaque jour une activité différente. Un système de garderie sera également en place. Elles auront lieu généralement l'après-midi ainsi que le soir en fonction de l'activité mise en place : marche en raquette dans les bois, construction d'igloo la nuit...
@@ -69,14 +63,6 @@ page_sections:
     Retrouvez toutes les [activités non-ski ](https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=)pour vos enfants.
   title: ''
   blockBGcolor: ''
-- template: cta
-  intro: Réservez dès maintenant vos activités pour enfants
-  headline: Igloo, raquettes et luge, les activités pour vos enfants
-  button:
-    text_button: Réserver maintenant >
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
-  blockBGcolor: ''
-  marge: ''
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
