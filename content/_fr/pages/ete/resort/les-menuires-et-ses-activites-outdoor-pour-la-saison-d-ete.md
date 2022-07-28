@@ -54,7 +54,7 @@ page_sections:
     image_alt: Adulte en VTT à cotés de vaches en montagne
     title: VTT Electrique Débutant Adulte
     url: https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17609-vtt-electrique-debutant-adulte-les-menuires-vtt-meribel-sam-jones
-  - image_href: https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17611-vtt-electrique-amateur-adulte-meribel-vtt-meribel-sam-jones
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654866668/website/Sames%20Jones/FB_IMG_1654680653467.jpg
     image_alt: Personne en VTT de descente
     title: VTT Electrique Amateur Adulte
     url: https://shop.ze-hero.com/fr/activites-Outdoor/vtt/17608-vtt-electrique-amateur-adulte-les-menuires-vtt-meribel-sam-jones
