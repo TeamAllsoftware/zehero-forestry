@@ -59,6 +59,17 @@ page_sections:
     image_alt: Groupe de personne en cours de snowboard
     title: Snowboard
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  content: Val Thorens est une station unique et mondialement connue pour son domaine
+    skiable et ses infrastructures. Elle a l’avantage d’être à 2300m et de garder
+    une très bonne neige et en quantité de novembre à mai. Cette station offre un
+    grand choix de piste pour tous les niveaux et toutes les envies. Les enfants qui
+    commencent le ski pourront bénéficier de zones spécialement dédiées à l’apprentissage
+    avec des jeux. Les adultes pourront également retrouver des pistes débutantes
+    aux pistes noires. Partez à l’assaut de la cime de Caron et skier à plus de 3000m
+    d’altitude. Profitez des hors-pistes de Peclet et des couchers de soleil magique
+    sur les pistes.
 baseline: Neige et soleil
 engage: 'test test test test test test test test '
 page_title: Val Thorens, la plus haute station d'Europe
