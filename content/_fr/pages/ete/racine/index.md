@@ -5,6 +5,7 @@ meta-title: Activités outdoor et boutique en ligne pour l'été
 meta-description: Toutes les activités outdoor de l'été à partager en famille ou entre
   amis où que vous soyez en France et quelque soit votre niveau
 permalink: "/fr/ete/"
+redirect_from: "/fr/
 language: fr
 season: summer
 type: generic
