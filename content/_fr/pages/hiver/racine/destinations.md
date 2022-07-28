@@ -7,7 +7,7 @@ meta-description: Dans nos destinations d'hiver vous trouverez les activités de
   personnelle immense, que ce soit seul, entre amis ou en famille
 permalink: "/fr/destinations-activites-outdoor-hiver"
 redirect_from:
-  - "/fr/hiver/destinations"
+- "/fr/hiver/destinations"
 language: fr
 season: winter
 type: generic
@@ -84,5 +84,7 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
+level: 1
+listMother: 1
 
 ---
