@@ -31,7 +31,7 @@ page_sections:
 
     Vous prendrez votre pause repas sur un col avant d'entamer une descente dans un univers minéral afin de rejoindre La Brigue. Vous découvrirez les petites ruelles de pierre de ce village. Après un petit café, vous rejoindrez par la forêt, Saint Dalmas.
 
-    La randonnée se finira avec une boisson bien méritée, voir même une spécialité à ramener. Vous rentrerez en gare de Nice via le train des Merveilles à 19h45. Le tout pour un impact carbone toujours plus modéré, en toute simplicité, des souvenirs bien mérités grâce à la randonnée !
+    La randonnée se finira avec une boisson bien méritée, voir même une spécialité à ramener. Vous rentrerez en gare de Nice via le train des Merveilles à 19h45. Le tout pour un impact carbone toujours plus modéré, en toute simplicité, des souvenirs bien mérités grâce à la randonnée!
   title: L'appel de la Roya - La randonnée des trois villages
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1659013371/website/Loic%20AMM/c094d202-0201-4022-b6b7-c297d8a441da.webp
