@@ -43,10 +43,18 @@ page_sections:
 - template: listOffres
   blockBGcolor: blanc
   offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658933180/website/winter/activites-club-enfants-ski-prosneige.jpg
+    image_alt: Enfant jouant dans la neige
+    title: Activité pour enfants
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658933182/website/winter/_S9C8402.jpg
     image_alt: Groupe de personne en cours de ski
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
     title: Le ski
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658839133/website/winter/164359367_7995718387166229_3029293489305122895_n.jpg
+    image_alt: Moniteur Prosneige en Freeride en ski
+    title: Freeride
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658933183/website/winter/_S9C8824.jpg
     image_alt: Groupe de personne en cours de snowboard
     title: Snowboard
