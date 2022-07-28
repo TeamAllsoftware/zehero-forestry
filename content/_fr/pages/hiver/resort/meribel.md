@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 permalink: "/fr/hiver/destinations/meribel"
 redirect_from:
 - "/fr/hiver/destination/meribel"
@@ -11,7 +11,7 @@ resort_nameid: meribel
 resort_naming: Méribel
 title: Méribel et ses activités outdoor d'hiver
 titleHome: Nos activités à Méribel
-activite: 
+activite: ''
 level: 2
 enHome: 2
 meta-title: Activités outdoor à Méribel pour l'hiver
@@ -84,5 +84,6 @@ introduction:
     des casques et beaucoup d'autres équipements pour toute votre famille
 listMother: 2
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
+conseil: ''
 
 ---
