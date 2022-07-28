@@ -35,6 +35,7 @@ page_sections:
     bois et en pierre. Avec les 3 vallées, elle bénéficie du plus grand domaine du
     monde."
   title: Méribel
+  blockBGcolor: ''
 - template: textarea
   blockBGcolor: blanc
   title: Nos activités à Méribel
@@ -69,6 +70,7 @@ page_sections:
     avec ses montagnes au cœur du parc national de la Vanoise. Elle possède également
     l'un des meilleurs snowpark de France pour tous les plus grands freestyleurs.
   title: ''
+  blockBGcolor: ''
 baseline: Charme et volupté
 engage: 'test test test test test test test test '
 page_title: Méribel, le charme de la montagne
@@ -81,5 +83,6 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour louer des skis, des chaussures de ski,
     des casques et beaucoup d'autres équipements pour toute votre famille
 listMother: 2
+code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 
 ---
