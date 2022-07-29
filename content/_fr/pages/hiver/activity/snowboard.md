@@ -1,16 +1,16 @@
 ---
-layout: layout_activity
+layout: layout_generic
 permalink: "/fr/hiver/activites/snowboard"
 redirect_from:
 - "/fr/hiver/activite/snowboard"
 language: fr
 season: winter
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Snowboard
-titleHome: 
-activite: 
-level: 2
+titleHome: Snowboard
+activite: snowboard
+level: 1
 enHome: 2
 meta-title: Réserver des cours de snowboard pour apprendre la glisse
 meta-description: Partez rider le domaine skiable et les hors pistes en apprenant
@@ -19,91 +19,77 @@ baseline: Fluidité, poudreuse et grands virages
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-marche_prsset.jpg
 image01_alt: Snowboard dans les domaines de Savoie
 page_sections:
+- template: heroBreadcrumb
+  title: Le snowboard, késako ?
 - template: textarea
-  content: "Il se pratique sur une planche à neige appelée donc snowboard. C'est un
+  content: Il se pratique sur une planche à neige appelée donc snowboard. C'est un
     mélange du skate, du surf et du ski. Contrairement au ski, vous avez les 2 pieds
-    fixés sur la même planche.  \nCette planche présente des carres tout le long du
-    snowboard, que ce soit sur le côté droit ou gauche."
+    fixés sur la même planche. Le snowboard présente deux sens en fonction de votre
+    pied avant sur la planche. Si votre pied avant est le droit alors vous êtes Goofy.
+    Si votre pied avant est le gauche alors vous êtes Regular. Le snowboard c'est
+    plusieurs pratiques tel que le freestyle, le half-pipe, le slalom, le border cross,
+    le freeride, également la randonnée. Une pratique de glisse très différente du
+    ski où la technique de glisse sera différente ainsi que les aptitudes physiques.
+    Le snowboard est une activité très ludique et joueuse.
   title: Le Snowboard
   blockBGcolor: ''
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648195878/website/assets/Recadr%C3%A9es/snow.png
-  alt_text_for_image: Equipement snowboard
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: Découvrez nos activités de snowboard
+  headline: Toutes nos offres
+  button:
+    text_button: Réservez
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
+  atl_text_image_01: Un snowboardeur en poudreuse
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883542/website/winter/Snowboard-saut-neige_t0coxa.jpg
+  atl_text_image_02: Snowboardeur en freestyle sur un big air
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-marche_prsset.jpg
+  atl_text_image_03: Femme snowboardeuse
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1658907220/website/winter/IMG_7926.jpg
+  atl_text_image_04: Snowboardeur en freestyle à Valmorel
+  title: ''
+- template: textarea
+  content: "* Bien débuter en snowboard\n\nPour bien débuter en snowboard, prendre
+    des cours est indispensable afin d'acquérir le bon placement du corps, les bonnes
+    gestuelles pour les différentes techniques de glisse. Le moniteur vous apportera
+    les meilleurs conseils afin de réaliser vos premiers virages, vos premiers sauts,
+    de rider en switch. Vous pourrez alors vous lancer dans les pistes rouges par
+    la suite, faire du flat sur la piste ainsi que vous essayez au bord de piste en
+    freeride. Il faudra avoir sur votre planche de la souplesse, de l'agilité, de
+    l'impulsivité. Mais également un bon renforcement musculaire au niveau des jambes,
+    des abdominaux et des lombaires. \n\n* Bien s'équiper en snowboard\n\nLe snowboard,
+    à la différence du ski, nécessite des boots pour sa pratique. Elles sont beaucoup
+    plus confortables et vous pouvez alors marcher plus facilement avec. Afin de pouvoir
+    rider et être maintenu sur la planche, les boots seront fixées aux fixations du
+    snowboard. Vous trouverez aujourd'hui différents types de fixation et aussi différentes
+    en fonction des marques. Vous trouverez différents styles de board tel que des
+    planches spécialement conçues pour le freeride, pour le freestyle, pour le slalom
+    mais aussi des boards très polyvalentes.\n\n* Où pratiquer le snowboard ?\n\nLe
+    snowboard se pratique partout et dans toutes les stations. Même si cette pratique
+    est moins répandue que le ski, vous trouverez des cours et de la location de snowboard
+    dans toutes les stations de ski de France."
+  title: Nos conseils Ze Hero
+  blockBGcolor: ''
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Snowboard-rider-debout_oecizy.jpg
-  captiontitleuppercase: Les pratiques du snowboard
-  title: Mets ton casque, c'est parti
-  content: 'Le snowboard présente plusieurs disciplines qu''on retrouve par exemple
-    aux Jeux Olympiques : Half Pipe // Slopestyle // Bordercross // Slalom //Freeride.
-    Outre ces disciplines, on va donc pratiquer le snowboard et pouvoir carver sur
-    les pistes, faire quelques jumps et slider quelques rails ainsi que flotter en
-    hors-piste.'
-  alt_text_for_image: Snowboardeur de face tenant son snowboard debout dans la neige
+  blockBGcolor: blanc
+  alt_text_for_image: Femme en snowboard dans le Jura en freeride
+  captiontitleuppercase: Trouvez votre activité de snowboard
+  title: Les partenaires Ze Hero de snowboard
+  content: Chez Ze Hero, nous vous proposons de partir vous découvrir les pistes,
+    les hors-pistes et les snowpark avec l'école de ski Prosneige. Une école de ski
+    professionnelle que vous trouverez dans de nombreuses stations de ski. Ils sauront
+    vous accueillir dans le meilleur des cadres pour un moment d'apprentissage et
+    ludique en snowboard. Laissez-vous porter par les moniteurs et partez découvrir
+    les joies du snowboard dans une ambiance conviviale pour les enfants comme pour
+    les adultes.
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658908746/website/winter/IMG20210319125246_02.jpg
   button:
     text_button: ''
     href_button: ''
     alt_button: ''
-  blockBGcolor: gris
-- template: liststyle01
-  title: Dans quel sens ?
-  item:
-  - Regular
-  - Goofy
-- template: textarea
-  content: "Le snowboard présente deux sens en fonction de votre pied avant sur la
-    planche.  \nSi votre pied avant est le droit alors vous êtes Goofy.  \nSi votre
-    pied avant est le gauche alors vous êtes Regular.\n\nLorsqu'on change de sens
-    en ski, on se retrouve en arrière. En snowboard, rider en switch c'est donc changer
-    de Goofy à Regular ou inversement."
-  title: ''
-  blockBGcolor: ''
-- template: 3coltxtimgtxt
-  imagecenter: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883542/website/winter/Snowboard-saut-neige_t0coxa.jpg
-  captionleftcontent: La pratique du snowboard est très différente du ski
-  captionrighttitle: Le snowboardeur est un rider
-  captionrightcontent: 'Le snowboard n''est pas plus dur que le ski. Ses débuts ne
-    sont pas évidents mais ensuite la progression va plus vite qu''en ski. '
-  center_alt_text_for_image: Snowboardeur sautant un saut en faisant un grab et une
-    figure en snowboard
-  blockBGcolor: ''
-- template: textarea
-  content: |-
-    Le snowboard, à la différence du ski, nécessite des boots pour sa pratique. Elles sont beaucoup plus confortables et vous pouvez alors marcher plus facilement avec. Afin de pouvoir rider et être maintenu sur la planche, les [boots ](https://www.ze-hero.com/fr/hiver/conseils/boots-snowboard)seront fixées aux fixations du snowboard. Vous trouverez aujourd'hui différents types de fixation et aussi différentes en fonction des marques.
-
-    Le snowboard est un sport physique et il demande d'avoir une bonne condition musculaire. En effet, il faudra avoir sur votre planche de la souplesse, de l'agilité, de l'impulsivité. Mais également un bon renforcement musculaire au niveau des jambes, des abdominaux et des lombaires.
-
-    Le ski et le snowboard n'utilisent pas les mêmes groupes musculaires, les mêmes gestes, les mêmes techniques. C'est pour cela que vous pouvez être à l'aise sur un snowboard et trouver le ski dur physiquement.
-  title: ''
-  blockBGcolor: ''
-- template: parlaxgridtxtimg
-  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Snowboard-descente-poudreuse_xp9cqv.jpg
-  captionabovetitle: On a l'impression de flotter en poudreuse avec un snowboard
-  title: Le snowboard, c'est une activité pour tous
-  gridline1content: Burton, Rome, Bataleon, Salomon, Ride et bien d'autres, ont fait
-    évoluer le snowboard aujourd'hui pour offrir des planches exceptionnelles. Il
-    existe aujourd'hui une multitude de snowboard pour tous les styles. Elles sont
-    toutes performantes aux technologies avancées.
-  gridline1title: L'avancé du snowboard
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Snowboard-freestyle-ride_luennl.jpg
-  gridline2title: Soyez votre propre rider, soyez Ze Hero
-  gridline2content: N'ayez pas peur des débuts parfois difficiles du snowboard. Vous
-    pourrez ensuite progresser et jouer avec votre planche là où vous vous sentirez
-    à l'aise. Que ce soit sur la piste, dans les snowparks ou dans les hors-pistes,
-    le snowboard n'attend que vous.
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-duo-marche_vgtw6n.jpg
-  prlax_alt_text_for_image: Snowboardeuse faisant du snowboard en hors piste et en
-    freeride
-  grid_1_alt_text_for_image: Snowboardeur faisant du freestyle en slidant une barre
-    de slide en snowboard
-  grid_2_alt_text_for_image: Deux snowboardeurs marchant à Val Thorens dans la neige
-    en hors-piste en tenant leurs snowboard dans les mains
-- template: cta
-  intro: Réservez dès maintenant vos activités snowboard
-  headline: Cours privés ou collectifs, enfant et adultes sont disponibles
-  button:
-    text_button: Réserver maintenant >
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
@@ -112,5 +98,7 @@ button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre cours de snowboard
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=21%2F11%2F2021
 categorie: Snowboard
+listMother: 1
+conseil: ''
 
 ---

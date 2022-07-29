@@ -1,13 +1,13 @@
 ---
-layout: layout_activity
+layout: layout_generic
 language: fr
 season: winter
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Trail Running
-titleHome: 
-activite: 
-level: 2
+titleHome: Trail Running
+activite: trail
+level: 1
 enHome: 2
 permalink: "/fr/hiver/activites/trail-running"
 redirect_from:
@@ -20,127 +20,103 @@ engage: Le dépassement et la liberté sont les inspirations du trail.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883629/website/summer/Trail-foret-seul_ofxowi.jpg
 image01_alt: Course à pied en fôret
 page_sections:
+- template: heroBreadcrumb
+  title: Le trail running, Késako ?
 - template: textarea
-  content: |-
-    Le trail signifie "sentier" en anglais. C'est ce petit chemin en forêt, en montagne ou dans la jungle qui monte et qui descend, qui tourne et vivote. Ce petit chemin parfois technique, raide, lisse ou rempli de cailloux ou de racines.
-
-    Le trail est une pratique sportive de course à pied en nature et quelques fois dans le milieu urbain. Quelle que soit la course, il présentera du dénivelé. C'est-à-dire que vous trouverez des montées et des descentes.
-  title: ''
+  content: "Le trail signifie “sentier” en anglais. Que ce soit en montagne, en plaine,
+    dans la forêt, vous retrouverez ce sentier qui monte, qui descend et qui tourne.
+    Ce chemin peut être technique avec des cailloux et des racines, mais aussi lisse
+    et roulant. Le trail est une pratique sportive de course à pied qui se trouve
+    en nature et quelques fois dans la ville (urbain trail). Quel que soit le parcours,
+    il présentera du dénivelé. C’est-à-dire que vous trouverez des montées et des
+    descentes, ce que l’on nomme le D+.  \nLa randonnée en montagne s’en approche
+    absolument, sauf qu’on sera plus minimaliste en Trail. On va aller plus vite,
+    en étant plus léger en équipement. Le trail combine l’amour de la nature, des
+    panoramas, des sentiers avec le plaisir d’engagement physique et musculaire. C’est
+    une activité qui permet de découvrir des lieux, en allant vite et s’amusant avec
+    le terrain, seul ou à plusieurs. Courir des heures en nature, plonge le corps
+    et l’esprit dans un moment de [plénitude](https://www.ze-hero.com/fr/ete/conseils/pourquoi-sortir-en-montagne-en-foret)."
+  title: Le Trail Running
   blockBGcolor: ''
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234220/website/assets/Recadr%C3%A9es/trail.png
-  alt_text_for_image: Equipement de trail
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640069842/website/summer/IMG_20210716_180932_893_spbn5s.jpg
-  captiontitleuppercase: 'S''évader '
-  title: Le trail, c'est lier l'engagement et le bien être
-  content: À la différence de la course à pied sur route, en trail le rythme n'est
-    jamais le même. Il y a beaucoup de facteurs qui vont altérer votre vitesse. Que
-    ce soit le dénivelé, la technicité du parcours, le chemin étroit, les conditions
-    météorologiques... La performance d'un marathon se justifie par le temps et c'est
-    tout. En trail, votre temps dépendra du terrain, de la météo. L'engagement en
-    trail va porter sur votre vitesse, sur la technique en descente, sur votre gestion
-    de course. Courir des heures en nature, seul ou accompagné, plonge le corps et
-    l'esprit dans un moment de plénitude.
-  alt_text_for_image: Coureur de trail lors d'une compétition de trail dans les montagnes
-    lors de UTCAM
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: gris
-- template: liststyle01
-  title: Les différentes courses
-  item:
-  - 'Kilomètre Verticaux '
-  - Trail Court < 30km
-  - Trail Long < 80km
-  - Ultra Trail > 100km
-- template: parlaxgridtxtimg
-  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_113908_kkfmdk.jpg
-  captionabovetitle: Une paire de basquet et vous partez à l'aventure
-  title: 'Partage et découverte '
-  gridline1title: Révélez tous vos sens
-  gridline1content: Que ce soit auditif, visuel, physique mais aussi spirituel, le
-    Trail vous permettra d'explorer tous vos sens. Partez explorer les chemins et
-    jouer avec les chemins. Apprenez à connaître votre corps et votre esprit afin
-    de créer une symbiose.
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072271/website/summer/IMG_20200627_060750_fwezp1.jpg
-  gridline2title: Le Trail, pour tous
-  gridline2content: Le trail est destiné à tous les amoureux des la course à pied
-    en nature. Quel que soit votre niveau, chaque parcours sera adapté au votre. Si
-    la demande énergétique et physique est exigeante, alors l'environnement lui autour
-    de vous sera apaisant.
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200528_132727_fnpain.jpg
-  prlax_alt_text_for_image: Deux coureurs courant en trail en montagne sur la neige
-    dans le massif de la Lauzière
-  grid_1_alt_text_for_image: Deux coureurs faisant du trail en montagne sur une crête
-    au levé de soleil
-  grid_2_alt_text_for_image: Un troupeau de bouquetin en montagne dans le Mercantour
-- template: textarea
-  content: |-
-    Selon les courses et les distances la pratique du trail est différente. Plus la course est courte, plus l'engagement physique sera important. À l’inverse, plus la distance est longue, plus l'engagement mental sera important. Le trail, en plus de son aspect physiologique et physique, demandera une part très importante du mental, de gestion de course et d'alimentation. Ce sont autant de paramètres qui rendent cette pratique encore plus intéressante et riche.
-
-    La pratique du trail comporte un équipement spécifique par ses chaussures, ses vêtements, ses sacs à dos d'hydratation, le port de bâtons etc.
-  title: ''
-  blockBGcolor: ''
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640072272/website/summer/IMG_20200809_090044_skturv.jpg
-  captiontitleuppercase: Le plaisir du dossard
-  title: Courir pour se dépasser soi même
-  content: Il existe aujourd'hui énormément de course de trail, vous en trouverez
-    tous les week-end. Mettre un dossard, c'est le moyen de se dépasser, de passer
-    un bon moments avec ses amis, c'est participer un évènement. Les compétitions
-    permettent également de mettre en place des parcours magnifiques et uniques.
-  alt_text_for_image: Coureur de trail en montagne devant un sommet le cheval noir
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: ''
-- template: textarea
-  content: |-
-    Le trail se pratique toute l'année même l'hiver. L'encadrement en trail est idéal si vous souhaitez progresser, découvrir et partager. Un coach en trail running vous permettra d'évoluer et de progresser que ce soit en montée, en descente, sur plat. Cela pourra se travailler sur des séances dîtes spécifiques.
-
-    Vous pourrez également participer à des sorties de trail longues. Elles permettront de découvrir un lieu, un environnement avec un groupe.
-
-    Découvrez les différentes offres de Ze Hero en Trail Running :
-  title: ''
-  blockBGcolor: ''
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774637/website/By%20Ze%20Hero%20Activity/IMG_20200723_153328_1.jpg
-  alt_text_for_image: Coureur de trail dans les Alpes Maritimes sur le Cheiron
-  captiontitleuppercase: Le Trail dans les Préalpes d'Azur
-  title: Le Trail dans les Alpes Maritimes
-  content: |-
-    Le Trail dans les Alpes Maritimes est un paradis pour les traileurs, les amoureux de la nature et de l'endurance. La variété de l'environnement est un incroyable et son terrain de jeux est très varié. Que ce soit près de la mer avec des chemins de littoral, les collines et ses plaines plus sauvage et aride des Préalpes d'Azur, aux montagnes du Mercantour, le choix est immense.
-
-    Que ce soit pour découvrir le Trail, pour vous initier, pour progresser et vous perfectionner, chez Ze Hero, vous découvrirez différentes offres.
-
-    Tout d'abord vous pourrez retrouver différentes offres de Trail à Bar sur Loup et ses environs dans les Préalpes d'Azur : [Trail à Bar sur Loup avec différentes offres de niveau.](https://shop.ze-hero.com/fr/activites-Outdoor?station=Le+Bar+sur+loup&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=)
-
-    Vous pourrez également courir dans le [massif de l'Esterel](https://shop.ze-hero.com/fr/activites-Outdoor/trail/17205-trail-journee-activite-ze-hero) ainsi que retrouver différentes formules d'entraînement plus spécifique vers [Antibes](https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=).
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
 - template: cta
   button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
-    text_button: Réservez maintenant >
-  intro: Réservez dès maintenant vos sorties de trail
-  headline: Cours privés ou collectifs sont disponibles
-- template: imgWide
+    href_button: "/fr/ete/activites/nos-sorties-trail"
+    text_button: Nos offres de trail
+  intro: Découvrez dès maintenant nos activités trails
+  headline: Toutes nos offres
   blockBGcolor: blanc
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649238382/website/assets/Personnages%20poses/Poses%20format%20large/Trail_Running.png
-  alt_text_for_image: Personnage trail célébrant
+  marge: 20
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1649056566/website/Conseil%20/IMG_20200710_091330.jpg
+  atl_text_image_01: Personne en trail devant un lac en montagne
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1650896367/website/By%20Ze%20Hero%20Activity/IMG20210424154801_01_1.jpg
+  atl_text_image_03: Personne en trail running dans le massif de l'esterel
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1654852126/website/By%20Ze%20Hero%20Activity/IMG_20200723_153328_1.jpg
+  atl_text_image_02: Des traileurs courant sur les crêtes du cheiron
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
+  atl_text_image_04: Personne faisant du trail en montagne
+  title: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    Faire du trail, c'est donc courir en nature quelque soit la distance et le dénivelé. Mais il existe ensuite de multiples types de trail en terme de distance, de difficulté, de technicité. Pour vous aider à mieux comprendre ce qui vous correspond, nous avons segmenter les différents type de Trail :
+
+    * Trail Initiation ( Sorties de 10 à 20km jusqu'à environ 1000D+)
+    * Trail Confirmé ( Sortie de 20 à 40km jusqu'à 2500D+)
+    * Trail Préparation et Entraînement ( Ouvert à tous, sorties avec thèmes spécifiques d'entraînements )
+    * Trail Itinérance et Traversé ( Sorties longues avec parfois plusieurs étapes )
+    * Trail alpin ( sortie sur des sentiers techniques et engagés )
+  title: Les différents types de Trail
+- template: textarea
+  blockBGcolor: blanc
+  content: |-
+    * Débuter en Trail running :
+
+    Débuter le trail running, c'est découvrir la course à pied sur sentier, en milieu naturel dans des parcours avec du dénivelé. Si vous aimer courir, que vous avez débuter le running sur plat et que vous souhaitez vous aventurer en nature, débutez le trail running en tout confiance avec Ze Hero. Nous mettons en place des coachings dédiées aux personnes souhaitant s'initier et suivre un programme pour progresser en trail. Découvrez comment courir en monter, comment gérer son effort, comment savoir quel parcours faire en fonction du kilomètre et du dénivelé.
+
+    Découvrez toutes les informations en parcourant notre page : [**Débuter en le trail running**]() mais également [**se préparer à sa 1er course de trail**](https://www.ze-hero.com/fr/ete/conseils/preparation-course-trail) et le [**fractionner en trail running**](https://www.ze-hero.com/fr/ete/conseils/fractionne-trail).
+
+    * S'équiper en Trail running :
+
+    Le Trail running demande un équipement plus spécifique que la course à pied. L'évolution dans des terrains montagneux, sur des sentiers plus accidenté, en milieu naturel demande alors du matériel et des équipements adaptés à la pratique. Afin de comprendre et savoir comment bien s'équiper dans le trail, nous avons créé une page spécialement conçu pour vous afin de répondre aux différentes questions sur l'équipement.
+
+    Découvrez toutes les informations en parcourant notre page : [**S'équiper en trail running**]() et [**Comment choisir ses chaussures de trail ?**](https://www.ze-hero.com/fr/ete/conseils/chaussures-trail)
+
+    * Nos itinéraires de trail running :
+
+    Notre référent Trail est basé dans les Alpes Maritimes et il vous propose un choix varié d'itinéraires de trail dans le bas pays et le moyen pays niçois. De plus, vous pourrez réserver des initiations et des itinérances en trail dans des lieux uniques tel que la Maralpine. Découvrez le Mercantour et les Préalpes d'Azur mais également le Massif central, les Cévennes. Parcourez de nouveau terrain à l'assaut des sommets, des plus belles courses et de traversées.
+
+    Découvrez toutes les informations en parcourant nos pages : [**Les itinéraires de trail dans les Alpes Maritimes**](https://www.ze-hero.com/fr/ete/conseils/itineraires-trail-alpes-maritimes).
+  title: Nos conseils Ze Hero
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650896367/website/By%20Ze%20Hero%20Activity/IMG20210424154801_01_1.jpg
+  alt_text_for_image: Coureur faisant du trail dans le massif de l'esterel
+  captiontitleuppercase: 'Trouvez votre activité de Trail '
+  title: Les partenaires Ze Hero de Trail
+  content: "Chez Ze Hero, nous allons vous proposer différentes sorties trail, d'entraînements
+    et coaching de trail que ce soit pour des débutants, des amateurs ainsi que des
+    confirmés. Vous pourrez réserver des cours dans les Alpes Maritimes avec Antibes,
+    Le Bar sur Loup, Saint Jeannet et bien d'autre. Vous pourrez également retrouver
+    des activités dans le Gars, l'Aveyron et la Lozère. Chacun des accompagnateurs
+    et entraîneur de Trail, vous apportera tous les meilleurs conseils pour apprendre,
+    progresser mais surtout profiter et vivre des moments uniques en nature.  \nVoici
+    nos différents partenaires trail chez Ze Hero :\n\n* Nos entraîneurs et accompagnateurs
+    de trail de Ze Hero, qui vous accompagnera dans les Alpes Maritimes : [**Alarcon
+    Yann**](https://www.ze-hero.com/fr/partenaires/yann-alarcon)\n* Notre partenaire
+    [**Cueilleur de Sommet**](https://www.ze-hero.com/fr/ete/partenaires/clement-sivera)
+    situé dans le Massif Central, les Cévennes les Pyrénées et la Haute Savoie."
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Trouver votre activité de trail
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 categorie: Running / Trail
+listMother: 1
+conseil: ''
 
 ---

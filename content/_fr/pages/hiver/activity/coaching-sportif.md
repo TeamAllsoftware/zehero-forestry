@@ -1,5 +1,5 @@
 ---
-layout: layout_activity
+layout: layout_generic
 permalink: "/fr/hiver/activites/coaching-sportif"
 redirect_from:
 - "/fr/hiver/activite/coaching-sportif"
@@ -8,9 +8,9 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Coaching sportif
-titleHome: 
+titleHome: ''
 activite: coaching
-level: 2
+level: 1
 enHome: 2
 meta-title: Réserver un coach sportif pour vous préparer à l'hiver
 meta-description: Profitez d'un coach sportif que ce soit en cours privé ou en cours
@@ -85,6 +85,8 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+  blockBGcolor: ''
+  marge: ''
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
@@ -93,5 +95,7 @@ button_to_link_to_ze_hero_shop:
   button_text: Réservez votre session de coaching sportif
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=21%2F11%2F2021
 categorie: Coaching
+listMother: 1
+conseil: ''
 
 ---

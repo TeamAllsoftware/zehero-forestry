@@ -1,5 +1,5 @@
 ---
-layout: layout_activity
+layout: layout_generic
 permalink: "/fr/hiver/activites/ski-de-fond"
 redirect_from:
 - "/fr/hiver/activite/ski-de-fond"
@@ -8,9 +8,9 @@ season: winter
 type: generic
 topnav_color_text: dark
 title: Ski de fond
-titleHome: 
-activite: 
-level: 2
+titleHome: ''
+activite: ''
+level: 1
 enHome: 2
 meta-title: Réserver des cours de ski de fond classique ou skating
 meta-description: Partez explorer les montagnes en ski de fond en pratiquant le classique
@@ -114,6 +114,8 @@ page_sections:
   button:
     text_button: Réserver maintenant >
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski+de+fond&start-date=
+  blockBGcolor: ''
+  marge: ''
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light
@@ -122,5 +124,7 @@ categorie: Ski
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
+listMother: 1
+conseil: ''
 
 ---
