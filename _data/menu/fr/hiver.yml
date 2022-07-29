@@ -10,18 +10,16 @@ menu:
   column-01:
   - nested: Par régions
     menu-items:
-    - title: Val Thorens
-      href: "/fr/hiver/destinations/val-thorens"
-    - title: Val d'Isère
-      href: "/fr/hiver/destinations/val-d-isere"
-    - title: Alpe d'Huez
-      href: "/fr/hiver/destinations/alpe-d-huez"
-    - title: Les Menuires
-      href: "/fr/hiver/destinations/les-menuires"
-    - title: Méribel
-      href: "/fr/hiver/destinations/meribel"
-    - title: Tignes
-      href: "/fr/hiver/destinations/tignes"
+    - title: Savoie
+      href: "/fr/hiver/destinations/savoie"
+    - title: Isère
+      href: "/fr/hiver/destinations/isere"
+    - title: Haute Savoie
+      href: "/fr/hiver/destinations/haute-savoie"
+    - title: Alpes Maritimes
+      href: "/fr/hiver/destinations/alpes-maritimes"
+    - title: Loire Atlantique
+      href: "/fr/hiver/destinations/loire-atlantique"
   column-02:
   - nested: Toutes les activités
     menu-items:
