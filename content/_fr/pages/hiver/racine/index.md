@@ -128,6 +128,6 @@ baseline: ''
 button_to_link_to_ze_hero_shop:
   button_text: Votre destination
   url_to_shop_zehero: "/fr/destinations/trouver-destination-activites"
-listMother: ''
+listMother: 1
 
 ---
