@@ -66,6 +66,33 @@ page_sections:
   blockBGcolor: blanc
   title: Cours collectifs de ski adultes
   content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001434/website/winter/_S9C8408.jpg
+    image_alt: Groupe de skieurs en cours colelctifs
+    title: Cours collectifs adultes de ski à Tignes
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883541/website/winter/Ski-marche-groupe_snuwan.jpg
+    image_alt: Groupe de skieur marchant avec leurs skis
+    title: Cours collectif adultes de ski à Méribel
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996210/website/winter/278543636_10062359407168773_4445107599426939386_n.jpg
+    image_alt: Moniteur de ski et groupe de skieur sur piste
+    title: Cours collectifs adultes de ski à l'Alpes d'Huez
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357674/website/winter/248245560_9115998445138212_3763588150271873040_n.jpg
+    image_alt: 'Groupe de ski collectif '
+    title: Cours collectifs adultes de ski aux Menuires
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640090973/website/winter/nicolai-berntsen-OyP-8El8vWk-unsplash_pzgx3v.jpg
+    image_alt: Skieur dans une piste de ski
+    title: Cours collectifs adultes de ski Val d'Isère
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883540/website/winter/Ski-descente-vitesse_tq4ywc.jpg
+    image_alt: Skieur en virage sur une piste de ski
+    title: Cours collectif adulte de ski à Val Thorens
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
 layout: layout_generic
 titleHome: Réservez votre cours de ski de piste chez Ze Hero
 conseil: ''
