@@ -43,8 +43,8 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
-    text_button: 'Réserver maintenant '
+    href_button: "/fr/hiver/activites/reserver-cours-ski-piste"
+    text_button: Nos offres
   intro: Découvrez nos activités de ski de piste
   headline: Toutes nos offres
   blockBGcolor: blanc
