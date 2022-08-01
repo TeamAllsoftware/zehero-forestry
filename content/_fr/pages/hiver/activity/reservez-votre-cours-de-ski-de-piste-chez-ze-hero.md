@@ -33,7 +33,7 @@ page_sections:
     Cours de ski de piste privé ou collectifs dans ces diverses stations, voici toutes nos offres pour vous :
 - template: textarea
   blockBGcolor: blanc
-  title: Nos cours collectifs de ski
+  title: Nos cours collectifs de ski enfants
   content: " "
 - template: listOffres
   blockBGcolor: blanc
@@ -54,6 +54,14 @@ page_sections:
     image_alt: Des enfants en ski dans un cœur en bois
     title: Cours collectifs enfant ski aux Menuires
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659354930/website/winter/1528750.jpg
+    image_alt: Monitrice de ski avec des enfants
+    title: Cours collectif enfant ski Alpe d'Huez
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659355015/website/winter/IMG_6997.jpg
+    image_alt: Enfant qui descend une piste de ski
+    title: Cours collectif ski enfant à Tignes
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
 layout: layout_generic
 titleHome: Réservez votre cours de ski de piste chez Ze Hero
 conseil: ''
