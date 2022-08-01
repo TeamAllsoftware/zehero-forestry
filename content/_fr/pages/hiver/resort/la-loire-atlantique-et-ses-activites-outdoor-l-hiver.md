@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: winter
 code_postal: 44,Loire-Atlantique,Pays de la Loire
@@ -22,6 +22,49 @@ image01_alt: Personne surfant en Loire Atlantique à Saint Brévins les Pins
 button_to_link_to_ze_hero_shop:
   button_text: Réservez
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-page_sections: []
+page_sections:
+- template: heroBreadcrumb
+  title: Nos activités l'hiver en Loire Atlantique
+- template: textarea
+  blockBGcolor: blanc
+  content: 'Le département de **Loire-Atlantique**, c''est des sentiers qui vous mèneront
+    dans des terres contrastées : landes granitiques et fermes aux toits d’ardoise,
+    maisons basses aux toits de tuiles romaines typiques et ses vignes ou aux marais
+    salants du parc de Brière. Vers les côtes de Jade, Amour ou Sauvage, s’étendent
+    des plages très prisées. Avec 6200 hectares d’espaces naturels, 2000 km d’itinéraires
+    vélo et un riche patrimoine, la Loire-Atlantique est le 7e département **touristique**
+    de France. C''est également ses 130 km de côtes, ses grandes plages et ses vagues.
+    C''est un département où vous pourrez pratiquer le surf et de nombreuses autre
+    activités dans l''océan. L''hiver c''est profiter autrement et différemment du
+    surf et de l''océan. C''est découvrir une activité unique dans des vagues différentes
+    de l''été. Partez prendre des cours de surf durant l''hiver.'
+  title: La Loire Atlantique
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos destinations en Loire Atlantique
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos activités en Loire Atlantique
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos locations en Loire Atlantique
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
+type: generic
+level: 1
+listMother: 2
+titleHome: Nos activités en Loire Atlantique 44
+activite: ''
+conseil: ''
 
 ---
