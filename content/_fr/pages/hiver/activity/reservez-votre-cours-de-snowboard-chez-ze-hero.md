@@ -37,6 +37,10 @@ page_sections:
     ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**\n\nCours
     de snowboard de piste privé ou collectifs dans ces diverses stations, voici toutes
     nos offres pour vous :"
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos cours collectifs snowboard enfants
+  content: " "
 layout: layout_generic
 titleHome: Réservez votre cours de snowboard chez Ze Hero
 conseil: ''
