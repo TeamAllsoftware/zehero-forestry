@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: winter
 code_postal: 38,Isère,Auvergne-Rhône-Alpes
@@ -23,6 +23,48 @@ image01_alt: Station de l'Alpe d'Huez l'hiver, sous la neige
 button_to_link_to_ze_hero_shop:
   button_text: Réservez
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-page_sections: []
+page_sections:
+- template: heroBreadcrumb
+  title: Nos activités l'hiver en Isère
+- template: textarea
+  blockBGcolor: blanc
+  title: L'Isère
+  content: L'Isère est composée de 4 massifs qui sont le Vercors, la Chartreuse, Belledonne
+    et l'Oisans. On y retrouve également le parc national des Ecrins. Découvrez alors
+    ces espaces naturels et sauvages, des environnements préservés. L'Isère est composée
+    de nombreuses stations réputées comme Les 2 Alpes, l'Alpe Huez, l'Oisans, les
+    7 Laux, Chamrousse, Villard de Lans, le Collet d'Allevard et bien d'autre encore.
+    Vous pourrez bénéficier des diverses infrastructures et activités qu’elles proposent.
+    Partez skier, rider, découvrir le freeride ou le freestyle, apprenez le snowboard,
+    randonnez en raquette à neige, volez au-dessus des montagnes. Vous trouvez un
+    choix incroyable d'activités pour votre séjour dans des stations uniques pour
+    séjour de rêve.
+- template: textarea
+  blockBGcolor: blanc
+  title: 'Nos destinations en Isère '
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos activités en Isère
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos locations en Isère
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
+type: generic
+level: 1
+listMother: 2
+titleHome: Les activités en Isère 38
+activite: ''
+conseil: ''
 
 ---
