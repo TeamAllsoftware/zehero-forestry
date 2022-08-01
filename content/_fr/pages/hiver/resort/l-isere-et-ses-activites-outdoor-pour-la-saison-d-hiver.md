@@ -16,7 +16,7 @@ page_title: L'Isère
 baseline: Les 4 massifs
 resort_nameid: isere
 resort_naming: Isère
-permalink: "/fr/hivers/destinations/isere"
+permalink: "/fr/hiver/destinations/isere"
 meta-title: Activités outdoor en Isère pour l'hiver
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640266010/website/resorts/alpe%20d%27huez/Alpes_dhuez_envzu0.jpg
 image01_alt: Station de l'Alpe d'Huez l'hiver, sous la neige
