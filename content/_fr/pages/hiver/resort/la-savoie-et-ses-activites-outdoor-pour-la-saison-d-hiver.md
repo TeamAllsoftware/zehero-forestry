@@ -67,7 +67,7 @@ page_sections:
   title: Nos activités en Savoie
   content: " "
 - template: listOffres
-  blockBGcolor: gris
+  blockBGcolor: blanc
   offreList: []
 - template: textarea
   blockBGcolor: blanc
