@@ -5,7 +5,7 @@ season: winter
 level: 1
 listMother: 2
 categorie: Ski
-topnav_color_text: dark
+topnav_color_text: light
 activite: ski de piste
 meta-title: Réservez votre cours de ski de piste
 meta-description: Réservez un cours de ski de piste avec Ze Hero dans la station de
@@ -20,5 +20,8 @@ button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
 page_sections: []
+layout: layout_generic
+titleHome: Réservez votre cours de ski de piste chez Ze Hero
+conseil: ''
 
 ---
