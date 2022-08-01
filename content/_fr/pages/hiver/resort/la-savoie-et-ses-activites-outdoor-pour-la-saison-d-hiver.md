@@ -15,7 +15,7 @@ page_title: La Savoie
 baseline: Savoie
 resort_nameid: Savoie
 resort_naming: Savoie
-permalink: "/fr/hiver/destination/savoie"
+permalink: "/fr/hiver/destinations/savoie"
 meta-title: Activités outdoor en Savoie pour l'hiver
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658930454/website/winter/piotr-figlarz-NfTv1c8_B3U-unsplash.jpg
 image01_alt: Des personnes faisant du ski dans la station de ski de Courchevel
