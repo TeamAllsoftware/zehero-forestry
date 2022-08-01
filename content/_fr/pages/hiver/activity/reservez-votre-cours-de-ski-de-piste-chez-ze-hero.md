@@ -44,24 +44,28 @@ page_sections:
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996206/website/winter/272330231_9636082283129823_3776211539232788480_n.jpg
     image_alt: Groupe d'enfant au ski
-    title: Cours collectif enfant ski à Val d'Isère
+    title: Cours collectifs enfants de ski à Val d'Isère
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996211/website/winter/274304879_9815804441824272_4635561574557194954_n.jpg
     image_alt: Cours de ski enfant en forêts
-    title: Cours collectifs enfant ski Val Thorens
+    title: Cours collectifs enfants de ski Val Thorens
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996201/website/winter/271138277_9504656022939117_4665647267077091834_n.jpg
     image_alt: Des enfants en ski dans un cœur en bois
-    title: Cours collectifs enfant ski aux Menuires
+    title: Cours collectifs enfants de ski aux Menuires
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659354930/website/winter/1528750.jpg
     image_alt: Monitrice de ski avec des enfants
-    title: Cours collectif enfant ski Alpe d'Huez
+    title: Cours collectifs enfants de ski Alpe d'Huez
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659355015/website/winter/IMG_6997.jpg
     image_alt: Enfant qui descend une piste de ski
-    title: Cours collectif ski enfant à Tignes
+    title: Cours collectifs enfants de ski à Tignes
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Cours collectifs de ski adultes
+  content: " "
 layout: layout_generic
 titleHome: Réservez votre cours de ski de piste chez Ze Hero
 conseil: ''
