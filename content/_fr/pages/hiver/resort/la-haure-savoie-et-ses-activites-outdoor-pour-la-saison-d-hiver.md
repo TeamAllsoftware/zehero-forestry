@@ -10,7 +10,7 @@ introduction:
   you_arrive: Vous arrivez et souhaitez louer du matériel dans cette station.
   zehero_advice: ZE HERO vous conseille pour  les activités et la location des équipements
     pour toute la famille
-title: La Haure-Savoie et ses activités outdoor pour la saison d'hiver
+title: La Haute-Savoie et ses activités outdoor pour la saison d'hiver
 page_title: La Haute-Savoie
 baseline: Les hautes montagnes
 resort_nameid: haute_savoie
@@ -49,6 +49,13 @@ page_sections:
     image_alt: Salle d'escalade des Houches
     title: L'escalade en salle
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Houches&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos destinations en Haute Savoie
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
 type: generic
 level: 1
 listMother: 2
