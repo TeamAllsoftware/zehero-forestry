@@ -23,7 +23,44 @@ image01_alt: 'Vue de montagnes enneigées dans les Alpes Maritimes à Auron '
 button_to_link_to_ze_hero_shop:
   button_text: Réservez
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-page_sections: []
+page_sections:
+- template: heroBreadcrumb
+  title: Nos activités l'hiver dans les Alpes Maritimes
+- template: textarea
+  blockBGcolor: blanc
+  title: Les Alpes Maritimes
+  content: Le département des Alpes Maritimes offre une diversification incroyable
+    d'environnement naturel. C'est le seul département où vous pourrez skier la journée
+    dans le Mercantour et faire quelques brasses en fin de journée dans la mer. Partez
+    découvrir ses montagnes sauvages dans les stations d'Auron, d'Isola 2000, de Valberg,
+    La Colmiane. Pour les amoureux du ski de randonnée, vous trouverez un choix énorme
+    de randonnée à faire à travers des pentes et une neige de qualité. Vous pourrez
+    apercevoir la mer au sommet de certaines montagnes, les skis aux pieds. Un département
+    où vous pouvez jongler dans de multiples activités tel que le ski, le snowboard
+    mais aussi le trail, l'escalade et tous les sports aquatiques. Partez séjourner
+    dans des stations familiales et sportives au climat méditerranéen sous un magnifique
+    soleil.
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos destinations dans les Alpes Maritimes
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos activités dans les Alpes Maritimes
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos locations dans les Alpes Maritimes
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
 type: generic
 level: 1
 listMother: 2
