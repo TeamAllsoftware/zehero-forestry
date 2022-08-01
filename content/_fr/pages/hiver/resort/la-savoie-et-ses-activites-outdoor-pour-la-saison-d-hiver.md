@@ -37,10 +37,6 @@ page_sections:
   title: La Savoie
 - template: textarea
   blockBGcolor: blanc
-  title: Nos activités en Savoie
-  content: " "
-- template: textarea
-  blockBGcolor: blanc
   title: Nos destinations en Savoie
   content: " "
 - template: listOffres
@@ -66,6 +62,20 @@ page_sections:
     image_alt: Montagnes et station de ski de Tignes
     title: Tignes
     url: "/fr/hiver/destinations/tignes"
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos activités en Savoie
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos locations en Savoie
+  content: " "
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
 type: generic
 level: 1
 listMother: 2

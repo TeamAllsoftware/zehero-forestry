@@ -40,6 +40,13 @@ page_sections:
     en Haute Savoie vous trouverez votre bonheur.
 - template: textarea
   blockBGcolor: blanc
+  title: Nos destinations en Haute Savoie
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList: []
+- template: textarea
+  blockBGcolor: blanc
   title: Nos activités en Haute-Savoie
   content: " "
 - template: listOffres
@@ -51,7 +58,7 @@ page_sections:
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Houches&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
 - template: textarea
   blockBGcolor: blanc
-  title: Nos destinations en Haute Savoie
+  title: Nos locations en Haute Savoie
   content: " "
 - template: listOffres
   blockBGcolor: gris
