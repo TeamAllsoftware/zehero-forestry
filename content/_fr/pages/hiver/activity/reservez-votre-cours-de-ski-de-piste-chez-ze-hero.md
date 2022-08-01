@@ -19,7 +19,41 @@ image01_alt: 'Groupe de skieurs dans un cours de ski '
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
-page_sections: []
+page_sections:
+- template: heroBreadcrumb
+  title: Nos offres de ski de piste
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos cours de ski de piste chez Ze Hero
+  content: |-
+    Découvrez tous nos cours de piste chez Ze Hero. Partez apprendre le ski, progresser ou même vous perfectionner dans le ski de piste ou le ski alpin. Nous vous proposons un choix varié de cours de ski pour tous les niveaux. Vous trouverez des cours pour les tout-petits avec la mise en place de cours de ski dans un jardin d’enfants. Mais vous pourrez également réserver des cours de ski pour les enfants ainsi que les adolescents. Réservez également des cours de ski pour les adultes quel que soit votre niveau.
+
+    Vous pourrez toutes nos offres dans une multitude de stations de ski tel que Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez.
+
+    Cours de ski de piste privé ou collectifs dans ces diverses stations, voici toutes nos offres pour vous :
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos cours collectifs de ski
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996211/website/winter/274304879_9815804441824272_4635561574557194954_n.jpg
+    image_alt: Groupe enfants de ski jardin d'enfants Méribel
+    title: Cours collectifs enfants de ski à Méribel
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996206/website/winter/272330231_9636082283129823_3776211539232788480_n.jpg
+    image_alt: Groupe d'enfant au ski
+    title: Cours collectif enfant ski à Val d'Isère
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996211/website/winter/274304879_9815804441824272_4635561574557194954_n.jpg
+    image_alt: Cours de ski enfant en forêts
+    title: Cours collectifs enfant ski Val Thorens
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996201/website/winter/271138277_9504656022939117_4665647267077091834_n.jpg
+    image_alt: Des enfants en ski dans un cœur en bois
+    title: Cours collectifs enfant ski aux Menuires
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
 layout: layout_generic
 titleHome: Réservez votre cours de ski de piste chez Ze Hero
 conseil: ''
