@@ -60,6 +60,10 @@ page_sections:
     image_alt: Un enfant en snowboard
     title: Cours collectif enfants de snowboard à Val d'Isère
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996206/website/winter/272330231_9636082283129823_3776211539232788480_n.jpg
+    image_alt: Groupe enfant en snowboard
+    title: Cours collectif enfants de snowboard à Tignes
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
 layout: layout_generic
 titleHome: Réservez votre cours de snowboard chez Ze Hero
 conseil: ''
