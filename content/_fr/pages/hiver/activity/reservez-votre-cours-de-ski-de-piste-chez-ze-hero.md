@@ -25,12 +25,18 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours de ski de piste chez Ze Hero
-  content: |-
-    Découvrez tous nos cours de piste chez Ze Hero. Partez apprendre le ski, progresser ou même vous perfectionner dans le ski de piste ou le ski alpin. Nous vous proposons un choix varié de cours de ski pour tous les niveaux. Vous trouverez des cours pour les tout-petits avec la mise en place de cours de ski dans un jardin d’enfants. Mais vous pourrez également réserver des cours de ski pour les enfants ainsi que les adolescents. Réservez également des cours de ski pour les adultes quel que soit votre niveau.
-
-    Vous pourrez toutes nos offres dans une multitude de stations de ski tel que Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez.
-
-    Cours de ski de piste privé ou collectifs dans ces diverses stations, voici toutes nos offres pour vous :
+  content: "Découvrez tous nos cours de piste chez Ze Hero. Partez apprendre le ski,
+    progresser ou même vous perfectionner dans le ski de piste ou le ski alpin. Nous
+    vous proposons un choix varié de cours de ski pour tous les niveaux. Vous trouverez
+    des cours pour les tout-petits avec la mise en place de cours de ski dans un jardin
+    d’enfants. Mais vous pourrez également réserver des cours de ski pour les enfants
+    ainsi que les adolescents. Réservez également des cours de ski pour les adultes
+    quel que soit votre niveau.\n\nVous pourrez toutes nos offres dans une multitude
+    de stations de ski tel que Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes,
+    l'Alpe d'Huez.  \nVous ne savez pas quoi choisir entre un cours privé et un cours
+    collectif ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**
+    \n\nCours de ski de piste privé ou collectifs dans ces diverses stations, voici
+    toutes nos offres pour vous :"
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours collectifs de ski enfants
@@ -93,6 +99,41 @@ page_sections:
     image_alt: Skieur en virage sur une piste de ski
     title: Cours collectif adulte de ski à Val Thorens
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos cours privés de ski
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Ski-descente_fo1bqg.jpg
+    image_alt: Un skieur sur les pistes de ski
+    title: Cours privé de ski à Val Thorens
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Skieuse-soleil_jixafv.jpg
+    image_alt: Une personne de dos avec un casque de ski
+    title: Cours privé de ski à Méribel
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996210/website/winter/278543636_10062359407168773_4445107599426939386_n.jpg
+    image_alt: Un moniteur et son élève sur les pistes de ski
+    title: Cours privé de ski aux Menuires
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640090973/website/winter/nicolai-berntsen-VXiG4N229uY-unsplash_fniyut.jpg
+    image_alt: Personne en virage sur une piste de ski
+    title: Cours privé de ski à l'Alpe d'Huez
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825166/website/winter/debuter-le-ski-pour-adultes-avec-prosneige-_dou0sp.jpg
+    image_alt: Un moniteur tenant par la main une skieuse
+    title: Cours privé de ski à Val d'Isère
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641910676/website/winter/daniel-frank-z971mh5y47c-unsplash_fwn0fu.jpg
+    image_alt: Un skieur descendant une piste de ski
+    title: Cours privé de ski à Tignes
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650905235/website/winter/Telesiege-amis-groupe_owkpc2.jpg
+    image_alt: Deux personnes sur une télésiège en ski
+    title: Cours privé de ski à Courchevel
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
 layout: layout_generic
 titleHome: Réservez votre cours de ski de piste chez Ze Hero
 conseil: ''
