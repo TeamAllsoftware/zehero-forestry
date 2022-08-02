@@ -57,7 +57,9 @@ page_sections:
     Un concept unique au cœur de Val Thorens.  \nVous pourrez réserver des cours de
     ski ou de snowboard quel que soit votre niveau. Les cours débutent dès l'âge de
     2/3ans avec une pédagogie spécialement conçue pour les bébés skieurs. Les groupes
-    seront scindés en fonction de leurs niveaux en ski et en snowboard."
+    seront scindés en fonction de leurs niveaux en ski et en snowboard.\n\nVous ne
+    savez pas choisir entre un cours privé ou un cours collectif ? Nous vous expliquons
+    toutes les différentes de ces cours dans notre [**page conseil**](/fr/hiver/conseils/cours-prive-cours-collectif)."
 - template: textarea
   blockBGcolor: blanc
   title: Les cours collectifs de ski à Val Thorens
@@ -71,11 +73,11 @@ page_sections:
   offreList:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996206/website/winter/272330231_9636082283129823_3776211539232788480_n.jpg
     image_alt: Groupe d'enfant au ski
-    title: Cours collectif enfant de ski
+    title: Cours collectifs enfants de ski
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357505/website/winter/269889239_9441375549267165_2049531082446778310_n.jpg
     image_alt: Des enfants marchant avec leur snowboard
-    title: Cours collectif enfant de snowboard
+    title: Cours collectifs enfants de snowboard
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001434/website/winter/_S9C8408.jpg
     image_alt: Groupe de skieur à Val Thorens
@@ -85,5 +87,25 @@ page_sections:
     image_alt: Groupe de personne en snowboard en cours
     title: Cours collectifs adultes de snowboard
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Les cours privés à Val Thorens
+  content: 'Découvrez les différents cours privés de ski et snowboard à Val Thorens
+    que l’école de ski Prosneige vous propose. Les cours privés sont des leçons qui
+    vous seront spécialement dédiées à vous ou votre famille pour 1h ou plus selon
+    vos envies. Les cours privés sont pour les enfants comme pour les adultes. Quels
+    que soient votre niveau, votre activité et vos envies, découvrez les différents
+    cours privés de ski et de snowboard à Val Thorens :'
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357495/website/winter/272167547_9618769364861115_989733963301003100_n.jpg
+    image_alt: Un enfant faisant du snowboard
+    title: Cours privé de snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357500/website/winter/269352434_9400316563373064_1730308594766498722_n.jpg
+    image_alt: Des personnes en cours de ski
+    title: Cours privé de snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
 
 ---
