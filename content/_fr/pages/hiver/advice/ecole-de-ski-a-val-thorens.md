@@ -10,7 +10,7 @@ title: Ecole de ski à Val Thorens
 titleHome: Ecole de ski à Val Thorens
 activite: ''
 conseil: Ecole de ski
-permalink: "/fr/hiver/conseil/ecole-ski-val-thorens"
+permalink: "/fr/hiver/conseils/ecole-ski-val-thorens"
 meta-title: Réservez un cours de ski - Ecoles de ski à Val Thorens
 meta-description: 'Vous désirez réservez un cours de ski à Val Thorens ? Découvrez
   les différentes écoles de ski et choisissez celle qui vous correspond le mieux afin
