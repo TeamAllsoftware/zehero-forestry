@@ -15,7 +15,7 @@ page_title: La Haute-Savoie
 baseline: Les hautes montagnes
 resort_nameid: haute_savoie
 resort_naming: Haute Savoie
-permalink: "/fr/hiver/destiantions/haute-savoie"
+permalink: "/fr/hiver/destinations/haute-savoie"
 meta-title: Activités outdoor en Haute Savoie pour l'hiver
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659334756/website/resorts/Les%20Houches/chris-biron-JVtcrWcbj1c-unsplash.jpg
 image01_alt: Montagne en neige vers Chamonix en Haute Savoie
