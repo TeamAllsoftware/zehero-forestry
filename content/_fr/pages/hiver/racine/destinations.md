@@ -24,10 +24,6 @@ page_sections:
 - template: listOffres
   blockBGcolor: blanc
   offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624275/website/Surf%20Atlantic/DSC_1440_ruy2qd.jpg
-    image_alt: Surfeuse à Saint Brévins les Pins
-    title: Nos activités en Loire Atlantique
-    url: "/fr/hiver/destinations/loire-atlantique"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825166/website/winter/A2104-190_c9ypfm.jpg
     image_alt: Moniteurs et des enfants en cours
     title: Nos activités en Savoie 73
@@ -44,6 +40,10 @@ page_sections:
     image_alt: Vue de la mer et de a ville de Nice
     title: Nos activités dans les Alpes Maritimes 06
     url: "/fr/hiver/destinations/alpes-maritimes"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624275/website/Surf%20Atlantic/DSC_1440_ruy2qd.jpg
+    image_alt: Surfeuse à Saint Brévins les Pins
+    title: Nos activités en Loire Atlantique 44
+    url: "/fr/hiver/destinations/loire-atlantique"
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
