@@ -39,8 +39,8 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
-    text_button: Réserver maintenant
+    href_button: "/fr/hiver/activite/reserver-ski-freeride"
+    text_button: Nos offres
   intro: Découvrez nos activités de ski freeride
   headline: Toutes nos offres
   blockBGcolor: blanc
