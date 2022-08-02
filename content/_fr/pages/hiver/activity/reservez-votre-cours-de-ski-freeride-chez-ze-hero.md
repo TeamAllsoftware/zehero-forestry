@@ -58,6 +58,10 @@ page_sections:
     title: Cours privés de ski freeride à Val Thorens
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
     image_alt: Personne faisant du ski freeride
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg
+    image_alt: Personne marchant avec ses skis en freeride
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
+    title: Cours privés de ski freeride à Courchevel
 layout: layout_generic
 titleHome: Réservez votre cours de ski freeride chez Ze Hero
 conseil: ''
