@@ -13,7 +13,7 @@ resort_naming: Tignes
 title: Tignes et ses activités outdoor d'hiver
 titleHome: Les activités à Tignes
 activite: 
-level: 2
+level: 1
 enHome: 2
 meta-title: Activités outdoor à Tignes pour l'hiver
 meta-description: Cette station située dans la Haute Tarentaise à 2000 m d'altitude
