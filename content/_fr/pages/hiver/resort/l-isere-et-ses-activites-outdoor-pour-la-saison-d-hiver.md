@@ -62,7 +62,7 @@ page_sections:
   offreList: []
 type: generic
 level: 1
-listMother: 2
+listMother: 1
 titleHome: Les activités en Isère 38
 activite: ''
 conseil: ''
