@@ -106,6 +106,10 @@ page_sections:
 - template: listOffres
   blockBGcolor: blanc
   offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659426621/website/winter/patrick-hodskins-UOc5AwGiTlA-unsplash.jpg
+    image_alt: Personne faisant du snowboard sur les pistes
+    title: Cours privés de snowboard à Val d'Isère
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996208/website/winter/269953238_9469347713136615_5695710698913094842_n.jpg
     image_alt: Snowboardeur en freeride
     title: Cours privé de snowboard à l'Alpe d'Huez
