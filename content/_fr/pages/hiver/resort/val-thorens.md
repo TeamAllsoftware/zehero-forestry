@@ -12,7 +12,7 @@ resort_naming: Val-Thorens
 title: Val-Thorens et ses activités outdoor d'hiver
 titleHome: Nos activités à Val Thorens
 activite: 
-level: 2
+level: 1
 enHome: 2
 meta-title: Activités outdoor à Val-Thorens pour l'hiver
 meta-description: Découvrez cette station de ski perché à 2300m d'altitude dans la
