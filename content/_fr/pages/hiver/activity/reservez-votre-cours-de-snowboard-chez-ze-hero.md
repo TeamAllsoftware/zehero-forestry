@@ -68,6 +68,33 @@ page_sections:
   blockBGcolor: blanc
   title: Cours collectifs adultes de snowboard
   content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357497/website/winter/272172059_9628804910524227_4698524840339624229_n.jpg
+    image_alt: Groupe de snowboard sur un télésiège
+    title: Cours collectifs adultes de snowboard à Tignes
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357494/website/winter/272297635_9672235216181196_9157146173453775185_n.jpg
+    image_alt: Groupe de snowboard sur la piste avec un moniteur
+    title: Cours collectifs adultes de snowboard à Méribel
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001442/website/winter/snow_adulte.jpg
+    image_alt: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001442/website/winter/snow_adulte.jpg
+    title: Cours collectifs adultes de snowboard à Val d'Isère
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001432/website/winter/klein-2.jpg
+    image_alt: Personne sautant sur un big airbag en snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
+    title: Cours collectifs adultes de snowboard à l'Alpe d'Huez
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883536/website/winter/Snowboard-freestyle-ride_luennl.jpg
+    image_alt: Personne faisant du snowboard freestyle
+    title: Cours collectifs adultes de snowboard aux Menuires
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883532/website/winter/Snowboard-marche_prsset.jpg
+    image_alt: Une femme tenant son snowboard dans la neige
+    title: Cours collectifs adultes de snowboard à Val Thorens
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
 layout: layout_generic
 titleHome: Réservez votre cours de snowboard chez Ze Hero
 conseil: ''
