@@ -39,6 +39,9 @@ page_sections:
     s'amuser sur la neige.  \nVotre moniteur vous apprendra la technique du VTT, comment
     bien descendre mais aussi comment bien montée.\n\nDécouvrez nos offres de Fatbike
     électrique dans le Grand Revard en Savoie :"
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
 layout: layout_generic
 titleHome: Réservez votre sortie en Fatbike chez Ze Hero
 conseil: ''
