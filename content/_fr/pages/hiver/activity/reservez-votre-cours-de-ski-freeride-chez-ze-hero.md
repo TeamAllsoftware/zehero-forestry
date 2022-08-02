@@ -30,4 +30,6 @@ page_sections:
 
     Vous pourrez trouver ces cours freerides dans de nombreuses stations tels que Val Thorens, Les Menuires, Val d'Isère, Tignes, Courchevel, Méribel et l'Alpe d'Huez.
 
+    Découvrez toutes nos offres de cours privés de ski Freeride chez Ze Hero :
+
 ---
