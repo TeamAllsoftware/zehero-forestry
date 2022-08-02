@@ -51,5 +51,6 @@ page_sections:
     Vous pourrez réserver des cours de ski ou de snowboard quel que soit votre niveau. Les cours débutent dès l'âge de 2/3ans avec une pédagogie spécialement conçue pour les bébés skieurs. Les groupes seront scindés en fonction de leurs niveaux en ski et en snowboard.
 - template: heroBreadcrumb
   title: Les différents cours de ski à Val Thorens
+published: false
 
 ---
