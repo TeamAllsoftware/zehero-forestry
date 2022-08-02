@@ -20,7 +20,7 @@ page_sections:
     color: white
   Button1:
     title: Votre destination
-    link: "/fr/destinations/trouver-destination-activites"
+    link: "/fr/destinations-activites-outdoor-hiver"
   Button2:
     title: ''
     link: ''
