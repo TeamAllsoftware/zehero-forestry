@@ -27,11 +27,6 @@ page_sections:
   headtitle:
     headline: ZE HERO propose
     title: Des activités pour la saison hivernale
-- template: listServices2
-  blockBGcolor: gris
-  service: activity
-  filterLevel: 1
-  listMother: 1
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
