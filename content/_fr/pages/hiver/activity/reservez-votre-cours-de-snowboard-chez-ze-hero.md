@@ -64,6 +64,10 @@ page_sections:
     image_alt: Groupe enfant en snowboard
     title: Cours collectif enfants de snowboard à Tignes
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357495/website/winter/272167547_9618769364861115_989733963301003100_n.jpg
+    image_alt: Un enfant en snowboard
+    title: Cours collectifs enfants de snowboard à l'Alpe d'Huez
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
 - template: textarea
   blockBGcolor: blanc
   title: Cours collectifs adultes de snowboard
@@ -95,6 +99,37 @@ page_sections:
     image_alt: Une femme tenant son snowboard dans la neige
     title: Cours collectifs adultes de snowboard à Val Thorens
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Cours privé de snowboard
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996208/website/winter/269953238_9469347713136615_5695710698913094842_n.jpg
+    image_alt: Snowboardeur en freeride
+    title: Cours privé de snowboard à l'Alpe d'Huez
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650905235/website/winter/Telesiege-amis-groupe_owkpc2.jpg
+    image_alt: 'Deux personnes avant un casque sur un télésiège '
+    title: Cours privé de snowboard à Méribel
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883542/website/winter/Snowboard-saut-neige_t0coxa.jpg
+    image_alt: Snowboardeur en freestyle sur un big air
+    title: Cours privé de snowboard aux Menuires
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Snowboard-rider-debout_oecizy.jpg
+    image_alt: Une personne debout avec sa planche de snowboard
+    title: Cours privé de snowboard à Val Thorens
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659426621/website/winter/jorg-angeli-cCzeLwUCmnM-unsplash.jpg
+    image_alt: Personne en big air en freestyle
+    title: Cours privés de snowboard à Tignes
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659426621/website/winter/jeffrey-brandjes-7cLqEYJws8E-unsplash.jpg
+    image_alt: Personne en freestyle en rail
+    title: Cours privés de snowboard à Courchevel
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
 layout: layout_generic
 titleHome: Réservez votre cours de snowboard chez Ze Hero
 conseil: ''
