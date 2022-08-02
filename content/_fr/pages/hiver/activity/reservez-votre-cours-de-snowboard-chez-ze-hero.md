@@ -64,6 +64,10 @@ page_sections:
     image_alt: Groupe enfant en snowboard
     title: Cours collectif enfants de snowboard à Tignes
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Cours collectifs adultes de snowboard
+  content: " "
 layout: layout_generic
 titleHome: Réservez votre cours de snowboard chez Ze Hero
 conseil: ''
