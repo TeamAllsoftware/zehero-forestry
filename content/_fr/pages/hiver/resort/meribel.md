@@ -12,7 +12,7 @@ resort_naming: Méribel
 title: Méribel et ses activités outdoor d'hiver
 titleHome: Nos activités à Méribel
 activite: ''
-level: 1
+level: 2
 enHome: 2
 meta-title: Activités outdoor à Méribel pour l'hiver
 meta-description: Méribel est composé de plusieurs villages et fait parti du domaine
@@ -82,7 +82,7 @@ introduction:
     station.
   zehero_advice: ZE HERO vous conseille pour louer des skis, des chaussures de ski,
     des casques et beaucoup d'autres équipements pour toute votre famille
-listMother: 1
+listMother: 2
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 conseil: ''
 
