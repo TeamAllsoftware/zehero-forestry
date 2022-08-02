@@ -105,7 +105,7 @@ page_sections:
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357500/website/winter/269352434_9400316563373064_1730308594766498722_n.jpg
     image_alt: Des personnes en cours de ski
-    title: Cours privé de snowboard
+    title: Cours privé de ski
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
 
 ---
