@@ -13,7 +13,7 @@ topnav_color_text: dark
 page_sections:
 - template: heroImageFull
   top: oui
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883535/website/winter/Sourire-neige-femme_rucodo.jpg
+  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825166/website/winter/A2104-190_c9ypfm.jpg
   gradient: grad
   headline:
     title: Le meilleur des activités outdoor
