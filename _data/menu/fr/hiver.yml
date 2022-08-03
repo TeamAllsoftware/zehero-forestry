@@ -41,6 +41,29 @@ menu:
       href: "/fr/hiver/activites/fatbike-electrique-hiver"
     - title: Trail Running
       href: "/fr/hiver/activites/trail-running"
+- title: Louer du matériel
+  id: eshop
+  title-link: "/fr/hiver/activite/location"
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638823072/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg
+  image-alt: Cabine remplis de ski
+  image-link: https://shop.ze-hero.com/fr/location-materiel
+  txt-button: Louer
+  column-01:
+  - nested: Location de Matériel
+    menu-items:
+    - title: Location Val Thorens
+      href: ''
+    - title: Location Val d'Isère
+      href: ''
+    - title: Location Méribel
+      href: ''
+    - title: Location Alpe d'Huez
+      href: ''
+    - title: Location Les Menuires
+      href: ''
+    - title: Location Alpes Maritimes
+      href: ''
+  column-02: ''
 - title: Acheter
   id: ''
   title-link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
