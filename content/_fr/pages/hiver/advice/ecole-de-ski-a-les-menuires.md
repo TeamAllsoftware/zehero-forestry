@@ -80,5 +80,27 @@ page_sections:
     image_alt: Moniteur de snowboard en hors piste
     title: Cours privé de snowboard
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Les écoles de ski Ze Hero à Les Menuires
+  content: "Vous retrouverez dans la station de Les Menuires plusieurs écoles de ski
+    qui proposeront des cours collectifs et des cours privés de ski, pour les enfants
+    et pour les adultes. Ils proposent également des cours de snowboard, de ski freeride,
+    de ski de randonnée, des balades en raquettes et des activités pour les enfants.
+    \  \nChacune des écoles de ski des Menuires fonctionnent différemment et proposeront
+    des services et des offres différentes.\n\nDécouvrez les écoles de ski à Les Menuires
+    qui sont en partenariat avec Ze Hero. Vous retrouvez l’école de ski Prosneige
+    qui est une école de ski indépendante. Elle vous proposera des cours collectifs
+    ou privés de ski et de snowboard pour les enfants et adultes. Cette école de ski
+    met à disposition des moniteurs qui sont bilingues et même trilingues et qui seront
+    à votre écoute durant tous vos cours de ski.  \nL'école de ski Prosneige à Les
+    Menuires vous permettra aussi de louer ou d'acheter votre matériel de ski. En
+    effet, Prosneige dispose d'un magasin de vente et de location de ski et de snowboard
+    devant le front de neige des Menuires. Les enfants et tout petits pourront disposer
+    d'un tapis et d'un jardin d'enfants pour un apprentissage unique.  \nVous pourrez
+    réserver des cours de ski ou de snowboard quel que soit votre niveau. Les cours
+    débutent dès l'âge de 2/3ans avec une pédagogie spécialement conçue pour les bébés
+    skieurs. Les groupes seront scindés en fonction de leurs niveaux en ski et en
+    snowboard."
 
 ---
