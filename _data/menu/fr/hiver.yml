@@ -49,7 +49,7 @@ menu:
   image-link: https://shop.ze-hero.com/fr/location-materiel
   txt-button: Louer
   column-01:
-  - nested: Louer votre équipement
+  - nested: Où louer ?
     menu-items:
     - title: Location Val Thorens
       href: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
