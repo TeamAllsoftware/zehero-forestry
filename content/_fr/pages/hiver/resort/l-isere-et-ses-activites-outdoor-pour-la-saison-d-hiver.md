@@ -51,8 +51,24 @@ page_sections:
   title: Nos activités en Isère
   content: " "
 - template: listOffres
-  blockBGcolor: gris
-  offreList: []
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996210/website/winter/278543636_10062359407168773_4445107599426939386_n.jpg
+    image_alt: Skieurs sur une piste en virages
+    title: Le ski
+    url: "/fr/hiver/activites/reserver-cours-ski-piste"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996208/website/winter/269953238_9469347713136615_5695710698913094842_n.jpg
+    image_alt: Snowboardeur en hors-piste
+    title: Le Snowboard
+    url: "/fr/hiver/activites/reserver-cours-snowboard"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001438/website/winter/1_Sylvain-Aymoz30122017.jpg
+    image_alt: Construction d'un igloo
+    title: Activités pour les enfants
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+  - image_alt: Skieur en hors-piste
+    url: "/fr/hiver/activite/reserver-ski-freeride"
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001449/website/winter/shutterstock_1120866635.jpg
+    title: Le ski freeride
 - template: textarea
   blockBGcolor: blanc
   title: Nos locations en Isère
