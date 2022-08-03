@@ -31,5 +31,33 @@ page_sections:
     Pour comprendre " **Comment choisir son école de ski ?** " découvrez toutes les informations et nos conseils dans en [**cliquant ici**](/fr/hiver/conseils/choisir-ecole-de-ski) !
 
     Vous ne savez pas choisir entre un cours privé ou un cours collectif ? Nous vous expliquons toutes les différentes de ces cours dans notre [**page conseil**](/fr/hiver/conseils/cours-prive-cours-collectif).
+- template: textarea
+  blockBGcolor: blanc
+  title: Les cours collectifs de ski à Val d'Isère
+  content: "Voici les différents cours collectifs de ski et de snowboard à Val d'Isère
+    pour les enfants et pour les adultes. Les groupes sont scindés en différents groupes
+    de niveaux afin que vous puissiez progresser dans un groupe homogène.. Les cours
+    collectifs sont prévus pour 5 à 6 jours le matin ou l’après-midi.  \nVoici les
+    offres de cours collectifs de ski ou snowboard pour les enfants ou les adultes
+    à Val d'Isère :"
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357508/website/winter/278572408_23885291927782287_5643436219991857318_n.jpg
+    image_alt: Groupe d'enfant en cours collectifs
+    title: Cours collectifs enfants de ski
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357497/website/winter/272172059_9628804910524227_4698524840339624229_n.jpg
+    image_alt: Groupe d'enfant en cours de snowboard sur un télésiege
+    title: Cours collectifs enfants de snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
+    image_alt: Snowboardeur en freeride
+    title: Cours collectifs adultes de snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357674/website/winter/248245560_9115998445138212_3763588150271873040_n.jpg
+    image_alt: Groupe de ski en cours collectif
+    title: Cours collectifs adultes de ski
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
 
 ---
