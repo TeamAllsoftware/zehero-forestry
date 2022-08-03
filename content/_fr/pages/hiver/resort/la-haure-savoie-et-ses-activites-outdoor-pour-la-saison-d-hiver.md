@@ -58,10 +58,10 @@ page_sections:
     url: https://www.montblancescalade.com/fr
 - template: textarea
   blockBGcolor: blanc
-  title: Nos locations en Haute Savoie
+  title: Nos locations de matériel en Haute Savoie
   content: " "
 - template: listOffres
-  blockBGcolor: gris
+  blockBGcolor: blanc
   offreList: []
 type: generic
 level: 1
