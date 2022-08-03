@@ -80,5 +80,26 @@ page_sections:
     image_alt: Une personne faisant du snowboard
     title: Cours privé de snowboard
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Les écoles de ski Ze Hero à Val d'Isère
+  content: "Dans la station Val d'Isère, vous retrouverez un choix varié d'écoles
+    de ski. Il y aura les écoles de ski françaises ainsi que les écoles de ski indépendantes.
+    Chacune proposera des cours collectifs et/ou privés pour les enfants comme pour
+    les adultes. Elles vont se différencier par leurs systèmes de fonctionnement,
+    les horaires, le nombre de personne maximal dans les groupes ainsi que leurs prix.
+    Vous pourrez également pratiquer diverses activités de ski et de snowboard tel
+    que la randonnée, le freeride et le freestyle. Afin d'avoir des cours de ski approprié
+    à vos attentes et vos envies, il est important de bien choisir son école de ski
+    à Val d'Isère.\n\nChez Ze Hero, l’école de ski Prosneige à Val d’Isère est en
+    partenariat afin de vous proposer les meilleures offres. Cette école vous proposera
+    des cours collectifs ou particuliers de ski et de snowboard. Des moniteurs bilingues
+    et même trilingues seront à votre écoute durant tous vos cours de ski. L'école
+    de ski Prosneige à Val d'Isère vous permet de louer et d'acheter votre matériel
+    en plus des cours. En effet, Prosneige dispose d'un magasin de vente et de location
+    de ski et de snowboard.  \nVous pourrez réserver des cours de ski ou de snowboard
+    quel que soit votre niveau. Les cours débutent dès l'âge de 2/3ans avec une pédagogie
+    spécialement conçue pour les bébés skieurs. Les groupes seront scindés en fonction
+    de leurs niveaux en ski et en snowboard."
 
 ---
