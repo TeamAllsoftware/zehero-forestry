@@ -72,19 +72,19 @@ page_sections:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996210/website/winter/278543636_10062359407168773_4445107599426939386_n.jpg
     image_alt: Skieurs sur une piste en virages
     title: Le ski
-    url: "/fr/hiver/activites/ski-de-piste"
+    url: "/fr/hiver/activites/reserver-cours-ski-piste"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996208/website/winter/269953238_9469347713136615_5695710698913094842_n.jpg
     image_alt: Snowboardeur en hors-piste
     title: Snowboard
-    url: "/fr/hiver/activites/snowboard"
+    url: "/fr/hiver/activites/reserver-cours-snowboard"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914893/website/winter/himiway-bikes-N7tJYvvIQVo-unsplash.jpg
     image_alt: Personne roulant en Fatbike électrique sur neige
     title: Le Fatbike électrique sur neige
-    url: "/fr/hiver/activites/fatbike-electrique-hiver"
+    url: "/fr/hiver/activites/reserver-sortie-fatbike-neige"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001438/website/winter/1_Sylvain-Aymoz30122017.jpg
     image_alt: Construction d'un igloo
     title: Activités pour les enfants
-    url: "/fr/hiver/activites/activites-pour-les-enfants"
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
 - template: textarea
   blockBGcolor: blanc
   title: Nos locations en Savoie
