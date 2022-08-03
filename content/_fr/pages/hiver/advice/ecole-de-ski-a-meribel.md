@@ -79,5 +79,28 @@ page_sections:
     image_alt: Un moniteur en cours privé avec un skieur
     title: Cours privé de ski
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Les écoles de ski Ze Hero à Méribel
+  content: "La station de Méribel est composée en plusieurs villages avec 2 villages
+    principaux : Méribel centre et Méribel-Mottaret. Vous retrouverez plusieurs écoles
+    de ski qui proposeront des cours collectifs et des cours privés de ski et de snowboard
+    pour les enfants et pour les adultes. Ils proposeront aussi des activités comme
+    le ski de randonnée, le ski freeride, des activités pour enfants ainsi que des
+    balades en raquettes. Les différentes écoles de ski de Méribel vont proposer chacune
+    des fonctionnements, des prix, des horaires différents. Elles ont aussi leurs
+    propres méthodes d'apprentissage.\n\nDécouvrez les écoles de ski à Méribel qui
+    sont en partenariat avec Ze Hero. Vous retrouvez l’école de ski Prosneige. Elle
+    vous proposera des cours collectifs ou privés de ski et de snowboard. Cette école
+    de ski met à disposition des moniteurs qui sont bilingues et même trilingues et
+    qui seront à votre écoute durant tous vos cours de ski. L'école de ski Prosneige
+    à Méribel est une école de ski indépendante qui vous permet de prendre des cours
+    de ski mais également de louer ou d'acheter votre matériel de ski. En effet, Prosneige
+    dispose d'un magasin de vente et de location de ski et de snowboard au sein de
+    la station de Méribel Centre. Pour les tout petits skieurs, un jardin d'enfants
+    est à disposition.  \nVous pourrez réserver des cours de ski ou de snowboard quel
+    que soit votre niveau. Les cours débutent dès l'âge de 2/3ans avec une pédagogie
+    spécialement conçue pour les bébés skieurs. Les groupes seront scindés en fonction
+    de leurs niveaux en ski et en snowboard."
 
 ---
