@@ -52,17 +52,17 @@ menu:
   - nested: Louer votre équipement
     menu-items:
     - title: Location Val Thorens
-      href: ''
+      href: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
     - title: Location Val d'Isère
-      href: ''
+      href: https://shop.ze-hero.com/fr/location-materiel?station=val-disere&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
     - title: Location Méribel
-      href: ''
+      href: https://shop.ze-hero.com/fr/location-materiel?station=meribel&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
     - title: Location Alpe d'Huez
-      href: ''
+      href: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
     - title: Location Les Menuires
-      href: ''
+      href: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
     - title: Location Alpes Maritimes
-      href: ''
+      href: https://shop.ze-hero.com/fr/location-materiel?station=alpes-maritimes-06&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
   column-02: ''
 - title: Acheter
   id: ''
