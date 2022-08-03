@@ -24,15 +24,10 @@ page_sections:
 - template: heroBreadcrumb
   title: Nos activités aux Menuires
 - template: textarea
-  content: La station de ski Les Menuires est située dans la vallée des Bellevilles.
-    Ski aux pieds devant votre logement, profitez de cette station au tempérament
-    familiale, conviviale et sportive. Plongé dans le domaine Les 3 Vallées, le ski
-    n'aura pas de limite. Une station authentique et contemporaine par son architecture.
-    Elle offrira un bel ensoleillement et une très bonne qualité de neige par son
-    altitude et sa température. Profitez de 160 km de piste au sein de la station
-    Les Menuires. Elles proposent tous les types de pistes, pour tous les goûts et
-    les niveaux. Vous trouverez également des zones ludiques comme le Pixel Area,
-    les snowparks, le bordercross et pour les petits le Friendly Natural Park.
+  content: |-
+    La station de ski Les Menuires est située dans la vallée des Bellevilles. Ski aux pieds devant votre logement, profitez de cette station au tempérament familiale, conviviale et sportive. Plongé dans le domaine Les 3 Vallées, le ski n'aura pas de limite. Une station authentique et contemporaine par son architecture. Elle offrira un bel ensoleillement et une très bonne qualité de neige par son altitude et sa température. Profitez de 160 km de piste au sein de la station Les Menuires. Elles proposent tous les types de pistes, pour tous les goûts et les niveaux. Vous trouverez également des zones ludiques comme le Pixel Area, les snowparks, le bordercross et pour les petits le Friendly Natural Park.
+
+    Découvrez les différentes écoles de ski des Menuires afin de réserver un cours de ski collectif ou privé dans notre page : [**Ecole de ski à Les Menuires**](/fr/hiver/conseils/ecole-ski-les-menuires)
   title: Les Menuires
 - template: textarea
   blockBGcolor: blanc
