@@ -69,7 +69,15 @@ page_sections:
     niveau, votre activité et vos envies, découvrez les différents cours privés de
     ski et de snowboard à Méribel :'
 - template: listOffres
-  blockBGcolor: gris
-  offreList: []
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001442/website/winter/snow_adulte.jpg
+    image_alt: Deux personnes en snowboard
+    title: Cours privé de snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641825166/website/winter/debuter-le-ski-pour-adultes-avec-prosneige-_dou0sp.jpg
+    image_alt: Un moniteur en cours privé avec un skieur
+    title: Cours privé de ski
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
 
 ---
