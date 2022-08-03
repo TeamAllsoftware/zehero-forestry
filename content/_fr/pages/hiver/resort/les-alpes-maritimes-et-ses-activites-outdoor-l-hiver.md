@@ -45,21 +45,29 @@ page_sections:
   title: Nos destinations dans les Alpes Maritimes
   content: " "
 - template: listOffres
-  blockBGcolor: gris
+  blockBGcolor: blanc
   offreList: []
 - template: textarea
   blockBGcolor: blanc
   title: Nos activités dans les Alpes Maritimes
   content: " "
 - template: listOffres
-  blockBGcolor: gris
-  offreList: []
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650530024/website/By%20Ze%20Hero%20Activity/IMG_20200730_110623.jpg
+    image_alt: Personnes randonnant en montagne dans le Mercantour
+    title: La randonnée
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Nice&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Randonn%C3%A9e&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655970333/website/By%20Ze%20Hero%20Activity/IMG20220612105528_1.jpg
+    image_alt: Traileur courant dans les Préalpes d'azur
+    title: Le Trail
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 - template: textarea
   blockBGcolor: blanc
   title: Nos locations dans les Alpes Maritimes
   content: " "
 - template: listOffres
-  blockBGcolor: gris
+  blockBGcolor: blanc
   offreList: []
 type: generic
 level: 1
