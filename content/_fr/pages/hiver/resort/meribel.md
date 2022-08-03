@@ -29,11 +29,12 @@ page_sections:
     les plus sportifs, des espaces ludiques dans la forêt avec le Yooni le Yéti, la
     mascotte de Méribel, vous profiterez pleinement. Vous trouverez également un des
     meilleurs snowpark d'Europe avec le DC Area 43. La station de ski de Méribel est
-    composée de plusieurs villages :  \n\\- Les Allues  \n\\- Méribel Centre  \n\\-
-    Méribel Village  \n\\- Méribel Mottaret  \nSituée entre 1400m et 1800m d'altitude,
-    Méribel est une station au charme traditionnelle savoyard avec ses chalets en
-    bois et en pierre. Avec les 3 vallées, elle bénéficie du plus grand domaine du
-    monde."
+    composée de plusieurs villages : Les Allues / Méribel Centre / Méribel Village
+    / Méribel Mottaret.  \nSituée entre 1400m et 1800m d'altitude, Méribel est une
+    station au charme traditionnelle savoyard avec ses chalets en bois et en pierre.
+    Avec les 3 vallées, elle bénéficie du plus grand domaine du monde.\n\nDécouvrez
+    les écoles de ski à Méribel et leurs différents cours de ski et de snowboard dans
+    notre page : [**Ecole de ski à Méribel**](/fr/hiver/conseils/ecole-ski-meribel)"
   title: Méribel
   blockBGcolor: ''
 - template: textarea
