@@ -59,7 +59,7 @@ page_sections:
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 - template: textarea
   blockBGcolor: blanc
-  title: Nos locations en Loire Atlantique
+  title: Nos locations de matériel en Loire Atlantique
   content: " "
 - template: listOffres
   blockBGcolor: blanc
