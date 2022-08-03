@@ -71,6 +71,14 @@ page_sections:
     de snowboard à Les Menuires :'
 - template: listOffres
   blockBGcolor: blanc
-  offreList: []
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001495/website/winter/A04-13-113.jpg
+    image_alt: Moniteur de ski dans la poudreuse
+    title: Cours privé de ski
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001478/website/winter/VT_1207.jpg
+    image_alt: Moniteur de snowboard en hors piste
+    title: Cours privé de snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
 
 ---
