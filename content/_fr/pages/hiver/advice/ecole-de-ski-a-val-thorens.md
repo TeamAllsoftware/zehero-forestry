@@ -60,7 +60,7 @@ page_sections:
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
 - template: textarea
   blockBGcolor: blanc
-  title: Les cours privés à Val Thorens
+  title: Les cours privés de ski à Val Thorens
   content: 'Découvrez les différents cours privés de ski et snowboard à Val Thorens
     que l’école de ski Prosneige vous propose. Les cours privés sont des leçons qui
     vous seront spécialement dédiées à vous ou votre famille pour 1h ou plus selon
