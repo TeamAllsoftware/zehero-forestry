@@ -42,7 +42,7 @@ menu:
     - title: Trail Running
       href: "/fr/hiver/activites/trail-running"
 - title: Louer du matériel
-  id: eshop
+  id: "3"
   title-link: "/fr/hiver/activite/location"
   image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638823072/website/winter/kipras-streimikis-39-0VXkvcbw-unsplash_1_vn6fnt.jpg
   image-alt: Cabine remplis de ski
