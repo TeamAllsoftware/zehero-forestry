@@ -59,5 +59,15 @@ page_sections:
     image_alt: Groupe de ski en cours collectif
     title: Cours collectifs adultes de ski
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Les cours privés de ski à Val d'Isère
+  content: 'Les cours privés de ski à Val d''Isère sont des cours spécialement dédiées
+    à vous ou votre famille pour une durée d''1h ou plus selon vos envies. Ils sont
+    destinés aux enfants comme aux adultes et pour tous les niveaux. Les cours privés
+    à Val d''Isère vous permettent aussi de choisir votre activité tel que le ski,
+    le snowboard, le ski freeride, le ski de rando. Quels que soient votre niveau,
+    votre activité et vos envies, découvrez les différents cours privés de ski et
+    de snowboard à Val d''Isère :'
 
 ---
