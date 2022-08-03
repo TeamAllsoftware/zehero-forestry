@@ -44,8 +44,12 @@ page_sections:
   title: 'Nos destinations en Isère '
   content: " "
 - template: listOffres
-  blockBGcolor: gris
-  offreList: []
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640266010/website/resorts/alpe%20d%27huez/Alpes_dhuez_envzu0.jpg
+    image_alt: Vue de la station de ski l'Alpe d'Huez l'hiver
+    title: L'Alpe d'Huez
+    url: "/fr/hiver/destinations/alpe-d-huez"
 - template: textarea
   blockBGcolor: blanc
   title: Nos activités en Isère
