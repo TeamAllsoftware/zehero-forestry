@@ -51,14 +51,18 @@ page_sections:
   title: Nos activités en Loire Atlantique
   content: " "
 - template: listOffres
-  blockBGcolor: gris
-  offreList: []
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624276/website/Surf%20Atlantic/IMG_7885_dljybe.jpg
+    image_alt: Enfant prenant une vague en surf
+    title: Le surf
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 - template: textarea
   blockBGcolor: blanc
   title: Nos locations en Loire Atlantique
   content: " "
 - template: listOffres
-  blockBGcolor: gris
+  blockBGcolor: blanc
   offreList: []
 type: generic
 level: 1
