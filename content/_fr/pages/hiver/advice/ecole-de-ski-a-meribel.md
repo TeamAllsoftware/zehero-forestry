@@ -61,7 +61,7 @@ page_sections:
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
 - template: textarea
   blockBGcolor: blanc
-  title: Les cours privés à Méribel
+  title: Les cours privés de ski à Méribel
   content: 'Si vous préférez réserver un cours privé de ski ou de snowboard à Méribel,
     vous découvrirez plusieurs offres. Les cours privés sont des leçons qui seront
     spécialement dédiées à vous ou votre famille. Les enfants comme les adultes peuvent
