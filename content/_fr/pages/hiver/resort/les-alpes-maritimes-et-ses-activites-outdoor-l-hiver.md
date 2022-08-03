@@ -64,7 +64,7 @@ page_sections:
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
 - template: textarea
   blockBGcolor: blanc
-  title: Nos locations dans les Alpes Maritimes
+  title: Nos locations de matériel dans les Alpes Maritimes
   content: " "
 - template: listOffres
   blockBGcolor: blanc

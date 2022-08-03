@@ -75,10 +75,10 @@ page_sections:
     title: Le ski freeride
 - template: textarea
   blockBGcolor: blanc
-  title: Nos locations en Isère
+  title: Nos locations de matériel en Isère
   content: " "
 - template: listOffres
-  blockBGcolor: gris
+  blockBGcolor: blanc
   offreList: []
 type: generic
 level: 1
