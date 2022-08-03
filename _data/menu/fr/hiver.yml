@@ -49,7 +49,7 @@ menu:
   image-link: https://shop.ze-hero.com/fr/location-materiel
   txt-button: Louer
   column-01:
-  - nested: Location de Matériel
+  - nested: Louer votre équipement
     menu-items:
     - title: Location Val Thorens
       href: ''
