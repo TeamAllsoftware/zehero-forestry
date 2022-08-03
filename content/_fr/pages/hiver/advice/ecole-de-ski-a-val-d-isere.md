@@ -69,5 +69,16 @@ page_sections:
     le snowboard, le ski freeride, le ski de rando. Quels que soient votre niveau,
     votre activité et vos envies, découvrez les différents cours privés de ski et
     de snowboard à Val d''Isère :'
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996210/website/winter/278543636_10062359407168773_4445107599426939386_n.jpg
+    image_alt: Cours privés de ski avec un moniteur et un élève
+    title: Cours privé de ski
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659426621/website/winter/patrick-hodskins-UOc5AwGiTlA-unsplash.jpg
+    image_alt: Une personne faisant du snowboard
+    title: Cours privé de snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
 
 ---
