@@ -44,7 +44,7 @@ page_sections:
   title: Nos destinations en Loire Atlantique
   content: " "
 - template: listOffres
-  blockBGcolor: gris
+  blockBGcolor: blanc
   offreList: []
 - template: textarea
   blockBGcolor: blanc
