@@ -87,7 +87,7 @@ page_sections:
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
 - template: textarea
   blockBGcolor: blanc
-  title: Nos locations en Savoie
+  title: Nos locations de matériel en Savoie
   content: " "
 - template: listOffres
   blockBGcolor: blanc
