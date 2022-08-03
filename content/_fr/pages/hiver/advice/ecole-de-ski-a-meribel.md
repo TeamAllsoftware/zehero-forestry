@@ -19,6 +19,57 @@ baseline: Ecole de ski à Méribel
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
-page_sections: []
+page_sections:
+- template: heroBreadcrumb
+  title: Ecole de ski à Méribel
+- template: textarea
+  blockBGcolor: blanc
+  title: Ecole de ski à Méribel
+  content: |-
+    Vous séjournez dans la station de Méribel et vous cherchez une école de ski à Méribel ? Vous désirez prendre des cours de ski car vous débutez ? Vous souhaitez vous perfectionner en snowboard ? Vous souhaitez que votre enfant aille dans un jardin d'enfant afin d'apprendre le ski ? Vous trouverez alors, au sein de Méribel et de Méribel-Mottaret plusieurs écoles de ski qui mettent en placent différents cours de ski et de snowboard. Réservez des cours de ski pour les enfants, pour les adolescents et pour les adultes dans la station de Méribel.
+
+    Pour comprendre " **Comment choisir son école de ski ?** " découvrez toutes les informations et nos conseils dans en [**cliquant ici**](/fr/hiver/conseils/choisir-ecole-de-ski) !
+
+    Vous ne savez pas choisir entre un cours privé ou un cours collectif ? Nous vous expliquons toutes les différentes de ces cours dans notre [**page conseil**](/fr/hiver/conseils/cours-prive-cours-collectif).
+- template: textarea
+  blockBGcolor: blanc
+  title: Les cours collectifs de ski à Méribel
+  content: "Découvrez et réservez un cours collectif de ski ou de snowboard à Méribel.
+    Quel que soit votre niveau, les groupes des cours collectifs sont composés par
+    niveau afin d'évoluer dans un groupe homogène, ludique et convivial.  \nLes cours
+    collectifs sont prévus pour 5 à 6 jours le matin ou l’après-midi.  \nVoici les
+    offres de cours collectifs de ski ou snowboard pour les enfants ou les adultes
+    à Méribel :"
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996210/website/winter/275128300_9875680909169958_2920998395355154908_n.jpg
+    image_alt: Groupe d'enfant en cours de ski
+    title: Cours collectifs enfants de ski
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357505/website/winter/269889239_9441375549267165_2049531082446778310_n.jpg
+    image_alt: Enfant marchant avec des snowboards
+    title: Cours collectifs enfants de snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658933182/website/winter/_S9C8402.jpg
+    image_alt: Groupe de skieurs en cours de ski
+    title: Cours collectifs adultes de ski
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357494/website/winter/272297635_9672235216181196_9157146173453775185_n.jpg
+    image_alt: Groupe adultes en cours de snobwoard
+    title: Cours collectifs adultes de snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Les cours privés à Méribel
+  content: 'Si vous préférez réserver un cours privé de ski ou de snowboard à Méribel,
+    vous découvrirez plusieurs offres. Les cours privés sont des leçons qui seront
+    spécialement dédiées à vous ou votre famille. Les enfants comme les adultes peuvent
+    prendre un cours privé pour 1h ou plus selon les envies. Quels que soient votre
+    niveau, votre activité et vos envies, découvrez les différents cours privés de
+    ski et de snowboard à Méribel :'
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
 
 ---
