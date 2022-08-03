@@ -40,5 +40,24 @@ page_sections:
     ou l’après-midi et ils sont pour les enfants, les adolescents et pour les adultes.
     \  \nVoici les offres de cours collectifs de ski ou snowboard pour les enfants
     ou les adultes à Les Menuires :"
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001433/website/winter/Claire_et_Pauline2.jpg
+    image_alt: Monitrice et un enfant en ski
+    title: Cours collectifs enfants de ski
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641898596/website/winter/slide-4-prosneige-cours-location-ecole-ski-snowboard_mezbdr.jpg
+    image_alt: Cours collectifs de snowboard
+    title: Cours collectifs enfants de snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357496/website/winter/271763322_9566943013377084_2709945349720359422_n.jpg
+    title: Cours collectifs adultes de ski
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
+    image_alt: Deux moniteurs de ski et snowboard en montagne
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357494/website/winter/272297635_9672235216181196_9157146173453775185_n.jpg
+    image_alt: Groupe de cours collectifs de snowboard
+    title: Cours collectifs adultes de snowboard
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
 
 ---
