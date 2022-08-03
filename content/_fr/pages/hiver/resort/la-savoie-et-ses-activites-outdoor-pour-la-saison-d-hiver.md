@@ -90,7 +90,7 @@ page_sections:
   title: Nos locations en Savoie
   content: " "
 - template: listOffres
-  blockBGcolor: gris
+  blockBGcolor: blanc
   offreList: []
 type: generic
 level: 1
