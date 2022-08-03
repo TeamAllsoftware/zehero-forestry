@@ -24,17 +24,10 @@ page_sections:
 - template: heroBreadcrumb
   title: Nos activités à Val d'Isère
 - template: textarea
-  content: La station de ski de Val d'Isère est un village authentique et très élégant
-    situé à 1850m d'altitude. Située dans la Haute Tarentaise, cette station offre
-    un panel d'activité, un domaine skiable incroyable et d'un enneigement exceptionnel.
-    Vous pourrez glisser sur 146 pistes et un espace de 300km de piste relié à Tignes
-    (Espace Killy). Un terrain de jeu incroyable pour tous les amateurs de ski. Considérée
-    comme l'une des meilleures stations de France, elle offre une qualité de ski haut
-    de gamme, une station de prestige et de charme. Son domaine est aussi réputé mondialement
-    pour son hors piste. Vous trouverez également des snowpark et bordercross pour
-    tous les amoureux du freestyle. La station est un grand village authentique et
-    très élégant. C'est une station où les pistes sont très proches du villages et
-    vous permettent alors de partir rapidement skis aux pieds.
+  content: |-
+    La station de ski de Val d'Isère est un village authentique et très élégant situé à 1850m d'altitude. Située dans la Haute Tarentaise, cette station offre un panel d'activité, un domaine skiable incroyable et d'un enneigement exceptionnel. Vous pourrez glisser sur 146 pistes et un espace de 300km de piste relié à Tignes (Espace Killy). Un terrain de jeu incroyable pour tous les amateurs de ski. Considérée comme l'une des meilleures stations de France, elle offre une qualité de ski haut de gamme, une station de prestige et de charme. Son domaine est aussi réputé mondialement pour son hors piste. Vous trouverez également des snowpark et bordercross pour tous les amoureux du freestyle. La station est un grand village authentique et très élégant. C'est une station où les pistes sont très proches du villages et vous permettent alors de partir rapidement skis aux pieds.
+
+    Afin de trouvez et de réservez les meilleurs cours de ski pour vous, découvrez tous les informations sur les écoles de ski de Val d'Isère dans notre page : [**Ecole de ski à Val d'Isère**](/fr/hiver/conseils/ecole-ski-val-disere)
   title: Val d'Isère
 - template: textarea
   blockBGcolor: blanc

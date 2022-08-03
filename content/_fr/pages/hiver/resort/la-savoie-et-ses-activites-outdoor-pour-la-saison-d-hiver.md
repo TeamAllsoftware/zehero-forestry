@@ -15,7 +15,7 @@ page_title: La Savoie
 baseline: Savoie
 resort_nameid: Savoie
 resort_naming: Savoie
-permalink: "/fr/hiver/destination/savoie"
+permalink: "/fr/hiver/destinations/savoie"
 meta-title: Activités outdoor en Savoie pour l'hiver
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658930454/website/winter/piotr-figlarz-NfTv1c8_B3U-unsplash.jpg
 image01_alt: Des personnes faisant du ski dans la station de ski de Courchevel
@@ -35,10 +35,6 @@ page_sections:
     ski, des domaines skiables incroyables pour tous.  \nLa Savoie est un lieu d'exception
     pour de nombreuses activités outdoors. "
   title: La Savoie
-- template: textarea
-  blockBGcolor: blanc
-  title: Nos activités en Savoie
-  content: " "
 - template: textarea
   blockBGcolor: blanc
   title: Nos destinations en Savoie
@@ -66,9 +62,39 @@ page_sections:
     image_alt: Montagnes et station de ski de Tignes
     title: Tignes
     url: "/fr/hiver/destinations/tignes"
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos activités en Savoie
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996210/website/winter/278543636_10062359407168773_4445107599426939386_n.jpg
+    image_alt: Skieurs sur une piste en virages
+    title: Le ski
+    url: "/fr/hiver/activites/reserver-cours-ski-piste"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996208/website/winter/269953238_9469347713136615_5695710698913094842_n.jpg
+    image_alt: Snowboardeur en hors-piste
+    title: Le Snowboard
+    url: "/fr/hiver/activites/reserver-cours-snowboard"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914893/website/winter/himiway-bikes-N7tJYvvIQVo-unsplash.jpg
+    image_alt: Personne roulant en Fatbike électrique sur neige
+    title: Le Fatbike électrique sur neige
+    url: "/fr/hiver/activites/reserver-sortie-fatbike-neige"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001438/website/winter/1_Sylvain-Aymoz30122017.jpg
+    image_alt: Construction d'un igloo
+    title: Activités pour les enfants
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos locations de matériel en Savoie
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList: []
 type: generic
 level: 1
-listMother: 2
+listMother: 1
 titleHome: Les activités en Savoie 73
 activite: ''
 conseil: ''

@@ -24,18 +24,10 @@ page_sections:
 - template: heroBreadcrumb
   title: Nos activités à Val Thorens
 - template: textarea
-  content: La station de Val Thorens est la station la plus haute d'Europe. Elle est
-    située à 2300m d'altitude. Cela permet d'avoir tout l'hiver une quantité de neige
-    idéale pour toute la saison. Elle offre des infrastructures importantes et des
-    remontées mécaniques dernière génération. Elue à de multiples reprises "Meilleure
-    station du monde", les pistes seront destinées à tous les adeptes et tous les
-    niveaux de ski. Située dans le domaine des 3 Vallées, vous pourrez parcourir 600
-    km de piste sans relâche. Son sommet de la Cime Caron culmine a 3200 m et vous
-    permettra d'avoir des descentes de 1300 m de dénivelé négatif. Des descentes qui
-    pourront bien vous faire travailler les cuisses. Vous trouverez de multiples espaces
-    dédiés à toutes les pratiques et tous les niveaux. Passant d'un Familypark, au
-    Bordercross, au Snowpark, une piste de luge et bien d'autre, il y aura toujours
-    de quoi profiter.
+  content: |-
+    La station de Val Thorens est la station la plus haute d'Europe. Elle est située à 2300m d'altitude. Cela permet d'avoir tout l'hiver une quantité de neige idéale pour toute la saison. Elle offre des infrastructures importantes et des remontées mécaniques dernière génération. Elue à de multiples reprises "Meilleure station du monde", les pistes seront destinées à tous les adeptes et tous les niveaux de ski. Située dans le domaine des 3 Vallées, vous pourrez parcourir 600 km de piste sans relâche. Son sommet de la Cime Caron culmine a 3200 m et vous permettra d'avoir des descentes de 1300 m de dénivelé négatif. Des descentes qui pourront bien vous faire travailler les cuisses. Vous trouverez de multiples espaces dédiés à toutes les pratiques et tous les niveaux. Passant d'un Familypark, au Bordercross, au Snowpark, une piste de luge et bien d'autre, il y aura toujours de quoi profiter.
+
+    Découvrez les écoles de ski de Val Thorens et leurs cours de ski et de snowboard dans notre page : [**Ecole de ski à Val Thorens**](/fr/hiver/conseils/ecole-ski-val-thorens)
   title: Val Thorens
 - template: textarea
   content: " "

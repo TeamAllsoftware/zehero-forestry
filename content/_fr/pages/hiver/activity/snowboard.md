@@ -39,8 +39,8 @@ page_sections:
   intro: Découvrez nos activités de snowboard
   headline: Toutes nos offres
   button:
-    text_button: Réservez
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+    text_button: Nos offres
+    href_button: "/fr/hiver/activites/reserver-cours-snowboard"
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
   atl_text_image_01: Un snowboardeur en poudreuse

@@ -24,17 +24,10 @@ page_sections:
 - template: heroBreadcrumb
   title: Nos activités à l'Alpe d'Huez
 - template: textarea
-  content: 'La station de ski de l''Alpe Huez est située sur un plateau à 1800m d''altitude
-    dans le département de l''Isère. Ses 250km de pistes offrent un vaste domaine
-    d''exception. Cette station profite d''un parfait ensoleillement qui permettra
-    de profiter du soleil tous les jours. Reliée à Oz, Vaujany et Oris en Oisans,
-    son domaine est d''une grande qualité. Son sommet le Pic Blanc culmine à 3330m
-    d''altitude, vous pourrez alors dévaler des pistes de 2000m de dénivelé négatif.
-    Pour tous les amoureux de la glisse et pour les plus sportifs, vous profiterez
-    d''un domaine skiable de 260km de piste. La station Alpe d''Huez est composée
-    de 3 villages : Huez Village, Alpe d''Huez. En Isère, cette station ensoleillée
-    offre un choix très large d''activités pour toutes les personnes. Vous pourrez
-    profiter d''évènements et de détente dans un cadre magnifique.'
+  content: |-
+    La station de ski de l'Alpe Huez est située sur un plateau à 1800m d'altitude dans le département de l'Isère. Ses 250km de pistes offrent un vaste domaine d'exception. Cette station profite d'un parfait ensoleillement qui permettra de profiter du soleil tous les jours. Reliée à Oz, Vaujany et Oris en Oisans, son domaine est d'une grande qualité. Son sommet le Pic Blanc culmine à 3330m d'altitude, vous pourrez alors dévaler des pistes de 2000m de dénivelé négatif. Pour tous les amoureux de la glisse et pour les plus sportifs, vous profiterez d'un domaine skiable de 260km de piste. La station Alpe d'Huez est composée de 3 villages : Huez Village, Alpe d'Huez. En Isère, cette station ensoleillée offre un choix très large d'activités pour toutes les personnes. Vous pourrez profiter d'évènements et de détente dans un cadre magnifique.
+
+    Découvrez les offres de cours de ski et de snowboard au seil de l'Alpe d'Huez parmis les différentes écoles de ski dans notre page : [**Ecole de ski à l'Alpe d'Huez**](/fr/hiver/conseils/ecole-ski-alpe-huez)
   title: L'Alpe d'Huez
 - template: textarea
   title: Nos activités à l'Alpe d'Huez

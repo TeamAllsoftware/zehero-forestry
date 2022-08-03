@@ -50,8 +50,8 @@ page_sections:
   intro: Découvrez dès maintenant nos activités de Fat bike
   headline: Toutes nos offres
   button:
-    href_button: "/fr/ete/activites/reserver-vtt-grand-revard"
-    text_button: Réservez
+    href_button: "/fr/hiver/activites/reserver-sortie-fatbike-neige"
+    text_button: Nos offres
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1646914893/website/winter/himiway-bikes-N7tJYvvIQVo-unsplash.jpg
   atl_text_image_01: Personne roulant sur une Fatbike sur une piste de ski
