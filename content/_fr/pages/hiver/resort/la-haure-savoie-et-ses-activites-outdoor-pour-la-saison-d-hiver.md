@@ -55,7 +55,7 @@ page_sections:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658735990/website/Mont%20Blanc%20Escalade/IMG_8723.jpg
     image_alt: Salle d'escalade des Houches
     title: L'escalade en salle
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Houches&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+    url: https://www.montblancescalade.com/fr
 - template: textarea
   blockBGcolor: blanc
   title: Nos locations en Haute Savoie
