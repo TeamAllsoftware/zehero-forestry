@@ -59,5 +59,18 @@ page_sections:
     image_alt: Groupe de cours collectifs de snowboard
     title: Cours collectifs adultes de snowboard
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Les cours privés à Les Menuires
+  content: 'Découvrez les différents cours privés de ski et snowboard à Les Ménuires.
+    Des cours qui vous sont spécialement dédiées ou votre famille pour une durée de
+    1h ou plus selon vos envies. Les cours privés peuvent se faire en ski, en snowboard
+    mais aussi pour du ski freestyle, du ski freeride, du ski de randonnée. Les enfants
+    comme les adultes peuvent prendre un cours privé. Quels que soient votre niveau,
+    votre activité et vos envies, découvrez les différents cours privés de ski et
+    de snowboard à Les Menuires :'
+- template: listOffres
+  blockBGcolor: blanc
+  offreList: []
 
 ---
