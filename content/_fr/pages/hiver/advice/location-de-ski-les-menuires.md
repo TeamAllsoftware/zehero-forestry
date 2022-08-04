@@ -99,7 +99,7 @@ page_sections:
   blockBGcolor: blanc
   title: La location de ski et snowboard à Les Menuires avec Ze Hero
   content: "Chez Ze Hero, la location de ski et de snowboard dans la station de ski
-    Les Menuire, c'est louer son matériel dans le magasin de ski Prosneige. Le shop
+    Les Menuires, c'est louer son matériel dans le magasin de ski Prosneige. Le shop
     de location est situé sur le font de neige, dans me quartier de la Croisette.
     Vous pourrez louer et partir les skis aux pieds. L'enseigne professionnel de ski
     Prosneige est une école de ski indépendante qui vous permettra de réservez vos
