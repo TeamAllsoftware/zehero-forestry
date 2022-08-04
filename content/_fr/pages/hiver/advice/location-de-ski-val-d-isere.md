@@ -78,5 +78,11 @@ page_sections:
     image_alt: Des personnes au sommets des pistes en snowboard
     title: Location de snowboard enfant et ado
     url: https://shop.ze-hero.com/fr/location-materiel?station=val-disere&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-enfant&start-date=27%2F11%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
+  title: Location de chaussures à Val d'Isère
+  content: Découvrez les différentes offres de location de chaussures de ski et snowboard
+    à Val d'Isère pour les enfants et pour les adultes. Vous trouverez également les
+    casques et des luges.
 
 ---
