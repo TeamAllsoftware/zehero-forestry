@@ -85,5 +85,16 @@ page_sections:
   content: Découvrez les différentes offres de location de chaussures de ski et snowboard
     à Val Thorens pour les enfants et pour les adultes. Vous trouverez également les
     casques et des luges.
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642412358/website/Conseil%20/choisir-sa-chaussure-de-ski_tfivsu.jpg
+    image_alt: Chaussures de ski en location
+    title: Location de chaussures de ski
+    url: https://shop.ze-hero.com/fr/location-materiel?station=meribel&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-adulte&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640262576/website/Conseil%20Equiepement/joshua-reddekopp-6rGLwZUiLmo-unsplash_oh0iqg.jpg
+    url: https://shop.ze-hero.com/fr/location-materiel?station=meribel&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-chaussures&subslug=%2Flocation-boots-de-snowboard&start-date=27%2F11%2F2022&number_rental_days=1
+    title: Location de chaussures de snowboard
+    image_alt: Une personne mettant ses chaussures de snowboard
 
 ---
