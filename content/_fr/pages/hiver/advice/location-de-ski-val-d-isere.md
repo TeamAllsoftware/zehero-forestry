@@ -38,5 +38,29 @@ page_sections:
     une page \" Conseils \" pour vous. Vous découvrirez comment bien choisir son ski
     et son snowboard de location en fonction de votre niveau et de l'âge.  \nDécouvrez
     plus d'infos dans notre page : [**Choisir ses skis de location**](/fr/hiver/conseils/choisir-ski-location)"
+- template: textarea
+  blockBGcolor: blanc
+  title: Les locations de ski à Val d'Isère
+  content: 'Découvrez les différentes locations de ski à Val d''Isère pour : enfant,
+    adolescent, homme et femme.'
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812999/website/Conseil%20Equiepement/maxwell-ingham-d3Lm40Dn9rA-unsplash_rnaqaq.jpg
+    image_alt: Des enfants en cours de ski
+    title: Location de ski enfant
+    url: https://shop.ze-hero.com/fr/location-materiel?station=val-disere&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-enfant&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357500/website/winter/275050573_9867376200000429_8540686878764342663_n.jpg
+    image_alt: Groupe enfant et adolescent en ski
+    url: https://shop.ze-hero.com/fr/location-materiel?station=val-disere&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-ado&start-date=27%2F11%2F2022&number_rental_days=1
+    title: Location de ski adolescent
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001434/website/winter/_S9C8408.jpg
+    image_alt: Groupe adulte de ski
+    title: Location de ski homme
+    url: https://shop.ze-hero.com/fr/location-materiel?station=val-disere&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996210/website/winter/278543636_10062359407168773_4445107599426939386_n.jpg
+    image_alt: Deux personnes en ski sur piste
+    title: Location de ski femme
+    url: https://shop.ze-hero.com/fr/location-materiel?station=val-disere&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
 
 ---
