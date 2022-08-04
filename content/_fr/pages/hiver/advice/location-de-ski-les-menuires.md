@@ -45,7 +45,23 @@ page_sections:
   content: 'Découvrez les différentes locations de ski aux Menuires pour : enfant,
     adolescent, homme et femme.'
 - template: listOffres
-  blockBGcolor: gris
-  offreList: []
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659354930/website/winter/1528750.jpg
+    image_alt: Des enfants avec un monitruce en cours de ski
+    title: Location de ski enfant
+    url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-enfant&start-date=27%2F11%2F2022&number_rental_days=1
+  - title: Location de ski adolescent
+    url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-ado&start-date=27%2F11%2F2022&number_rental_days=1
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357508/website/winter/278572408_23885291927782287_5643436219991857318_n.jpg
+    image_alt: Groupe d'adolescent en cours de ski
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357501/website/winter/267674773_9377021372369250_1873313155993111376_n.jpg
+    image_alt: Groupe de 3 skieurs en freeride
+    title: Location de ski homme
+    url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Sourire-neige_jdsltw.jpg
+    image_alt: Femme dans la neige
+    title: Location de ski femme
+    url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
 
 ---
