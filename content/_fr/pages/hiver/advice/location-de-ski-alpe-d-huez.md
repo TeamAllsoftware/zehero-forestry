@@ -18,6 +18,8 @@ baseline: Location de ski Alpe Huez
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
-page_sections: []
+page_sections:
+- template: heroBreadcrumb
+  title: Location de ski Alpe d'Huez
 
 ---
