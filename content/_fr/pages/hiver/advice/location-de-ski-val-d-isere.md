@@ -1,5 +1,5 @@
 ---
-layout: layout_generic
+layout: layout_advice
 language: fr
 type: generic
 season: winter
@@ -111,7 +111,7 @@ page_sections:
     des skis de randonnées. Louez vos skis et les snowboards pour les bébés skieurs
     jusqu'aux adultes. Louez du matériel de qualité à Val d'Isère pour votre prochain
     séjour de ski en Savoie."
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640266010/website/resorts/alpe%20d%27huez/Alpes_dhuez_envzu0.jpg
-image01_alt: Vue de la station de l'Alpe d'Huez l'hiver
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338328/website/resorts/val-d-isere/tim-arnold-8MvJLXVBAWg-unsplash_vxmah1.jpg
+image01_alt: Vue de la station de Val d'Isère
 
 ---
