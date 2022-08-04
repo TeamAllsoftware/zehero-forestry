@@ -26,8 +26,10 @@ page_sections:
     de VTT et de VTT électriques sur les sentiers montagneux quel que soit votre niveau.
     Vous découvrirez différents itinéraires qui vous feront découvrir les lieux, les
     panoramas, atteindre des points de vue d'exception, faire le plein de sensation
-    forte dans les descentes sur les sentiers.  \nDécouvrez nos offres de VTT à Méribel
-    et les Ménuires ainsi qu'à Aix les Bains / Le Grand Revard :"
+    forte dans les descentes sur les sentiers.  \nDécouvrez toutes les informations
+    sur le VTT et le Fatbike dans notre page \" [**VTT**](/fr/ete/activites/vtt) \"
+    \ \nDécouvrez nos offres de VTT à Méribel et les Ménuires ainsi qu'à Aix les Bains
+    / Le Grand Revard :"
   title: Le VTT en Savoie
 - template: listServices2
   blockBGcolor: blanc
