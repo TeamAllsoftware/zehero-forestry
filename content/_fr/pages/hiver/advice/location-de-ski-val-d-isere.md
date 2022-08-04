@@ -4,7 +4,7 @@ language: fr
 type: generic
 season: winter
 level: 1
-listMother: 2
+listMother: 1
 topnav_color_text: light
 title: Location de ski Val d'Isère
 titleHome: Location de ski Val d'Isère

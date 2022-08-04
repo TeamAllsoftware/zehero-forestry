@@ -4,7 +4,7 @@ language: fr
 type: generic
 season: winter
 level: 1
-listMother: 2
+listMother: 1
 topnav_color_text: light
 title: Location de ski Val Thorens
 titleHome: Location de ski Val Thorens
