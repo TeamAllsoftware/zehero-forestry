@@ -63,5 +63,10 @@ page_sections:
     image_alt: Un groupe de skieurs dans un cours collectif de ski
     title: Location de ski femme
     url: https://shop.ze-hero.com/fr/location-materiel?station=meribel&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
+  title: Location de snowboard à Méribel
+  content: Découvrez les différentes offres de location de snowboard à Méribel pour
+    enfant, adolescent, homme et femme.
 
 ---
