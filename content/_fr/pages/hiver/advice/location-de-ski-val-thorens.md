@@ -80,9 +80,9 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Location de chaussures à Val Thorens
-  content: 'Découvrez les différentes offres de locations de chaussures de ski et
-    snowboard à Val Thorens pour les enfants et pour les adultes. Vous trouverez également
-    les casques et des luges. '
+  content: Découvrez les différentes offres de location de chaussures de ski et snowboard
+    à Val Thorens pour les enfants et pour les adultes. Vous trouverez également les
+    casques et des luges.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
