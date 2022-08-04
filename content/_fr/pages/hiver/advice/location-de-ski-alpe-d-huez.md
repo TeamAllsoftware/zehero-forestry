@@ -79,5 +79,38 @@ page_sections:
     image_alt: Un enfant faisant du snowboard
     title: Location de snowboard enfant
     url: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-enfant&start-date=27%2F11%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
+  title: Location de chaussure de ski et snowboard à l'Alpe d'Huez
+  content: Découvrez les différentes offres de location de chaussures de ski et de
+    snowboard à l'Alpe d'Huez pour enfant, adolescent, homme et femme.
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001495/website/winter/A04-13-113.jpg
+    image_alt: Personne en freeride en ski
+    title: Location chaussures de ski
+    url: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-enfant&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357497/website/winter/272172059_9628804910524227_4698524840339624229_n.jpg
+    image_alt: Groupe de personnes en snowboard sur un télésiège
+    title: Location de chaussures de snowboard
+    url: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-chaussures&subslug=%2Flocation-boots-de-snowboard&start-date=27%2F11%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
+  title: La location de ski et snowboard à l'Alpe d'Huez avec Ze Hero
+  content: "Avec Ze Hero découvrez toutes nos offres de location de ski et de snowboard
+    à l'Alpe d'Huez. Louer votre matériel de ski chez Prosneige. Le shop de location
+    est situé sur le font de neige de l'Alpe d'Huez. Vous pourrez louer et partir
+    les skis aux pieds directement. L'enseigne professionnel de ski Prosneige est
+    une école de ski indépendante qui vous permettra de réservez vos cours de ski
+    et/ou de louer votre matériel de ski et de snowboard à l'Alpe d'Huez.  \nVous
+    découvrez un choix large de matériel avec des skis de qualités, techniques ainsi
+    que de nombreux ski haut de gamme. Le matériel est toujours entretenu après une
+    sortie. Vous pourrez louer des skis et des snowboard que vous soyez débutant,
+    confirmé ou même expert. Le magasin de location de l'Alpe d'Huez met à disposition
+    aussi différents types de ski comme les skis all-mountain, des skis freeride ou
+    encore des skis de randonnées. Louez vos skis et les snowboards pour les bébés
+    skieurs jusqu'aux adultes. Louez du matériel de qualité à l'Alpe d'Huez pour votre
+    prochain séjour de ski."
 
 ---
