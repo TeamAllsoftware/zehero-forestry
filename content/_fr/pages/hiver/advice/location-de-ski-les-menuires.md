@@ -63,5 +63,10 @@ page_sections:
     image_alt: Femme dans la neige
     title: Location de ski femme
     url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
+  title: Location de snowboard aux Menuires
+  content: Découvrez les différentes offres de location de snowboard à Les Menuires
+    pour enfant, adolescent, homme et femme.
 
 ---
