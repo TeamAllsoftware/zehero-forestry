@@ -24,9 +24,9 @@ menu:
   - nested: Toutes les activités
     menu-items:
     - title: Ski alpin
-      href: "/fr/hiver/activites/ski-de-piste"
+      href: "/fr/hiver/activites/reserver-cours-ski-piste"
     - title: Ski freeride
-      href: "/fr/hiver/activites/ski-freeride"
+      href: "/fr/hiver/activite/reserver-ski-freeride"
     - title: Ski de randonnée
       href: "/fr/hiver/activites/ski-de-randonnee"
     - title: Snowboard
