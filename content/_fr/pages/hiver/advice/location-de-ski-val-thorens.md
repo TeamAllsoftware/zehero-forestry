@@ -1,5 +1,5 @@
 ---
-layout: layout_generic
+layout: layout_advice
 language: fr
 type: generic
 season: winter
@@ -108,5 +108,7 @@ page_sections:
     de randonnées ou encore des skis freestyle. Louez vos skis et les snowboards pour
     les bébés skieurs jusqu'aux adultes. Louez du matériel de qualité à Val Thorens
     pour vos prochaines descentes à ski."
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640165708/website/resorts/val-thorens/winter-1285952_1920_llqczc.jpg
+image01_alt: Station de Val Thorens l'hiver
 
 ---
