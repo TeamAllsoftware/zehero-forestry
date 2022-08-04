@@ -98,17 +98,17 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: La location de ski et snowboard à Les Menuires avec Ze Hero
-  content: "La location de ski et de snowboard dans la station de ski Les Menuire,
-    c'est louer son matériel dans le magasin de ski Prosneige. Le shop de location
-    est situé sur le font de neige, dans me quartier de la Croisette. Vous pourrez
-    louer et partir les skis aux pieds. L'enseigne professionnel de ski Prosneige
-    est une école de ski indépendante qui vous permettra de réservez vos cours de
-    ski et/ou de louer votre matériel de ski et de snowboard aux Menuires  \nVous
-    découvrez un choix large de matériel avec de nombreux ski haut de gamme, des skis
-    techniques. Le matériel est toujours entretenu après une sortie. Vous pourrez
-    louer des skis pour débutant, confirmé mais aussi expert. Le magasin de location
-    met à disposition aussi différents types de ski comme les skis all-mountain, des
-    skis freeride ou encore des skis de randonnées. Louez vos skis et les snowboards
+  content: "Chez Ze Hero, la location de ski et de snowboard dans la station de ski
+    Les Menuire, c'est louer son matériel dans le magasin de ski Prosneige. Le shop
+    de location est situé sur le font de neige, dans me quartier de la Croisette.
+    Vous pourrez louer et partir les skis aux pieds. L'enseigne professionnel de ski
+    Prosneige est une école de ski indépendante qui vous permettra de réservez vos
+    cours de ski et/ou de louer votre matériel de ski et de snowboard aux Menuires
+    \ \nVous découvrez un choix large de matériel avec de nombreux ski haut de gamme,
+    des skis techniques. Le matériel est toujours entretenu après une sortie. Vous
+    pourrez louer des skis pour débutant, confirmé mais aussi expert. Le magasin de
+    location met à disposition aussi différents types de ski comme les skis all-mountain,
+    des skis freeride ou encore des skis de randonnées. Louez vos skis et les snowboards
     pour les bébés skieurs jusqu'aux adultes. Louez du matériel de qualité à Les Menuires
     pour votre prochain séjour de ski."
 
