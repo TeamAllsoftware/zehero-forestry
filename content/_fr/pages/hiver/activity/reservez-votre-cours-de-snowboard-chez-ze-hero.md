@@ -30,10 +30,11 @@ page_sections:
     cette discipline. Que ce soit pour rider sur les pistes, en freeride, apprendre
     le freestyle, chausser vos boots et suivez votre moniteur de snowboard. Nous vous
     proposons un choix varié de cours de snowboard pour tous les niveaux. Vous trouverez
-    des cours pour les enfants, les adolescents mais également les adultes. \n\nVous
-    trouverez toutes nos offres dans une multitude de stations de ski tel que Val
-    Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez et les Menuires.
-    \ \nVous ne savez pas quoi choisir entre un cours privé et un cours collectif
+    des cours pour les enfants, les adolescents mais également les adultes.  \nDécouvrez
+    toutes les infos du snowboard sur notre page \" [**Snowboard**](/fr/hiver/activites/snowboard)
+    \"\n\nVous trouverez toutes nos offres dans une multitude de stations de ski tel
+    que Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez et les
+    Menuires.  \nVous ne savez pas quoi choisir entre un cours privé et un cours collectif
     ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**\n\nCours
     de snowboard de piste privé ou collectifs dans ces diverses stations, voici toutes
     nos offres pour vous :"

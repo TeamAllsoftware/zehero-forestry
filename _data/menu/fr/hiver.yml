@@ -24,13 +24,13 @@ menu:
   - nested: Toutes les activités
     menu-items:
     - title: Ski alpin
-      href: "/fr/hiver/activites/ski-de-piste"
+      href: "/fr/hiver/activites/reserver-cours-ski-piste"
     - title: Ski freeride
-      href: "/fr/hiver/activites/ski-freeride"
+      href: "/fr/hiver/activite/reserver-ski-freeride"
     - title: Ski de randonnée
       href: "/fr/hiver/activites/ski-de-randonnee"
     - title: Snowboard
-      href: "/fr/hiver/activites/snowboard"
+      href: "/fr/hiver/activites/reserver-cours-snowboard"
     - title: Pour les enfants
       href: "/fr/hiver/activites/activites-pour-les-enfants"
     - title: Randonnée en raquettes
@@ -38,9 +38,9 @@ menu:
     - title: Escalade
       href: "/fr/ete/activites/escalade"
     - title: Fatbike sur neige
-      href: "/fr/hiver/activites/fatbike-electrique-hiver"
+      href: "/fr/hiver/activites/reserver-sortie-fatbike-neige"
     - title: Trail Running
-      href: "/fr/hiver/activites/trail-running"
+      href: "/fr/ete/activites/nos-sorties-trail"
 - title: Louer du matériel
   id: "3"
   title-link: "/fr/hiver/activite/location"
@@ -52,15 +52,15 @@ menu:
   - nested: Où louer ?
     menu-items:
     - title: Location Val Thorens
-      href: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
+      href: "/fr/hiver/conseil/location-ski-val-thorens"
     - title: Location Val d'Isère
-      href: https://shop.ze-hero.com/fr/location-materiel?station=val-disere&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
+      href: "/fr/hiver/conseil/location-ski-val-disere"
     - title: Location Méribel
-      href: https://shop.ze-hero.com/fr/location-materiel?station=meribel&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
+      href: "/fr/hiver/conseil/location-ski-meribel"
     - title: Location Alpe d'Huez
       href: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
     - title: Location Les Menuires
-      href: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
+      href: "/fr/hiver/conseil/location-ski-les-menuires"
     - title: Location Alpes Maritimes
       href: https://shop.ze-hero.com/fr/location-materiel?station=alpes-maritimes-06&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
   column-02: ''

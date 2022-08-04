@@ -34,10 +34,11 @@ page_sections:
     sont, diplômés d'Etat et connaissent parfaitement tous les canyonings des Alpes
     Maritimes. Nous vous apporterons tout le matériel nécessaire pour la pratique
     du canyoning tel que la combinaison, le casque, le baudrier. Il faut venir avec
-    votre maillot de bain, des chaussures de sport.  \nNous vous garantissons un moment
-    unique, de découverte, de plaisir et de partage. N'attendez plus ! Choisissez
-    votre canyoning et réservez vite.\n\nVoici tous nos canyonings dans les Alpes
-    Maritimes :"
+    votre maillot de bain, des chaussures de sport.  \nDécouvrez toutes les informations
+    sur le canyoning dans notre page \" [**Canyoning**](/fr/ete/activites/canyoning)
+    \"  \nNous vous garantissons un moment unique, de découverte, de plaisir et de
+    partage. N'attendez plus ! Choisissez votre canyoning et réservez vite.\n\nVoici
+    tous nos canyonings dans les Alpes Maritimes :"
 - template: listServices2
   blockBGcolor: blanc
   service: activity

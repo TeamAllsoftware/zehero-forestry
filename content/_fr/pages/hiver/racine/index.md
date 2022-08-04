@@ -43,10 +43,10 @@ page_sections:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-groupe-amis_weuk4g.jpg
     image_alt: Skieur de piste skiant dans une station de ski
     title: Ski alpin
-    url: "/fr/hiver/activites/ski-de-piste"
+    url: "/fr/hiver/activites/reserver-cours-ski-piste"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
     image_alt: Snowboardeur surfant en poudreuse
-    url: "/fr/hiver/activites/snowboard"
+    url: "/fr/hiver/activites/reserver-cours-snowboard"
     title: Snowboard
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540483/website/winter/guillaume-marques-9HRLg-yzeq8-unsplash_ulzuqx.jpg
     image_alt: Des personnes faisant du ski de randonnée en hors piste
@@ -55,7 +55,7 @@ page_sections:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Ski-descente-poudreuse_jkfdf6.jpg
     image_alt: Un skieur en freeride
     title: Ski Freeride
-    url: "/fr/hiver/activites/ski-freeride"
+    url: "/fr/hiver/activite/reserver-ski-freeride"
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true

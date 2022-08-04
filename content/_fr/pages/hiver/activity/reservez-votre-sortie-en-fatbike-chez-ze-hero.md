@@ -34,11 +34,13 @@ page_sections:
     en ski, apprenez à faire des petits virages et des grands virages, à rouler dans
     de la neige fraîche, dans des bosses et dans la neige damée. Une expérience en
     groupe, où vous pourrez rouler plusieurs heures et même partir randonner la nuit
-    à la frontale.\n\nUne activité insolite que vous soyez débutant ou expert à VTT,
-    que vous soyez seul, en famille, entre amis, vous pourrez partir rouler et vous
-    s'amuser sur la neige.  \nVotre moniteur vous apprendra la technique du VTT, comment
-    bien descendre mais aussi comment bien montée.\n\nDécouvrez nos offres de Fatbike
-    électrique dans le Grand Revard en Savoie :"
+    à la frontale.  \nDécouvrez toutes les informations sur le Fatbike électrique
+    sur neige dans notre page \" [**Fatbike électrique sur neige**](/fr/hiver/activites/fatbike-electrique-hiver)
+    \".\n\nUne activité insolite que vous soyez débutant ou expert à VTT, que vous
+    soyez seul, en famille, entre amis, vous pourrez partir rouler et vous s'amuser
+    sur la neige.  \nVotre moniteur vous apprendra la technique du VTT, comment bien
+    descendre mais aussi comment bien montée.\n\nDécouvrez nos offres de Fatbike électrique
+    dans le Grand Revard en Savoie :"
 - template: listOffres
   blockBGcolor: gris
   offreList: []

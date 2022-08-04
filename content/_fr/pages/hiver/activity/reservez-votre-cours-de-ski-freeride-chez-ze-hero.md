@@ -25,12 +25,18 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours de ski freeride chez Ze Hero
-  content: |-
-    Découvrez tous nos cours de ski freeride chez Ze Hero. Partez explorer les pentes vierges et la neige fraîche. Tracez vos virages en poudreuse et profitez de descente fabuleuse. Que vous soyez débutant, confirmé ou expert, les moniteurs vous accompagneront selon vos envies et votre niveau. Vous pourrez alors découvrir cette discipline ou aller dans les plus beaux freerides de la station. Vous apprendrez également la meilleure technique afin d'être à l'aise dans toutes les pentes. Votre moniteur vous enseignera également tous les conseils de sécurité comme la recherche avec un DVA, avec la sonde et d'utiliser la pelle.
-
-    Vous pourrez trouver ces cours freerides dans de nombreuses stations tels que Val Thorens, Les Menuires, Val d'Isère, Tignes, Courchevel, Méribel et l'Alpe d'Huez.
-
-    Découvrez toutes nos offres de cours privés de ski Freeride chez Ze Hero :
+  content: "Découvrez tous nos cours de ski freeride chez Ze Hero. Partez explorer
+    les pentes vierges et la neige fraîche. Tracez vos virages en poudreuse et profitez
+    de descente fabuleuse. Que vous soyez débutant, confirmé ou expert, les moniteurs
+    vous accompagneront selon vos envies et votre niveau. Vous pourrez alors découvrir
+    cette discipline ou aller dans les plus beaux freerides de la station. Vous apprendrez
+    également la meilleure technique afin d'être à l'aise dans toutes les pentes.
+    Votre moniteur vous enseignera également tous les conseils de sécurité comme la
+    recherche avec un DVA, avec la sonde et d'utiliser la pelle.  \nDécouvrez toutes
+    les informations sur le ski freeride dans notre page \" [**ski freeride **](/fr/hiver/activites/ski-freeride)\"\n\nVous
+    pourrez trouver ces cours freerides dans de nombreuses stations tels que Val Thorens,
+    Les Menuires, Val d'Isère, Tignes, Courchevel, Méribel et l'Alpe d'Huez.\n\nDécouvrez
+    toutes nos offres de cours privés de ski Freeride chez Ze Hero :"
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours de ski freeride

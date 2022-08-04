@@ -28,17 +28,17 @@ menu:
   - nested: Toutes les activités
     menu-items:
     - title: Canyoning
-      href: "/fr/ete/activites/canyoning"
+      href: "/fr/ete/activites/nos-canyonings"
     - title: Trail
-      href: "/fr/ete/activites/trail-running"
+      href: "/fr/ete/activites/nos-sorties-trail"
     - title: VTT
-      href: "/fr/ete/activites/vtt"
+      href: "/fr/ete/activites/reserver-vtt"
     - title: Surf
-      href: "/fr/ete/activites/surf"
+      href: "/fr/ete/activites/reserver-cours-surf"
     - title: Randonnée
-      href: "/fr/ete/activites/randonnee-montagne"
+      href: "/fr/ete/activites/reserver-randonnee"
     - title: Escalade
-      href: "/fr/ete/activites/escalade"
+      href: https://www.montblancescalade.com/fr
 - title: Acheter
   id: ''
   title-link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running

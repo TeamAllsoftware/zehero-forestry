@@ -29,7 +29,8 @@ page_sections:
     prairies, les pâturages, les sentiers, les sommets et les lacs. Allez à la rencontre
     de sa faune sauvage, des troupeaux de vache et de moutons, à la découverte de
     cette flore incroyable. La montagne regorge de trésor et d'une beauté sans nom.
-    \ \nDans les différents massifs de France, on retrouve des paysages différents
+    \ \nDécouvrez toutes les informations sur la randonnée dans notre page \" [**Randonnée**](/fr/ete/activites/randonnee)
+    \".  \nDans les différents massifs de France, on retrouve des paysages différents
     et uniques.  \nDécouvrez nos offres de randonnée dans les Vosges et en Lozère
     :"
 - template: listServices2

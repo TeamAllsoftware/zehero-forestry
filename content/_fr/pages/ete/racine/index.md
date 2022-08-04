@@ -44,19 +44,19 @@ page_sections:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/website/Canyoning%2006/GOPR0065.jpg
     image_alt: Personnes dans un canyoning
     title: Le canyoning
-    url: "/fr/ete/activites/canyoning"
+    url: "/fr/ete/activites/nos-canyonings"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883621/website/summer/Paddle-couple-mer_sw6sqk.jpg
     image_alt: Deux personnes sur un paddle surf
     title: Le surf
-    url: "/fr/ete/activites/surf"
+    url: "/fr/ete/activites/reserver-cours-surf"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654867638/website/summer/brian-metzler-nmWQ2SKvj5M-unsplash.jpg
     image_alt: Un coureur en montagne faisant du trail
     title: Le Trail
-    url: "/fr/ete/activites/trail-running"
+    url: "/fr/ete/activites/nos-sorties-trail"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642592264/website/summer/lachlan-cruickshank-S9v_EPJfGys-unsplash_b5jpdh.jpg
     image_alt: Des personnes en groupe faisant du VTT en montagne
     title: Le VTT
-    url: https://www.ze-hero.com/fr/ete/activites/vtt
+    url: "/fr/ete/activites/reserver-vtt"
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true
