@@ -67,7 +67,15 @@ page_sections:
   content: Découvrez les différentes offres de location de snowboard à Val Thorens
     pour enfant, adolescent, homme et femme.
 - template: listOffres
-  blockBGcolor: gris
-  offreList: []
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001442/website/winter/snow_adulte.jpg
+    image_alt: Deux personnes tenant un snowboard
+    title: Location de snowboard adulte
+    url: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-ado&start-date=04%2F08%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357495/website/winter/272167547_9618769364861115_989733963301003100_n.jpg
+    image_alt: Un enfant faisant du snowboard
+    title: Location de snowboard enfant et ado
+    url: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-enfant&start-date=04%2F08%2F2022&number_rental_days=1
 
 ---
