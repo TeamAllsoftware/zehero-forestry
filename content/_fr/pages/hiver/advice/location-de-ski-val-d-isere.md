@@ -95,5 +95,21 @@ page_sections:
     image_alt: Une personne mettant sa chaussure de snowboard
     title: Location de chaussures de snowboard
     url: https://shop.ze-hero.com/fr/location-materiel?station=val-disere&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-chaussures&subslug=%2Flocation-boots-de-snowboard&start-date=27%2F11%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
+  title: La location de ski et snowboard à Val d'Isère avec Ze Hero
+  content: "La location de ski et de snowboard à Val d'Isèreavec Ze Hero, c'est louer
+    son matériel dans le magasin de ski Prosneige. Profitez de louer vos ski au pieds
+    des pistes de Val d'Isère. Facile d'accès, vous pourrez partir directement skier.
+    L'enseigne professionnel de ski Prosneige est une école de ski indépendante qui
+    vous permettra de réserver des cours de ski mais également de louer et d'acheter
+    du matériel à Val d'Isère.  \nVous découvrez un choix large de matériel avec de
+    nombreux ski technique et performant avec une gamme \" haut de gamme \". Vous
+    pourrez louer des skis pour débutants, confirmés mais aussi experts. Tout le matériel
+    est entretenu après chaque sortis Le magasin de location met à disposition aussi
+    différents types de ski comme les skis all-mountain, des skis freeride ou encore
+    des skis de randonnées. Louez vos skis et les snowboards pour les bébés skieurs
+    jusqu'aux adultes. Louez du matériel de qualité à Val d'Isère pour votre prochain
+    séjour de ski en Savoie."
 
 ---
