@@ -39,5 +39,13 @@ page_sections:
     nous avons créé une page \" Conseils \" pour vous. Vous découvrirez comment bien
     choisir son ski et son snowboard de location en fonction de votre niveau et de
     l'âge.  \nDécouvrez plus d'infos dans notre page : [**Choisir ses skis de location**](/fr/hiver/conseils/choisir-ski-location)"
+- template: textarea
+  blockBGcolor: blanc
+  title: Les locations de ski à Les Menuires
+  content: 'Découvrez les différentes locations de ski aux Menuires pour : enfant,
+    adolescent, homme et femme.'
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
 
 ---
