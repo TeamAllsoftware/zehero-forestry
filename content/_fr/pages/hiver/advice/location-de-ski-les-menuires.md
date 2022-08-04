@@ -65,6 +65,22 @@ page_sections:
     url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
 - template: textarea
   blockBGcolor: blanc
+  title: Location de snowboard à Les Menuires
+  content: Découvrez les différentes offres de location de snowboard aux Menuires
+    pour enfant, adolescent, homme et femme.
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357495/website/winter/272167547_9618769364861115_989733963301003100_n.jpg
+    image_alt: Enfant faisant du snowboard
+    title: Location de snowboard enfant
+    url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-enfant&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357494/website/winter/272297635_9672235216181196_9157146173453775185_n.jpg
+    image_alt: Groupe de personnes en cours de snowboard
+    title: Location de snowboard adulte
+    url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-chaussures&subslug=%2Flocation-boots-de-snowboard&start-date=27%2F11%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
   title: Location de snowboard aux Menuires
   content: Découvrez les différentes offres de location de snowboard à Les Menuires
     pour enfant, adolescent, homme et femme.
@@ -77,7 +93,7 @@ page_sections:
     url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001478/website/winter/VT_1207.jpg
     image_alt: Snowboardeur en freeride
-    title: 'Location de chaussures '
+    title: Location de chaussures de snowboard
     url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-chaussures&subslug=%2Flocation-boots-de-snowboard&start-date=27%2F11%2F2022&number_rental_days=1
 
 ---
