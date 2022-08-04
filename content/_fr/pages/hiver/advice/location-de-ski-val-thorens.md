@@ -77,5 +77,22 @@ page_sections:
     image_alt: Un enfant faisant du snowboard
     title: Location de snowboard enfant et ado
     url: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-enfant&start-date=04%2F08%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
+  title: Location de chaussures à Val Thorens
+  content: 'Découvrez les différentes offres de locations de chaussures de ski et
+    snowboard à Val Thorens pour les enfants et pour les adultes. Vous trouverez également
+    les casques et des luges. '
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996210/website/winter/278543636_10062359407168773_4445107599426939386_n.jpg
+    title: 'Location de chaussures de ski '
+    url: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-enfant&start-date=04%2F08%2F2022&number_rental_days=1
+    image_alt: Deux skieurs de piste
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357505/website/winter/269889239_9441375549267165_2049531082446778310_n.jpg
+    image_alt: Des enfants marchants avec un snowboard
+    title: Location de chaussures de snowboard
+    url: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-chaussures&subslug=%2Flocation-boots-de-snowboard&start-date=27%2F11%2F2022&number_rental_days=1
 
 ---
