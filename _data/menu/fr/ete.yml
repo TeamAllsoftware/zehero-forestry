@@ -28,7 +28,7 @@ menu:
   - nested: Toutes les activités
     menu-items:
     - title: Canyoning
-      href: "/fr/ete/activites/canyoning"
+      href: "/fr/ete/activites/nos-canyonings"
     - title: Trail
       href: "/fr/ete/activites/trail-running"
     - title: VTT
