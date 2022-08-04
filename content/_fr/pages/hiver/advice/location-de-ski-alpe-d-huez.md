@@ -21,5 +21,63 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Location de ski Alpe d'Huez
+- template: textarea
+  blockBGcolor: blanc
+  title: Location de ski et de snowboard à l'Alpe d'Huez
+  content: "Vous souhaitez louer du matériel de ski et de snowboard ? Vous cherchez
+    où louer et trouver un magasin de location de ski à l'Alpe d'Huez? Découvrez avec
+    Ze Hero toutes nos offres de location de ski à l'Alpe d'Huez afin que vous puissiez
+    louer le matériel qui vous correspond.  \nIl est important, avant tout, de bien
+    choisir son magasin de location de ski dans la station de ski de l'Alpe d'Huez.
+    Il existe énormément de magasins de location et on peut s'y perdre. Pour trouver
+    votre magasin de location, voici nos quelques astuces : son emplacement doit être
+    près de votre logement, vérifier les horaires d'ouverture afin de ne pas avoir
+    de contrainte et vous pouvez regarder les avis des clients sur ce magasin de location
+    de ski à l'Alpe d'Huez.  \nDécouvrez plus d'infos dans notre page : [**Choisir
+    son magasin de location**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)\n\nAfin
+    de bien comprendre les différents types de skis et de snowboards de location,
+    nous avons créé une page \" Conseils \" pour vous. Vous découvrirez comment bien
+    choisir son ski et son snowboard de location en fonction de votre niveau et de
+    l'âge.  \nDécouvrez plus d'infos dans notre page : [**Choisir ses skis de location**](/fr/hiver/conseils/choisir-ski-location)"
+- template: textarea
+  blockBGcolor: blanc
+  title: Les locations de ski à l'Alpe d'Huez
+  content: 'Découvrez les différentes locations de ski à l''Alpe d''Huez pour : enfant,
+    adolescent, homme et femme.'
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996210/website/winter/275128300_9875680909169958_2920998395355154908_n.jpg
+    image_alt: Groupe d'enfant dans un cours de ski enfant
+    title: Location de ski enfant
+    url: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-enfant&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357500/website/winter/275050573_9867376200000429_8540686878764342663_n.jpg
+    image_alt: Groupe d'adolescent en cours de ski
+    title: Location de ski adolescent
+    url: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-ado&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357674/website/winter/248245560_9115998445138212_3763588150271873040_n.jpg
+    image_alt: Groupe de skieur en cours de ski
+    title: Location de ski homme
+    url: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001434/website/winter/_S9C8408.jpg
+    image_alt: Groupe de skieur dans un cours collectif de ski
+    title: Location de ski femme
+    url: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
+  title: Location de snowboard à l'Alpe d'Huez
+  content: Découvrez les différentes offres de location de snowboard à l'Alpe d'Huez
+    pour enfant, adolescent, homme et femme.
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001442/website/winter/snow_adulte.jpg
+    image_alt: Deux personnes avec le snowboard debout
+    title: Location de snowboard adulte
+    url: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357495/website/winter/272167547_9618769364861115_989733963301003100_n.jpg
+    image_alt: Un enfant faisant du snowboard
+    title: Location de snowboard enfant
+    url: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-enfant&start-date=27%2F11%2F2022&number_rental_days=1
 
 ---
