@@ -38,9 +38,9 @@ menu:
     - title: Escalade
       href: "/fr/ete/activites/escalade"
     - title: Fatbike sur neige
-      href: "/fr/hiver/activites/fatbike-electrique-hiver"
+      href: "/fr/hiver/activites/reserver-sortie-fatbike-neige"
     - title: Trail Running
-      href: "/fr/hiver/activites/trail-running"
+      href: "/fr/ete/activites/nos-sorties-trail"
 - title: Louer du matériel
   id: "3"
   title-link: "/fr/hiver/activite/location"
