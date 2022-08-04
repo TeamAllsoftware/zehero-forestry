@@ -60,7 +60,7 @@ menu:
     - title: Location Alpe d'Huez
       href: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
     - title: Location Les Menuires
-      href: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
+      href: "/fr/hiver/conseil/location-ski-les-menuires"
     - title: Location Alpes Maritimes
       href: https://shop.ze-hero.com/fr/location-materiel?station=alpes-maritimes-06&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
   column-02: ''
