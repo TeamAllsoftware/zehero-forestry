@@ -29,8 +29,10 @@ page_sections:
     Trail se trouvent surtout dans les Préalpes d'Azur, dans le moyen pays niçois.
     Découvrez les montagnes de Tourrettes sur Loup, de Gréolières, de Vence, de Bar
     sur Loup, de Saint Jeannet mais également de Saint Aubin, de Bonson et bien d'autres.
-    \ \nNos encadrants professionnels sont, diplômés d'Etat et connaissent parfaitement
-    les différents sentiers des Alpes Maritimes ainsi que des Préalpes d'Azur."
+    \ \nDécouvrez toutes les informations sur le trail dans notre page \" [**Trail
+    Running**](/fr/ete/activites/trail-running) \".  \nNos encadrants professionnels
+    sont, diplômés d'Etat et connaissent parfaitement les différents sentiers des
+    Alpes Maritimes ainsi que des Préalpes d'Azur."
 - template: listServices2
   blockBGcolor: blanc
   service: activity
