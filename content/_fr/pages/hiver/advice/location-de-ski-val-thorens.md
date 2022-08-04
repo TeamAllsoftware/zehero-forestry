@@ -94,5 +94,19 @@ page_sections:
     image_alt: Des enfants marchants avec un snowboard
     title: Location de chaussures de snowboard
     url: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-chaussures&subslug=%2Flocation-boots-de-snowboard&start-date=27%2F11%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
+  title: La location de ski et snowboard à Val Thorens avec Ze Hero
+  content: "La location de ski et snowboard à Val Thorens avec Ze Hero, c'est louer
+    son matériel dans le magasin de ski Prosneige. L'enseigne professionnel de ski
+    Prosneige est une école de ski indépendante qui, en plu, de mettre à disposition
+    des cours privés et collectifs de ski, met à disposition de l'achat et de la location
+    de ski et de snowboard dans la station de Val Thorens.  \nVous découvrez un choix
+    varié de matériel pour les débutants jusqu'aux personnes expertes avec également
+    des paires de ski haut de gamme. Vous pourrez alors louer différents types de
+    ski tel que des skis de piste, des skis all-mountain, des skis freeride, des skis
+    de randonnées ou encore des skis freestyle. Louez vos skis et les snowboards pour
+    les bébés skieurs jusqu'aux adultes. Louez du matériel de qualité à Val Thorens
+    pour vos prochaines descentes à ski."
 
 ---
