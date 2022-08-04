@@ -40,7 +40,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à Val Thorens
-  content: " "
+  content: 'Découvrez les différentes location de ski à Val Thorens pour : enfant,
+    adolescent, homme et femme.'
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -48,6 +49,10 @@ page_sections:
     image_alt: Monitrice de ski avec un bébé skieur
     title: Location de ski enfant
     url: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-enfant&start-date=04%2F08%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357508/website/winter/278572408_23885291927782287_5643436219991857318_n.jpg
+    image_alt: Groupe ado en cours de ski
+    title: Location de ski adolescent
+    url: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-ado&start-date=04%2F08%2F2022&number_rental_days=1
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357501/website/winter/267674773_9377021372369250_1873313155993111376_n.jpg
     image_alt: Groupe de skieur en cours de ski
     url: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fman-skis-rental&start-date=04%2F08%2F2022&number_rental_days=1
@@ -56,9 +61,13 @@ page_sections:
     image_alt: Deux skieurs en freeride
     title: Location de ski femme
     url: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=04%2F08%2F2022&number_rental_days=1
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357508/website/winter/278572408_23885291927782287_5643436219991857318_n.jpg
-    image_alt: Groupe ado en cours de ski
-    title: Location de ski adolescent
-    url: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-ado&start-date=04%2F08%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
+  title: Location de snowboard à Val Thorens
+  content: Découvrez les différentes offres de location de snowboard à Val Thorens
+    pour enfant, adolescent, homme et femme.
+- template: listOffres
+  blockBGcolor: gris
+  offreList: []
 
 ---
