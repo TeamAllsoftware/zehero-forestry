@@ -62,5 +62,21 @@ page_sections:
     image_alt: Deux personnes en ski sur piste
     title: Location de ski femme
     url: https://shop.ze-hero.com/fr/location-materiel?station=val-disere&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
+- template: textarea
+  blockBGcolor: blanc
+  title: Location de snowboard à Val d'Isère
+  content: Découvrez les différentes offres de location de snowboard à Val d'Isère
+    pour enfant, adolescent, homme et femme.
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642437407/website/Conseil%20/karsten-winegeart-1hHLeBZy2kk-unsplash_mw1ycs.jpg
+    image_alt: Snowboardeur tenant sa planche de snowboard
+    title: Location de snowboard adulte
+    url: https://shop.ze-hero.com/fr/location-materiel?station=val-disere&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641568162/website/Conseil%20/lex-valishvili-d0daXphrFlw-unsplash_g9engo.jpg
+    image_alt: Des personnes au sommets des pistes en snowboard
+    title: Location de snowboard enfant et ado
+    url: https://shop.ze-hero.com/fr/location-materiel?station=val-disere&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-enfant&start-date=27%2F11%2F2022&number_rental_days=1
 
 ---
