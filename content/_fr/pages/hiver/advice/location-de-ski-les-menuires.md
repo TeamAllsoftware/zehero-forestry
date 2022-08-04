@@ -68,5 +68,16 @@ page_sections:
   title: Location de snowboard aux Menuires
   content: Découvrez les différentes offres de location de snowboard à Les Menuires
     pour enfant, adolescent, homme et femme.
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642412358/website/Conseil%20/choisir-sa-chaussure-de-ski_tfivsu.jpg
+    image_alt: Plusieurs chaussures de ski de location
+    title: Location chaussures de ski
+    url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Fwoman-skis-rental&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001478/website/winter/VT_1207.jpg
+    image_alt: Snowboardeur en freeride
+    title: 'Location de chaussures '
+    url: https://shop.ze-hero.com/fr/location-materiel?station=les-menuires&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-chaussures&subslug=%2Flocation-boots-de-snowboard&start-date=27%2F11%2F2022&number_rental_days=1
 
 ---
