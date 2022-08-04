@@ -1,5 +1,5 @@
 ---
-layout: layout_generic
+layout: layout_advice
 language: fr
 type: generic
 season: winter
@@ -111,5 +111,7 @@ page_sections:
     des skis freeride ou encore des skis de randonnées. Louez vos skis et les snowboards
     pour les bébés skieurs jusqu'aux adultes. Louez du matériel de qualité à Les Menuires
     pour votre prochain séjour de ski."
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
+image01_alt: Vue de la station de ski des Menuires l'hiver au coucher de soleil
 
 ---
