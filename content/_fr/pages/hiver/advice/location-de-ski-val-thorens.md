@@ -40,7 +40,7 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à Val Thorens
-  content: 'Découvrez les différentes location de ski à Val Thorens pour : enfant,
+  content: 'Découvrez les différentes locations de ski à Val Thorens pour : enfant,
     adolescent, homme et femme.'
 - template: listOffres
   blockBGcolor: blanc
