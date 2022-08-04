@@ -103,9 +103,9 @@ page_sections:
     son matériel dans le magasin de ski Prosneige situé à Méribel centre, tout près
     du départ des cours de ski. L'enseigne professionnel de ski Prosneige est une
     école de ski indépendante qui vous permettra de prendre des cours de ski mais
-    également de louer et d'acheter du matériel à Méribel.   \nVous découvrez un choix
+    également de louer et d'acheter du matériel à Méribel.  \nVous découvrez un choix
     large de matériel avec de nombreux ski haut de gamme. Vous pourrez louer des skis
-    pour débutants, confirmés mais aussi experts. Le magasin de location met à dispostion
+    pour débutants, confirmés mais aussi experts. Le magasin de location met à disposition
     aussi différents types de ski comme les skis all-mountain, des skis freeride ou
     encore des skis de randonnées. Louez vos skis et les snowboards pour les bébés
     skieurs jusqu'aux adultes. Louez du matériel de qualité à Méribel pour votre prochain
