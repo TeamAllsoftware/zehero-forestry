@@ -68,5 +68,16 @@ page_sections:
   title: Location de snowboard à Méribel
   content: Découvrez les différentes offres de location de snowboard à Méribel pour
     enfant, adolescent, homme et femme.
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357505/website/winter/269889239_9441375549267165_2049531082446778310_n.jpg
+    image_alt: Groupe d'enfant en snowboard
+    title: Location de snowboard enfant
+    url: https://shop.ze-hero.com/fr/location-materiel?station=meribel&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-enfant&start-date=27%2F11%2F2022&number_rental_days=1
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357497/website/winter/272172059_9628804910524227_4698524840339624229_n.jpg
+    image_alt: 'Groupe de snowboardeur sur un télésiège '
+    title: Location de snowboard adulte
+    url: https://shop.ze-hero.com/fr/location-materiel?station=meribel&equipmentslug=%2Flocation-snowboard&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-adulte&start-date=27%2F11%2F2022&number_rental_days=1
 
 ---
