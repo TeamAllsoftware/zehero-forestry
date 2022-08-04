@@ -55,7 +55,7 @@ page_sections:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Ski-descente-poudreuse_jkfdf6.jpg
     image_alt: Un skieur en freeride
     title: Ski Freeride
-    url: "/fr/hiver/activites/ski-freeride"
+    url: "/fr/hiver/activite/reserver-ski-freeride"
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true
