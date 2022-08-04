@@ -25,7 +25,13 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos offres de location de ski
-  content: 'Découvrez toutes offres de location de ski dans nos stations. '
+  content: "Découvrez toutes offres de location de ski et de snowboard. Louez vos
+    skis dans les stations de Val Thorens, Les Menuires, Val d'Isère, l'Alpe d'Huez
+    ainsi qu'à Méribel. Vous trouverez un large choix de ski et de snowboard. Du matériel
+    adapté à votre niveau, du matériel de ski de qualité et technique avec également
+    des skis et des snowboard haut de gamme. Louez vos skis pour 1 jours ou pour la
+    semaine avec le casque et les chaussures en plus.  \nDécouvrez toutes nos offres
+    de location de ski ci-dessous : "
 - template: listConseils
   blockBGcolor: blanc
   service: advice
