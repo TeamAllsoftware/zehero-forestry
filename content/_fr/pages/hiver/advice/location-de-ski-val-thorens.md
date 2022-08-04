@@ -99,7 +99,7 @@ page_sections:
   title: La location de ski et snowboard à Val Thorens avec Ze Hero
   content: "La location de ski et snowboard à Val Thorens avec Ze Hero, c'est louer
     son matériel dans le magasin de ski Prosneige. L'enseigne professionnel de ski
-    Prosneige est une école de ski indépendante qui, en plu, de mettre à disposition
+    Prosneige est une école de ski indépendante qui, en plus, de mettre à disposition
     des cours privés et collectifs de ski, met à disposition de l'achat et de la location
     de ski et de snowboard dans la station de Val Thorens.  \nVous découvrez un choix
     varié de matériel pour les débutants jusqu'aux personnes expertes avec également
