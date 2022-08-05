@@ -79,7 +79,11 @@ page_sections:
   content: " "
 - template: listOffres
   blockBGcolor: blanc
-  offreList: []
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640266020/website/resorts/alpe%20d%27huez/jelrik-stevens-cocKZ3IgFhA-unsplash_dmg1mp.jpg
+    image_alt: Vue des pistes de ski de l'Alpe d'Huez
+    title: Location de ski Alpe d'Huez
+    url: "/fr/hiver/conseil/location-ski-alpe-huez"
 type: generic
 level: 1
 listMother: 1
