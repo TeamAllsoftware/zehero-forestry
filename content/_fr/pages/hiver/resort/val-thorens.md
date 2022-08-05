@@ -29,9 +29,11 @@ page_sections:
 
     Découvrez les écoles de ski de Val Thorens et leurs cours de ski et de snowboard dans notre page : [**Ecole de ski à Val Thorens**](/fr/hiver/conseils/ecole-ski-val-thorens)
   title: Val Thorens
+  blockBGcolor: ''
 - template: textarea
   content: " "
   title: Nos activités à Val Thorens
+  blockBGcolor: ''
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -62,6 +64,7 @@ page_sections:
     aux pistes noires. Partez à l’assaut de la cime de Caron et skier à plus de 3000m
     d’altitude. Profitez des hors-pistes de Peclet et des couchers de soleil magique
     sur les pistes.
+  title: ''
 baseline: Neige et soleil
 engage: 'test test test test test test test test '
 page_title: Val Thorens, la plus haute station d'Europe
@@ -69,10 +72,8 @@ button_to_link_to_ze_hero_shop:
   button_text: Voir les locations à Val-Thorens
   url_to_shop_zehero: https://shop.ze-hero.com/fr/location-materiel?station=val-thorens&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
 introduction:
-  you_arrive: Vous arrivez à Val-Thorens et souhaitez louer du matériel dans cette
-    station.
-  zehero_advice: ZE HERO vous conseille pour louer des skis, des chaussures de ski,
-    des casques et beaucoup d'autres équipements pour toute votre famille
+  you_arrive: ''
+  zehero_advice: ''
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 listMother: 2
 
