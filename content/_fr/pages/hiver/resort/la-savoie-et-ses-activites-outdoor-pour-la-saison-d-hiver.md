@@ -91,7 +91,23 @@ page_sections:
   content: " "
 - template: listOffres
   blockBGcolor: blanc
-  offreList: []
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640010902/website/resorts/val-thorens/joan-oger-CFntYTHRfRc-unsplash_qzraqh.jpg
+    image_alt: Télésiège et vue de la station de ski de Val Thorens
+    title: Location de ski Val Thorens
+    url: "/fr/hiver/conseil/location-ski-val-thorens"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338305/website/resorts/val-d-isere/yann-allegre-jk9B7M0OSnE-unsplash_i5yqk3.jpg
+    title: Location de ski Val d'Isère
+    url: "/fr/hiver/conseil/location-ski-val-disere"
+    image_alt: Piste de ski de Val d'Isère
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640611880/website/resorts/meribel/spurwing-agency-k_4m9_0PO3Q-unsplash_zjsfry.jpg
+    image_alt: Vue des pistes de ski de Méribel
+    title: Location de ski Méribel
+    url: "/fr/hiver/conseil/location-ski-meribel"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
+    image_alt: Vue de la station de ski des Menuires
+    title: Location de ski Les Menuires
+    url: "/fr/hiver/conseil/location-ski-les-menuires"
 type: generic
 level: 1
 listMother: 1
