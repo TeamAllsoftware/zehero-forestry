@@ -42,7 +42,7 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   intro: Découvrez dès maintenant nos activités canyoning
-  headline: Toutes nos offres de canyoning
+  headline: " "
   button:
     text_button: Nos offres
     href_button: "/fr/ete/activites/nos-canyonings"
