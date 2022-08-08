@@ -37,6 +37,10 @@ page_sections:
     \  \nclass=\"mapcontainer\"><div class=\"map\"> <span>Alternative content   \nfor
     the map</span></div></div></div></div>"
   title: Choisissez votre département de destination
+- template: textarea
+  blockBGcolor: blanc
+  title: Les activités du moments
+  content: " "
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -56,6 +60,15 @@ page_sections:
     image_alt: Un skieur en freeride
     title: Ski Freeride
     url: "/fr/hiver/activite/reserver-ski-freeride"
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos locations du moment
+  content: " "
+- template: listConseils
+  blockBGcolor: blanc
+  service: advice
+  filterLevel: 1
+  whatAdvice: Location de ski
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true
