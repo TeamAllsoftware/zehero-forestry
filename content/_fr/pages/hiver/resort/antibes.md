@@ -10,7 +10,7 @@ topnav_color_text: light
 resort_nameid: antibes
 resort_naming: Antibes
 title: Antibes et ses activités outdoor d'hiver
-titleHome: 
+titleHome: Antibes
 activite: station alpes maritimes
 level: 2
 enHome: 2
