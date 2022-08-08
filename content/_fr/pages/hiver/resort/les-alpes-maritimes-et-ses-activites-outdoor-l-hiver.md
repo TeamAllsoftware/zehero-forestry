@@ -46,7 +46,7 @@ page_sections:
   content: " "
 - template: listServices2
   blockBGcolor: blanc
-  service: activity
+  service: resort
   filterLevel: 2
   listMother: 2
   whatActivity: station alpes maritimes
