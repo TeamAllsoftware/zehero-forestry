@@ -41,12 +41,11 @@ page_sections:
   blockBGcolor: blanc
   title: Les activités du moments
   content: " "
-- template: listServices
+- template: listConseils
   blockBGcolor: blanc
-  service: activity
-  headtitle:
-    headline: ''
-    title: ''
+  service: advice
+  filterLevel: 1
+  whatAdvice: Activitées
 - template: listOffres
   blockBGcolor: blanc
   offreList:
