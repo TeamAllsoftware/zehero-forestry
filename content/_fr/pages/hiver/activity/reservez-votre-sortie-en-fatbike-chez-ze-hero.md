@@ -23,6 +23,17 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de Fatbike sur neige
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Fatbike sur neige by Ze Hero
+  title: Les offres de Fatbike
+  content: " "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
   title: Nos sorties en Fatbike électrique sur neige chez Ze Hero
