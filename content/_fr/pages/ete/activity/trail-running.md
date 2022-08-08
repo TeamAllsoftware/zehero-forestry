@@ -46,10 +46,10 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   intro: Découvrez dès maintenant nos activités trails
-  headline: Toutes nos offres
+  headline: " "
   button:
     href_button: "/fr/ete/activites/nos-sorties-trail"
-    text_button: Nos offres de trail
+    text_button: Nos offres
   blockBGcolor: blanc
   marge: 20
 - template: imagegallery02
