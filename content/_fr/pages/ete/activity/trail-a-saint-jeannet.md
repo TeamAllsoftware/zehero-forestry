@@ -56,6 +56,15 @@ page_sections:
     * **Équipement** : tenue adaptée au trail, chaussures de trail, sac ou ceinture de portage avec flasques d’eau (2 fois 500ml ou plus) + réserve alimentaire et coupe vent.
     * **Prix** : 60€
   title: Les détails
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304660/website/summer/IMG_9228.jpg
+  atl_text_image_01: Coureur à Saint Jeannet
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1659946069/website/By%20Ze%20Hero%20Activity/G0020177_1614442334650.jpg
+  atl_text_image_02: Traileur sur les sentiers à Saint Jeannet
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1659946072/website/By%20Ze%20Hero%20Activity/IMG20210214134517.jpg
+  atl_text_image_03: Une coureuse vers le Baou de la Gaude
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1659946037/website/By%20Ze%20Hero%20Activity/IMG_20190920_072728.jpg
+  atl_text_image_04: Levé de soleil au Baou de Saint Jeannet
 - template: textarea
   blockBGcolor: blanc
   content: Le Trail à Saint Jeannet c’est courir sur des sentiers plutôt techniques.
