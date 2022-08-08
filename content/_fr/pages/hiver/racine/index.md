@@ -41,11 +41,6 @@ page_sections:
   blockBGcolor: blanc
   title: Les activités du moments
   content: " "
-- template: listServices2
-  blockBGcolor: blanc
-  service: activity
-  filterLevel: 1
-  listMother: 1
 - template: listOffres
   blockBGcolor: blanc
   offreList:
