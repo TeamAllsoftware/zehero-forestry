@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 season: winter
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Trail Running
 titleHome: Trail Running
 activite: trail
@@ -117,6 +117,6 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 categorie: Running / Trail
 listMother: 1
-conseil: Activitées
+conseil: ''
 
 ---
