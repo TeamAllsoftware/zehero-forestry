@@ -8,7 +8,7 @@ listMother: 1
 topnav_color_text: light
 title: Location de ski Alpe d'Huez
 titleHome: Location de ski Alpe d'Huez
-activite: Location de ski Huez
+activite: ''
 conseil: 'Location de ski '
 permalink: "/fr/hiver/conseil/location-ski-alpe-huez"
 meta-title: Location de ski et de snowboard - Alpe d'Huez
