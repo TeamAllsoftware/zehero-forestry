@@ -39,6 +39,12 @@ page_sections:
   blockBGcolor: blanc
   title: Nos destinations en Savoie
   content: " "
+- template: listServices2
+  blockBGcolor: blanc
+  service: resort
+  filterLevel: 2
+  listMother: 2
+  whatActivity: station savoie
 - template: listOffres
   blockBGcolor: blanc
   offreList:
