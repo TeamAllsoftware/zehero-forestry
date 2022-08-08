@@ -11,7 +11,7 @@ resort_nameid: antibes
 resort_naming: Antibes
 title: Antibes et ses activités outdoor d'hiver
 titleHome: 
-activite: 
+activite: station alpes maritimes
 level: 2
 enHome: 2
 meta-title: Activités outdoor à Antibes pour l'hiver
