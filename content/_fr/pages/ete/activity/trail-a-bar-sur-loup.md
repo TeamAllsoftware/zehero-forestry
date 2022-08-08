@@ -44,16 +44,6 @@ page_sections:
     text_button: Réservez
   intro: Découvrez le trail à Bar sur Loup
   headline: " "
-- template: imagegallery02
-  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
-  atl_text_image_02: Coureur vers Gourdon
-  atl_text_image_01: Coureur à Bar sur Loup
-  atl_text_image_03: Coureur vers Caussol
-  atl_text_image_04: Coureur vers Caussol
-  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655970333/website/By%20Ze%20Hero%20Activity/IMG20220612105528_1.jpg
-  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655970362/website/By%20Ze%20Hero%20Activity/IMG20220612114909.jpg
-  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655970365/website/By%20Ze%20Hero%20Activity/IMG20220502130307.jpg
-  title: ''
 - template: textarea
   blockBGcolor: blanc
   content: |-
@@ -67,6 +57,16 @@ page_sections:
     * **Équipement** : tenue adaptée au trail, chaussures de trail, sac ou ceinture de portage avec flasques d’eau (2 fois 500ml ou plus) + réserve alimentaire et coupe vent.
     * **Prix** : 60€ à 80€
   title: Les détails
+- template: imagegallery02
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1649774714/website/By%20Ze%20Hero%20Activity/GOPR1191_1649586678885.jpg
+  atl_text_image_02: Coureur vers Gourdon
+  atl_text_image_01: Coureur à Bar sur Loup
+  atl_text_image_03: Coureur vers Caussol
+  atl_text_image_04: Coureur vers Caussol
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655970333/website/By%20Ze%20Hero%20Activity/IMG20220612105528_1.jpg
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655970362/website/By%20Ze%20Hero%20Activity/IMG20220612114909.jpg
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655970365/website/By%20Ze%20Hero%20Activity/IMG20220502130307.jpg
+  title: ''
 - template: textarea
   blockBGcolor: blanc
   content: |-
