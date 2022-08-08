@@ -41,11 +41,6 @@ page_sections:
   blockBGcolor: blanc
   title: Les activités du moments
   content: " "
-- template: listConseils
-  blockBGcolor: blanc
-  service: advice
-  filterLevel: 1
-  whatAdvice: Activitées
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -141,6 +136,11 @@ page_sections:
   title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
   url_link: https://shop.ze-hero.com/fr/
   title_link: Visiter la boutique
+- template: listServices2
+  blockBGcolor: blanc
+  service: activity
+  filterLevel: 1
+  listMother: 1
 author: geoffreyarduini
 baseline: ''
 button_to_link_to_ze_hero_shop:
