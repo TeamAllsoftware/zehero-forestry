@@ -46,7 +46,7 @@ page_sections:
     href_button: "/fr/ete/activites/reserver-cours-surf"
     text_button: Nos offres
   intro: Découvrez dès maintenant nos activités surf
-  headline: Toutes nos offres
+  headline: " "
   blockBGcolor: blanc
   marge: 20
 - template: textarea
