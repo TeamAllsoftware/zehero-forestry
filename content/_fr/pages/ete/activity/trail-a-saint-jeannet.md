@@ -19,11 +19,13 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: 'Trail à Saint Jeannet : Débutant'
-- template: imgWideInBox
+- template: 2colimgtxt
   blockBGcolor: blanc
-  imageList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
-    image_alt: Logo Ze Hero
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Trail by Ze Hero
+  title: Trail Saint Jeannet
+  content: " "
 - template: textarea
   blockBGcolor: blanc
   content: |-
