@@ -22,22 +22,24 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de snowboard
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Snowboard by Ze Hero
+  title: Nos offres de snowboard
+  content: " "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours de snowboard chez Ze Hero
-  content: "Découvrez tous nos cours de snowboard chez Ze Hero. Réservez un cours
-    de snowboard afin de débuter, de progresser et même de vous perfectionner dans
-    cette discipline. Que ce soit pour rider sur les pistes, en freeride, apprendre
-    le freestyle, chausser vos boots et suivez votre moniteur de snowboard. Nous vous
-    proposons un choix varié de cours de snowboard pour tous les niveaux. Vous trouverez
-    des cours pour les enfants, les adolescents mais également les adultes.  \nDécouvrez
-    toutes les infos du snowboard sur notre page \" [**Snowboard**](/fr/hiver/activites/snowboard)
-    \"\n\nVous trouverez toutes nos offres dans une multitude de stations de ski tel
-    que Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez et les
-    Menuires.  \nVous ne savez pas quoi choisir entre un cours privé et un cours collectif
-    ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**\n\nCours
-    de snowboard de piste privé ou collectifs dans ces diverses stations, voici toutes
-    nos offres pour vous :"
+  content: |-
+    Découvrez tous nos cours de [**snowboard**](/fr/hiver/activites/snowboard) chez Ze Hero. Réservez un cours de snowboard afin de débuter, de progresser et même de vous perfectionner dans cette discipline. Que ce soit pour rider sur les pistes, en freeride, apprendre le freestyle, chausser vos boots et suivez votre moniteur de snowboard. Nous vous proposons un choix varié de cours de snowboard pour tous les niveaux. Vous trouverez des cours pour les enfants, les adolescents mais également les adultes. Réservez vos cours de snowboard à Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez et les Menuires.
+
+    Vous ne savez pas quoi choisir entre un cours privé et un cours collectif ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours collectifs snowboard enfants
