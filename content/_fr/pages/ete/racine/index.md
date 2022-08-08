@@ -35,6 +35,9 @@ page_sections:
     colorés en vert.</p></div> <div class=\"col-11\ncol-xl-6 offset-xl-1 col-md-6
     wow animate__fadeIn\" data-wow-delay=\"0.2s\"><div\nclass=\"mapcontainer\"><div
     class=\"map\"> <span>Alternative content\nfor the map</span></div></div></div></div>"
+- template: listServices
+  blockBGcolor: blanc
+  service: activity
 - template: listOffres
   blockBGcolor: blanc
   headtitle:
