@@ -36,9 +36,9 @@ page_sections:
   marge: 20
   button:
     href_button: https://www.montblancescalade.com/fr/
-    text_button: Nos offres d'escalade
-  intro: Découvrez la salle d'escalade
-  headline: aux Houches
+    text_button: La salle
+  intro: Découvrez Mont Blanc Escalace
+  headline: " "
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278285/website/escalade/brook-anderson-gTQbZXL417Q-unsplash.jpg
   atl_text_image_01: 'Corde d''escalade dans des dégaines '
