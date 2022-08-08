@@ -51,6 +51,11 @@ page_sections:
   title: Dernières informations
   item:
   - 'Prix : 60€ les 3h'
+- template: imgWideInBox
+  blockBGcolor: blanc
+  imageList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/website/logo/Sur%20fond%20fonce%CC%81/logo-ze-hero-horizontal_6_xogjrv.png
+    image_alt: Logo de Ze Hero
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304660/website/summer/IMG_9228.jpg
 image01_alt: Coureur dans le Baou de Saint Jeannet
 listMother: 2
