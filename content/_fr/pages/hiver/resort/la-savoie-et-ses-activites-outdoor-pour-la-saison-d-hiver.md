@@ -45,29 +45,6 @@ page_sections:
   filterLevel: 2
   listMother: 2
   whatActivity: station savoie
-- template: listOffres
-  blockBGcolor: blanc
-  offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640177481/website/resorts/val-thorens/Valthorens_pzpbgc.jpg
-    image_alt: Station de ski de Val Thorens
-    title: Val Thorens
-    url: "/fr/hiver/destinations/val-thorens"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338319/website/resorts/val-d-isere/kamala-bright-HqknZ4LufDE-unsplash_swsl2n.jpg
-    image_alt: Station de ski de Val d'Isère la nuit illuminé
-    title: Val d'Isère
-    url: "/fr/hiver/destinations/val-d-isere"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640611880/website/resorts/meribel/spurwing-agency-k_4m9_0PO3Q-unsplash_zjsfry.jpg
-    image_alt: Station de ski de Méribel
-    title: Méribel
-    url: "/fr/hiver/destinations/meribel"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
-    image_alt: Station de ski des Ménuires au coucher de soleil
-    url: "/fr/hiver/destinations/les-menuires"
-    title: Les Menuires
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640588508/website/resorts/Tignes/tim-arnold-4L_EZk4HG1A-unsplash_w4zb0q.jpg
-    image_alt: Montagnes et station de ski de Tignes
-    title: Tignes
-    url: "/fr/hiver/destinations/tignes"
 - template: textarea
   blockBGcolor: blanc
   title: Nos activités en Savoie
