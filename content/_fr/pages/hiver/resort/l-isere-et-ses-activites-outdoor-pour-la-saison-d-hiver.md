@@ -43,6 +43,12 @@ page_sections:
   blockBGcolor: blanc
   title: 'Nos destinations en Isère '
   content: " "
+- template: listServices2
+  blockBGcolor: blanc
+  service: activity
+  filterLevel: 2
+  listMother: 2
+  whatActivity: station isere
 - template: listOffres
   blockBGcolor: blanc
   offreList:
