@@ -8,7 +8,7 @@ season: winter
 type: generic
 topnav_color_text: light
 title: Raquettes à neige
-titleHome: raquette à neige
+titleHome: Raquette à neige
 activite: raquettes
 level: 1
 enHome: 2
