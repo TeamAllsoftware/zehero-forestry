@@ -88,7 +88,7 @@ page_sections:
   service: advice
   filterLevel: 2
   listMother: 2
-  whatActivity: location de ski huez
+  whatActivity: Location de ski Huez
 type: generic
 level: 1
 listMother: 1
