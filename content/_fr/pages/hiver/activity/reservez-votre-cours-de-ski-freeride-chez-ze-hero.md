@@ -25,7 +25,7 @@ page_sections:
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
-  alt_text_for_image: Logo Ze Heroa
+  alt_text_for_image: Logo Ze Hero
   captiontitleuppercase: Le ski freeride by Ze Hero
   title: Nos offres de ski freeride
   content: " "
