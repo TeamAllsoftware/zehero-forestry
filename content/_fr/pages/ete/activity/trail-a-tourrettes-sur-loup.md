@@ -56,6 +56,15 @@ page_sections:
     * **Équipement** : tenue adaptée au trail, chaussures de trail, sac ou ceinture de portage avec flasques d’eau (2 fois 500ml ou plus) + réserve alimentaire et coupe vent.
     * **Prix** : 60€
   title: Les détails
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1659957073/website/By%20Ze%20Hero%20Activity/IMG_20201202_151648.jpg
+  atl_text_image_01: Vue du pic de Courmettes avec de la neige
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1659957076/website/By%20Ze%20Hero%20Activity/IMG_20201017_145050_016.jpg
+  atl_text_image_02: Coureur dans les hauteurs de courmes
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1659957047/website/By%20Ze%20Hero%20Activity/IMG_20201202_150751.jpg
+  atl_text_image_03: Sommet du pic des Courmettes
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1659957081/website/By%20Ze%20Hero%20Activity/IMG20210702184240.jpg
+  atl_text_image_04: Face du pic des Courmettes
 - template: textarea
   blockBGcolor: blanc
   title: ''
@@ -63,9 +72,6 @@ page_sections:
     Explication sur le trail avec enseignement sur la technique de montée avec ou sans bâtons, sur la descente de descente et sur les différents entraînements en trail tel que le fractionner. Sortie basée sur l’endurance avec jeu ludique d’entraînement durant la séance.
 
     Le Trail à Tourrettes sur Loup, c'est découvrir ce petit village de pierre de la Côte d’Azur et des Préalpes d'Azur. Tout proche de Nice, il est construit au bord d'une petite falaise et ravin, il se trouve également au pied du Pic des Courmettes et du Puy de Tourrettes. Ce sont deux sommets qui sont face à face et qui vous offre une magnifique vue sur la baie et le Mercantour de l'autre côté. Le terrain est idéal pour se prêter au trail et s'initier à cette pratique en découvrant un magnifique environnement. On retrouve des sentiers techniques, des sentiers roulants, des monotraces ainsi que des chemins 4*4, de belles descentes, des crêtes et des passages en forêt.
-- template: liststyle01
-  title: Derniers informations
-  item: []
 conseil: ''
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655715196/website/By%20Ze%20Hero%20Activity/IMG20211104075044.jpg
 image01_alt: Vue de Puy de Tourrettes
