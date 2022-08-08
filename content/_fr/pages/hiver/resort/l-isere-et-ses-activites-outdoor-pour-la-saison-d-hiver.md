@@ -83,6 +83,12 @@ page_sections:
     image_alt: Vue des pistes de ski de l'Alpe d'Huez
     title: Location de ski Alpe d'Huez
     url: "/fr/hiver/conseil/location-ski-alpe-huez"
+- template: listServices2
+  blockBGcolor: blanc
+  service: advice
+  filterLevel: 2
+  listMother: 2
+  whatActivity: location de ski huez
 type: generic
 level: 1
 listMother: 1
