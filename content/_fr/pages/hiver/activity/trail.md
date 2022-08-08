@@ -117,6 +117,6 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
 categorie: Running / Trail
 listMother: 1
-conseil: ''
+conseil: Activitées
 
 ---
