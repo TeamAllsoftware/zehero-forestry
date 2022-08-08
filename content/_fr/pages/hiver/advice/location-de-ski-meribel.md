@@ -21,24 +21,33 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Location de ski à Méribel
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Location de ski By Ze Hero
+  title: Location de ski Méribel
+  content: " "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
   title: Location de ski et de snowboard à Méribel
   content: "Vous désirez louer du matériel et vous cherchez un magasin de location
     de ski et de snowboard à Méribel ? Découvrez sur Ze Hero toutes nos offres de
-    location afin de trouver le matériel qui vous correspond et qui sera adapté à
-    votre niveau et vos envies.  \nTout d'abord, il est important de bien choisir
-    son magasin de location de ski à Méribel. Méribel est composée de 5 villages avec
-    Méribel-Centre et Méribel-Mottaret comme lieux principaux. Vous trouverez de nombreux
-    magasins de location à Méribel. Pour bien choisir votre magasin, voici nos astuces
-    : son emplacement doit être près de votre logement, vérifier les horaires d'ouverture
-    afin de ne pas avoir de contrainte et vous pouvez regarder les avis des clients
-    sur ce magasin de location de ski à Méribel.  \nDécouvrez plus d'infos dans notre
-    page : [**Choisir son magasin de location**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)\n\nAfin
-    de bien comprendre les différents types de skis et de snowboards de location,
-    nous avons créé une page \" Conseils \" pour vous. Vous découvrirez comment bien
-    choisir son ski et son snowboard de location en fonction de votre niveau et de
-    l'âge.  \nDécouvrez plus d'infos dans notre page : [**Choisir ses skis de location**](/fr/hiver/conseils/choisir-ski-location)"
+    location afin de trouver le matériel qui vous correspond et adapté à votre niveau.
+    Tout d'abord, il est important de bien c[**hoisir son magasin de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
+    à Méribel. Méribel est composée de 5 villages avec Méribel-Centre et Méribel-Mottaret
+    comme lieux principaux. Vous trouverez de nombreux magasins de location à Méribel.
+    Pour bien choisir votre magasin, voici nos astuces : son emplacement doit être
+    près de votre logement, vérifier les horaires d'ouverture afin de ne pas avoir
+    de contrainte et vous pouvez regarder les avis des clients sur ce magasin de location
+    de ski à Méribel.   \nAfin de bien comprendre les différents types de [**skis
+    et de snowboards de location**](/fr/hiver/conseils/choisir-ski-location), nous
+    avons créé une page \" Conseils \" pour vous. Vous découvrirez comment bien choisir
+    son ski et son snowboard de location en fonction de votre niveau et de l'âge."
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à Méribel
