@@ -46,9 +46,9 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   intro: Découvrez nos activités de ski de randonnée
-  headline: Toutes nos offres
+  headline: " "
   button:
-    text_button: Réserver maintenant >
+    text_button: Nos offres
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
   blockBGcolor: blanc
   marge: 20
