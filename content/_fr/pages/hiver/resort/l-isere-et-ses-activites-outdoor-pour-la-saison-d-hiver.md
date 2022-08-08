@@ -86,7 +86,7 @@ page_sections:
 - template: listServices2
   blockBGcolor: blanc
   service: advice
-  filterLevel: 2
+  filterLevel: 1
   listMother: 2
   whatActivity: Location de ski Huez
 type: generic
