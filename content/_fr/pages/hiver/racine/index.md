@@ -41,6 +41,9 @@ page_sections:
   blockBGcolor: blanc
   title: Les activités du moments
   content: " "
+- template: listServices
+  blockBGcolor: blanc
+  service: activity
 - template: listOffres
   blockBGcolor: blanc
   offreList:
