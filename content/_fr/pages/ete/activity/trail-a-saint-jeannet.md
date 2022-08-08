@@ -38,7 +38,7 @@ page_sections:
   blockBGcolor: blanc
   marge: 20
   intro: Découvrez le trail à Saint Jeannet
-  headline: 'en trail '
+  headline: " "
   button:
     text_button: Réservez ici
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17600-trail-matin-st-jeannet-ze-hero-yann-alarcon
