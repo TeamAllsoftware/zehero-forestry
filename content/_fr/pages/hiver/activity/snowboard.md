@@ -37,7 +37,7 @@ page_sections:
   blockBGcolor: blanc
   marge: 20
   intro: Découvrez nos activités de snowboard
-  headline: Toutes nos offres
+  headline: " "
   button:
     text_button: Nos offres
     href_button: "/fr/hiver/activites/reserver-cours-snowboard"
