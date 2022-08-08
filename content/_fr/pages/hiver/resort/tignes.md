@@ -11,7 +11,7 @@ topnav_color_text: light
 resort_nameid: tignes
 resort_naming: Tignes
 title: Tignes et ses activités outdoor d'hiver
-titleHome: Les activités à Tignes
+titleHome: Tignes
 activite: station savoie
 level: 2
 enHome: 2
