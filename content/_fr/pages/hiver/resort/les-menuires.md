@@ -11,7 +11,7 @@ resort_nameid: les_menuires
 resort_naming: Les Menuires
 title: Les Menuires et ses activités outdoor d'hiver
 titleHome: Les activités aux Menuires
-activite: 
+activite: station savoie
 level: 2
 enHome: 2
 meta-title: Activités outdoor aux Ménuires pour l'hiver

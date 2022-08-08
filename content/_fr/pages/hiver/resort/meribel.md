@@ -11,7 +11,7 @@ resort_nameid: meribel
 resort_naming: Méribel
 title: Méribel et ses activités outdoor d'hiver
 titleHome: Nos activités à Méribel
-activite: ''
+activite: station savoie
 level: 2
 enHome: 2
 meta-title: Activités outdoor à Méribel pour l'hiver
