@@ -10,7 +10,7 @@ topnav_color_text: light
 resort_nameid: les_menuires
 resort_naming: Les Menuires
 title: Les Menuires et ses activités outdoor d'hiver
-titleHome: Les activités aux Menuires
+titleHome: Les Menuires
 activite: station savoie
 level: 2
 enHome: 2
