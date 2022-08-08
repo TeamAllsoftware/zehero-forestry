@@ -44,6 +44,9 @@ page_sections:
 - template: listServices
   blockBGcolor: blanc
   service: activity
+  headtitle:
+    headline: g
+    title: g
 - template: listOffres
   blockBGcolor: blanc
   offreList:
