@@ -28,11 +28,12 @@ page_sections:
   content: " "
 - template: textarea
   blockBGcolor: blanc
-  content: "Nous vous proposons différents types de sorties de Trail à Saint Jeannet.
+  content: Nous vous proposons différents types de sorties de Trail à Saint Jeannet.
     Une sortie plutôt pour s’initier au trail avec une boucle de 13km et 640m de dénivelé.
     L'autre parcours de trail est de 18km km et 730m de dénivelé. Vous découvrirez
     le baou de St-Jeannet, le Mouton d'Anou, le baou de la Gaude et son chêne immense
-    ainsi que le château du Castellet.  \n\nDécouvrons les spécificités :"
+    ainsi que le château du Castellet. Pour une durée de 2h à 3h, fouler les sentiers
+    techniques et rocailleux.
   title: Le Trail à Saint Jeannet
 - template: cta
   blockBGcolor: blanc
