@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 season: winter
 type: generic
-topnav_color_text: light
+topnav_color_text: dark
 title: Trail Running
 titleHome: Trail Running
 activite: trail
