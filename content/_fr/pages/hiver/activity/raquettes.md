@@ -39,9 +39,9 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   intro: Découvrez nos activités de raquette à neige
-  headline: Toutes nos offres
+  headline: " "
   button:
-    text_button: 'Réserver maintenant '
+    text_button: Nos offres
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
   blockBGcolor: blanc
   marge: 20
