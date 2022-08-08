@@ -42,7 +42,7 @@ page_sections:
     href_button: "/fr/hiver/activite/reserver-ski-freeride"
     text_button: Nos offres
   intro: Découvrez nos activités de ski freeride
-  headline: Toutes nos offres
+  headline: " "
   blockBGcolor: blanc
   marge: 20
 - template: imagegallery02
