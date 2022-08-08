@@ -22,8 +22,8 @@ page_sections:
 - template: imgWideInBox
   blockBGcolor: blanc
   imageList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094645/website/logo/Sur%20fond%20fonce%CC%81/logo-ze-hero-horizontal_6_xogjrv.png
-    image_alt: Logo de Ze Hero
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+    image_alt: Logo Ze Hero
 - template: textarea
   blockBGcolor: blanc
   content: |-
