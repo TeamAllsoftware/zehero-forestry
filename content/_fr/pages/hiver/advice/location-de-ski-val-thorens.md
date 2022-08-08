@@ -21,22 +21,32 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Location de ski à Val Thorens
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Location de ski By Ze Hero
+  title: Location de ski Val Thorens
+  content: " "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
   title: Location de ski et de snowboard à Val Thorens
   content: "Vous cherchez un magasin de location de ski et de snowboard à Val Thorens
-    ? Découvrez toutes nos offres de location afin de trouver le bon matériel qu'il
-    faut vous faut et adapté à votre niveau et vos envies.  \nIl est important de
-    choisir d'abord son magasin de location de ski à Val Thorens. Il en existe énormément
-    au sein de la station. Voici les astuces pour le choisir correctement : son emplacement
-    doit être près de votre logement, vérifier les horaires d'ouverture afin de ne
-    pas avoir de contrainte et vous pouvez regarder les avis des clients sur ce magasin
-    de location de ski à Val Thorens.  \nDécouvrez plus d'infos dans notre page :
-    [**Choisir son magasin de location**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)\n\nAfin
-    de bien comprendre les différents skis et snowboards de location, nous avons créé
-    une page \" Conseils \" pour vous. Vous découvrirez comment bien choisir son ski
-    et son snowboard de location en fonction de votre niveau et de l'âge.   \nDécouvrez
-    plus d'infos dans notre page : [**Choisir ses skis de location**](/fr/hiver/conseils/choisir-ski-location)"
+    ? Découvrez toutes nos offres de location afin de trouver le bon matériel adapté
+    à votre niveau et vos envies. Il est important de [**choisir son magasin de location
+    de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
+    à Val Thorens. Il en existe énormément au sein de la station. Voici les astuces
+    pour le choisir correctement : son emplacement doit être près de votre logement,
+    vérifier les horaires d'ouverture afin de ne pas avoir de contrainte et vous pouvez
+    regarder les avis des clients sur ce magasin de location de ski à Val Thorens.
+    \ \nAfin de bien comprendre les [**différents types skis et snowboards de location**](/fr/hiver/conseils/choisir-ski-location),
+    nous avons créé une page \" Conseils \" pour vous. Vous découvrirez comment bien
+    choisir son ski et son snowboard de location en fonction de votre niveau et de
+    l'âge."
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à Val Thorens
