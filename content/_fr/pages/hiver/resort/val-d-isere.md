@@ -10,7 +10,7 @@ topnav_color_text: light
 resort_nameid: val_d_isere
 resort_naming: Val D'Isère
 title: Val d'Isère et ses activités outdoor d'hiver
-titleHome: Nos activités à Val d'Isère
+titleHome: Val d'Isère
 activite: station savoie
 level: 2
 enHome: 2
