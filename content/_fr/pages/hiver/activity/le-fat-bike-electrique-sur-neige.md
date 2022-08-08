@@ -48,7 +48,7 @@ page_sections:
   blockBGcolor: blanc
   marge: 20
   intro: Découvrez dès maintenant nos activités de Fat bike
-  headline: Toutes nos offres
+  headline: " "
   button:
     href_button: "/fr/hiver/activites/reserver-sortie-fatbike-neige"
     text_button: Nos offres
