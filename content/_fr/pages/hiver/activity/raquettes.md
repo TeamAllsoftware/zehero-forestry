@@ -6,7 +6,7 @@ redirect_from:
 language: fr
 season: winter
 type: generic
-topnav_color_text: light
+topnav_color_text: dark
 title: Raquettes à neige
 titleHome: Raquette à neige
 activite: raquettes
