@@ -10,7 +10,7 @@ topnav_color_text: light
 resort_nameid: val_thorens
 resort_naming: Val-Thorens
 title: Val-Thorens et ses activités outdoor d'hiver
-titleHome: Nos activités à Val Thorens
+titleHome: Val Thorens
 activite: station savoie
 level: 2
 enHome: 2
