@@ -21,23 +21,32 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Location de ski à Val d'Isère
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Location de ski By Ze Hero
+  title: Location de ski Val d'Isère
+  content: " "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
   title: Location de ski et de snowboard à Val d'Isère
   content: "Vous souhaitez louer du matériel et trouver un magasin de location de
     ski et de snowboard à Val d'Isère? Découvrez toutes nos offres de location afin
-    de trouver le bon matériel qui sera adapté à vos besoins et votre niveau.  \nDans
-    un 1er temps, il est important de choisir son magasin de location de ski à Val
-    d'Isère. Il en existe énormément au sein de la station. Nous vous donnons quelques
-    astuces pour le choisir correctement : son emplacement doit être près de votre
-    logement, vérifier les horaires d'ouverture afin de ne pas avoir de contrainte
+    de trouver le bon matériel adapté à vos besoins et votre niveau. Dans un 1er temps,
+    il est important de [**choisir son magasin de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
+    à Val d'Isère. Il en existe énormément au sein de la station. Nous vous donnons
+    quelques astuces pour le choisir correctement : son emplacement doit être près
+    de votre logement, vérifier les horaires d'ouverture afin de ne pas avoir de contrainte
     et vous pouvez regarder les avis des clients sur ce magasin de location de ski
-    à Val d'Isère.  \nDécouvrez plus d'infos dans notre page : [**Choisir son magasin
-    de location**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)\n\nAfin
-    de bien comprendre les différents skis et snowboards de location, nous avons créé
-    une page \" Conseils \" pour vous. Vous découvrirez comment bien choisir son ski
-    et son snowboard de location en fonction de votre niveau et de l'âge.  \nDécouvrez
-    plus d'infos dans notre page : [**Choisir ses skis de location**](/fr/hiver/conseils/choisir-ski-location)"
+    à Val d'Isère.  \nAfin de bien comprendre les [**différents skis et snowboards
+    de location**](/fr/hiver/conseils/choisir-ski-location), nous avons créé une page
+    \" Conseils \" pour vous. Vous découvrirez comment bien choisir son ski et son
+    snowboard de location en fonction de votre niveau et de l'âge."
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à Val d'Isère
