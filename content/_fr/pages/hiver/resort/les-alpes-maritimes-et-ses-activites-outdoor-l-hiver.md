@@ -44,9 +44,12 @@ page_sections:
   blockBGcolor: blanc
   title: Nos destinations dans les Alpes Maritimes
   content: " "
-- template: listOffres
+- template: listServices2
   blockBGcolor: blanc
-  offreList: []
+  service: activity
+  filterLevel: 2
+  listMother: 2
+  whatActivity: station alpes maritimes
 - template: textarea
   blockBGcolor: blanc
   title: Nos activités dans les Alpes Maritimes
