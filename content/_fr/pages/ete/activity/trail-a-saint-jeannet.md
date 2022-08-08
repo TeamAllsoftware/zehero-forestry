@@ -28,12 +28,11 @@ page_sections:
   content: " "
 - template: textarea
   blockBGcolor: blanc
-  content: |-
-    Pratiquer le trail à Saint Jeannet, c’est parcourir les Préalpes d’Azur et l’arrière-pays niçois, c’est découvrir le baou de saint Jeannet, lieux emblématiques, c’est également courir sur ces grands plateaux où vous croiserez moutons et chèvres. Un terrain technique où passe le GR51. Tout proche de Nice et de Villeuneuve Loubet, vous pourrez en 30mn être de la mer au village afin de prendre de la hauteur dans une nature préservée.
-
-    Nous proposons différents types de sorties à Saint Jeannet de Trail. Une sortie plutôt pour s’initier au trail avec différents types de parcours possible pour découvrir les lieux et le trail tout en progressant.
-
-    Découvrons les spécificités :
+  content: "Nous vous proposons différents types de sorties de Trail à Saint Jeannet.
+    Une sortie plutôt pour s’initier au trail avec une boucle de 13km et 640m de dénivelé.
+    L'autre parcours de trail est de 18km km et 730m de dénivelé. Vous découvrirez
+    le baou de St-Jeannet, le Mouton d'Anou, le baou de la Gaude et son chêne immense
+    ainsi que le château du Castellet.  \n\nDécouvrons les spécificités :"
   title: Le Trail à Saint Jeannet
 - template: cta
   blockBGcolor: blanc
