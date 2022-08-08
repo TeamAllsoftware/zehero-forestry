@@ -46,7 +46,7 @@ page_sections:
     href_button: "/fr/hiver/activites/reserver-cours-ski-piste"
     text_button: Nos offres
   intro: Découvrez nos activités de ski de piste
-  headline: Toutes nos offres
+  headline: " "
   blockBGcolor: blanc
   marge: 20
 - template: imagegallery02
