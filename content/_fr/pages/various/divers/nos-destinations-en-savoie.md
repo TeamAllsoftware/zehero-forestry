@@ -58,6 +58,12 @@ page_sections:
     alors rouler en VTT à Méribel et à Les Menuires avec notre moniteur de VTT. Vous
     pourrez également découvrir les hauteurs d’Aix les Bains et le plateau du Grand
     Revard avec Expérience Vélo."
+- template: listServices2
+  blockBGcolor: blanc
+  service: resort
+  filterLevel: 2
+  listMother: 2
+  whatActivity: station savoie ete
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -74,11 +80,5 @@ page_sections:
     image_alt: Vue du lac du Bourget
     title: Aix les Bains - Le Revard
     url: "/fr/ete/destinations/aix-les-bains-le-revard"
-- template: listServices2
-  blockBGcolor: blanc
-  service: resort
-  filterLevel: 1
-  listMother: 2
-  whatActivity: station savoie ete
 
 ---
