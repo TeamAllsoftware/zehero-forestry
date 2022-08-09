@@ -10,7 +10,7 @@ title: Réservez une activités neige pour vos enfants
 titleHome: Réservez une activités neige pour vos enfants
 activite: Activité enfants
 conseil: ''
-permalink: "/fr/hiver/activite/actvites-enfants"
+permalink: "/fr/hiver/activite/reserver-activites-enfants"
 meta-title: Réservez une activité neige pour enfants
 meta-description: 'Réservez une activité neige pour vos enfants. Découvrez les nombreuses
   activités, autre que le ski, que vous enfants pourront profiter dans la neige :
