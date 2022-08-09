@@ -49,5 +49,24 @@ page_sections:
     et bien d’autres. Vous trouverez l’activité idéale pour votre enfant pour un moment
     de plaisir dans la neige.  \nDécouvrez toutes nos activités pour enfants dans
     les stations de Val Thorens, Méribel, l’Alpe d’Huez, Val d'Isère et les Menuires."
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492446/website/winter/abbat-f4Z2czDXO0U-unsplash_uiso94.jpg
+    image_alt: Enfant jouant sur une luge
+    title: Activités enfants Alpes d'Huez
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+collectif&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639492449/website/winter/ethan-hu-5WIqleHzOok-unsplash_trphkc.jpg
+    image_alt: Enfants faisant un bonhomme de neige
+    title: Activités enfants Val Thorens
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658933180/website/winter/activites-club-enfants-ski-prosneige.jpg
+    image_alt: Enfant avec une luge gonflable
+    title: Activités enfants Les Menuires
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001438/website/winter/1_Sylvain-Aymoz30122017.jpg
+    image_alt: Construction d'igloo la nuit
+    title: Activités enfant Méribel
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
 
 ---
