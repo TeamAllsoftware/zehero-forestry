@@ -47,6 +47,25 @@ page_sections:
     Nous partirons, en fonction des groupes, sur des itinérances à la demi-journée
     jusqu’à la journée entière. Nous proposons également des sorties en itinérance
     en fonction de la météo.
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660059824/website/By%20Ze%20Hero%20Activity/IMG20210417105538.jpg
+    image_alt: Deux traileur au dessus de Gourdon
+    title: Trail Bivouac Gourdon
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/trail/18359-trail-bivouac-gourdon-alpe-maritimes-2-journees-dendurance-trail-yann-alarcon
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650619667/website/By%20Ze%20Hero%20Activity/_D5C4137_-lr.jpg
+    image_alt: Personne courant dans l'Esterel
+    title: Sortie Trail Esterel
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17205-trail-journee-activite-ze-hero
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653904865/website/By%20Ze%20Hero%20Activity/IMG_20200723_151838.jpg
+    image_alt: Traileurs en montagne
+    title: Trail arrières pays niçois
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17579-trail-journee-levens-ze-hero-yann-alarcon
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659957076/website/By%20Ze%20Hero%20Activity/IMG_20201017_145050_016.jpg
+    image_alt: Coureur entre les rochers
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/trail/18360-maralpine-traversee-des-prealpes-dazur-2-jours-nuit-gite-ze-hero-yann-alarcon
+    title: La Maralpine
 layout: layout_generic
 titleHome: Sortie trail dans les Préalpes d'Azur - Alpes Maritimes
 conseil: ''
