@@ -75,6 +75,6 @@ page_sections:
   service: resort
   filterLevel: 2
   listMother: 2
-  whatActivity: villes 06
+  whatActivity: station alpes maritimes ete
 
 ---
