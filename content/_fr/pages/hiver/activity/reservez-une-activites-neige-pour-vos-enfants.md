@@ -19,6 +19,23 @@ baseline: Activité neige enfants
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
-page_sections: []
+page_sections:
+- template: heroBreadcrumb
+  title: Nos offres d'activités enfants
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Activités enfants Ze hero
+  title: Nos offres d'activités pour enfants
+  content: " "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Les activités pour enfants chez Ze Hero
+  content: " "
 
 ---
