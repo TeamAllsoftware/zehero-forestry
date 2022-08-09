@@ -37,7 +37,7 @@ page_sections:
   button:
     href_button: https://www.montblancescalade.com/fr/
     text_button: La salle
-  intro: Découvrez Mont Blanc Escalace
+  intro: Découvrez Mont Blanc Escalade
   headline: " "
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655278285/website/escalade/brook-anderson-gTQbZXL417Q-unsplash.jpg
