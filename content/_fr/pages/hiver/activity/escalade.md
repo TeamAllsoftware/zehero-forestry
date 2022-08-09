@@ -75,5 +75,8 @@ page_sections:
     et de continuer votre progression afin d'être prêt l'été pour grimper les plus
     belles voies et parois."
   title: Les conseils Ze Hero
+layout: layout_generic
+titleHome: ''
+conseil: ''
 
 ---
