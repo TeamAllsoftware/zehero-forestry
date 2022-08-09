@@ -10,7 +10,7 @@ topnav_color_text: light
 resort_nameid: meribel
 resort_naming: Méribel
 title: Méribel et ses activités outdoor pour la saison d'été
-activite: ''
+activite: station savoie
 level: 2
 enHome: 2
 meta-title: Activités outdoor à Méribel pour l'été
