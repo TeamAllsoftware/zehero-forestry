@@ -5,7 +5,7 @@ season: winter
 level: 1
 listMother: 2
 categorie: Eaux vives
-topnav_color_text: dark
+topnav_color_text: light
 activite: escalade
 meta-title: 'Réservez votre cours et votre séance d''escalade '
 meta-description: Découvrez toutes nos offres de cours et de séances d'escalade avec
