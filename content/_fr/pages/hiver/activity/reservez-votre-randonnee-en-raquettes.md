@@ -55,6 +55,10 @@ page_sections:
 - template: listOffres
   blockBGcolor: blanc
   offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651071395/website/winter/owen-lystrup-6vDctjBtBbg-unsplash.jpg
+    image_alt: Groupe d'enfants en randonnée en raquettes
+    title: Randonnée en raquettes à l'Alpe d'Huez
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+collectif&catypegenderlistsummer=all&calessonsactivitytype=Raquette&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652866526/website/winter/sandra-grunewald-weOMxCS6tD0-unsplash.jpg
     image_alt: Une femme faisant de la randonnée en raquettes
     title: Randonnée en raquettes à Méribel
