@@ -80,6 +80,6 @@ introduction:
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 listMother: 2
 conseil: spot
-titleHome: ''
+titleHome: station savoie ete
 
 ---
