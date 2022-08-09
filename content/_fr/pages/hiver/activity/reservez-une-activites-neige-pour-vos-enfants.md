@@ -37,5 +37,17 @@ page_sections:
   blockBGcolor: blanc
   title: Les activités pour enfants chez Ze Hero
   content: " "
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos activités pour les enfants
+  content: "Découvrez toutes [**activités pour les enfants**](/fr/hiver/activites/activites-pour-les-enfants)
+    en dehors du ski. Si vous enfants ne souhaitent ou ne font pas de ski, s’ils désirent
+    s’amuser après les cours, nous proposons de nombreuses activités fun et amusantes
+    pour les enfants. Encadrés par des moniteurs, ils découvriront autrement la montagne
+    en s’amusant avec d’autres enfants. Au programme, construction d’igloo, chasse
+    au trésor, balade en raquette, de la luge gonflable, bataille de boule de neige
+    et bien d’autres. Vous trouverez l’activité idéale pour votre enfant pour un moment
+    de plaisir dans la neige.  \nDécouvrez toutes nos activités pour enfants dans
+    les stations de Val Thorens, Méribel, l’Alpe d’Huez, Val d'Isère et les Menuires."
 
 ---
