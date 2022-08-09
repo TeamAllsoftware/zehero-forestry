@@ -35,7 +35,7 @@ page_sections:
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  title: Destinations Alpes Maritimes Hiver
+  title: Destinations Alpes-Maritimes Hiver
   content: Entre mer et montagne, le département des Alpes Maritimes offre une diversification
     incroyable d'environnement. C'est le seul département où vous pourrez skier la
     journée dans le Mercantour et nager en fin de journée dans la mer. Les Alpes Maritimes
