@@ -84,6 +84,6 @@ page_sections:
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 listMother: 2
 titleHome: Nos activités aux Menuires
-conseil: station savoie
+conseil: station savoie ete
 
 ---
