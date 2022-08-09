@@ -49,5 +49,30 @@ page_sections:
   filterLevel: 2
   listMother: 2
   whatActivity: station savoie
+- template: textarea
+  blockBGcolor: blanc
+  title: Destination Savoie Eté
+  content: "Découvrez avec Ze Hero toutes nos offres de VTT en Savoie. Partez explorer
+    les sentiers en VTT ainsi qu’en VTT électrique. Que ce soit en famille, entre
+    amis, chacune des offres sera adaptée aux niveaux et aux envies.  \nVous pourrez
+    alors rouler en VTT à Méribel et à Les Menuires avec notre moniteur de VTT. Vous
+    pourrez également découvrir les hauteurs d’Aix les Bains et le plateau du Grand
+    Revard avec Expérience Vélo."
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644398781/website/resorts/les%20menuires/Myrtilliers_et_vue_sur_station-Vincent_LOTTENBERG-30356-1600px_bbaihi.jpg
+    image_alt: Vue de la station des Menuires avec les montagnes et des fleurs de
+      montage devant
+    title: Les Menuires
+    url: "/fr/ete/destinations/les-menuires"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643269872/website/M%C3%A9ribel/51413475434_999c49bc4f_k_tzeznm.jpg
+    image_alt: Vue des montagnes à Méribel en Savoie.
+    title: Méribel
+    url: "/fr/ete/destinations/meribel"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653471444/website/resorts/Le%20Revard/mercvrie-YlWgxkbP_pY-unsplash.jpg
+    image_alt: Vue du lac du Bourget
+    title: Aix les Bains - Le Revard
+    url: "/fr/ete/destinations/aix-les-bains-le-revard"
 
 ---
