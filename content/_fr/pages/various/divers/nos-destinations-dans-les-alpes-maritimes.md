@@ -56,7 +56,7 @@ page_sections:
   whatActivity: station alpes maritimes
 - template: textarea
   blockBGcolor: blanc
-  title: Destinations Alpes Maritimes Ete
+  title: Destinations Alpes-Maritimes Eté
   content: L'été, les Alpes Maritimes sont une destination incroyable pour la pratique
     de nombreuses activités outdoors. Entre mer et montagne rivière et falaise, vous
     trouverez votre bonheur. Un vrai paradis pour le trail, la randonnée, le canyoning,
