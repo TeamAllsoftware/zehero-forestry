@@ -48,5 +48,32 @@ page_sections:
   image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1654065065/website/Mont%20Blanc%20Escalade/rachel-GGlz-QSvL38-unsplash.jpg
   atl_text_image_04: Enfant à l'escalade
   title: ''
+- template: textarea
+  blockBGcolor: blanc
+  content: "* Débuter en escalade\n\nL'escalade est activité destinée à tout le monde
+    dès 6ans, et pour tous les niveaux de pratique. C'est une activité physique très
+    complète qui demande de l'agilité, de la coordination, de la force, de la souplesse,
+    de la tonicité et beaucoup de concentration. On parle de cotation en escalade
+    pour désigner les niveaux des voies. On va retrouver au plus facile le niveau
+    3 à 4 et on va monter jusqu'à 9. Dans chaque niveau vous retrouverez des sous-niveaux
+    : a, b et c (exemple : une voie de cotation 6a). Prendre des cours vous permettra
+    de comprendre comment bien assurer, de connaître les nœuds et surtout la technique
+    de grimpe.\n\n* S'équiper en escalade\n\nS'équiper en escalade si vous débutez
+    c'est venir avec des vêtements de sport, léger et confortable afin d'avoir un
+    maximum de liberté de mouvement. Il est parfois idéal d'avoir un pantalon ou short
+    long afin de protéger les genoux des frottements. Ensuite, vous serez équipé d'un
+    casque si vous êtes en extérieur, sinon vous n'en avez pas besoin et d'un baudrier.
+    Vous serez chaussé de chausson d'escalade afin d'adhérer parfaitement sur les
+    prises et de ne pas glisser. Ensuite, il faudra donc une corde d'escalade afin
+    d'être assuré. Sur le baudrier il faudra des mousquetons ainsi qu'un descendeur
+    (grigri) ou système de frein. Il faudra également des dégaines qui permettent
+    de grimper en tête et d'être assuré. Pour finir, vous pourrez avoir besoin de
+    magnésie afin d'avoir les mains qui accrochent au mieux les prises (c'est une
+    poudre blanche). Lorsque vous grimpez en salle, vous avez besoin uniquement d'une
+    corde, d'un baudrier et de vos chaussons. \n\n* Nos spots d'escalade\n\nChez Ze
+    Hero, nous vous proposons de venir grimper l'hiver à la salle d'escalade des Houches
+    et de continuer votre progression afin d'être prêt l'été pour grimper les plus
+    belles voies et parois."
+  title: Les conseils Ze Hero
 
 ---
