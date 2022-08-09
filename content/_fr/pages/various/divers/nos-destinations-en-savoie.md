@@ -74,5 +74,11 @@ page_sections:
     image_alt: Vue du lac du Bourget
     title: Aix les Bains - Le Revard
     url: "/fr/ete/destinations/aix-les-bains-le-revard"
+- template: listServices2
+  blockBGcolor: blanc
+  service: resort
+  filterLevel: 1
+  listMother: 2
+  whatActivity: station savoie ete
 
 ---
