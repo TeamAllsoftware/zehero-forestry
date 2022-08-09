@@ -40,7 +40,7 @@ menu:
     - title: Fatbike sur neige
       href: "/fr/hiver/activites/reserver-sortie-fatbike-neige"
     - title: Trail Running
-      href: "/fr/ete/activites/nos-sorties-trail"
+      href: "/fr/hiver/activites/reserver-sortie-trail"
 - title: Louer du matériel
   id: "3"
   title-link: "/fr/hiver/activite/location"
