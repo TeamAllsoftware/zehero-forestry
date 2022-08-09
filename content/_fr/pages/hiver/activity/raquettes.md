@@ -42,7 +42,7 @@ page_sections:
   headline: " "
   button:
     text_button: Nos offres
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+    href_button: "/fr/hiver/activite/reserver-randonnee-raquette"
   blockBGcolor: blanc
   marge: 20
 - template: imagegallery02
