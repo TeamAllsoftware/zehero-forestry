@@ -14,7 +14,7 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Aix les Bains - Le Revard et ses activités outdoor
-activite: savoie
+activite: station savoie ete
 level: 2
 enHome: 2
 page_title: Aix les Bains et Le Revard
