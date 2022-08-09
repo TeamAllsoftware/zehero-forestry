@@ -13,7 +13,7 @@ conseil: ''
 permalink: "/fr/destinations/destination-activites-savoie"
 meta-title: Trouvez votre destination et réservez une activité en Savoie
 meta-description: " Trouvez votre destination et réservez une activité en Savoie.
-  L'hiver comme l'été trouvez l'activité qui vous convient et partez à l'aevnture"
+  L'hiver comme l'été trouvez l'activité qui vous convient et partez à l'aventure"
 baseline: Destination et activités en Savoie
 button_to_link_to_ze_hero_shop:
   button_text: ''
@@ -58,12 +58,6 @@ page_sections:
     alors rouler en VTT à Méribel et à Les Menuires avec notre moniteur de VTT. Vous
     pourrez également découvrir les hauteurs d’Aix les Bains et le plateau du Grand
     Revard avec Expérience Vélo."
-- template: listServices2
-  blockBGcolor: blanc
-  service: resort
-  filterLevel: 2
-  listMother: 2
-  whatActivity: station savoie ete
 - template: listOffres
   blockBGcolor: blanc
   offreList:
