@@ -5,7 +5,7 @@ type: generic
 season: winter
 level: 1
 listMother: 2
-topnav_color_text: light
+topnav_color_text: dark
 title: Réservez votre cours de ski de randonnée chez Ze Hero
 titleHome: Réservez votre cours de ski de randonnée chez Ze Hero
 activite: ski de rando
@@ -14,7 +14,7 @@ permalink: "/fr/hiver/activite/reserver-ski-randonnee"
 meta-title: Réservez votre cours de ski de randonnée
 meta-description: Réservez un cours de ski de randonnée avec Ze Hero dans la station
   de votre choix. Des cours privés d'une à plusieurs personnes
-baseline: ''
+baseline: Cours de ski de randonnée
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
@@ -82,5 +82,9 @@ page_sections:
     image_alt: Skieur en ski de randonnée
     title: Ski de randonnée aux Menuires
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+categorie: Eaux vives
+engage: Réservez cours de ski de randonnée dans nos stations
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540483/website/winter/guillaume-marques-9HRLg-yzeq8-unsplash_ulzuqx.jpg
+image01_alt: Des personnes en ski de randonnée au cœur des montagnes
 
 ---
