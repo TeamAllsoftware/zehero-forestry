@@ -33,5 +33,43 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos randonnée en raquettes chez Ze Hero
+  content: Découvrez nos différentes sorties et [**randonnées en raquettes**](/fr/hiver/activites/raquettes-a-neige)
+    dans les stations de ski tels que Val Thorens, Méribel, Val d'Isère, Tignes, l'Alpe
+    d'Huez et aussi Les Menuires. Partez en groupe randonnée dans la neige avec les
+    raquettes à neige. Vous découvrirez des parcours sous les sapins, dans des petits
+    sentiers ou même en hors-piste. Que ce soit pour les enfants ou les adultes, les
+    randonnées en raquettes sont adaptés au groupe et au niveau. Vous pourrez réserver
+    vos sorties raquettes en journée mais aussi en nocturne pour une expérience plus
+    originale. Vous marcherez de quelques heures ou même à la journée selon les randonnées
+    proposées. Lors des randonnées, les raquettes à neiges vous seront prêtées durant
+    la randonnée, parfois il faut en louer en amont. Profitez d'un moment en pleine
+    nature pour découvrir la montagne autrement, loin de la foule et des pistes de
+    ski.
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos offres de randonnée en raquettes
+  content: " "
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1652866526/website/winter/sandra-grunewald-weOMxCS6tD0-unsplash.jpg
+    image_alt: Une femme faisant de la randonnée en raquettes
+    title: Randonnée en raquettes à Méribel
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=all&calessonsactivitytype=Raquette&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080084/website/winter/pablo-guerrero-xglh7hBu9QU-unsplash_nvbvyf.jpg
+    image_alt: Une personne en montagne en raquettes
+    title: Randonnée en raquettes à Val Thorens
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=all&calessonsactivitytype=Raquette&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640080310/website/winter/rainer-bleek-y8-GC22QyfY-unsplash_ky6gnt.jpg
+    image_alt: Une trace dans la neige de raquettes à neige
+    title: Randonnée en raquettes à Val d'Isère
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=all&calessonsactivitytype=Raquette&start-date=
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651071398/website/winter/sandra-grunewald-iLh4RcF1VVQ-unsplash.jpg
+    image_alt: Groupe de personne en randonnée raquettes
+    title: Randonnée en raquettes à Les Menuires
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=all&calessonsactivitytype=Raquette&start-date=
 
 ---
