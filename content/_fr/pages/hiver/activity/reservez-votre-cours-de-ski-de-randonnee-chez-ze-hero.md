@@ -5,7 +5,7 @@ type: generic
 season: winter
 level: 1
 listMother: 2
-topnav_color_text: dark
+topnav_color_text: light
 title: Réservez votre cours de ski de randonnée chez Ze Hero
 titleHome: Réservez votre cours de ski de randonnée chez Ze Hero
 activite: ski de rando
