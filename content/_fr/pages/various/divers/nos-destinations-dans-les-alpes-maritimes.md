@@ -33,5 +33,26 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Destinations Alpes Maritimes Hiver
+  content: Entre mer et montagne, le département des Alpes Maritimes offre une diversification
+    incroyable d'environnement. C'est le seul département où vous pourrez skier la
+    journée dans le Mercantour et nager en fin de journée dans la mer. Les Alpes Maritimes
+    regroupent les stations comme, d'Isola 2000, de Valberg, La Colmiane. Pour les
+    amoureux du ski de randonnée, vous trouverez un choix énorme de randonnée à faire
+    à travers des pentes et une neige de qualité. Vous pourrez apercevoir la mer au
+    sommet de certaines montagnes, les skis aux pieds. Un département où vous pouvez
+    jongler dans de multiples activités tel que le ski, le snowboard mais aussi le
+    trail, l'escalade et tous les sports aquatiques. Partez séjourner dans des stations
+    familiales et sportives au climat méditerranéen sous un magnifique soleil. Avec
+    Ze Hero vous pourrez pratiquer le Trail dans les Préalpes d'Azur et l'Esterel
+    durant tous l'hiver.
+- template: listServices2
+  blockBGcolor: blanc
+  service: resort
+  filterLevel: 2
+  listMother: 2
+  whatActivity: station alpes maritimes
 
 ---
