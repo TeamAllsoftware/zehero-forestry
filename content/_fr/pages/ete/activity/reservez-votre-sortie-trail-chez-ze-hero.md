@@ -49,7 +49,7 @@ page_sections:
   title: ''
 type: generic
 level: 1
-activite: trail
+activite: ''
 titleHome: ''
 conseil: ''
 listMother: 2
