@@ -70,11 +70,24 @@ page_sections:
     Nous proposons alors de nombreuse sortie de Trail pour débutants et confirmé avec
     également la mise en place d'itinérance sur deux journées à travers les Préalpes
     d'Azur pour un voyage extraordinaire.
-- template: listServices2
+- template: listOffres
   blockBGcolor: blanc
-  service: resort
-  filterLevel: 2
-  listMother: 2
-  whatActivity: station alpes maritimes ete
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649756837/website/resorts/Le%20Bar%20sur%20Loup/landscape-319855_1920.jpg
+    image_alt: Village de Bar sur Loup
+    title: Le Bar sur Loup
+    url: "/fr/ete/destinations/le-bar-sur-loup"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654852015/website/By%20Ze%20Hero%20Activity/jane-ackerley-WiN6Az_8cGQ-unsplash.jpg
+    image_alt: Rempart d'Antibes
+    title: Antibes
+    url: "/fr/ete/destinations/antibes"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304676/website/summer/IMG_9140.jpg
+    image_alt: Femme au baou de saint Jeannet en randonnée
+    title: Saint Jeannet
+    url: "/fr/ete/destinations/saint-jeannet"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650013850/website/resorts/Nice/arno-smit-lndaG6uN1yw-unsplash.jpg
+    image_alt: Vue de la mer et de la ville de Nice
+    title: " Nice"
+    url: "/fr/ete/destinations/nice"
 
 ---
