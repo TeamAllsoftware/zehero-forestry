@@ -34,10 +34,10 @@ page_sections:
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  content: Découvrez tous nos cours de [**ski de randonnée **](/fr/hiver/activites/ski-de-randonnee)chez
-    Ze Hero. Partez explorer les hors-pistes et grimpez les sommets en ski de randonnée.
-    Vous découvrirez la liberté du ski en allant dans des lieux plus isolés, loin
-    de la station et du monde. Vous profiterez des montées pour encore plus savourez
+  content: Découvrez tous nos cours de [**ski de randonnée**](/fr/hiver/activites/ski-de-randonnee)
+    chez Ze Hero. Partez explorer les hors-pistes et grimpez les sommets en ski de
+    randonnée. Vous découvrirez la liberté du ski en allant dans des lieux plus isolés,
+    loin de la station et du monde. Vous profiterez des montées pour encore plus savourez
     les descentes. Tracez vos virages en poudreuse et profitez de descente fabuleuse.
     Que vous soyez débutant, confirmé ou expert, les moniteurs vous accompagneront
     selon vos envies et votre niveau. Vous pourrez alors découvrir cette discipline,
@@ -47,6 +47,10 @@ page_sections:
     d'utiliser la pelle. Vous pourrez réservez vos cours de ski de randonnée à Val
     Thorens, Les Menuires, Val d'Isère, Tignes, Courchevel, Méribel et l'Alpe d'Huez.
   title: Nos cours de ski de randonnée chez Ze Hero
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos cours de ski de randonnée
+  content: " "
 - template: listOffres
   blockBGcolor: blanc
   offreList:
