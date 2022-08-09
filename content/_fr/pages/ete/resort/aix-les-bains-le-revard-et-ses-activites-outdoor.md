@@ -69,6 +69,6 @@ page_sections:
 type: generic
 listMother: 2
 titleHome: Nos activités à Aix les Bains / Le Revard
-conseil: ''
+conseil: station savoie ete
 
 ---
