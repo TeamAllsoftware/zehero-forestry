@@ -8,7 +8,7 @@ listMother: 2
 topnav_color_text: light
 title: Réservez votre sortie trail avec Ze Hero
 titleHome: Réservez votre sortie trail avec Ze Hero
-activite: trail
+activite: ''
 conseil: ''
 permalink: "/fr/hiver/activites/reserver-sortie-trail"
 meta-title: 'Réservez votre prochaine sortie trail '
