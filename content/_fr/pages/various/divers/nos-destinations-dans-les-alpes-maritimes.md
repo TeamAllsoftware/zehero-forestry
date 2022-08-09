@@ -54,5 +54,27 @@ page_sections:
   filterLevel: 2
   listMother: 2
   whatActivity: station alpes maritimes
+- template: textarea
+  blockBGcolor: blanc
+  title: Destinations Alpes Maritimes Ete
+  content: L'été, les Alpes Maritimes sont une destination incroyable pour la pratique
+    de nombreuses activités outdoors. Entre mer et montagne rivière et falaise, vous
+    trouverez votre bonheur. Un vrai paradis pour le trail, la randonnée, le canyoning,
+    les activités mer, le parapente ainsi que le vélo et le VTT. Découvrez nos offres
+    de canyoning et de trail dans nos destinations des Alpes Maritimes Avec les Gorges
+    du Loup, de la Roya, de la Tinée, de la Vésubie et bien d'autres vous découvrirez
+    des canyons magnifiques. Que ce soit pour vous initier ou pour continuer de découvrir
+    le canyoning, c'est le lieu idéal.  Partez également courir ou marcher en réservant
+    nos activités de trail running et de randonnée dans les Préalpes d'Azur et dans
+    le Mercantour. Une terre unique où on y découvre un environnement protégé et préservé.
+    Nous proposons alors de nombreuse sortie de Trail pour débutants et confirmé avec
+    également la mise en place d'itinérance sur deux journées à travers les Préalpes
+    d'Azur pour un voyage extraordinaire.
+- template: listServices2
+  blockBGcolor: blanc
+  service: resort
+  filterLevel: 2
+  listMother: 2
+  whatActivity: villes 06
 
 ---

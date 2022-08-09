@@ -15,7 +15,7 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Nice, ses alentours et ses activités outdoor
-activite: alpesmaritimes
+activite: villes 06
 level: 2
 enHome: 2
 page_title: Nice, capitale de la côte d'Azur
@@ -63,6 +63,6 @@ page_sections:
   title: ''
 listMother: 2
 titleHome: Les activités à Nice
-conseil: ''
+conseil: villes 06
 
 ---

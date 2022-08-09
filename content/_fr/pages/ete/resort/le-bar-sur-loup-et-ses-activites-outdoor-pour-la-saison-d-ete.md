@@ -12,7 +12,7 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Le Bar sur Loup et ses activités outdoor pour la saison d'été
-activite: alpesmaritimes
+activite: villes 06
 level: 2
 enHome: 2
 page_title: Le Bar sur Loup, village des Préalpes d'Azur
@@ -69,6 +69,6 @@ page_sections:
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
 listMother: 2
 titleHome: Nos activités à Bar sur Loup
-conseil: ''
+conseil: villes 06
 
 ---
