@@ -6,7 +6,7 @@ level: 2
 listMother: 2
 categorie: Running / Trail
 topnav_color_text: light
-activite: trail
+activite: ''
 meta-title: Réservez sortie de Trail - Préalpes d'Azur - Alpes Maritimes
 meta-description: Découvrez nos sorties de trail et nos entraînements dans les Alpes
   maritimes dans les Préalpes d'Azur. Découvrez depuis les villages typiques des Alpes
