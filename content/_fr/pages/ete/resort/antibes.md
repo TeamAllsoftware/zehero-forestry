@@ -74,6 +74,6 @@ introduction:
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
 listMother: 2
 titleHome: Nos activité à Antibes
-conseil: villes 06
+conseil: ''
 
 ---
