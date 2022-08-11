@@ -23,15 +23,29 @@ page_sections:
   title: Coaching sportif, késako ?
 - template: textarea
   content: |-
-    Chez Ze Hero, nous ous désirez progresser physiquement, évoluer, vous dépasser, dans un groupe ou seul avec un ou une coach ? Une [séance de coaching sportif](https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=) c'est avoir un coach qui aura un regard précis sur toutes vos postures, vous accompagner dans vos exercices, un coach qui va vous suivre.
+    Chez Ze Hero, nous vous proposons plusieurs types de coaching sportif. Si désirez progresser physiquement, évoluer, vous dépasser, dans un groupe ou seul avec un ou une coach ? Une séance de coaching sportif c'est avoir un coach qui aura un regard précis sur toutes vos postures, vous accompagner dans vos exercices, un coach qui va vous suivre. Le coaching sportif est le meilleur moyen pour progresser et atteindre vos objectifs dans votre sport. Le coach sera également là pour discuter avec vous, vous aider dans votre programmation, le choix des compétitions, vos différents défis sportifs. Réserver un cours avec un coach sportif c'est pratiquer avec le coach et améliorer sa technique, sa gestuelle. C'est également se motiver, se confronter dans une belle ambiance, avec le groupe et les autres personnes. Vous pourrez être aussi suivi par votre coach afin d'avoir une programmation détaillée de toutes vos séances.
 
-    Que vous souhaitez être maintenu en forme, préparer une compétition, avoir une meilleure condition physique, vous muscler, préparer un défi, le coaching sera la meilleure solution.
+    Que vous souhaitez être maintenu en forme, préparer une compétition, avoir une meilleure condition physique, vous muscler, préparer un défi ou des compétitions, le coaching sera la meilleure solution.
   title: Le coaching sportif
   blockBGcolor: ''
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649236206/website/assets/Recadr%C3%A9es/coaching.png
-  alt_text_for_image: Equipement de musculation
+- template: cta
+  blockBGcolor: blanc
+  marge: 20
+  intro: Découvrez nos offres de coaching sportif
+  headline: " "
+  button:
+    text_button: Nos offres
+    href_button: " "
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062762/website/Coaching/Salle_de_sport-28_yjkjev.jpg
+  atl_text_image_01: Salle de coaching sportif à Lyon
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293324/website/Coaching/GOPR0301_1638033833951-min_at9qzj.jpg
+  atl_text_image_02: Chaussures de course à pied sur un stade d'atléthisme
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293325/website/Coaching/G0190431_1638033833951-min_xwvccp.jpg
+  atl_text_image_03: Une personne s'entrainant dans des escaliers à Antibes
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/11_l7a3ej.jpg
+  atl_text_image_04: Des personnes en étirements après une séance de sport
+  title: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
   captiontitleuppercase: De quelle façon ?
