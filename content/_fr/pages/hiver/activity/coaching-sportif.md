@@ -6,13 +6,13 @@ redirect_from:
 language: fr
 season: winter
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Coaching sportif
-titleHome: ''
+titleHome: Coaching sportif
 activite: coaching
 level: 1
 enHome: 2
-meta-title: Réserver un coach sportif pour vous préparer à l'hiver
+meta-title: Réserver un coach sportif pour un cours privé ou collectif
 meta-description: Profitez d'un coach sportif que ce soit en cours privé ou en cours
   collectif afin de progresser dans la discipline de votre choix.
 baseline: Préparation physique, dépassement, entraînement
