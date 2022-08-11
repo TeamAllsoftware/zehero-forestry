@@ -8,7 +8,7 @@ listMother: 2
 topnav_color_text: light
 title: Ecole de ski à Val d'Isère
 titleHome: Ecole de ski à Val d'Isère
-activite: ''
+activite: Ecole de ski à Val d'Isère
 conseil: Ecole de ski
 permalink: "/fr/hiver/conseils/ecole-ski-val-disere"
 meta-title: Réservez un cours de ski - Ecoles de ski à Val d'Isère
