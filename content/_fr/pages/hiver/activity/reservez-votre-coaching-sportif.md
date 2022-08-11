@@ -32,5 +32,20 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos offres de coaching sportif
+  content: "Découvrez et réservez une de nos offres de coaching sportif chez Ze Hero.
+    Nous vous proposons différentes séances ainsi que différents types de coaching
+    sportif. Vous pourrez alors réserver une séance de coaching sportif privé, collectif
+    ou également du e-coaching.   \nNous vous permettons de trouver des séances de
+    coaching sportif dans les Alpes Maritimes. Vous pourrez réservez directement une
+    séance de coaching sportif à Nice, à Antibes, à Cannes, dans toute la côte d'Azur.
+    Nous proposons de nombreuses séances d'entraînement de course à pied et de trail
+    à Antibes et Nice et dans les hauteurs vers Gourdon et les Préalpes d'Azur. Partez
+    vous entraînez avec un de nos coach pour des séances de trail, des séances de
+    préparation physique, des séances de préparation aux compétitions de trail. Vous
+    pourrez aussi réservez une de sortie longue de trail dans le Mercantour, l'Esterel
+    ou les Préalpes d'Azur. "
 
 ---
