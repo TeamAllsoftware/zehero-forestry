@@ -1,5 +1,5 @@
 ---
-layout: layout_generic
+layout: layout_advice
 language: fr
 type: generic
 season: winter
@@ -101,5 +101,7 @@ page_sections:
     quel que soit votre niveau. Les cours débutent dès l'âge de 2/3ans avec une pédagogie
     spécialement conçue pour les bébés skieurs. Les groupes seront scindés en fonction
     de leurs niveaux en ski et en snowboard."
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338328/website/resorts/val-d-isere/tim-arnold-8MvJLXVBAWg-unsplash_vxmah1.jpg
+image01_alt: Piste de ski de Val d'Isère
 
 ---
