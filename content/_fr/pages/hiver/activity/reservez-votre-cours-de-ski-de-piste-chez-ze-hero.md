@@ -36,16 +36,10 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours de ski de piste chez Ze Hero
-  content: "Découvrez tous nos cours de [**ski de piste **](/fr/hiver/activites/ski-de-piste)chez
-    Ze Hero. Partez apprendre le ski, progresser ou même vous perfectionner dans le
-    ski de piste ou le ski alpin. Nous vous proposons un choix varié de cours de ski
-    pour tous les niveaux. Vous trouverez des cours pour les tout-petits avec la mise
-    en place de cours de ski dans un jardin d’enfants. Mais vous pourrez également
-    réserver des cours de ski pour les enfants ainsi que les adolescents. Réservez
-    également des cours de ski pour les adultes quel que soit votre niveau. Découvrez
-    des cours de ski à Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe
-    d'Huez.  \n  \nVous ne savez pas quoi choisir entre un cours privé et un cours
-    collectif ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**"
+  content: |-
+    Découvrez tous nos cours de [**ski de piste**](/fr/hiver/activites/ski-de-piste) chez Ze Hero. Partez apprendre le ski, progresser ou même vous perfectionner dans le ski de piste ou le ski alpin. Nous vous proposons un choix varié de cours de ski pour tous les niveaux. Vous trouverez des cours pour les tout-petits avec la mise en place de cours de ski dans un jardin d’enfants. Mais vous pourrez également réserver des cours de ski pour les enfants ainsi que les adolescents. Réservez également des cours de ski pour les adultes quel que soit votre niveau. Découvrez des cours de ski à Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez.
+
+    Vous ne savez pas quoi choisir entre un cours privé et un cours collectif ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours collectifs de ski enfants
