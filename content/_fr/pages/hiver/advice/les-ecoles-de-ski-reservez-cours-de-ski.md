@@ -10,7 +10,7 @@ title: Les écoles de ski - Réservez cours de ski
 titleHome: Les écoles de ski - Réservez cours de ski
 activite: ''
 conseil: ''
-permalink: "/fr/ecoles-stations-ski"
+permalink: "/fr//hiver/ecoles-stations-ski"
 meta-title: Ecoles de ski - Réservez cours de ski
 meta-description: Réservez un cours de ski dans une de nos écoles de ski dans les
   différentes stations de ski. Découvrez toutes nos écoles pour l'achat d'un cours
