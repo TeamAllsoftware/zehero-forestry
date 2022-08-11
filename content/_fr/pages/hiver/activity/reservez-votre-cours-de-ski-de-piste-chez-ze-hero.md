@@ -37,7 +37,7 @@ page_sections:
   blockBGcolor: blanc
   title: Nos cours de ski de piste chez Ze Hero
   content: |-
-    Découvrez tous nos cours de [**ski de piste**](/fr/hiver/activites/ski-de-piste) chez Ze Hero. Partez apprendre le ski, progresser ou même vous perfectionner dans le ski de piste ou le ski alpin. Nous vous proposons un choix varié de cours de ski pour tous les niveaux. Vous trouverez des cours pour les tout-petits avec la mise en place de cours de ski dans un jardin d’enfants. Mais vous pourrez également réserver des cours de ski pour les enfants ainsi que les adolescents. Réservez également des cours de ski pour les adultes quel que soit votre niveau. Découvrez des cours de ski à Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez.
+    Découvrez tous nos cours de [**ski de piste**](/fr/hiver/activites/ski-de-piste) chez Ze Hero et réservez votre cours de ski pour vous ou votre famille. Le cours de ski vous permettra de vous initier, de progresser ou même de vous perfectionner dans le ski de piste ou le ski alpin. Nous vous proposons un choix varié de cours de ski pour tous les niveaux que vous pourrez réserver. Vous trouverez des cours pour les tout-petits avec la mise en place de cours de ski dans un jardin d’enfants. Mais vous pourrez également réserver des cours de ski pour les enfants ainsi que les adolescents. Réservez également des cours de ski pour les adultes quel que soit votre niveau. Découvrez des cours de ski à Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez ainsi que chacune de [**nos écoles de ski**](/fr/hiver/ecoles-stations-ski).
 
     Vous ne savez pas quoi choisir entre un cours privé et un cours collectif ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**
 - template: textarea
@@ -137,6 +137,13 @@ page_sections:
     image_alt: Deux personnes sur une télésiège en ski
     title: Cours privé de ski à Courchevel
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Réservez votre cours de ski de piste
+  content: 'Réservez votre cours de ski de piste dans nos stations tel que Val Thorens,
+    Méribel ou encore Les Menuires. Vous trouverez un choix large d''offre de cours
+    de ski pour tous les niveaux et tous les âges. Avec Ze Hero, profitez de skier
+    dans les meilleurs stations pour des moments uniques. '
 layout: layout_generic
 titleHome: Réservez votre cours de ski de piste chez Ze Hero
 conseil: ''
