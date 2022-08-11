@@ -33,5 +33,17 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Les écoles de ski chez Ze Hero
+  content: |-
+    Découvrez toutes les écoles de ski dans les différentes stations partenaires de Ze Hero. Cet hiver, partez dans une de nos stations, découvrez les différentes offres d'activité outdoor et réservez un cours de ski ou de snowboard. Que ce soit pour des cours collectifs ou des cours privés. Chacune des différentes écoles de ski propose des cours pour tous les niveaux ainsi que tous les âges. Vous trouverez différentes activités tel que le ski de piste, le ski freeride, le ski de randonnée, le snowboard et des activités pour les enfants.
+
+    Réservez votre prochain cours de ski pour découvrir la station, progresser, partager des journées formidables avec vos enfants sur les pistes de ski. Vous pourrez retrouver nos cours de ski dans les stations de Méribel, Val Thorens, Val d'Isère, Les Menuires, l'Alpe d'Huez, Tignes, et Courchevel.
+- template: listConseils
+  blockBGcolor: blanc
+  service: advice
+  filterLevel: 2
+  whatAdvice: Ecole de ski
 
 ---
