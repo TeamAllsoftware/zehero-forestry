@@ -8,7 +8,7 @@ listMother: 2
 topnav_color_text: light
 title: Ecole de ski à Méribel
 titleHome: Ecole de ski à Méribel
-activite: ''
+activite: Ecole de ski à Méribel
 conseil: Ecole de ski
 permalink: "/fr/hiver/conseils/ecole-ski-meribel"
 meta-title: Réservez un cours de ski - Ecoles de ski à Méribel
