@@ -43,8 +43,8 @@ page_sections:
   atl_text_image_02: Chaussures de course à pied sur un stade d'atléthisme
   image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293325/website/Coaching/G0190431_1638033833951-min_xwvccp.jpg
   atl_text_image_03: Une personne s'entrainant dans des escaliers à Antibes
-  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062752/website/Coaching/11_l7a3ej.jpg
-  atl_text_image_04: Des personnes en étirements après une séance de sport
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294097/website/Coaching/IMG_20201022_145931_xjolnt.jpg
+  atl_text_image_04: Coureur à Antibes
   title: ''
 - template: textarea
   blockBGcolor: blanc
