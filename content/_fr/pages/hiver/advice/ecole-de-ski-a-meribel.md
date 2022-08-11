@@ -102,5 +102,7 @@ page_sections:
     que soit votre niveau. Les cours débutent dès l'âge de 2/3ans avec une pédagogie
     spécialement conçue pour les bébés skieurs. Les groupes seront scindés en fonction
     de leurs niveaux en ski et en snowboard."
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640611880/website/resorts/meribel/spurwing-agency-k_4m9_0PO3Q-unsplash_zjsfry.jpg
+image01_alt: Piste de ski de Méribel
 
 ---
