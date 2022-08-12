@@ -52,16 +52,37 @@ page_sections:
     dans vos objectifs de saison."
 - template: textarea
   blockBGcolor: blanc
-  title: Nos offres de coaching trail autour de Nice
-  content: |-
-    Réservez un coaching de trail dans les Alpes Maritimes près de Nice. Nous proposons plusieurs offres de trail dans les Préalpes d'Azur près des villages de Bar sur Loup, Tourrettes sur Loup, Vence, Saint Jeannet et Gréolières. Mais vous pourrez également réserver une sortie trail dans l'Esterel près de Cannes et Théoule sur mer.
-
-    Nous proposons des sorties de trail avec des thèmes d'entraînements : intensité, PPG, VMA. Mais vous pourrez également retrouver des sorties d'endurances à la journée. Préparez vos futurs objectifs de trail avec nos séances d'entraînements et nos sorties longues dans les Alpes Maritimes.
+  title: Coaching trail autour de Nice
+  content: 'Réservez un coaching de trail dans les Alpes Maritimes près de Nice. Nous
+    proposons plusieurs offres de trail dans les Préalpes d''Azur près des villages
+    de Bar sur Loup, Tourrettes sur Loup, Vence, Saint Jeannet et Gréolières. Mais
+    vous pourrez également réserver une sortie trail dans l''Esterel près de Cannes
+    et Théoule sur mer. Nous proposons des sorties de trail avec des thèmes d''entraînements
+    : intensité, PPG, VMA. Mais vous pourrez également retrouver des sorties d''endurances
+    à la journée. Préparez vos futurs objectifs de trail avec nos séances d''entraînements
+    et nos sorties longues dans les Alpes Maritimes.'
 - template: listServices2
   blockBGcolor: blanc
   service: activity
   filterLevel: 2
   listMother: 2
   whatActivity: trail 06
+- template: textarea
+  blockBGcolor: blanc
+  title: Coaching sportif près de Nice
+  content: Réserver un cours de coaching sportif privé ou collectif près de Nice,
+    Antibes ou Cannes pour votre préparation physique, pour atteindre vos objectifs
+    .
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293325/website/Coaching/G0180403_1638033833951-min_eyxwxy.jpg
+    image_alt: 'Personne courant sur le stade d''athlétisme d''Antibes '
+    title: Coaching privé 06
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/Coaching/16729-coaching-personnalise-et-prive-1h-antibes-06-activite-ze-hero
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293324/website/Coaching/GOPR0301_1638033833951-min_at9qzj.jpg
+    image_alt: Chaussures de running sur le tartan
+    title: Séance spécifique trail 06
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/Coaching/16728-seances-specifiques-course-a-pied-activite-ze-hero
 
 ---
