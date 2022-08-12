@@ -6,7 +6,7 @@ level: 2
 listMother: 2
 categorie: Running / Trail
 topnav_color_text: light
-activite: trail
+activite: trail 06
 meta-title: Réservez Trail - Préalpes d'Azur / Esterel - Alpes Maritimes
 meta-description: Découvrez nos sorties de trail et nos entraînements dans les Alpes
   maritimes dans les Préalpes d'Azur ainsi que dans l'Esterel. Découvrez depuis les

@@ -53,12 +53,15 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos offres de coaching trail autour de Nice
-  content: "Réservez un coaching de trail dans les Alpes Maritimes près de Nice. Nous
-    proposons plusieurs offres de trail dans les Préalpes d'Azur près des villages
-    de Bar sur Loup, Tourrettes sur Loup, Vence, Saint Jeannet et Gréolières. Mais
-    vous pourrez également réserver une sortie trail dans l'Esterel près de Cannes
-    et Théoule sur mer.  \nNous proposons des sorties de trail avec des thèmes d'entrainements
-    : intensité, PPG, VMA. Mais vous pourrez également retrouverez des sorties d'endurances
-    à la journée. Préparez vos futurs objectifs de trail avec nos séances d'entraînements "
+  content: |-
+    Réservez un coaching de trail dans les Alpes Maritimes près de Nice. Nous proposons plusieurs offres de trail dans les Préalpes d'Azur près des villages de Bar sur Loup, Tourrettes sur Loup, Vence, Saint Jeannet et Gréolières. Mais vous pourrez également réserver une sortie trail dans l'Esterel près de Cannes et Théoule sur mer.
+
+    Nous proposons des sorties de trail avec des thèmes d'entraînements : intensité, PPG, VMA. Mais vous pourrez également retrouver des sorties d'endurances à la journée. Préparez vos futurs objectifs de trail avec nos séances d'entraînements et nos sorties longues dans les Alpes Maritimes.
+- template: listServices2
+  blockBGcolor: blanc
+  service: activity
+  filterLevel: 2
+  listMother: 2
+  whatActivity: trail 06
 
 ---
