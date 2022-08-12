@@ -36,18 +36,19 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos randonnée en raquettes chez Ze Hero
-  content: Découvrez nos différentes sorties et [**randonnées en raquettes**](/fr/hiver/activites/raquettes-a-neige)
-    dans les stations de ski tels que Val Thorens, Méribel, Val d'Isère, Tignes, l'Alpe
-    d'Huez et aussi Les Menuires. Partez en groupe randonnée dans la neige avec les
-    raquettes à neige. Vous découvrirez des parcours sous les sapins, dans des petits
-    sentiers ou même en hors-piste. Que ce soit pour les enfants ou les adultes, les
-    randonnées en raquettes sont adaptés au groupe et au niveau. Vous pourrez réserver
-    vos sorties raquettes en journée mais aussi en nocturne pour une expérience plus
-    originale. Vous marcherez de quelques heures ou même à la journée selon les randonnées
-    proposées. Lors des randonnées, les raquettes à neiges vous seront prêtées durant
-    la randonnée, parfois il faut en louer en amont. Profitez d'un moment en pleine
-    nature pour découvrir la montagne autrement, loin de la foule et des pistes de
-    ski.
+  content: Découvrez nos différentes sorties et réservez votre prochaine [**randonnées
+    en raquettes**](/fr/hiver/activites/raquettes-a-neige) dans nos différentes stations
+    de ski tels que Val Thorens, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez et aussi
+    Les Menuires. Partez en groupe randonner en montagne avec les raquettes à neige.
+    Vous découvrirez des parcours sous les sapins, dans des petits sentiers ou même
+    en hors-piste. Que ce soit pour les enfants ou les adultes, les randonnées en
+    raquettes sont adaptés au groupe et au niveau de chacun. Vous pourrez réserver
+    vos sorties raquettes à neige en journée mais aussi en nocturne pour une expérience
+    plus originale. Vous marcherez quelques heures ou même à la journée selon les
+    randonnées proposées. Lors des randonnées, les raquettes à neiges vous seront
+    prêtées durant la randonnée, parfois il faut en louer en amont. Réservez une randonnée
+    en raquette afin de profiter d'un moment en pleine nature pour découvrir la montagne
+    autrement, loin de la foule et des pistes de ski.
 - template: textarea
   blockBGcolor: blanc
   title: Nos offres de randonnée en raquettes
@@ -75,5 +76,11 @@ page_sections:
     image_alt: Groupe de personne en randonnée raquettes
     title: Randonnée en raquettes à Les Menuires
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=all&calessonsactivitytype=Raquette&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Réservez une randonnée en raquette à neige
+  content: Réservez une randonné en raquette à neige pour une expérience au cœur des
+    montagne avec vos enfants, vos amis. Partez vous promener dans la neige et savourez
+    ce moment de plénitude sous les sapins.
 
 ---
