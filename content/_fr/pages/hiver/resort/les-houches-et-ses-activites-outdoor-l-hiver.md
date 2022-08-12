@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: winter
 code_postal: 74,Haute-Savoie,Auvergne-Rhône-Alpes
@@ -24,5 +24,11 @@ button_to_link_to_ze_hero_shop:
   button_text: " "
   url_to_shop_zehero: " "
 page_sections: []
+type: generic
+level: 2
+listMother: 2
+titleHome: Les Houches
+activite: station haute savoie
+conseil: ''
 
 ---
