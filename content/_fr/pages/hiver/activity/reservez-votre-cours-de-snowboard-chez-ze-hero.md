@@ -137,6 +137,13 @@ page_sections:
     image_alt: Personne en freestyle en rail
     title: Cours privés de snowboard à Courchevel
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Réservez votre cours de snowboard
+  content: Réservez votre cours de snowboard dans nos stations de ski tel que Val
+    Thorens, Val d'Isère, Méribel ou encore Les Menuires. De nombreuses offres, pour
+    les enfants et les adultes et tous niveaux que vous pourrez réservez pour votre
+    séjour à la montagne. Avec Ze Hero, profitez de rider dans les meilleurs stations.
 layout: layout_generic
 titleHome: Réservez votre cours de snowboard chez Ze Hero
 conseil: ''
