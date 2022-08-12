@@ -35,20 +35,22 @@ page_sections:
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  title: Les activités pour enfants chez Ze Hero
-  content: " "
+  title: Nos activités pour les enfants
+  content: "Découvrez toutes les [**activités pour les enfants**](/fr/hiver/activites/activites-pour-les-enfants)
+    en dehors du ski et réserver une activité neige pour votre ou vos enfants durant
+    votre séjour en montagne. Si vous enfants ne souhaitent pas skier ou s'ils n'en
+    font pas, s’ils désirent s’amuser après les cours, nous proposons de nombreuses
+    activités fun et amusantes pour les enfants. Encadrés par des moniteurs, ils découvriront
+    autrement la montagne en s’amusant avec d’autres enfants avec des activités ludiques
+    et fun. Au programme, construction d’igloo, chasse au trésor, balade en raquette,
+    de la luge gonflable, bataille de boule de neige et bien d’autres. Vous trouverez
+    l’activité idéale pour votre enfant pour un moment de plaisir dans la neige.   \nDécouvrez
+    toutes nos activités pour enfants dans les stations de Val Thorens, Méribel, l’Alpe
+    d’Huez, Val d'Isère et les Menuires."
 - template: textarea
   blockBGcolor: blanc
-  title: Nos activités pour les enfants
-  content: "Découvrez toutes [**activités pour les enfants**](/fr/hiver/activites/activites-pour-les-enfants)
-    en dehors du ski. Si vous enfants ne souhaitent ou ne font pas de ski, s’ils désirent
-    s’amuser après les cours, nous proposons de nombreuses activités fun et amusantes
-    pour les enfants. Encadrés par des moniteurs, ils découvriront autrement la montagne
-    en s’amusant avec d’autres enfants. Au programme, construction d’igloo, chasse
-    au trésor, balade en raquette, de la luge gonflable, bataille de boule de neige
-    et bien d’autres. Vous trouverez l’activité idéale pour votre enfant pour un moment
-    de plaisir dans la neige.  \nDécouvrez toutes nos activités pour enfants dans
-    les stations de Val Thorens, Méribel, l’Alpe d’Huez, Val d'Isère et les Menuires."
+  title: Les activités pour enfants chez Ze Hero
+  content: " "
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -68,5 +70,12 @@ page_sections:
     image_alt: Construction d'igloo la nuit
     title: Activités enfant Méribel
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Réservez une activité enfant neige
+  content: Réservez une activité enfant à la neige lors de votre séjour de ski dans
+    une nos stations de ski. Parmi toutes les stations de ski ainsi que nos différentes
+    écoles de ski, vous trouverez de nombreuses activités pour vos enfants. Certaines
+    se passent durant la journée et d'autres en fin de journée, début de soirée.
 
 ---
