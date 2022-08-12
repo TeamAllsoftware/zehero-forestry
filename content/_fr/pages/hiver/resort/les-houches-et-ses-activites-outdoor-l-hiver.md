@@ -29,24 +29,10 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Les Houches
-  content: "Les Houches est une station village situé en Haute-Savoie à 15mn de Chamonix,
-    en Haute Savoie Elle est situé à 1020m d’altitude. Les Houches se trouve au coeur
-    du massif du Mont Blanc, entouré de sapins et de hautes montagnes, vous bénéficierez
-    de vue magnifique et d'une nature unique. Entouré de forêts de sapins, au cœur
-    de massif du Mont Blanc, vous bénéficierez de vue exceptionnelle sur l’Aiguille
-    du Midi. Vous découvrirez uLes Houches offrent une multitude de possibilités d’activité
-    outdoor surtout pour les amoureux des montagnes et de la nature. En plein cœur
-    du massif du Mont Blanc, vous découvrirez différents étages alpins entre les forêts,
-    les prairies de pâturages, les étages plus alpins pour vous trouver dans l’étage
-    nival où débutent les glaciers et les sommets les plus hauts d’Europe. Plus calme
-    et reposante que la ville de Chamonix, vous pourrez tout autant profiter d’un
-    choix varié d’activité à faire aux Houches.\n\n[**  \n**](https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-    \"Trouvez votre activité à Les Houches\")n patrimoine historique, une authenticité
-    des maisons montagnardes. Avec une renommée internationale pour le ski, l’été
-    elle offre tout autant de nombreuses activités, de lieux à découvrir et une nature
-    incroyable. On y trouve le parc animalier de Merlet qui se situe à plus de 1500
-    mètres d’altitude. Vous pourrez alors profiter d’observer en liberté des chamois,
-    des mouflons, des cerfs, des lamas ou encore des marmottes."
+  content: |-
+    Les Houches est une station village situé en Haute-Savoie à 15mn de Chamonix, en Haute Savoie Elle est située à 1020m d’altitude. Les Houches se trouvent au cœur du massif du Mont Blanc, entouré de sapins et de hautes montagnes, vous bénéficierez de vue magnifique et d'une nature unique. Les Houches, c'est une multitude de possibilités d’activité outdoor surtout pour les amoureux des montagnes et de la nature. Une station unique pour un ski d'exception avec un domaine grandiose pour les enfants et les adultes. Sa renommée internationale pour le ski vous donnera envie de chausser vos skis. Aux Houches vous trouverez également al salle d'escalades de la vallée de Chamonix : Mont Blanc Escalade.
+
+    Découvrez les offres de cours de ski et de snowboard au seil de l’Alpe d’Huez parmis les différentes écoles de ski dans notre page : [**Ecole de ski Alpe d'Huez**](/fr/hiver/conseils/ecole-ski-alpe-huez)
 type: generic
 level: 2
 listMother: 2
