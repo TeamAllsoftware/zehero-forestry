@@ -34,15 +34,17 @@ page_sections:
     alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  content: Découvrez tous nos cours de [**ski de randonnée**](/fr/hiver/activites/ski-de-randonnee)
-    chez Ze Hero. Partez explorer les hors-pistes et grimpez les sommets en ski de
+  content: Découvrez et réservez un cours de [**ski de randonnée**](/fr/hiver/activites/ski-de-randonnee)
+    chez Ze Hero dans nos différentes stations. Vous pourrez retrouverez un large
+    choix dans les différentes [**écoles de ski**](/fr/hiver/ecoles-stations-ski)
+    partenaires. Partez explorer les hors-pistes et grimpez les sommets en ski de
     randonnée. Vous découvrirez la liberté du ski en allant dans des lieux plus isolés,
     loin de la station et du monde. Vous profiterez des montées pour encore plus savourez
     les descentes. Tracez vos virages en poudreuse et profitez de descente fabuleuse.
     Que vous soyez débutant, confirmé ou expert, les moniteurs vous accompagneront
-    selon vos envies et votre niveau. Vous pourrez alors découvrir cette discipline,
-    vous initier à la monter et à la descente.. Vous apprendrez également la meilleure
-    technique afin de monter efficacement. Votre moniteur vous enseignera également
+    selon vos envies et votre niveau. Réservez un cours de ski de randonnée afin de
+    découvrir cette discipline. Vous apprendrez également la meilleure technique afin
+    de monter efficacement. Votre moniteur de ski de randonnée vous enseignera également
     tous les conseils de sécurité comme la recherche avec un DVA, avec la sonde et
     d'utiliser la pelle. Vous pourrez réservez vos cours de ski de randonnée à Val
     Thorens, Les Menuires, Val d'Isère, Tignes, Courchevel, Méribel et l'Alpe d'Huez.
@@ -82,6 +84,13 @@ page_sections:
     image_alt: Skieur en ski de randonnée
     title: Ski de randonnée aux Menuires
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Réservez un cours de ski de randonnée
+  content: Réservez votre cours de ski de randonnée parmi toutes nos offres proposées
+    dans nos différentes stations de ski. Chacune des écoles de ski vous accompagnera
+    pour apporter les meilleurs conseils et vous faire vivre une expérience unique
+    en ski de randonnée
 categorie: Eaux vives
 engage: Réservez cours de ski de randonnée dans nos stations
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540483/website/winter/guillaume-marques-9HRLg-yzeq8-unsplash_ulzuqx.jpg
