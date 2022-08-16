@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: winter
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
@@ -15,13 +15,19 @@ page_title: Courchevel
 baseline: Courchevel
 resort_nameid: courchevel
 resort_naming: Courchevel
-permalink: "/fr/hiver/destination/courchevel"
-meta-title: Activités outdoor à Tignes pour l'hiver
+permalink: "/fr/hiver/destinations/courchevel"
+meta-title: Activités outdoor à Courchevel pour l'hiver
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660665257/website/resorts/Courchevel/piotr-figlarz-lDoujbHM3Qk-unsplash.jpg
 image01_alt: Montagne à Courchevel
 button_to_link_to_ze_hero_shop:
   button_text: " "
   url_to_shop_zehero: " "
 page_sections: []
+type: generic
+level: 2
+listMother: 2
+titleHome: Courchevel
+activite: station savoie
+conseil: ''
 
 ---
