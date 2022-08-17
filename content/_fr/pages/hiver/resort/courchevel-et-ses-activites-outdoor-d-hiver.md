@@ -56,6 +56,15 @@ page_sections:
     image_alt: Deux snowboardeurs tenant leurs snowboard dans les mains
     title: Cours privés de snowboard
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  content: Skier à Courchevel, c'est profiter de 150 pistes de ski pour tous les niveaux
+    et toutes les envies. Skiez sur des pistes vertes ou noire, dans des hors-pistes
+    ou dans les snowparcks de Courchevel. Vous pourrez aussi glisser entre les sapins
+    ou au sommet de la Saulire. Découvrez le plus grand domaine du monde, les 3 Vallées
+    avec plus de 600km de pistes en naviguant de Courchevel à Méribel puis de Val-thorens
+    jusqu'au Menuires.
+  title: ''
 type: generic
 level: 2
 listMother: 2
