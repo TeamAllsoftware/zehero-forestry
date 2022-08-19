@@ -87,7 +87,7 @@ page_sections:
     title: Cours collectifs adultes de snowboard à Méribel
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001442/website/winter/snow_adulte.jpg
-    image_alt: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001442/website/winter/snow_adulte.jpg
+    image_alt: Deux personnes tenant leurs snowboards debout
     title: Cours collectifs adultes de snowboard à Val d'Isère
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001432/website/winter/klein-2.jpg
