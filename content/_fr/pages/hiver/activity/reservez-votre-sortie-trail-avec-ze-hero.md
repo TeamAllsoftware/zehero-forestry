@@ -53,6 +53,6 @@ page_sections:
   service: activity
   filterLevel: 2
   listMother: 2
-  whatActivity: trail
+  whatActivity: trail 06
 
 ---
