@@ -64,7 +64,7 @@ page_sections:
     image_alt: Personne roulant en Fatbike électrique sur neige
     title: Le Fatbike électrique sur neige
     url: "/fr/hiver/activites/reserver-sortie-fatbike-neige"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001438/website/winter/1_Sylvain-Aymoz30122017.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001438/website/Prosneige/1_Sylvain-Aymoz30122017.jpg
     image_alt: Construction d'un igloo
     title: Activités pour les enfants
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
