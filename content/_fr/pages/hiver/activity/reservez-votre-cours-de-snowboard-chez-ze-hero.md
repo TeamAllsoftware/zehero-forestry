@@ -47,7 +47,7 @@ page_sections:
 - template: listOffres
   blockBGcolor: blanc
   offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357508/website/winter/267408799_9365385923532795_5323596030971719906_n.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660828394/website/winter/cours_snowboard_enfant_photo_2.jpg
     image_alt: Cours collectifs enfants de snowboard
     title: Cours collectifs enfants snowboard aux Menuires
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
@@ -55,19 +55,19 @@ page_sections:
     image_alt: Des enfants en snowboard durant un cours collectif
     title: Cours collectifs enfants de snowboard à Val Thorens
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641898596/website/winter/slide-4-prosneige-cours-location-ecole-ski-snowboard_mezbdr.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357508/website/winter/267408799_9365385923532795_5323596030971719906_n.jpg
     image_alt: Groupe enfants de snowboard
     title: Cours collectifs enfants de snowboard à Méribel
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Snowboard-enfant_gi22ao.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357495/website/winter/272167547_9618769364861115_989733963301003100_n.jpg
     image_alt: Un enfant en snowboard
     title: Cours collectif enfants de snowboard à Val d'Isère
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996206/website/winter/272330231_9636082283129823_3776211539232788480_n.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996204/website/winter/256419816_9190600897677966_5517173189310400629_n.jpg
     image_alt: Groupe enfant en snowboard
     title: Cours collectif enfants de snowboard à Tignes
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357495/website/winter/272167547_9618769364861115_989733963301003100_n.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996204/website/winter/256419816_9190600897677966_5517173189310400629_n.jpg
     image_alt: Un enfant en snowboard
     title: Cours collectifs enfants de snowboard à l'Alpe d'Huez
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
