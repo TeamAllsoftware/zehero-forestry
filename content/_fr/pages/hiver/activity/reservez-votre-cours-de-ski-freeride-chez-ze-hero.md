@@ -56,7 +56,7 @@ page_sections:
 - template: listOffres
   blockBGcolor: blanc
   offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001495/website/winter/A04-13-113.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357496/website/winter/271763322_9566943013377084_2709945349720359422_n.jpg
     image_alt: Personne en ski freeride en freeride
     title: Cours de ski freeride à Val d'Isère
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
