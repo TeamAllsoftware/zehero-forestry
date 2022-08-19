@@ -79,7 +79,7 @@ page_sections:
   blockBGcolor: blanc
   offreList:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001434/website/winter/_S9C8408.jpg
-    image_alt: Groupe de skieurs en cours colelctifs
+    image_alt: Groupe de skieurs en cours collectifs
     title: Cours collectifs adultes de ski à Tignes
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883541/website/winter/Ski-marche-groupe_snuwan.jpg
