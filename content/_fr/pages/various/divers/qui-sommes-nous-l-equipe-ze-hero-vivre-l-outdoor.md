@@ -35,16 +35,17 @@ page_sections:
     ralenti son développement."
   title: Ze Hero
 - template: 2coltxtimg
-  content: |-
-    C’est une plateforme qui met en relation notre client, toujours au centre de notre attention et les meilleurs prestataires d’activités outdoor.
-
-    Tout cela, mis au point et pensé par une équipe de passionnés de sport, de nature, toujours à l’affut de nouvelles idées pour vous faire profiter au maximum de vos expériences ZE HERO.
-
-    Chacun des membres de l’équipe évolue dans un environnement similaire à ceux qui vous sont proposés ; à savoir, les alpes maritimes ou la région Rhône alpes. La montagne est avant tout leur lieu de vie, mais aussi là où ils conçoivent et font évoluer le projet.
-
-    Une team amoureuse des grands espaces, qui saura choisir au mieux et pour vous des professionnels aguerris et de confiance, eux aussi acteurs et passionnés de notre fabuleux terrain de jeu.
-
-    Tous ces ingrédients réunis pour que vous soyez LE HEROS de votre moment.
+  content: "C’est une plateforme qui met en relation notre client, toujours au centre
+    de notre attention et les meilleurs prestataires d’activités outdoor.  \nTout
+    cela, mis au point et pensé par une équipe de passionnés de sport, de nature,
+    toujours à l’affut de nouvelles idées pour vous faire profiter au maximum de vos
+    expériences ZE HERO.  \nChacun des membres de l’équipe évolue dans un environnement
+    similaire à ceux qui vous sont proposés ; à savoir, les Alpes-Maritimes, la Savoie
+    mais aussi la Haute-Savoie. La montagne est avant tout leur lieu de vie, mais
+    aussi là où ils conçoivent et font évoluer le projet.  \nUne team amoureuse des
+    grands espaces, qui saura choisir au mieux et pour vous des professionnels aguerris
+    et de confiance, eux aussi acteurs et passionnés de notre fabuleux terrain de
+    jeu.\n\nTous ces ingrédients réunis pour que vous soyez LE HEROS de votre moment."
   captiontitleuppercase: Le concept
   title: Notre marque
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639426230/website/summer/x-N4QTBfNQ8Nk-unsplash_z2aicp.jpg
