@@ -69,19 +69,19 @@ page_sections:
   captiontitleuppercase: Claire Jurine
   title: Directrice de Ze Hero
   content: " "
-- template: 2colimgtxt
-  blockBGcolor: blanc
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660912145/website/By%20Ze%20Hero%20Activity/pg_2600.jpg
-  alt_text_for_image: Photo du visage de Gatta Philippe
-  captiontitleuppercase: Gatta Philippe
-  title: Développement de Ze Hero
-  content: " "
 - template: 2coltxtimg
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660911590/website/By%20Ze%20Hero%20Activity/52244719315_8e761b2cd1_o_1.jpg
   alt_text_for_image: Alarcon Yann Course Mad Trail
   captiontitleuppercase: Alarcon Yann
   title: Responsable Opérationnel
+  content: " "
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660912145/website/By%20Ze%20Hero%20Activity/pg_2600.jpg
+  alt_text_for_image: Photo du visage de Gatta Philippe
+  captiontitleuppercase: Gatta Philippe
+  title: Développement de Ze Hero
   content: " "
 - template: textarea
   content: Vous faire vous dépasser et vivre une expérience unique. Pendant un instant,
