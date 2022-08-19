@@ -60,11 +60,11 @@ page_sections:
     image_alt: Skieurs sur une piste en virages
     title: Le ski
     url: "/fr/hiver/activites/reserver-cours-ski-piste"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996208/website/winter/269953238_9469347713136615_5695710698913094842_n.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996208/website/Prosneige/269953238_9469347713136615_5695710698913094842_n.jpg
     image_alt: Snowboardeur en hors-piste
     title: Le Snowboard
     url: "/fr/hiver/activites/reserver-cours-snowboard"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001438/website/winter/1_Sylvain-Aymoz30122017.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001438/website/Prosneige/1_Sylvain-Aymoz30122017.jpg
     image_alt: Construction d'un igloo
     title: Activités pour les enfants
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
