@@ -48,9 +48,6 @@ page_sections:
   filterLevel: 2
   listMother: 2
   whatActivity: station haute savoie
-- template: listOffres
-  blockBGcolor: blanc
-  offreList: []
 - template: textarea
   blockBGcolor: blanc
   title: Nos activités en Haute-Savoie
