@@ -5,7 +5,7 @@ season: winter
 level: 2
 listMother: 2
 categorie: Running / Trail
-topnav_color_text: light
+topnav_color_text: dark
 activite: trail 06
 meta-title: Réservez Trail - Préalpes d'Azur / Esterel - Alpes Maritimes
 meta-description: Découvrez nos sorties de trail et nos entraînements dans les Alpes
@@ -16,8 +16,8 @@ title: Sortie trail Préalpes d'Azur / Esterel - Alpes Maritimes
 permalink: "/fr/hiver/activites/reserver-trail-prealpes-esterel-alpes-maritimes"
 baseline: Sortie trail Préalpes Azur
 engage: Découvrez le trail dans les Préalpes d'Azur
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659957806/website/By%20Ze%20Hero%20Activity/IMG_20200723_143721.jpg
-image01_alt: Montagne du pic des Courmettes enneigées
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653904886/website/By%20Ze%20Hero%20Activity/IMG_20201017_144143_BURST021.jpg
+image01_alt: Coureur l'automne en dessous de courmes
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
