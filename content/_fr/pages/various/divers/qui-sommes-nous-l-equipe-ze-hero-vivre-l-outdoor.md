@@ -61,6 +61,20 @@ page_sections:
     tentons d’organiser nos activités en limitant au maximum notre impact environnemental
     en passant par des prestataires locaux soucieux de ces enjeux.
   title: Nos valeurs
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659354930/website/winter/1528750.jpg
+  alt_text_for_image: Claire Jurine et enfant aux ski
+  captiontitleuppercase: Claire Jurine
+  title: Directrice de Ze Hero
+  content: " "
+- template: 2coltxtimg
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660911590/website/By%20Ze%20Hero%20Activity/52244719315_8e761b2cd1_o_1.jpg
+  alt_text_for_image: Alarcon Yann Course Mad Trail
+  captiontitleuppercase: Alarcon Yann
+  title: Responsable Opérationnel
+  content: " "
 - template: textarea
   content: Vous faire vous dépasser et vivre une expérience unique. Pendant un instant,
     qui que vous soyez, quoi que vous fassiez, soyez le "hero" de votre moment !
