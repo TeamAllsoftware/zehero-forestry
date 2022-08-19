@@ -17,21 +17,23 @@ page_sections:
 - template: heroBreadcrumb
   title: Qui sommes-nous
 - template: 2colimgtxt
-  title: Choisissez le meilleur pour votre temps libre
-  content: |-
-    ZE HERO  vu le jour en 2018 avec pour but d’apporter à nos aventuriers les meilleures activités outdoor de nos régions, mais aussi la possibilité d’une offre de matériel optimale et de qualité pour profiter au maximum de votre moment.
-
-    Pour cela, l’équipe ZE HERO vous facilite le choix et l’organisation de l’activité que vous aurez sélectionné en vous apportant une solution de réservation simple et pratique.
-
-    C’est avec joie et dynamisme que l’équipe ZE HERO continue à faire avancer le projet après une période de crise sanitaire qui avait fortement ralenti son développement.
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643645167/website/winter/FredJonny_060220_KariTraa_AW20_S09_0097-min-700x500_s5huaz.jpg
-  captiontitleuppercase: L’équipe Ze Hero
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  alt_text_for_image: Une femme heureuse dans la neige lève les bras, elle semble
-    fière d'elle
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Qui sommes nous ?
+  title: La Team Ze Hero
+  content: " "
+- template: textarea
+  blockBGcolor: blanc
+  content: "ZE HERO vu le jour en 2018 avec pour but d’apporter à nos aventuriers
+    les meilleures activités outdoor de nos régions, mais aussi la possibilité d’une
+    offre de matériel optimale et de qualité pour profiter au maximum de votre moment.
+    Pour cela, l’équipe ZE HERO vous facilite le choix et l’organisation de l’activité
+    que vous aurez sélectionné en vous apportant une solution de réservation simple
+    et pratique.   \nC’est avec joie et dynamisme que l’équipe ZE HERO continue à
+    faire avancer le projet après une période de crise sanitaire qui avait fortement
+    ralenti son développement."
+  title: Ze Hero
 - template: 2coltxtimg
   content: |-
     C’est une plateforme qui met en relation notre client, toujours au centre de notre attention et les meilleurs prestataires d’activités outdoor.
