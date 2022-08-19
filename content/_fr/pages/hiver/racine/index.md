@@ -78,13 +78,13 @@ page_sections:
     title: Acheter du textile
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   Image2:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/IMGL6944_web_900x900_uzb0te.jpg
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/InStinct_Eklipse_Poles_1250x938_xyrwnl.jpg
     alt_text: Sac Instinct Trail Inspired
     title: Achetez vos sacs de trail
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196348/website/assets/Personnages%20poses/RandoHiver.png
-    alt_text: Personnage ZE HERO randonnée
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196348/website/assets/Personnages%20poses/Ski.png
+    alt_text: Personnage ZE HERO ski
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/speezone16R_xhbtls.jpg
