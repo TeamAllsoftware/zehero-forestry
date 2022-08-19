@@ -45,22 +45,22 @@ page_sections:
     Une team amoureuse des grands espaces, qui saura choisir au mieux et pour vous des professionnels aguerris et de confiance, eux aussi acteurs et passionnés de notre fabuleux terrain de jeu.
 
     Tous ces ingrédients réunis pour que vous soyez LE HEROS de votre moment.
-  captiontitleuppercase: Quel concept ?
-  title: Ze hero, en simple
+  captiontitleuppercase: Le concept
+  title: Notre marque
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1639426230/website/summer/x-N4QTBfNQ8Nk-unsplash_z2aicp.jpg
   alt_text_for_image: Une femme grimpe en escalade
-- template: 2colimgtxt
-  content: |-
-    La générosité, l’engagement, le partage et l’émotion sont les valeurs centrales de ce projet.
-
-    Que vous soyez seul, accompagné en couple ou bien en famille, l’équipe ZE HERO fera tout pour vous faire vivre un moment intense et à la hauteur de vos attentes. Notre but ? Que vous puissiez repartir muni de votre plus beau sourire et de souvenirs plein la tête.
-
-    De plus, nous apportons une attention toute particulière à la dimension environnementale, une question centrale dans le monde d’aujourd’hui, d’autant plus importante en milieu montagnard. C’est donc avec soins que nous tentons d’organiser nos activités en limitant au maximum notre impact environnemental en passant par des prestataires locaux soucieux de ces enjeux.
-  title: L’équipe Ze Hero
-  captiontitleuppercase: nos valeurs
-  alt_text_for_image: Un homme heureux et fier de lui. il vient de se dépasser lors
-    d'une aventure en montagne
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643649363/website/summer/justin-buisson-5eFYHAyJFmY-unsplash_njurlu.jpg
+- template: textarea
+  blockBGcolor: blanc
+  content: La générosité, l’engagement, le partage et l’émotion sont les valeurs centrales
+    de ce projet. Que vous soyez seul, accompagné en couple ou bien en famille, l’équipe
+    ZE HERO fera tout pour vous faire vivre un moment intense et à la hauteur de vos
+    attentes. Notre but ? Que vous puissiez repartir muni de votre plus beau sourire
+    et de souvenirs plein la tête. De plus, nous apportons une attention toute particulière
+    à la dimension environnementale, une question centrale dans le monde d’aujourd’hui,
+    d’autant plus importante en milieu montagnard. C’est donc avec soins que nous
+    tentons d’organiser nos activités en limitant au maximum notre impact environnemental
+    en passant par des prestataires locaux soucieux de ces enjeux.
+  title: Nos valeurs
 - template: textarea
   content: Vous faire vous dépasser et vivre une expérience unique. Pendant un instant,
     qui que vous soyez, quoi que vous fassiez, soyez le "hero" de votre moment !
