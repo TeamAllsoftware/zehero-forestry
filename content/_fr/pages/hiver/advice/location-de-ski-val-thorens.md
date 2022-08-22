@@ -36,22 +36,22 @@ page_sections:
   blockBGcolor: blanc
   title: Location de ski et de snowboard à Val Thorens
   content: "Vous cherchez un magasin de location de ski et de snowboard à Val Thorens
-    ? Découvrez toutes nos offres de location afin de trouver le bon matériel adapté
-    à votre niveau et vos envies. Il est important de [**choisir son magasin de location
-    de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
+    ? Découvrez toutes nos offres de location de ski et snowboard afin de trouver
+    le meilleur matériel adapté à votre niveau et vos envies. Il est important dans
+    un 1er temps de bien [**choisir son magasin de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
     à Val Thorens. Il en existe énormément au sein de la station. Voici les astuces
     pour le choisir correctement : son emplacement doit être près de votre logement,
     vérifier les horaires d'ouverture afin de ne pas avoir de contrainte et vous pouvez
     regarder les avis des clients sur ce magasin de location de ski à Val Thorens.
-    \ \nAfin de bien comprendre les [**différents types skis et snowboards de location**](/fr/hiver/conseils/choisir-ski-location),
-    nous avons créé une page \" Conseils \" pour vous. Vous découvrirez comment bien
-    choisir son ski et son snowboard de location en fonction de votre niveau et de
-    l'âge."
+    \ \nAfin de bien comprendre comment choisir ses skis et snowboard de location,
+    découvrez notre [**page conseil**](/fr/hiver/conseils/choisir-ski-location).  Vous
+    découvrirez comment bien choisir ses skis et son snowboard de location en fonction
+    du niveau et de l'âge."
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à Val Thorens
-  content: 'Découvrez les différentes locations de ski à Val Thorens pour : enfant,
-    adolescent, homme et femme.'
+  content: 'Découvrez toutes les locations de ski à Val Thorens pour : enfant, adolescent,
+    homme et femme.'
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -74,8 +74,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Location de snowboard à Val Thorens
-  content: Découvrez les différentes offres de location de snowboard à Val Thorens
-    pour enfant, adolescent, homme et femme.
+  content: Découvrez toutes les locations de snowboard à Val Thorens pour enfant,
+    adolescent, homme et femme.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -90,9 +90,9 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Location de chaussures à Val Thorens
-  content: Découvrez les différentes offres de location de chaussures de ski et snowboard
-    à Val Thorens pour les enfants et pour les adultes. Vous trouverez également les
-    casques et des luges.
+  content: Découvrez toutes les locations de chaussures de ski et snowboard à Val
+    Thorens pour les enfants et pour les adultes. Vous trouverez également la location
+    des casques et des luges.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
