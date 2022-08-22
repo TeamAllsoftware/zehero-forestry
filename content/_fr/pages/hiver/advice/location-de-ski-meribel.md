@@ -37,17 +37,18 @@ page_sections:
   title: Location de ski et de snowboard à Méribel
   content: "Vous désirez louer du matériel et vous cherchez un magasin de location
     de ski et de snowboard à Méribel ? Découvrez sur Ze Hero toutes nos offres de
-    location afin de trouver le matériel qui vous correspond et adapté à votre niveau.
-    Tout d'abord, il est important de bien c[**hoisir son magasin de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
+    location de ski et de snowboard afin de trouver le matériel qui vous correspond
+    et qui sera adapté à votre niveau. Tout d'abord, il est important de bien c[**hoisir
+    son magasin de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
     à Méribel. Méribel est composée de 5 villages avec Méribel-Centre et Méribel-Mottaret
     comme lieux principaux. Vous trouverez de nombreux magasins de location à Méribel.
     Pour bien choisir votre magasin, voici nos astuces : son emplacement doit être
     près de votre logement, vérifier les horaires d'ouverture afin de ne pas avoir
     de contrainte et vous pouvez regarder les avis des clients sur ce magasin de location
-    de ski à Méribel.   \nAfin de bien comprendre les différents types de [**skis
-    et de snowboards de location**](/fr/hiver/conseils/choisir-ski-location), nous
-    avons créé une page \" Conseils \" pour vous. Vous découvrirez comment bien choisir
-    son ski et son snowboard de location en fonction de votre niveau et de l'âge."
+    de ski à Méribel.  \nAfin de bien comprendre les différents types de skis et de
+    snowboards de location, découvrez toutes les informations sur notre page \" [**Conseils**](/fr/hiver/conseils/choisir-ski-location)
+    \". Vous découvrirez comment bien choisir son ski et son snowboard de location
+    en fonction du niveau et de l'âge."
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à Méribel
@@ -75,8 +76,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Location de snowboard à Méribel
-  content: Découvrez les différentes offres de location de snowboard à Méribel pour
-    enfant, adolescent, homme et femme.
+  content: Découvrez les différentes locations de snowboard à Méribel pour enfant,
+    adolescent, homme et femme.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -91,9 +92,9 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Location de chaussures à Méribel
-  content: Découvrez les différentes offres de location de chaussures de ski et snowboard
-    à Val Thorens pour les enfants et pour les adultes. Vous trouverez également les
-    casques et des luges.
+  content: Découvrez les différentes locations de chaussures de ski et snowboard à
+    Val Thorens pour les enfants et pour les adultes. Vous trouverez également la
+    location des casques et des luges.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
