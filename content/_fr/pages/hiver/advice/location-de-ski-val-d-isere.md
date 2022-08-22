@@ -36,22 +36,23 @@ page_sections:
   blockBGcolor: blanc
   title: Location de ski et de snowboard à Val d'Isère
   content: "Vous souhaitez louer du matériel et trouver un magasin de location de
-    ski et de snowboard à Val d'Isère? Découvrez toutes nos offres de location afin
-    de trouver le bon matériel adapté à vos besoins et votre niveau. Dans un 1er temps,
-    il est important de [**choisir son magasin de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
+    ski et de snowboard à Val d'Isère? Découvrez toutes nos offres de location de
+    ski et de snowboard afin de trouver le meilleur matériel adapté à vos besoins
+    et votre niveau. Dans un 1er temps, il est important de [**choisir son magasin
+    de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
     à Val d'Isère. Il en existe énormément au sein de la station. Nous vous donnons
     quelques astuces pour le choisir correctement : son emplacement doit être près
     de votre logement, vérifier les horaires d'ouverture afin de ne pas avoir de contrainte
     et vous pouvez regarder les avis des clients sur ce magasin de location de ski
-    à Val d'Isère.  \nAfin de bien comprendre les [**différents skis et snowboards
-    de location**](/fr/hiver/conseils/choisir-ski-location), nous avons créé une page
-    \" Conseils \" pour vous. Vous découvrirez comment bien choisir son ski et son
-    snowboard de location en fonction de votre niveau et de l'âge."
+    à Val d'Isère.  \nPour bien comprendre les différents types de ski et de snowboard
+    de location, découvrez toutes les infos dans notre [**page conseil**](/fr/hiver/conseils/choisir-ski-location).
+    Vous découvrirez comment bien choisir son ski et son snowboard de location en
+    fonction de votre niveau et de l'âge."
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à Val d'Isère
-  content: 'Découvrez les différentes locations de ski à Val d''Isère pour : enfant,
-    adolescent, homme et femme.'
+  content: 'Découvrez toutes les locations de ski à Val d''Isère pour : enfant, adolescent,
+    homme et femme.'
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -74,8 +75,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Location de snowboard à Val d'Isère
-  content: Découvrez les différentes offres de location de snowboard à Val d'Isère
-    pour enfant, adolescent, homme et femme.
+  content: Découvrez toutes les locations de snowboard à Val d'Isère pour enfant,
+    adolescent, homme et femme.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -90,8 +91,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Location de chaussures à Val d'Isère
-  content: Découvrez les différentes offres de location de chaussures de ski et snowboard
-    à Val d'Isère pour les enfants et pour les adultes. Vous trouverez également les
+  content: Découvrez les différentes locations de chaussures de ski et snowboard à
+    Val d'Isère pour les enfants et pour les adultes. Vous trouverez également les
     casques et des luges.
 - template: listOffres
   blockBGcolor: blanc
@@ -107,8 +108,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: La location de ski et snowboard à Val d'Isère avec Ze Hero
-  content: "La location de ski et de snowboard à Val d'Isèreavec Ze Hero, c'est louer
-    son matériel dans le magasin de ski Prosneige. Profitez de louer vos ski au pieds
+  content: "La location de ski et de snowboard à Val d'Isère chez Ze Hero, c'est louer
+    son matériel dans le magasin de ski Prosneige. Profitez de louer vos skis au pieds
     des pistes de Val d'Isère. Facile d'accès, vous pourrez partir directement skier.
     L'enseigne professionnel de ski Prosneige est une école de ski indépendante qui
     vous permettra de réserver des cours de ski mais également de louer et d'acheter
@@ -119,7 +120,7 @@ page_sections:
     différents types de ski comme les skis all-mountain, des skis freeride ou encore
     des skis de randonnées. Louez vos skis et les snowboards pour les bébés skieurs
     jusqu'aux adultes. Louez du matériel de qualité à Val d'Isère pour votre prochain
-    séjour de ski en Savoie."
+    séjour de ski à Val d'Isère dans l'espace Kelly.."
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338328/website/resorts/val-d-isere/tim-arnold-8MvJLXVBAWg-unsplash_vxmah1.jpg
 image01_alt: Vue de la station de Val d'Isère
 
