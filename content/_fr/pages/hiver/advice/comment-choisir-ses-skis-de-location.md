@@ -57,7 +57,7 @@ page_sections:
     __Les skis 5*__ : Ce sont des skis haut de gamme qui seront réservés pour des skieurs à l’aise sur toutes les pistes et tous les terrains. Ils seront destinés à des skieurs maîtrisant la vitesse, la technique et la puissance.
   blockBGcolor: ''
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812460/website/Conseil%20Equiepement/david-becker-F7SBonu15d8-unsplash_l6iunp.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660828288/website/winter/PHC_463.jpg
   captiontitleuppercase: Une construction de ski différente
   title: Qu'est ce que la construction d'un ski haut de gamme ?
   content: Chacune des catégories de ski de location vont se différencier par leur
@@ -69,7 +69,7 @@ page_sections:
     du carbone seront beaucoup plus légers, ils absorbent également les vibrations
     mais ils seront plus rigides. En fonction de leurs catégories, elles traduisent
     également l’accroche, la capacité au ski à rester stable à une vitesse importante.
-  alt_text_for_image: 'Vue d''un ski avec juste le haut du ski '
+  alt_text_for_image: Des personnes en ski en montagne
   button:
     text_button: ''
     href_button: ''
