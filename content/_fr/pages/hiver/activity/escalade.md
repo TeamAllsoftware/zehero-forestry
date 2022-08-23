@@ -6,7 +6,7 @@ level: 1
 listMother: 2
 categorie: Eaux vives
 topnav_color_text: light
-activite: escalade
+activite: activité hiver
 meta-title: 'Réservez votre cours et votre séance d''escalade '
 meta-description: Découvrez toutes nos offres de cours et de séances d'escalade avec
   la salle d'escalade aux Houche " Mont Blanc Escalade. L'escalade en salle pour les
@@ -76,7 +76,7 @@ page_sections:
     belles voies et parois."
   title: Les conseils Ze Hero
 layout: layout_generic
-titleHome: ''
+titleHome: Escalade
 conseil: ''
 
 ---
