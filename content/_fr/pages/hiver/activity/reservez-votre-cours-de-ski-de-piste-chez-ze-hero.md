@@ -2,7 +2,7 @@
 language: fr
 type: generic
 season: winter
-level: 1
+level: 2
 listMother: 2
 categorie: Ski
 topnav_color_text: light
