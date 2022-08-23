@@ -6,7 +6,7 @@ type: generic
 topnav_color_text: light
 title: Trail Running
 titleHome: Trail Running
-activite: trail
+activite: activité hiver
 level: 1
 enHome: 2
 permalink: "/fr/hiver/activites/trail-running"

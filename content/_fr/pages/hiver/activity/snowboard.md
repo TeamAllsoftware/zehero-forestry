@@ -9,7 +9,7 @@ type: generic
 topnav_color_text: light
 title: Snowboard
 titleHome: Snowboard
-activite: snowboard
+activite: activité hiver
 level: 1
 enHome: 2
 meta-title: Réserver des cours de snowboard pour apprendre la glisse
