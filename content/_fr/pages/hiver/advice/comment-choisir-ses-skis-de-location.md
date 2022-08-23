@@ -7,8 +7,8 @@ meta-title: Comment choisir ses skis de location
 meta-description: Tous les critères importants afin de savoir comment choisir ses
   skis et son matériel de location.
 topnav_color_text: light
-title: Comment choisir ses skis de location
-titleHome: Comment choisir ses skis de location
+title: Comment choisir ses skis de location ?
+titleHome: Comment choisir ses skis de location ?
 activite: ''
 level: 1
 enHome: 2
