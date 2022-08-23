@@ -9,7 +9,7 @@ type: generic
 topnav_color_text: light
 title: Coaching sportif
 titleHome: Coaching sportif
-activite: coaching
+activite: activité hiver
 level: 1
 enHome: 2
 meta-title: Réserver un coach sportif pour un cours privé ou collectif
