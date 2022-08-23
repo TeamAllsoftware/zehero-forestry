@@ -43,7 +43,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours collectifs snowboard enfants
-  content: " "
+  content: Réservez un cours collectif de snowboard pour les enfants dans la station
+    de votre choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -74,7 +75,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Cours collectifs adultes de snowboard
-  content: " "
+  content: Réservez un cours collectif adulte de snowboard dans la station de votre
+    choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -105,7 +107,7 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Cours privé de snowboard
-  content: " "
+  content: Réservez un cours privé de snowboard dans la station de votre choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -143,7 +145,9 @@ page_sections:
   content: Réservez votre cours de snowboard dans nos stations de ski tel que Val
     Thorens, Val d'Isère, Méribel ou encore Les Menuires. De nombreuses offres, pour
     les enfants et les adultes et tous niveaux que vous pourrez réservez pour votre
-    séjour à la montagne. Avec Ze Hero, profitez de rider dans les meilleurs stations.
+    séjour à la montagne. Réservez un cours collectifs ou privé de snowboard et trouver
+    la meilleur offre qui vous convient. Avec Ze Hero, profitez de rider dans les
+    meilleurs stations.
 layout: layout_generic
 titleHome: Réservez votre cours de snowboard chez Ze Hero
 conseil: ''
