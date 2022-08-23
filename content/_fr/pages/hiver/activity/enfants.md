@@ -9,7 +9,7 @@ type: generic
 topnav_color_text: light
 title: Activités pour les enfants
 titleHome: Activités pour les enfants
-activite: Activité enfants
+activite: activité hiver
 level: 1
 enHome: 2
 meta-title: Réserver des activités d'hiver pour vos enfants
