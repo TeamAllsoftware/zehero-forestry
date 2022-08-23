@@ -44,8 +44,8 @@ page_sections:
     url: https://shop.ze-hero.com/fr/activites-Outdoor/Coaching/16010-esterel-83-trail-sortie-longue-mercredi-apres-midi-3h-activite-ze-hero
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654852126/website/By%20Ze%20Hero%20Activity/IMG_20200723_153328_1.jpg
     image_alt: Coureur à Gréolières
-    title: Sortie Trail - Environ d'Antibes
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17579-trail-journee-levens-ze-hero-yann-alarcon
+    title: Sortie Trail - Préalpes d'Azur
+    url: "/fr/hiver/activites/reserver-trail-prealpes-esterel-alpes-maritimes"
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293326/website/Coaching/GOPR0299_1638033833951-min_rjq5k5.jpg
     image_alt: Coach sportif Antibes
     title: Séance de coaching
