@@ -3,8 +3,8 @@ layout: layout_generic
 language: fr
 type: generic
 season: winter
-level: 2
-listMother: 2
+level: 1
+listMother: 1
 topnav_color_text: light
 title: Comment choisir son snowboard de location ?
 titleHome: Comment choisir son snowboard de location ?
