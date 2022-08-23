@@ -43,7 +43,7 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours collectifs de ski enfants
-  content: " "
+  content: 'Réservez un cours collectifs de ski enfants dans la station de votre choix. '
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -74,7 +74,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Cours collectifs de ski adultes
-  content: " "
+  content: Réservez un cours collectifs de ski pour les adultes dans la station de
+    votre choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -105,7 +106,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours privés de ski
-  content: " "
+  content: Réservez un cours privé de ski pour enfant ou adulte dans la station de
+    votre choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -143,7 +145,8 @@ page_sections:
   content: 'Réservez votre cours de ski de piste dans nos stations tel que Val Thorens,
     Méribel ou encore Les Menuires. Vous trouverez un choix large d''offre de cours
     de ski pour tous les niveaux et tous les âges. Avec Ze Hero, profitez de skier
-    dans les meilleurs stations pour des moments uniques. '
+    dans les meilleurs stations pour des moments uniques entouré de moniteurs professionnels,
+    attentif et à votre écoute. '
 layout: layout_generic
 titleHome: Réservez votre cours de ski chez Ze Hero
 conseil: ''
