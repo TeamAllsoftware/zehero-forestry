@@ -9,7 +9,7 @@ meta-description: Réservez une activité de Fatbike sur neige afin de profiter 
   randonnée en groupe et découvrir une activité unique et orginale.
 title: Le Fat Bike électrique sur neige
 titleHome: Fat Bike sur neige
-activite: VTT
+activite: activité hiver
 level: 1
 enHome: 2
 permalink: "/fr/hiver/activites/fatbike-electrique-hiver"
