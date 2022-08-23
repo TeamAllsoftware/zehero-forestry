@@ -35,19 +35,19 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Location de ski et de snowboard aux Menuires
-  content: "Vous souhaitez louer du matériel de ski et de snowboard ? Vous désirez
-    trouver un magasin de location de ski aux Menuires ? Découvrez avec Ze Hero toutes
-    nos offres de location de ski aux Menuires afin de trouver le bon matériel.  \nAvant
-    tout chose, il est important de bien [**choisir son magasin de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
+  content: "Vous souhaitez louer du matériel de ski et de snowboard aux Menuires ?
+    Vous désirez trouver un magasin de location de ski aux Menuires ? Découvrez avec
+    Ze Hero toutes nos offres de location de ski aux Menuires afin de trouver le bon
+    matériel.  \nAvant tout chose, il est important de bien [**choisir son magasin
+    de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
     aux Menuires. Il y a de nombreux magasins de location dans la stations des Bellevilles.
     Pour trouver votre magasin de location, voici nos quelques astuces : son emplacement
     doit être près de votre logement, vérifier les horaires d'ouverture afin de ne
     pas avoir de contrainte et vous pouvez regarder les avis des clients sur ce magasin
-    de location de ski aux Menuires.  \nAfin de bien comprendre les [**différents
-    types de skis et de snowboards de location**](/fr/hiver/conseils/choisir-ski-location),
-    nous avons créé une page \" Conseils \" pour vous. Vous découvrirez comment bien
-    choisir son ski et son snowboard de location en fonction de votre niveau et de
-    l'âge."
+    de location de ski aux Menuires.  \nPour bien comprendre le fonctionnement de
+    la location de ski, découvrez toutes les informations dans notre page \" [**Conseil**
+    ](/fr/hiver/conseils/choisir-ski-location)\".  Vous découvrirez comment bien choisir
+    son ski et son snowboard de location en fonction du niveau et de l'âge."
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à Les Menuires
@@ -75,8 +75,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Location de snowboard à Les Menuires
-  content: Découvrez les différentes offres de location de snowboard aux Menuires
-    pour enfant, adolescent, homme et femme.
+  content: Découvrez les différentes locations de snowboard aux Menuires pour enfant,
+    adolescent, homme et femme.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -92,7 +92,8 @@ page_sections:
   blockBGcolor: blanc
   title: Location de chaussure de ski et snowboard aux Menuires
   content: Découvrez les différentes offres de location de chaussures de ski et de
-    snowboard à Les Menuires pour enfant, adolescent, homme et femme.
+    snowboard à Les Menuires pour enfant, adolescent, homme et femme. Vous pourrez
+    également louer des casques et des luges.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -109,7 +110,7 @@ page_sections:
   title: La location de ski et snowboard à Les Menuires avec Ze Hero
   content: "Chez Ze Hero, la location de ski et de snowboard dans la station de ski
     Les Menuires, c'est louer son matériel dans le magasin de ski Prosneige. Le shop
-    de location est situé sur le font de neige, dans me quartier de la Croisette.
+    de location est situé sur le font de neige, dans le quartier de la Croisette.
     Vous pourrez louer et partir les skis aux pieds. L'enseigne professionnel de ski
     Prosneige est une école de ski indépendante qui vous permettra de réservez vos
     cours de ski et/ou de louer votre matériel de ski et de snowboard aux Menuires
