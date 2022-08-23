@@ -74,10 +74,12 @@ menu:
   image-link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   txt-button: Acheter
   column-01:
+  - nested: Ski d'occasion
+    menu-items:
+    - title: Nos skis d'occasions
+      href: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
   - nested: Equipement outdoor
     menu-items:
-    - title: Ski d'occasions
-      href: "/fr/achat-occasion/equipement-occasion/ski-occasion"
     - title: Vêtement de trail
       href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
     - title: Accessoires de trail
