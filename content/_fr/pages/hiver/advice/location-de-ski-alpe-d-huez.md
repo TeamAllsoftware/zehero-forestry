@@ -35,20 +35,20 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Location de ski et de snowboard à l'Alpe d'Huez
-  content: "Vous souhaitez louer du matériel de ski et de snowboard ? Vous cherchez
-    où louer et trouver un magasin de location de ski à l'Alpe d'Huez? Découvrez avec
-    Ze Hero toutes nos offres de location de ski à l'Alpe d'Huez afin que vous puissiez
-    louer le matériel qui vous correspond. Il est important, avant tout, de bien [**choisir
-    son magasin de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
+  content: "Vous souhaitez louer du matériel de ski et de snowboard à l'Alpe d'Huez
+    ? Vous cherchez où louer et trouver un magasin de location de ski à l'Alpe d'Huez?
+    Découvrez avec Ze Hero toutes nos offres de location de ski à l'Alpe d'Huez afin
+    que vous puissiez louer le matériel qui vous correspond. Il est important, avant
+    tout, de bien [**choisir son magasin de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
     dans la station de ski de l'Alpe d'Huez. Il existe énormément de magasins de location
     et on peut s'y perdre. Pour trouver votre magasin de location, voici nos quelques
     astuces : son emplacement doit être près de votre logement, vérifier les horaires
     d'ouverture afin de ne pas avoir de contrainte et vous pouvez regarder les avis
     des clients sur ce magasin de location de ski à l'Alpe d'Huez.  \nAfin de bien
-    comprendre les [**différents types de skis et de snowboards de location,**](/fr/hiver/conseils/choisir-ski-location)
-    nous avons créé une page \" Conseils \" pour vous. Vous découvrirez comment bien
-    choisir son ski et son snowboard de location en fonction de votre niveau et de
-    l'âge."
+    comprendre les différents types de skis et de snowboards de location, vous découvrirez
+    toutes les informations dans notre page \" [**conseils**](/fr/hiver/conseils/choisir-ski-location)
+    \". Vous découvrirez comment bien choisir son ski et son snowboard de location
+    en fonction du niveau et de l'âge."
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à l'Alpe d'Huez
