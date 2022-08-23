@@ -37,25 +37,25 @@ page_sections:
     \  \nclass=\"mapcontainer\"><div class=\"map\"> <span>Alternative content   \nfor
     the map</span></div></div></div></div>"
   title: Choisissez votre département de destination
-- template: listOffres
+- template: textarea
   blockBGcolor: blanc
-  offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Ski-descente-groupe-amis_weuk4g.jpg
-    image_alt: Skieur de piste skiant dans une station de ski
-    title: Ski alpin
-    url: "/fr/hiver/activites/reserver-cours-ski-piste"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
-    image_alt: Snowboardeur surfant en poudreuse
-    url: "/fr/hiver/activites/reserver-cours-snowboard"
-    title: Snowboard
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540483/website/winter/guillaume-marques-9HRLg-yzeq8-unsplash_ulzuqx.jpg
-    image_alt: Des personnes faisant du ski de randonnée en hors piste
-    title: Ski de randonnée
-    url: "/fr/hiver/activites/ski-de-randonnee"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Ski-descente-poudreuse_jkfdf6.jpg
-    image_alt: Un skieur en freeride
-    title: Ski Freeride
-    url: "/fr/hiver/activite/reserver-ski-freeride"
+  title: Les activités du moments
+  content: " "
+- template: listServices2
+  blockBGcolor: blanc
+  service: activity
+  filterLevel: 1
+  listMother: 1
+  whatActivity: activité hiver
+- template: textarea
+  blockBGcolor: blanc
+  title: Nos locations du moment
+  content: " "
+- template: listConseils
+  blockBGcolor: blanc
+  service: advice
+  filterLevel: 1
+  whatAdvice: Location de ski
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: true
@@ -65,13 +65,13 @@ page_sections:
     title: Acheter du textile
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   Image2:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/IMGL6944_web_900x900_uzb0te.jpg
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/InStinct_Eklipse_Poles_1250x938_xyrwnl.jpg
     alt_text: Sac Instinct Trail Inspired
     title: Achetez vos sacs de trail
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196348/website/assets/Personnages%20poses/RandoHiver.png
-    alt_text: Personnage ZE HERO randonnée
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196348/website/assets/Personnages%20poses/Ski.png
+    alt_text: Personnage ZE HERO ski
     title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/speezone16R_xhbtls.jpg

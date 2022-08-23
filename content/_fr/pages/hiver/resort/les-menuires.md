@@ -10,8 +10,8 @@ topnav_color_text: light
 resort_nameid: les_menuires
 resort_naming: Les Menuires
 title: Les Menuires et ses activités outdoor d'hiver
-titleHome: Les activités aux Menuires
-activite: 
+titleHome: Les Menuires
+activite: station savoie
 level: 2
 enHome: 2
 meta-title: Activités outdoor aux Ménuires pour l'hiver
@@ -63,6 +63,7 @@ introduction:
     station.
   zehero_advice: ZE HERO vous conseille pour louer des skis, des chaussures de ski,
     des casques et beaucoup d'autres équipements pour toute votre famille
-listMother: 1
+listMother: 2
+conseil: station savoie
 
 ---

@@ -102,5 +102,7 @@ page_sections:
     débutent dès l'âge de 2/3ans avec une pédagogie spécialement conçue pour les bébés
     skieurs. Les groupes seront scindés en fonction de leurs niveaux en ski et en
     snowboard."
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
+image01_alt: Station de ski Les Menuires
 
 ---

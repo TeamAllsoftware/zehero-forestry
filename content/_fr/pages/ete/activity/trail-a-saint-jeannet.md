@@ -19,38 +19,63 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: 'Trail à Saint Jeannet : Débutant'
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Trail by Ze Hero
+  title: Trail Saint Jeannet
+  content: " "
 - template: textarea
   blockBGcolor: blanc
-  content: |-
-    Pratiquer le trail à Saint Jeannet, c’est parcourir les Préalpes d’Azur et l’arrière-pays niçois, c’est découvrir le baou de saint Jeannet, lieux emblématiques, c’est également courir sur ces grands plateaux où vous croiserez moutons et chèvres. Un terrain technique où passe le GR51. Tout proche de Nice et de Villeuneuve Loubet, vous pourrez en 30mn être de la mer au village afin de prendre de la hauteur dans une nature préservée.
-
-    Nous proposons différents types de sorties à Saint Jeannet de Trail. Une sortie plutôt pour s’initier au trail avec différents types de parcours possible pour découvrir les lieux et le trail tout en progressant.
-
-    Découvrons les spécificités :
+  content: Nous vous proposons différents types de sorties de Trail à Saint Jeannet.
+    Une sortie plutôt pour s’initier au trail avec une boucle de 13km et 640m de dénivelé.
+    L'autre parcours de trail est de 18km km et 730m de dénivelé. Vous découvrirez
+    le baou de St-Jeannet, le Mouton d'Anou, le baou de la Gaude et son chêne immense
+    ainsi que le château du Castellet. Pour une durée de 2h à 3h, fouler les sentiers
+    techniques et rocailleux.
   title: Le Trail à Saint Jeannet
 - template: cta
   blockBGcolor: blanc
-  marge: 40
-  intro: Découvre les Préalpes d'Azur et le baou
-  headline: en trail depuis St Jeannet
+  marge: 20
+  intro: Découvrez le trail à Saint Jeannet
+  headline: " "
   button:
     text_button: Réservez ici
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17600-trail-matin-st-jeannet-ze-hero-yann-alarcon
 - template: textarea
   blockBGcolor: blanc
   content: |-
-    Le Trail à Saint Jeannet c’est courir sur des sentiers plutôt techniques. Les chemins sont parsemés de pierre et de rochers. On travaille la proprioception en courant sur ses chemins. Mais on peut découvrir des sentiers variés avec des montés parfois raides mais courtes et des sentiers plus roulant et joueurs. Nous découvrirons alors le baou de la Gaude ainsi que Le chêne, les pâturages des moutons de saint Jeannet, le château de Castellet ainsi que le Baou de St Jeannet et sa vue imprenable sur toute la baie de la Côte d’Azur.
-
-    * Les 2 Baous : 13km et 645D+
-    * Mouton D’Anou, Baou et Castellet : 18km et 730D+
-
-    Explication sur le trail avec enseignement sur la technique de montée avec ou sans bâtons, sur la descente de descente et sur les différents entraînements en trail tel que le fractionner. Sortie basée sur l’endurance avec jeu ludique d’entraînement durant la séance.
-
-    Équipement à avoir : tenue adaptée au trail, chaussures de trail, sac ou ceinture de portage avec flasques d’eau (2 fois 500ml ou plus) + réserve alimentaire et coupe vent.
-- template: liststyle01
-  title: Dernières informations
-  item:
-  - 'Prix : 60€ les 3h'
+    * **Distance** : 12km ou 17km
+    * **Dénivelé** : 640D+ ou 730D+
+    * **Durée** : De 2h à 3h
+    * **Points d'intérêts** : Baou de St Jeannet, Baou de la Gaude, Mouton d'Anou, le Gros chêne, le château du Castellet
+    * **Points forts** : trail technique, vue magnifique
+    * **Pour qui ?** Débutants et confirmés
+    * **Les +** : Séances avec travail en côtes - descentes
+    * **Équipement** : tenue adaptée au trail, chaussures de trail, sac ou ceinture de portage avec flasques d’eau (2 fois 500ml ou plus) + réserve alimentaire et coupe vent.
+    * **Prix** : 60€
+  title: Les détails
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304660/website/summer/IMG_9228.jpg
+  atl_text_image_01: Coureur à Saint Jeannet
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1659946069/website/By%20Ze%20Hero%20Activity/G0020177_1614442334650.jpg
+  atl_text_image_02: Traileur sur les sentiers à Saint Jeannet
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1659946072/website/By%20Ze%20Hero%20Activity/IMG20210214134517.jpg
+  atl_text_image_03: Une coureuse vers le Baou de la Gaude
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1659946037/website/By%20Ze%20Hero%20Activity/IMG_20190920_072728.jpg
+  atl_text_image_04: Levé de soleil au Baou de Saint Jeannet
+- template: textarea
+  blockBGcolor: blanc
+  content: Le Trail à Saint Jeannet c’est courir sur des sentiers plutôt techniques.
+    Les chemins sont parsemés de pierre et de rochers. On travaille la proprioception
+    en courant sur ses chemins. Mais on peut découvrir des sentiers variés avec des
+    montés parfois raides mais courtes et des sentiers plus roulant et joueurs. Nous
+    découvrirons alors le baou de la Gaude ainsi que Le chêne, les pâturages des moutons
+    de saint Jeannet, le château de Castellet ainsi que le Baou de St Jeannet et sa
+    vue imprenable sur toute la baie de la Côte d’Azur. Tout proche de Nice et de
+    Villeuneuve Loubet, vous pourrez en 30mn être de la mer au village afin de prendre
+    de la hauteur dans une nature préservée.
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655304660/website/summer/IMG_9228.jpg
 image01_alt: Coureur dans le Baou de Saint Jeannet
 listMother: 2

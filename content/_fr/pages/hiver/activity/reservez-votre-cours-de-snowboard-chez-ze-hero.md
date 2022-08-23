@@ -2,7 +2,7 @@
 language: fr
 type: generic
 season: winter
-level: 1
+level: 2
 listMother: 2
 categorie: Snowboard
 topnav_color_text: light
@@ -22,30 +22,33 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de snowboard
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Snowboard by Ze Hero
+  title: Nos offres de snowboard
+  content: " "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours de snowboard chez Ze Hero
-  content: "Découvrez tous nos cours de snowboard chez Ze Hero. Réservez un cours
-    de snowboard afin de débuter, de progresser et même de vous perfectionner dans
-    cette discipline. Que ce soit pour rider sur les pistes, en freeride, apprendre
-    le freestyle, chausser vos boots et suivez votre moniteur de snowboard. Nous vous
-    proposons un choix varié de cours de snowboard pour tous les niveaux. Vous trouverez
-    des cours pour les enfants, les adolescents mais également les adultes.  \nDécouvrez
-    toutes les infos du snowboard sur notre page \" [**Snowboard**](/fr/hiver/activites/snowboard)
-    \"\n\nVous trouverez toutes nos offres dans une multitude de stations de ski tel
-    que Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez et les
-    Menuires.  \nVous ne savez pas quoi choisir entre un cours privé et un cours collectif
-    ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**\n\nCours
-    de snowboard de piste privé ou collectifs dans ces diverses stations, voici toutes
-    nos offres pour vous :"
+  content: |-
+    Découvrez et réservez un de nos cours de [**snowboard**](/fr/hiver/activites/snowboard) chez Ze Hero parmi les différentes [**écoles de ski**](/fr/hiver/ecoles-stations-ski). Réservez un cours de snowboard afin de débuter, de progresser mais aussi pour vous perfectionner dans cette discipline. Que ce soit pour rider sur les pistes, pour faire du freeride, pour apprendre le freestyle, réservez un cours de snowboard et suivez votre moniteur. Nous vous proposons un choix varié de cours de snowboard pour tous les niveaux. Vous trouverez des cours pour les enfants, les adolescents mais également les adultes. Réservez vos cours de snowboard à Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez et les Menuires.
+
+    Vous ne savez pas quoi choisir entre un cours privé et un cours collectif ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours collectifs snowboard enfants
-  content: " "
+  content: Réservez un cours collectif de snowboard pour les enfants dans la station
+    de votre choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357508/website/winter/267408799_9365385923532795_5323596030971719906_n.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660828394/website/winter/cours_snowboard_enfant_photo_2.jpg
     image_alt: Cours collectifs enfants de snowboard
     title: Cours collectifs enfants snowboard aux Menuires
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
@@ -53,26 +56,27 @@ page_sections:
     image_alt: Des enfants en snowboard durant un cours collectif
     title: Cours collectifs enfants de snowboard à Val Thorens
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641898596/website/winter/slide-4-prosneige-cours-location-ecole-ski-snowboard_mezbdr.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357508/website/winter/267408799_9365385923532795_5323596030971719906_n.jpg
     image_alt: Groupe enfants de snowboard
     title: Cours collectifs enfants de snowboard à Méribel
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Snowboard-enfant_gi22ao.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357495/website/winter/272167547_9618769364861115_989733963301003100_n.jpg
     image_alt: Un enfant en snowboard
     title: Cours collectif enfants de snowboard à Val d'Isère
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996206/website/winter/272330231_9636082283129823_3776211539232788480_n.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996204/website/winter/256419816_9190600897677966_5517173189310400629_n.jpg
     image_alt: Groupe enfant en snowboard
     title: Cours collectif enfants de snowboard à Tignes
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357495/website/winter/272167547_9618769364861115_989733963301003100_n.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996204/website/winter/256419816_9190600897677966_5517173189310400629_n.jpg
     image_alt: Un enfant en snowboard
     title: Cours collectifs enfants de snowboard à l'Alpe d'Huez
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+collectif&catypegenderlistsummer=Enfant&calessonsactivitytype=Snowboard&start-date=
 - template: textarea
   blockBGcolor: blanc
   title: Cours collectifs adultes de snowboard
-  content: " "
+  content: Réservez un cours collectif adulte de snowboard dans la station de votre
+    choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -85,7 +89,7 @@ page_sections:
     title: Cours collectifs adultes de snowboard à Méribel
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001442/website/winter/snow_adulte.jpg
-    image_alt: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001442/website/winter/snow_adulte.jpg
+    image_alt: Deux personnes tenant leurs snowboards debout
     title: Cours collectifs adultes de snowboard à Val d'Isère
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Snowboard&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001432/website/winter/klein-2.jpg
@@ -103,7 +107,7 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Cours privé de snowboard
-  content: " "
+  content: Réservez un cours privé de snowboard dans la station de votre choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -111,7 +115,7 @@ page_sections:
     image_alt: Personne faisant du snowboard sur les pistes
     title: Cours privés de snowboard à Val d'Isère
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996208/website/winter/269953238_9469347713136615_5695710698913094842_n.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001478/website/winter/VT_1207.jpg
     image_alt: Snowboardeur en freeride
     title: Cours privé de snowboard à l'Alpe d'Huez
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
@@ -135,6 +139,15 @@ page_sections:
     image_alt: Personne en freestyle en rail
     title: Cours privés de snowboard à Courchevel
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Réservez votre cours de snowboard
+  content: Réservez votre cours de snowboard dans nos stations de ski tel que Val
+    Thorens, Val d'Isère, Méribel ou encore Les Menuires. De nombreuses offres, pour
+    les enfants et les adultes et tous niveaux que vous pourrez réservez pour votre
+    séjour à la montagne. Réservez un cours collectifs ou privé de snowboard et trouver
+    la meilleur offre qui vous convient. Avec Ze Hero, profitez de rider dans les
+    meilleurs stations.
 layout: layout_generic
 titleHome: Réservez votre cours de snowboard chez Ze Hero
 conseil: ''

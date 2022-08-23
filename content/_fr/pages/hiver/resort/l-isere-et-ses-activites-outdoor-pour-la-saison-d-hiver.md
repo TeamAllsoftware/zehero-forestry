@@ -43,13 +43,12 @@ page_sections:
   blockBGcolor: blanc
   title: 'Nos destinations en Isère '
   content: " "
-- template: listOffres
+- template: listServices2
   blockBGcolor: blanc
-  offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640266010/website/resorts/alpe%20d%27huez/Alpes_dhuez_envzu0.jpg
-    image_alt: Vue de la station de ski l'Alpe d'Huez l'hiver
-    title: L'Alpe d'Huez
-    url: "/fr/hiver/destinations/alpe-d-huez"
+  service: resort
+  filterLevel: 2
+  listMother: 2
+  whatActivity: station isere
 - template: textarea
   blockBGcolor: blanc
   title: Nos activités en Isère
@@ -61,11 +60,11 @@ page_sections:
     image_alt: Skieurs sur une piste en virages
     title: Le ski
     url: "/fr/hiver/activites/reserver-cours-ski-piste"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996208/website/winter/269953238_9469347713136615_5695710698913094842_n.jpg
-    image_alt: Snowboardeur en hors-piste
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001432/website/winter/klein-2.jpg
+    image_alt: Snowboardeur sautant sur un airbag
     title: Le Snowboard
     url: "/fr/hiver/activites/reserver-cours-snowboard"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001438/website/winter/1_Sylvain-Aymoz30122017.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641808699/website/winter/michal-mancewicz-B3JhkTNqw_M-unsplash_dtpptw.jpg
     image_alt: Construction d'un igloo
     title: Activités pour les enfants
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
@@ -79,7 +78,11 @@ page_sections:
   content: " "
 - template: listOffres
   blockBGcolor: blanc
-  offreList: []
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640266020/website/resorts/alpe%20d%27huez/jelrik-stevens-cocKZ3IgFhA-unsplash_dmg1mp.jpg
+    image_alt: Vue des pistes de ski de l'Alpe d'Huez
+    title: Location de ski Alpe d'Huez
+    url: "/fr/hiver/conseil/location-ski-alpe-huez"
 type: generic
 level: 1
 listMother: 1

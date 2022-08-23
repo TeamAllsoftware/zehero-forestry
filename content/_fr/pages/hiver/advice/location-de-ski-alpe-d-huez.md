@@ -21,24 +21,34 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Location de ski Alpe d'Huez
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Location de ski By Ze Hero
+  title: Location de ski Alpe d'Huez
+  content: " "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
   title: Location de ski et de snowboard à l'Alpe d'Huez
-  content: "Vous souhaitez louer du matériel de ski et de snowboard ? Vous cherchez
-    où louer et trouver un magasin de location de ski à l'Alpe d'Huez? Découvrez avec
-    Ze Hero toutes nos offres de location de ski à l'Alpe d'Huez afin que vous puissiez
-    louer le matériel qui vous correspond.  \nIl est important, avant tout, de bien
-    choisir son magasin de location de ski dans la station de ski de l'Alpe d'Huez.
-    Il existe énormément de magasins de location et on peut s'y perdre. Pour trouver
-    votre magasin de location, voici nos quelques astuces : son emplacement doit être
-    près de votre logement, vérifier les horaires d'ouverture afin de ne pas avoir
-    de contrainte et vous pouvez regarder les avis des clients sur ce magasin de location
-    de ski à l'Alpe d'Huez.  \nDécouvrez plus d'infos dans notre page : [**Choisir
-    son magasin de location**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)\n\nAfin
-    de bien comprendre les différents types de skis et de snowboards de location,
-    nous avons créé une page \" Conseils \" pour vous. Vous découvrirez comment bien
-    choisir son ski et son snowboard de location en fonction de votre niveau et de
-    l'âge.  \nDécouvrez plus d'infos dans notre page : [**Choisir ses skis de location**](/fr/hiver/conseils/choisir-ski-location)"
+  content: "Vous souhaitez louer du matériel de ski et de snowboard à l'Alpe d'Huez
+    ? Vous cherchez où louer et trouver un magasin de location de ski à l'Alpe d'Huez?
+    Découvrez avec Ze Hero toutes nos offres de location de ski à l'Alpe d'Huez afin
+    que vous puissiez louer le matériel qui vous correspond. Il est important, avant
+    tout, de bien [**choisir son magasin de location de ski**](/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard)
+    dans la station de ski de l'Alpe d'Huez. Il existe énormément de magasins de location
+    et on peut s'y perdre. Pour trouver votre magasin de location, voici nos quelques
+    astuces : son emplacement doit être près de votre logement, vérifier les horaires
+    d'ouverture afin de ne pas avoir de contrainte et vous pouvez regarder les avis
+    des clients sur ce magasin de location de ski à l'Alpe d'Huez.  \nAfin de bien
+    comprendre les différents types de skis et de snowboards de location, vous découvrirez
+    toutes les informations dans notre page \" [**conseils**](/fr/hiver/conseils/choisir-ski-location)
+    \". Vous découvrirez comment bien choisir son ski et son snowboard de location
+    en fonction du niveau et de l'âge."
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à l'Alpe d'Huez
@@ -93,7 +103,7 @@ page_sections:
     url: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-snowboard&subslug=%2Flocation-snowboard-enfant&start-date=27%2F11%2F2022&number_rental_days=1
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357497/website/winter/272172059_9628804910524227_4698524840339624229_n.jpg
     image_alt: Groupe de personnes en snowboard sur un télésiège
-    title: Location de chaussures de snowboard
+    title: Location chaussures de snowboard
     url: https://shop.ze-hero.com/fr/location-materiel?station=alpes-dhuez&equipmentslug=%2Flocation-chaussures&rental_quality=0&oldslug=%2Flocation-chaussures&subslug=%2Flocation-boots-de-snowboard&start-date=27%2F11%2F2022&number_rental_days=1
 - template: textarea
   blockBGcolor: blanc

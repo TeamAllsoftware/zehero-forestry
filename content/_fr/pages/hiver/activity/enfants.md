@@ -9,7 +9,7 @@ type: generic
 topnav_color_text: light
 title: Activités pour les enfants
 titleHome: Activités pour les enfants
-activite: Activité enfants
+activite: activité hiver
 level: 1
 enHome: 2
 meta-title: Réserver des activités d'hiver pour vos enfants
@@ -43,9 +43,9 @@ page_sections:
   marge: 20
   button:
     href_button: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
-    text_button: Réservez
+    text_button: Nos offres
   intro: Découvrez dès maintenant nos activités enfants
-  headline: Toutes nos offres
+  headline: " "
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641808699/website/winter/ethan-hu-5WIqleHzOok-unsplash_elnk58.jpg
   atl_text_image_01: Enfants qui font un bonhomme de neige

@@ -8,7 +8,7 @@ listMother: 2
 topnav_color_text: light
 title: Ecole de ski à Val d'Isère
 titleHome: Ecole de ski à Val d'Isère
-activite: ''
+activite: Ecole de ski à Val d'Isère
 conseil: Ecole de ski
 permalink: "/fr/hiver/conseils/ecole-ski-val-disere"
 meta-title: Réservez un cours de ski - Ecoles de ski à Val d'Isère
@@ -101,5 +101,7 @@ page_sections:
     quel que soit votre niveau. Les cours débutent dès l'âge de 2/3ans avec une pédagogie
     spécialement conçue pour les bébés skieurs. Les groupes seront scindés en fonction
     de leurs niveaux en ski et en snowboard."
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338328/website/resorts/val-d-isere/tim-arnold-8MvJLXVBAWg-unsplash_vxmah1.jpg
+image01_alt: Piste de ski de Val d'Isère
 
 ---

@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 season: summer
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Vélo de route
 titleHome: Vélo de route
 activite: velo
@@ -49,10 +49,6 @@ page_sections:
     * Nos spots pour le vélo de route
 
     Le vélo de route se pratique absolument partout. La France est un pays réputé pour le cyclisme et il y a un panel d'itinéraire, de boucle, de traversée et de col mythique. Avec Ze Hero aujourd'hui, nous vous proposons des expériences uniques à travers les Alpes et les Préalpes mais également en Savoie, dans la Tarentaise, autour de Méribel pour découvrir le vélo en montagne.
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649234200/website/assets/Recadr%C3%A9es/veloroute.png
-  alt_text_for_image: Velo de route sur bitume
 - template: 2colimgtxt
   blockBGcolor: blanc
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1642521347/website/V%C3%A9lo/sejour-en-velo-traversee-des-alpes-nice_jyfbgw.jpg

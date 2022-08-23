@@ -1,5 +1,5 @@
 ---
-layout: layout_generic
+layout: layout_advice
 language: fr
 type: generic
 season: winter
@@ -97,5 +97,7 @@ page_sections:
     que soit votre niveau. Les cours débutent dès l'âge de 2/3ans avec une pédagogie
     spécialement conçue pour les bébés skieurs. Les groupes seront scindés en fonction
     de leurs niveaux en ski et en snowboard."
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640266010/website/resorts/alpe%20d%27huez/Alpes_dhuez_envzu0.jpg
+image01_alt: Vue de la station de ski de l'Alpe d'Huez
 
 ---

@@ -10,8 +10,8 @@ topnav_color_text: light
 resort_nameid: val_d_isere
 resort_naming: Val D'Isère
 title: Val d'Isère et ses activités outdoor d'hiver
-titleHome: Nos activités à Val d'Isère
-activite: 
+titleHome: Val d'Isère
+activite: station savoie
 level: 2
 enHome: 2
 meta-title: Activités outdoor à Val-d'Isère pour l'hiver
@@ -66,5 +66,6 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour louer des skis, des chaussures de ski,
     des casques et beaucoup d'autres équipements pour toute votre famille
 listMother: 2
+conseil: ''
 
 ---

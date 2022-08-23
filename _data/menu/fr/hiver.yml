@@ -28,19 +28,21 @@ menu:
     - title: Ski freeride
       href: "/fr/hiver/activite/reserver-ski-freeride"
     - title: Ski de randonnée
-      href: "/fr/hiver/activites/ski-de-randonnee"
+      href: "/fr/hiver/activite/reserver-ski-randonnee"
     - title: Snowboard
       href: "/fr/hiver/activites/reserver-cours-snowboard"
     - title: Pour les enfants
-      href: "/fr/hiver/activites/activites-pour-les-enfants"
+      href: "/fr/hiver/activite/reserver-activites-enfants"
     - title: Randonnée en raquettes
-      href: "/fr/hiver/activites/raquettes-a-neige"
+      href: "/fr/hiver/activite/reserver-randonnee-raquette"
+    - title: Coaching sportif
+      href: "/fr/hiver/activites/reserver-coaching-sportif"
     - title: Escalade
-      href: "/fr/ete/activites/escalade"
+      href: "/fr/hiver/activites/escalade"
     - title: Fatbike sur neige
       href: "/fr/hiver/activites/reserver-sortie-fatbike-neige"
     - title: Trail Running
-      href: "/fr/ete/activites/nos-sorties-trail"
+      href: "/fr/hiver/activites/reserver-sortie-trail"
 - title: Louer du matériel
   id: "3"
   title-link: "/fr/hiver/activite/location"
@@ -62,20 +64,22 @@ menu:
     - title: Location Les Menuires
       href: "/fr/hiver/conseil/location-ski-les-menuires"
     - title: Location Alpes Maritimes
-      href: https://shop.ze-hero.com/fr/location-materiel?station=alpes-maritimes-06&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=04%2F08%2F2022&number_rental_days=1
+      href: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17729-location-materiel-de-canyoning-le-bar-sur-loup-alpes-maritimes-activite-ze-hero
   column-02: ''
 - title: Acheter
   id: ''
   title-link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
-  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650358193/website/Altore/t%C3%A9l%C3%A9chargement.webp
-  image-alt: Homme Running Altore hiver
+  image-href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/go-montgenevre-SRbczzaRQBc-unsplash_lkadef.jpg
+  image-alt: Snowboardeur en poudreuse
   image-link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
   txt-button: Acheter
   column-01:
+  - nested: Ski d'occasion
+    menu-items:
+    - title: Nos skis d'occasions
+      href: https://shop.ze-hero.com/fr/achat-occasion/equipement-occasion/ski-occasion
   - nested: Equipement outdoor
     menu-items:
-    - title: Ski d'occasions
-      href: "/fr/achat-occasion/equipement-occasion/ski-occasion"
     - title: Vêtement de trail
       href: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
     - title: Accessoires de trail

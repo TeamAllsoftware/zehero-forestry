@@ -44,9 +44,12 @@ page_sections:
   blockBGcolor: blanc
   title: Nos destinations dans les Alpes Maritimes
   content: " "
-- template: listOffres
+- template: listServices2
   blockBGcolor: blanc
-  offreList: []
+  service: resort
+  filterLevel: 2
+  listMother: 2
+  whatActivity: station alpes maritimes
 - template: textarea
   blockBGcolor: blanc
   title: Nos activités dans les Alpes Maritimes
@@ -68,7 +71,11 @@ page_sections:
   content: " "
 - template: listOffres
   blockBGcolor: blanc
-  offreList: []
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/website/Canyoning%2006/IMG-20220617-WA0000.jpg
+    title: Location matériel de canyoning
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/canyoning/17729-location-materiel-de-canyoning-le-bar-sur-loup-alpes-maritimes-activite-ze-hero
+    image_alt: Fille en canyoning dans les Alpes Maritimes assises sur un rocher
 type: generic
 level: 1
 listMother: 2

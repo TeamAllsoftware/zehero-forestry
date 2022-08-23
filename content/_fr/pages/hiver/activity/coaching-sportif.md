@@ -6,87 +6,61 @@ redirect_from:
 language: fr
 season: winter
 type: generic
-topnav_color_text: dark
+topnav_color_text: light
 title: Coaching sportif
-titleHome: ''
-activite: coaching
+titleHome: Coaching sportif
+activite: activité hiver
 level: 1
 enHome: 2
-meta-title: Réserver un coach sportif pour vous préparer à l'hiver
+meta-title: Réserver un coach sportif pour un cours privé ou collectif
 meta-description: Profitez d'un coach sportif que ce soit en cours privé ou en cours
   collectif afin de progresser dans la discipline de votre choix.
 baseline: Préparation physique, dépassement, entraînement
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/victor-freitas-hOuJYX2K5DA-unsplash_gg95nq.jpg
 image01_alt: Course à pied sur piste en groupe
 page_sections:
+- template: heroBreadcrumb
+  title: Coaching sportif, késako ?
 - template: textarea
   content: |-
-    Vous désirez progresser physiquement, évoluer, vous dépasser, dans un groupe ou seul avec un ou une coach ? Une [séance de coaching sportif](https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=) c'est avoir un coach qui aura un regard précis sur toutes vos postures, vous accompagner dans vos exercices, un coach qui va vous suivre.
+    Chez Ze Hero, nous vous proposons plusieurs types de coaching sportif. Si désirez progresser physiquement, évoluer, vous dépasser, dans un groupe ou seul avec un ou une coach ? Une séance de coaching sportif c'est avoir un coach qui aura un regard précis sur toutes vos postures, vous accompagner dans vos exercices, un coach qui va vous suivre. Le coaching sportif est le meilleur moyen pour progresser et atteindre vos objectifs dans votre sport. Le coach sera également là pour discuter avec vous, vous aider dans votre programmation, le choix des compétitions, vos différents défis sportifs. Réserver un cours avec un coach sportif c'est pratiquer avec le coach et améliorer sa technique, sa gestuelle. C'est également se motiver, se confronter dans une belle ambiance, avec le groupe et les autres personnes. Vous pourrez être aussi suivi par votre coach afin d'avoir une programmation détaillée de toutes vos séances.
 
-    Que vous souhaitez être maintenu en forme, préparer une compétition, avoir une meilleure condition physique, vous muscler, préparer un défi, le coaching sera la meilleure solution.
+    Que vous souhaitez être maintenu en forme, préparer une compétition, avoir une meilleure condition physique, vous muscler, préparer un défi ou des compétitions, le coaching sera la meilleure solution.
   title: Le coaching sportif
   blockBGcolor: ''
-- template: imgWide
-  blockBGcolor: blancGris
-  image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649236206/website/assets/Recadr%C3%A9es/coaching.png
-  alt_text_for_image: Equipement de musculation
-- template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/gabin-vallet-CBnSTRvnfCE-unsplash_vmvr8z.jpg
-  captiontitleuppercase: De quelle façon ?
-  title: Coaching sportif en groupe
-  content: Le coaching sportif en groupe permet d'avoir l'émulsion des personnes qui
-    vont s'entraîner avec vous. Motivation et entraide seront présent lors de chaque
-    séance. Ce type de coaching permet de partager ces séances avec un groupe et de
-    pouvoir échanger, se dépasser également. C'est alors plus ludique, on peut créer
-    des duels, on sort de sa zone de confort, tout le monde s'encourage. Par rapport
-    au coaching privé, c'est un cours plus économique.
-  alt_text_for_image: Cours collectif de sport avec un coach sportif avec une personne
-    courant avec des ateliers d'exercices sportifs
-  button:
-    text_button: ''
-    href_button: ''
-    alt_button: ''
-  blockBGcolor: gris
-- template: textarea
-  title: Coaching sportif Privé
-  content: 'Le coaching sportif privé lui, va permettre d''avoir un coach qui sera
-    totalement dédié à vous. Pendant tout le temps de la séance, vous allez donc être
-    suivi, corrigé. Voici les différents avantages :'
-  blockBGcolor: ''
-- template: liststyle01numbered
-  item:
-  - Investissement et sécurité
-  - Flexibilité
-  - Suivi régulier
-  - Programme personnalisé
-  title: ''
-- template: parlaxgridtxtimg
-  parlaximg: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/matthew-lejune-uU5Jz-b-0yI-unsplash_am2fyt.jpg
-  captionabovetitle: Etre coacher, être accompagner, se surpasser
-  title: Réussissez votre prochain objectif
-  gridline1title: Quelque soit votre sport
-  gridline1content: Le coaching sportif vous accompagnera quelque soit vos objectifs.
-    Certains coachs seront spécialisés dans certaines disciplines tel que la course
-    à pied, la musculation, le yoga, le cross fit etc. Echangé avec lui afin de pouvoir
-    mettre en place vos attentes et objectifs.
-  gridline1img: https://res.cloudinary.com/deddrj0yb/image/upload/v1640098456/website/winter/annie-spratt-oQfSHQ2Uaic-unsplash_rn27lg.jpg
-  gridline2title: Coaching à distance
-  gridline2content: On retrouve également le coaching à distance, le e-coaching. Cela
-    permet d'être suivi par un coach à distance qui, par le biais d'application de
-    coaching ou d'Excel, mettra en place vos séances quotidiennes personnalisés. Le
-    coach fera des retours sur chacune de vos séances.
-  gridline2img: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062755/website/Coaching/SALLE_oxqywo.jpg
-  prlax_alt_text_for_image: photo de matériel de coach sportif, un TRX
-  grid_1_alt_text_for_image: Coach sportif faisant des étirements à une personne
-  grid_2_alt_text_for_image: Coach sportif coachant une personne soulevant du poids
 - template: cta
-  intro: Réservez dès séance de coaching
-  headline: Cours privés ou collectifs sont disponibles
+  blockBGcolor: blanc
+  marge: 20
+  intro: Découvrez nos offres de coaching sportif
+  headline: " "
   button:
-    text_button: Réserver maintenant >
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
-  blockBGcolor: ''
-  marge: ''
+    text_button: Nos offres
+    href_button: " "
+- template: imagegallery02
+  image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1642062762/website/Coaching/Salle_de_sport-28_yjkjev.jpg
+  atl_text_image_01: Salle de coaching sportif à Lyon
+  image02_rectangle: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293324/website/Coaching/GOPR0301_1638033833951-min_at9qzj.jpg
+  atl_text_image_02: Chaussures de course à pied sur un stade d'atléthisme
+  image03_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1643293325/website/Coaching/G0190431_1638033833951-min_xwvccp.jpg
+  atl_text_image_03: Une personne s'entrainant dans des escaliers à Antibes
+  image04_smallsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1643294097/website/Coaching/IMG_20201022_145931_xjolnt.jpg
+  atl_text_image_04: Coureur à Antibes
+  title: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Les différents coaching sportif
+  content: |-
+    * Coaching collectif
+
+    Le coaching sportif en groupe permet d'avoir l'émulsion des personnes qui vont s'entraîner avec vous. Motivation et entraide seront présent lors de chaque séance. Ce type de coaching permet de partager ces séances avec un groupe et de pouvoir échanger, se dépasser également. C'est alors plus ludique, on peut créer des duels, on sort de sa zone de confort, tout le monde s'encourage. Par rapport au coaching privé, c'est un cours plus économique.
+
+    * Coaching privé
+
+    Le coaching sportif privé lui, va permettre d'avoir un coach qui sera totalement dédié à vous. Pendant tout le temps de la séance, vous allez donc être suivi, corrigé.
+
+    * Le e-coaching
+
+    On retrouve également le coaching à distance, le e-coaching. Cela permet d'être suivi par un coach à distance qui, par le biais d'application de coaching ou d'Excel, mettra en place vos séances quotidiennes personnalisés. Le coach fera des retours sur chacune de vos séances.
 - template: newsletter
   title: Recevez nos dernières informations
 topnav_text_color: light

@@ -1,15 +1,15 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: winter
 type: generic
-meta-title: Conseil ski, comment bien choisir vos skis de location
+meta-title: Comment choisir ses skis de location
 meta-description: Tous les critères importants afin de savoir comment choisir ses
   skis et son matériel de location.
 topnav_color_text: light
 title: Comment choisir ses skis de location
-titleHome: 
-activite: 
+titleHome: Comment choisir ses skis de location
+activite: ''
 level: 2
 enHome: 2
 permalink: "/fr/hiver/conseils/choisir-ski-location"
@@ -21,12 +21,15 @@ button_to_link_to_ze_hero_shop:
   button_text: Choisir son matériel de location
   url_to_shop_zehero: https://shop.ze-hero.com/fr/location-materiel?equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=30%2F11%2F2021&number_rental_days=1
 page_sections:
+- template: heroBreadcrumb
+  title: Comment choisir ses skis de location ?
 - template: textarea
   content: |-
     Lorsque vous **louez** des skis, il n'est pas toujours évident de comprendre ce qui est déjà le mieux adapté pour vous, les différentes **catégories** de ski. Mais aussi savoir quel ski louer en fonction de son **niveau** et comprendre les différentes **gammes** de ski de location. Il y a un nombre important de ski et le choix n’est pas simple.
 
     Notre équipe d'experts va vous aider à comprendre et à choisir correctement votre paire de ski de location pour adulte.
   title: Comment choisir ses skis de location ?
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330388/website/Conseil%20Equiepement/jeremy-bezanger-jW1I1M9TdRA-unsplash_urapcp.jpg
   captiontitleuppercase: La location de ski adultes
@@ -52,8 +55,9 @@ page_sections:
     __Les skis 4*__ : Ces skis sont réservés pour les personnes qui ont un niveau de ski plus élevé. Ils sont donc réservés pour des skieurs à l’aise sur tous les terrains et sur des pistes rouges et noires. Ce sont des skis haut de gamme qui sont maniables et très rassurants afin de se faire plaisir en gardant de la vitesse.
 
     __Les skis 5*__ : Ce sont des skis haut de gamme qui seront réservés pour des skieurs à l’aise sur toutes les pistes et tous les terrains. Ils seront destinés à des skieurs maîtrisant la vitesse, la technique et la puissance.
+  blockBGcolor: ''
 - template: 2colimgtxt
-  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812460/website/Conseil%20Equiepement/david-becker-F7SBonu15d8-unsplash_l6iunp.jpg
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660828288/website/winter/PHC_463.jpg
   captiontitleuppercase: Une construction de ski différente
   title: Qu'est ce que la construction d'un ski haut de gamme ?
   content: Chacune des catégories de ski de location vont se différencier par leur
@@ -65,7 +69,7 @@ page_sections:
     du carbone seront beaucoup plus légers, ils absorbent également les vibrations
     mais ils seront plus rigides. En fonction de leurs catégories, elles traduisent
     également l’accroche, la capacité au ski à rester stable à une vitesse importante.
-  alt_text_for_image: 'Vue d''un ski avec juste le haut du ski '
+  alt_text_for_image: Des personnes en ski en montagne
   button:
     text_button: ''
     href_button: ''
@@ -84,6 +88,7 @@ page_sections:
     à dire que vous retrouverez des skis 2*, 3*, 4* et 5* en Freeride, Freestyle,
     Piste, All Mountain."
   title: ''
+  blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812999/website/Conseil%20Equiepement/maxwell-ingham-d3Lm40Dn9rA-unsplash_rnaqaq.jpg
   captiontitleuppercase: La location pour les enfants
@@ -118,7 +123,11 @@ page_sections:
     Vous pouvez également renseigner des informations supplémentaires qui peuvent être importantes. Par exemple, si vous êtes fragiles d’un genou, il est
     important de le spécifier."
   title: Important
+  blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
+conseil: ''
+listMother: 2
+baseline: ''
 
 ---

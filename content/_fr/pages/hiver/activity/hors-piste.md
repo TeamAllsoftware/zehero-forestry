@@ -9,7 +9,7 @@ type: generic
 topnav_color_text: light
 title: Ski freeride
 titleHome: Ski Freeride
-activite: ski freeride
+activite: activité hiver
 level: 1
 enHome: 2
 meta-title: Réserver une activité de ski hors-piste
@@ -42,7 +42,7 @@ page_sections:
     href_button: "/fr/hiver/activite/reserver-ski-freeride"
     text_button: Nos offres
   intro: Découvrez nos activités de ski freeride
-  headline: Toutes nos offres
+  headline: " "
   blockBGcolor: blanc
   marge: 20
 - template: imagegallery02

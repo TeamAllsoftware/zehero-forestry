@@ -9,7 +9,7 @@ type: generic
 topnav_color_text: light
 title: Ski de piste
 titleHome: Ski de piste
-activite: ski de piste
+activite: activité hiver
 level: 1
 enHome: 2
 meta-title: 'Réserver un cours privé ou collectif de ski de piste '
@@ -46,7 +46,7 @@ page_sections:
     href_button: "/fr/hiver/activites/reserver-cours-ski-piste"
     text_button: Nos offres
   intro: Découvrez nos activités de ski de piste
-  headline: Toutes nos offres
+  headline: " "
   blockBGcolor: blanc
   marge: 20
 - template: imagegallery02

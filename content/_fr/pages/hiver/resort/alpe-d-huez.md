@@ -10,8 +10,8 @@ topnav_color_text: light
 resort_nameid: alpe-d-huez
 resort_naming: Alpe Huez
 title: L'Alpe d'Huez et ses activités outdoor d'hiver
-titleHome: Nos activités à l'Alpe d'Huez
-activite: 
+titleHome: Alpe d'Huez
+activite: station isere
 level: 2
 enHome: 2
 meta-title: Activités outdoor à l'Alpe d'Huez pour l'hiver

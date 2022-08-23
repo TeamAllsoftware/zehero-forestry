@@ -8,8 +8,8 @@ season: winter
 type: generic
 topnav_color_text: light
 title: Raquettes à neige
-titleHome: raquette à neige
-activite: raquettes
+titleHome: Raquette à neige
+activite: activité hiver
 level: 1
 enHome: 2
 meta-title: Réserver une randonnée en raquettes à neige
@@ -39,10 +39,10 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   intro: Découvrez nos activités de raquette à neige
-  headline: Toutes nos offres
+  headline: " "
   button:
-    text_button: 'Réserver maintenant '
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
+    text_button: Nos offres
+    href_button: "/fr/hiver/activite/reserver-randonnee-raquette"
   blockBGcolor: blanc
   marge: 20
 - template: imagegallery02

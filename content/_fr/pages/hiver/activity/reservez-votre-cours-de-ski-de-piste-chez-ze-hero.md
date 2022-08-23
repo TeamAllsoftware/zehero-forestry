@@ -2,17 +2,17 @@
 language: fr
 type: generic
 season: winter
-level: 1
+level: 2
 listMother: 2
 categorie: Ski
 topnav_color_text: light
 activite: ski de piste
-meta-title: Réservez votre cours de ski de piste
-meta-description: Réservez un cours de ski de piste avec Ze Hero dans la station de
-  votre choix. Des cours collectifs ou privés pour enfants et adultes
-title: Réservez votre cours de ski de piste chez Ze Hero
+meta-title: Réservez votre cours de ski collectifs ou privés
+meta-description: Réservez un cours de ski avec Ze Hero dans la station de votre choix.
+  Des cours collectifs ou privés pour enfants et adultes
+title: Réservez votre cours de ski chez Ze Hero
 permalink: "/fr/hiver/activites/reserver-cours-ski-piste"
-baseline: Réservez cours de ski de piste
+baseline: 'Réservez cours de ski '
 engage: Cours de ski pour tous, privé ou collectif
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001434/website/winter/_S9C8408.jpg
 image01_alt: 'Groupe de skieurs dans un cours de ski '
@@ -21,28 +21,29 @@ button_to_link_to_ze_hero_shop:
   url_to_shop_zehero: ''
 page_sections:
 - template: heroBreadcrumb
-  title: Nos offres de ski de piste
+  title: 'Nos offres de ski '
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Ski by Ze Hero
+  title: Les offres de ski
+  content: " "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
-  title: Nos cours de ski de piste chez Ze Hero
-  content: "Découvrez tous nos cours de ski de piste chez Ze Hero. Partez apprendre
-    le ski, progresser ou même vous perfectionner dans le ski de piste ou le ski alpin.
-    Nous vous proposons un choix varié de cours de ski pour tous les niveaux. Vous
-    trouverez des cours pour les tout-petits avec la mise en place de cours de ski
-    dans un jardin d’enfants. Mais vous pourrez également réserver des cours de ski
-    pour les enfants ainsi que les adolescents. Réservez également des cours de ski
-    pour les adultes quel que soit votre niveau.  \nDécouvrez toutes les informations
-    sur le ski de piste sur notre page \" [**ski de piste**](/fr/hiver/activites/ski-de-piste)
-    \".\n\nVous pourrez réservez nos offres dans une multitude de stations de ski
-    tel que Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez.
-    \ \nVous ne savez pas quoi choisir entre un cours privé et un cours collectif
-    ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**\n\nCours
-    de ski de piste privé ou collectifs dans ces diverses stations, voici toutes nos
-    offres pour vous :"
+  title: Nos cours de ski chez Ze Hero
+  content: |-
+    Découvrez tous nos cours de [**ski**](/fr/hiver/activites/ski-de-piste) chez Ze Hero et réservez votre cours de ski pour vous ou votre famille. Le cours de ski vous permettra de vous initier, de progresser ou même de vous perfectionner dans le ski de piste ou le ski alpin. Nous vous proposons un choix varié de cours de ski pour tous les niveaux que vous pourrez réserver. Vous trouverez des cours pour les tout-petits avec la mise en place de cours de ski dans un jardin d’enfants. Mais vous pourrez également réserver des cours de ski pour les enfants ainsi que les adolescents. Réservez également des cours de ski pour les adultes quel que soit votre niveau. Découvrez des cours de ski à Val Thorens, Courchevel, Méribel, Val d'Isère, Tignes, l'Alpe d'Huez ainsi que chacune de [**nos écoles de ski**](/fr/hiver/ecoles-stations-ski).
+
+    Vous ne savez pas quoi choisir entre un cours privé et un cours collectif ? Découvrez toutes les infos dans notre page [**conseil**](https://www.ze-hero.com/fr/hiver/conseils/cours-prive-cours-collectif)**.**
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours collectifs de ski enfants
-  content: " "
+  content: 'Réservez un cours collectifs de ski enfants dans la station de votre choix. '
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -73,12 +74,13 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Cours collectifs de ski adultes
-  content: " "
+  content: Réservez un cours collectifs de ski pour les adultes dans la station de
+    votre choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001434/website/winter/_S9C8408.jpg
-    image_alt: Groupe de skieurs en cours colelctifs
+    image_alt: Groupe de skieurs en cours collectifs
     title: Cours collectifs adultes de ski à Tignes
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+collectif&catypegenderlistsummer=Adulte&calessonsactivitytype=Ski&start-date=
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883541/website/winter/Ski-marche-groupe_snuwan.jpg
@@ -104,7 +106,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours privés de ski
-  content: " "
+  content: Réservez un cours privé de ski pour enfant ou adulte dans la station de
+    votre choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -136,8 +139,16 @@ page_sections:
     image_alt: Deux personnes sur une télésiège en ski
     title: Cours privé de ski à Courchevel
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+- template: textarea
+  blockBGcolor: blanc
+  title: Réservez votre cours de ski de piste
+  content: 'Réservez votre cours de ski de piste dans nos stations tel que Val Thorens,
+    Méribel ou encore Les Menuires. Vous trouverez un choix large d''offre de cours
+    de ski pour tous les niveaux et tous les âges. Avec Ze Hero, profitez de skier
+    dans les meilleurs stations pour des moments uniques entouré de moniteurs professionnels,
+    attentif et à votre écoute. '
 layout: layout_generic
-titleHome: Réservez votre cours de ski de piste chez Ze Hero
+titleHome: Réservez votre cours de ski chez Ze Hero
 conseil: ''
 
 ---

@@ -42,9 +42,12 @@ page_sections:
   blockBGcolor: blanc
   title: Nos destinations en Haute Savoie
   content: " "
-- template: listOffres
+- template: listServices2
   blockBGcolor: blanc
-  offreList: []
+  service: resort
+  filterLevel: 2
+  listMother: 2
+  whatActivity: station haute savoie
 - template: textarea
   blockBGcolor: blanc
   title: Nos activités en Haute-Savoie
@@ -56,13 +59,6 @@ page_sections:
     image_alt: Salle d'escalade des Houches
     title: L'escalade en salle
     url: https://www.montblancescalade.com/fr
-- template: textarea
-  blockBGcolor: blanc
-  title: Nos locations de matériel en Haute Savoie
-  content: " "
-- template: listOffres
-  blockBGcolor: blanc
-  offreList: []
 type: generic
 level: 1
 listMother: 1

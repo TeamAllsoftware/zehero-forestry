@@ -10,7 +10,7 @@ topnav_color_text: light
 resort_nameid: antibes
 resort_naming: Antibes
 title: Antibes et sa région pour vos activités outdoor de l'été
-activite: alpesmaritimes
+activite: station alpes maritimes ete
 level: 2
 enHome: 2
 meta-title: Activités outdoor à Antibes pour l'été
@@ -73,7 +73,7 @@ introduction:
     votre famille
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
 listMother: 2
-titleHome: Nos activité à Antibes
+titleHome: Nos activités à Antibes
 conseil: ''
 
 ---

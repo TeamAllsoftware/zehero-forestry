@@ -2,7 +2,7 @@
 language: fr
 type: generic
 season: winter
-level: 1
+level: 2
 listMother: 2
 categorie: Ski
 topnav_color_text: light
@@ -22,29 +22,41 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de ski freeride
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640094644/website/logo/Sur%20fond%20clair/logo-ze-hero-horizontal_4_a3dhvk.png
+  alt_text_for_image: Logo Ze Hero
+  captiontitleuppercase: Le ski freeride by Ze Hero
+  title: Nos offres de ski freeride
+  content: " "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours de ski freeride chez Ze Hero
-  content: "Découvrez tous nos cours de ski freeride chez Ze Hero. Partez explorer
-    les pentes vierges et la neige fraîche. Tracez vos virages en poudreuse et profitez
-    de descente fabuleuse. Que vous soyez débutant, confirmé ou expert, les moniteurs
-    vous accompagneront selon vos envies et votre niveau. Vous pourrez alors découvrir
-    cette discipline ou aller dans les plus beaux freerides de la station. Vous apprendrez
-    également la meilleure technique afin d'être à l'aise dans toutes les pentes.
-    Votre moniteur vous enseignera également tous les conseils de sécurité comme la
-    recherche avec un DVA, avec la sonde et d'utiliser la pelle.  \nDécouvrez toutes
-    les informations sur le ski freeride dans notre page \" [**ski freeride **](/fr/hiver/activites/ski-freeride)\"\n\nVous
-    pourrez trouver ces cours freerides dans de nombreuses stations tels que Val Thorens,
-    Les Menuires, Val d'Isère, Tignes, Courchevel, Méribel et l'Alpe d'Huez.\n\nDécouvrez
-    toutes nos offres de cours privés de ski Freeride chez Ze Hero :"
+  content: Découvrez  et réservez un de nos cours de [**ski freeride**](/fr/hiver/activites/ski-freeride)
+    chez Ze Hero. Partez explorer les pentes vierges et la neige fraîche. Tracez vos
+    virages en poudreuse et profitez de descente fabuleuse. Avec nos différentes [**écoles
+    de ski**](/fr/hiver/ecoles-stations-ski) , trouvez votre cours qui vous convient
+    dans la station de ski de votre choix et réservez votre journée de ski freeride.
+    Que vous soyez débutant, confirmé ou expert, les moniteurs vous accompagneront
+    selon vos envies et votre niveau. Découvrez cette discipline et aller dans les
+    plus beaux freerides de la station. Vous apprendrez également la meilleure technique
+    et gestuelle afin d'être à l'aise dans toutes les pentes. Votre moniteur vous
+    enseignera également tous les conseils de sécurité comme la recherche avec un
+    DVA, avec la sonde et d'utiliser la pelle. Vous pourrez réservez vos cours de
+    ski freerides à Val Thorens, Les Menuires, Val d'Isère, Tignes, Courchevel, Méribel
+    et l'Alpe d'Huez.
 - template: textarea
   blockBGcolor: blanc
   title: Nos cours de ski freeride
-  content: " "
+  content: Réservez un cours de ski freeride dans la station de votre choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001495/website/winter/A04-13-113.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357496/website/winter/271763322_9566943013377084_2709945349720359422_n.jpg
     image_alt: Personne en ski freeride en freeride
     title: Cours de ski freeride à Val d'Isère
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
@@ -68,6 +80,13 @@ page_sections:
     image_alt: Personne marchant avec ses skis en freeride
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
     title: Cours privés de ski freeride à Courchevel
+- template: textarea
+  blockBGcolor: blanc
+  title: Réservez votre cours de ski freeride
+  content: Réservez votre cours de ski freeride parmi toutes nos stations en Savoie
+    et Isère tel que Val Thorens, Méribel, Val d'Isère, l'Alpe d'Huez, ou encore Courchevel.
+    Partez en cours privé de ski freeride avec Ze Hero et laissez vous guider par
+    votre moniteur pour une journée d'exception.
 layout: layout_generic
 titleHome: Réservez votre cours de ski freeride chez Ze Hero
 conseil: ''

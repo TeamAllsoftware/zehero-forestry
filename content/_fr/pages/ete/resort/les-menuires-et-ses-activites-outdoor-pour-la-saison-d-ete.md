@@ -13,7 +13,7 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Les Menuires et ses activités outdoor pour la saison d'été
-activite: savoie
+activite: station savoie ete
 level: 2
 enHome: 2
 page_title: Les Menuires, village d'émotion
@@ -84,6 +84,6 @@ page_sections:
 code_postal: 73,Savoie,Auvergne-Rhône-Alpes
 listMother: 2
 titleHome: Nos activités aux Menuires
-conseil: ''
+conseil: station savoie ete
 
 ---

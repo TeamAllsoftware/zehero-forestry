@@ -8,7 +8,7 @@ listMother: 2
 topnav_color_text: light
 title: Ecole de ski à Val Thorens
 titleHome: Ecole de ski à Val Thorens
-activite: ''
+activite: Ecole de ski à Val Thorens
 conseil: Ecole de ski
 permalink: "/fr/hiver/conseils/ecole-ski-val-thorens"
 meta-title: Réservez un cours de ski - Ecoles de ski à Val Thorens
@@ -26,7 +26,7 @@ page_sections:
   blockBGcolor: blanc
   title: Ecole de ski à Val Thorens
   content: |-
-    Vous séjournez à Val Thorens et vous cherchez une école de ski à Val Thorens ? Si vous souhaitez apprendre, débuter, progresser et même vous perfectionner dans le ski ou le snowboard, il faudra alors réserver des cours de ski. Vous trouverez alors des écoles de ski au sein de la station de Val Thorens qui vous permettront de prendre des cours pour les enfants, pour les adolescents et pour les adultes.
+    Vous séjournez à Val Thorens et vous cherchez une école de ski afin de réserver un cours de ski à Val Thorens ? Si vous souhaitez apprendre, débuter, progresser et même vous perfectionner dans le ski ou le snowboard, il faudra alors réserver des cours de ski. Vous trouverez alors des écoles de ski au sein de la station de Val Thorens qui vous permettront de prendre des cours pour les enfants, pour les adolescents et pour les adultes.
 
     Pour comprendre " **Comment choisir son école de ski ?** " découvrez toutes les informations et nos conseils dans en [**cliquant ici**](/fr/hiver/conseils/choisir-ecole-de-ski) !
 
@@ -37,8 +37,9 @@ page_sections:
   content: "Découvrez les différents cours collectifs de ski et de snowboard à Val
     Thorens. Quel que soit votre niveau, vous évoluerez dans un groupe homogène afin
     de progresser dans une ambiance ludique et conviviale. Les cours collectifs sont
-    prévus pour 5 à 6 jours le matin ou l’après-midi.  \nVoici les offres de cours
-    collectifs de ski ou snowboard pour les enfants ou les adultes à Val Thorens : "
+    prévus pour 5 à 6 jours le matin ou l’après-midi.   \nVoici les différents cours
+    collectifs de ski ou snowboard pour les enfants ou les adultes à Val Thorens afin
+    de les réserver :"
 - template: listOffres
   blockBGcolor: blanc
   offreList:
@@ -103,5 +104,7 @@ page_sections:
     ski ou de snowboard quel que soit votre niveau. Les cours débutent dès l'âge de
     2/3ans avec une pédagogie spécialement conçue pour les bébés skieurs. Les groupes
     seront scindés en fonction de leurs niveaux en ski et en snowboard."
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640165708/website/resorts/val-thorens/winter-1285952_1920_llqczc.jpg
+image01_alt: Vue de la station de ski de Val Thorens
 
 ---

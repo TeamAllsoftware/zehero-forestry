@@ -12,7 +12,7 @@ introduction:
   zehero_advice: ZE HERO vous conseille pour les activités et la location des équipements
     pour toute la famille
 title: Saint Jeannet et ses activités outdoor pour la saison d'été
-activite: alpesmaritimes
+activite: villes 06
 level: 2
 enHome: 2
 page_title: Saint Jeannet et le Baou
@@ -63,6 +63,6 @@ page_sections:
 type: generic
 listMother: 2
 titleHome: Nos activité à Saint Jeannet
-conseil: ''
+conseil: villes 06
 
 ---

@@ -7,7 +7,7 @@ topnav_color_text: light
 title: Randonner en montagne
 activite: randonnee
 level: 1
-listMother: 2
+listMother: 1
 permalink: "/fr/ete/activites/randonnee-montagne"
 redirect_from:
 - "/fr/ete/activite/randonnee-montagne"
@@ -35,8 +35,8 @@ page_sections:
 - template: cta
   blockBGcolor: blanc
   marge: 20
-  intro: Découvrez dès maintenant nos offres de randonnée
-  headline: Toutes nos offres
+  intro: Découvrez dès maintenant nos randonnées
+  headline: " "
   button:
     text_button: Nos offres
     href_button: "/fr/ete/activites/reserver-randonnee"
@@ -113,7 +113,6 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
-listMother: 1
 titleHome: La randonnée
 conseil: ''
 

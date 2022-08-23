@@ -39,29 +39,12 @@ page_sections:
   blockBGcolor: blanc
   title: Nos destinations en Savoie
   content: " "
-- template: listOffres
+- template: listServices2
   blockBGcolor: blanc
-  offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640177481/website/resorts/val-thorens/Valthorens_pzpbgc.jpg
-    image_alt: Station de ski de Val Thorens
-    title: Val Thorens
-    url: "/fr/hiver/destinations/val-thorens"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338319/website/resorts/val-d-isere/kamala-bright-HqknZ4LufDE-unsplash_swsl2n.jpg
-    image_alt: Station de ski de Val d'Isère la nuit illuminé
-    title: Val d'Isère
-    url: "/fr/hiver/destinations/val-d-isere"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640611880/website/resorts/meribel/spurwing-agency-k_4m9_0PO3Q-unsplash_zjsfry.jpg
-    image_alt: Station de ski de Méribel
-    title: Méribel
-    url: "/fr/hiver/destinations/meribel"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
-    image_alt: Station de ski des Ménuires au coucher de soleil
-    url: "/fr/hiver/destinations/les-menuires"
-    title: Les Menuires
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640588508/website/resorts/Tignes/tim-arnold-4L_EZk4HG1A-unsplash_w4zb0q.jpg
-    image_alt: Montagnes et station de ski de Tignes
-    title: Tignes
-    url: "/fr/hiver/destinations/tignes"
+  service: resort
+  filterLevel: 2
+  listMother: 2
+  whatActivity: station savoie
 - template: textarea
   blockBGcolor: blanc
   title: Nos activités en Savoie
@@ -73,7 +56,7 @@ page_sections:
     image_alt: Skieurs sur une piste en virages
     title: Le ski
     url: "/fr/hiver/activites/reserver-cours-ski-piste"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658996208/website/winter/269953238_9469347713136615_5695710698913094842_n.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/go-montgenevre-SRbczzaRQBc-unsplash_lkadef.jpg
     image_alt: Snowboardeur en hors-piste
     title: Le Snowboard
     url: "/fr/hiver/activites/reserver-cours-snowboard"
@@ -81,7 +64,7 @@ page_sections:
     image_alt: Personne roulant en Fatbike électrique sur neige
     title: Le Fatbike électrique sur neige
     url: "/fr/hiver/activites/reserver-sortie-fatbike-neige"
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001438/website/winter/1_Sylvain-Aymoz30122017.jpg
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641808699/website/winter/michal-mancewicz-B3JhkTNqw_M-unsplash_dtpptw.jpg
     image_alt: Construction d'un igloo
     title: Activités pour les enfants
     url: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Activit%C3%A9+non+ski&start-date=
@@ -91,7 +74,23 @@ page_sections:
   content: " "
 - template: listOffres
   blockBGcolor: blanc
-  offreList: []
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640010902/website/resorts/val-thorens/joan-oger-CFntYTHRfRc-unsplash_qzraqh.jpg
+    image_alt: Télésiège et vue de la station de ski de Val Thorens
+    title: Location de ski Val Thorens
+    url: "/fr/hiver/conseil/location-ski-val-thorens"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640338305/website/resorts/val-d-isere/yann-allegre-jk9B7M0OSnE-unsplash_i5yqk3.jpg
+    title: Location de ski Val d'Isère
+    url: "/fr/hiver/conseil/location-ski-val-disere"
+    image_alt: Piste de ski de Val d'Isère
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640611880/website/resorts/meribel/spurwing-agency-k_4m9_0PO3Q-unsplash_zjsfry.jpg
+    image_alt: Vue des pistes de ski de Méribel
+    title: Location de ski Méribel
+    url: "/fr/hiver/conseil/location-ski-meribel"
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640185376/website/resorts/les%20menuires/Les_menuires_sglvm0.jpg
+    image_alt: Vue de la station de ski des Menuires
+    title: Location de ski Les Menuires
+    url: "/fr/hiver/conseil/location-ski-les-menuires"
 type: generic
 level: 1
 listMother: 1
