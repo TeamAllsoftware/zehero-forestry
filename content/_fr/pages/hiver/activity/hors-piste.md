@@ -9,7 +9,7 @@ type: generic
 topnav_color_text: light
 title: Ski freeride
 titleHome: Ski Freeride
-activite: ski freeride
+activite: activité hiver
 level: 1
 enHome: 2
 meta-title: Réserver une activité de ski hors-piste
