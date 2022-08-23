@@ -11,7 +11,7 @@ type: generic
 topnav_color_text: light
 title: Ski de randonnée
 titleHome: Ski de randonnée
-activite: ski de randonnée
+activite: activité hiver
 level: 1
 enHome: 2
 meta-title: Réserver des cours de ski de randonnée
