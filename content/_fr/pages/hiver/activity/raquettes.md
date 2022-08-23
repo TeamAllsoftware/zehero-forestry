@@ -9,7 +9,7 @@ type: generic
 topnav_color_text: light
 title: Raquettes à neige
 titleHome: Raquette à neige
-activite: raquettes
+activite: activité hiver
 level: 1
 enHome: 2
 meta-title: Réserver une randonnée en raquettes à neige
