@@ -41,6 +41,12 @@ page_sections:
   blockBGcolor: blanc
   title: Les activités du moments
   content: " "
+- template: listServices
+  blockBGcolor: blanc
+  service: activity
+  headtitle:
+    headline: Vivez l'émotion
+    title: Nos activités cet hiver
 - template: listOffres
   blockBGcolor: blanc
   offreList:
