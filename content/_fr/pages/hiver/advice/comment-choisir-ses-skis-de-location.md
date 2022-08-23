@@ -10,7 +10,7 @@ topnav_color_text: light
 title: Comment choisir ses skis de location
 titleHome: Comment choisir ses skis de location
 activite: ''
-level: 2
+level: 1
 enHome: 2
 permalink: "/fr/hiver/conseils/choisir-ski-location"
 redirect_from:
@@ -33,10 +33,11 @@ page_sections:
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1640330388/website/Conseil%20Equiepement/jeremy-bezanger-jW1I1M9TdRA-unsplash_urapcp.jpg
   captiontitleuppercase: La location de ski adultes
-  title: 'Chez Ze Hero, nous classons les skis selon différentes gammes. '
+  title: Les différentes gammes
   content: Afin de comprendre les différents niveaux de ski en location, nous avons
-    mis en place un système d'étoile qui permet de comprendre la gamme que vous souhaitez.
-    En effet, vous pourrez découvrir entre 1* et 5 à 6* selon les magasins.
+    mis en place un système d'échelle de gamme de ski débutant à 1* jusqu'à 6* pour
+    le Haut de gamme. Découvrez les explications de chacune des gammes afin de comprendre
+    à quoi correspond chaque ski de location et pour qui il est destiné.
   alt_text_for_image: Vue de skis et de snowboard dans des rangements de ski
   button:
     text_button: ''
@@ -58,8 +59,8 @@ page_sections:
   blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660828288/website/winter/PHC_463.jpg
-  captiontitleuppercase: Une construction de ski différente
-  title: Qu'est ce que la construction d'un ski haut de gamme ?
+  captiontitleuppercase: La construction de ski
+  title: Les différences
   content: Chacune des catégories de ski de location vont se différencier par leur
     construction de ski. Les skis entrée de gamme (1 étoile et 2 étoiles) seront construits
     en mousse. Les catégories plus élevées vont contenir du bois plus noble ainsi
@@ -91,8 +92,8 @@ page_sections:
   blockBGcolor: ''
 - template: 2colimgtxt
   image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641812999/website/Conseil%20Equiepement/maxwell-ingham-d3Lm40Dn9rA-unsplash_rnaqaq.jpg
-  captiontitleuppercase: La location pour les enfants
-  title: Les différentes gammes de ski des baby aux ados
+  captiontitleuppercase: La location de ski pour les enfants
+  title: Les ski de location baby aux ados
   content: Pour les enfants de 3 à 5 ans, il faudra alors louer des skis “Baby”. Ce
     sont des skis qui sont donc très courts et la semelle ne glisse pas trop vite.
     Ces skis mesurent entre 68 centimètres et 1 mètre. Les enfants plus âgés qui débutent
@@ -127,7 +128,7 @@ page_sections:
 - template: newsletter
   title: Recevez nos dernières informations
 conseil: location
-listMother: 2
+listMother: 1
 baseline: ''
 
 ---
