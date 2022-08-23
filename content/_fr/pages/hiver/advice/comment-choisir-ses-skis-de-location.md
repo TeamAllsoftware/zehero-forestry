@@ -126,7 +126,7 @@ page_sections:
   blockBGcolor: ''
 - template: newsletter
   title: Recevez nos dernières informations
-conseil: ''
+conseil: location
 listMother: 2
 baseline: ''
 
