@@ -1,5 +1,5 @@
 ---
-layout: layout_generic
+layout: layout_advice
 language: fr
 type: generic
 season: winter
@@ -9,7 +9,7 @@ topnav_color_text: light
 title: Comment choisir son snowboard de location ?
 titleHome: Comment choisir son snowboard de location ?
 activite: ''
-conseil: ''
+conseil: location
 permalink: "/fr/hiver/conseil/choisir-snowboard-location"
 meta-title: Comment choisir son snowboard de location ?
 meta-description: Découvrez toutes les informations importantes afin de bien choisir
@@ -66,5 +66,7 @@ page_sections:
     Le niveau et les gammes de snowboard ont donc une importance pour bien louer son snowboard. Un autre point est également important de connaître. Vous pouvez retrouver différents styles de snowboard, c'est à dire que dans le snowboard on retrouve plusieurs disciplines : Freeride, freestyle, All-Mountain... La construction du snowboard sera forcément différente en fonction de la discipline. Si vous débutez, ne prenez donc pas un snowboard freeride ou freestyle. L'idéal c'est donc de louer un snowboard All Mountain qui sera alors ultra-polyvalent. Il vaut mieux se spécialiser dans une discipline lorsque vous maîtriserez bien votre planche afin de profiter pleinement de rider en poudreuse ou dans un snowpark.
 
     Lorsque vous louer votre snowboard, n'oubliez pas d'indiquer si vous êtes Goofi ou Regular.
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883539/website/winter/Snowboard-rider-debout_oecizy.jpg
+image01_alt: Une personne tenant son snowboard debout
 
 ---
