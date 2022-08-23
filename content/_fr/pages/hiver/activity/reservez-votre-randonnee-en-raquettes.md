@@ -3,7 +3,7 @@ layout: layout_generic
 language: fr
 type: generic
 season: winter
-level: 1
+level: 2
 listMother: 2
 topnav_color_text: light
 title: Réservez votre randonnée en raquettes
