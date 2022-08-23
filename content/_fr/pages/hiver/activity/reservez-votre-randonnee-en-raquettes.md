@@ -52,7 +52,8 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Nos offres de randonnée en raquettes
-  content: " "
+  content: Réservez une balade ou randonnée en raquettes dans votre station de ski
+    de votre choix.
 - template: listOffres
   blockBGcolor: blanc
   offreList:
