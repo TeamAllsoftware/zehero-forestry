@@ -40,11 +40,10 @@ page_sections:
     de location. Il existe une multitude d'offres, de choix et de matériel. Pour cela,
     nous avons mis à votre service, des pages de conseils afin de comprendre comment
     bien choisir ses skis de location et son snowboard de location.
-- template: listServices2
+- template: listConseils
   blockBGcolor: blanc
   service: advice
-  filterLevel: 2
-  listMother: 2
-  whatActivity: location
+  filterLevel: 1
+  whatAdvice: location
 
 ---
