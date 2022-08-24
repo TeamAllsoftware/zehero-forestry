@@ -46,8 +46,8 @@ page_sections:
     pas avoir de contrainte et vous pouvez regarder les avis des clients sur ce magasin
     de location de ski aux Menuires.  \nPour bien comprendre le fonctionnement de
     la location de ski, découvrez toutes les informations dans notre page \" [**Conseil**
-    ](/fr/hiver/conseils/choisir-ski-location)\".  Vous découvrirez comment bien choisir
-    son ski et son snowboard de location en fonction du niveau et de l'âge."
+    ](/fr/hiver/conseil/choisir-materiel-location)\".  Vous découvrirez comment bien
+    choisir son ski et son snowboard de location en fonction du niveau et de l'âge."
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à Les Menuires
