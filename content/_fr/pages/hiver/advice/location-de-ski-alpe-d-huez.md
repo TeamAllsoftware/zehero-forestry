@@ -46,7 +46,7 @@ page_sections:
     d'ouverture afin de ne pas avoir de contrainte et vous pouvez regarder les avis
     des clients sur ce magasin de location de ski à l'Alpe d'Huez.  \nAfin de bien
     comprendre les différents types de skis et de snowboards de location, vous découvrirez
-    toutes les informations dans notre page \" [**conseils**](/fr/hiver/conseils/choisir-ski-location)
+    toutes les informations dans notre page \" [**conseils**](/fr/hiver/conseil/choisir-materiel-location)
     \". Vous découvrirez comment bien choisir son ski et son snowboard de location
     en fonction du niveau et de l'âge."
 - template: textarea
