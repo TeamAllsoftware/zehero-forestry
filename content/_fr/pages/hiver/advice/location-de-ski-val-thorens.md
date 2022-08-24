@@ -44,9 +44,9 @@ page_sections:
     vérifier les horaires d'ouverture afin de ne pas avoir de contrainte et vous pouvez
     regarder les avis des clients sur ce magasin de location de ski à Val Thorens.
     \ \nAfin de bien comprendre comment choisir ses skis et snowboard de location,
-    découvrez notre [**page conseil**](/fr/hiver/conseils/choisir-ski-location).  Vous
-    découvrirez comment bien choisir ses skis et son snowboard de location en fonction
-    du niveau et de l'âge."
+    découvrez notre [**page conseil**](/fr/hiver/conseil/choisir-materiel-location).
+    \ Vous découvrirez comment bien choisir ses skis et son snowboard de location
+    en fonction du niveau et de l'âge."
 - template: textarea
   blockBGcolor: blanc
   title: Les locations de ski à Val Thorens
