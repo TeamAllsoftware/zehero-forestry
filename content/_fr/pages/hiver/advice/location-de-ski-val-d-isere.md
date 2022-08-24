@@ -45,7 +45,7 @@ page_sections:
     de votre logement, vérifier les horaires d'ouverture afin de ne pas avoir de contrainte
     et vous pouvez regarder les avis des clients sur ce magasin de location de ski
     à Val d'Isère.  \nPour bien comprendre les différents types de ski et de snowboard
-    de location, découvrez toutes les infos dans notre [**page conseil**](/fr/hiver/conseils/choisir-ski-location).
+    de location, découvrez toutes les infos dans notre [**page conseil**](/fr/hiver/conseil/choisir-materiel-location).
     Vous découvrirez comment bien choisir son ski et son snowboard de location en
     fonction de votre niveau et de l'âge."
 - template: textarea
