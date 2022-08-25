@@ -62,6 +62,27 @@ page_sections:
     image_alt: Chaussettes de trail Falke
     title: Falke Tk2 - Chaussettes homme
     url: https://www.hardloop.fr/produit/8643-falke-falke-tk2-chaussettes-homme?id_product_attribute=59435&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+- template: ctaShop4col
+  blockBGcolor: blanc
+  button_2_more: false
+  Image1:
+    image_href: https://app.forestry.io/sites/rc-ehzha47jega/#/pages/content-_fr-pages-hiver-advice-equipement-trail-automne-hiver-md
+    alt_text: Chaussures de trail Altra
+    title: Lone Peak 6 - Chaussures trail femme
+    title_Link: https://www.hardloop.fr/produit/35928-altra-lone-peak-6-chaussures-trail-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+  Image2:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409073/website/Hardloop/bv-sport-light-3d-chaussettes-running.jpg
+    alt_text: Chaussettes running BV Sport
+    title: BV Sport - Light 3D - Chaussettes running
+    title_Link: https://www.hardloop.fr/produit/22408-bv-sport-light-3d-chaussettes-running?id_product_attribute=269395&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409074/website/Hardloop/falke-falke-tk2-chaussettes-homme.jpg
+    alt_text: Chaussettes de trail Falke
+  Image4:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661413940/website/Hardloop/altra-lone-peak-6-chaussures-trail-homme_1.jpg
+    alt_text: Chaussure de trail Altra
+    title: Lone Peak 6 - Chaussures trail homme
+    title_Link: https://www.hardloop.fr/produit/35933-altra-lone-peak-6-chaussures-trail-homme?id_product_attribute=436221&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
 type: generic
 level: 2
 listMother: 2
