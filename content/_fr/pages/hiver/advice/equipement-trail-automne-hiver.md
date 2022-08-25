@@ -38,5 +38,21 @@ page_sections:
     de trail pour courir cet automne comme cet hiver. Si vous désirez débuter le trail
     et vous équiper, nous vous proposons l'équipement complet de trail adaptés aux
     conditions météo et de terrain pendant l'automne et l'hiver.
+- template: textarea
+  blockBGcolor: blanc
+  title: La sélection Hardloop de chaussures et chaussettes
+  content: 'Découvrez la sélection de Hardloop pour les chaussures de trail et les
+    chaussettes de trail. '
+- template: listOffres
+  blockBGcolor: blanc
+  offreList:
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409073/website/Hardloop/altra-lone-peak-6-chaussures-trail-femme.jpg
+    image_alt: Chaussures de trail Altra
+    title: Lone Peak 6 - Chaussures trail femme
+    url: https://www.hardloop.fr/produit/35928-altra-lone-peak-6-chaussures-trail-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661413940/website/Hardloop/altra-lone-peak-6-chaussures-trail-homme_1.jpg
+    image_alt: Chaussure de trail Altra
+    title: Lone Peak 6 - Chaussures trail homme
+    url: https://www.hardloop.fr/produit/35933-altra-lone-peak-6-chaussures-trail-homme?id_product_attribute=436221&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
 
 ---
