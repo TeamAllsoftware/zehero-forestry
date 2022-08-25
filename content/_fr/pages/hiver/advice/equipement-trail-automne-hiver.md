@@ -7,7 +7,7 @@ meta-description: Découvrez une large sélection de matériel et d'équipement 
 topnav_color_text: light
 conseil: trail
 title: Equipement Trail Automne / Hiver
-permalink: "/fr/hiver/conseil/équipements-trail-automne-hiver"
+permalink: "/fr/hiver/conseil/equipements-trail-automne-hiver"
 meta-title: S'équiper en trail pour l'automne et l'hiver
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661411619/website/Hardloop/IMG-20210417-WA0025-01.jpg
 image01_alt: Un traileur dans une montée poussant sur les bâtons
