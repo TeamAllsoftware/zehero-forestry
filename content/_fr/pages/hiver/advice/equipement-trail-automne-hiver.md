@@ -66,7 +66,7 @@ page_sections:
   blockBGcolor: blanc
   button_2_more: false
   Image1:
-    image_href: https://app.forestry.io/sites/rc-ehzha47jega/#/pages/content-_fr-pages-hiver-advice-equipement-trail-automne-hiver-md
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409073/website/Hardloop/altra-lone-peak-6-chaussures-trail-femme.jpg
     alt_text: Chaussures de trail Altra
     title: Lone Peak 6 - Chaussures trail femme
     title_Link: https://www.hardloop.fr/produit/35928-altra-lone-peak-6-chaussures-trail-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
