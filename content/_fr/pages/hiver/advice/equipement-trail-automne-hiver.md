@@ -1,5 +1,5 @@
 ---
-layout: layout_advice
+layout: layout_generic
 language: fr
 season: winter
 meta-description: Découvrez une large sélection de matériel et d'équipement de trail
@@ -62,5 +62,11 @@ page_sections:
     image_alt: Chaussettes running BV Sport
     title: BV Sport - Light 3D - Chaussettes running
     url: https://www.hardloop.fr/produit/22408-bv-sport-light-3d-chaussettes-running?id_product_attribute=269395&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+type: generic
+level: 2
+listMother: 2
+titleHome: ''
+activite: ''
+baseline: ''
 
 ---
