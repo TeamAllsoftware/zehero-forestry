@@ -28,5 +28,15 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: 'Equipez vous en trail '
+  content: Pour cet automne et cet hiver, découvrez une panoplie d'équipement de trail
+    pour partir courir en toute sérénité. Une sélection de produits faite par notre
+    partenaire [**Hardloop**](https://www.hardloop.fr/), qui vous propose plusieurs
+    produits, homme et femme, pour une panoplie complète. Trouvez le meilleur de l'équipement
+    de trail pour courir cet automne comme cet hiver. Si vous désirez débuter le trail
+    et vous équiper, nous vous proposons l'équipement complet de trail adaptés aux
+    conditions météo et de terrain pendant l'automne et l'hiver.
 
 ---
