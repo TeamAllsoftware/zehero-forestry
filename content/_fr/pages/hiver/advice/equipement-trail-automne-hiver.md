@@ -50,6 +50,10 @@ page_sections:
     image_alt: Chaussures de trail Altra
     title: Lone Peak 6 - Chaussures trail femme
     url: https://www.hardloop.fr/produit/35928-altra-lone-peak-6-chaussures-trail-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409073/website/Hardloop/bv-sport-light-3d-chaussettes-running.jpg
+    image_alt: Chaussettes running BV Sport
+    title: BV Sport - Light 3D - Chaussettes running
+    url: https://www.hardloop.fr/produit/22408-bv-sport-light-3d-chaussettes-running?id_product_attribute=269395&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661413940/website/Hardloop/altra-lone-peak-6-chaussures-trail-homme_1.jpg
     image_alt: Chaussure de trail Altra
     title: Lone Peak 6 - Chaussures trail homme
@@ -58,10 +62,6 @@ page_sections:
     image_alt: Chaussettes de trail Falke
     title: Falke Tk2 - Chaussettes homme
     url: https://www.hardloop.fr/produit/8643-falke-falke-tk2-chaussettes-homme?id_product_attribute=59435&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409073/website/Hardloop/bv-sport-light-3d-chaussettes-running.jpg
-    image_alt: Chaussettes running BV Sport
-    title: BV Sport - Light 3D - Chaussettes running
-    url: https://www.hardloop.fr/produit/22408-bv-sport-light-3d-chaussettes-running?id_product_attribute=269395&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
 type: generic
 level: 2
 listMother: 2
