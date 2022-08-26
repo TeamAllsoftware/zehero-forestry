@@ -119,6 +119,34 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409074/website/Hardloop/odlo-seamless-high-brassiere-de-sport-femme.jpg
     alt_text: Brassière course à pied Odlo
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: La sélection Hardloop sac à dos de trail et portage
+  content: Découvrez votre prochain sac à dos de trail avec une poche à eau. Un sac
+    idéal pour randonner et courir en prenant plus d'affaires et de matériel. Si le
+    temps est frais, vous pourrez embarquer avec vous du rechange, une doudoune et
+    d'autre affaires. Un sac à dos de Trail ultra léger pour 15L.
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    title_Link: https://www.hardloop.fr/produit/16246-black-diamond-distance-15-sac-a-dos-trail?id_product_attribute=461960&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    title: Black Diamond Distance 15 - Sac à dos trail
+    alt_text: Sac à dos de Trail Black Diamond
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409075/website/Hardloop/black-diamond-distance-15-sac-a-dos-trail.jpg
+  Image2:
+    title_Link: https://www.hardloop.fr/produit/16948-hydrapak-shape-shift-poche-a-eau?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    title: Hydrapak Shape-Shift - Poche à eau
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409357/website/Hardloop/hydrapak-shape-shift-poche-a-eau.jpg
+    alt_text: Poche à eau trail Hydrapak
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661505420/website/Hardloop/IMG20210417120531_01.jpg
+    alt_text: Coureur de trail
+  Image4:
+    title_Link: https://www.hardloop.fr/produit/15652-bv-sport-brassard-smartphone-evo?id_product_attribute=168180&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409358/website/Hardloop/bv-sport-brassard-smartphone-evo.jpg
+    title: BV Sport Brassard Smartphone EVO
+    alt_text: Brassard smartphone Bv Sport
+  button_2_more: false
 type: generic
 level: 2
 listMother: 2
