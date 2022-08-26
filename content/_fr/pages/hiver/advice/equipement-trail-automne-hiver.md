@@ -203,6 +203,35 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661514927/website/Hardloop/IMG_1219.jpg
     alt_text: Traileur avec bâtons à Méribel
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: La sélection Hardloop des accessoires de trail pour automne et hiver
+  content: Afin d'être au chaud, découvrez les accessoires idéaux de trail pour l'automne
+    et l'hiver. Tour de cou ou bonnet de trail afin de rester au chaud pendant vos
+    sorties de trail par temps frai voir froid. L'automne la lumière est parfois forte
+    et rasante, il est alors important de protéger ses yeux. Découvrez les lunettes
+    parfaites pour courir de la marque Bliz.
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    title_Link: https://www.hardloop.fr/produit/37094-icebreaker-u-cool-lite-flexi-chute-tour-de-cou?id_product_attribute=450899&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    title: Icebreaker U Cool-Lite Flexi Chute - Tour de cou
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409081/website/Hardloop/icebreaker-u-cool-lite-flexi-chute-tour-de-cou.jpg
+    alt_text: Tour de cou Trail
+  Image2:
+    title_Link: https://www.hardloop.fr/produit/27975-bv-sport-pack-bonnet-gants-running?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    title: Bv Sport Pack - Bonnet & Gants running
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409079/website/Hardloop/bv-sport-pack-bonnet-gants-running.jpg
+    alt_text: Bonnet BV sport Trail
+  Image4:
+    title_Link: https://www.hardloop.fr/produit/26788-bliz-matrix-lunettes-de-soleil?id_product_attribute=341315&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409360/website/Hardloop/bliz-matrix-lunettes-de-soleil.jpg
+    alt_text: Lunette soleil de trail Bliz
+    title: Bliz Matrix - Lunettes de soleil
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661514594/website/Hardloop/FB_IMG_1583138897498.jpg
+    alt_text: Traileur en compétition
+  button_2_more: false
 type: generic
 level: 2
 listMother: 2
