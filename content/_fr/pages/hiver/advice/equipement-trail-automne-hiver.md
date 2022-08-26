@@ -92,6 +92,33 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661411615/website/Hardloop/IMG_20210126_170603_186.jpg
     alt_text: Traileur dans l'Esterel
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: La sélection Hardloop Hauts de trail running
+  content: 'Découvrez les t-shirts de Trail running hommes et femme technique et respirants
+    pour plus de confort en course à pied. Découvrez également la brassière Odlo pour
+    une meilleure liberté de mouvement et confort pour les sportives. '
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    title_Link: https://www.hardloop.fr/produit/29823-odlo-active-spine-20-t-shirt-running-homme?id_product_attribute=465100&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    title: Oldo Active Spine 2.0 - T-shirt running homme
+    alt_text: T-shirt de trail Odlo
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409077/website/Hardloop/odlo-active-spine-20-t-shirt-running-homme.jpg
+  Image2:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409077/website/Hardloop/odlo-active-spine-light-t-shirt-femme.jpg
+    alt_text: T-shirt Oldo Trail Femme
+    title: Oldo Active Spine Light - T-shirt femme
+    title_Link: https://www.hardloop.fr/produit/19598-odlo-active-spine-light-t-shirt-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661505430/website/Hardloop/IMG_20201010_152023.jpg
+    alt_text: Coureuse de trail
+  Image4:
+    title_Link: https://www.hardloop.fr/produit/26380-odlo-seamless-high-brassiere-de-sport-femme?id_product_attribute=372565&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    title: Odlo Seamless High - Brassière de sport femme
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409074/website/Hardloop/odlo-seamless-high-brassiere-de-sport-femme.jpg
+    alt_text: Brassière course à pied Odlo
+  button_2_more: false
 type: generic
 level: 2
 listMother: 2
