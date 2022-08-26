@@ -34,34 +34,17 @@ page_sections:
   content: Pour cet automne et cet hiver, découvrez une panoplie d'équipement de trail
     pour partir courir en toute sérénité. Une sélection de produits faite par notre
     partenaire [**Hardloop**](https://www.hardloop.fr/), qui vous propose plusieurs
-    produits, homme et femme, pour une panoplie complète. Trouvez le meilleur de l'équipement
-    de trail pour courir cet automne comme cet hiver. Si vous désirez débuter le trail
-    et vous équiper, nous vous proposons l'équipement complet de trail adaptés aux
-    conditions météo et de terrain pendant l'automne et l'hiver.
+    produits, homme et femme, pour une panoplie complète de trail running. Trouvez
+    le meilleur de l'équipement de trail pour courir cet automne comme cet hiver.
+    Si vous désirez débuter le trail et vous équiper, nous vous proposons l'équipement
+    complet de trail adaptés aux conditions météo et de terrain pendant l'automne
+    et l'hiver. Un choix varié pour du matériel haut de gamme. Equipez vous en trail
+    et réservez une activité ou du coaching en Trail chez Ze Hero.
 - template: textarea
   blockBGcolor: blanc
-  title: La sélection Hardloop de chaussures et chaussettes
+  title: La sélection Hardloop de chaussures de trail et chaussettes de trail
   content: 'Découvrez la sélection de Hardloop pour les chaussures de trail et les
     chaussettes de trail. '
-- template: listOffres
-  blockBGcolor: blanc
-  offreList:
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409073/website/Hardloop/altra-lone-peak-6-chaussures-trail-femme.jpg
-    image_alt: Chaussures de trail Altra
-    title: Lone Peak 6 - Chaussures trail femme
-    url: https://www.hardloop.fr/produit/35928-altra-lone-peak-6-chaussures-trail-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409073/website/Hardloop/bv-sport-light-3d-chaussettes-running.jpg
-    image_alt: Chaussettes running BV Sport
-    title: BV Sport - Light 3D - Chaussettes running
-    url: https://www.hardloop.fr/produit/22408-bv-sport-light-3d-chaussettes-running?id_product_attribute=269395&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661413940/website/Hardloop/altra-lone-peak-6-chaussures-trail-homme_1.jpg
-    image_alt: Chaussure de trail Altra
-    title: Lone Peak 6 - Chaussures trail homme
-    url: https://www.hardloop.fr/produit/35933-altra-lone-peak-6-chaussures-trail-homme?id_product_attribute=436221&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
-  - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409074/website/Hardloop/falke-falke-tk2-chaussettes-homme.jpg
-    image_alt: Chaussettes de trail Falke
-    title: Falke Tk2 - Chaussettes homme
-    url: https://www.hardloop.fr/produit/8643-falke-falke-tk2-chaussettes-homme?id_product_attribute=59435&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: false
@@ -76,13 +59,39 @@ page_sections:
     title: BV Sport - Light 3D - Chaussettes running
     title_Link: https://www.hardloop.fr/produit/22408-bv-sport-light-3d-chaussettes-running?id_product_attribute=269395&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409074/website/Hardloop/falke-falke-tk2-chaussettes-homme.jpg
-    alt_text: Chaussettes de trail Falke
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661411619/website/Hardloop/IMG-20210417-WA0025-01.jpg
+    alt_text: Personne faisant du trail
   Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661413940/website/Hardloop/altra-lone-peak-6-chaussures-trail-homme_1.jpg
     alt_text: Chaussure de trail Altra
     title: Lone Peak 6 - Chaussures trail homme
     title_Link: https://www.hardloop.fr/produit/35933-altra-lone-peak-6-chaussures-trail-homme?id_product_attribute=436221&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+- template: textarea
+  blockBGcolor: blanc
+  title: La sélection Hardloop Short de Trail et collant de trail
+  content: Découvrez les shorts de trail et les collants de trail qui vous accompagneront
+    lorsque les journées seront plus fraîches sur les sentiers.
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661487455/website/Hardloop/patagonia-nine-trails-shorts-short-trail-homme.jpg
+    title: Patagonia Nine Trails Shorts - Short trail homme
+    alt_text: Short de Trail Patagonia
+    title_Link: https://www.hardloop.fr/produit/10439-patagonia-nine-trails-shorts-short-trail-homme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+  Image2:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661487455/website/Hardloop/odlo-active-warm-eco-collant-thermique-femme.jpg
+    title_Link: https://www.hardloop.fr/produit/26447-odlo-active-warm-eco-collant-thermique-femme?id_product_attribute=333614&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    title: Odlo Active Warm Eco - Collant thermique femme
+    alt_text: Collant trail Odlo
+  Image4:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409077/website/Hardloop/odlo-active-warm-eco-collant-thermique-homme.jpg
+    title_Link: https://www.hardloop.fr/produit/26448-odlo-active-warm-eco-collant-thermique-homme?id_product_attribute=333634&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    title: Odlo Active Warm Eco - Collant thermique homme
+    alt_text: Collant de Trail Odlo
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661411615/website/Hardloop/IMG_20210126_170603_186.jpg
+    alt_text: Traileur dans l'Esterel
+  button_2_more: false
 type: generic
 level: 2
 listMother: 2
