@@ -175,6 +175,34 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661514608/website/Hardloop/FB_IMG_1560856188642.jpg
     alt_text: Coureur de trail en montagne
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: La sélection Hardloop des bâtons de trail et de la montre GPS
+  content: "Partez courir avec une paire de bâtons de trail légères et pliables Black
+    Diamond. Conçus en carbone, vous ne les sentirez même pas et pourtant ils vous
+    aideront grandement.  \nAfin d'avoir tous les éléments clés de vous entraînements
+    et pour vos compétitions, la montra Garmin Fénix 7 vous accompagnera partout."
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    title_Link: https://www.hardloop.fr/produit/38679-black-diamond-distance-z-batons-trail?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409358/website/Hardloop/black-diamond-distance-z-batons-trail.jpg
+    alt_text: Bâton de trail black diamond
+    title: Black Diamond Distance Z - Bâtons trail
+  Image2:
+    title: Black Diamond Distance Carbon Z - Bâtons trail femme
+    alt_text: Bâton de trails Black Diamond
+    title_Link: https://www.hardloop.fr/produit/38690-black-diamond-distance-carbon-z-batons-trail-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409359/website/Hardloop/black-diamond-distance-carbon-z-batons-trail-femme.jpg
+  Image4:
+    title_Link: https://www.hardloop.fr/produit/38583-garmin-fenix-7-montre-gps?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    title: Garmin Fenix 7 - Montre GPS
+    alt_text: Montre trail Garmin
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409362/website/Hardloop/garmin-fenix-7-montre-gps.jpg
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661514927/website/Hardloop/IMG_1219.jpg
+    alt_text: Traileur avec bâtons à Méribel
+  button_2_more: false
 type: generic
 level: 2
 listMother: 2
