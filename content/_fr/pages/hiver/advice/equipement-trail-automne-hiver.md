@@ -147,6 +147,34 @@ page_sections:
     title: BV Sport Brassard Smartphone EVO
     alt_text: Brassard smartphone Bv Sport
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: La sélection Hardloop Veste pluie et coupe vent
+  content: Partez courir sans vous tremper avec les vestes Gore-tex respirantes lors
+    des pluies de l'automne. Vous pourrez courir en restant au sec avec les veste
+    Gore-tex Odlo. Pour des vestes plus light, vous pourrez profiter du coupe vent
+    Patagonia.
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    title_Link: https://www.hardloop.fr/produit/23208-odlo-zeroweight-dual-dry-veste-impermeable-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409082/website/Hardloop/odlo-zeroweight-dual-dry-veste-impermeable-femme.jpg
+    alt_text: Veste de pluie trail Odlo
+    title: Odlo Zeroweight Dual Dry - Veste imperméable femme
+  Image2:
+    title_Link: https://www.hardloop.fr/produit/23203-odlo-zeroweight-dual-dry-veste-impermeable-homme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409076/website/Hardloop/odlo-zeroweight-dual-dry-veste-impermeable-homme.jpg
+    alt_text: Veste Gore-tex Odlo
+    title: Odlo Zeroweight Dual Dry - Veste imperméable homme
+  Image4:
+    title_Link: https://www.hardloop.fr/produit/15887-patagonia-houdini-jacket-veste-coupe-vent-homme?id_product_attribute=177352&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409077/website/Hardloop/patagonia-houdini-jacket-veste-coupe-vent-homme.jpg
+    title: Patagonia Houdini Jacket - Veste coupe-vent homme
+    alt_text: Veste coupe vent Patagonia
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661514608/website/Hardloop/FB_IMG_1560856188642.jpg
+    alt_text: Coureur de trail en montagne
+  button_2_more: false
 type: generic
 level: 2
 listMother: 2
