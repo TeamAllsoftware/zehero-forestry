@@ -1,5 +1,5 @@
 ---
-layout: layout_generic
+layout: layout_resort
 language: fr
 season: winter
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
@@ -18,8 +18,8 @@ resort_nameid: alpes_maritimes
 resort_naming: Les Alpes Maritimes
 permalink: "/fr/hiver/destinations/alpes-maritimes"
 meta-title: Activités outdoor dans les Alpes Maritimes pour l'hiver
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659341262/website/resorts/Mercantour/tom-coomer-de0P588zgls-unsplash.jpg
-image01_alt: 'Vue de montagnes enneigées dans les Alpes Maritimes à Auron '
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/jane-ackerley-WiN6Az_8cGQ-unsplash_cmbknc.jpg
+image01_alt: Vue de montagnes enneigées et de la mer dans les Alpes Maritimes à Antibes
 button_to_link_to_ze_hero_shop:
   button_text: Réservez
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
