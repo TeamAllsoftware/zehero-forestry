@@ -34,12 +34,16 @@ page_sections:
   content: Pour cet automne et cet hiver, découvrez une panoplie d'équipement de trail
     pour partir courir en toute sérénité. Une sélection de produits faite par notre
     partenaire [**Hardloop**](https://www.hardloop.fr/), qui vous propose plusieurs
-    produits, homme et femme, pour une panoplie complète de trail running. Trouvez
-    le meilleur de l'équipement de trail pour courir cet automne comme cet hiver.
-    Si vous désirez débuter le trail et vous équiper, nous vous proposons l'équipement
-    complet de trail adaptés aux conditions météo et de terrain pendant l'automne
-    et l'hiver. Un choix varié pour du matériel haut de gamme. Equipez vous en trail
-    et réservez une activité ou du coaching en Trail chez Ze Hero.
+    produits, homme et femme, pour une panoplie complète de trail running. Vous trouverez
+    une sélection de chaussures de trail, d’ensemble bas et haut, de veste de pluies,
+    d’accessoires de trail également. Trouvez le meilleur de l’équipement de trail
+    pour courir cet automne comme cet hiver. Si vous désirez débuter le trail et vous
+    équiper, nous vous proposons l’équipement complet de trail adapté aux conditions
+    météo et de terrain pendant l’automne et l’hiver. Un choix varié pour du matériel
+    haut de gamme de trail-running. Équipez-vous en trail et réservez une activité
+    ou du coaching en Trail chez Ze Hero pour vous entraîner et courir cet automne.
+    Une saison où courir en montagne est un vrai plaisir, avec des températures douces,
+    des couleurs magnifiques.
 - template: textarea
   blockBGcolor: blanc
   title: La sélection Hardloop de chaussures de trail et chaussettes de trail
