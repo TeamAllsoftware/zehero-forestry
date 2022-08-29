@@ -6,7 +6,7 @@ season: winter
 level: 2
 listMother: 2
 topnav_color_text: light
-title: Toutes nos destinations en hivet
+title: Toutes nos destinations en hiver
 titleHome: Nos destinations d'activités Hiver
 activite: ''
 conseil: ''
