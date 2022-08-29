@@ -81,6 +81,6 @@ level: 1
 listMother: 1
 titleHome: Les activités des Alpes Maritimes 06
 activite: ''
-conseil: ''
+conseil: Destination hiver
 
 ---
