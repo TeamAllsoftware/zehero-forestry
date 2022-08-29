@@ -105,10 +105,12 @@ page_sections:
   button_2_more: false
 - template: textarea
   blockBGcolor: blanc
-  title: La sélection Hardloop Hauts de trail running
-  content: 'Découvrez les t-shirts de Trail running hommes et femme technique et respirants
-    pour plus de confort en course à pied. Découvrez également la brassière Odlo pour
-    une meilleure liberté de mouvement et confort pour les sportives. '
+  title: 'La sélection Hardloop : Hauts de trail running'
+  content: Découvrez les t-shirts Odlo de Trail running homme et femme technique et
+    respirant pour plus de confort en course à pied et en trail. Partez courir avec
+    un maximum de confort et une meilleure liberté de mouvement lors de vos entraînements
+    de trail-running. Pour les femmes, découvrez également la brassière Odlo pour
+    une meilleure liberté de mouvement et confort pour les sportives.
 - template: ctaShop4col
   blockBGcolor: blanc
   Image1:
