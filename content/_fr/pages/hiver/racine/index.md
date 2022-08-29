@@ -112,9 +112,6 @@ page_sections:
     title: Osez l'émotion
     content: Grâce aux activités sélectionnées et testées par nos équipes professionnelles
     icon: line-icon-Cool
-- template: blogPostList
-  blockBGcolor: gris
-  postNumber: 4
 - template: newsletter
   title: Recevez nos dernières informations
 author: geoffreyarduini
