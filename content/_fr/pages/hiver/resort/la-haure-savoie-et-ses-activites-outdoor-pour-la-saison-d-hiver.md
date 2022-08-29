@@ -63,7 +63,7 @@ type: generic
 level: 1
 listMother: 1
 titleHome: Les activités en Haute-Savoie 74
-activite: ''
-conseil: Destination hiver
+activite: Destination hiver
+conseil: ''
 
 ---
