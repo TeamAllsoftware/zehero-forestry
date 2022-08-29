@@ -22,12 +22,14 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: 'Trouvez votre prochaine destination outdoor '
-- template: listServices
+- template: textarea
   blockBGcolor: blanc
-  service: resort
-  headtitle:
-    headline: ''
-    title: ''
+  title: 'Les destinations outdoor hiver '
+  content: Découvrez nos destinations pour réserver une activité outdoor cet hiver.
+    Nous vous proposons des activités comme le ski, le snowboard, le ski de randonnée
+    et freeride, de la raquette à neige, du trail et bien d'autre encore. Réservez
+    une de ces activités en Savoie, en Haute-Savoie, e, Isère ou encore dans les Alpes
+    Maritimes pour un séjour 100% outdoor et plaisir.
 - template: listServices2
   blockBGcolor: blanc
   service: resort
