@@ -106,7 +106,7 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: 'La sélection Hardloop : Hauts de trail running'
-  content: Découvrez les t-shirts Odlo de Trail running homme et femme technique et
+  content: Découvrez les T-shirts Odlo de Trail running homme et femme technique et
     respirant pour plus de confort en course à pied et en trail. Partez courir avec
     un maximum de confort et une meilleure liberté de mouvement lors de vos entraînements
     de trail-running. Pour les femmes, découvrez également la brassière Odlo pour
@@ -135,10 +135,13 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: La sélection Hardloop sac à dos de trail et portage
-  content: Découvrez votre prochain sac à dos de trail avec une poche à eau. Un sac
-    idéal pour randonner et courir en prenant plus d'affaires et de matériel. Si le
-    temps est frais, vous pourrez embarquer avec vous du rechange, une doudoune et
-    d'autre affaires. Un sac à dos de Trail ultra léger pour 15L.
+  content: "Pour vos prochaines sorties de trail longues et par une météo plus froide
+    et variable, partez avec un sac à dos de trail de 15L. Le sac de trail Black Diamond
+    est ultraléger et compact. Vous pourrez partir courir durant vos sorties longues
+    de trail en prenant du change, une petite doudoune, votre poche à eau Hydrapak,
+    de quoi vous alimenter etc. Un sac compact et très léger, munis de porte de bâtons,
+    qui vous accompagnera partout.  \nPour les entraînements plus courts et en musique,
+    partez courir avec le brassard smartphone de BV Sport."
 - template: ctaShop4col
   blockBGcolor: blanc
   Image1:
