@@ -165,11 +165,15 @@ page_sections:
   button_2_more: false
 - template: textarea
   blockBGcolor: blanc
-  title: La sélection Hardloop Veste pluie et coupe vent
-  content: Partez courir sans vous tremper avec les vestes Gore-tex respirantes lors
-    des pluies de l'automne. Vous pourrez courir en restant au sec avec les veste
-    Gore-tex Odlo. Pour des vestes plus light, vous pourrez profiter du coupe vent
-    Patagonia.
+  title: 'La sélection Hardloop : Veste de pluie et coupe vent de trail-running'
+  content: En automne, les pluies vont souvent vous accompagner pendant vos sorties
+    et vos entraînements de trail. Comme on le dit dans les sports outdoor " il n'y
+    a pas de mauvais temps, il y a que des mauvais habits ". Alors découvrez les vestes
+    Oldo Zeroweight Dual Dry pour courir sous la pluie sans être mouillé. Une veste
+    ultralégère et très respirant qui vous accompagnera dans vos sorties de trail
+    pluvieuses. Lors de petites pluies ou que le vent souffle un peu, pendants vos
+    entraînements en course à pied, le coupe-vent Patagonia Houdini Jacket vous permettra
+    de rester au chaud et au sec.
 - template: ctaShop4col
   blockBGcolor: blanc
   Image1:
