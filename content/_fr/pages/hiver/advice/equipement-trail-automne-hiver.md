@@ -47,8 +47,11 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: La sélection Hardloop de chaussures de trail et chaussettes de trail
-  content: 'Découvrez la sélection de Hardloop pour les chaussures de trail et les
-    chaussettes de trail. '
+  content: Pratiquer le trail, c'est avant bien se chausser. Hardloop a sélectionné,
+    pour vous, la paire de chaussure de Trail Altra Lone Peaks 6. Une chaussure de
+    trail minimaliste avec un espace plus important pour vos orteils pour une course
+    plus performante et agréable. Partez fouler les sentiers que ce soit pour des
+    sorties longues ou des entraînements de trail intense.
 - template: ctaShop4col
   blockBGcolor: blanc
   button_2_more: false
@@ -73,8 +76,12 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: La sélection Hardloop Short de Trail et collant de trail
-  content: Découvrez les shorts de trail et les collants de trail qui vous accompagneront
-    lorsque les journées seront plus fraîches sur les sentiers.
+  content: Les températures en automne vont commencer à se rafraîchir, les sorties
+    trail vont être alors plus fraîches pour nos jambes. Équipez-vous d'un collant
+    pour garder un maximum de chaleur et ne pas avoir froid. Il est important de bien
+    réguler la température corporelle et celle de l'extérieur afin de ne pas gaspiller
+    trop d'énergie. Avec les collants Odlo, vous pourrez courir des heures sans avoir
+    froid aux jambes.
 - template: ctaShop4col
   blockBGcolor: blanc
   Image1:
