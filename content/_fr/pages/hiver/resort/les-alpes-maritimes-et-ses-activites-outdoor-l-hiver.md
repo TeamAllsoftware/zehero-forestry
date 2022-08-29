@@ -1,5 +1,5 @@
 ---
-layout: layout_resort
+layout: layout_generic
 language: fr
 season: winter
 code_postal: 06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
