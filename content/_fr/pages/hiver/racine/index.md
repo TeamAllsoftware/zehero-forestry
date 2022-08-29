@@ -117,12 +117,6 @@ page_sections:
   postNumber: 4
 - template: newsletter
   title: Recevez nos dernières informations
-- template: ZEHEROintro
-  image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650965162/website/logo/Image%20Background/ZEHERO_TEAM_BACKGROUND.png
-  baseline: L’outdoor au rythme de vos émotions
-  title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
-  url_link: https://shop.ze-hero.com/fr/
-  title_link: Visiter la boutique
 author: geoffreyarduini
 baseline: ''
 button_to_link_to_ze_hero_shop:
