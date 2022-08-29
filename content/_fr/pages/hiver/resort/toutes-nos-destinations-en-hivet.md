@@ -30,7 +30,7 @@ page_sections:
     title: ''
 - template: listServices2
   blockBGcolor: blanc
-  service: advice
+  service: resort
   filterLevel: 1
   listMother: 1
   whatActivity: Destination hiver
