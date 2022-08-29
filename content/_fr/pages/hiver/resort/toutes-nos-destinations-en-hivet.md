@@ -28,5 +28,11 @@ page_sections:
   headtitle:
     headline: ''
     title: ''
+- template: listServices2
+  blockBGcolor: blanc
+  service: advice
+  filterLevel: 1
+  listMother: 1
+  whatActivity: Destination hiver
 
 ---
