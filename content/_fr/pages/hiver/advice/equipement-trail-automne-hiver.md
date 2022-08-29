@@ -46,7 +46,7 @@ page_sections:
     des couleurs magnifiques.
 - template: textarea
   blockBGcolor: blanc
-  title: La sélection Hardloop de chaussures de trail et chaussettes de trail
+  title: 'La sélection Hardloop : chaussures et chaussettes de trail'
   content: Pratiquer le trail, c'est avant bien se chausser. Hardloop a sélectionné,
     pour vous, la paire de chaussure de Trail Altra Lone Peaks 6. Une chaussure de
     trail minimaliste avec un espace plus important pour vos orteils pour une course
@@ -75,7 +75,7 @@ page_sections:
     title_Link: https://www.hardloop.fr/produit/35933-altra-lone-peak-6-chaussures-trail-homme?id_product_attribute=436221&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
 - template: textarea
   blockBGcolor: blanc
-  title: La sélection Hardloop Short de Trail et collant de trail
+  title: 'La sélection Hardloop : Short et collant de trail'
   content: Les températures en automne vont commencer à se rafraîchir, les sorties
     trail vont être alors plus fraîches pour nos jambes. Équipez-vous d'un collant
     pour garder un maximum de chaleur et ne pas avoir froid. Il est important de bien
@@ -134,7 +134,7 @@ page_sections:
   button_2_more: false
 - template: textarea
   blockBGcolor: blanc
-  title: La sélection Hardloop sac à dos de trail et portage
+  title: 'La sélection Hardloop : sac à dos de trail et portage'
   content: "Pour vos prochaines sorties de trail longues et par une météo plus froide
     et variable, partez avec un sac à dos de trail de 15L. Le sac de trail Black Diamond
     est ultraléger et compact. Vous pourrez partir courir durant vos sorties longues
@@ -197,11 +197,11 @@ page_sections:
   button_2_more: false
 - template: textarea
   blockBGcolor: blanc
-  title: La sélection Hardloop des bâtons de trail et de la montre GPS
-  content: "Partez courir avec une paire de bâtons de trail légères et pliables Black
-    Diamond. Conçus en carbone, vous ne les sentirez même pas et pourtant ils vous
-    aideront grandement.  \nAfin d'avoir tous les éléments clés de vous entraînements
-    et pour vos compétitions, la montra Garmin Fénix 7 vous accompagnera partout."
+  title: 'La sélection Hardloop : bâtons de trail et montre GPS'
+  content: |-
+    Aidez-vous des bâtons de trail pour vos prochaines sorties et compétitions de trail. Avec un temps parfois plus humide, le sol est plus glissant. Les bâtons de trail pourront vous aider grandement. Les bâtons de trail Black Dimaond Distance Z sont ultra-light, pliables et robustes. Ils seront faciles à transporter, à monter, à utiliser ainsi qu'à plier. Ils deviendront de vrais partenaires d'entraînements.
+
+    Afin d'avoir tous les éléments clés de vos entraînements et pour vos compétitions, la montre Garmin Fénix 7 vous accompagnera partout. Planifiez vos séances, vos parcours, partez avec tous les éléments pour progresser.
 - template: ctaShop4col
   blockBGcolor: blanc
   Image1:
@@ -225,12 +225,12 @@ page_sections:
   button_2_more: false
 - template: textarea
   blockBGcolor: blanc
-  title: La sélection Hardloop bonnet, tour de cou et lunettes
-  content: Afin d'être au chaud, découvrez les accessoires idéaux de trail pour l'automne
-    et l'hiver. Tour de cou ou bonnet de trail afin de rester au chaud pendant vos
-    sorties de trail par temps frai voir froid. L'automne la lumière est parfois forte
-    et rasante, il est alors important de protéger ses yeux. Découvrez les lunettes
-    parfaites pour courir de la marque Bliz.
+  title: 'La sélection Hardloop :  bonnet, tour de cou et lunettes'
+  content: Afin de garder la tête au chaud, découvrez les différents accessoires de
+    trail pour l'automne et l'hiver. Tour de cou ou bonnet de trail afin de rester
+    au chaud pendant vos sorties de trail par temps froid. L'automne la lumière du
+    soleil est parfois forte et rasante, il est alors important de protéger ses yeux.
+    Découvrez les lunettes parfaites pour courir de la marque Bliz.
 - template: ctaShop4col
   blockBGcolor: blanc
   Image1:
@@ -255,11 +255,10 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Les derniers accessoires de Trail pour vos sorties
-  content: "Les journées vont devenir de plus en plus courtes et donc les nuits vont
-    tombées plus rapidement. En automne et hiver, il est fréquent de courir de nuit.
-    Pour cela, rien de tel que de s'équiper d'une frontale pour courir aisément la
-    nuit.  \nPour les petit creux de vos sorties longues et après vos entraînement,
-    rien de tel que la Clif Barre pour un maximum d'énergie. "
+  content: |-
+    Les journées vont devenir de plus en plus courtes et donc les nuits vont tomber plus rapidement. En automne et hiver, il est fréquent de courir de nuit. Pour cela, rien de tel que de s'équiper d'une frontale pour courir aisément la nuit.
+
+    Pour les petits creux lors de vos sorties longues et après vos entraînements de trail, rien de tel que la Clif Barre pour un maximum d'énergie.
 - template: ctaShop4col
   blockBGcolor: blanc
   Image1:
