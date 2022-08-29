@@ -19,7 +19,14 @@ baseline: ''
 button_to_link_to_ze_hero_shop:
   button_text: ''
   url_to_shop_zehero: ''
-page_sections: []
-published: false
+page_sections:
+- template: heroBreadcrumb
+  title: 'Trouvez votre prochaine destination outdoor '
+- template: listServices
+  blockBGcolor: blanc
+  service: resort
+  headtitle:
+    headline: ''
+    title: ''
 
 ---
