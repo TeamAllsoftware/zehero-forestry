@@ -205,7 +205,7 @@ page_sections:
   button_2_more: false
 - template: textarea
   blockBGcolor: blanc
-  title: La sélection Hardloop des accessoires de trail pour automne et hiver
+  title: La sélection Hardloop bonnet, tour de cou et lunettes
   content: Afin d'être au chaud, découvrez les accessoires idéaux de trail pour l'automne
     et l'hiver. Tour de cou ou bonnet de trail afin de rester au chaud pendant vos
     sorties de trail par temps frai voir froid. L'automne la lumière est parfois forte
@@ -231,6 +231,35 @@ page_sections:
   Image3:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661514594/website/Hardloop/FB_IMG_1583138897498.jpg
     alt_text: Traileur en compétition
+  button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: Les derniers accessoires de Trail pour vos sorties
+  content: "Les journées vont devenir de plus en plus courtes et donc les nuits vont
+    tombées plus rapidement. En automne et hiver, il est fréquent de courir de nuit.
+    Pour cela, rien de tel que de s'équiper d'une frontale pour courir aisément la
+    nuit.  \nPour les petit creux de vos sorties longues et après vos entraînement,
+    rien de tel que la Clif Barre pour un maximum d'énergie. "
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    title_Link: https://www.hardloop.fr/produit/18557-petzl-actik-core-lampe-frontale?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    title: Petzl Actik Core - Lampe frontale
+    alt_text: Frontale de trail Petzl
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409362/website/Hardloop/petzl-actik-core-lampe-frontale.jpg
+  Image2:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409361/website/Hardloop/clif-bar-barre-energetique-clif-bar-beurre-de-cacahuetes-avec-morceaux.jpg
+    title: Clif Bar - Beurre de cacahuètes avec morceaux
+    title_Link: https://www.hardloop.fr/produit/2517-clif-bar-barre-energetique-clif-bar-beurre-de-cacahuetes-avec-morceaux?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    alt_text: 'Clif Bar à la cacahuète '
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661514634/website/Hardloop/IMG_0662.jpg
+    alt_text: Traileur courant dans la neige
+  Image4:
+    title_Link: https://www.hardloop.fr/outfits?sport=trail
+    title: Panoplie équipement Trail Hardloop
+    alt_text: Logo Hardloop
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661757694/website/Hardloop/IMG_20201109_105423.jpg
   button_2_more: false
 type: generic
 level: 2
