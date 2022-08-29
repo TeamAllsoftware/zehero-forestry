@@ -80,7 +80,7 @@ type: generic
 level: 1
 listMother: 1
 titleHome: Les activités des Alpes Maritimes 06
-activite: ''
-conseil: Destination hiver
+activite: Destination hiver
+conseil: ''
 
 ---
