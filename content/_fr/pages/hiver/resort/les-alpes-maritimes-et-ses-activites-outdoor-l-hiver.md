@@ -78,7 +78,7 @@ page_sections:
     image_alt: Fille en canyoning dans les Alpes Maritimes assises sur un rocher
 type: generic
 level: 1
-listMother: 2
+listMother: 1
 titleHome: Les activités des Alpes Maritimes 06
 activite: ''
 conseil: ''
