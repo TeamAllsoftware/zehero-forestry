@@ -281,7 +281,7 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661757694/website/Hardloop/IMG_20201109_105423.jpg
   button_2_more: false
 type: generic
-level: 2
+level: 1
 listMother: 2
 titleHome: Equipement Trail Automne / Hiver
 activite: Hardloop

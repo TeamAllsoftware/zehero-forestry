@@ -43,7 +43,7 @@ page_sections:
 - template: listConseils
   blockBGcolor: blanc
   service: advice
-  filterLevel: 2
+  filterLevel: 1
   whatAdvice: Hardloop
 
 ---
