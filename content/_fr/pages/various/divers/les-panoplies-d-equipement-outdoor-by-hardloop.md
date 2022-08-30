@@ -22,5 +22,16 @@ button_to_link_to_ze_hero_shop:
 page_sections:
 - template: heroBreadcrumb
   title: Les panoplies d'équipement Outdoor by Hardloop
+- template: 2colimgtxt
+  blockBGcolor: blanc
+  image_col_left_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661841508/website/Hardloop/1547938_932944156724936_4729232105917545800_o.jpg
+  alt_text_for_image: Logo Hardloop
+  captiontitleuppercase: Ze Hero // Hardloop
+  title: Les panoplies d'équipements outdoor
+  content: " "
+  button:
+    text_button: ''
+    href_button: ''
+    alt_button: ''
 
 ---
