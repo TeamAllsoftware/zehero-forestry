@@ -40,11 +40,10 @@ page_sections:
     sélectionnez pour vous. Vous trouverez un choix d''équipements, de vêtements et
     d''accessoires pour diverses activités tel que le trail, le ski, le snowboard,
     la randonnée. '
-- template: listServices2
+- template: listConseils
   blockBGcolor: blanc
   service: advice
   filterLevel: 2
-  listMother: 1
-  whatActivity: Hardloop
+  whatAdvice: Hardloop
 
 ---

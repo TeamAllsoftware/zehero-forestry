@@ -282,9 +282,9 @@ page_sections:
   button_2_more: false
 type: generic
 level: 2
-listMother: 1
+listMother: 2
 titleHome: Equipement Trail Automne / Hiver
-activite: ''
+activite: Hardloop
 baseline: ''
 
 ---
