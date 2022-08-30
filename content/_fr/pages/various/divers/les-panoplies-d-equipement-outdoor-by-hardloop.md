@@ -33,5 +33,18 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Les sélections d'équipements de Hardloop
+  content: 'En partenariat avec Hardloop, découvrez des panoplies d''équipements outdoor
+    sélectionnez pour vous. Vous trouverez un choix d''équipements, de vêtements et
+    d''accessoires pour diverses activités tel que le trail, le ski, le snowboard,
+    la randonnée. '
+- template: listServices2
+  blockBGcolor: blanc
+  service: advice
+  filterLevel: 2
+  listMother: 1
+  whatActivity: Hardloop
 
 ---

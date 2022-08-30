@@ -5,7 +5,7 @@ season: winter
 meta-description: Découvrez une large sélection de matériel et d'équipement de trail
   avec Hardloop. Equipez vous pour le trail pour courir cet automne et cet hiver.
 topnav_color_text: light
-conseil: trail
+conseil: Hardloop
 title: Equipement Trail Automne / Hiver
 permalink: "/fr/hiver/conseil/equipements-trail-automne-hiver"
 meta-title: S'équiper en trail pour l'automne et l'hiver
@@ -282,8 +282,8 @@ page_sections:
   button_2_more: false
 type: generic
 level: 2
-listMother: 2
-titleHome: ''
+listMother: 1
+titleHome: Equipement Trail Automne / Hiver
 activite: ''
 baseline: ''
 
