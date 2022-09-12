@@ -16,7 +16,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650029582/webs
 image01_alt: Personnes dans l'eau faisant du canyoning
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/canyoning
 page_sections:
 - template: textarea
   blockBGcolor: blanc
