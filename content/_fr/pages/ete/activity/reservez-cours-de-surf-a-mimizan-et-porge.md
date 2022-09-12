@@ -15,8 +15,8 @@ meta-description: Réservez votre prochain cours de surf à Mimizan et à Porge 
   soit votre niveau avec l'école de surf Sama Sama Surf School.
 baseline: Cours surf Mimizan et Porge
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Réservez cours de surf
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/gironde/Surf
 page_sections:
 - template: heroBreadcrumb
   title: Surfez à Mimizan et Porge
@@ -34,12 +34,12 @@ page_sections:
   headline: à Mimizan
   button:
     text_button: Réservez ici
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail?station=Mimizan&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/landes/Surf
 - template: cta
   blockBGcolor: blanc
   marge: 20
   button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail?station=Porge&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/gironde/Surf
     text_button: Réservez ici
   intro: Réservez vos cours de surf
   headline: à Porge
