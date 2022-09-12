@@ -39,7 +39,7 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   button:
-    href_button: "/fr/hiver/activite/reserver-ski-freeride"
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
     text_button: Nos offres
   intro: Découvrez nos activités de ski freeride
   headline: " "
