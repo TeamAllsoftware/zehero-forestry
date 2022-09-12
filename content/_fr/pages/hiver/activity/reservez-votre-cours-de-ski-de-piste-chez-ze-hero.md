@@ -18,7 +18,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001434/webs
 image01_alt: 'Groupe de skieurs dans un cours de ski '
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
 page_sections:
 - template: heroBreadcrumb
   title: 'Nos offres de ski '
