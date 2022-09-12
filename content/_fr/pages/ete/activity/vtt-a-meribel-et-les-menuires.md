@@ -16,8 +16,8 @@ engage: 'Partez rouler à VTT dans les 3 vallées  '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655108069/website/VTT%20AE/pexels-reinhard-bruckner-5328112.jpg
 image01_alt: Des vaches et une personne à VTT en montagne
 button_to_link_to_ze_hero_shop:
-  button_text: Réservez
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
+  button_text: Réservez VTT Méribel et Les Menuires
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/savoie/vtt
 page_sections:
 - template: heroBreadcrumb
   title: VTT et VAE dans les 3 vallées
