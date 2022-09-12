@@ -40,7 +40,7 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   button:
-    href_button: "/fr/ete/activites/nos-sorties-trail"
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/france/trail
     text_button: Nos offres
   intro: Découvrez dès maintenant nos activités trails
   headline: " "
@@ -114,7 +114,7 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Trouver votre activité de trail
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/trail
 categorie: Running / Trail
 listMother: 1
 conseil: ''

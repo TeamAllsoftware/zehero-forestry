@@ -23,7 +23,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655112748/webs
 image01_alt: Forêts et sapin dans le massif des Vosges
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre activité dans les Vosges
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/vosges
 page_sections:
 - template: heroBreadcrumb
   title: Nos activités dans les Vosges

@@ -17,8 +17,8 @@ engage: Découvrez les balcons du Tarn et de la Jonte
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782614/website/Partenaires/Cueilleur%20de%20sommet/Entre_Tarn_et_Jonte_2.jpg
 image01_alt: Les balcons du Tarn et de la Jonte
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Réservez une randonnée
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/randonnee
 page_sections:
 - template: heroBreadcrumb
   title: Randonnée en Lozère dans les balcons du Tarn et de la Jonte

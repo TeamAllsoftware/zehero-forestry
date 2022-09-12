@@ -43,7 +43,7 @@ page_sections:
   blockBGcolor: ''
 - template: cta
   button:
-    href_button: "/fr/hiver/activites/reserver-cours-ski-piste"
+    href_button: https://www.ze-hero.com/fr/hiver/activites/reserver-cours-ski-piste
     text_button: Nos offres
   intro: Découvrez nos activités de ski de piste
   headline: " "
@@ -95,7 +95,7 @@ topnav_text_color: light
 engage: Visiter un domaine en dévalant chaque piste
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
 listMother: 1
 conseil: ''
 

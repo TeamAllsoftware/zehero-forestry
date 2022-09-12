@@ -39,7 +39,7 @@ page_sections:
   title: Choisissez votre département de destination
 - template: textarea
   blockBGcolor: blanc
-  title: Les activités du moments
+  title: Découvrez nos activités outdoors
   content: " "
 - template: listServices2
   blockBGcolor: blanc
@@ -49,7 +49,7 @@ page_sections:
   whatActivity: activité hiver
 - template: textarea
   blockBGcolor: blanc
-  title: Nos locations du moment
+  title: Découvrez nos locations de matériel de ski et snowboard
   content: " "
 - template: listConseils
   blockBGcolor: blanc
@@ -60,24 +60,24 @@ page_sections:
   blockBGcolor: blanc
   button_2_more: true
   Image1:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1651037463/website/Altore/V%C3%AAtement%20/Bavella_rouge_bk_H_1100x.webp
-    alt_text: Maillot de course de trail de la marque Altore
-    title: Acheter du textile
-    title_Link: https://shop.ze-hero.com/fr/achat-neuf/vetement-running
-  Image2:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644416055/website/Instinct%20Trail/InStinct_Eklipse_Poles_1250x938_xyrwnl.jpg
-    alt_text: Sac Instinct Trail Inspired
-    title: Achetez vos sacs de trail
-    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
-  Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648196348/website/assets/Personnages%20poses/Ski.png
-    alt_text: Personnage ZE HERO ski
-    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
-  Image4:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/speezone16R_xhbtls.jpg
     alt_text: Ski d'occasion à vendre Prosneige
     title: Acheter des skis d'occasions
     title_Link: https://shop.ze-hero.com/fr/activites-Outdoor/?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+  Image2:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661409076/website/Hardloop/odlo-zeroweight-dual-dry-veste-impermeable-homme.jpg
+    alt_text: Une personne portant une veste de pluie Odlo
+    title: Equipement Hardloop
+    title_Link: "/fr/hiver/conseil/equipements-trail-automne-hiver"
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1660828304/website/winter/Cours_particulier_de_ski_pour_enfants_-_Photo_1.jpg
+    alt_text: Monitrice avec un enfant en cours de ski
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
+  Image4:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641566463/website/Conseil%20Equiepement/speezone16R_xhbtls.jpg
+    alt_text: Coureuse de Trail portant un sac Instinct Trail
+    title: Sac Instinct Trail
+    title_Link: https://shop.ze-hero.com/fr/achat-neuf/Accessoire-running-et-trail/Sac-et-Sac-%C3%A0-dos-running
 - template: video2colImgTxt
   blockBGcolor: gris
   image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Randonne-neige-seul_mxdyy6.jpg
@@ -112,22 +112,13 @@ page_sections:
     title: Osez l'émotion
     content: Grâce aux activités sélectionnées et testées par nos équipes professionnelles
     icon: line-icon-Cool
-- template: blogPostList
-  blockBGcolor: gris
-  postNumber: 4
 - template: newsletter
   title: Recevez nos dernières informations
-- template: ZEHEROintro
-  image_bg_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650965162/website/logo/Image%20Background/ZEHERO_TEAM_BACKGROUND.png
-  baseline: L’outdoor au rythme de vos émotions
-  title: Nos équipes de passionnés vous ont préparé le meilleur des activités outdoor
-  url_link: https://shop.ze-hero.com/fr/
-  title_link: Visiter la boutique
 author: geoffreyarduini
 baseline: ''
 button_to_link_to_ze_hero_shop:
   button_text: Votre destination
-  url_to_shop_zehero: "/fr/destinations/trouver-destination-activites"
+  url_to_shop_zehero: "/fr/destinations/destination-activites-hiver"
 listMother: ''
 
 ---

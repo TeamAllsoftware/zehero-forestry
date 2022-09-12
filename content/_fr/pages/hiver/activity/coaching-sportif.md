@@ -67,7 +67,7 @@ topnav_text_color: light
 engage: Une préparation pour affronter toutes les situations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre session de coaching sportif
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=21%2F11%2F2021
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/Coaching
 categorie: Coaching
 listMother: 1
 conseil: ''

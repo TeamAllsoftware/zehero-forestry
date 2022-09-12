@@ -49,7 +49,7 @@ page_sections:
   headline: " "
   button:
     text_button: Nos offres
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+    href_button: https://www.ze-hero.com/fr/hiver/activite/reserver-ski-randonnee
   blockBGcolor: blanc
   marge: 20
 - template: imagegallery02
@@ -100,7 +100,7 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre cours de ski de randonnée
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=21%2F11%2F2021
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
 categorie: Ski
 listMother: 1
 conseil: ''

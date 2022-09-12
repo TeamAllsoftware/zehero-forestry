@@ -68,7 +68,7 @@ page_sections:
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
-  button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Kayak&start-date=
+  button_text: Réservez votre activité Kayak
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/kayak
 
 ---

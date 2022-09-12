@@ -134,7 +134,7 @@ page_sections:
 - template: newsletter
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
-  button_text: Réservez votre activité
+  button_text: Réservez sortie trail
   url_to_shop_zehero: "/fr/ete/activites/nos-sorties-trail"
 conseil: ''
 

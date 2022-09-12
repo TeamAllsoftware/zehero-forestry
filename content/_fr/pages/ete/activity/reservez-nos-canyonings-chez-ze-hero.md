@@ -19,8 +19,8 @@ engage: Découvrez et partagez un moment unique en canyoning
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655359805/website/Canyoning%2006/Screenshot_3.jpg
 image01_alt: Fille sautant dans le canyoning de la Clue de la Cerise
 button_to_link_to_ze_hero_shop:
-  button_text: Demande de réservation
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  button_text: Réservez votre sortie canyoning
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/canyoning
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de Canyoning chez Ze Hero

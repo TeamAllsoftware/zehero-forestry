@@ -21,7 +21,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658930454/webs
 image01_alt: Des personnes faisant du ski dans la station de ski de Courchevel
 button_to_link_to_ze_hero_shop:
   button_text: Réservez
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/savoie
 page_sections:
 - template: heroBreadcrumb
   title: Nos activités l'hiver en Savoie
@@ -95,7 +95,7 @@ type: generic
 level: 1
 listMother: 1
 titleHome: Les activités en Savoie 73
-activite: ''
+activite: Destination hiver
 conseil: ''
 
 ---

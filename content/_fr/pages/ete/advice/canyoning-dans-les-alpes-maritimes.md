@@ -13,7 +13,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655450388/webs
 image01_alt: Personne faisant du canyoning
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes/canyoning
 page_sections:
 - template: heroBreadcrumb
   title: Activité Canyoning
@@ -36,10 +36,12 @@ page_sections:
   service: activity
   filterLevel: 2
   whatActivity: canyoning
+  listMother: 1
 type: generic
 level: 2
 titleHome: Canyoning dans les Alpes Maritimes
 activite: canyoning
 baseline: ''
+listMother: ''
 
 ---

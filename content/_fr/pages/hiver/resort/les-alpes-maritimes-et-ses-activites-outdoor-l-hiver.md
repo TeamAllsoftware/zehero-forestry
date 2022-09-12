@@ -18,11 +18,11 @@ resort_nameid: alpes_maritimes
 resort_naming: Les Alpes Maritimes
 permalink: "/fr/hiver/destinations/alpes-maritimes"
 meta-title: Activités outdoor dans les Alpes Maritimes pour l'hiver
-image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659341262/website/resorts/Mercantour/tom-coomer-de0P588zgls-unsplash.jpg
-image01_alt: 'Vue de montagnes enneigées dans les Alpes Maritimes à Auron '
+image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/website/resorts/Antibes/jane-ackerley-WiN6Az_8cGQ-unsplash_cmbknc.jpg
+image01_alt: Vue de montagnes enneigées et de la mer dans les Alpes Maritimes à Antibes
 button_to_link_to_ze_hero_shop:
   button_text: Réservez
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes
 page_sections:
 - template: heroBreadcrumb
   title: Nos activités l'hiver dans les Alpes Maritimes
@@ -78,9 +78,9 @@ page_sections:
     image_alt: Fille en canyoning dans les Alpes Maritimes assises sur un rocher
 type: generic
 level: 1
-listMother: 2
+listMother: 1
 titleHome: Les activités des Alpes Maritimes 06
-activite: ''
+activite: Destination hiver
 conseil: ''
 
 ---

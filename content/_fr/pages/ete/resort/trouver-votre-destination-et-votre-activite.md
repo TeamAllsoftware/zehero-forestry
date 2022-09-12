@@ -15,7 +15,7 @@ meta-description: Trouvez votre prochaine destination pour réservez les meilleu
 baseline: Trouvez votre destination
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor
 page_sections:
 - template: heroBreadcrumb
   title: Trouvez votre prochaine destination outdoor
@@ -28,4 +28,7 @@ page_sections:
   headtitle:
     headline: Trouvez votre prochaine destination
     title: 100% outdoor
+level: ''
+listMother: ''
+
 ---

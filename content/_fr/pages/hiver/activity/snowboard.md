@@ -40,7 +40,7 @@ page_sections:
   headline: " "
   button:
     text_button: Nos offres
-    href_button: "/fr/hiver/activites/reserver-cours-snowboard"
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
   atl_text_image_01: Un snowboardeur en poudreuse
@@ -96,7 +96,7 @@ topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre cours de snowboard
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Snowboard&start-date=21%2F11%2F2021
+  url_to_shop_zehero: https://www.ze-hero.com/fr/hiver/activites/reserver-cours-snowboard
 categorie: Snowboard
 listMother: 1
 conseil: ''

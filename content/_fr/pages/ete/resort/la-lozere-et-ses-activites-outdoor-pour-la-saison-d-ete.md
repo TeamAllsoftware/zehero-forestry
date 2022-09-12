@@ -27,7 +27,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650005140/webs
 image01_alt: Paysage nature de la Lozère
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/randonnee
 page_sections:
 - template: heroBreadcrumb
   title: Nos activités en Lozère

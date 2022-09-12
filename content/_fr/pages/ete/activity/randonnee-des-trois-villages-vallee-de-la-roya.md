@@ -17,8 +17,8 @@ engage: Découvrez le train des Merveilles et la Roya
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659013371/website/Loic%20AMM/c094d202-0201-4022-b6b7-c297d8a441da.webp
 image01_alt: Image de la nature dans la vallée de la Roya
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Réservez une randonnée
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes/randonnee
 page_sections:
 - template: heroBreadcrumb
   title: Randonnée des trois villages - Vallée de la Roya - Alpes Maritimes

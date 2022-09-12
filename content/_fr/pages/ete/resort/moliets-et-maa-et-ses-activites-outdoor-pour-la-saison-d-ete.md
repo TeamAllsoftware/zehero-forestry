@@ -24,7 +24,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647249587/webs
 image01_alt: Surfeur dans les landes à Moliets et Maâ surfant sur une vague
 button_to_link_to_ze_hero_shop:
   button_text: Réserver votre activité à Moliets et Maâ
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/landes
 page_sections:
 - template: textarea
   title: Moliets et Maâ

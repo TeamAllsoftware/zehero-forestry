@@ -7,7 +7,7 @@ topnav_color_text: light
 title: Vélo de route
 titleHome: Vélo de route
 activite: velo
-level: 1
+level: 2
 enHome: 1
 permalink: "/fr/ete/activites/velo-de-route"
 redirect_from:
@@ -98,7 +98,7 @@ page_sections:
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité
   url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=V%C3%A9lo+de+route&start-date=
-listMother: 1
+listMother: 2
 conseil: ''
 
 ---

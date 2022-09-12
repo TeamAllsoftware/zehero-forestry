@@ -21,7 +21,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1649146578/webs
 image01_alt: Personne faisant de l'hydrospeed dans la rivière de la Dranse
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre activité d'Hydrospeed
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Hydrospeed&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/hydrospeed
 page_sections:
 - template: textarea
   blockBGcolor: blanc

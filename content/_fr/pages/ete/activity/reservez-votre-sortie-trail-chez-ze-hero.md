@@ -15,8 +15,8 @@ engage: Courez et profitez de sorties trail dans les Alpes Maritimes
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1655216730/website/summer/IMG_20200723_153002.jpg
 image01_alt: Traileurs dans les Alpes Maritimes, sur les crêtes du Cheiron
 button_to_link_to_ze_hero_shop:
-  button_text: Demande de réservation
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  button_text: Réservez sortie trail
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/trail
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de trail chez Ze Hero

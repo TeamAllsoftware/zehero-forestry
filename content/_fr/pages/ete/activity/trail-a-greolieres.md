@@ -14,8 +14,8 @@ meta-description: 'Réservez votre sortie de trail à Gréolières, dans les Alp
   et découvrez les Préalpes d''Azur, la montagne du Cheiron. '
 baseline: ''
 button_to_link_to_ze_hero_shop:
-  button_text: Réservez
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17591-trail-journee-greolieres-esteron-ze-hero-yann-alarcon
+  button_text: Réservez sortie trail
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes/trail
 page_sections:
 - template: heroBreadcrumb
   title: 'Trail à Gréolières : Débutant à confirmé'

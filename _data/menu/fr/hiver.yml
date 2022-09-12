@@ -97,6 +97,8 @@ menu:
   column-01:
   - nested: S'équiper
     menu-items:
+    - title: Equipement Trail Automne / Hiver
+      href: "/fr/hiver/conseil/equipements-trail-automne-hiver"
     - title: Choisir ses chaussures de ski
       href: "/fr/hiver/conseils/choisir-ses-chaussures-de-ski"
     - title: Choisir ses boots de snowboard

@@ -28,7 +28,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1646211895/webs
 image01_alt: Village de la station de Val d'Isère en Savoie
 button_to_link_to_ze_hero_shop:
   button_text: Trouver votre activité à Val d'Isère
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Val+d%27Is%C3%A8re&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/savoie
 page_sections:
 - template: textarea
   title: Val d'Isère l'été

@@ -22,7 +22,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1661248084/webs
 image01_alt: Vue des montagnes enneigés et d'une remonté mécanique à La Tania
 button_to_link_to_ze_hero_shop:
   button_text: " "
-  url_to_shop_zehero: " "
+  url_to_shop_zehero: " https://shop.ze-hero.com/fr/activites-Outdoor/savoie/cours-de-ski-snowboard"
 page_sections:
 - template: heroBreadcrumb
   title: Nos activités à La Tania

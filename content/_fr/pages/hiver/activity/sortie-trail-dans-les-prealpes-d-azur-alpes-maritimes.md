@@ -5,7 +5,7 @@ season: winter
 level: 2
 listMother: 2
 categorie: Running / Trail
-topnav_color_text: dark
+topnav_color_text: light
 activite: trail 06
 meta-title: Réservez Trail - Préalpes d'Azur / Esterel - Alpes Maritimes
 meta-description: Découvrez nos sorties de trail et nos entraînements dans les Alpes
@@ -20,7 +20,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653904886/webs
 image01_alt: Coureur l'automne en dessous de courmes
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes/trail
 page_sections:
 - template: heroBreadcrumb
   title: Sortie trail dans les Préalpes d'Azur - Alpes Maritimes

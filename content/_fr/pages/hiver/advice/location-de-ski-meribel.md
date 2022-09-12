@@ -46,7 +46,7 @@ page_sections:
     près de votre logement, vérifier les horaires d'ouverture afin de ne pas avoir
     de contrainte et vous pouvez regarder les avis des clients sur ce magasin de location
     de ski à Méribel.  \nAfin de bien comprendre les différents types de skis et de
-    snowboards de location, découvrez toutes les informations sur notre page \" [**Conseils**](/fr/hiver/conseils/choisir-ski-location)
+    snowboards de location, découvrez toutes les informations sur notre page \" [**Conseils**](/fr/hiver/conseil/choisir-materiel-location)
     \". Vous découvrirez comment bien choisir son ski et son snowboard de location
     en fonction du niveau et de l'âge."
 - template: textarea

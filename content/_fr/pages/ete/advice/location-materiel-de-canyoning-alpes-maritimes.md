@@ -17,7 +17,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650875786/webs
 image01_alt: Personne faisant un rappel en canyoning
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes/canyoning
 page_sections:
 - template: heroBreadcrumb
   title: Location de matériel de canyoning dans les Alpes Maritimes

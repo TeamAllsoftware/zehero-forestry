@@ -19,8 +19,8 @@ engage: Partez surfer dans les Landes et prenez vos 1er vagues
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340583/website/Ind%C3%A9pendant/51668639_2264458490442592_3894814208168034304_n.png
 image01_alt: Surfeur à Seignosse faisant du surf
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Seignosse&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Surf&start-date=
+  button_text: Réservez cours de surf
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/landes/Surf
 page_sections:
 - template: heroBreadcrumb
   title: Surfer à Seignosse dans les Landes
@@ -42,7 +42,7 @@ page_sections:
   headline: " de surf à Seignosse"
   button:
     text_button: Réservez ici
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/Surf/17567-surf-cours-prive-2h-matin-seignosse-morgan-davezac-morgan-davezac
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/landes/Surf
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1647340583/website/Ind%C3%A9pendant/51668639_2264458490442592_3894814208168034304_n.png
   atl_text_image_01: Surfeur sur une vague à Seignosse

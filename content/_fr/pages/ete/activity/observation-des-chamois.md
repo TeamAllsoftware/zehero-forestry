@@ -17,8 +17,8 @@ engage: Partez observer les chamois dans les Vosges
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654870381/website/Partenaires/Sorties%20de%20route/0BF05CFA-BF59-4622-B034-F92B5A07B856_1_201_a.jpg
 image01_alt: Chamois vu dans une jumelle
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Réservez observation des chamois
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/randonnee/17606-randonnee-famille-observation-chamois-2h-sorties-de-route
 page_sections:
 - template: heroBreadcrumb
   title: Randonnée et observation des chamois dans les Vosges

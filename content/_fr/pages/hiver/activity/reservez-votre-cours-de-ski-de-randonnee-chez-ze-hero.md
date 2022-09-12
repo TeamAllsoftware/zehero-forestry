@@ -17,7 +17,7 @@ meta-description: Réservez un cours de ski de randonnée avec Ze Hero dans la s
 baseline: Cours de ski de randonnée
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de ski de randonnée

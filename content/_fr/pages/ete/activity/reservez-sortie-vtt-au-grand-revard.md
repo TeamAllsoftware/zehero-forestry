@@ -16,8 +16,8 @@ engage: Partez rouler en VTT ou VTT Electrique en famille
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1653899659/website/Exp%C3%A9rience%20V%C3%A9lo/randonn%C3%A9e_en_vtt_%C3%A9lectrique_%C3%A0_proximit%C3%A9_du_lac_d_annecy_en_haute-savoie..jpg
 image01_alt: Une personne en VTT sur en chemin en fleurs en nature
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Réservez VTT Expérience Vélo
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/vtt
 page_sections:
 - template: heroBreadcrumb
   title: Le VTT et VAE au Grand Revard et Aix les Bains
@@ -36,7 +36,7 @@ page_sections:
   blockBGcolor: blanc
   marge: 20
   button:
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/trail?station=Le+Revard&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/france/vtt
     text_button: Réservez ici
   intro: Réservez votre sortie de VTT
   headline: au Grand Revard

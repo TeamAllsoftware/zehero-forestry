@@ -16,8 +16,8 @@ engage: Partez surfer dans les Landes et en Loire Atlantique
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654866868/website/summer/ting-tse-wang-lc6kX5PyWT8-unsplash.jpg
 image01_alt: Surfeur dans une vague
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Réservez cours de surf
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/Surf
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de surf chez Ze Hero
