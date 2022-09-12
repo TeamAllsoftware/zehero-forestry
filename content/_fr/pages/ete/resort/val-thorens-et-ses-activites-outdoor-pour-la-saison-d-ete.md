@@ -27,8 +27,8 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1644397253/webs
 image01_alt: Vue de la station et des montagnes de Val Thorens avec le Mont Blanc
   derrière
 button_to_link_to_ze_hero_shop:
-  button_text: Trouvez votre activité à Val Thorens
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Val+Thorens&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  button_text: Réservez votre activité
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/savoie
 page_sections:
 - template: textarea
   title: La station de Val Thorens
