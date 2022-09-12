@@ -123,7 +123,7 @@ engage: Explorer les forêts par des parcours vallonés
 categorie: Ski
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
 listMother: 1
 conseil: ''
 
