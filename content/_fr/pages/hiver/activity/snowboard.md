@@ -40,7 +40,7 @@ page_sections:
   headline: " "
   button:
     text_button: Nos offres
-    href_button: "/fr/hiver/activites/reserver-cours-snowboard"
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
 - template: imagegallery02
   image01_bigsquare: https://res.cloudinary.com/deddrj0yb/image/upload/v1641896232/website/winter/henry-perks-T-1t1Q1rBn4-unsplash_ivee5n.jpg
   atl_text_image_01: Un snowboardeur en poudreuse
