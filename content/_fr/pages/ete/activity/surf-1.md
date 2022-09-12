@@ -15,8 +15,8 @@ engage: 'Faire le plein de sensations de glisse et se familiariser '
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641562732/website/summer/carles-rabada-TbJg-UB7mGs-unsplash_ktkrqh.jpg
 image01_alt: 'Grand plan vu de haut sur l''océan et un surfer '
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Réservez cours de surf
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/landes/Surf
 page_sections:
 - template: textarea
   blockBGcolor: blanc
@@ -84,5 +84,6 @@ page_sections:
     '
 type: generic
 activite: ''
+listMother: ''
 
 ---
