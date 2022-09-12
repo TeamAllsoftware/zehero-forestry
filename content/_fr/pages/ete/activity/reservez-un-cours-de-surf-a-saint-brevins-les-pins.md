@@ -17,8 +17,8 @@ engage: Surfer avec Atlantique Surf School à St Brévin les Pins
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1643624275/website/Surf%20Atlantic/IMG_7584_itolid.jpg
 image01_alt: Professeur de surf et enfant faisant du surf
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Réservez cours de surf St Brévin les Pins
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/loire-atlantique/Surf
 page_sections:
 - template: heroBreadcrumb
   title: Surfez à Saint Brévin les Pins
