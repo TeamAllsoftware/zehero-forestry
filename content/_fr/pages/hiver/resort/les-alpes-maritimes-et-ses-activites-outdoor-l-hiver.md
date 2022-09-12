@@ -22,7 +22,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641472431/webs
 image01_alt: Vue de montagnes enneigées et de la mer dans les Alpes Maritimes à Antibes
 button_to_link_to_ze_hero_shop:
   button_text: Réservez
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes
 page_sections:
 - template: heroBreadcrumb
   title: Nos activités l'hiver dans les Alpes Maritimes
