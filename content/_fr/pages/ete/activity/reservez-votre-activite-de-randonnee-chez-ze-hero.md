@@ -16,8 +16,8 @@ meta-description: Découvrez et réservez vos sorties de randonnée en montagne 
   découvrir la faune, les paysages et son envirronement.
 baseline: Randonnée en montagne
 button_to_link_to_ze_hero_shop:
-  button_text: Demande de réservation
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  button_text: Réservez une randonnée
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/randonnee
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de randonnée chez Ze Hero
