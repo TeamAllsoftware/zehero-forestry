@@ -15,8 +15,8 @@ engage: Partez rouler et profiter à VTT en montagne
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654866668/website/Sames%20Jones/FB_IMG_1654680653467.jpg
 image01_alt: Personne à VTT en montagne
 button_to_link_to_ze_hero_shop:
-  button_text: Demande de réservation
-  url_to_shop_zehero: https://www.ze-hero.com/fr/contact
+  button_text: Réservez sortie VTT
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/vtt
 page_sections:
 - template: heroBreadcrumb
   title: Nos offres de VTT chez Ze Hero
