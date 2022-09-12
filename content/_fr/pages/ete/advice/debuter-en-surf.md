@@ -12,7 +12,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654866880/webs
 image01_alt: Femme faisant du surf sur une  vague en faisant un virage
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/Surf
 page_sections:
 - template: textarea
   blockBGcolor: blanc
@@ -86,5 +86,6 @@ activite: surf
 conseil: debuter
 titleHome: Débuter en surf
 baseline: ''
+listMother: ''
 
 ---
