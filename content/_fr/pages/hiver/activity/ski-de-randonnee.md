@@ -49,7 +49,7 @@ page_sections:
   headline: " "
   button:
     text_button: Nos offres
-    href_button: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+    href_button: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
   blockBGcolor: blanc
   marge: 20
 - template: imagegallery02
