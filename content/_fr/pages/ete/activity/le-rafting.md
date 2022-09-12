@@ -18,8 +18,8 @@ engage: Une descente en rivière pour un moment fort en sensation
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1648030107/website/summer/jackalope-west-02HBQ2w_yak-unsplash.jpg
 image01_alt: Plusieurs personnes pratiquants le rafting sur une rivière
 button_to_link_to_ze_hero_shop:
-  button_text: Réservez votre activité
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Rafting&start-date=
+  button_text: Réservez votre activité Rafting
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/rafting
 page_sections:
 - template: textarea
   blockBGcolor: blanc
