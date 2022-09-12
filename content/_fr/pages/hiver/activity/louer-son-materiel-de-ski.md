@@ -18,7 +18,7 @@ meta-description: Réservez et louez votre équipement de ski chez Ze Hero. Déc
 baseline: Location de matériel de ski
 button_to_link_to_ze_hero_shop:
   button_text: ''
-  url_to_shop_zehero: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/location-materiel
 page_sections:
 - template: heroBreadcrumb
   title: Toutes nos offres de location
