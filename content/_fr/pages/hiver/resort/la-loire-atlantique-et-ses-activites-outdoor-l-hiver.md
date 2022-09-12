@@ -21,7 +21,7 @@ image01_href: L'Isère et ses activités outdoor pour la saison d'hiver
 image01_alt: Personne surfant en Loire Atlantique à Saint Brévins les Pins
 button_to_link_to_ze_hero_shop:
   button_text: Réservez
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Loire+Atlantique+%2844%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/loire-atlantique
 page_sections:
 - template: heroBreadcrumb
   title: Nos activités l'hiver en Loire Atlantique
