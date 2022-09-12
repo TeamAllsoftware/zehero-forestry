@@ -14,8 +14,8 @@ meta-description: Réservez une sortie trail à Saint Jeannet afin de vous initi
   trail et découvrir le Baou et ses lieux unqiues.
 baseline: ''
 button_to_link_to_ze_hero_shop:
-  button_text: 'Réservez '
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17600-trail-matin-st-jeannet-ze-hero-yann-alarcon
+  button_text: Réservez sortie trail
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes/trail
 page_sections:
 - template: heroBreadcrumb
   title: 'Trail à Saint Jeannet : Débutant'
