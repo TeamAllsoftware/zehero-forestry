@@ -17,8 +17,8 @@ engage: Partez découvrez le cinglegros et le Baousse del Biel
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650782623/website/Partenaires/Cueilleur%20de%20sommet/Baume_Jonte_2.jpg
 image01_alt: Le cinglegros et le Baousse del Biel
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: ''
+  button_text: Réservez une randonnée
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/randonnee
 page_sections:
 - template: heroBreadcrumb
   title: Randonnée du Cinglegros et Baousse del biel en Lozère
