@@ -27,8 +27,8 @@ meta-title: Activités outdoor à Nice et ses alentours
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1650013821/website/resorts/Nice/danilo-pantalena-5SUQiV-tS4c-unsplash.jpg
 image01_alt: Vue de la mer et de la ville de Nice, côte d'Azur
 button_to_link_to_ze_hero_shop:
-  button_text: Trouvez votre activité à Thonon-les-Bains
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=all&start-date=
+  button_text: Trouvez votre activité à Nice
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes
 page_sections:
 - template: heroBreadcrumb
   title: Nos activités à Nice
