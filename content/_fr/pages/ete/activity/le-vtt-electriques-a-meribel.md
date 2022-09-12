@@ -18,8 +18,8 @@ engage: Découvrez la montagne en VTT électrique à Méribel
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1647857920/website/M%C3%A9ribel/35365524180_debaa2cd42_o.jpg
 image01_alt: Guidon d'un VTT électrique à Méribel
 button_to_link_to_ze_hero_shop:
-  button_text: ''
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=M%C3%A9ribel&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=VTT&start-date=
+  button_text: Réservez VTT Méribel
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/savoie/vtt
 page_sections:
 - template: textarea
   blockBGcolor: blanc
@@ -90,5 +90,6 @@ page_sections:
   title: Rouler en total liberté à Méribel
   content: Le VTT Electrique à Méribel vous permet de découvrir les plus sentiers
     de montagnes, accompagné d'un moniteur pour une expérience riche en découverte.
+listMother: ''
 
 ---
