@@ -27,7 +27,7 @@ image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1654789789/webs
 image01_alt: 'Paysage des Préalpes avec des moutons '
 button_to_link_to_ze_hero_shop:
   button_text: Activités dans les Alpes Maritimes
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Alpes+Maritimes+%2806%29&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Trail&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes
 page_sections:
 - template: heroBreadcrumb
   title: Nos activités dans les Alpes Maritimes
