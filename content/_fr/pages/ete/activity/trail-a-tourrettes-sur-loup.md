@@ -14,8 +14,8 @@ meta-description: Réservez votre sortie de Trail à Tourrettes sur Loup, afin d
   initier, de progresser et de découvrir les Préalpes d'Azur ainsi que ses sommets.
 baseline: ''
 button_to_link_to_ze_hero_shop:
-  button_text: Réservez
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/trail/17593-trail-matin-tourrettes-sur-loup-ze-hero-yann-alarcon
+  button_text: Réservez sortie trail
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes/trail
 page_sections:
 - template: heroBreadcrumb
   title: 'Trail à Tourrettes sur Loup : Débutant - Intérmédiaire'
