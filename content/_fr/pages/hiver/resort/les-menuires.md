@@ -56,8 +56,8 @@ baseline: 'Grand espace   '
 engage: 'test test test test test test test test '
 page_title: Les Menuires, 3 vallées
 button_to_link_to_ze_hero_shop:
-  button_text: Voir les locations aux Ménuires
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/location-materiel/location-ski/location-ski-enfant?station=les-menuires&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=25%2F12%2F2021&number_rental_days=1
+  button_text: ''
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/savoie/cours-de-ski-snowboard
 introduction:
   you_arrive: Vous arrivez aux Ménuires et vous souhaitez louer du matériel dans cette
     station.
