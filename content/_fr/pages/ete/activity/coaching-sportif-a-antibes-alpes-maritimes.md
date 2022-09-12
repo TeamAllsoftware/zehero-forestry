@@ -110,6 +110,7 @@ page_sections:
   title: Recevez nos dernières informations
 button_to_link_to_ze_hero_shop:
   button_text: Réservez votre séance de coaching de sport à Antibes
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor?station=Antibes&calessonstype=all&catypegenderlistsummer=all&calessonsactivitytype=Coaching&start-date=
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/alpes-maritimes/Coaching
+listMother: ''
 
 ---
