@@ -96,7 +96,7 @@ topnav_text_color: light
 engage: Apprenez tous les secrets du snowboard et de son style
 button_to_link_to_ze_hero_shop:
   button_text: Trouvez votre cours de snowboard
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
+  url_to_shop_zehero: https://www.ze-hero.com/fr/hiver/activites/reserver-cours-snowboard
 categorie: Snowboard
 listMother: 1
 conseil: ''
