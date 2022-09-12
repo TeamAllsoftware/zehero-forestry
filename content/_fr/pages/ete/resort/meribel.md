@@ -71,7 +71,7 @@ engage: 'test test test test test test test test '
 page_title: 'Méribel, station d''exception '
 button_to_link_to_ze_hero_shop:
   button_text: Voir les locations à Méribel
-  url_to_shop_zehero: https://shop.ze-hero.com/fr/location-materiel/location-ski/location-ski-enfant?station=alpes-dhuez&equipmentslug=%2Flocation-ski&rental_quality=0&oldslug=%2Flocation-ski&subslug=%2Flocation-ski-adulte&start-date=25%2F12%2F2021&number_rental_days=1
+  url_to_shop_zehero: https://shop.ze-hero.com/fr/activites-Outdoor/savoie
 introduction:
   you_arrive: Vous arrivez à Méribel et vous souhaitez louer du matériel ou trouver
     une activité
