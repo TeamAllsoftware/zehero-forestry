@@ -59,26 +59,26 @@ page_sections:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659357496/website/winter/271763322_9566943013377084_2709945349720359422_n.jpg
     image_alt: Personne en ski freeride en freeride
     title: Cours de ski freeride à Val d'Isère
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1659001449/website/winter/shutterstock_1120866635.jpg
     image_alt: Personne en ski en freeride
     title: Cours de ski freeride aux Menuires
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658839133/website/winter/164359367_7995718387166229_3029293489305122895_n.jpg
     image_alt: Personne en ski dans un freeride
     title: 'Cours de ski freeride à l''Alpe d''Huez '
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641891585/website/winter/sophie-the-laya-yogis-Yf-EC_VWYwY-unsplash_fqd8ow.jpg
     image_alt: Personne en ski freeride
     title: Cours privés de ski freeride à Méribel
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883534/website/winter/Ski-descente-poudreuse_jkfdf6.jpg
     title: Cours privés de ski freeride à Val Thorens
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
     image_alt: Personne faisant du ski freeride
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638822772/website/winter/robson-hatsukami-morgan-P6389nx91BA-unsplash_ptpsoi.jpg
     image_alt: Personne marchant avec ses skis en freeride
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Hors+piste&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
     title: Cours privés de ski freeride à Courchevel
 - template: textarea
   blockBGcolor: blanc
