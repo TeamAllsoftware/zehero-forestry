@@ -59,31 +59,31 @@ page_sections:
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658843993/website/winter/GOPR1121_1644667504059.jpg
     image_alt: Skieur en ski de randonnée
     title: Ski de randonnée à Tignes
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Tignes&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883533/website/winter/Ski-randonne-ascension_g8hj01.jpg
     image_alt: Skieur montant en ski de randonnée
     title: Ski de randonnée à Val d'Isère
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+d%27Is%C3%A8re&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1645802609/website/winter/P1000241_lddllp.jpg
     image_alt: Des personnes en ski de randonnée
     title: Ski de randonnée Alpe d'Huez
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Alpe+d%27Huez&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1641540482/website/winter/amza-andrei-LiwdRhUaGZ0-unsplash_sqwdgb.jpg
     image_alt: Personne faisant du ski de randonnée
     title: Ski de randonnée à Méribel
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=M%C3%A9ribel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658839133/website/winter/164359367_7995718387166229_3029293489305122895_n.jpg
     image_alt: Skieur en freeride
     title: Ski de randonnée à Val Thorens
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Val+Thorens&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1658843776/website/winter/IMG20210324103201.jpg
     image_alt: Personne faisant du ski de randonnée en montant
     title: Ski de randonnée Courchevel
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Courchevel&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
   - image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1638883531/website/winter/Randonne-neige-seul_mxdyy6.jpg
     image_alt: Skieur en ski de randonnée
     title: Ski de randonnée aux Menuires
-    url: https://shop.ze-hero.com/fr/activites-Outdoor/?station=Les+Menuires&calessonstype=Cours+priv%C3%A9&catypegenderlistsummer=all&calessonsactivitytype=Ski&start-date=
+    url: https://shop.ze-hero.com/fr/activites-Outdoor/france/cours-de-ski-snowboard
 - template: textarea
   blockBGcolor: blanc
   title: Réservez un cours de ski de randonnée
