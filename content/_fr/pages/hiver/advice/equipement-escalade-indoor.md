@@ -39,6 +39,34 @@ page_sections:
     Un équipement complet et parfait que vous débutiez ou non l'escalade. Des produits
     de qualités qui vous accompagneront dans vos prochaines sessions d'escalade en
     salle. Venez les tester dans notre salle d'escalade **Mont Blanc Escalade**.
+- template: textarea
+  blockBGcolor: blanc
+  title: 'La sélection Hardloop : T-shirt d''escalade'
+  content: Découvrez une sélection de t-shirt afin de grimper en étant à l'aise et
+    confortable dans chacun de vos mouvements. Des t-shirts respirant et légers pour
+    des séances d'escalades en toute liberté. Découvrez les gammes de Orthovox et
+    de Patagonia.
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663140606/website/Hardloop/ortovox-150-cool-logo-ts-t-shirt-en-laine-merinos-homme.jpg
+    alt_text: T-Shirt d'escalade Ortovox
+    title: Ortovox 150 Cool Logo TS - T-shirt mérinos femme
+    title_Link: https://www.hardloop.fr/produit/28918-ortovox-150-cool-logo-ts-t-shirt-en-laine-merinos-femme?id_product_attribute=365846&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+  Image2:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663140607/website/Hardloop/patagonia-cap-cool-daily-graphic-shirt-t-shirt-homme.jpg
+    alt_text: T-shirt Patagonia d'escalade
+    title: Patagonia Cap Cool Daily Graphic Shirt - homme
+    title_Link: https://www.hardloop.fr/produit/15958-patagonia-cap-cool-daily-graphic-shirt-t-shirt-homme?id_product_attribute=440586&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663140666/website/Hardloop/bastien-plu-Ef_RU9j5a38-unsplash.jpg
+    alt_text: 'Grimpeur d''escalade en salle '
+  Image4:
+    image_href: https://www.hardloop.fr/produit/15959-patagonia-cap-cool-daily-graphic-shirt-t-shirt-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    alt_text: T-shirt Patagonia
+    title: Patagonia Cap Cool Daily Graphic Shirt - Femme
+    title_Link: https://www.hardloop.fr/produit/15959-patagonia-cap-cool-daily-graphic-shirt-t-shirt-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+  button_2_more: false
 type: generic
 level: 1
 listMother: 2
