@@ -67,6 +67,35 @@ page_sections:
     title: Patagonia Cap Cool Daily Graphic Shirt - Femme
     title_Link: https://www.hardloop.fr/produit/15959-patagonia-cap-cool-daily-graphic-shirt-t-shirt-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: 'La sélection Hardloop : Pantalons d''escalade'
+  content: Découvrez la sélection by Hardloop pour les pantalons d'escalade. Grimpez
+    avec aisance en protégeant vos genoux, en ayant un maximum de liberté de mouvement.
+    Des pantalons d'escalade qui résisteront à l'abrasion et qui seront robustes.
+    Ils vous assureront confort, et légèreté pour respirabilité optimale. Découvrez
+    les pantalons d'escalade Ortovox ou encore Looking for Wild.
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663147337/website/Hardloop/ortovox-pala-pants-pantalon-escalade-femme.jpg
+    alt_text: Pantalon d'escalade
+    title: Ortovox Pala Pants - Pantalon escalade femme
+    title_Link: https://www.hardloop.fr/produit/22857-ortovox-pala-pants-pantalon-escalade-femme?id_product_attribute=455753
+  Image2:
+    title_Link: https://www.hardloop.fr/produit/22859-ortovox-pala-pants-pantalon-escalade-homme?id_product_attribute=455760&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663147338/website/Hardloop/ortovox-pala-pants-pantalon-escalade-homme.jpg
+    alt_text: Pantalon d'escalade homme
+    title: Ortovox Pala Pants - Pantalon escalade homme
+  Image4:
+    title_Link: https://www.hardloop.fr/produit/17521-looking-for-wild-fitz-roy-pant-pantalon-escalade-homme?id_product_attribute=452854&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663147338/website/Hardloop/looking-for-wild-fitz-roy-pant-pantalon-escalade-homme.jpg
+    alt_text: Pantalon d'escalade homme
+    title: Fitz Roy Pant - Pantalon escalade homme
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663147335/website/Hardloop/bastien-plu-5dEIkO7a1ko-unsplash.jpg
+    alt_text: Grimpeur dans une salle d'escalade
+  button_2_more: false
 type: generic
 level: 1
 listMother: 2
