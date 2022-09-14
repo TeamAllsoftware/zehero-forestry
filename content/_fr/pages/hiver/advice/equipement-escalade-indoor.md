@@ -7,7 +7,7 @@ meta-description: Découvrez la panoplie d'équipement by Hardloop pour pratique
 topnav_color_text: light
 conseil: Hardloop
 title: Equipement Escalade Indoor
-permalink: "/fr/hiver/conseil/equipement-escalade-indoor"
+permalink: "/fr/hiver/conseil/equipements-escalade-indoor"
 meta-title: Découvrez l'équipement escalade indoor
 image01_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663140695/website/Hardloop/rahadiansyah-3yusFdVTtQ8-unsplash.jpg
 image01_alt: Grimpeur en escalade sur une salle d'escalade indoor
