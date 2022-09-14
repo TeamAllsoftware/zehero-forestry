@@ -133,6 +133,27 @@ page_sections:
     progression, chacune de vos ascensions en gardant un maximum de confort, de technicité,
     de souplesse et de maintien. Découvrez les chaussons d'escalade La Sportiva et
     Scarpa.
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663156921/website/Hardloop/bastien-plu-K274DDE9bIU-unsplash.jpg
+    alt_text: Grimpeuse en escalade
+  Image1:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663157167/website/Hardloop/la-sportiva-skwama-chaussons-escalade-homme.jpg
+    alt_text: Chausson escalade La Sportiva
+    title: La Sportiva Skwama - Chaussons homme
+    title_Link: https://www.hardloop.fr/produit/16138-la-sportiva-skwama-chaussons-escalade-homme?id_product_attribute=289579&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+  Image2:
+    title: La Sportiva Skwama - Chaussons femme
+    alt_text: Chausson d'escalade femme
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663157167/website/Hardloop/la-sportiva-skwama-chaussons-escalade-femme.jpg
+    title_Link: https://www.hardloop.fr/produit/26462-la-sportiva-skwama-chaussons-escalade-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+  Image4:
+    title_Link: https://www.hardloop.fr/produit/7492-scarpa-instinct-vsr-chaussons-escalade?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    title: Scarpa Instinct VSR - Chaussons escalade
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663157166/website/Hardloop/scarpa-instinct-vsr-chaussons-escalade.jpg
+    alt_text: Chausson d'escalade Scarpa
+  button_2_more: false
 type: generic
 level: 1
 listMother: 2
