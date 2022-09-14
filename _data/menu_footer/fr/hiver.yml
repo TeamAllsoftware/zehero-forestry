@@ -20,8 +20,8 @@ columns:
 - col: Nos conseils
   title-link: "/fr/hiver/conseils"
   link:
-  - subtitle: S'équiper Automne / Hiver
-    subhref: https://www.hardloop.fr/
+  - subtitle: Equipement Hardloop
+    subhref: "/fr/panoplies-equipements-outdoor-hardloop"
   - subtitle: Choisir son magasin de location de ski
     subhref: "/fr/hiver/conseils/comment-choisir-son-magasin-de-location-de-ski-et-snowboard"
   - subtitle: Comment choisir ses skis d'occasion
