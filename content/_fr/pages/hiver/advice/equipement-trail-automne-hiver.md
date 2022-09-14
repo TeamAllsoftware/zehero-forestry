@@ -285,6 +285,6 @@ level: 1
 listMother: 2
 titleHome: Equipement Trail Automne / Hiver
 activite: Hardloop
-baseline: ''
+baseline: Equipement Trail Hiver
 
 ---
