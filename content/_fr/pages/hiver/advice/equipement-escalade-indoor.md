@@ -136,8 +136,8 @@ page_sections:
 - template: ctaShop4col
   blockBGcolor: blanc
   Image3:
-    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663156921/website/Hardloop/bastien-plu-K274DDE9bIU-unsplash.jpg
-    alt_text: Grimpeuse en escalade
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663158479/website/Hardloop/bastien-plu-5D5evOHpSV4-unsplash.jpg
+    alt_text: Grimpeur en escalade en salle
   Image1:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663157167/website/Hardloop/la-sportiva-skwama-chaussons-escalade-homme.jpg
     alt_text: Chausson escalade La Sportiva
