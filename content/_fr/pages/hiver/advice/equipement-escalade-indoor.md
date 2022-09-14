@@ -103,6 +103,27 @@ page_sections:
     avec des shorts d'escalade résistants, présentant des renforts pour plus de robustesse.
     Des shorts confortables afin de grimper les voies d'escalade indoor ou outdoor
     dans les meilleures conditions. Découvrez les marques Ortovox et Look for Wild.
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663149091/website/Hardloop/ortovox-pala-shorts-short-escalade-homme.jpg
+    alt_text: Short d'escalade homme
+    title: Ortovox Pala Shorts - Short homme
+    title_Link: https://www.hardloop.fr/produit/37945-ortovox-pala-shorts-short-escalade-homme
+  Image2:
+    title_Link: https://www.hardloop.fr/produit/24001-looking-for-wild-short-technique-short-escalade-homme?id_product_attribute=452869&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    title: Looking For Wild Short Technique - Short homme
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663149091/website/Hardloop/looking-for-wild-short-technique-short-escalade-homme.jpg
+    alt_text: Short d'escalade homme
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663156921/website/Hardloop/bastien-plu-K274DDE9bIU-unsplash.jpg
+    alt_text: Grimpeuse en block en salle d'escalade
+  Image4:
+    title_Link: https://www.hardloop.fr/produit/24002-looking-for-wild-short-technique-short-escalade-femme?id_product_attribute=452879&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    title: Looking for Wild Short Technique - Short femme
+    alt_text: Short d'escalade femme
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663149091/website/Hardloop/looking-for-wild-short-technique-short-escalade-femme.jpg
+  button_2_more: false
 type: generic
 level: 1
 listMother: 2
