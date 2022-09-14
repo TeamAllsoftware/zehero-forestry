@@ -124,6 +124,15 @@ page_sections:
     alt_text: Short d'escalade femme
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663149091/website/Hardloop/looking-for-wild-short-technique-short-escalade-femme.jpg
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: 'La sélection Hardloop : Chausson d''escalade'
+  content: Découvrez la sélection by Hardloop des chaussons d'escalade. Enfilez vos
+    prochains chaussons d'escalade et grimpez avec une adhérence incroyable. Des modèles
+    parfaits la pratique de l'escalade en salle. Ils vous accompagneront dans votre
+    progression, chacune de vos ascensions en gardant un maximum de confort, de technicité,
+    de souplesse et de maintien. Découvrez les chaussons d'escalade La Sportiva et
+    Scarpa.
 type: generic
 level: 1
 listMother: 2
