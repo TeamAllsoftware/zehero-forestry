@@ -181,6 +181,34 @@ page_sections:
     title_Link: https://www.hardloop.fr/produit/4175-beal-pure-grip-magnesie?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
     alt_text: Magnésie liquide Beal
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: 'La sélection Hardloop : La sécurité'
+  content: 'Découvrez les différents accessoires de sécurité et d''assurage by Hardloop.
+    Une sélection de différents produits afin d''assurer et de sécuriser vos séances
+    en voies en indoor. Retrouvez le Grigri ainsi que le baudrier de la marque Petzl
+    ainsi que les lunettes d''rassurance YY Vertical. '
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image1:
+    title_Link: https://www.hardloop.fr/produit/28999-petzl-corax-baudrier?id_product_attribute=366523&amp;utm_source=R%C3%A9servation+aventures&amp;utm_medium=Backlinks&amp;utm_campaign=Ze+Hero
+    title: Petzl Corax - Baudrier
+    alt_text: Baudrier d'escalade Petzl
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663159070/website/Hardloop/petzl-corax-baudrier.jpg
+  Image2:
+    title_Link: https://www.hardloop.fr/produit/18544-petzl-grigri-assureur?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    title: Petzl Grigri - Assureur
+    alt_text: Grigri escalade Petzl
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663159044/website/Hardloop/petzl-grigri-assureur.jpg
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663158504/website/Hardloop/s-tsuchiya-e5Xx0A7Vbng-unsplash.jpg
+    alt_text: Mur d'escalade avec des prises et des dégaines
+  Image4:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663159045/website/Hardloop/yy-vertical-yy-classic-lunettes-d-assurage.jpg
+    alt_text: Lunettes d'escalade
+    title: Y&Y Classic - Lunettes d'assurage
+    title_Link: https://www.hardloop.fr/produit/24107-yy-vertical-yy-classic-lunettes-d-assurage?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+  button_2_more: false
 type: generic
 level: 1
 listMother: 2
