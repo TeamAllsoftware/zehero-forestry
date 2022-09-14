@@ -154,6 +154,33 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663157166/website/Hardloop/scarpa-instinct-vsr-chaussons-escalade.jpg
     alt_text: Chausson d'escalade Scarpa
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: 'La sélection Hardloop : Magnésie '
+  content: Découvrez la sélection by Hardloop des sacs de magnésie et de la magnésie.
+    Grimpez avec de la poudre de magnésie ou de la magnésie liquide afin de garder
+    la meilleure adhérence sur les prises.
+- template: ctaShop4col
+  blockBGcolor: blanc
+  Image3:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663157977/website/Hardloop/bastien-plu-rtENsUFr4Ag-unsplash.jpg
+    alt_text: Mains d'escalade magnésie
+  Image1:
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663157917/website/Hardloop/black-diamond-loose-chalk-200g-magnesie.jpg
+    alt_text: Sac de magnésie
+    title: Black Diamond Loose Chalk 200g - Magnésie
+    title_Link: https://www.hardloop.fr/produit/1167-black-diamond-loose-chalk-200g-magnesie?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+  Image2:
+    title_Link: https://www.hardloop.fr/produit/4181-beal-cocoon-clic-clac-sac-a-magnesie?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    title: Beal Cocoon Clic-Clac - Sac à magnésie
+    alt_text: Sac à magnésie Beal
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663157934/website/Hardloop/beal-cocoon-clic-clac-sac-a-magnesie.jpg
+  Image4:
+    title: Beal Pure Grip - Magnésie
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663157917/website/Hardloop/beal-pure-grip-magnesie.jpg
+    title_Link: https://www.hardloop.fr/produit/4175-beal-pure-grip-magnesie?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    alt_text: Magnésie liquide Beal
+  button_2_more: false
 type: generic
 level: 1
 listMother: 2
