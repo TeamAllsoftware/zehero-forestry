@@ -96,6 +96,13 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663147335/website/Hardloop/bastien-plu-5dEIkO7a1ko-unsplash.jpg
     alt_text: Grimpeur dans une salle d'escalade
   button_2_more: false
+- template: textarea
+  blockBGcolor: blanc
+  title: 'La sélection Hardloop : shorts d''escalade'
+  content: Découvrez la sélection by Hardloop des shorts d'escalade. Partez grimper
+    avec des shorts d'escalade résistants, présentant des renforts pour plus de robustesse.
+    Des shorts confortables afin de grimper les voies d'escalade indoor ou outdoor
+    dans les meilleures conditions. Découvrez les marques Ortovox et Look for Wild.
 type: generic
 level: 1
 listMother: 2
