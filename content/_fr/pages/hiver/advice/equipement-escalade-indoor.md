@@ -62,7 +62,7 @@ page_sections:
     image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663140666/website/Hardloop/bastien-plu-Ef_RU9j5a38-unsplash.jpg
     alt_text: 'Grimpeur d''escalade en salle '
   Image4:
-    image_href: https://www.hardloop.fr/produit/15959-patagonia-cap-cool-daily-graphic-shirt-t-shirt-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
+    image_href: https://res.cloudinary.com/deddrj0yb/image/upload/v1663140607/website/Hardloop/patagonia-cap-cool-daily-graphic-shirt-t-shirt-femme.jpg
     alt_text: T-shirt Patagonia
     title: Patagonia Cap Cool Daily Graphic Shirt - Femme
     title_Link: https://www.hardloop.fr/produit/15959-patagonia-cap-cool-daily-graphic-shirt-t-shirt-femme?utm_source=R%C3%A9servation+aventures&amp%3Butm_medium=Backlinks&amp%3Butm_campaign=Ze+Hero
