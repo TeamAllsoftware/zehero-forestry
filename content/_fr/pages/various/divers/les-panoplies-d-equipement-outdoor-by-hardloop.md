@@ -36,10 +36,14 @@ page_sections:
 - template: textarea
   blockBGcolor: blanc
   title: Les sélections d'équipements de Hardloop
-  content: 'En partenariat avec Hardloop, découvrez des panoplies d''équipements outdoor
-    sélectionnez pour vous. Vous trouverez un choix d''équipements, de vêtements et
-    d''accessoires pour diverses activités tel que le trail, le ski, le snowboard,
-    la randonnée. '
+  content: "En partenariat avec **Hardloop**, découvrez des panoplies d'équipements
+    outdoor sélectionnées pour vous. Vous trouverez un choix d'équipements, de vêtements
+    et d'accessoires pour diverses activités tel que le trail, le ski, le snowboard,
+    la randonnée.  \n**Hardloop** est une plateforme e-commerce française qui a l'ambition
+    de devenir le point de départ pour toutes les aventures en plein air. Avec près
+    de 370 marques et plus de 47000 références produits, le site propose un large
+    choix de matériel pour tous et toutes les passionné.e.s de sport outdoor, qu'ils
+    soient débutant.e.s ou athlètes de haut niveau !"
 - template: listConseils
   blockBGcolor: blanc
   service: advice
