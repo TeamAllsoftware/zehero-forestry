@@ -28,6 +28,15 @@ page_sections:
     text_button: ''
     href_button: ''
     alt_button: ''
+- template: textarea
+  blockBGcolor: blanc
+  title: Equipez vous pour l'escalade indoor
+  content: 'Equipez-vous pour l''escalade indoor avec la panoplie sélectionnez par
+    [**Hardloop**](https://www.hardloop.fr/), afin de grimper avec le meilleur de
+    l''équipement. Découvrez une sélection de vêtement conçue pour l''escalade avec
+    des t-shirts, des pantalons, des shorts afin d''être à l''aise durant vos séances
+    de grimpe. Vous pourrez également retrouver des chaussons, des baudrier, des lunettes,
+    des systèmes d''assurages ainsi que de la magnésie. '
 type: generic
 level: 1
 listMother: 2
